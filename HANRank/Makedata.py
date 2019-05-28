@@ -87,5 +87,3 @@ print('Shape of data tensor:', data.shape)
 data = data.reshape(-1,MAX_SENT_LENGTH)
 np.savetxt("./data/"+str(YEAR)+"_data.txt",data)
 np.savetxt("./data/"+str(YEAR)+"_test.txt",labels)
-
-

@@ -73,10 +73,3 @@ final = final.reset_index()
 del final['index']
 final.to_pickle('./data.pkl')
 
-
-
-
-
-
-
-

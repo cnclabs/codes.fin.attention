@@ -4,7 +4,7 @@ from gensim.models import word2vec
 import gensim
 
 #Generate Embedding Matrix of each year
-df = pd.read_pickle('../dataprocess/final.pkl')
+df = pd.read_pickle('../data.pkl')
 df['year'] = df['year'].astype(int)
 for year in range(2001,2014):
 	print(year)
