@@ -1,0 +1,529 @@
+item management s discussion and analysis of financial condition and results of operations item financial statements part iii item changes in and disagreements with accountants on accounting and financial disclosures item directors and executive officers of the registrant item executive compensation item security ownership of certain beneficial owners and management item certain relationships and related transactions part iv item exhibits  financial statement schedules and reports on form k part i item business general precision systems  inc the company or psi  is a global company that  together with its subsidiaries  delivers telecommunications solutions to service providers and corporations 
+the company offers three categories of products network based telecommunications products  customer premises equipment products  and service bureau transactional offerings 
+headquartered in st 
+petersburg  florida  the company has sales and support offices worldwide 
+on april   the company acquired substantially all of the capital stock of vicorp nv vicorp 
+vicorp provides advanced telephony and call processing solutions to customers in the americas  europe  and the asia pacific regions through its offices worldwide 
+on october   the company acquired bfd productions  inc bfd  a telecommunications service bureau that offers call processing in the united states and canada via    and local phone numbers 
+the company has chosen to use its vicorp tm brand name to sell its network based platforms and its customer premises equipment products 
+the company uses its bfd productions brand name to sell its service bureau products 
+the company s products the company s products fall into three categories network based telecommunications products  customer premises equipment products  and service bureau transactional offerings 
+the company supplies different combinations of products to each of these three categories 
+in each of the three categories mentioned above  the company has a different set of customers and uses its core technology to deliver unique solutions 
+category customer set products network based large enhanced services including calling telecommunications telecommunications cards  prepaid cards  prepaid wireless  products carriers enhanced toll free  and general purpose service nodes customer premises call centers and multimedia interactive customer equipment products customer contact service platforms that manage centers in corporations call routing  present scripted customer data on the terminals of service representatives  and provide management reporting capabilities service bureau government and fully automated telephony based transactional corporations enhanced services offerings network based telecommunications products the company s two primary network based telecommunications products are an enhanced calling suite  consisting of calling cards  prepaid cards  and prepaid wireless  and enhanced toll free routing 
+enhanced calling suite 
+the company refers to its enhanced calling suite as lydian tm 
+in a typical lydian calling card installation  the carrier would ask their calling card customers to dial a toll free number or in the united states  standards vary per country internationally and enter a secured personal identification number pin to make calls 
+these toll free calls would be routed to a lydian platform where the pin would be processed and the customer would be allowed to make outgoing calls 
+typically  calling card users are billed at month end for all of the usage they incur during the month 
+lydian also supports prepaid calling for callers with limited credit associated with specific pins 
+these prepaid customers pay in advance for long distance calling  and they are allowed to use their account until the advance payment is exhausted 
+the lydian prepaid calling card application is available to wireline and wireless telecommunications companies 
+lydian is designed with built in flexibility 
+this allows telecommunications carriers to easily modify menus and prompts using the company s graphical service creation environment see quickscript under the middleware section below 
+in addition  configurable options in lydian let carriers add enhanced features  such as project accounting codes and special pricing promotions 
+enhanced toll free routing 
+the company s enhanced toll free routing application allows telecommunications carriers to tailor toll free freephone services to the needs of their customers 
+in a typical example  a caller to an enhanced number might be asked to press one to go to sales or two to transfer to the service center 
+the company has been a pioneer in the field of enhanced toll free services with its first installations at mci and ldds worldcom in in  four of the five largest long distance carriers in the united states used the company s technology in some portion of their enhanced toll free solution 
+customer premises equipment products the company s intelligent call center solution encompasses a range of features and functionality designed to fit customer service needs 
+the company s vaccs tm product is its call center offering 
+vaccs manages call routing and matches the call to information from the corporate data warehouse  which can be presented on the screen of the customer service representative 
+the vaccs product also can perform intelligent skill based routing  and can handle distributed call centers and remote agents 
+the company offers a range of call center options  up to a fully integrated multimedia call center solution 
+the company s call center solutions are used in the financial  insurance  airline  retail  telco  and service bureau industries 
+the benefits of the company s intelligent call center solutions include reduced training costs  streamlined maintenance activities  system wide performance tracking  system expandability  intelligent call transfer to attendants  and more self serve features for callers freeing up human and system resources 
+vaccs uses the company s graphical service creation environment  quickscript  with a call center specific scripting library 
+this enables the creation of inbound  outbound  cti  agent assist  and ivr services from one single environment 
+the flexibility of quickscript allows companies to easily develop custom scripts for their agents 
+two key components of the vaccs product  its software automated call distribution and agentstation  are described below 
+software automated call distribution acd skill based routing 
+this product provides automatic call routing to certain individual s in a bank of customer service representatives who either handle specific accounts  are an expert in a specific area  or have skill sets necessary to process the call 
+agentstation 
+agentstation presents any necessary information about the call to the terminal of the customer service agent 
+this information might include data entered by the caller  such as an account number  and or data retrieved from a corporate database  such as account history 
+this allows the customer service agent to modify the conversation according to the customers and their needs 
+service bureau transactional offering the company s third product category  its service bureau  is sold through its bfd productions  inc subsidiary 
+bfd sells   and services directly to corporations and other entities 
+bfd s customers include government agencies and large software entertainment companies who use bfd to provide video game hint lines 
+bfd offers custom applications to customers  but it has also developed a suite of standard products that customers can select 
+these standard products include info line lead generator 
+this application can provide product or service information to callers  and allows the callers to leave addresses to receive more information 
+teleconferencing digital playback 
+the basic form of this application digitally records conference calls while they are in progress 
+later  the conference can be played back for review 
+dealer locator 
+this application uses the caller s area code which is captured with automatic number identification and locates the nearest retailer in the caller s geographic region 
+tele survey agent testing 
+this application conducts automated surveys  testing  and other related applications 
+results are available immediately for analysis 
+credit card transactions 
+bfd has the ability to process credit card transactions over   and internet so they can be incorporated into any type of application 
+polling 
+polling applications  which usually ask simple yes or no questions  are very prevalent within the television and cable markets and demand higher capacity call capability  which bfd can offer 
+fundraising 
+bfd s fundraising applications generated  minutes in broadcast fax 
+bfd can deliver up to  simultaneous faxes 
+authorized access pin codes 
+by encoding parameters within personal identification numbers  access to an application can be controlled 
+extensive tracking is also available 
+voice messaging agent alert 
+these products provide instantaneous up to date information via pagers  telephones  fax machines  and computers 
+summary of products as mentioned earlier  the company s products are segmented into three main categories network based telecommunications products  which include lydian enhanced calling and enhanced toll free routing  customer premises equipment products consisting of the vaccs tm suite of call center applications  and service bureau transactional offerings that include info line lead generator  teleconferencing digital playback  dealer locator  tele survey agent testing  credit card transactions  polling  fundraising  broadcast fax  authorized access pin codes  and voice messaging agent alert 
+component technologies underlying all of these products are telephony platforms that have three key components applications  middleware  and hardware 
+applications are software programs that provide specific product capabilities such as prepaid calling features  from basic telephony building blocks provided by the middleware 
+the middleware is a software layer between the applications and the underlying computer operating system 
+middleware adds telephony features  such as switch control  to these operating systems 
+the hardware  and its associated operating system  are industry standard  non proprietary solutions from third parties 
+this underlying platform infrastructure can be illustrated through the use of an example 
+the table below shows a typical lydian prepaid platform 
+component technologies example explanation application lydian prepaid calling software that combines basic telephony features provided by the middleware into sophisticated end user features 
+for prepaid calling this includes rating  card management  and call dialogues 
+middleware quickscript  betex tm esp adds basic telephony features  such as switch control  to an industry standard operating system  such as unix r 
+hardware server the tandem nsk  or unix computer  that runs the software middleware and application 
+the software is the brains that tells the other components what to do 
+vicorp voice response units provides interactivity with the user  stores voice prompts  and recognizes user key strokes 
+programmable switch server connects platform to the telephone network 
+middleware components middleware adds telephony control features to the basic features provided by industry standard operating systems and hardware 
+the company uses several different variations of its middleware depending on the exact needs of the customer and the application 
+the company s middleware solution is its betex tm enhanced services platform esp 
+the betex esp middleware provides application processing functions  controls matrix switch resources  and controls voice media resources in a service node architecture 
+middleware software includes network and device driver layers  an open application programming interface  and a sql database for storing service data such as application scripts and user profiles 
+the betex esp platform offers o a co processing architecture supporting scalable  modular growth o the ability to run multiple services on a common software and hardware platform o support for integrated voice  data  and multimedia applications o the ability to develop and integrate advanced consumer features with advanced customer service interfaces using a single service creation environment o support for more than different languages o support for ss  isdn national and international standards  e  t  and r signalling betex esp applications are built using quickscript  a graphical service creation environment for building applications and creating automated call dialogues 
+quickscript s capabilities can be easily expanded using c or c to write custom quickscript icons 
+quickscript allows for prototyping and rapid application development of betex esp services 
+the company s lydian enhanced calling suite and the vaccs call center solution were both built using quickscript 
+customers using these products often utilize quickscript to build customized versions of the products 
+the customers can perform the customization themselves  but in many cases they rely on the company s integration and development expertise to build the final application 
+customers also use the company s middleware as a starting point for creating their own applications 
+some of these customers rely on the company s application and telephony expertise to build their custom applications 
+others purchase the company s middleware and build the applications themselves 
+the company s uniport r middleware product provides an environment for creating a multi application call processing platform that can be integrated into existing telephony networks 
+using uniport  the company s customers can build applications using an application programming interface 
+hardware components in addition to applications and middleware  the third component to the company s platforms is the hardware 
+the hardware has three elements a telephony network interface  voice response units vrus  and a server 
+the telephony network interface in many of the company s applications is provided by a programmable switch from either summa four or excel switching 
+this switch provides highly reliable  large scale interconnections at a cost effective price point 
+however  as circumstances require  the company utilizes vrus to connect directly to the network  or develops interfaces for connecting to a customer s existing switch hardware 
+the vrus  which are produced by the company  provide many of the enhanced features of the company s solution platforms 
+they play and record prompts  detect dtmf tones  and can even receive send faxes or perform voice recognition 
+the vrus incorporate industry standard hardware  including pentium processors and standard backplanes 
+the company s vrus are available in high availability configurations that include redundant  hot pluggable power supplies and disk drives 
+the servers in the company s platforms run the actual application code 
+they contain the instructions that tell the programmable network interfaces and vrus what to do what prompts to play  when to record input from callers  and where to route the calls 
+they can also act as application processors 
+the exact configuration depends upon the demand of the application 
+the company supports servers that run unix and fault tolerant servers  such as nonstop servers from tandem 
+markets the market for the company s products has grown primarily due to worldwide changes in the telecommunications industry 
+these changes include legislative reforms  mergers  acquisitions  alliances  and a convergence of previously segmented technologies 
+the global trends in telecommunications continue to promote the use of enhanced services as a way for companies to differentiate themselves from competition and possibly generate additional revenue 
+in addition  companies in diverse industries worldwide are seeking ways to improve customer service functions to expand their markets  sell more products or services  and improve efficiency 
+the global markets for the company s products include private and public telecommunications operators  rbocs  and wireline and wireless carriers  and large corporate virtual private networks with an emphasis on the financial  insurance  retail  transportation  and service bureau industries 
+an emerging class of carriers  the competitive local exchange carriers clecs  is providing new markets for the company s products  while increasing the market s interest in services that lead to differentiation 
+it is the company s opinion that the convergence of technologies such as the internet  computers  cable  and telephony will produce positive conditions for expanded deployment of enhanced services and call centers 
+telephone companies typically need large capacity call processing systems that adhere to stringent engineering requirements for telephone company central office switching equipment 
+the company s platforms have been designed to meet these requirements 
+this market typically involves long sales cycles 
+the company also markets its products through companies with which it has partner relationships 
+see sales  customers  backlog  and partner relationships 
+the market for bfd s service bureau transactional offerings is currently the united states and canada and is focused primarily on government  quasi governmental agencies  and business corporations primarily software and technology companies 
+the growth in automated free and fee based customer support in the computer software game industry  the information technology market  the tourism industry  and the entrepreneurial market has increased the demand for bfd s service bureau services 
+the us market the telecommunications act of has changed the landscape of the communications industry in the united states 
+this legislation allows vendors in different industries eg cable to compete outside of their traditional service offerings thereby increasing competition 
+with service providers looking for ways to become more competitive  the capability to add new services and enhancements for their customers has become a priority 
+the company believes that its products enable service providers to offer enhanced telecommunications services 
+another factor affecting the us market is the continued development of the wireless network infrastructure 
+the projected growth of the wireless market and the associated demand for additional technologies is expected to create continued demand for enhanced telecommunication services 
+the company s call center solutions that have had success in international markets are suitable for introduction into the us market 
+according to industry sources  the installation of call centers in the us is growing rapidly especially in the financial services  telecom  technical support  and retail banking sectors 
+the company believes that many companies view call centers as a strategic business asset  as opposed to a back office function  replacing the face to face customer service that many companies can no longer afford to offer 
+the company considers its expertise and experience in developing and delivering solutions for call centers internationally as a major benefit for introducing this solution in the united states 
+the international markets as in the us market  changes in national legislation  mergers  acquisitions  alliances  and technology convergence have created new companies that are offering enhanced communications services to their corporate and consumer markets in order to differentiate themselves from their competition 
+in  a new international general agreement on trade and tariff gatt treaty was passed that the company believes will lead to deregulation of over percent of the world s telecommunications markets 
+the fcc has forecasted that this treaty will lead to an percent drop in international telecommunications rates 
+based on information released by the clinton administration in  the company believes that this increased deregulation will open markets worldwide 
+however  just as is the case with the us telecommunications act of  the impact of gatt will occur gradually over the next two to five years with the rate of change differing by country 
+international growth trends for the company are projected to be in wireline and wireless applications and advanced call center applications 
+see partner relationships and sales 
+european region the european union targeted january   as the date that member countries will open their markets to competition 
+some countries  most notably the united kingdom  finland  and sweden have shown more aggressive moves to open their markets 
+other countries moving in the direction of more liberal deregulation  albeit at a slightly slower pace  include germany and denmark 
+currently  the company is focusing its marketing efforts toward the western european countries 
+asia pacific region in the asia pacific region deregulation is being introduced in varying degrees 
+some countries within the asia pacific region have restructured their state owned monopolies and invited competitors into their markets 
+developing countries in the process of building out their telecommunications infrastructures have found that one of the primary factors for success is capital investment 
+these infrastructure investments often come from outside interests  including many western companies with expertise and experience in setting up asia pacific telecom companies 
+the wireless marketplace in asia pacific is a hotbed of activity and competition 
+in  the company had several successes in the asia pacific wireless market  including its first prepaid wireless product sale part of the lydian application suite 
+prepaid wireless is expected to be an important application for the company 
+latin america region in latin america  the company is primarily marketing in brazil  chile  and argentina 
+these countries are in various stages of deregulation and have taken steps towards privatization of their telephone networks 
+competition the worldwide telecommunications industry is highly competitive 
+the company believes that its main strengths include its worldwide reach  the flexibility of its solutions  its network grade platforms  and its innovative approach 
+in addition  the company is committed to ongoing research and development r d efforts to strengthen existing products and develop new products 
+the company views its r d efforts as essential to maintaining a competitive position in the industry 
+see research and new product development 
+worldwide reach the company s worldwide reach includes product support for international languages and interconnection standards  as well as the company s international sales and support organizations 
+flexibility the flexibility of the company s products  as embodied by its quickscript service creation environment  allows its customers to develop custom applications that are built on the core of a reliable product 
+network grade the company s customers have looked for highly reliable products  and the company s network grade approach is apparent from the reliability of its software to the fault tolerant tandem servers that are available options in the company s platforms 
+innovative the flexibility of the company s solutions allows its customers to build custom solutions that address their emerging business needs 
+furthermore  since the company uses open  off the shelf hardware  not proprietary solutions  the company is able to adapt its platforms to keep up with emerging technology 
+it is the company s view that the deregulation underway or proposed in many countries will continue to increase the opportunities for expansion of markets for the company s products 
+competitors the company believes its primary worldwide competition for vicorp to be brite voice systems  centigram  comverse technology  digital equipment corporation  early cloud  ericsson  genesys  ibm  ima  glenayre  intellivoice  intervoice  magellan  nortel  octel  periphonics  priority call management  rockwell  siemens  stratus  tecnomen  telsys  and unisys 
+there are also business opportunities that the company pursues in partnership with some of these same companies  either directly or through channel sales 
+see sales 
+the company believes its primary united states and canadian competition for bfd in the telco market to be ameritech  at t  mci  sprint  pacific bell  and in ivr call centers to be call interactive  sheerers  icg  icn  ideal dial  infoworks  and west interactive 
+the company expects to continue to face substantial competition from existing and new competitors including other companies with considerably greater financial  technical  marketing and sales resources 
+the company also anticipates that a number of its competitors will be introducing new or enhanced products during the next several years 
+sales the company principally markets to the telecommunications and call center industries through direct sales and through business partners  including international telecommunications and computer equipment providers 
+the company currently utilizes both a direct sales force and technical sales support professionals  each of whom has technical expertise to explain the operating and architectural advantages of the company s products 
+in addition  the company has signed joint marketing and teaming arrangements with leading telecommunications equipment manufacturers including tandem computers  inc  and hewlett packard 
+basic terms of these agreements include a one to three year non exclusive arrangement whereby the company licenses its software for integration into these companies telecommunications products 
+in addition  such agreements may require joint sales and marketing efforts and an open exchange of information regarding potential customers and technology developments 
+the company s original equipment manufacturers oem partners program enables telco manufacturers to augment their current product offerings by incorporating the company s applications into their own enhanced services platforms 
+the company s oem teams work with its telco partners to determine program goals  application strategy  market positioning  and program support requirements 
+applications may be delivered via the company s middleware solution or through oem specific apis 
+basic terms of these agreements include a one to three year non exclusive arrangement whereby the company licenses its software for integration into these companies telecommunications products 
+in addition  such agreements may require joint sales and marketing efforts and an open exchange of information regarding potential customers and technology developments 
+in  the company s oem partners include motorola  northern telecom  and summa four  inc bfd primarily markets to high technology  software  telecommunications and call center industries 
+customer support the company services and supports its customers through customer service centers cscs that monitor customer systems and provide first level telephone support for customer deployed systems 
+the cscs also have service engineering and field engineering resources that can be dispatched for additional levels of in field support 
+a configuration management group provides periodic software releases and updates 
+additionally  the company provides customer and employee training  as well as documentation for all installed systems 
+for those carriers whose product installations require more extensive system integration  the company offers product support through local offices in north america  europe  and the asia pacific region 
+the company s teams of experienced software and network engineers are available to assist customers with application development  deployment  and system maintenance 
+the company s products are generally covered by three month to one year warranties 
+such warranties include parts and labor and support for software and hardware components supplied by the company to its customers 
+warranty service is provided at the customer s site or from one of the company s service locations 
+generally  the company recovers such costs through post installation customer support agreements 
+see customers 
+bfd provides x support hours per day  days per week to its customers through customer service professionals  a team of project managers  and after hours on call personnel 
+customers during the year ended december   the four months ended december   and the year ended august   mci and the home shopping network hsn combined represented approximately percent  percent  and percent  respectively  of the company s revenue 
+historically  the company primarily sold customized esp products and provided support services to mci and hsn 
+during the year ended december   and the four months ended december   revenue generated by esp product sales to mci was and  respectively  as compared to  and  respectively  for the years ended august  and service and support revenue from mci and hsn was  and  respectively  for the year ended december   and the four months ended december   as compared to  and  respectively  for the years ended august  and the company continues to market to mci and expects to generate revenue from this source 
+however  there is no assurance that any such negotiation will result in an order from mci 
+the company does expect to continue providing mci with service and support for their esp products 
+uniport sales represented approximately percent  percent  and percent  respectively  of the company s revenue for the year ended december   the four months ended december   and the year ended august  customers include large multinational telecommunication service and equipment providers  both domestic and international 
+the company expects additional revenue from the sale of uniport products during betex sales represented approximately percent  percent  and percent  respectively  of the company s revenue for the year ended december   the four months ended december   and the year ended august  customers include large multinational telecommunication service and equipment providers  both domestic and international 
+the company expects the revenue generated from the sale of betex products to increase during fiscal  both in gross terms and as a percentage of total revenue for the company 
+because the vicorp acquisition was accounted for as a purchase  the company s consolidated statements of operations include the operations for the year ended august   of vicorp from the acquisition date of april   through august  service bureau sales represented approximately percent and percent  respectively  of the company s revenue for the year ended december   and the four months ended december  customers include governments  quasi governmental agencies  and corporations 
+the company expects service bureau revenue to increase during because the bfd acquisition was accounted for as a purchase  the company s consolidated statements of operations include the operations for the four months ended december   of bfd from the acquisition date of october through december  backlog the company s backlog  including service and support agreements  at december   was approximately  compared with approximately  at december  such amounts include all purchase orders and signed contracts with scheduled shipments and deliverables 
+manufacturing product audit the company s manufacturing product audit operations consist of integrated testing and quality assurance 
+in order to achieve a high standard of quality  the company maintains complete control of integrated quality assurance testing 
+sub assemblies  supplied by local vendors  are frequently tested 
+the company strives to use standard parts and equipment for many of its products that are readily available through multiple external sources 
+to date  the company has been able to obtain adequate supplies of essential components in a timely manner 
+approximately  square feet of space at the company s  square foot headquarters building is dedicated to system testing  quality control  inventory storage  and other assembly activities 
+research and new product development the company has consolidated its research and new product development efforts into two main areas o the product development group is responsible for product enhancements that will generate revenue over the to month life cycle of each product 
+each release represents a continuum of product updates and improvements designed to extend and enhance the comprehensive life of the product 
+o the core products group is responsible for long term development of value added tools and subsystems to enhance solutions packages such as telecommunications enhanced services and customer connect 
+in addition to active research and development  the company also integrates external technology within its platforms 
+during the past year  the company has integrated new switches  processors  and communications equipment 
+part of the company s research and development activities also include ongoing efforts to keep abreast of technical developments in the industry 
+this is a crucial factor in keeping the company in step with current and emerging trends as customers require the integration of solutions and network standard technology 
+during the year ended december   the four months ended december   and the fiscal years ended august  and  the company spent approximately million  million  million  and million  respectively  on research and development activities 
+product protection the company relies on a combination of trade secret  copyright  trademark and patent laws  licenses  non disclosure agreements  and technical measures to protect its rights in its products 
+however  there can be no assurance that these measures will fully protect the company from the wrongful disclosure or misappropriation of its proprietary information or rights 
+technology licenses the company acquires licenses from third parties for certain components used in its middleware 
+standard operating system software utilized in the company s products is licensed from various manufacturers 
+the company  in turn  assigns or sub licenses the rights granted by these third parties to the company s customers as part of the software license that accompanies the sale of the product 
+employees as of march   the company employed people on a full time basis and people as independent contractors 
+the company believes that its future growth and success are dependent  in large part  upon its ability to continue to attract and retain highly qualified personnel 
+the company believes that it offers attractive compensation packages  including competitive salaries  bonus programs  and health benefits 
+there has never been a work stoppage  employee relations are considered to be excellent 
+none of the company s employees are represented by a labor union 
+item properties the company s worldwide headquarters consists of approximately  square feet in st 
+petersburg  florida usa  that includes administrative  research  engineering  assembling  and marketing functions 
+this property was acquired in november in addition  the company leases approximately  square feet in campbell  california for sales  research  and engineering  approximately  square feet in boston  massachusetts for sales  research  engineering  and marketing  approximately  square feet in ratingen  germany for sales  research  and engineering  approximately  square feet in utrecht  the netherlands for sales  marketing  and administrative  and approximately  square feet in las vegas  nevada for sales  research  engineering  marketing  and administrative 
+in addition  in the company maintained other offices in dallas  texas  san antonio  texas  lajolla  california  new york  new york  brussels  belgium  copenhagen  denmark  stockholm  sweden  helsinki  finland  windsor  united kingdom  paris  france  madrid  spain  milan  italy  and singapore 
+item legal proceedings the company is subject to certain legal proceedings in the ordinary course of business 
+the discussion below summarizes the most material of such proceedings 
+in the opinion of management  these and other legal proceedings will not have a material adverse effect on the operations or the financial condition of the company 
+rachael lefkovits v 
+hector acalde  bert kolde  kwang i yu  willem huisman  ian dalziel  francis r 
+santangelo  and precision systems  inc on march   a class action lawsuit was filed in the court of chancery of the state of delaware in and for new castle county  alleging breach of fiduciary duty by the directors of precision systems  inc in regard to the exchange transaction proposed by speer communication limited partnership and speer virtual media limited partnership 
+the complaint alleges  in part  that because the majority shareholders of the company rms  alta  and vulcan will benefit from the proposed transaction  and that because the proposal indicates that directors will be assured of continuation in office  that the directors cannot  therefore  fairly and independently act upon the proposal in the best interests of all public shareholders 
+the complaint seeks preliminary and permanent injunctive relief  as well as compensatory damages 
+the company believes these claims to be without merit and will vigorously defend 
+intervoice  inc v 
+precision systems  inc 
+and vicorp interactive systems  inc on april  intervoice  inc 
+intv filed suit against the company in the federal district court for the northern district of texas dallas alleging infringement of various us patents owned by intv and false advertising 
+the parties settled this lawsuit on december  under the terms of the settlement  all counts were dismissed with prejudice  and the company is licensed to sell systems that practice the intervoice patents 
+the patents relate to the implementation of applications and services in the intelligent network architecture that are capable of providing dual intelligent peripheral and service node functionality 
+the intervoice patents covered by the license are us patents   and  the settlement has no material adverse financial impact on the company 
+daniel schultz v 
+precision systems  inc et al 
+on december   following the dismissal of his federal court action alleging similar claims  daniel schultz  a holder of vicorp shares and options  filed a three count complaint against the company  russell i 
+pillar  john loewenberg  alta  didier primat  primwest holding  nv  and ian dalziel  in a civil action in the circuit court of the sixth judicial circuit in and for pinellas county  florida 
+the complaint was later amended to allege seven counts 
+in counts one and two  the plaintiff alleges that the company and messrs 
+pillar and loewenberg fraudulently induced him to assist the company in its acquisition of vicorp by representing to him that he would receive an executive position with vicorp if the acquisition was successful 
+in counts three through six  the plaintiff alleges that all the defendants intentionally interfered with his prospective economic advantage and contractual relationships  and conspired to do so  by impairing his ability to exercise his vicorp options and his ability to convert his vicorp shares into shares of the stock of the company 
+in count seven  plaintiff alleges that the company and messrs 
+pillar and loewenberg breached an oral contract to employ the plaintiff in an executive position 
+the case is in discovery 
+the company has defenses and will vigorously defend 
+daniel gilbert schultz v 
+vicorp et al 
+this action was initiated in the court of first instance  curacao  netherlands antilles court  on march  the plaintiff filed a petition denominated a complaint in summary process against vicorp and alta 
+the company is not a party to this proceeding 
+in this action  the plaintiff alleged that vicorp had denied him access to the books and records of vicorp  and that alta as the then controlling shareholder in vicorp had both refused to provide him access to vicorp s records and refused to give him information on alta s negotiations with third parties for the sale of its shares of vicorp stock 
+the plaintiff further alleged that these actions impaired his ability to exercise certain put and call options that he held with respect to certain shares of the stock of vicorp 
+the plaintiff sought various court orders requiring alta and vicorp to provide certain financial data to him  to record in the vicorp share register the option he held  and to accept and pay for certain of the plaintiff s shares that were the subject of a put option 
+the plaintiff also sought an order prohibiting alta from reducing its ownership interest in vicorp 
+on may   the court dismissed all of the plaintiff s claims 
+the plaintiff appealed to the court of appeals of the netherlands antilles and aruba on june   and this appeal was dismissed on september  daniel gilbert schultz v 
+alta investissements  sa et al 
+this action was initiated in the court of first instance  curacao  netherlands antilles on april  the plaintiff filed a petition denominated a petition on an abbreviated term against alta  the company  and vicorp 
+in his petition  the plaintiff sought a court order nullifying both the transfer by alta to the company of alta s shares of vicorp stock and the transfer by the company to alta of certain shares of the company s stock  both of which transfers were carried out pursuant to the share exchange agreement between the company and alta dated april  the plaintiff alleged that insufficient notice was given to him of a vicorp shareholders meeting at which a resolution approving the share exchange was adopted  and that consequently the defendants breached a duty of good faith towards him 
+the plaintiff seeks court orders annulling the two share transfers  and prohibiting vicorp from acting on any instructions received from the company 
+the court has ruled in favor of the defendants and dismissed all the plaintiff s claims 
+the plaintiff s time to appeal has expired without an appeal being taken 
+daniel gilbert schultz v 
+vicorp france sa et al 
+this action was initiated in the french labor court the conseil de prud hommes on march  the plaintiff filed claims against both vicorp france sa and vicorp asia holding arising out of his employment relationships with companies in the vicorp group 
+the company is not a party to this proceeding 
+the plaintiff has alleged that the two defendants are liable to him  under provisions of french law  for damages for dismissal without real and serious cause  for damages for abusive indemnity  for dismissal indemnities  and for a paid vacation indemnity 
+the french labor court dismissed the plaintiff s claims  and the plaintiff has appealed 
+under the terms of the share exchange agreement between the company and alta  alta has agreed to indemnify the company and vicorp against any damages or liability imposed against vicorp in connection with this action 
+claim of robert maube 
+on march   mr 
+maube  a former employee of vicorp nv  initiated an action in the labour court of brussels  belgium  against the belgian  dutch and swiss subsidiaries of vicorp nv in the action  mr 
+maube is seeking  belgian francs approximately  in connection with the termination of his employment 
+such amount includes claims for gross payments as indemnity in lieu of notice  holiday payments  year end premium payments  damages for an alleged abusive dismissal  additional compensation and a prorated bonus 
+mr 
+maube has requested the court to set a briefing and oral argument schedule  but no such schedule has yet been established 
+the company has defenses and will defend vigorously 
+item submission of matters to a vote of securities holders none 
+part ii item market price of and dividends on the registrant s common stock and related stockholder matters high low from january   to march  from april   to june  from july   to september  from october   to december  high low from september   to november  from december   to february  from march   to may  from june   to august  from september   to december  the company s common stock trades on the nasdaq stock market s national market sm under the symbol psys 
+the nasdaq stock market s national market or nasdaq is a highly regulated electronic securities market comprised of competing market makers whose trading is supported by a communications network linking them to quotation dissemination  trade reporting  and order execution systems 
+the company s closing trading price was on march  the total number of shareholders of record as of december   was approximately  the company has paid no cash dividends on its common stock to date 
+any payments of future dividends and the amounts thereof will be dependent upon the company s earnings  financial requirements  and other factors deemed relevant by the board of directors 
+the terms of the company s series a and series b preferred stock precludes the declaration of dividends on common stock for so long as dividends and any interest accrued on unpaid dividends with respect to such preferred stock remain unpaid 
+on july   rms limited partnership  the sole owner of the company s class b common stock  elected to convert all of its class b common stock into an equal number of shares of the company s common stock 
+the class b common stock converted was retired and is not subject to reissue 
+item selected financial data precision systems  inc is a global company that  together with its subsidiaries  vicorp nv and bfd productions  inc  delivers telecommunications solutions to service providers and corporations 
+vicorp s software and hardware products support enhanced calling and prepaid services  toll free services  and advanced call center applications 
+bfd productions is a service bureau specializing in audiotext and internet applications 
+headquartered in st 
+petersburg  florida usa  precision systems meets the needs of customers in more than thirty countries 
+as discussed in note to the consolidated financial statements  on september   the company elected to change its year end from august to december this change was effective december  the selected historical financial data for all fiscal years presented has been derived from the audited financial statements of the company 
+this historical data may not necessarily reflect the results of operations or financial position had the company been a separate stand alone company for the year ended august  the company s historical revenue and net loss activity has shown significant fluctuations due primarily to the company s reliance on a limited customer base and to the large amount of funds expended on research and development activities 
+four year months ended ended december  december  years ended august  statements of operations revenues       loss from continuing operations       net loss       basic and diluted loss from continuing operations per share 
+
+
+basic and diluted net loss per share 
+
+
+balance sheet data at year end net working capital       total assets       long term debt    stockholders equity       the net loss of  for the year ended december   includes intangible asset write downs of  and restructuring charges of  associated with certain office closings and employee related layoffs 
+the net loss of  for the year ended august   includes large write offs for purchased in process technology relating to the vicorp acquisition  goodwill write down  and certain restructuring charges 
+the net loss for the year ended august   decreased dramatically when compared to the year ended december   due to higher revenue streams from both the uniport and the esp products and to successful efforts by the company to manage and control costs 
+the net loss of  for the year ended august   includes the effects of the company s changing its estimated average useful lives used to compute depreciation for its computer equipment from five to six years to three years 
+the effect of this change in estimate was to increase the company s net loss by approximately  or 
+per share 
+the change did not affect cash flow 
+basic and diluted net loss per share is based upon the weighted average common and common equivalent shares outstanding 
+the diluted net loss per share calculation does not include stock options  convertible securities and warrants  which are common stock equivalents  as their inclusion would be anti dilutive 
+item management s discussion and analysis of financial condition and results of operations in july  hsn purchased and retired percent of the issued and outstanding stock of precision software  inc  which was originally purchased by hsn for the technology it created to support voice response units developed for use in the operations of home shopping club  inc  a wholly owned subsidiary of hsn 
+the company s name was subsequently changed to precision systems  inc this original product line was the predecessor to the esp 
+in june  the company was awarded a contract for approximately  by mci to adapt the esp for use in the carrier s long distance network 
+the contract was subsequently amended to increase the contract price to approximately  on july  the distribution date  hsn distributed percent of the stock of precision systems  inc  to its existing shareholders on a pro rata basis 
+during  the company s business strategy included focusing on core products and technologies  developing strategic business relationships with several international telecommunications and computer equipment providers  improving marketing and sales efforts  and realigning cost structures to improve cash flow 
+the company also pursued opportunities for additional growth through acquisitions and or strategic investments 
+the company acquired vicorp and bfd during since the vicorp and bfd acquisitions were accounted for as purchases  the company s statements of operations include the operations of vicorp since its acquisition date in april  and the operations of bfd since its acquisition date in october therefore  the company s past financial performance should not be considered a reliable indication of future performance 
+a number of uncertainties exist that could have an impact on the company s future operating results  and financial condition including o the company competes in an industry marked by frequent technological changes which will force the company to expend funds to develop new products and implement new technologies 
+o the various markets into which the company sells its products are undergoing significant changes with increasing demands for product innovations 
+o the company must be successful in competing against many competitors  many of which have significantly greater financial  technical  marketing  and sales resources than the company 
+o the company will be required to properly estimate costs under fixed price contracts 
+o increased risk of litigation in the company s industry resulting from aggressive prosecutions of intellectual property claims 
+o the company s ability to retain its larger customers  including mci 
+o availability of certain hardware and software components which are incorporated with the company s products and are purchased from a limited number of vendors 
+o the company s ability to hire and retain qualified personnel 
+o legislative changes affecting the company s markets  including the telecommunications act of o given the company s acquisition of vicorp and its large presence in international markets  regulatory  monetary and inflationary factors can negatively impact the company s operations in the future 
+o the company s reliance on large sales orders that increase the risk of significant revenue fluctuations  from quarter to quarter and year to year 
+o the company s ability to generate sufficient cash  from operations or from external sources  to fund its global operations 
+see financial statements  including report of independent accountants 
+many of such uncertainties are outside the company s control and could postpone  delay  or eliminate potential sales opportunities 
+these uncertainties  therefore  can affect the company s ability to sell  deliver  and install its products in a consistent manner 
+consequently  the company s past financial performance should not be considered a reliable indication of future performance and investors should not use historical trends to anticipate results or trends in future periods 
+see financial position  liquidity and capital resources 
+fiscal years ended december  and december  unaudited total revenues total revenues increased to  in fiscal compared to  in fiscal the various components of revenue fluctuated as explained below contract revenue contract revenue decreased to  in fiscal compared to  in fiscal the decrease is primarily due to certain esp product sales to mci completed in which did not recur during the same period in offsetting the overall decrease in esp product sales is an increase in contract revenues associated with vicorp s betex products of  in fiscal compared to  in fiscal since the vicorp acquisition was accounted for as a purchase  the company s consolidated statements of operations include the operations of vicorp since the acquisition date in april the company expects the revenue generated from the sale of betex products to increase during service and support service and support revenue increased to  in fiscal compared to  in fiscal service and support provided to mci decreased to  in fiscal compared to  in fiscal while total maintenance revenue increased due to additional mci esp equipment that is subject to the company s maintenance services  the overall decrease is due to certain non recurring development projects delivered to mci which occurred in fiscal service and support provided to hsn decreased to in fiscal compared to  in fiscal the company s hsn maintenance agreement ended december  service and support revenue for vicorp betex products was  in fiscal compared to  in fiscal vicorp s service and support revenue includes maintenance and custom development services provided to its customers 
+service and support revenue for bfd was  in fiscal compared to  in fiscal since the bfd acquisition was accounted for as a purchase  the company s consolidated statements of operations include the operations of bfd since its acquisition date in october bfd s service and support revenue primarily includes interactive voice response service bureau activity 
+license fee revenue license fee revenue increased to  in fiscal compared to  in fiscal license fee revenue for fiscal  relating to its betex product line  was  and  for the uniport product line 
+the primary reason for the increase in license fee revenue for fiscal relates to a higher level of betex products sold in the american and european markets versus prior periods 
+the company anticipates generating future license fee revenue for its uniport and betex products  although no assurance can be given for such future revenue 
+cost of sales and gross margin cost of sales increased to  in fiscal compared to  in fiscal additionally  the company s gross margin increased to  percent of revenue in fiscal compared to  percent of revenue in fiscal the primary reason for the increase in the company s gross margin dollar amount is an increase in the company s total revenue 
+the decrease in the company s gross margin percentage is primarily associated with a change in product mix 
+a greater portion of the company s revenue in fiscal related to lower margin service and support services versus the same period in selling  general and administrative expenses selling  general and administrative expenses decreased to  in fiscal compared to  in fiscal the decrease is primarily due to the company s efforts at managing and controlling costs in order to improve the alignment of cost outlays against potential revenue opportunities 
+specific cost savings include the following o in the us market  the company decreased its payroll and related costs due to consolidation and elimination of certain functions ie  sales and marketing  product management  customer service  which generated approximately  in savings 
+o the company improved its controls and accountability for use of third party professional vendors legal  public relations  management consultants  etc  which generated approximately  in savings 
+o the company had a marketing partnership in where the partner helped fund approximately  of the company s marketing 
+in addition  the company had a more targeted marketing approach in that allowed for a reduction in broad based advertising and tradeshow expenditures of approximately  o the company reduced its bad debt expense by approximately  due to improved results of receivable collection efforts 
+o although the company has separate restructuring charges in both and  the most recent year s charges were  less than due to a smaller number of headcount reductions 
+o the company eliminated certain lab and development equipment  which reduced the related maintenance contract expense by approximately the decrease in selling  general and administrative expenses is offset by the increase relating to the acquisition of bfd 
+selling  general and administrative expenses associated with the acquisition of bfd was approximately  in fiscal compared to  for the period in that bfd was included in the company s consolidated statement of operations 
+research  engineering and development research  engineering and development expenses increased to  in fiscal compared to  in fiscal the increase in research  engineering and development expenses primarily relates to further development work associated with the company s betex product 
+resources will continue to be directed toward product improvements and enhancements for future purchased releases of the company s products 
+the company believes it operates in a highly competitive market  and  in order to maintain a competitive position  the company s existing products must be continually improved and new products must be developed 
+the amount and timing of future research  engineering and development expenditures will depend upon  among other factors  future new contract revenue and the company s ability to fund these costs from future operating cash flow and bank or other forms of financing 
+depreciation and amortization depreciation and amortization increased to  in fiscal compared to  in fiscal the increase is primarily due to amortization expense associated with intangible assets acquired with the vicorp and bfd acquisitions 
+purchased research and development purchased research and development expense of  in fiscal represents the purchase price allocation to in process research and development acquired through the company s acquisition of vicorp 
+impairment of intangible assets in  the company reevaluated the recoverability of its recorded intangible assets associated with its acquisitions of vicorp and bfd 
+based on a review of the expected future discounted cash flows of the company  it was determined that a permanent impairment of the vicorp and bfd associated intangible assets existed 
+consequently  the company recorded a provision of  to write off the net book value of all intangible assets associated with these acquisitions 
+in fiscal  the company reevaluated the realizability of the goodwill associated with its fiscal acquisition of the renaissance group trg 
+based on a review of the expected future discounted cash flows of trg  the company determined that a material impairment of the trg associated goodwill existed 
+consequently  a  write down of the goodwill balance was recorded in fiscal income tax expense the company uses the asset and liability method to account for deferred income taxes 
+under the asset and liability method  deferred income taxes are recognized for the tax consequences of temporary differences by applying enacted statutory tax rates applicable to future years to differences between the financial statement carrying amounts and the tax basis of existing assets and liabilities 
+the effect on deferred taxes of a change in tax rates is recognized in income in the period that includes the enactment date 
+investment gain on marketable equity securities in fiscal  the company had an investment gain of  relating to its sale of marketable equity securities 
+no such gain occurred in fiscal interest expense income in fiscal  net interest expense was  compared to  in fiscal the increase in net interest expense is primarily due to certain interest expense associated with debt assumed by the company in connection with the vicorp and bfd acquisitions 
+additionally  the company issued three promissory notes of  each in september  which bear interest at percent 
+four months ended december  and december  unaudited total revenues total revenues increased to  for the four months ended december   compared to  for the four months ended december  the primary reason for the increase in revenue was that the company acquired vicorp and bfd during since the vicorp and bfd acquisitions were accounted for as purchases  the company s statements of operations include the operations of vicorp since the acquisition date in april and the operations of bfd since its acquisition date in october the various components of revenue fluctuated as explained below contract revenue contract revenue was  during the four months ended december   compared to  for the four months ended december  the decrease in contract revenue during the four months ended december   compared to the four months ended december   is primarily due to certain esp product sales to mci completed in that did not recur during the same period in contract revenue associated with vicorp s betex products was approximately  for the four months ended december  since the vicorp acquisition was accounted for as a purchase  the company s consolidated statements of operations include the operations of vicorp since the acquisition date 
+the company expects the revenue generated from the sale of betex products to increase during contract revenue for the four months ended december   represented certain esp product sales to mci that did not recur during the same period in service and support service and support revenue increased to  for the four months ended december   compared to  for the four months ended december service and support provided to mci increased to  for the four months ended december   compared to  for the four months ended december  maintenance revenue generated from mci regarding its esp equipment increased to  for the four months ended december   compared to  for the four months ended december  the increase in maintenance revenue primarily relates to additional esp equipment delivered to mci during that is subject to the company s maintenance services 
+in addition  the company s service and support revenue relating to its software development services provided to mci decreased to for the four months ended december   compared to  for the four months ended december  the decrease is due to certain non recurring development projects delivered to mci  which occurred during the last four months of the company expects the service and support revenue generated through its relationship with mci to increase during the next year 
+service and support provided to hsn increased to  for the four months ended december   compared to  for the four months ended december  service and support revenue for vicorp betex products was  for the four months ended december  vicorp s service and support revenue includes maintenance and custom development services provided to its customers 
+service and support revenue for bfd was  from the acquisition date to december  bfd s service and support revenue primarily includes interactive voice response service bureau activity 
+license fee revenue license fee revenue for the four months ended december  was  compared to  for the four months ended december  license fee revenue for the four months ended december   relating to its uniport product line was  and  for the betex product line 
+the company anticipates generating future license fee revenue for its uniport and betex products  although no assurance can be given for such future revenue 
+cost of sales and gross margin cost of sales increased to  during the four months ended december   compared to  during the four months ended december  additionally  the company s gross margin increased to  percent of revenue for the four months ended december   compared to  percent of revenue for the four months ended december  the primary reason for the increase in the company s gross margin dollar amount is an increase in the company s total revenue 
+the increase in the company s gross margin percentage is primarily associated with a change in product mix 
+a greater portion of the company s revenue for the four months ended december   related to lower margin hardware sales compared to the four months ended december  selling  general and administrative expenses selling  general and administrative expenses increased to  for the four months ended december   compared to  for the four months ended december  the increase in selling  general and administrative expenses for the four months ended december  is primarily due to the following o selling  general and administrative expenses associated with the acquisition of vicorp was approximately  o selling  general and administrative expenses associated with the bfd acquisition was approximately  from the acquisition date to december  although overall selling  general and administrative expenses from continuing operations increased during the four months ended december   in comparison to previous periods  the company has made efforts at managing and controlling costs in order to improve the alignment of cost outlays against potential revenue opportunities 
+considering the impact of the vicorp and bfd acquisitions  the company expects its selling  general and administrative expenses will increase in the future 
+research  engineering and development research  engineering and development expenses increased to  for the four months ended december   compared to  for the four months ended december  the increase in research  engineering and development expenses primarily relates to further development work associated with the company s uniport and betex products 
+resources will continue to be directed toward product improvements and enhancements for future purchased releases of the company s products 
+additionally  the company will continue to evaluate its different product lines to maximize the impact of the research  engineering and development expenditures 
+the company believes it operates in a highly competitive market  and  in order to maintain a competitive position  the company s existing products must be continually improved and new products must be developed 
+the amount and timing of future research  engineering  and development expenditures will depend upon  among other factors  future new contract revenue and the company s ability to fund these costs from future operating cash flow and bank or other forms of financing 
+depreciation and amortization depreciation and amortization was  for the four months ended december   compared to  for the four months ended december  the increase is primarily due to amortization expenses associated with intangible assets acquired during the vicorp and bfd acquisitions 
+income tax expense the company uses the asset and liability method to account for deferred income taxes 
+under the asset and liability method  deferred income taxes are recognized for the tax consequences of temporary differences by applying enacted statutory tax rates applicable to future years to differences between the financial statement carrying amounts and the tax basis of existing assets and liabilities 
+the effect on deferred taxes of a change in tax rates is recognized in income in the period that includes the enactment date 
+investment gain on marketable equity securities for the four months ended december   the company s unrealized investment gain of  relates to its purchase of marketable equity securities 
+no such gain occurred during the same period in interest income for the four months ended december   net interest income was  compared to  during the four months ended december  fiscal years ended august  and august  total revenues total revenues increased to  for the year ended august   compared to  for the year ended august  the various components of revenue fluctuated as explained below contract revenue contract revenue was  for the year ended august   compared to  for the year ended august  the decrease in contract revenue during the year ended august   compared to the year ended august   is primarily due to lower esp product related sales to mci and to lower uniport product sales in total 
+the decrease in esp product sales for the year ended august   was due to a sale to mci for the year ended august   that did not recur in the decrease in uniport product related contract revenue  for the year ended august   compared to  for the year ended august  was due to lower customer deliveries for the product 
+contract revenue associated with vicorp s betex products was approximately  for the period from the acquisition date to august  since the vicorp acquisition was accounted for as a purchase  the company s consolidated statements of operations include the operations of vicorp since the acquisition date 
+the company expects the revenue generated from the sale of betex products to increase during service and support revenues from service and support were  and  for the years ended august  and  respectively 
+during  the company entered into a joint development agreement with mci relating to the esp 
+this agreement generated  of service and support revenue for the year ended august  in addition  beginning in  the company began earning maintenance fees on the esp products delivered to mci 
+for the years ended august  and  mci maintenance fees were approximately  and  respectively 
+service and support revenue relating to this maintenance increased for the years ended august  and  as additional esp nodes were delivered to mci and these nodes required maintenance services 
+service and support provided to hsn decreased to  for the year ended august   compared to  for the year ended august  hsn s service and support contract was renegotiated in  which resulted in a reduction of both the level of maintenance services and the revenue earned 
+uniport service and support revenue for each of the years ended august  and  was less than  such service and support revenue for uniport customers is expected to increase during fiscal as additional products  which will require maintenance support  are delivered 
+service and support revenue for vicorp s betex products was  from the acquisition date to august  vicorp s service and support revenue includes maintenance and custom software development services provided to its customers 
+license fee revenue license fee revenue was  and  for the years ended august  and  respectively 
+under the terms of the mci contract  the company charged mci a software license fee for use of its proprietary software 
+during the years ended august  and  the company recognized license fee revenue from this source of and  respectively 
+the company does not anticipate generating future license fee revenue for its esp equipment 
+license fee revenue for the year ended august   relating to its uniport product line was  and  for the betex product line 
+the company anticipates generating future license fee revenue for its betex and uniport products  although no assurance can be given that such future revenue will be generated 
+other income other income represents miscellaneous hardware  software  and service activity charged to customers 
+cost of sales and gross margin cost of sales decreased to  for the year ended august   compared to  for the year ended august  additionally  the company s gross margin increased to  percent of revenue for the year ended august   compared to  percent of revenue for the year ended august  the primary reason for the increase in the company s gross margin dollar amount is an increase in the company s total revenue 
+the increase in the company s gross margin percentage is primarily associated with a change in product mix 
+a greater portion of the company s revenue for the year ended august   related to lower margin hardware sales compared to the year ended august  selling  general  and administrative expenses selling  general  and administrative expenses increased to  for the year ended august   from  for the year ended august  as a percentage of revenue  these expenses were percent and percent for the years ended august  and  respectively 
+during the year ended august   selling  general  and administrative expenses increased for several reasons o the company increased its sales and marketing force in order to generate additional revenue opportunities 
+o the company increased its advertising and trade show expenditures by approximately  in order to increase market awareness of the company s products and to announce the vicorp acquisition 
+o the company increased its bad debt reserve by approximately  during the year ended august   relating to uncollectible receivables 
+o selling  general and administrative expense in connection with the acquisition of vicorp was  from the acquisition date to august  o as of august   the company accrued  in restructuring charges the restructuring  which relate primarily to termination benefits  including severance pay 
+the total number of employees terminated was approximately during the year ended august   the company s selling  general and administrative expenses were impacted by the following o the company continued managing and controlling costs in order to improve the alignment of cost outlays against potential revenue opportunities 
+o the company renegotiated all major maintenance agreements for its development and test facility  thereby generating approximately  in savings 
+o the company improved its controls and accountability for use of third party professional vendors legal  public relations  management consultants  etc  which generated approximately  in savings 
+considering the impact of vicorp operations  the company expects that its selling  general and administrative expenses will increase in the future 
+research  engineering  and development research  engineering  and development expenses increased to  for the year ended august   compared to  for the year ended august  as a percentage of revenues  these expenses were percent and percent for the years ended august  and  respectively 
+the increase in research engineering and development expenses in versus relates to further development work associated with the company s uniport and betex products 
+resources will continue to be directed toward product improvements and enhancements for future product releases of the company s products 
+the company expects its research  engineering  and development costs for to be higher than that expended in the company believes that it operates in a highly competitive market and  in order to maintain a competitive position  that its existing products must be continually improved and new products must be developed 
+see competition 
+the amount and timing of future research  engineering  and development expenditures will depend upon  among other factors  future new contract activity and the company s ability to fund these costs from future operating cash flow and bank or other forms of financing 
+see financial position  liquidity  and capital resources 
+purchased research and development purchased research and development expense of  for the year ended august   represents the purchase price allocation to in process research and development acquired through the company s acquisition of vicorp 
+impairment of intangible assets during the year ended august   the company reevaluated the realizability of the goodwill associated with its acquisition of the renaissance group trg 
+based on a review of the expected future discounted cash flows of trg  the company determined that a material impairment of the trg associated goodwill existed 
+consequently  a  write down of the goodwill balance was recorded during the year ended august  depreciation and amortization depreciation and amortization was  for the year ended august   compared to  for the year ended august  the increase in relates primarily to the amortization expense associated with recorded goodwill from the vicorp acquisition  which closed during the third quarter of the year 
+investment gain on marketable equity securities the company s investment gain of  relates to its  purchase of marketable equity securities 
+such securities were bought and sold during the year ended august  the investment gains associated with these securities are included in the company s consolidated statements of operations 
+interest income for the year ended august   net interest income was  compared to  for the year ended august  net interest income increased in due to the increase in the company s interest bearing cash balances 
+discontinued operations effective april   certain assets  liabilities  and the business of interactive services  inc  were sold for approximately  in cash and the assumption of certain liabilities 
+the gain on disposition of such activity has been accounted for as a gain from sales of discontinued operations 
+income tax expense the company uses the asset and liability method to account for deferred income taxes 
+under the asset and liability method  deferred income taxes are recognized for the tax consequences of temporary differences by applying enacted statutory tax rates applicable to future years to differences between the financial statement carrying amounts and the tax basis of existing assets and liabilities 
+the effect on deferred taxes of a change in tax rates is recognized in income in the period that includes the enactment date 
+litigation the company is subject to certain legal actions arising in the normal course of business 
+after taking into consideration legal counsel s evaluation of such actions  management is of the opinion that their final resolution will not have any significant adverse effect upon the company s business or its consolidated financial statements 
+see legal proceedings 
+financial position  liquidity  and capital resources at december   the company had net working capital of  compared to  at december  the increase in net working capital is primarily due to the net equity and debt funding of  and  respectively  that was received from shareholders during the second and third quarters of  respectively 
+the company expects that with the acquisition of vicorp and bfd  as described below  its working capital requirements will increase significantly over prior periods 
+in addition  the company expects that in  as in  the company will require additional external sources of capital to fund its operations  including working capital needs 
+the company s board of directors has formed a special committee for the purpose of analyzing additional external sources of capital that may be available to the company and that can be accessed during the company has already taken steps regarding the improvement of its cash flow and cash position  including o retained an investment banking firm to assist in the development and evaluation of future strategic initiatives  including potential financing opportunities  o analyzing opportunities to sell certain non core assets  including real estate  and o implemented a restructuring plan to reduce operating expenses 
+however  there is no assurance that the company will be able to obtain additional financing on acceptable terms and conditions or that its existing working capital will be sufficient to fund its operating and investing activities for in march  the company received a proposal from speer communication limited partnership and speer virtual media limited partnership  privately held entities controlled by roy m 
+speer  to acquire a controlling interest in the company 
+mr 
+speer controls rms limited partnership  an entity that is one of the company s major stockholders 
+the proposal contemplates an exchange transaction whereby speer communication limited partnership and speer virtual media limited partnership will contribute to the company cash and certain other business assets in return for shares of common stock of the company 
+the proposal also contemplates that all debt and preferred stock of the company held by its major stockholders will be converted into common stock at the rate of per share 
+as a condition of the proposal  mr 
+speer would ultimately control at least percent of the outstanding stock of the company 
+the company s board of directors has appointed a special committee of the board of directors to evaluate the transaction proposed by mr 
+speer and any other proposals that may be received by the company 
+the special committee has retained an investment banker to assist the company in evaluating this proposal and in considering alternatives for the company 
+the company s accounts and contracts receivable decreased to  as of december   compared to  as of december  the decrease is primarily due to the collection of certain large receivables outstanding at december  the company s supplies and other current assets increased to  as of december   compared to  as of december  the increase is primarily due to the replenishment of inventory that is expected to be sold in the first quarter of the company s costs and earnings in excess of billings on uncompleted contracts increased to  as of december   compared to  as of december  the increase is primarily associated with certain of vicorp s product delivery contracts in process for its customers 
+such amounts as of december   are expected to be fully billed by vicorp by june  the company s current portion of long term debt decreased to  as of december   compared to  as of december  the company s long term debt increased to  as of december   compared to  as of december  the decrease in the current portion is primarily due to certain debt re paid by the company during the year ended december  the increase in long term debt is primarily due to the company s issuance of three promissory notes of  each in september the company s accounts payable increased to  as of december   compared to  as of december  the increase is primarily due to the timing of certain vendor payments 
+the company s accrued expenses decreased to  as of december   compared to  as of december  the decrease is primarily due to payments made during the company s accrued payroll and related expenses decreased to  compared to  as of december  the company s billings in excess of costs and earnings on uncompleted contracts decreased to  as of december   compared to  as of december  the decrease is primarily associated with the completion and billing of certain of vicorp s software development contracts 
+the company s deferred revenue balance decreased to  as of december   compared to  as of december  the company s deferred revenue balance primarily represents prepaid maintenance contracts for services to be provided to its customers 
+during the year ended december   cash used by operations was  the company funded this cash flow usage primarily through the net equity and debt funding of  and  respectively  that was received from shareholders during the second and third quarters of  respectively 
+during the four months ended december   cash used by operations was  the company funded this cash flow usage primarily through its cash funds 
+during the year ended august   cash used by operations was  the company funded this cash flow usage primarily through the proceeds generated through issuance of common stock 
+during the year ended august   cash used by operations was  the company funded this cash flow usage primarily through proceeds generated through issuance of common stock 
+during april  the company completed a  financing with three of its shareholders rms limited partnership  vulcan ventures  inc  and primwest holding nv the shareholders 
+in connection with the financing  each shareholder invested  and received  shares of a newly designated class of preferred stock 
+the series b preferred stock carries a cumulative percent dividend 
+each shareholder will be entitled to convert the series b preferred stock into common stock after december   at approximately per share 
+in addition to the series b preferred stock  each of the shareholders received a warrant to purchase  shares of common stock 
+the warrants will be exercisable for a five year period beginning april at approximately 
+the company granted the shareholders certain registration and anti dilution rights in connection with the transaction 
+on september   the company completed a  financing with rms limited partnership rms  vulcan ventures  inc vulcan  and mr 
+didier primat the shareholders 
+rms and vulcan are existing shareholders of the company  and mr 
+primat is the beneficial owner of shares of the company s stock held by alta investissements sa in connection with the financing  each shareholder invested  and received a promissory note the note for  the notes will mature on january   and bear interest from the issuance date on the unpaid principal amount until such amount is paid at a rate per annum equal to percent 
+interest will be paid on september   and on the maturity date 
+in addition to the notes  each of the shareholders received a warrant to purchase  shares of common stock 
+the warrants will be exercisable for a five year period beginning october at 
+the company granted the shareholders certain registration rights with respect to the shares of common stock underlying the warrants 
+the company incurred  in expenditures for capital assets for the year ended december  future levels of capital expenditures will be dependent upon cash availability from operating activities and additional sources of bank funding or other forms of financing which may or may not be available to the company upon acceptable terms and conditions 
+management expects that expenditures for fiscal will be approximately  as of december   the company had net operating loss carryforwards of approximately  for federal income tax purposes expiring through and  for foreign tax purposes  of which  is expiring through and  is available indefinitely 
+on september   the company elected to change its year end from august to december the change became effective december  new accounting pronouncements in february  the financial accounting standards board fasb issued statement of financial accounting standards no  earnings per share sfas no 
+ effective for periods ending after december  sfas no 
+establishes new standards for computing and presenting earnings per share eps 
+the adoption of sfas no 
+did not have a material impact on the financial condition or the results of operations of the company 
+in june  the fasb issued statement of financial accounting standards no 
+ reporting comprehensive income sfas no 
+
+sfas no 
+becomes effective for the company s fiscal year and requires reclassification of earlier financial statements for comparative purposes 
+sfas no 
+requires that changes in the amounts of certain items  including foreign currency translation adjustments and gains and losses on certain securities  be shown in the financial statements 
+sfas no 
+does not require a specific format for the financial statement in which comprehensive income is reported  however  it does require that an amount representing total comprehensive income be reported in that statement 
+the company believes the adoption of sfas no 
+will not have a material effect on the financial condition or the results operations of the company 
+also in june  the fasb issued statement of financial accounting standards no 
+ disclosures about segments of an enterprise and related information sfas no 
+
+sfas no 
+will change the way public companies report information about segments of their business in annual financial statements and requires them to report selected segment information in their quarterly reports issued to stockholders 
+it also requires entity wide disclosures about the products and services an entity provides  the material countries in which it holds assets and reports revenues  and its major customers 
+sfas no 
+is effective for the company s fiscal year the company believes the adoption of sfas no 
+will not have a material effect on the financial condition or the results of operations of the company 
+readiness for year the company has taken actions to understand the nature and extent of the work required to make its systems  products and infrastructure year compliant 
+the company continues to evaluate the estimated costs associated with this work as actual information becomes available 
+based on available information  the company believes that it will be able to manage its total year transition without any material adverse effect on its business operations  products  operating results or financial condition 
+forward looking information certain statements in this report are forward looking statements within the meaning of the federal securities laws 
+such forward looking statements reflect management s current views with respect to future events and the financial performance and condition of the company 
+however  such statements involve risks and uncertainties  and there are certain important factors that could cause actual results to differ materially from those anticipated 
+some of the important factors that could cause actual results to differ materially from those anticipated include o the company competes in an industry marked by frequent technological changes which will force the company to expend funds to develop new products and implement new technologies o the various markets into which the company sells its products are undergoing significant changes with increasing demands for product innovations o the company must be successful in competing against many competitors  many of which have significantly greater financial  technical  marketing  and sales resources than the company o the company will be required to properly estimate costs under fixed price contracts o increased risk of litigation in the company s industry resulting from aggressive prosecutions of intellectual property claims o the company s ability to retain its larger customers  including mci o availability of certain hardware and software components which are incorporated with the company s products and are purchased from a limited number of vendors o the company s ability to hire and retain qualified personnel o legislative changes affecting the company s markets  including the telecommunications act of o given the company s acquisition of vicorp and its large presence in international markets  regulatory  monetary and inflationary factors can negatively impact the company s operations in the future o the company s reliance on large sales orders that increase the risk of significant revenue fluctuations  from quarter to quarter and year to year o the company s ability to generate sufficient cash  from operations or from external sources  to fund its global operations 
+see financial statements  including report of independent accountants many of such uncertainties are outside the company s control and could postpone  delay  or eliminate potential sales opportunities and  therefore  affect the company s operations 
+due to such uncertainties and risk  readers are cautioned not to place undue reliance on such forward looking statements  which speak only as of the date hereof 
+

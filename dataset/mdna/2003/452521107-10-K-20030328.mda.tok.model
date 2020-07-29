@@ -1,0 +1,855 @@
+item  management s discussion and analysis of financial condition and results of operations 
+we caution you not to place undue reliance on these forward looking statements  which speak only as of the date of this report  and we undertake no obligation to release the results of any revisions to these forward looking statements which could occur after the filing of this report 
+you are urged to review carefully and consider our various disclosures  in this report and in our other reports filed with the sec  that attempt to advise you of the risks and factors that may affect our business 
+item business overview we are a leading provider of haptic technology bringing the sense of feel or touch to large  diversified markets 
+we develop  manufacture  license and support a wide range of hardware and software technologies that enable users to interact with a multitude of computing and other devices using their sense of touch 
+we manage our business under two operating and reportable segments immersion computing  entertainment  and industrial  and immersion medical 
+we focus on four application areas consumer  computing and entertainment  medical simulation  industrial and automotive  and three dimensional and professional products 
+in high volume market areas such as consumer computer peripherals and automotive interfaces  we primarily license our touch enabling technologies to third party manufacturers 
+for lower volume markets like medical simulation systems and three dimensional and professional products  our primary strategy is to manufacture and sell products through direct sales  distributors and value added resellers 
+in all market areas  we also engage in development projects for third parties and government agencies from time to time 
+our objective is to proliferate our touchsense technologies across markets  platforms and applications so that touch and feel become as common as color  graphics and sound in modern user interfaces 
+immersion and its wholly owned subsidiaries hold more than issued patents and more than pending patent applications worldwide covering various aspects of hardware and software technologies 
+industry background early computers had crude user interfaces that only displayed text and numbers 
+these machines  commonly known as green screen computers  were effective at processing data but did not communicate information in an engaging and intuitive manner 
+as a result  computing was used primarily in selected scientific and business applications 
+in the early s  computers began to use graphics and sound to engage users perceptual senses more naturally 
+graphics technologies transformed monochrome screens to color  and brought pictures  charts  diagrams and animation to the computer screen 
+audio technologies enabled sound and music 
+by the late s  graphics and audio technologies had spread to consumer markets  initially through computer gaming applications 
+by the early s  the penetration of color graphics and sound into consumer markets had expanded beyond gaming into mainstream productivity applications  largely due to the introduction of the windows graphical user interface 
+by the late s  the proliferation of graphics and audio content helped transform the computer into a highly interactive and popular medium for communication  commerce and entertainment 
+
+table of contents while most modern computers realistically present information to the senses of sight and sound  most still lack the ability to convey content through the sense of touch 
+the absence of touch is a substantial barrier to making computer use more natural and intuitive 
+software designers strive to develop compelling applications for users to see and hear  but do not provide applications that engage users sense of touch 
+as a result  software is not as engaging and informative as it would be if tactile sensations were conveyed 
+the absence of touch and feel in modern computers also limits user productivity 
+the windows interface  for example  is based on a physical metaphor users must move the cursor on a screen to drag  drop  stretch and click 
+however  users must manipulate graphical elements without the benefit of tactile feedback 
+as a result  using a cursor is visually taxing 
+selecting an icon  clicking on a hyperlink or targeting the edge of a window are common tasks that would be easier to perform if users could feel the engagement of their cursor with the intended target 
+touch and feel can also be used to enhance a wide variety of applications beyond personal computing 
+for example  adding touch to medical simulation equipment allows medical professionals to train  practice and enhance their skills to perform surgical procedures in a way never before possible 
+adding touch to automotive controls can help simplify the control of multiple systems within a car by allowing the driver to identify tactilely which system is being controlled 
+like sight and sound  touch is critical for interacting with and understanding one s physical surroundings 
+technology that brings the sense of touch to computing has the potential to further humanize the computer and increase the ease  usefulness and enjoyment of computing 
+haptics the science of touch simulation touch or feel simulation  also known as force feedback  haptic feedback or force reflection  refers to the technique of adding touch sensations to computer hardware and software by imparting physical forces upon the user s hand 
+these forces are imparted by actuators  usually motors  which are incorporated into consumer peripheral devices such as mice  joysticks  steering wheels or gamepads  or into more sophisticated interfaces designed for industrial  medical  automotive or scientific applications 
+touch enabled peripheral devices can impart to users physical sensations like rough textures  smooth surfaces  viscous liquids  compliant springs  jarring vibrations  heavy masses and rumbling engines 
+as a user manipulates a touch enabled device  such as a joystick  motors within the device apply computer modulated forces that resist  assist or otherwise enhance the manipulations 
+these forces are generated based on mathematical models that simulate the desired sensations 
+for example  when simulating the feel of a rigid wall with a force feedback joystick  motors within the joystick apply forces that simulate the feel of encountering the wall 
+as the user moves the joystick to penetrate the wall  the motors apply a force that resists the penetration 
+the harder the user pushes  the harder the motors push back 
+the end result is a sensation that feels like a physical encounter with an obstacle 
+the mathematical models that control the motors may be simple modulating forces based on a function of time  such as jolts and vibrations  or may be more complex modulating forces based on user manipulations such as surfaces  textures  springs and liquids 
+complex sensations can be created by combining a number of simpler sensations 
+for example  a series of simulated surfaces can be combined to give the seamless feel of a complex object like a sports car 
+textures can be added to these complex surfaces so that the windshield of the sports car feels smooth and its tires feel rubbery 
+our solution we re changing the way people interact with digital devices of all types  by adding the sense of touch to a digital world 
+our technologies engage the sense of touch to give users of our technologies a more complete  intuitive experience 
+in diverse applications like computer gaming  business productivity  medical simulation  automotive controls  and surfing the web  our technologies enable software applications to engage a user s sense of touch through a wide range of devices  such as mice  joysticks  medical interface devices  automobile dashboard controls  gloves and gamepads 
+
+table of contents our hardware and software technologies work together to enable peripheral devices to present touch sensations 
+our patented designs include specialized hardware elements such as motors  control electronics and mechanisms  which are incorporated into common computer peripheral devices  such as mice and joysticks  or more complex devices  such as endoscopic surgical simulators 
+driven by software algorithms  these hardware elements direct tactile sensations corresponding to on screen events to the user s hand 
+key benefits of our solution include providing a turnkey solution 
+we offer technical  turnkey solutions that allow our licensees to incorporate our touch enabling technologies into their computer interface products such as mice  joysticks  knobs  wheels and gamepads at a reasonable cost and in a reasonable time frame 
+our solutions also allow software programmers and web site developers to add touch enabling elements to their applications 
+additionally  our software automatically enables users to feel the basic user interface features of software applications running on windows  windows  windows me and windows xp without additional developer support 
+our software enables users to feel basic web page features represented through standard hypertext markup language html  java and activex protocols 
+in  we released such technology that enables users to experience the sense of touch in commonly used business applications  such as microsoft windows  word and excel with the release of immersion touchware software 
+in addition  we provide authoring tools that permit software developers to quickly design and incorporate custom touch sensations into their own applications 
+enhancing the effectiveness of simulation and training applications 
+some computer applications  such as medical procedure simulation and product design  require realism to be effective 
+companies and institutions have begun to replace traditional means of medical training and education with more accessible and versatile simulation systems for training and practicing certain medical procedures to enhance the skills and educate health professionals worldwide 
+our medical simulation systems provide tactile feedback that simulates what a doctor would feel when performing an actual procedure 
+our technologies are used in medical simulator systems for laparoscopic surgery  endovascular surgery  endoscopic surgery and catheter insertion 
+in order to save time and expense in product design  companies use our whole hand sensing glove technologies  which together with our software products  allow for real time  three dimensional object manipulation 
+compatible with industry standards 
+we have designed our consumer hardware and software technologies to be compatible with leading hardware and software standards 
+our consumer technologies operate across multiple platforms and comply with such standards as directx  microsoft s entertainment application programming interface  usb universal serial bus  a standard connector interface  and microsoft office products through the release of immersion touchware software 
+our visual basic tutorial allows developers to add immersion touchsense technology to their microsoft visual basic applications using the immersion web activex control 
+our software technology works with the flash  shockwave and dreamweaver standards from macromedia 
+providing a cost effective solution 
+we have developed component technologies that permit peripheral device manufacturers to design and manufacture peripheral devices that incorporate our touch enabling technologies more cost effectively than would otherwise be possible 
+we have also developed and licensed sophisticated software drivers and firmware that permit our licensees to avoid substantial development costs and accelerate product introduction 
+presenting information through the sense of touch 
+it is difficult to communicate physical properties such as texture  compliance  weight and friction solely through words or pictures 
+our technologies allow computer users to use their sense of touch to perceive these physical properties in a way that is instantly understandable and intuitively accessible 
+our technologies significantly improve the ability of software to communicate to users the physical features of a product  the physical properties of a medical procedure or the physical response of an object in a simulated gaming environment 
+increasing satisfaction and enjoyment of the computing experience 
+by engaging the user s sense of touch  our technologies have the potential to make a variety of consumer software applications more 
+table of contents interesting  engaging and satisfying 
+in the personal computer gaming market  our licensees  such as logitech inc logitech and microsoft corporation microsoft  are currently manufacturing and selling products incorporating our intellectual property 
+we believe that our technologies will increase user satisfaction across many additional applications  including business productivity  engineering  education and electronic commerce 
+strategy our objective is to proliferate our touchsense technologies across markets  platforms and applications so that touch becomes as common as color graphics and sound in the modern computer interface 
+we intend to maintain and enhance our position as a leading provider of touch enabling technology by employing the following strategies pursue royalty based licensing model for high volume applications of our technologies 
+we believe that the most effective way to proliferate our touch enabling technology across high volume applications of our technologies  such as computer peripherals and automotive controls  is to license our intellectual property 
+we have licensed our intellectual property to numerous manufacturers of mice  joysticks and steering wheels targeted at consumers 
+in addition  we have licensed our technology to bmw for use in the controls of certain models of its automobiles 
+we intend to expand the number and scope of our licensing relationships in the future 
+pursue product sales in lower volume applications of our technologies through multiple channels 
+for lower volume emerging applications of our technologies  such as medical simulation systems and three dimensional and professional products  our primary strategy is to manufacture and sell products through direct sales  distributors and value added resellers 
+we currently sell medical simulation devices that simulate intravenous catheterization  endovascular interventions  and laparoscopic and endoscopic procedures 
+our three dimensional and professional products consist primarily of our line of computer digitizing products  including the microscribe g and specialized whole hand sensing gloves and software  such as the cyberglove  cybergrasp  cyberforce  and simstudio that permit simulated interaction with three dimensional environments 
+secure licensees in new markets for touch enabling technology 
+we believe that our touch enabling technology can be used in virtually all areas of computing 
+we initially focused on computer gaming applications for personal computers  an area in which we have experienced acceptance of our technologies by key licensees 
+we have broadened our focus to include additional applications  such as cursor control for personal computers  automotive controls and medical simulation 
+facilitate our licensees development of touch enabled products 
+we will continue to devote significant resources to facilitate the development of touch enabled products by our licensees 
+we offer complete design packages that include sample hardware  software  firmware and related documentation  and offer our technical expertise on a consulting basis 
+we will continue to invest in research and development to improve our technologies  with particular emphasis on reducing the cost of consumer touch enabled products and expanding the breadth of our medical simulation product offerings 
+expand software support for our touch enabling technology 
+in addition to licensing our intellectual property to computer peripheral device manufacturers and supporting their product development efforts  we have focused on expanding software support for our touch enabling technology 
+we have developed software that enables users to automatically feel icons  menus and other objects in software running in windows  windows  windows me and windows xp applications or on web pages accessed through internet explorer and netscape navigator 
+we have developed software that enables our technology to be used by microsoft office products  such as word and excel  with the release of immersion touchware software 
+we offer specialized authoring tools that simplify adding touch sensations to software applications and web pages 
+our visual basic tutorial allows developers to add immersion touchsense technology to their microsoft visual basic applications using the immersion web activex control 
+we are also promoting an efficient file format  called 
+ifr  to facilitate the creation and storage of custom touch sensations 
+in addition  our software 
+table of contents technology works with the flash  shockwave and dreamweaver standards from macromedia  and autocad from autodesk 
+expand market awareness 
+we promote adoption of our touch enabling technology by increasing market awareness among peripheral device manufacturers  software developers and consumers 
+as part of our license agreements  we require our licensees to use our trademarks and logos to create brand awareness among consumers 
+we also devote significant resources to promote our brands  through print advertising  trade shows and other marketing avenues 
+develop and protect touch enabling technology 
+immersion and its wholly owned subsidiaries hold more than issued patents and more than pending patent applications worldwide covering various aspects of their hardware and software technologies  including touch enabling technology 
+our success depends on our ability to license and commercialize our intellectual property and to continue to expand our intellectual property portfolio 
+we devote substantial resources to research and development and are engaged in projects focused on expanding the scope and application of our technologies 
+we have also secured technology by acquisition 
+we intend to continue to invest in technology development and potential acquisitions and to protect our intellectual property rights 
+on february   we filed a patent infringement lawsuit against microsoft corporation  sony computer entertainment  inc  and sony computer entertainment of america  inc 
+in the us district court for the northern district court of california 
+due to the inherent uncertainties of litigation  we cannot accurately predict the ultimate outcome of the litigation 
+market applications while we believe that our technologies are broadly applicable  we are currently focusing our marketing and business development activities on the following target application areas consumer  computing and entertainment 
+we initially licensed our intellectual property for touch enabling technologies for consumer gaming peripherals in  under the i force trademark 
+we have transitioned our branding to the touchsense trademark  which extends beyond gaming to all aspects and applications of our haptics related products and services 
+we have licensed our touchsense intellectual property to over manufacturers and distributors  including logitech and microsoft 
+during  we introduced our touchsense technology to the apple macintosh platform and have recently developed new technologies that will allow us to target cell phones and handheld devices 
+additionally we are increasing our haptic technology offerings on the pc and console gaming platforms nintendo gamecube  microsoft xbox and sony playstation with licensed hardware peripherals and new software tools and applications targeted at gaming 
+medical simulation 
+we have developed numerous technologies that can be used for medical training and simulation 
+by enabling computers to deliver touch sensations to users  our technologies can support realistic simulations that are effective in teaching medical students  doctors and health professionals what it feels like to perform a given procedure 
+the use of our simulators allows healthcare providers to practice procedures in an environment that poses no risks to patients  where mistakes have no dire consequences and animal or cadaver use is avoided 
+we partner with leading medical technology companies  such as medtronic inc medtronic  to develop applications that closely simulate not only the look  but also the feel of performing an actual medical procedure  allowing doctors to safely practice and perfect techniques before they start performing operations on patients 
+industrial and automotive 
+in recent years there has been a proliferation of automotive sub systems  which are directly accessed by drivers and passengers 
+these include radio  cd  navigation  telephone and climate control systems  among others 
+as a result  there has been a corresponding increase in the number of physical control devices in the automotive cockpit 
+this clutter may be hazardous to the extent it distracts the driver s attention 
+our touchsense knob controls multiple systems and has a different feel for each system to allow the driver to identify tactilely which system is being controlled 
+the result is a simpler  more accessible control environment 
+we have licensed our automotive control knob technology to bmw  which has incorporated the touchsense control knob in its series sedan and we believe will be included in some models of its series sedan 
+we are also conducting various funded development efforts and providing 
+table of contents tools and evaluation licenses to several other major automobile manufacturers and suppliers who have expressed interest in touch enabled automobile controls 
+three dimensional and professional products 
+our efforts in this area include computer peripherals that we manufacture and sell and which are targeted at three dimensional computer imaging applications 
+these include the microscribe g product line  which allows users to capture three dimensional computer models directly from physical objects 
+the microscribe g products contain sensor and microprocessor technologies that allow users to digitize physical objects simply by tracing their contours with a stylus 
+third party software records the three dimensional geometry of the object and reproduces it on the screen as a three dimensional computer model 
+the microscribe g product line is designed to support the needs of game developers  engineers  animators  filmmakers  industrial designers and other professionals who need to create realistic three dimensional computer images quickly and easily 
+another focus of our efforts is our cyberglove  cybergrasp and cyberforce line of gloves and touch enabled interaction hardware  and our virtualhand three dimensional interaction software products  that simulate the manipulation of objects in three dimensional environments 
+our cyberglove line of whole hand sensing gloves and three dimensional software products are used in research applications and in high end simulation  mechanical computer aided design  visualization and motion capture applications to improve the product development process 
+in addition to these d products  we manufacture and sell specialized computer peripherals that are not touch enabled  but incorporate related advanced computer peripheral technologies 
+these specialized peripherals include the softmouse  a high performance  non touch enabled mouse optimized for use in geographic information systems and mapmaking  and pinpoint  a stereotactic arm used to enable image guided biopsies and radiation therapy 
+technologies and products technology licensing 
+we currently license our intellectual property to manufacturers  which produce peripheral devices incorporating our touch enabling technologies 
+in general  our licenses permit manufacturers to produce only a particular category of product within a specified field of use 
+our basic licensing model includes an up front license fee and or a per unit royalty paid by the manufacturer that is a percentage of the wholesale selling price of the touch enabled product 
+in addition  each licensee must abide by a branding obligation 
+the prominent display of the touchsense logo on retail packaging generates customer awareness for our technologies 
+consumer  computing and entertainment products 
+we license our intellectual property to manufacturers and distributors  which incorporate our touch enabling technologies into various computer peripheral devices  targeted at the pc and game console platforms 
+in we expanded our reach in this marketplace by adding support for the apple macintosh os x platform  enabling our licensees to provide force feedback output through gaming software running on the macintosh platform 
+currently  there are a number of consumer pc joysticks sold using touchsense technology  including the wingman force d from logitech  the sidewinder force feedback from microsoft  the cyborg d force and st and cyborg d rumble joystick from saitek  the fox pro joystick and top gun afterburner force feedback joystick from thrustmaster  and the destroyer aftershock from gravis 
+there is also a number of pc steering wheel gaming peripherals licensed under the touchsense brand  including the wingman formula force gp and the momo force from logitech  the nascar pro force feedback racing wheel and the f force feedback racing wheel from guillemot  the sidewinder force feedback wheel from microsoft  and the r force feedback wheel from saitek 
+there are a number of pc gamepads sold using touchsense technology  including the wingman cordless rumblepad and wingman rumblepad from logitech  the xterminator force and eliminator aftershock from gravis  the firestorm dual power gamepad from thrustmaster  and the p and p from saitek 
+in the video game console peripheral market  immersion has licensed its patents for use in more than spinning mass tactile feedback devices from various manufacturers including intec  mad catz  nyko  saitek  thrustmaster and spectravideo 
+these products are designed to work with one or more video game 
+table of contents consoles including the xbox from microsoft  the playstation and playstation from sony  the gamecube  n  and gameboy from nintendo  and the dreamcast from sega 
+demand for computer peripheral devices incorporating our touch enabling technologies depends on the existence of software applications and web pages that take advantage of these devices 
+the development of such software likewise depends on the existence of an installed base of touch enabled hardware devices 
+we have addressed this interdependency of hardware and software solutions in two ways 
+first  we have developed end user software that is included with our licensee s touch enabled mice and which automatically adds touch to many of the basic windows  windows  windows me and windows xp controls 
+second  we have developed and licensed to developers and end users software authoring tools that help programmers add touch enabled content to software applications and web pages 
+medical products 
+we have four medical simulation product lines our cathsim vascular access simulator  which simulates intravenous catheterization  our accutouch endoscopy simulator  which simulates endoscopy procedures  our accutouch endovascular simulator  which simulates endovascular interventions  and our laparoscopic simulation hardware that can be integrated with third party software for surgical procedure simulation 
+these devices are used for training and educational purposes that enable health professionals to feel simulations of sensations experienced during medical procedures  such as encountering an unexpected obstruction in an artery 
+all are comprised of software modules  an interface device and a hardware platform 
+we sell hardware systems for between  and  which enable potential additional sales of software to the installed base of hardware systems 
+we design each product line to maximize the number of procedures that can be simulated with minimal additional customer investment 
+the relatively low price of our software modules provides an opportunity for repeat sales 
+we currently have over various software modules available that replicate such medical procedures as intravenous catheterization  peripherally inserted central catheters picc  bronchoscopy  colonoscopy  cardiac pacing modules  and coronary angioplasty 
+medtronic  a leading medical device company  accounts for a large portion of our medical simulation product revenues as well as development contract revenues and a reduction in sales to medtronic  a reduction in development work  or a decision not to renew existing licenses by medtronic may reduce our total revenue 
+for the year ended december  medtronic accounted for of our total revenues 
+industrial and automotive controls 
+we have developed touchsense technology appropriate for use in automobile dashboards 
+we have begun efforts to license this technology to automobile manufacturers and automobile component suppliers 
+bmw was the first automobile manufacturer to license our touchsense knob technology for use in the dashboard controls of its series sedan model 
+we have also formed a strategic partnership with alps electronics  a leading automotive component supplier  as part of a strategy to speed adoption of our touchsense technologies across the automotive industry 
+we are also working with several other major automobile manufacturers who have expressed interest in touch enabled automobile controls 
+three dimensional and professional products 
+in we replaced the microscribe d product line of desktop digitizing systems with the microscribe g product line  offering four products differentiated by size and accuracy 
+the g products feature a usb interface  upgraded utility software  and a year warranty 
+the three primary markets for microscribe g are graphic arts  cad cam and d positioning oem  with cad cam being the largest and fastest growing 
+additionally  we launched a first party plug in product  microscribe connections for maya  to provide seamless digitizing  lighting and animation support for microscribe in alias wavefront s oscar winning maya product 
+we manufacture and sell the cyberglove  a fully instrumented glove that accurately measures the movement of a user s hand and  used in conjunction with our software  maps it to a graphical hand on the computer screen 
+users can reach in and grab digital objects similar to physical objects 
+cybertouch is a cyberglove with a vibro tactile feedback option that provides users with tactile cues when they manipulate digital objects 
+cybergrasp is an option for the cyberglove that adds force feedback to the fingertips 
+with cybergrasp users can actually feel the d graphical objects being manipulated on the screen 
+cyberforce is 
+table of contents an enhanced  grounded force feedback product 
+incorporating our touchsense technologies  cyberforce allows users to better sense immovable objects  as well as inertia  by restricting arm movement 
+our software products for our whole hand interfaces include virtualhand software development kit sdk  virtualhand extension to worldtoolkit  and virtualhand for v virtualhand sdk is a software toolkit that helps users integrate our whole hand glove based interface products into specific applications 
+besides incorporating algorithms for real time  three dimensional object manipulation  the toolkit provides collision detection capabilities that are essential for assembly tasks and computes the information required for directing haptic forces to the user 
+virtualhand extension to worldtoolkit integrates virtualhand sdk into a well established virtual world building product from sense  enabling our glove based products to control an articulated graphical hand to grasp and manipulate worldtoolkit objects inside a worldtoolkit environment 
+virtualhand for v  demonstrated in and expected to be available for shipment in spring  is a suite of products that leverage our new partnership with dassault systemes 
+these products virtually place our glove based products directly into the catia v and enovia v environments allowing for real time interaction with digital prototypes for the evaluation of ergonomics  assembly and maintainability of products 
+multiple digital design iterations can replace the need for physical prototypes  reducing costs and time to market 
+sales  marketing and support with respect to certain high volume applications for our technologies  we establish licensing relationships 
+as part of our strategy to increase our visibility and promote our touch enabling technology  our license agreements generally require our licensees to display the touchsense logos on licensed products they distribute 
+with respect to intellectual property licensing  we have focused our marketing activities on developing relationships with potential licensees and on participating with existing licensees in their marketing and sales efforts 
+to generate awareness of our technologies and our licensees products  we participate in industry trade shows  maintain ongoing contact with industry press and provide product information over our web site 
+in lower volume applications  we sell our products through our direct sales efforts or indirectly through distributors and value added resellers 
+with respect to medical simulation  we employ a direct sales force that markets simulation systems to hospitals  health management organizations  colleges and universities  nursing schools  medical schools  emergency medical technician training programs  the military and other organizations involved in procedural medicine 
+we have six regional sales representatives in the united states and two sales representatives in europe 
+in asia  we also work with a network of distributors 
+we have distributors in most major asian markets  including japan  south korea  malaysia and singapore 
+our sales force is also augmented through co marketing arrangements with strategic partners 
+the microscribe g desktop digitizers  along with first and third party hardware accessories and companion software  are sold through an international network of over resellers including cnc services  id media  and international technology transfer corporation 
+major oems include nomos corporation and phillips medical systems 
+in addition to direct sales  our whole hand interaction products are distributed  sold and supported by a growing worldwide network of over international and domestic resellers including nissho electronics  immersion sa and engineering systems technologies 
+we have partnerships with leading d cad cam and interaction companies  including dassault systemes  a worldwide leader in product lifecycle management software 
+a focus of our marketing efforts is to promote the adoption of our touch enabling technology by software and web developers to facilitate the implementation of touch sensations into software applications 
+we have developed the immersion touchsense developer toolkit  which contains our software authoring tools  as well as documentation  tutorials and software files containing sample touch sensations 
+our software support staff also works closely with developers to assist them in developing compelling touch enabled applications 
+
+table of contents we believe that it is important to increase awareness of our touch enabling technology among potential end users 
+to this end  we have engaged in a series of public relations  marketing and promotional campaigns 
+the goal of these efforts is to create consumer awareness of the benefits of touch enabling technologies 
+our sales and marketing expenses were million in  million in  and million in the decrease from to was mainly due to reduced expenses related to advertising  application and market development funds  and a reduction in expenses due to decreased headcount  employee salary reductions  and corresponding employee benefits 
+research and development our success depends on our ability to improve  and reduce the costs of  our technologies in a timely manner 
+we have assembled a team of highly skilled engineers who possess experience in the disciplines required for touch enabling technology development  including mechanical engineering  electrical engineering  computer science and medical doctors 
+our research and development expenses were million in  million in and million in our research and development efforts have been focused on technology development  including hardware  software and designs 
+we have entered into numerous contracts with government agencies and corporations that help fund advanced research and development 
+our government contracts permit us to retain ownership of the technology developed under the contracts  provided that we provide the applicable government agency a license to use the technology for non commercial purposes 
+competition with respect to touch enabled consumer products  we are aware of several companies that claim to possess force feedback technology applicable to the consumer market  but we are not aware that any of these companies or their licensees have introduced touch enabled products 
+in addition  we are aware of several companies that currently market unlicensed force feedback products in the consumer markets 
+we are engaged in litigation with two of these companies  sony and microsoft  over infringement of our patents 
+several companies also currently market force feedback products to non consumer markets and could shift their focus to the consumer market 
+in addition  our licensees may develop products that compete with products employing our touch enabling technology but are based on alternative technologies or develop technologies that are similar or superior to our technologies  duplicate our technologies or design around our patents 
+many of our licensees  including microsoft and logitech  and other potential competitors have greater financial and technical resources upon which to draw in attempting to develop computer peripheral technologies that do not make use of our touch enabling technology 
+our failure to obtain or maintain adequate protection for our intellectual property rights for any reason could hurt our competitive position 
+there is no guarantee that patents may issue from the patent applications that we have filed or may file 
+our issued patents may be challenged  invalidated or circumvented  and claims of our patents may not be of sufficient scope or strength  or issued in the proper geographic regions  to provide meaningful protection or any commercial advantage 
+our competitive position is partially dependent on the competitive positions of our licensees that pay a per unit royalty 
+our licensees markets are highly competitive 
+we believe that the principal competitive factors in our licensees markets include price  performance  user centric design  ease of use  quality and timeliness of products  as well as the manufacturer s responsiveness  capacity  technical abilities  established customer relationships  retail shelf space  advertising  promotion programs and brand recognition 
+touch related benefits in such markets may be viewed simply as enhancements and compete with non touch enabled technologies 
+there are several companies that currently sell high end simulation products that compete with our medical products  including simbionix 
+the principal bases for competition in these markets are technological sophistication and price 
+we believe we compete favorably on these bases 
+with respect to our whole hand sensing gloves  fifth dimension technologies is our primary competitor 
+higher accuracy higher cost 
+table of contents coordinate measuring machines cmm s from faro technologies and romer cimcore remain the primary competitors to microscribe g intellectual property we believe that intellectual property protection is crucial to our business 
+we rely on a combination of patents  copyrights  trade secrets  trademarks  employee and third party nondisclosure agreements and licensing arrangements to protect our intellectual property 
+immersion and its wholly owned subsidiaries hold more than issued patents and more than pending patent applications in the us and abroad covering various aspects of our hardware and software technologies 
+our current us patents begin to expire starting in on february   we filed a patent infringement lawsuit against microsoft corporation  sony computer entertainment  inc  and sony computer entertainment of america  inc in the us district court for the northern district court of california 
+due to the inherent uncertainties of litigation  we cannot accurately predict the ultimate outcome of the litigation 
+available information it is the company s policy to make all its filings with the securities and exchange commission sec  including without limitation its annual report on form k  quarterly reports on form q  and current reports on form k  available free of charge on the company s website  www 
+immersion 
+com  on the day of filing 
+employees as of december   we had full time and part time employees  including in research and development  in sales and marketing and in legal  finance  administration and operations 
+as of that date  we also had independent contractors 
+none of our employees are represented by a labor union  and we consider our employee relations to be positive 
+executive officers the following table sets forth information regarding our executive officers as of march  name position with the company age victor viegas chief executive officer  chief financial officer  president and director joseph dinucci senior vice president sales and marketing dean chang chief technology officer  vice president technology adoption and partner services richard stacey vice president and general manager immersion medical mr 
+victor viegas has served as our chief executive officer  chief financial officer  president and director since october  having served as president  chief financial officer and chief operating officer from february from august until february  mr 
+viegas served as our chief financial officer and vice president  finance 
+from june to august  he served as vice president  finance and administration and chief financial officer of macrovision corporation  a developer and licensor of video and software copy protection technologies 
+from october to june  he served as vice president of finance and chief financial officer of balco incorporated  a manufacturer of advanced automotive service equipment 
+he holds a bachelor of science degree in accounting and a master of business administration degree from santa clara university 
+mr 
+viegas is also a certified public accountant in the state of california 
+mr 
+joseph dinucci joined immersion in october as our senior vice president of sales and marketing 
+prior to joining immersion  mr 
+dinucci served as a sales and marketing consultant to various 
+table of contents technology companies from october to august from september to september  he was the senior vice president of sales for clicklearn  a supplier of computer and web based learning systems for corporate clients 
+from august to august  mr 
+dinucci served as vice president of business development and acting vice president of sales for e 
+piphany  a supplier of customer relationship management crm systems 
+prior to working at e 
+piphany  from july to march  mr 
+dinucci held a number of executive positions at silicon graphics  inc  including most recently  vice president of manufacturing industry sales and vice president of corporate marketing 
+mr 
+dinucci holds a bachelor s degree in mechanical engineering from carnegie institute of technology and a master s degree in business administration from duquesne university 
+he currently serves on the board of directors for rand corporation in toronto  ontario  a provider of design and engineering solutions for manufacturing companies 
+dr 
+dean chang  our chief technology officer  vice president technology adoption and partner services  joined immersion in july prior to being promoted to chief technology officer  vice president technology adoption and partner services in february  dr 
+chang served as our senior director of evangelism and development since february and director of platforms and applications since july he holds patents in the field of haptics 
+dr 
+chang was a pitau sigma graduate from mit and holds a bachelor s degree in mechanical engineering from mit and a master of science and ph 
+d in mechanical engineering from stanford university 
+he is also currently pursuing an mba degree from the wharton school of the university of pennsylvania on a part time basis 
+mr 
+richard stacey  vice president and general manager of immersion medical  joined immersion medical in as vice president of marketing  and in assumed the additional role as general manager 
+mr 
+stacey assumed overall management responsibility for immersion medical in april prior to joining immersion medical  mr 
+stacey was a strategic marketing director with becton dickinson s worldwide microbiology business 
+mr 
+stacey holds degrees in biology  physiology  chemistry and physics from leicester polytechnic and trent university  nottingham in the united kingdom 
+risk factors you should carefully consider the following risks and uncertainties  as well as other information in this report and our sec filings  before you invest in our common stock 
+investing in our common stock involves risk 
+if any of the following risks or uncertainties actually occurs  our business  financial condition or results of operations could be materially adversely affected 
+the following risks and uncertainties are not the only ones facing us 
+additional risks and uncertainties of which we are unaware or which we currently believe are immaterial could also materially adversely affect our business  financial condition or results of operations 
+in any case  the trading price of our common stock could decline  and you could lose all or part of your investment 
+see also  forward looking statements discussion in management s discussion and analysis of financial condition and results of operation 
+factors that may affect future results we had an accumulated deficit of million as of december   have a history of losses  will experience losses in the future and may not achieve or maintain profitability 
+since  we have incurred losses in every fiscal quarter 
+we will need to generate significant revenue to achieve and maintain profitability 
+we anticipate that our expenses will increase in the foreseeable future as we protect and enforce our intellectual property  including the costs of our litigation against sony and microsoft  continue to develop our technologies  attempt to expand the market for touch enabled products  
+table of contents increase our sales efforts  and pursue strategic relationships 
+if our revenues grow more slowly than we anticipate or if our operating expenses exceed our expectations  we may not achieve or maintain profitability 
+our current litigation against microsoft and sony is expensive  disruptive and time consuming and will continue to be  and if we are not successful  could adversely affect our business 
+on february   we filed a complaint against microsoft corporation  sony computer entertainment  inc  and sony computer entertainment of america  inc in the us district court for the northern district court of california alleging infringement of us patent nos 
+ and  the case was assigned to united states district judge claudia wilken 
+on april   sony computer entertainment and microsoft answered the complaint by denying the material allegations and alleging counterclaims seeking a judicial declaration that the asserted patents were invalid  unenforceable  or not infringed 
+the process of discovery and exchanging information and documents on infringement  invalidity  and claim construction  is underway 
+on october   we filed an amended complaint  withdrawing the claim under the patent and adding a claim of infringement of a new patent  us patent no 
+ on october   the court entered an amended case management order that sets  among other dates in the case  april  for a hearing to construe the claims of the asserted patents and april  for the start of trial 
+on october   sony computer entertainment and microsoft answered the amended complaint and alleged similar counterclaims for declaratory relief that the asserted patents are invalid  unenforceable  or not infringed 
+on march   sony computer entertainment filed a motion for summary judgement of non infringement 
+due to the inherent uncertainties of litigation  we cannot accurately predict the ultimate outcome of the litigation 
+we anticipate that the litigation will be costly  and there can be no assurance that we will be able to recover the costs we incur in connection with the litigation 
+the litigation has diverted  and is likely to continue to divert  the efforts and attention of some of our key management and personnel 
+as a result  until such time as it is resolved  the litigation could adversely affect our business 
+further  any unfavorable outcome could adversely affect our business 
+we may elect to raise additional capital in the future which may result in substantial dilution to our stockholders 
+should any unanticipated circumstances arise which significantly increase our cash or capital requirements we may elect to raise additional capital over the next twelve months to have a supply of cash for such events or future periods 
+our plans to raise additional capital may include possible customer prepayments of certain royalty obligations in exchange for a royalty discount and or other negotiated concessions  entering into new license agreements which require up front license payments  and potentially through debt or equity financing 
+we have taken measures to control our costs and will continue to monitor these efforts 
+we cannot be certain that additional financing will be available to us on favorable terms when required  or at all 
+changes in equity markets over the past two years have adversely affected the ability of companies to raise equity financing and have adversely affected the markets for financing for companies with a history of losses such as ours 
+additional financing may require us to issue additional shares of our common or preferred stock such that our existing stockholders may experience substantial dilution 
+the market for touch enabling technologies and touch enabled products is at an early stage and if market demand does not develop  we may not achieve or sustain revenue growth 
+the market for our touch enabling technologies  and our licensees touch enabled products is at an early stage 
+if we and our licensees are unable to develop demand for touch enabling technologies and touch enabled products  we may not achieve or sustain revenue growth 
+we cannot accurately predict the growth of the markets for these technologies and products  the timing of product introductions or the timing of 
+table of contents commercial acceptance of these products 
+we are currently working to increase the demand for these technologies and products in the following five principal application areas touch enabled medical simulators that can be used for training and skills assessment for procedures such as catheterization  bronchoscopy  colonoscopy  sigmoidoscopy and laparoscopic procedures  touch enabled peripherals for computer gaming on personal computers and dedicated gaming consoles  touch enabled automotive interfaces  touch enabled  whole hand sensing gloves  such as our cyberforce product  and cursor control peripherals  such as touch enabled mice and trackballs  for use with personal computers 
+even if our touch enabling technologies and our licensees touch enabled products are ultimately widely adopted  widespread adoption may take a long time to occur 
+the timing and amount of royalties and product sales that we receive will depend on whether the products marketed achieve widespread adoption and  if so  how rapidly that adoption occurs 
+we expect that we will need to pursue extensive and expensive marketing and sales efforts to educate prospective licensees and end users about the uses and benefits of our technologies and to persuade software developers to create software that utilizes our technologies 
+our quarterly revenues and operating results are volatile  and if our future results are below the expectations of public market analysts or investors  the price of our common stock is likely to decline 
+our revenues and operating results are likely to vary significantly from quarter to quarter due to a number of factors  many of which are outside of our control and any of which could cause the price of our common stock to decline 
+these factors include the establishment or loss of licensing relationships  the timing of payments under fixed and or up front license agreements  the timing of our expenses  including costs related to litigation  acquisitions of technologies or businesses  the timing of introductions of new products and product enhancements by us  our licensees or their competitors  our ability to develop and improve our technologies  our ability to attract  integrate and retain qualified personnel  and seasonality in the demand for our licensees products 
+accordingly  we believe that period to period comparisons of our operating results should not be relied upon as an indicator of our future performance 
+in addition  because a high percentage of our operating expenses are fixed  a shortfall of revenues can cause significant variations in operating results from period to period 
+if we are unable to enter into new licensing arrangements with our existing licensees and with additional third party manufacturers for our touch enabling technology  our royalty revenue may not grow 
+our revenue growth is significantly dependent on our ability to enter into new licensing arrangements 
+our failure to enter into new licensing arrangements will cause our operating results to suffer 
+we face numerous risks in obtaining new licenses on terms consistent with our business objectives and in maintaining  expanding and supporting our relationships with our current licensees 
+these risks include the lengthy and expensive process of building a relationship with potential licensees  the fact that we may compete with the internal design teams of existing and potential licensees  
+table of contents difficulties in persuading consumer product manufacturers to work with us  to rely on us for critical technology and to disclose to us proprietary product development and other strategies  and difficulties in persuading existing and potential licensees to bear the development costs necessary to incorporate our technologies into their products 
+a substantial majority of our royalty revenue has been derived from the licensing of our portfolio of touch enabling technologies for personal computer gaming peripherals  such as joysticks and steering wheels 
+the market for joysticks and steering wheels for use with personal computers is a substantially smaller market than either the mouse market or the dedicated gaming console market and is characterized by declining average selling prices 
+if we are unable to gain market acceptance beyond the personal computer gaming peripherals market  we may not achieve royalty revenue growth 
+our relationship with medtronic  a leading medical device company  may interfere with our ability to enter into development and licensing relationships with medtronic s competitors 
+in february  we entered into an agreement with medtronic  a leading medical device company  in which medtronic was granted a right of first negotiation 
+the right of first negotiation applies to any agreement proposed agreement under which we would grant a third party  rights to use specified immersion intellectual property in specified fields of use 
+under the terms of the right of first negotiation  we must notify medtronic if we have received a written offer from a third party to enter into a proposed agreement  or if we are seeking to find a third party to enter into a proposed agreement 
+medtronic has the exclusive right  for a period of forty days  to negotiate with us regarding the material terms of the proposed agreement 
+if during such forty day period  medtronic and immersion fail to reach agreement in principle upon the material terms of the proposed agreement  then we will have twelve months after the expiration of such forty day period to enter into an agreement with the applicable third party  provided that the terms of such agreement are in the aggregate more favorable to immersion than the offer presented by medtronic or the terms under which we initially sought to find a third party to enter into the proposed agreement 
+the right of first negotiation ceases to apply to any proposed agreement for which medtronic and immersion reach agreement in principle upon the material terms during the applicable forty day period  but thereafter do not execute a definitive agreement within days after the expiration of such forty day period 
+in addition  medtronic s right of first negotiation terminates upon the second anniversary of the completion of a development project to be undertaken by us for medtronic 
+although the right of first negotiation has not impeded our ability to interest other medical device companies in our technologies to date  this right of first negotiation or our relationship with medtronic may impede  restrict or delay our ability to enter into development or license agreements with large medical device companies that compete with medtronic 
+any restriction in our ability to enter into development or license agreements with other medical device companies would adversely affect our revenues 
+medtronic accounts for a large portion of our revenues and a reduction in sales to medtronic  a reduction in development work  or a decision not to renew existing licenses by medtronic may reduce our total revenue 
+for the years ended december   and we derived from medtronic  and respectively  of our net revenues 
+if our product sales to medtronic decline  and or medtronic reduces the development activities we perform then our total revenues may decline 
+logitech accounts for a large portion of our royalty revenue and the failure of logitech to achieve sales volumes for its gaming and cursor control peripheral products that incorporate our touch enabling technologies may reduce our royalty revenue 
+for the years ended december   and we derived from logitech  and respectively  of our net revenues and  and  respectively of our royalty and license revenue 
+we expect that a significant portion of our total revenues will continue to be derived from logitech 
+if logitech fails to achieve anticipated sales volumes for its computer peripheral products that incorporate our technologies  our royalty revenue would be reduced 
+
+table of contents the recent slowdown in personal computer sales may lead to a reduction in sales of our licensees touch enabled peripheral products  such as touch enabled mice and joysticks  which may adversely affect our royalty revenue 
+over the past year  large personal computer manufacturers have announced slower than anticipated sales of personal computers 
+this slowdown in personal computer sales may adversely affect sales of our licensees royalty bearing  touch enabled peripheral products  such as touch enabled mice and joysticks  that are used with personal computers 
+the slowdown affecting personal computer companies may also make it more difficult to persuade such manufacturers to incorporate more costly touch enabled mice products into their product lines 
+the impact of this downturn on our royalty revenue may be more pronounced if a significant cause of this trend is a reduction in the amount that individuals and companies have budgeted for personal computer related devices  such as touch enabled mice  rather than saturation of the market for personal computers generally 
+as a result  our results of operations and financial condition may be adversely affected 
+we may be unable to increase sales of our medical simulation devices if  as a result of the current economic slowdown or other factors  medical institutions do not budget for such devices 
+our medical simulation products  such as our accutouch endoscopy simulator  the accutouch endovascular simulator and our laparoscopic surgical workstation  have only recently begun to be used by hospitals and medical schools to train healthcare professionals 
+as a result  many of these medical institutions do not budget for such simulation devices 
+to increase sales of our simulation devices  we must  in addition to convincing medical institution personnel of the utility of the devices  persuade them to include a significant expenditure for the devices in their budgets 
+if these medical institutions are unwilling to budget for simulation devices or reduce their budgets as a result of the economic slowdown  cost containment pressures or other factors  we may not be able to increase sales of medical simulators at a satisfactory rate 
+as a result of the terrorist attacks against the united states on september  and the continuing threat of terrorist acts  hospitals may have assigned priority in their capital expenditure budgets to equipment that will enable them to respond more effectively to catastrophic emergencies  and federal  state and local governments may have delayed certain funding for medical and educational institutions  in which case purchases of medical simulators may have been deferred 
+if we are unable to increase sales of our medical simulation products  our results of operations and financial condition may be adversely affected 
+we believe that medical device companies may also decrease their expenditures in corporate research and development budgets and this may adversely affect our contract and development revenue generated by the medical segment 
+we do not control or influence our licensees manufacturing  promotion  distribution or pricing of their products incorporating our touch enabling technologies  upon which we are dependent to generate royalty revenue 
+a key part of our business strategy is to license our intellectual property to companies that manufacture and sell products incorporating our touch enabling technologies 
+sales of those products generate royalty and license revenue for us 
+for the years ended december   and  respectively  and of our total revenues were royalty and license revenues 
+however  we do not control or influence the manufacture  quality control  promotion  distribution or pricing of products that are manufactured and sold by our licensees 
+in addition  we generally do not have commitments from our licensees that they will continue to use our technology in future products 
+as a result  products incorporating our technologies may not be brought to market  meet quality control standards  achieve commercial acceptance or generate meaningful royalty revenue for us 
+for us to generate royalty revenue  licensees that pay us per unit royalties must manufacture and distribute products incorporating our touch enabling technologies in a timely fashion and generate consumer demand through marketing and other promotional activities 
+products incorporating our touch enabling technologies are generally difficult to design and manufacture which may cause product introduction delays or quality control problems 
+if our licensees fail to stimulate and capitalize upon market demand for products that generate royalties for us  or if products are recalled because of quality control problems  our revenues will not grow and could decline 
+
+table of contents peak demand for products that incorporate our technologies  especially in the computer gaming peripherals market  typically occurs in the third and fourth calendar quarters as a result of increased demand during the year end holiday season 
+if our licensees do not ship licensed products in a timely fashion or fail to achieve strong sales in the fourth quarter of the calendar year  we may not receive related royalty revenue 
+reduced spending by corporate research and development departments may adversely affect sales of our three dimensional and professional products 
+we believe that the current economic downturn has led to a reduction in corporations budgets for research and development in several sectors  including the automotive and aerospace sectors  that use our three dimensional and professional products 
+sales of our three dimensional and professional products  including our cyberglove line of whole hand sensing gloves and our microscribe g line of three dimensional digitizers may be adversely affected by these cuts in corporate research and development budgets 
+we have limited distribution channels and resources to market and sell our medical simulation and three dimensional simulation products  and if we are unsuccessful in marketing and selling these products we may not achieve or sustain product revenue growth 
+we have limited resources for marketing and selling medical simulation or three dimensional simulation products either directly or through distributors 
+to achieve our business objectives we must build a balanced mixture of sales through a direct sales channel and through qualified distribution channels 
+the success of our efforts to sell medical simulation and three dimensional simulation products will depend upon our ability to retain and develop a qualified sales force and effective distributor channels 
+we may not be successful in attracting and retaining the personnel necessary to sell and market our simulation products 
+a number of our distributors represent small specialized companies that may not have sufficient capital or human resources to support the complexities of selling and supporting simulation products 
+there is no assurance that our direct selling efforts will be effective  distributors will market our products successfully or  if our relationships with distributors terminate  we will be able to establish relationships with other distributors on satisfactory terms  if at all 
+any disruption in the distribution  sales or marketing network for our simulation products could have a material adverse effect on our product revenues 
+litigation regarding intellectual property rights could be expensive  disruptive  and time consuming  could result in the impairment or loss of portions of our intellectual property  and could adversely affect our business 
+intellectual property litigation  whether brought by us or by others against us  could result in the expenditure of significant financial resources and the diversion of management s time and efforts 
+from time to time  we initiate claims against third parties that we believe infringe our intellectual property rights 
+we intend to enforce our intellectual property rights vigorously and may initiate litigation against parties that we believe are infringing our intellectual property if we are unable to resolve matters satisfactorily through negotiation 
+litigation brought to protect and enforce our intellectual property rights could be costly  time consuming and distracting to management and could result in the impairment or loss of portions of our intellectual property 
+in addition  any litigation in which we are accused of infringement may cause product shipment delays  require us to develop non infringing technology or require us to enter into royalty or license agreements even before the issue of infringement has been decided on the merits 
+if any litigation were not resolved in our favor  we could become subject to substantial damage claims from third parties and indemnification claims from our licensees 
+we and our licensees could be enjoined from the continued use of the technology at issue without a royalty or license agreement 
+royalty or license agreements  if required  might not be available on acceptable terms  or at all 
+if a third party claiming infringement against us prevailed and we could not develop non infringing technology or license the infringed or similar technology on a timely and cost effective basis  our expenses would increase and our revenues could decrease 
+we attempt to avoid infringing known proprietary rights of third parties 
+however  third parties may hold  or may in the future be issued  patents that could be infringed by our products or technologies 
+any of these third parties might make a claim of infringement against us with respect to the products that we manufacture 
+table of contents and the technologies that we license 
+from time to time  we have received letters from companies  several of which have significantly greater financial resources than we do  asserting that some of our technologies  or those of our licensees  infringe their intellectual property rights 
+certain of our licensees have received similar letters from these or other companies 
+such letters may influence our licensees decisions whether to ship products incorporating our technologies 
+although none of these matters has resulted in litigation to date  any of these notices  or additional notices that we could receive in the future from these or other companies  could lead to litigation 
+we have acquired patents from third parties and also license some technologies from third parties 
+we must rely upon the owners of the patents or the technologies for information on the origin and ownership of the acquired or licensed technologies 
+as a result  our exposure to infringement claims may increase 
+we generally obtain representations as to the origin and ownership of acquired or licensed technology and indemnification to cover any breach of these representations 
+however  representations may not be accurate and indemnification may not provide adequate compensation for breach of the representations 
+intellectual property claims against us or our licensees  whether or not they have merit  could be time consuming to defend  cause product shipment delays  require us to pay damages  harm existing license arrangements  or require us or our licensees to cease utilizing the technology unless we can enter into royalty or licensing agreements 
+royalty or licensing agreements might not be available on terms acceptable to us or at all 
+furthermore  claims could also result in claims from our licensees under the indemnification provisions of their agreements with us 
+if we fail to protect and enforce our intellectual property rights  our ability to license our technologies and to generate revenues would be impaired 
+our business depends on generating revenues by licensing our intellectual property rights and by selling products that incorporate our technologies 
+if we are not able to protect and enforce those rights  our ability to obtain future licenses and royalty revenue could be impaired 
+in addition  if a court were to limit the scope of  declare unenforceable or invalidate any of our patents  current licensees may refuse to make royalty payments or may themselves choose to challenge one or more of our patents 
+also it is possible that our pending patent applications may not result in the issuance of patents  our patents may not be broad enough to protect our proprietary rights  and effective patent protection may not be available in every country in which our licensees do business 
+we also rely on licenses  confidentiality agreements and copyright  trademark and trade secret laws to establish and protect our proprietary rights 
+it is possible that laws and contractual restrictions may not be sufficient to prevent misappropriation of our technologies or deter others from developing similar technologies  and policing unauthorized use of our products and trademarks would be difficult  expensive and time consuming  particularly overseas 
+product liability claims could be time consuming and costly to defend  and could expose us to loss 
+claims that our products or our licensees products have flaws or other defects that lead to personal or other injury are common in the computer peripherals industry and medical fields 
+if products that we or our licensees sell cause personal injury  financial loss or other injury to our or our licensees customers  the customers or our licensees may seek damages or other recovery from us 
+any claims against us would be time consuming  expensive to defend and distracting to management and could result in damages and injure our reputation or the reputation of our licensees or their products 
+this damage could limit the market for our and our licensees products and harm our results of operations 
+in the past  manufacturers of peripheral products  such as computer mice and certain gaming products such as joysticks  wheels or gamepads  have been subject to claims alleging that use of their products has caused or contributed to various types of repetitive stress injuries  including carpal tunnel syndrome 
+we have not experienced any product liability claims to date 
+although our license agreements typically contain 
+table of contents provisions designed to limit our exposure to product liability claims  existing or future laws or unfavorable judicial decisions could limit or invalidate the provisions 
+because we have a fixed payment license with microsoft  our royalty revenue from licensing joysticks and steering wheels in the gaming market might decline if microsoft increases its volume of sales of touch enabled joysticks and steering wheels at the expense of our other licensees 
+under the terms of our present agreement with microsoft  microsoft receives a perpetual  worldwide  irrevocable  non exclusive license under our patents for microsoft s sidewinder force feedback pro joystick and its sidewinder force feedback wheel  and for a future replacement version of these specific sidewinder products having essentially similar functional features 
+instead of an ongoing royalty on microsoft s sales of licensed products  the agreement provided for a payment of million  which we recognized in equal monthly increments over a one year period that ended in mid july we will not receive any further revenues or royalties from microsoft under our current agreement with microsoft 
+at the present time  we do not have a license agreement with microsoft for products other than the sidewinder joystick and steering wheel 
+microsoft has a significant share of the market for touch enabled joysticks and steering wheels for personal computers 
+microsoft has significantly greater financial  sales and marketing resources  as well as greater name recognition and a larger customer base  than our other licensees 
+in the event that microsoft increases its share of this market  our royalty revenue from other licensees in this market segment might decline 
+the higher cost of products incorporating our touch enabling technologies may inhibit or prevent the widespread adoption and sale of products incorporating our technologies 
+personal computer gaming peripherals  computer mice and automotive controls incorporating our touch enabling technologies are more expensive than similar competitive products that are not touch enabled 
+although major manufacturers  such as logitech  microsoft  alps electric co 
+and bmw  have licensed our technology  the greater expense of products containing our touch enabling technologies as compared to non touch enabled products may be a significant barrier to the widespread adoption and sale of touch enabled products 
+competition between our products and our licensees products may reduce our revenue 
+rapid technological change  short product life cycles  cyclical market patterns  declining average selling prices and increasing foreign and domestic competition characterize the markets in which we and our licensees compete 
+we believe that competition in these markets will continue to be intense  and that competitive pressures will drive the price of our products and our licensees products downward 
+these price reductions  if not offset by increases in unit sales or productivity  will cause our revenues to decline 
+we face competition from unlicensed products as well 
+our licensees or other third parties may seek to develop products  which they believe do not require a license under our intellectual property 
+these potential competitors may have significantly greater financial  technical and marketing resources than we do  and the costs associated with asserting our intellectual property rights against such products and such potential competitors could be significant 
+moreover  if such alternative designs were determined by a court not to require a license under our intellectual property rights  competition from such unlicensed products could limit or reduce our revenues 
+if we are unable to continually improve  and reduce the cost of our technologies  companies may not incorporate our technologies into their products  which could impair our revenue growth 
+our ability to achieve revenue growth depends on our continuing ability to improve  and reduce the cost of  our technologies and to introduce these technologies to the marketplace in a timely manner 
+if our development efforts are not successful or are significantly delayed  companies may not incorporate our technologies into their products and our revenue growth may be impaired 
+
+table of contents if we fail to develop new or enhanced technologies for new applications and platforms  we may not be able to create a market for our technologies or our technologies may become obsolete and our ability to grow and our results of operations might be harmed 
+our initiatives to develop new and enhanced technologies and to commercialize these technologies for new applications and new platforms may not be successful 
+any new or enhanced technologies may not be favorably received by consumers and could damage our reputation or our brand 
+expanding our technology could also require significant additional expenses and strain our management  financial and operational resources 
+moreover  technology products generally have relatively short product life cycles and our current products may become obsolete in the future 
+our ability to generate revenues will be harmed if we fail to develop new technologies  our new technologies fail to gain market acceptance  or our current products become obsolete 
+we depend on a single supplier to produce some of our medical simulators and may lose customers if this supplier does not meet our requirements 
+we have one supplier for some of our custom medical simulators 
+our custom immersion medical simulators improve the performance and training of medical personnel 
+any disruption in the manufacturing process from our sole supplier could adversely affect the company s ability to deliver our products  ensure quality workmanship and could result in a reduction of the company s product sales 
+medical licensing and certification authorities may not endorse or require use of our technologies for training purposes  significantly slowing or inhibiting the market penetration of our medical simulation technologies 
+several key medical certification bodies  including the american board of internal medicine abim and the american college of cardiology acc  have great influence in endorsing particular medical methodologies  including medical training methodologies  for use by medical professionals 
+in the event that the abim and the acc  as well as other  similar bodies  do not endorse our medical simulation training products as a training vehicle  market penetration for our products could be significantly and adversely affected 
+automobiles incorporating our touch enabling technologies are subject to lengthy product development periods  making it difficult to predict when and whether we will receive per unit automotive royalties 
+the product development process for automobiles is very lengthy 
+we do not earn per unit royalty revenue on our automotive technologies unless  and until  automobiles featuring our technologies are shipped to customers  which may not occur until several years after we enter into an agreement with an automobile manufacturer 
+throughout the product development process  we face the risk that an automobile manufacturer or supplier may delay the incorporation of  or choose not to incorporate  our technologies into its automobiles  making it difficult for us to predict the per unit automotive royalties we may receive  if any 
+victor viegas  our president  chief executive officer  chief financial officer and director  recently became the chief executive officer and director of the company and if there are difficulties with this leadership transition it could impede the execution of our business strategy victor viegas  our president  chief executive officer  chief financial officer and director  took over the duties of chief executive officer and director in october our success will depend to a significant extent on his ability to implement a successful strategy  to successfully lead and motivate our employees  and to work effectively with our executive staff and board of directors 
+if this leadership transition is not successful  our ability to execute our business strategy would be impeded 
+
+table of contents we might be unable to retain or recruit necessary personnel  which could slow the development and deployment of our technologies 
+our ability to develop and deploy our technologies and to sustain our revenue growth depends upon the continued service of our executive officers and other key personnel and upon hiring additional key personnel 
+a number of employees of our subsidiaries  including several members of these subsidiaries senior management  have departed since the acquisitions were completed 
+it may not be possible to retain enough key employees of our subsidiaries to operate these businesses effectively 
+we may hire additional sales  support  marketing and research and development personnel 
+we may not be able to attract  assimilate or retain additional highly qualified personnel in the future 
+our executive officers and key employees hold stock options with exercise prices considerably above the current market price of our common stock 
+in addition  merit increases were suspended for fiscal each of these factors may impair our ability to retain the services of our executive officers and key employees 
+our technologies are complex and we rely upon the continued service of our existing engineering personnel to support licensees  enhance existing technology and develop new technologies 
+our major stockholders retain significant control over us  which may lead to conflicts with other stockholders over corporate governance matters and could also affect the volatility of our stock price 
+certain stockholders hold a substantial amount of our outstanding common stock 
+acting together  these stockholders would be able to exercise significant influence over matters that our stockholders vote upon  including the election of directors and mergers or other business combinations  which could have the effect of delaying or preventing a third party from acquiring control over or merging with us 
+further  if any individuals in this group elect to sell a significant portion or all of their holdings of our common stock  the trading price of our common stock could experience volatility 
+because personal computer peripheral products that incorporate our touch enabling technologies currently must work with microsoft s operating system software  our costs could increase and our revenues could decline if microsoft modifies its operating system software 
+our hardware and software technology for personal computer peripheral products that incorporate our touch enabling technologies is currently compatible with microsoft s windows  windows  windows me and windows xp operating systems software  including directx  microsoft s entertainment applications programming interface 
+if microsoft modifies its operating system  including directx  we may need to modify our technologies and this could cause delays in the release of products by our licensees 
+if microsoft modifies its software products in ways that limit the use of our other licensees products  our costs could be increased and our revenues could decline 
+legislative actions  higher insurance cost and potential new accounting pronouncements are likely to impact our future financial position and results of operations 
+there have been regulatory changes  including the sarbanes oxley act of  and there may potentially be new accounting pronouncements or additional regulatory rulings which will have an impact on our future financial position and results of operations 
+the sarbanes oxley act of and other rule changes as well as proposed legislative initiatives following the enron bankruptcy are likely to increase general and administrative costs 
+in addition  insurers are likely to increase premiums as a result of high claims rates over the past year  which we expect will increase our premiums for our various insurance policies 
+further  proposed initiatives are expected to result in changes in certain accounting rules  including legislative and other proposals to account for employee stock options as a compensation expense 
+these and other potential changes could materially increase the expenses we report under generally accepted accounting principles  and adversely affect our operating results 
+
+table of contents if our facilities were to experience catastrophic loss  our operations would be seriously harmed 
+our facilities could be subject to a catastrophic loss such as fire  flood  earthquake  power outage or terrorist activity 
+california has experienced problems with its power supply in recent years 
+as a result  we have experienced utility cost increases and may experience unexpected interruptions in our power supply that could have a material adverse effect on our sales  results of operations and financial condition 
+in addition  a substantial portion of our research and development activities  manufacturing  our corporate headquarters and other critical business operations are located near major earthquake faults in san jose  california  an area with a history of seismic events 
+any such loss at our facilities could disrupt our operations  delay production  shipments and revenue and result in large expenses to repair and replace the facility 
+while we believe that we maintain insurance sufficient to cover most long term potential losses at our facilities  our existing insurance may not be adequate for all possible losses 
+we have experienced rapid growth and change in our business  and our failure to manage this and any future growth could harm our business 
+any future periods of rapid growth may place significant strains on our managerial  financial  engineering and other resources 
+the rate of any future expansion  in combination with our complex technologies  may demand an unusually high level of managerial effectiveness in anticipating  planning  coordinating and meeting our operational needs as well as the needs of our licensees 
+we may engage in acquisitions that could dilute stockholders interests  divert management attention or cause integration problems 
+as part of our business strategy  we have in the past acquired  and may in the future acquire  businesses or intellectual property that we feel could complement our business  enhance our technical capabilities or increase our intellectual property portfolio 
+if we consummate acquisitions through an exchange of our securities  our stockholders could suffer significant dilution 
+acquisitions could also create risks for us  including unanticipated costs associated with the acquisitions  use of substantial portions of our available cash to consummate the acquisitions  diversion of management s attention from other business concerns  difficulties in assimilation of acquired personnel or operations  and potential intellectual property infringement claims related to newly acquired product lines 
+any acquisitions  even if successfully completed  might not generate significant additional revenue or provide any benefit to our business 
+we could lose some or all of the investment that we have made in an early stage technology company if that company is not successful in developing its technologies or unable to obtain additional financing if and when needed 
+from time to time we have made strategic investments in early stage technology companies that are developing technologies that we believe could complement or enhance our own technologies  if successful 
+we have made these investments to provide funding for the development of these companies technologies primarily because of the anticipated benefits to immersion of the availability of these technologies 
+the prospect of realizing a substantial return on these investments was a secondary  though important  consideration 
+we wrote down million of these investments in the third quarter of  and in the third quarter of we wrote down million of these investments and approximately  of interest receivable from these companies  and do not expect to realize any return on these amounts 
+our remaining investment may not succeed in developing its technology  might be unsuccessful in marketing its technology or products based on its technology or might fail for any number of other reasons  including an inability to obtain additional capital if required to fund operations  including the completion of the development of its technology 
+in the event that 
+table of contents this company in which we have invested fails or does not achieve a level of success that permits us to realize the value of this investment  we could experience a complete or partial loss on some or all of this investment 
+if we experience additional losses and related write downs on the carrying value of our remaining investment  it would decrease our assets and increase our losses 
+our current class action lawsuit could be expensive  disruptive and time consuming to defend against  and if we are not successful  could adversely affect our business 
+in re immersion corporation we are involved in legal proceedings relating to a class action lawsuit filed on november  the case is now designated as in re immersion corporation initial public offering securities litigation  no 
+civ 
+sdny  related to in re initial public offering securities litigation  no 
+mc sdny the action was filed in the united states district court  southern district of new york  against defendants immersion corporation  louis rosenberg former chief executive officer  president and chairman of the company  victor viegas current president  chief executive officer and chief financial officer  bruce schena former chief technology officer and director  and certain underwriters of immersion s november  initial public offering 
+subsequently  two of the individual defendants stipulated to a dismissal without prejudice 
+the case is purportedly brought on behalf of all persons who purchased the company s common stock from november  through december  the lawsuit has been consolidated for pretrial purposes with similar lawsuits relating to more than other initial public offerings conducted in and before the honorable judge shira a 
+scheindlin 
+on may   plaintiffs electronically served an amended complaint 
+the amended complaint alleges violations of sections and of the securities act of and sections b and a of the securities exchange act of  on the grounds that the prospectus incorporated in the registration statement for the company s initial public offering failed to disclose  among other things  that i the underwriter had solicited and received excessive and undisclosed commissions from certain investors in exchange for which the underwriter allocated to those investors material portions of the shares of the company s stock sold in the offering  and ii the underwriter had entered into agreements with customers whereby the underwriter agreed to allocate shares of the company s stock sold in the offering to those customers in exchange for which the customers agreed to purchase additional shares of the company s stock in the aftermarket at pre determined prices 
+the amended complaint appears to allege that false or misleading analyst reports were issued 
+the amended complaint does not claim any specific amount of damages 
+on july   the company as well as the other issuers and their affiliated individual defendants filed a motion to dismiss 
+on february   the motion was granted in part and denied in part 
+the motion was denied as to claims under the securities act of in all but ten of the cases  including the company s case 
+the motion was denied as to the claim under section b of the securities exchange act of as to the company  on the basis that the complaint alleged that the company had made acquisition s following the initial public offering 
+the motion was granted as to the claim under section b of the securities exchange act  but denied as to the claim under section a of that act  as to the remaining individual defendant 
+we intend to vigorously defend against this litigation 
+our stock may be volatile 
+the stock market has experienced extreme volatility that often has been unrelated or disproportionate to the performance of particular companies 
+these market fluctuations may cause our stock price to decline regardless of our performance 
+the market price of our common stock has been  and in the future could be  significantly affected by factors such as actual or anticipated fluctuations in operating results  announcements of technical innovations  announcements regarding litigation in which we are involved  new products or new contracts  sales or the perception in the market of possible sales of large number of shares of immersion common stock by insiders or others  changes in securities analysts recommendations  changing circumstances regarding competitors or their customers  governmental regulatory action  developments with respect to patents or proprietary rights  inclusion in or exclusion from various stock indices  and general market 
+table of contents conditions 
+in the past  following periods of volatility in the market price of a company s securities  securities class action litigation has been initiated against that company  such as the suit currently filed against us 
+provisions in our charter documents and delaware law could prevent or delay a change in control  which could reduce the market price of our common stock 
+provisions in our certificate of incorporation and bylaws may have the effect of delaying or preventing a change of control or changes in our management 
+in addition  certain provisions of delaware law may discourage  delay or prevent someone from acquiring or merging with us 
+these provisions could limit the price that investors might be willing to pay in the future for shares 
+item properties we lease a facility in san jose  california of approximately  square feet  which serves as our corporate headquarters for our sales  marketing  administration  research and development  manufacturing and distribution functions 
+products produced in san jose include our d capture products including microscribe g  our d interaction products including the cyberglove line of whole hand sensing gloves and three dimensional software products  and several of our professional and industrial products  including the softmouse and medical simulation tools for laparoscopic platform 
+the lease for this property expires in june we lease a facility in montreal  quebec  canada of approximately  square feet  for our subsidiary  immersion canada  inc the facility is used for administration and research and development functions 
+two leases  covering subdivisions of the property  expire in september we lease a facility in gaithersburg  maryland of approximately  square feet  for immersion medical 
+the facility is used for sales  marketing  administration  research and development  manufacturing and distribution functions 
+products assembled and distributed in gaithersburg include four medical simulators the cathsim vascular access simulator  the accutouch endoscopy simulator  and the accutouch endovascular simulator and the laparoscopy simulator 
+the lease for this property expires in may overall  the rent paid  including operating expenses  property taxes  and assessments  is currently approximately  per month and is subject to annual adjustment 
+we believe that our existing facilities are adequate to meet our current needs 
+item legal proceedings in re immersion corporation we are involved in legal proceedings relating to a class action lawsuit filed on november  the case is now designated as in re immersion corporation initial public offering securities litigation  no 
+civ 
+sdny  related to in re initial public offering securities litigation  no 
+mc sdny the action was filed in the united states district court  southern district of new york  against defendants immersion corporation  louis rosenberg former chief executive officer  president and chairman of the company  victor viegas current president  chief executive officer and chief financial officer  bruce schena former chief technology officer and director  and certain underwriters of immersion s november  initial public offering 
+subsequently  two of the individual defendants stipulated to a dismissal without prejudice 
+the case is purportedly brought on behalf of all persons who purchased the company s common stock from november  through december  the lawsuit has been consolidated for pretrial purposes with similar lawsuits relating to more than other initial public offerings conducted in and before the honorable judge shira a 
+scheindlin 
+on may   plaintiffs electronically served an amended complaint 
+the amended complaint alleges violations of sections and of the securities act of and sections b and a of the securities exchange act of  on the grounds that the prospectus incorporated in the registration statement for the company s initial public offering failed to disclose  among other things  that i the underwriter had solicited 
+table of contents and received excessive and undisclosed commissions from certain investors in exchange for which the underwriter allocated to those investors material portions of the shares of the company s stock sold in the offering  and ii the underwriter had entered into agreements with customers whereby the underwriter agreed to allocate shares of the company s stock sold in the offering to those customers in exchange for which the customers agreed to purchase additional shares of the company s stock in the aftermarket at pre determined prices 
+the amended complaint appears to allege that false or misleading analyst reports were issued 
+the amended complaint does not claim any specific amount of damages 
+on july   the company as well as the other issuers and their affiliated individual defendants filed a motion to dismiss 
+on february   the motion was granted in part and denied in part 
+the motion was denied as to claims under the securities act of in all but ten of the cases  including the company s case 
+the motion was denied as to the claim under section b of the securities exchange act of as to the company  on the basis that the complaint alleged that the company had made acquisition s following the initial public offering 
+the motion was granted as to the claim under section b of the securities exchange act  but denied as to the claim under section a of that act  as to the remaining individual defendant 
+management believes that the claims against the company and individual defendants are without merit and intends to vigorously defend against them 
+immersion corporation vs 
+microsoft corporation  sony computer entertainment inc and sony computer entertainment of america  inc 
+on february   we filed a complaint against microsoft corporation  sony computer entertainment  inc  and sony computer entertainment of america  inc in the us district court for the northern district court of california alleging infringement of us patent nos 
+ and  the case was assigned to united states district judge claudia wilken 
+on april   sony computer entertainment and microsoft answered the complaint by denying the material allegations and alleging counterclaims seeking a judicial declaration that the asserted patents were invalid  unenforceable  or not infringed 
+the process of discovery and exchanging information and documents on infringement  invalidity  and claim construction  is underway 
+on october   we filed an amended complaint  withdrawing the claim under the patent and adding a claim of infringement of a new patent  us patent no 
+ on october   the court entered an amended case management order that sets  among other dates in the case  april  for a hearing to construe the claims of the asserted patents and april  for the start of trial 
+on october   sony computer entertainment and microsoft answered the amended complaint and alleged similar counterclaims for declaratory relief that the asserted patents are invalid  unenforceable  or not infringed 
+on march   sony computer entertainment filed a motion for summary judgement of non infringement 
+due to the inherent uncertainties of litigation  we cannot accurately predict the ultimate outcome of the litigation 
+we anticipate that the litigation will be costly  and there can be no assurance that we will be able to recover the costs we incur in connection with the litigation 
+the litigation has diverted  and is likely to continue to divert  the efforts and attention of some of our key management and personnel 
+as a result  until such time as it is resolved  the litigation could adversely affect our business 
+further  any unfavorable outcome could adversely affect our business 
+item submission of matters to a vote of security holders no matters were submitted to a vote of security holders in the fourth quarter of fiscal 
+table of contents part ii item market for registrant s common equity and related stockholder matters our common stock is traded on the nasdaq national market under the symbol immr 
+the following table sets forth  for the periods indicated  the high and low sales prices for our common stock on such market 
+high low fiscal year ended december  fourth quarter third quarter second quarter first quarter fiscal year ended december  fourth quarter third quarter second quarter first quarter on march   the closing price was and there were stockholders of record 
+dividend policy we have never declared or paid any cash dividends on our common stock or other securities and we do not anticipate paying cash dividends in the foreseeable future 
+the company currently intends to retain any earnings to fund future growth  product development  and operations 
+item selected financial data the data set forth below has been restated to give retroactive effect to the merger of immersion and immersion medical  inc formerly ht medical systems  inc on september   which had been accounted for as a pooling of interests as described in note to our consolidated financial statements 
+prior to the merger  immersion medical ended its fiscal year on may subsequent to the merger  immersion medical changed its fiscal year end to december to conform to immersion s presentation 
+the restated consolidated balance sheets as of december   and include amounts for immersion medical as of may   and the consolidated statements of operations for each of the two years in the period ended december  include amounts for immersion medical for the fiscal years ended five months later 
+as a result of this presentation  immersion medical s results of operations for the five months ended may  are included in both the years ended december  and revenue and net loss for immersion medical for the five months ended may  were  and  respectively 
+the following financial data is qualified in its entirety by  and should be read in conjunction with  management s discussion and analysis of financial condition and results of operations and the consolidated financial statements and notes thereto included elsewhere in this annual report on form k 
+
+table of contents years ended december  in thousands  except per share data consolidated statements of operations data revenues cost and expenses operating loss net loss basic and diluted net loss per share shares used in calculating basic and diluted net loss per share december  in thousands consolidated balance sheet data cash and cash equivalents working capital total assets redeemable convertible preferred stock long term obligations  less current portion total stockholders equity item management s discussion and analysis of financial condition and results of operations the following discussion should be read in conjunction with the consolidated financial statements and notes thereto 
+this management s discussion and analysis of financial condition and results of operations includes forward looking statements within the meaning of section a of the securities act of  as amended  and section e of the securities exchange act of  as amended 
+the forward looking statements involve risks and uncertainties 
+forward looking statements are identified by words such as anticipates  believes  expects  intends  may  will and other similar expressions 
+however  these words are not the only way we identify forward looking statements 
+in addition  any statements  which refer to expectations  projections or other characterizations of future events or circumstances  are forward looking statements 
+actual results could differ materially from those projected in the forward looking statements as a result of a number of factors  including those set forth in item  those described elsewhere in this report and those described in our other reports filed with the sec 
+we caution you not to place undue reliance on these forward looking statements  which speak only as of the date of this report  and we undertake no obligation to release the results of any revisions to these forward looking statements which could occur after the filing of this report 
+overview we develop  manufacture  license and support a wide range of hardware and software technologies that enable users to interact with a multitude of computing and other devices using their sense of touch 
+we manage our business under two operating and reportable segments immersion computing  entertainment and industrial  and immersion medical 
+we focus on four application areas consumer  computing and entertainment  medical simulation  industrial and automotive  and three dimensional and professional 
+in high volume market areas such as consumer computer peripherals and automotive interfaces  we primarily license our touch enabling technologies to third party manufacturers 
+we have licensed our intellectual property to numerous manufacturers of mice  joysticks  knobs  wheels and gamepads targeted at consumers 
+for lower volume markets like medical simulation systems and three dimensional and professional products  our primary 
+table of contents strategy is to manufacture and sell products through direct sales  distributors and value added resellers 
+we sell medical simulation devices used to train and allow health care providers to practice and enhance their skills in a variety of procedures 
+these devices simulate such procedures as intravenous catheterization  endovascular interventions  and laparoscopic and endoscopic surgical procedures 
+we also sell three dimensional and professional products 
+our three dimensional products include the microscribe g desktop digitizer product line and associated software and accessories  specialized whole hand sensing gloves  armatures and software  including the cyberglove  cybergrasp  cyberforce  cybertouch and virtualhand software products that permit simulated interaction with three dimensional environments 
+in all market areas  we also engage in development projects for third parties and government agencies from time to time 
+historical results of operations the following table sets forth our statement of operations data as a percentage of total revenues 
+years ended december  revenues royalty and license product sales development contracts and other total revenues costs and expenses cost of product sales sales and marketing research and development general and administrative amortization of intangibles and deferred stock compensation impairment of goodwill acquisition related and other charges total costs and expenses operating loss interest and other income interest expense other expense net loss comparison of years ended december   and revenues change change royalty and license product sales development contracts and other total revenue our total revenues for the year ended december  increased by million or to million from million in royalty and license revenue decreased by  or from to royalties and license revenue is comprised of royalties earned on sales by our touchsense licensees and 
+table of contents license fees charged for our intellectual property portfolio 
+royalties from our gaming licensees decreased by  due to the decline in sales of general computing and pc gaming peripheral devices as well as delayed product introductions from some of our licensees 
+the decrease in gaming royalties was offset by an increase of  in automotive royalties and license fees and an increase of  in medical royalty and license revenue due in part from signing new automotive and medical license agreements during product sales for the period ended increased by  or from to the increase in product sales is primarily due to a million increase in sales of our medical products as compared to offset by decreased microprocessor sales of  and decreased three dimensional capture and interaction products sales of  medical product sales consist of sales of our virtual reality medical simulators in the vascular  endoscopic  endovascular  and laparoscopic product lines 
+demand for medical products increased across all product lines  and in particular the endoscopy simulator 
+the decline in our microprocessor sales is based on a decision to decrease the sales effort related to this low margin product line as well as reduced volume requirements from our licensees who use this microprocessor solution 
+sale of our three dimensional capture and interaction products such as our microscribe g and our line of whole hand interface devices decreased in from mainly due to delays in purchasing decisions by customers affected by the current economic slowdown 
+development contract and other revenue is comprised of revenue on commercial and government contracts  which increased by  or during fiscal as compared to fiscal due to securing new commercial and government development contracts in the medical field 
+total revenues for the year ended december  increased by million or to million from million in royalty and license revenue increased by million or from to the increase was due mainly to an increased number of product offerings by our licensees that generate per unit royalties  most notably in the gaming console market  as well as royalties from new licensees 
+during  royalty revenue included million recognized under our agreement with microsoft which ended mid july we did not receive any further revenues or royalties from microsoft under that agreement from july through product sales increased by million or from to the increase in product sales is primarily due to an increase in medical product sales of million  an increase of million for our three dimensional interaction products and an increase of  in microprocessor sales  offset by a decrease of  in softmouse sales 
+the increase in medical products sold is attributed to new product introductions and greater market awareness during versus the increase in three dimensional interaction products sales is due to the august acquisition of vti accounted for under the purchase method and therefore accordingly  these products sales were not fully reflected in our fiscal year revenues 
+development contract and other revenue decreased by  or from to the decrease in contract activity is mainly attributed to the conclusion of several long term contracts  which included the lightscribe d products in  and the conscious shift in focus from contract and research and development revenues to product sales 
+cost of product sales change change cost of product sales of product sales our cost of product sales consists primarily of materials  labor and overhead 
+there is no cost of product sales associated with royalty and license revenue or development contract revenue 
+the cost of product sales decreased by  or from to due to a combination of favorable product mix  decreased inventory write downs  and decreased royalties offset by increased price and production variances and increased overhead costs 
+product sales volume increased by from to but direct material and labor costs decreased by  or due to the reduction in sales of our lower margin products such as our microprocessors causing a favorable product mix and reduced direct costs 
+inventory write downs decreased by  largely due to a significant write down taken during fiscal for our lightscribe product line and royalties costs decreased by  from to due to the elimination of royalties due on our microscribe g product line 
+these cost savings were offset by increased price and production variances of  and increased overhead costs of  during fiscal as compared to fiscal 
+table of contents the cost of product sales was million in and million in  an increase of million or 
+the increase was mainly attributable to increased sales volume and increased overhead costs and other costs 
+total product sales volume increased by over the prior year and product sales volume increase contributed to approximately  to the increase in cost of product sales from to the increase in overhead costs contributed to approximately  increased inventory write downs of  on our lightscribe d products and increased royalties of  payable to third parties who assisted in the development of our products under various agreements 
+the shifts in product mix mainly offset each other and only contributed slightly to an increase in costs of product sales as a percentage of product sales during expenses change change sales and marketing research and development general and administrative amortization of intangibles and deferred stock compensation impairment of goodwill acquisition related and other charges sales and marketing 
+our sales and marketing expenses are comprised primarily of employee headcount and related compensation and benefits  advertising  trade shows  brochures  market development funds  travel and an allocation of facilities costs 
+sales and marketing expenses decreased by million or in compared to the reduction in expenses was attributable to our continued cost cutting measures and leverage of prior period investments in sales and marketing 
+in  we reduced advertising  market development funds  website development and corporate identity by million 
+in addition we reduced expenses associated with headcount and related overhead costs by  due to decreased headcount 
+the remaining cost reduction is associated with reduced travel expenses of  and reduced office and supplies expenses of  sales and marketing expenses decreased by million or in compared to the decrease was mainly due to reduced expenses of  related to corporate identity  advertising  collateral design and production and market development funds  and a  reduction in expenses due to decreased headcount  employee salary reductions  and corresponding employee benefits 
+the reduction in marketing expense reflects our ability to leverage programs and marketing materials initiated in prior periods and target expenses on products rather than the establishment of corporate identity and branding 
+research and development 
+our research and development expenses are comprised primarily of employee headcount and related compensation and benefits  consulting fees  costs of acquired technology  tooling and supplies and an allocation of facilities costs 
+research and development expenses decreased to million in compared to million in the decrease of million or reduction from the prior fiscal year was primarily due to reduced headcount and related overhead costs of  and reduced outside professional services of  we believe that continued investment in research and development is critical to our future success  and we expect these expenses may increase in absolute dollars in future periods  but decrease as a percentage of total revenues 
+research and development expenses increased to million in from million in the  or increase in was due primarily to the research and development costs incurred at our wholly owned subsidiary vti during fiscal  which was acquired in a transaction accounted for under the purchase method and therefore are  accordingly  not fully reflected in our fiscal research and development expenses 
+these expenses were partially offset by an overall decrease in personnel related expenses due to decreased headcount  employee salary reductions and decreased employee benefits costs 
+general and administrative 
+our general and administrative expenses are comprised primarily of employee headcount and related compensation and benefits  legal and professional fees  office supplies  
+table of contents recruiting  travel and an allocation of facilities costs 
+general and administrative expenses increased to million in compared to million in the increase of  or is primarily attributable to increased legal and professional fees of million  mostly related to the litigation against us and litigation against both sony and microsoft  offset by decreased personnel and related overhead costs of million 
+we expect that the dollar amount of general and administrative expenses will increase in the future as we incur additional costs related to these legal matters 
+general and administrative expenses decreased to million in from million in the  or decrease in is primarily due to a decrease in employee headcount  a decrease in salary costs due to salary reductions  and reduced costs in recruiting and other costs related to the implementation of significant cost reductions during amortization of intangibles and deferred stock compensation 
+amortization of intangibles and deferred stock compensation decreased by million or from to the decrease is mainly attributable to million of goodwill amortization incurred during prior to the adoption of statement of financial accounting standard sfas no 
+ goodwill and other intangible assets 
+sfas no 
+provides that goodwill and intangible assets with indefinite lives not be amortized but tested at least annually for impairment and therefore  no goodwill amortization was recorded during fiscal intangible amortization decreased by  as some intangible assets have reached full amortization and deferred stock compensation expense decreased by  due to the expiration of certain option vesting periods 
+amortization of intangibles and deferred stock compensation increased by  or  during the year ended december  compared to the year ended december  the increase in amortization of intangibles of  is mainly comprised of an increase of  representing the amortization of goodwill and other purchased intangibles  offset by a decrease in deferred stock compensation amortization of  mainly due to a one time deferred stock compensation charge in september related to the acceleration of options upon the consummation of the merger with immersion medical and expiration of vesting periods and reversal of deferred stock compensation on terminated employees 
+in addition  patent amortization decreased by  during as compared to impairment of goodwill 
+impairment of goodwill increased million or a increase from to during the fourth quarter of  in accordance with sfas no 
+ an impairment test was performed on goodwill in conjunction with the annual forecasting process 
+based on that analysis  it was determined that goodwill was impaired and a million impairment loss was recognized 
+acquisition related and other charges 
+for fiscal year  we incurred  of acquisition related and other charges compared to  incurred in fiscal year  an increase of  or 
+the costs primarily consisted of severance benefits paid due to a reduction of headcount in during the year ended december  we incurred  of acquisition related and other charges compared to million for the year ended december  the  costs in mainly consists of  in severance benefits paid as part of our cost reduction program implemented in  and  of accounting and legal charges  relating to the merger that occurred in the prior fiscal year 
+the million for the year ended december  represents  of in process research and development resulting from the march acquisition of all the outstanding shares of immersion canada  million for in process research and development resulting from the august acquisition of all the outstanding shares of vti and million of merger expenses related to the september acquisition of immersion medical 
+interest and other change change interest and other income interest expense other expense 
+table of contents interest and other income 
+interest and other income  consists primarily of interest income  dividend income and capital gains from cash and cash equivalents and short term investments 
+interest and other income declined by  and million for the year ended december  and  respectively 
+the decline is primarily due to reduced cash  cash equivalents and short term investments invested for the period due to cash used in operating and investing activities as well as reduced yields on investments 
+interest expense 
+interest expense consists primarily of interest expense on the company s secured convertible promissory note and other notes payable 
+the decrease in interest expense from to is related to the maturity and subsequent payment of the convertible promissory note and other notes payable 
+other expense 
+other expense consists primarily of noncash write downs of certain investments in privately held companies and interest on loans on these investments and losses on the disposal of property and equipment 
+other expense was million in  million in and  in other expense in consist primarily of an investment write down of our investment in early stage technology company  geometrix  inc in the amount of million 
+during other expense primarily consisted of our write down of million in end points  inc and geometrix  inc 
+and  of interest due to us from our investment in geometrix  inc segment results for the years ended december   and are as follows the company has two operating and reportable segments 
+immersion computing  entertainment and industrial develops and markets touchsense and force feedback technology that enables software and hardware developers to bring realism into their computing and entertainment experience and industrial applications 
+immersion medical develops  manufactures  and markets medical simulators that recreate realistic healthcare environments 
+change change revenues immersion computing  entertainment and industrial immersion medical intersegment eliminations total net loss immersion computing  entertainment and industrial immersion medical intersegment eliminations total fiscal compared to fiscal immersion computing  entertainment and industrial segment 
+revenues from the immersion computing  entertainment and industrial segment decreased million  or for the year ended december  compared to the year ended december  the decrease is mainly due to decreased product sales namely our microprocessors and decreased royalty revenue related to our gaming licensees 
+net loss for the year ended december  decreased by million or as compared to the year ended december  the decrease was primarily attributable to reduced sales and marketing expenses of million  reduced amortization of intangibles and deferred stock compensation of million  a decrease of million for net other income and expenses offset by impairment of goodwill of million and an increased general and administrative expenses of million 
+
+table of contents immersion medical segment 
+revenues from immersion medical increased million or for the year ended december   compared to the year ended december  the increase is primarily due to a million increase in product sales and million in development contract revenue 
+net loss for the year ended december  decreased by million or compared to the year ended december  net loss for the year ended december  decreased mainly due to increased gross profit of million  a decrease in research and development of  and a reduction in general and administrative expenses of  fiscal compared to fiscal immersion computing  entertainment and industrial segment 
+revenues from the immersion computing  entertainment and industrial segment increased million  or for the year ended december  compared to the year ended december  the increase is mainly due to increased royalties and industrial product sales 
+net loss for the year ended december  increased by million or as compared to the year ended december   principally due to the write down of other investments of million  decrease in other income of million  offset by a reduction in sales and marketing costs of million and a decrease in acquisition related and other charges of million 
+immersion medical segment 
+revenues from immersion medical increased million or for the year ended december   compared to the year ended december   primarily due to a million increase in product sales and  in development contract revenue 
+net loss for the year ended december  decreased million or compared to the year ended december  net loss for the year ended december  decreased mainly due to increased gross profit of million  a decrease in amortization of intangibles and deferred stock compensation of  a decrease in acquisition related and other charges of  offset by an increase in sales and marketing expenses of  liquidity and capital resources our cash  cash equivalents  and short term investments consist primarily of money market funds and highly liquid debt instruments 
+all of our cash equivalents and short term investments are classified as available for sale under the provisions of sfas no 
+ accounting for certain investments in debt and equity securities 
+the securities are stated at market value with unrealized gains and losses reported as a component of accumulated other comprehensive income loss within stockholders equity 
+at december  our cash  cash equivalents and short term investments totaled million  down million from million at december  net cash provided in operating activities during the fiscal year was  an increase of million from the million used during the comparable period during fiscal year cash provided in operations during the year ended december  comprised primarily of a million net loss offset by noncash charges and credits of million  including million impairment of goodwill  million in amortization of intangibles and deferred compensation and the write down of one of our investments in a privately held company of million  an increase of million due to a change in deferred revenue and customer advances  including a million increase in customer advances due to a prepayment from one licensee  and an increase of  due to a change in accounts payable and accrued liabilities 
+subsequent to december    of the prepayment was returned to the licensee upon reaching final terms of the prepayment agreement 
+net cash used in operating activities during was million  primarily attributable to a net loss of million offset by noncash charges and credits of million  including amortization of intangibles and deferred stock of million and the write down of our investments in endpoints  inc and geometrix  inc 
+of million and interest charges on a loan of  the net loss of million was also adjusted by an increase of  in prepaid expenses and other assets  an increase of  in accounts receivable and a million decrease due to a change in accounts payable and accrued liabilities 
+net cash used in operating activities during was million  due to net loss of million  an increase of million in accounts receivable  an increase in prepaid expenses and other assets of million and increase in inventories of  partially offset by noncash charges of million 
+
+table of contents net cash provided by investing activities during the fiscal year was million  as opposed to the  used by investing activities during fiscal year  an increase of million 
+net cash provided by investing activities during the period consisted of million sale of short term investments offset by  used to purchase capital equipment 
+net cash used by investing activities for was  and was made of million of sales and maturities of short term investments  offset by short term investment purchases of million and  used to purchase property and equipment for our corporate facilities and information technology infrastructure 
+in  net cash used by investing activities was million and primarily consisted of purchases of million of short term investments  investments in early stage technology companies of million  purchases of property and equipment of million and million for acquisitions  net of cash primarily offset by sales of short term investments of million 
+net cash used in financing activities during fiscal year was million compared to  provided during fiscal year  or a million decrease from prior year 
+net cash used in financing activities included payments of million on notes payable and capital leases including million on our convertible note payable to medtronic  offset by issuances of common stock and exercise of stock options and warrants of  in  net cash provided by financing activities was  and was primarily attributable to the net proceeds from the exercise of stock options and issuance of stock of  offset by payment on capital leases of  net cash provided by financing activities in was  and is the result of net proceeds from the exercise of stock options  warrants and issuance of stock of  offset by payment on notes payable and capital leases of  management believes its cash and cash equivalents are sufficient to meet its operating needs for the next twelve months 
+however  we may elect to raise additional capital over the next twelve months to address any unanticipated circumstances that significantly increase our cash or capital requirements 
+our plans to raise additional capital may include possible customer prepayments of certain royalty obligations in exchange for a royalty discount and or other negotiated concessions  entering into new license agreements which require up front license payments  and potentially through debt or equity financing 
+we have taken measures to control our costs and will continue to monitor these efforts 
+we do  however  expect our legal costs to increase during and as a result of our lawsuit against sony and microsoft 
+we anticipate that capital expenditures for the year ended december  will total approximately  in connection with anticipated upgrades to operations and infrastructure 
+during  we repaid approximately million of principal and interest of notes payable leaving  of debt on our balance sheet 
+to the extent we raise additional capital through debt or equity financing  this could result in substantial dilution for our stockholders 
+if we acquire one or more businesses  patents or products  our cash or capital requirements could increase substantially 
+in the event of such an acquisition or should any unanticipated circumstances arise which significantly increase our capital requirements  we may elect to raise additional capital through debt or equity financing 
+although we expect to be able to raise additional capital  there is no assurance that such additional capital will be available on terms acceptable to us  if at all 
+summary disclosures about contractual obligations and commercial commitments the following tables reflect a summary of our contractual cash obligations and other commercial commitments as of december  in thousands less than after contractual obligations total year years years years long term debt capital lease obligations operating leases total contractual cash obligations critical accounting policies and estimates our discussion and analysis of our financial condition and results of operations are based upon our consolidated financial statements  which have been prepared in accordance with accounting principles 
+table of contents generally accepted in the united states 
+the preparation of these consolidated financial statements requires management to make estimates and assumptions that affect the reported amounts of assets  liabilities  revenues  expenses  and related disclosure of contingent assets and liabilities 
+on an ongoing basis  we evaluate our estimates  including those related to revenue recognition  bad debts  warranty obligations  patents and intangible assets  inventories  contingencies  and litigation 
+we base our estimates on historical experience and on various other factors that we believe to be reasonable under the circumstances  the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources 
+actual results may differ from these estimates 
+we believe the following critical accounting policies affect our more significant judgments and estimates used in the preparation of our consolidated financial statements we derive our revenues from three principle sources royalties  product sales  and development contracts 
+we recognize royalty revenue based on royalty reports or related information received from the licensee as well as time based licenses of our intellectual property portfolio 
+up front payments under license agreements are deferred and recognized as revenue based on either the royalty reports received or amortized over the license period depending on the nature of the agreement 
+advance payments under license agreements that also require the company to provide future services to the licensee are deferred and recognized over the service period when vendor specific objective evidence related to the value of the services does not exist 
+if the information received from our licensees regarding royalties is incorrect or inaccurate  it could adversely affect revenue in future periods 
+to date all information received from our licensees has caused no material reduction in future period revenues 
+we recognize revenues from product sales when the product is shipped provided collection is determined to be probable and no significant obligation remains 
+development contract revenues are recognized under the cost to cost percentage of completion accounting method based on physical completion of the work to be performed 
+our revenue recognition policies are significant because our revenue is a key component of our results of operations 
+in addition  our revenue recognition determines the timing of certain expenses  such as commissions and royalties 
+revenue results are difficult to predict  and any shortfall in revenue or delay in recognizing revenue could cause our operating results to vary significantly from quarter to quarter and could result in greater or future operating losses 
+we maintain allowances for doubtful accounts for estimated losses resulting from our review and assessment of our customers ability to make required payments 
+if the financial condition of our customers were to deteriorate  resulting in an impairment of their ability to make payments  additional allowances might be required 
+to date such estimated losses have been within our expectations 
+we provide for estimated costs of future anticipated product returns and warranty obligations based on historical experience when related revenues are recognized and defer warranty related revenue over the related warranty term 
+we have acquired patents and other intangibles 
+our business acquisitions typically result in goodwill and other intangible assets 
+we assess the recoverability of our goodwill and other intangible assets and we must make assumptions regarding estimated future cash flows and other factors to determine the fair value of the respective assets that affect our consolidated financial statements 
+if these estimates or related assumptions change in the future  we may be required to record impairment charges for these assets  in addition  changes could affect the amount of future period amortization expense that we will incur 
+we adopted sfas no 
+ goodwill and other intangible assets  on january  and accordingly  we analyzed goodwill for impairment issues during the first six months of fiscal our periodic impairment test was performed during the fourth quarter in conjunction with the annual forecasting process and it was determined that an impairment of goodwill had occurred 
+during the fourth quarter  an impairment of goodwill loss of million was recognized 
+the above listing is not intended to be a comprehensive list of all of our accounting policies 
+in many cases  the accounting treatment of a particular transaction is specifically dictated by generally accepted accounting principles in the united states of america gaap  with no need for management s judgment in their application 
+there are also areas in which management s judgment in selecting any available alternative would not produce a materially different result 
+see our consolidated financial statements included elsewhere in this annual report which contains accounting policies and other disclosures required by gaap 
+
+table of contents recent accounting pronouncements in june  the fasb issued sfas no 
+ accounting for asset retirement obligations which applies to contractual obligations associated with the retirement of a tangible long lived asset that results from the acquisition  construction  or development and or the normal operation of a long lived asset 
+under this standard  guidance is provided on measuring and recording the liability 
+we intend to adopt this statement effective january  we do not believe that adoption of this statement will materially impact our financial position  results of operations or cash flows 
+in november  the fasb issued an announcement on the topic of income statement characterization of reimbursements received for out of pocket expense incurred eitf  which was subsequently incorporated in emerging issues task force eitf no 
+eitf requires companies to characterize reimbursements received for out of pocket expenses as revenues in the statement of operations 
+historically  the company has included reimbursements received for out of pocket expenses within revenue and included the related expenses in costs and expenses in the accompanying consolidated statements of operations 
+eitf is to be applied in financial reporting periods beginning after december  and comparative financial statements for the prior year are to be reclassified to comply with the guidance in eitf the company adopted eitf in the quarter ended march  eitf did not have a material effect on our operating results or financial condition 
+effective january   the company adopted the provisions of sfas no 
+ accounting for the impairment or disposal of long lived assets 
+this statement establishes a single accounting model for the impairment or disposal of long lived assets 
+the adoption of sfas no 
+did not have a material impact on the company s consolidated financial statements for the year ended december  on april   the fasb issued sfas  rescission of fasb statements no 
+  and  amendment of fasb statement no 
+ and technical corrections 
+the statement updates  clarifies and simplifies existing accounting pronouncements 
+among other things  sfas rescinds sfas  which required all gains and losses from extinguishment of debt to be aggregated and  if material  classified as an extraordinary item  net of related income tax effect 
+as a result  the criteria in accounting principles board opinion will now be used to classify those gains and losses 
+the statement is effective on various dates after may  the adoption of sfas no 
+did not have an impact on the company s consolidated financial statements for the year ended december  in june  the fasb issued sfas  accounting for costs associated with exit or disposal activities  which addresses accounting for restructuring and similar costs 
+sfas supersedes previous accounting guidance  principally emerging issues task force issue no 
+the company will adopt the provisions of sfas for restructuring activities initiated after december  sfas requires that the liability for costs associated with an exit or disposal activity be recognized when the liability is incurred 
+under issue  a liability for an exit cost would be recognized at the date of the company s commitment to an exit plan 
+sfas also establishes that the liability should be measured and recorded at fair value 
+accordingly  sfas may affect the timing of recognizing future restructuring costs as well as the amounts recognized 
+we do not believe that adoption of sfas will materially impact our financial position  results of operations or cash flows 
+in november  the eitf reached a consensus on issue no 
+accounting for revenue arrangements with multiple deliverables 
+the eitf concluded that revenue arrangements with multiple elements should be divided into separate units of accounting if the deliverables in the arrangement have value to the customer on a standalone basis  if there is objective and reliable evidence of fair value of the undelivered elements  and as long as there are no rights of return or additional performance guarantees by the company 
+the provisions of eitf issue no 
+are applicable to agreements entered into in fiscal periods beginning after june  we are currently determining what effect  if any  the provisions of eitf issue no 
+will have on our operating results or financial condition 
+in november  the fasb issued fasb interpretation no 
+ guarantor s accounting and disclosure requirements for guarantees  including indirect guarantees of indebtedness of others fin 
+fin requires that upon issuance of a guarantee  the guarantor must recognize a liability for 
+table of contents the fair value of the obligation it assumes under that guarantee 
+we adopted the disclosure requirements of fin in the fourth quarter of fiscal the recognition and measurement provisions will be applied to guarantees issued or modified after december  we are currently determining what effect if any  the provisions of fin will have on our operating results or financial condition 
+in december  the fasb issued sfas no 
+ accounting for stock based compensation transition and disclosure 
+the statement amends sfas no 
+ accounting for stock based compensation  to provide alternative methods of transition for a voluntary change to the fair value based method of accounting for stock based employee compensation 
+in addition  this statement amends the disclosures in both annual and interim financial statements about the method of accounting for stock based employee compensation and the effect of the method used on reported results 
+we adopted the disclosure provisions of sfas no 
+at december  we have not yet determined the effect that the transition provisions of sfas no 
+would have on our operating results or financial position  if any 
+in january  the fasb issued fasb interpretation no 
+ consolidation of variable interest entities fin  which addresses consolidation by business enterprises of entities that are not controllable through voting interests or in which the equity investors do not bear the residual economic risks 
+these entities have been commonly referred to as special purpose entities 
+the underlying principle behind the new interpretation is that if a business enterprise has a controlling financial interest in an entity  defined in the guidance as a variable interest entity  the assets  liabilities  and results of the activities of the variable interest entity should be included in consolidated financial statements with those of the business enterprise 
+the interpretation explains how to identify variable interest entities and how an enterprise should assess its interest in an entity to decide whether to consolidate that entity 
+the company will apply the provisions of fin prospectively for all variable interest entities created after january  for variable interest entities created before january   we will be required to consolidate all entities in which we are deemed to be the primary beneficiary beginning in the third quarter of fiscal we are currently determining what effect  if any  the provisions of fin will have on our operating results or financial condition 
+item a 
+quantitative and qualitative disclosures about market risk we have limited exposure to financial market risks  including changes in interest rates 
+the fair value of our portfolio or related income would not be significantly impacted by a basis point increase or decrease in interest rates due mainly to the short term nature of the major portion of our investment portfolio 
+an increase or decrease in interest rates would not significantly increase or decrease interest expense on debt obligations due to the fixed nature of our debt obligations 
+our foreign operations are limited in scope and thus we are not materially exposed to foreign currency fluctuations 
+we have equity investments in several privately held companies 
+we intend to hold our equity investments for the long term and will monitor whether there has been other than temporary declines in their values based on management s estimates of their net realizable value taking into account the companies respective financial condition and ability to raise third party financing 
+if the decline in fair value is determined to be other than temporary  an impairment loss is recorded and the individual security is written down to a new cost basis 
+as a result of our review  of the fair value of these investments  we recorded an impairment loss of million in the third quarter of  and in the third quarter of we recorded an impairment loss of million on these investments and a  impairment loss on interest receivable on loans on these investments 
+the remaining cost basis of these investments on our consolidated balance sheet is million 
+we will monitor the remaining value of these investments  and may determine that there could be other impairment losses in the future 
+as of december   management has determined that the carrying value of these investments at million is appropriate 
+
+table of contents 

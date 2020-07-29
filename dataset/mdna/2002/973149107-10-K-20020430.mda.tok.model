@@ -1,0 +1,847 @@
+item  management s discussion and analysis of financial condition and results of operations 
+these forward looking statements speak only as of the date this report was filed and of information currently and actually known 
+we do not intend to update these forward looking statements to reflect events or circumstances that occur after the filing of this report or to reflect the occurrence or effect of anticipated events  except as required by law 
+item business overview wind river is a leading supplier of software solutions and development tools for embedded systems 
+an embedded system consists of a microprocessor  or a series of microprocessors  and related software and is used to control  monitor or assist the operation of electronic devices  equipment and machinery 
+embedded systems are used in diverse products such as cellular phones  digital imaging products  auto braking systems  internet routers  jet fighter control panels and factory automation devices 
+our products  including our flagship products  the tornado development platform and the vxworks real time operating system  help customers to enhance product performance  standardize designs across projects  reduce research and development costs and shorten product development cycles 
+we simplify our customers process of programming for these embedded systems by providing off the shelf software  industry specific solution level products and programming tools 
+our off the shelf software includes operating systems  as well as middleware applications  such as networking and security protocols  that offer additional capabilities beyond those in the operating system 
+our solution level products integrate the operating systems with middleware to meet the requirements of specific industries 
+our software programming tools help customers write their own applications for embedded systems 
+we also offer a range of hardware reference designs that customers can incorporate into their products or use as a development platform before a customer s custom boards are available 
+to complement our broad range of software products and hardware reference designs  our professional services team provides comprehensive design engineering services and technical support 
+these services help customers complete a product specification  design critical drivers  ports or interfaces  and or provide a complete design for the customer s product or application 
+we offer training through a series of formal technical courses designed to help teach developers the basics of embedded software development and the effective use of our tools  operating systems and middleware 
+we also provide for worldwide maintenance and support of software products 
+we sell our products to customers in a variety of markets  including aerospace  automotive  digital imaging  industrial measurement and networking 
+our top fifteen customers for fiscal were alcatel  cisco systems  inc  ericsson radio systems ab  fujitsu ltd  hewlett packard company  intel corporation  lucent technologies inc  lockheed martin corporation  marconi plc  motorola  inc  nec corp  nortel networks corporation  philips electronics nv  raytheon company and siemens ag 
+none of these customers accounted for more than of our revenue in any of the years ended january   or wind river was incorporated in california in february and reincorporated in delaware in april our principal executive offices are located at wind river way  alameda  california  and the telephone number at that location is background embedded systems are incorporated into a larger device and are used to control  monitor or assist the operation of that device 
+as a result  embedded systems are designed to provide an immediate  predictable response to an unpredictable sequence of external events 
+as more powerful microprocessors have become available and have decreased in price  embedded systems are being used in a wider range of applications and digital appliances and are facilitating the development of entirely new products 
+to succeed in today s increasingly competitive markets  manufacturers using embedded systems must bring complex applications for new products to market rapidly and economically 
+developing embedded software applications has evolved from a relatively modest programming task to a complex engineering effort 
+as more powerful and affordable bit microprocessors have become available  products based on them have become richer in features and functions 
+increasingly  embedded applications are being designed for bit microprocessors  digital signal processors  and programmable logic devices 
+in addition  the embedded software required for the increased functionality of end devices is becoming more complex 
+more sophisticated software is required to develop these more complex applications  frequently including an operating system that provides developers far more features  higher performance and greater productivity than was necessary or feasible for programming prior generations of microprocessors 
+we provide end to end product solutions  including reference designs and tools to integrate software and hardware architectures  integrated development environments  operating systems  networking protocols  and standalone tools that can be used with non wind river operating systems 
+these flexible solutions allow customers to purchase specific products for their particular needs  while improving product reliability and time to market 
+as embedded applications increase in complexity  the costs associated with providing software development  support and training of engineers are rising rapidly 
+in addition  time to market  conformance to standards  product reliability and limited internal resources have become critical issues for companies developing embedded applications 
+products and services our software platforms and development tools help customers to create complex embedded software applications more quickly  more economically  and with less risk than creating such applications using internally developed systems and tools 
+we market our software products in a variety of ways designed to address the needs of a wide range of customers 
+the requirements of these customers vary significantly 
+customers seeking to design their own target applications entirely may work with wind river as a component supplier  while those looking to outsource a larger portion of their software development effort may look to wind river as a strategic partner 
+the cornerstone of our software products is our suite of embedded operating systems  which includes vxworks and vxworks ae  our most advanced family of operating systems  the psosystem family of operating systems  osekworks in the automotive field  the vspworks operating system  a recently acquired operating system  and bsd os  a unix based operating system 
+these operating systems are suitable for use in a broad range of embedded applications  including products in automotive  consumer electronics  wireless  industrial  telecom datacom and server management technologies 
+to complement our operating system products  we also license the tornado integrated development environment ide  which consists of a development platform and associated tools allowing customers to design  develop and test their new products on their developers workstations 
+the tornado ide includes a set of core and optional cross development tools and utilities along with the vxworks operating system  and allows for the integration of a wide variety of third party tools 
+we also provide a line of standalone development tools that customers can use with their own proprietary operating systems or with other third party operating systems 
+we provide optional extensions or middleware to our operating systems  which provide additional capabilities to developers  such as networking and security protocols  device management and java virtual machines 
+our middleware products act as an interface between the operating system software and specific software applications 
+customers can license and incorporate these extensions and middleware into the underlying operating system to provide features required for their specific applications 
+as applications become more complex  especially for web enabled products  prepackaged middleware solutions such as those offered by wind river have become more widely used to simplify development 
+our product family also includes a range of hardware reference designs that help customers design and implement software solutions 
+through the use of these hardware products  customers can incorporate portions of the reference design into their products or use the entire design as a development platform before a customer s custom boards are available 
+this allows software programming to be tested for operability and functionality  and to be corrected for errors  early in the design cycle  thereby advancing overall product development 
+to complement our broad range of software products and hardware reference designs  we provide comprehensive design services and technical support 
+these services help customers complete a product specification  design critical drivers  ports or interfaces  and or provide a complete design for the customer s product or application 
+these design services are offered on either a time and materials or fixed price basis and can encompass a broad range of services  including fully project managed custom hardware development  software development  and product integration 
+we offer training through a series of formal technical courses designed to help teach developers the basics of embedded software development and the effective use of our tools  operating systems and middleware 
+we also provide for worldwide maintenance and support of our software products in the field 
+we provide our software to customers through several forms of license agreements that grant the customer the right to use and distribute our products 
+operating systems are generally licensed on a per project basis and distributed by the customer for a per unit royalty fee based on the number of target applications running the operating system and placed in distribution 
+the tornado development tools are licensed for a fee based on the number of developer seats using the tools 
+bundled software integrated for market specific solutions are similarly licensed  combining both run time royalties and development fees 
+a significant number of our licenses for standard products are click wrap agreements contained in the product packaging 
+market specific solutions we offer market specific solutions for five key markets aerospace defense  automotive  digital consumer  industrial and network infrastructure 
+these solutions are built on the tornado ide and wind river operating systems and include fully integrated market specific middleware  and development tools 
+with these platforms  customers are able to focus their time and engineering resources on creating unique applications within their particular market segment 
+these market specific solutions include the following aerospace defense market tornado for do b 
+tornado for do b is a complete solution for customers who need do b certification for vxworks based applications 
+do b is an internationally recognized standard required for certifying software users in airborne systems and equipment 
+typical do b applications include flight management  instrument landing  and radar weather systems 
+tornado for do b ensures shorter time to market by reducing the risks associated with meeting do b software objectives 
+automotive market tornado for car infotainment 
+tornado for car infotainment facilitates the development of car infotainment and telematics devices  which use computer and telecommunications to enhance the functionality of automobiles 
+it includes wind river s tornado ide  vxworks rtos  embedded development tools  windml multimedia libraries  and personal jworks java solution tightly integrated with automotive specific components such as controller area network can  idb c  media oriented system  transport most  bluetooth and compatible with partner speech recognition  browser  osgi and idb technologies 
+tornado for osekworks 
+tornado for osekworks incorporates wind river s osekworks operating system into the tornado development environment  enabling developers to design complex automotive applications quickly and cost effectively 
+digital consumer market tornado for home gateways 
+tornado for home gateways provides a complete set of functions needed for virtually any gateway device for the home or small office 
+home gateways can range from a basic dsl or cable modem to a full media server  which combines broadband access with multimedia capabilities 
+small business gateway equipment can include small office home office soho routers or integrated access devices that combine data and voice capabilities 
+industrial market tornado for industrial automation 
+tornado for industrial automation is a complete development solution that includes the vxworks rtos and tornado ide  embedded development tools and industrial automation specific networking protocols 
+it is designed to shift the focus of embedded industrial device developers from the integration of enabling technologies to the development of the application itself thus resulting in faster time to market 
+network infrastructure market carrier and enterprise tornado for managed switches 
+tornado for managed switches tms provides a complete set of functions for enterprise class data networking switch and router equipment 
+tms includes the tornado ii development environment and vxworks plus communications protocols packaged so that customers can build different classes of data networking equipment 
+servers and storage tornado for intelligent i o 
+tornado for intelligent i o tio  helps networking and data storage equipment keep pace with the enormous data throughput demands of the internet 
+tio provides additional intelligence to offload the management of networking tasks from server and storage products  thereby increasing overall system performance and capabilities 
+tornado for intelligent network acceleration 
+tornado for intelligent network acceleration tina accelerates the tcp ip processing of a system by offloading the tcp ip stack to dedicated embedded processors 
+direct benefits include increased networking and storage networking bandwidth potential  as well as increased overall server performance 
+strategic alliances  acquisitions and investments the technology related to the embedded market in which we compete is dramatically and rapidly increasing in complexity 
+to continue to develop and deliver complete solutions for our customers and to retain our competitive advantage in the market place  we have pursued  and will continue to pursue  a strategy of acquiring key businesses and technologies  making selected investments in companies to partner in the development of key technologies and forming strategic alliances with significant customers 
+additionally  we have in the past made  and in the future may make  investments for the promotion of business and strategic objectives in both publicly traded and private companies 
+see item a  quantitative and qualitative disclosures about market risk for more information about our investments 
+during fiscal  we acquired certain assets and software products from eonic systems nv and berkeley software design  inc  as well as the telenetworks division of next level communications  inc these acquisitions  along with those made in fiscal and  have allowed us to add key technologies to our market specific solutions  integrated development solutions and hardware solutions 
+see factors that may affect future results integrating the companies we have acquired and costs associated with acquisitions and investments may disrupt and harm our reporting results under item for a discussion of the risks associated with acquisitions 
+we believe that having many strategic relationships with semiconductor manufacturers and embedded device manufacturers is important to our future success in the embedded systems marketplace 
+these relationships help us leverage significant investments made to drive innovation and standards across the industry and to better serve our customers overall needs 
+as a result  we enter into many of these relationships  including value added reseller agreements that focus on certain markets with target specific applications  the windlink and wind river direct programs which provide for joint marketing and sales arrangements with certain developers of third party applications for industry specific features  and the center of excellence programs in which we partner with leading microprocessor manufacturers to facilitate the porting  interfacing  and optimizing of our software across various families of microprocessors 
+we have strategic relationships with many of the major semiconductor companies including advanced risc machines ltd  broadcom corporation  fujitsu ltd  hitachi  inc  ibm corporation  intel corporation  mips technologies  inc  motorola  inc  nec corp  pmc sierra  inc  philips electronics nv  st microelectronics  texas instruments incorporated  and xilinx  inc we have ported our technologies to their semiconductors  allowing us to leverage our partners sales channels to give our products broader market exposure 
+we received million  million and  of funded research and development related to our center of excellence initiative  which offset a portion of our gross research and development expenses in fiscal years  and  respectively 
+we expect the center of excellence program to continue to help fund our research and development costs for fiscal at dollar levels similar to or slightly below fiscal levels 
+these strategic relationships are complex because some of the companies that are our strategic partners in certain business areas are also our competitors in other business areas 
+our strategic partners may also have concurrent relationships with companies that provide open source and in house solutions  which may put pressure on our product development roadmaps  timelines and prices 
+if we are not successful in developing and maintaining these strategic relationships  our business may be harmed 
+if our collaborative marketing and distribution agreements terminate or expire  the scope of our product offerings may be restricted  and the distribution of our products and revenues may be adversely impacted 
+customers our products have been deployed by a broad range of organizations  including companies in the following industries global networking both data and voice  digital imaging  digital consumer electronics  computers and peripherals  defense electronics and aerospace  research  automotive control and telematics  and industrial measurement and control 
+our customers consist of end users  distributors  original equipment manufacturers  system integrators and value added resellers 
+no single customer has accounted for more than of our total revenues in any of fiscal years  or marketing  sales and distribution we market our products and services in north america  europe  japan and the asia pacific region  primarily through our own direct sales organization  which consists of salespersons  field application engineers and support staff 
+our direct sales force presents wind river and our products for licensing to prospective customers  while application engineers provide technical pre sales and post sales support 
+as of january   we had sales employees located throughout north america  sales employees throughout europe  sales employees in japan and sales employees in the asia pacific region 
+as of january   we had employees in marketing  employees in professional services and employees in customer support 
+we have licensed certain international distributors  primarily in the asia pacific region  principally to serve customers in regions not serviced by our direct sales force 
+we have also established strategic relationships with computer  semiconductor  and software vendors  as well as a number of system integrators worldwide that enable us to further broaden the geographic and market scope for our products 
+during fiscal  we completed the transition to a direct sales model in japan from our joint venture arrangement with three master distributors 
+revenues in japan declined to million in fiscal compared to million in fiscal the decline in revenues in japan resulted primarily from the transition from a distribution model to selling through our direct sales force in japan 
+see factors that may affect future results our significant international business activities subject us to increased costs and economic risks under item for further discussion of the risks associated with our international operations generally and with our operations in japan specifically 
+revenues from sales to customers outside of north america represented million  million and million  or approximately  and of total revenue in fiscal  and  respectively 
+see note of notes to consolidated financial statements for further information about our international sales 
+prices for international customers are quoted primarily in local currency and are based on the united states price list adjusted to reflect the higher cost of doing business outside the united states 
+international customers are invoiced primarily in local currency 
+see item a  quantitative and qualitative disclosures about market risk for a discussion of the foreign currency fluctuation risks we face 
+we have experienced  and expect to continue to experience  seasonality resulting primarily from customer buying patterns and product development cycles 
+we have generally experienced the strongest demand for our products in the fourth quarter of each fiscal year and the weakest demand in the first quarter of each fiscal year 
+historically  quarterly revenue levels have increased over the levels for like quarters in the prior fiscal years  but have typically decreased in the first quarter of each fiscal year from the fourth quarter of the prior fiscal year 
+however  due primarily to the recent downturn in the united states economy  our revenues for each quarter in fiscal decreased over the levels of like quarters in fiscal see factors that may affect future results numerous factors may cause our total revenues and operating results to fluctuate significantly from period to period 
+under item competition the embedded software industry is highly competitive 
+see factors that may affect future results we face intense competition in the embedded software industry  which could decrease demand for our products or cause us to reduce our prices under item for a further description of factors that may impact our competitive position 
+our principal competition comes from internal research and development departments of companies that develop embedded systems in house 
+in many cases  companies that develop operating systems in house have already made significant investments of time and effort in developing their own internal systems  making acceptance of our products as a replacement more difficult 
+additionally  we compete with independent software vendors  including accelerated technology  inc recently acquired by mentor graphics corp  enea ose systems ab  green hills software  inc  microsoft corporation  qnx software systems  ltd  and symbian inc  as well as a number of other vendors that address one or more segments of the embedded system design process 
+we also compete with open source software vendors that promote the royalty free linux operating system for use in embedded applications  including red hat  inc  lynuxworks  and montevista software  inc 
+the open source licensing model provides readily available source code and a royalty free operating system  and leverages the added functionality and design improvements available from contributors to the open source community 
+we believe that the primary competitive factors in the industry center around the way customers and potential customers manage their process of software development 
+key factors driving their approach to software development include managing limited internal resources  controlling costs  minimizing development time and limiting their risks 
+as a result  the major competitive factors in our industry are reliability  performance and price  as well as customer support 
+we believe that we compete favorably with respect to each of these factors 
+product development and engineering we believe that our success will continue to depend primarily on our ability to maintain and enhance our current product line  develop new products  maintain technological competitiveness and meet an ever expanding range of customer and market requirements 
+as of january   our product development and engineering group included full time employees 
+during fiscal  and  product development and engineering expenses were million  million and million  respectively  excluding capitalized software development costs 
+during the fiscal years ended january   and  we incurred product and development and engineering expenses that qualified for capitalization of  million and million  respectively 
+we anticipate that we will continue to commit substantial resources to research and product development in the future 
+see strategic alliances  acquisitions and investments above for information on research and development funded by third parties through our center of excellence program 
+proprietary rights our success is heavily dependent upon our proprietary technology 
+to protect our proprietary rights  we rely on a combination of patent  copyright  trade secret  and trademark laws 
+as a part of our regular business processes  we generally enter into nondisclosure agreements with employees  consultants  distributors  customers and corporate partners  as appropriate  and thereby limit access to and distribution of our software  documentation and other proprietary information 
+furthermore  our licensing agreements provide for protection of our intellectual property both in terms of source code handling and underlying intellectual property ownership of modifications to the wind river code 
+see factors that may affect future results the rights we rely upon to protect our intellectual property may not be adequate  which could enable third parties to use our technology and reduce our ability to compete under item wind river and the wind river logo are registered trademarks in the united states and other countries worldwide 
+we have used  registered  and or applied to register specific trademarks and service marks to distinguish many of our products  technologies and services from those of our competitors in the us and in foreign countries and jurisdictions 
+we enforce our trademark  service mark and trade name rights in the us and abroad 
+we have filed and obtained a number of patents and patent applications in the united states and abroad that relate to various aspects of our products and technology 
+as of january   we have been issued patents in the united states  none of which have expired 
+the expiration dates of these patents range from to while we believe that patent protection of our products is important  any patents obtained may not provide substantial protection or be of commercial benefit to us 
+it is also possible that their validity will be challenged 
+manufacturing and backlog our manufacturing operation consists of assembling  packaging and shipping the software products and documentation needed to fulfill each order 
+limited manufacturing is currently performed at our sunnyvale  california facility 
+outside vendors provide tape and cd duplication  printing of documentation and manufacturing of packaging materials 
+we also manufacture and assemble our hardware development tools at our factory in canton  massachusetts 
+we do not believe that backlog is a meaningful indicator of sales that can be expected in future periods  particularly in view of the fast pace of technological change in the software industry 
+backlog was approximately to weeks and to weeks of sales at january  and  respectively 
+backlog includes orders that may be filled at various times throughout the fiscal year 
+employees at january   we had  employees  including in sales and marketing  in professional services and support activities  in product development and engineering and in management  operations  finance and administration 
+of these employees   were located in north america and were located outside of north america 
+none of our employees is represented by a labor union or is subject to a collective bargaining agreement 
+we have never experienced a work stoppage 
+our employees are vital to our success  and our key management  engineering  sales and other employees are difficult to replace 
+we generally do not have employment contracts with our key employees or maintain key person life insurance on any of our employees 
+the expansion of high technology companies in the san francisco bay area and elsewhere has increased competition for highly qualified technical personnel 
+if we are unable to attract  assimilate  retain or motivate highly qualified technical and sales employees in the future through competitive compensation and employment policies  our ability to develop and introduce competitive new products in a timely manner may suffer 
+item properties our corporate headquarters are based in alameda  california 
+the campus provides approximately  square feet of space 
+see note  commitments and contingencies in the notes to consolidated financial statements as well as liquidity and capital resources under item  management s discussion and analysis of financial condition and results of operation for a discussion of the synthetic lease agreements related to the alameda facility 
+we also own approximately  square feet of office space in sunnyvale  california 
+in addition  we lease a number of customer training facilities in the united states  europe and the asia pacific region 
+we also lease a number of sales and services  manufacturing  and research and development offices in north america  europe  japan and the asia pacific region 
+item legal proceedings in february  we entered into a license and distribution agreement with the mathworks  inc tmw  to ensure customer support and product transition as we prepared to discontinue our matrixx product family 
+under the agreement  in exchange for cash payments totaling million  we granted to tmw the exclusive distribution rights to matrixx for a period of two and a half years  as well as an option to purchase the matrixx intellectual property and assets at the end of the licensing term for an additional payment 
+in july  the antitrust division of the us department of justice commenced a civil antitrust investigation into whether our agreement with tmw was in violation of the federal antitrust laws 
+wind river has cooperated fully with the justice department and expects to resolve the matter without any enforcement action being commenced and without incurring any material financial loss 
+on december   we filed an action for declaratory relief in the superior court of california  county of alameda  against mentat  inc concerning the distribution agreement for computer software package the agreement entered into between wind river and mentat 
+under the agreement  we agreed to license and distribute software designed by mentat known as windnet streams  which provides an interface for certain networking protocols and terminal subsystems  helpful but not commonly used in embedded applications 
+the dispute arose from a claim by mentat alleging that we had breached the agreement by distributing windnet streams binaries in a recent distribution of less than board support packages and by including some allegedly confidential source code header files but not the application itself in wind river s tornado x product 
+mentat alleged damages measured at license fees of  for each windnet streams binary distribution and source code license fees of  for each header file distribution 
+we have requested that the court make a declaration that i the header files are not confidential source code  ii no misappropriation of mentat s trade secrets has occurred  iii mentat has failed to mitigate  and has not suffered  any damages  and iv wind river has not breached the agreement 
+on december   mentat filed a counter claim and response to our action making the same allegations set forth above 
+we intend to pursue this action and defend the matter vigorously and believe we have meritorious defenses to the allegations 
+we believe that the outcome of our outstanding legal proceedings  claims and litigation will not have a material adverse effect on our business  results of operations or financial condition 
+however  such matters involve complex questions of fact and law and could involve significant costs and the diversion of resources to defend 
+additionally  the results of litigation are inherently uncertain  and an adverse outcome is at least reasonably possible 
+we are unable to estimate the range of possible loss from outstanding litigation and other legal proceedings and no amounts have been provided for such matters in the accompanying consolidated financial statements 
+if we are not successful in defending these claims  our business  financial condition and results of operations could be materially adversely affected 
+item submission of matters to a vote of security holders not applicable 
+item a 
+executive officers of the registrant the names of our executive officers  their ages as of april   and their positions are shown below name age title jerry l 
+fiddler chairman of the board thomas m 
+st 
+dennis president  chief executive officer and director david g 
+fraser vice president and general manager of the networks business unit john c 
+fogelin chief technical officer and vice president and general manager of the embedded technologies business unit stephen a 
+kennedy vice president of worldwide sales and marketing marla a 
+stark vice president  general counsel and assistant secretary michael w 
+zellner vice president of finance  chief financial officer and secretary mr 
+fiddler co founded wind river in february  and currently serves as chairman of the board 
+from february to march  he served as chief executive officer of wind river 
+he served as interim chief executive officer from april to september prior to founding wind river  he was a computer scientist in the real time systems group at lawrence berkeley laboratory 
+mr 
+fiddler holds a ba in music and photography and a ms in computer science from the university of illinois 
+mr 
+st 
+dennis joined wind river in september as president and chief executive officer and as a director 
+from july to september  mr 
+st 
+dennis was at applied materials  inc  a semiconductor equipment manufacturer  where he last served as group vice president and president of the planarization and dielectric deposition products business group 
+from to  mr 
+st 
+dennis was vice president of technology at the silicon valley group  inc  also a semiconductor equipment manufacturer 
+from to  he served as vice president of sales and marketing at semiconductor systems  inc  a semiconductor company 
+mr 
+st 
+dennis has a bs and a bs in physics from the university of california at los angeles 
+mr 
+fraser joined wind river in september and currently serves as vice president and general manager of the networks business unit 
+mr 
+fraser has previously held a number of positions at wind river  including vice president of engineering and director of product development 
+from to  he served as a product marketing manager at unisys corporation  an information services and technology company 
+from to  he was a software engineer at hewlett packard corporation  a provider of computing and imaging solutions and services  in england 
+mr 
+fraser holds a bs in computing science from glasgow university  scotland 
+mr 
+fogelin joined wind river in may and currently serves as chief technical officer and vice president and general manager of the embedded technologies business unit 
+he has held a number of positions at wind river  including chief technologist  director of application environments  vice president of core technology  vice president of technology  and vice president of platform engineering 
+mr 
+kennedy joined wind river in may as vice president of worldwide sales and marketing 
+from december until may  mr 
+kennedy was senior vice president worldwide sales and marketing at sonicblue  incorporated  a manufacturer of digital media  consumer electronic  internet appliance and home networking products 
+prior to that  mr 
+kennedy spent years at quantum corporation  a manufacturer of data storage and protection products  where he most recently served as the executive vice president worldwide sales and marketing 
+mr 
+kennedy holds a ba in business with a concentration in sales and marketing from portsmouth university  portsmouth  england 
+ms 
+stark joined wind river in september and currently serves as vice president  general counsel and assistant secretary 
+previously  ms 
+stark was vice president of intellectual property and legal affairs 
+from to  she served as the managing director of intellectual property litigation at applied materials  a semiconductor equipment manufacturer  and from to  as vice president and general counsel of conner peripherals inc  a supplier of disk drives and memory storage management systems 
+prior to that  ms 
+stark was in private practice as an attorney at wilson sonsini goodrich rosati  a professional corporation  and brown bain 
+ms 
+stark holds a ba from stanford university and a ba from the university of california  hastings school of law 
+mr 
+zellner joined wind river in september as vice president of finance  chief financial officer and secretary 
+from to  mr 
+zellner was at applied materials  inc  a semiconductor equipment manufacturer  where he last served as a senior director of finance 
+prior to joining applied materials  from to  he served in various financial roles at unisys corporation  a computer systems and information management company 
+mr 
+zellner has completed the stanford executive program at stanford university graduate school of business and holds a bba and mba in accounting from florida atlantic university 
+part ii item market for registrant s common equity and related stockholder matters our common stock is traded on the nasdaq national market under the symbol wind 
+at april   there were approximately stockholders of record of our common stock 
+the last sale price of our common stock as reported by the nasdaq national market on april  was per share 
+the following table sets forth the low and high sales prices on the nasdaq national market for the quarters indicated low high fiscal first quarter ended april  second quarter ended july  third quarter ended october  fourth quarter ended january  low high fiscal first quarter ended april  second quarter ended july  third quarter ended october  fourth quarter ended january  we have not paid cash dividends in the past and do not plan to pay dividends on our common stock in the foreseeable future 
+we presently intend to retain all of our earnings for use in our business 
+under the terms of a purchase agreement dated december   we sold million principal amount of convertible subordinated notes due december   to credit suisse first boston corporation  ubs warburg llc and thomas weisel partners llc  which principal amount included notes purchased pursuant to an option that was granted to the initial purchasers 
+the issuance and sale of the notes to the initial purchasers were exempt from the registration provisions of the securities act of by section of such act and the subsequent offering of the notes by the initial purchasers was exempt from such registration provisions under rule a under such act 
+the notes were sold for cash 
+the aggregate proceeds from the sale of the notes were million and the aggregate discount to the initial purchasers was million 
+the notes are convertible at any time before maturity into our common stock at an initial conversion price of per share  subject to specified anti dilution adjustments 
+we may redeem all or a portion of the notes for cash at a redemption price of of the principal amount between december  and december   and of the principal amount beginning december  and thereafter 
+additionally  under specified circumstances we may redeem the notes prior to item selected financial data the selected consolidated financial data presented below should be read in conjunction with the more detailed consolidated financial statements presented in item of this annual report on form k 
+the consolidated financial data for periods prior to the financial statements presented in item of this annual report on form k are derived from audited consolidated financial statements not included herein and have been restated to reflect historical financial information of routerware  inc and integrated systems  inc through we acquired routerware  inc 
+in june and integrated systems  inc in february  both acquisitions were accounted for as poolings of interests 
+years ended january  in thousands  except per share amounts consolidated statement of operations data revenues      income loss from operations    net income loss     net income loss per share basic diluted as of january  consolidated balance sheet data working capital      total assets      convertible subordinated notes and long term debt      stockholders equity     operating income includes the effect of  of amortization of goodwill  purchased technology and other intangibles  million in other charges associated with arbitration expenses from a legal settlement and million incurred for the retirement package of the former chief executive officer of integrated systems  inc net income and net income per share includes those items stated in above  together with a one time tax benefit of million 
+operating income  net income and net income per share include the effect of million in acquisition related charges associated with the purchase of in process technologies from liberate technologies  inc and objective software technology  ltd 
+item management s discussion and analysis of financial condition and results of operations overview wind river is a leading supplier of software solutions and development tools for embedded systems 
+an embedded system consists of a microprocessor  or a series of microprocessors  and related software and is used to control  monitor or assist the operation of electronic devices  equipment and machinery 
+embedded systems are used in diverse products such as cellular phones  digital imaging products  auto braking systems  internet routers  jet fighter control panels and factory automation devices 
+our products  including our flagship products  the tornado development platform and the vxworks real time operating system  help customers to enhance product performance  standardize designs across projects  reduce research and development costs and shorten product development cycles 
+we sell our products to customers in a variety of markets  including aerospace  automotive  digital imaging  industrial measurement and networking 
+we market our products and services in north america  europe  japan and the asia pacific region primarily through our own direct sales organization  which consists of sales persons and field engineers 
+we also license international distributors  primarily in the asia pacific region  principally to serve customers in regions not serviced by our direct sales force 
+wind river was incorporated in california in february and reincorporated in delaware in april overview of fiscal during the second quarter of fiscal we began to be significantly impacted by the current economic downturn in the high technology sector 
+as a result  our revenues for fiscal were million compared to million in fiscal  representing a decrease of 
+we experienced a decline in both our product and service revenues  in part due to our customers having delayed or canceled  in whole or in part  their purchase decisions due to their own economic situations 
+our net loss in fiscal was million compared to million in the previous fiscal year 
+in addition to the impact of declining revenues on our net loss  our financial statements also reflected an impairment charge relating to goodwill and purchased intangibles of million and a restructuring charge of million 
+the impairment charge related primarily to intangibles acquired from embedded support tools corporation  rapid logic  inc and audesi technologies inc  which were acquired through purchase transactions completed in the prior fiscal year 
+the restructuring charge related to severance and excess facilities costs incurred as a result of our decision to implement various cost control and reorganizational measures to reduce operating costs in response to the economic downturn 
+during the second quarter  we implemented various cost saving measures  including reducing our headcount  reducing executive compensation  implementing a program of office closure days and reducing discretional spending on items such as consulting and travel 
+we were not able to reduce our fixed and variable costs as quickly as the decline we experienced in the demand for our products 
+during fiscal we also repurchased and redeemed million of our convertible subordinated notes and in december  we issued million of new convertible subordinated notes 
+we have substantial debt service  principal repayment and lease payment obligations  which could affect our liquidity  cash reserves and ability to obtain additional financing if we need to do so 
+see results of operations years ended january  and and factors that may affect future results the recent economic downturn has adversely impacted and may continue to impact our revenues and earnings for a further discussion of the impact of the economic downturn on us 
+critical accounting policies the consolidated financial statements are prepared in accordance with accounting principles generally accepted in the united states  which requires us to make estimates and assumptions 
+note to the consolidated financial statements describes our significant accounting policies 
+however  those policies that we believe are most critical to an understanding of our financial results and condition and that require a higher degree of judgment and complexity are as follows and are discussed below 
+revenue recognition estimating sales returns and allowance for doubtful accounts valuation of investments and long lived assets  including goodwill and purchased intangibles accounting for off balance sheet operating leases accounting for income taxes revenue recognition we derive revenues from two sources i product revenues and ii service revenues 
+product revenues consist of royalties and fees for operating systems and fees for the use of development tools 
+we license our software products under perpetual as well as time based arrangements 
+service revenues are derived from fees from professional services  which include design and development fees  software maintenance contracts  and customer training and consulting 
+maintenance contract renewals are generally sold separately from our products 
+our customers consist of end users  distributors  original equipment manufacturers  system integrators and value added resellers 
+agreements generally do not allow the right of return or sales price adjustments 
+we recognize revenues in accordance with statement of position sop  software revenue recognition  as amended  sop  accounting for performance of construction type and certain production type contracts  and staff accounting bulletin sab  revenue recognition 
+we recognize revenues when persuasive evidence of an arrangement exists  delivery has occurred  the vendor s fee is fixed or determinable and vendor specific objective evidence vsoe exists to allocate the total fee to all undelivered elements of the arrangement and collection is determined to be probable 
+these four criteria are further defined as follows persuasive evidence of an arrangement exists 
+it is our customary practice to have written non cancelable contracts and a customer purchase order prior to recognizing revenues on an arrangement 
+delivery has occurred 
+product revenues for software and hardware are recognized at the time of shipment or upon the delivery of a product master  with standard transfer terms of fob shipping point 
+if undelivered products or services exist that are essential to the functionality of the delivered product in an arrangement  delivery is not considered to have occurred 
+if only non essential products or services are undelivered and if evidence of fair value of all undelivered elements exists  then revenue is recognized using the residual method 
+under the residual method  the recognition of fair value of the undelivered elements is deferred and the remaining portion of the arrangement fee is recognized as revenue 
+we recognize revenues from one year time based licenses ratably over the term of the agreement 
+for multi year time based licenses  we defer recognition of the fees associated with the vsoe of the maintenance and support over the term of the license and recognize the residual contract amount in the period in which the agreement is signed  so long as we have vsoe for undelivered elements  which typically consist of maintenance and support 
+where vsoe does not exist for undelivered elements  we recognize the fees ratably over the term of the multi year license 
+sales to distributors  original equipment manufacturers  system integrators and value added resellers are recognized either at the time the risks of ownership have transferred or upon receipt of royalty reports related to the sale of product to an end user  depending on our historical experience with these customers 
+service revenues from professional services contracts are recognized as the services are performed for time and materials contracts and using the percentage of completion basis for fixed price contracts 
+service revenues from software maintenance  support and update fees are recognized ratably over the contract period  which in most instances is one year 
+service revenues from training and consulting are recognized when the services are provided 
+the vendor s fee is fixed or determinable 
+at the time of each transaction  we assess whether the fee associated with a revenue transaction is fixed or determinable based on the payment terms associated with the transaction 
+if any portion of a fee is due after our standard payment terms  which are generally no greater than days from invoice date  we account for the fee as not being fixed or determinable 
+in these cases  revenue is recognized as the fees become due 
+collection is probable 
+we assess probability of collection based on a number of factors  including our past transaction history with the customer and the credit worthiness of the customer 
+new customers and certain existing customers are subject to a credit review process that evaluates the customers financial position and ultimately their ability to pay according to the original terms of the arrangement 
+based on our review process  if it is determined from the outset of an arrangement that collection of the resulting receivable is not probable  then revenue is recognized on a cash collected basis 
+significant management judgments and estimates are made in connection with the revenues recognized in any accounting period 
+we must assess whether the fee associated with a revenue transaction is fixed or determinable and whether or not collection is probable 
+material differences could result in the amount and timing of revenues for any period if management were to make different judgments or utilize different estimates 
+estimating sales returns and allowance for doubtful accounts we record estimated reductions in revenue for potential returns of products by customers 
+as a result  management must make estimates of potential future product returns related to current period product revenue 
+in making such estimates  management analyzes historical returns  current economic trends  and changes in customer demand and acceptance of our products 
+similarly  management makes estimates of the uncollectability of accounts receivables  specifically analyzing accounts receivable and historical bad debts  customer concentrations  customer credit worthiness  current economic trends and changes in customer payment terms  when evaluating the adequacy of the allowance for doubtful accounts 
+if management were to make different judgments or utilize different estimates  material differences in the amount of our reported revenue could result 
+valuation of investments and long lived assets  including goodwill and purchased intangibles we have made long term minority investments in a number of private and publicly traded companies 
+we record an impairment charge when an investment has experienced a decline in value that is judged to be other than temporary 
+we monitor our investments for impairment by considering current factors  including economic environment  market conditions and the operational performance and other specific factors relating to the business underlying the investment 
+future adverse changes in these factors could result in losses or an inability to recover the carrying value of the investments that may not be reflected in an investment s current carrying value  thereby possibly requiring an impairment charge in the future 
+our long lived assets include goodwill and other purchased intangible assets 
+in determining the fair value of these assets  we assess the recoverability of goodwill and other purchased intangibles which requires that management make assumptions regarding estimated future cash flows associated with such assets and other factors 
+we review such assets for impairment when a change in circumstances indicates a potential decline in value and  if they are determined to be impaired  we record an impairment charge 
+the impairment charge for assets held for use is determined based upon the estimated discounted cash flows over the remaining useful life of the goodwill and other intangibles using an appropriate discount rate that incorporates our cost of capital and the risk profile of the associated investment 
+the assumptions supporting the cash flows  including the discount rates  are determined using our best estimates as of the date of the impairment review 
+if these estimates or their related assumptions change in the future  we may be required to record additional impairment charges for these assets not previously recorded 
+during fiscal  we recorded an aggregate charge of million related to impairment of goodwill and purchased intangibles 
+in addition  we are currently reviewing the impact of the adoption of sfas no 
+ including the transition impairment tests see recent accounting pronouncements below 
+the impairment  if any  resulting from these transition tests will be recorded in the period it is determined and will be recognized as the cumulative effect of a change in accounting principle 
+for details about the impairment charges we recorded during fiscal  please see results of operations years ended january  and impairment of goodwill and purchased intangibles below 
+accounting for off balance sheet operating leases we have entered into two operating leases relating to the corporate headquarters facility in alameda  california  which are commonly referred to as synthetic leases 
+a synthetic lease is a form of off balance sheet financing under which an unrelated third party funds of the costs for the acquisition and or construction of the property and leases the asset back to the company  as lessee 
+our synthetic leases are treated as operating leases for accounting purposes and financing leases for tax purposes 
+see liquidity and capital resources below for more information on our synthetic leases 
+accounting for income taxes significant management judgment is required in determining our provision for income taxes  deferred tax assets and liabilities and any valuation allowance recorded against net deferred tax assets 
+we have recorded a valuation allowance due to uncertainties related to our ability to utilize our deferred tax assets  primarily consisting of certain net operating losses carried forward and foreign tax credits  before they expire 
+the valuation allowance is based on estimates of taxable income by jurisdiction in which we operate and the period over which these deferred tax assets will be recoverable 
+should we determine that we would be able to realize our deferred tax asset in the foreseeable future  an adjustment to the deferred tax asset would increase income in the period such determination was made 
+acquisitions during the last few years we have completed several acquisitions that have allowed us to pursue our strategy of adding key businesses and technologies to develop more complete solutions for our customers and to retain our competitive advantage in the market place 
+major business acquisitions during recent fiscal years are discussed in the following paragraphs 
+please see factors that may affect future results integrating the companies we have acquired and costs associated with acquisitions and investments may disrupt our business and harm our operating results for a discussion of risks involved with our acquisitions 
+on june   we completed our acquisition of routerware  inc routerware  a developer of software modules used in data communications products such as bridges  routers  gateways and remote access servers  in a stock for stock merger transaction 
+the acquisition was accounted for as a pooling of interests and all of our financial data has been restated to include the historical financial information of routerware 
+on february   we completed our acquisition of integrated systems  inc integrated systems  a developer of software tools for the embedded systems market  in a stock for stock merger transaction 
+the acquisition was accounted for as a pooling of interests and all of our financial data has been restated to include the historical financial information of integrated systems 
+the following acquisitions were accounted for as a purchase and the results of operations are included in our results from the respective dates of acquisition on march   we completed our acquisition of embedded support tools corporation embedded support tools in a stock for stock merger transaction with a total purchase price of million 
+embedded support tools is a provider of integrated hardware and software for programming  testing and debugging embedded systems 
+on may   we completed our acquisition of audesi technologies inc audesi  in a transaction involving canadian exchangeable shares with a total purchase price of million 
+audesi is a supplier of java based tools and other components  for building flexible  multi application consumer devices 
+on july   we acquired icesoft as icesoft  a developer of innovative embedded internet browsing technologies for intelligent devices  for a total purchase price of million consisting of cash of million and acquisition costs of approximately  on october   we completed our acquisition of rapid logic  inc rapid logic  in a stock for stock merger transaction for a total purchase price of million 
+rapid logic is a provider of advanced device management technologies for networking equipment and other intelligent devices 
+on april   we purchased certain identified software assets  including an operating system for digital signal processors from eonic systems nv eonic  for a total purchase price of million  consisting of million in cash and approximately  in acquisition related costs 
+on may   we purchased from berkeley software design  inc bsdi certain identified software assets  including the bsdi operating system  a unix based code suitable for various internet applications  for a total purchase price of million  consisting of approximately million in cash and  in acquisition related costs 
+prior to the closing of the transaction  we loaned million to bsdi to repay bsdi creditors 
+on october   we purchased the assets of the telenetworks division of next level communications  inc telenetworks  for a total net purchase price of million  consisting of approximately million in net cash and  in acquisition costs 
+results of operations our results of operations presented below have been restated to include the historical financial information of routerware and integrated systems  which were acquired in transactions accounted for as poolings of interests 
+acquisitions accounted for as purchase transactions have been included from the date of their purchase 
+the following table sets forth certain consolidated statement of operations data as a percentage of revenues for the periods indicated years ended january  revenues  net products services total revenues cost of revenues products services total cost of revenues gross profit operating expenses selling and marketing product development and engineering general and administrative amortization of goodwill and purchased intangibles acquisition related costs and other restructuring costs impairment of goodwill and purchased intangibles total operating expenses income loss from operations other income expense interest income interest expense other income expense  net total other income income loss before provision for income taxes provision for income taxes net income loss years ended january  and revenues revenues consist of product revenues and service revenues  net of sales returns and other allowances 
+product revenues consist of royalties and fees for operating systems  hardware  licenses  and fees for the use of development tools 
+service revenues are derived from fees from professional services  which include design and development fees  software maintenance contracts  and customer training and consulting 
+we accrue for sales returns and other allowances based on historical experience 
+total revenues were million and million in fiscal and  respectively 
+the decrease in total revenues of in fiscal is due to a decline in product and service revenues resulting primarily from the current economic downturn in the high technology sector 
+this downturn has affected us both directly  by decreasing our sales  and indirectly  because our products are incorporated into our customers products  and as our customers sales decline  our royalty revenue declines as well 
+our product revenues  excluding run time royalties  decreased to million in fiscal  compared to million in fiscal run time royalties declined to million in fiscal  compared to million in fiscal product revenues accounted for approximately and of total revenues in fiscal and  respectively 
+service revenues accounted for approximately and of total revenues in fiscal and  respectively 
+product revenues decreased to million in fiscal  compared to million in fiscal the decline in product revenues is primarily due to lower customer demand for hardware and software products  including run time royalties  which are generally tied to the number of products deployed  largely as a result of the current economic downturn in the high technology sector 
+during fiscal  some of our customers deferred or canceled projects  in whole or in part  and experienced budgeting constraints causing a reduction in their purchases of our products 
+service revenues decreased to million in fiscal  compared to million in fiscal the decrease was primarily due to lower customer demand for maintenance  consulting and training services primarily as a result of the current economic downturn in the high technology sector 
+maintenance revenues decreased from million in fiscal  compared to million in fiscal other service revenues declined to million in fiscal from million in fiscal revenues from international sales decreased by to million in fiscal from million in fiscal the overall decrease was due to a decline in revenues from japan and an decrease in revenues from europe 
+the decline in revenues in japan resulted primarily from the transition to a direct sales model in japan from a distribution model 
+revenues in japan were million in fiscal  compared to million in fiscal the decline in europe was primarily a result of local economic slowdowns  which caused lower customer demand for our products and services 
+revenues in europe were million in fiscal  compared to million in fiscal this decline was offset by a increase in revenues from asia pacific  which were million in fiscal compared to million in fiscal overall  however  international sales were not as adversely affected by the decrease in customer spending as domestic sales 
+as a result  international revenues accounted for of total revenues for fiscal  compared to in fiscal we expect international sales to continue to represent a significant portion of revenues  although the actual percentage may fluctuate from period to period 
+our international sales are mostly denominated in local currencies 
+we cannot predict how long or severe the current economic downturn will be or whether any actions taken by the government will be effective to bolster the economy 
+as a result of this uncertainty  forecasting and financial and strategic planning are more difficult than usual 
+if the downturn continues for an extended period or becomes more severe  our business will suffer and we may experience additional declines in sales  as well as continued losses  as our customers attempt to limit their spending 
+in addition  the adverse impact of the downturn on the capital markets could impair our ability to raise capital as needed and impede our ability to expand our business 
+for further discussion about factors affecting our revenues and our revenue recognition policy see factors that may affect future results our significant international business activities subject us to increased costs and economic risks and critical accounting policies revenue recognition  respectively 
+cost of revenues the overall cost of products and services as a percentage of total revenues was in fiscal  compared to in fiscal cost of products was million and million in fiscal and  respectively  reflecting a decrease of from fiscal to fiscal product related cost of revenues as a percentage of product revenues was in fiscal  compared to in fiscal product related costs consist primarily of salaries and benefits for production employees  product media  amortization of capitalized software development costs  and royalty payments to third parties for the use of their software  documentation and packaging 
+the decline in product related costs as a percentage of product revenue in fiscal was primarily due to lower amortization expense relating to capitalized software development costs  and lower third party royalty costs 
+amortization of capitalized software development costs and third party royalty costs included in cost of products for fiscal and amounted to million and million  and million and million  respectively 
+product related cost of revenues may be affected in the future by the amortization of capitalized software development costs  costs of distribution related to the introduction of new products and by royalty costs for use of third party software in our products 
+cost of services was million and million in fiscal and  respectively  a decrease of 
+service related cost of revenues as a percentage of service revenues was in fiscal  compared to in fiscal service related cost of revenues consist primarily of personnel related costs associated with providing services  including consulting services  to customers and the infrastructure to manage a services organization  as well as costs to recruit  develop  and retain services professionals 
+the decrease in absolute dollars of service costs in fiscal was primarily due to reduced utilization of outside consultants and a reduction of full time employees as part of the restructuring program implemented during the second quarter of fiscal our consulting costs in fiscal were million compared to million in fiscal the increase in service related costs as a percentage of service revenues in fiscal was due to a greater decline in the service revenues base than the decline in fixed costs associated with customer support  personnel and certified third party contractors within our professional services organization 
+we expect that the cost of service revenues will increase in absolute dollars in the long term as we continue to increase our professional service organization and customer support capabilities 
+additionally  we expect cost of services to fluctuate as a percentage of service revenue based on progress of various consulting and professional service projects 
+selling and marketing expenses selling and marketing expenses were million and million in fiscal and  respectively  reflecting a decrease of from fiscal to fiscal as a percentage of total revenues  selling and marketing expenses were in fiscal  compared to in fiscal the decrease in absolute dollars of selling and marketing expenses was attributable to lower sales commission expenses as a result of decreased sales volume and decreased expenditures in various areas  primarily internal sales events and recognition programs  relating to our restructuring program implemented during the second quarter of fiscal sales commission costs and internal sales events and recognition programs decreased by million and million  respectively  in fiscal compared to fiscal this decrease was offset in part by an increase in the provision for doubtful accounts of million in fiscal  due to an increase in the number of customers filing for bankruptcy in fiscal compared to fiscal the increase in these expenses as a percentage of revenues was due to an overall lower revenue base and expenses declining at a lower rate than revenues 
+we believe selling and marketing expenses in absolute dollars will not increase significantly in the short term 
+however  we do expect an increase in absolute dollars in the long term  as we continue to focus on long term growth in the areas of sales and marketing personnel and marketing and advertising programs 
+product development and engineering expenses product development and engineering expenses were million and million in fiscal and  respectively  reflecting an increase of from fiscal to fiscal as a percentage of total revenues  product development and engineering expenses were in fiscal  compared to in fiscal the increase in product development and engineering expenses was primarily due to the increase in staff and associated support for engineers to expand and enhance our product lines and the addition of engineering staff as a result of acquisitions completed in late fiscal and early we added employees to our engineering staff during fiscal as a result of our acquisitions of eonic  bsdi and telenetworks 
+the increase in costs as a percentage of revenues in fiscal compared to was primarily due to an overall lower revenue base and expenses declining at a lower rate than revenues 
+we believe that product development and engineering expenses in absolute dollars will not increase significantly in the short term 
+however  we do expect an increase in absolute dollars in the long term  as we continue to focus on long term growth in the areas of research and development 
+in addition  we received million and million of funded research and development related to our center of excellence initiative  which offset a portion of our gross research and development expenses in fiscal years and  respectively 
+we expect the center of excellence program to continue to help fund our research and development costs for fiscal at dollar levels similar to or slightly below fiscal levels 
+general and administrative expenses general and administrative expenses were million and million in fiscal and  respectively  reflecting a decrease of from fiscal to fiscal as a percentage of total revenues  general and administrative expenses were in fiscal  compared to in fiscal general and administrative expenses in absolute dollars declined due to our implementation  during the second quarter of fiscal  of cost control measures in various areas  primarily consulting and travel costs 
+our consulting and travel costs decreased by million in fiscal as a result of this increased focus on reducing costs 
+the increase in expenses as a percentage of total revenues in fiscal was primarily a result of revenues declining at a higher rate than general and administrative expenses 
+we believe that general and administrative expenses will not increase significantly in absolute dollars in the short term as a result of the restructuring program discussed above 
+however  we do expect an increase in absolute dollars in the long term  as we continue to invest in worldwide staff and infrastructure in the areas of information systems and finance and administration  and continue to consolidate the financial  manufacturing  customer relations management and customer support information systems of acquired companies 
+we allocate the total costs for information technology  facilities and fixed asset depreciation to each of the functional areas based on certain headcount data 
+information technology allocated costs include salaries  information technology  project costs  communication costs and depreciation expense for fixed assets 
+facilities allocated costs include facility rent for the corporate offices as well as shared function offices  property taxes  depreciation expenses for office furniture and other department operating costs 
+fixed asset depreciation allocated costs include straight line depreciation expense on buildings  leasehold improvements  computer equipment  software  furniture and office equipment 
+amortization of goodwill and purchased intangibles amortization of goodwill and purchased intangibles totaled million and million in fiscal and  respectively  reflecting a decrease of from fiscal to fiscal the decrease in amortization in fiscal compared to primarily related to the reduced carrying value of goodwill and purchased intangibles as a result of the million impairment charge recorded during fiscal the decrease was offset by additional amortization resulting from acquisitions occurring during fiscal acquisitions made subsequent to june  are accounted for under non amortization methods consistent with statement of financial accounting standards sfas no 
+see recent accounting pronouncements and note of notes to consolidated financial statements for an explanation of sfas no 
+we will continue to monitor these acquisitions for impairment and make appropriate reductions in the carrying values when necessary 
+acquisition related costs reversals and other acquisition related costs or reversals totaled a net reversal of  in fiscal and a net cost of million in fiscal the acquisition related reversal in fiscal related to a net reversal of million of excess acquisition related liabilities from our merger with integrated systems  as highlighted below 
+this reversal was offset in part by  of in process research and development write off associated with the acquisition of the telenetworks assets 
+acquisition related costs of million in fiscal consisted of million relating to the merger with integrated systems and million of in process research and development charges associated with various purchase transactions completed during fiscal  including amounts related to the acquisitions of embedded support tools of million  rapid logic of million  audesi of million and icesoft of  see note of notes to consolidated financial statements 
+the integrated systems related acquisition costs of million relate to a million in investment banking fees  b million in workforce reduction costs  c million for consolidation of excess facilities  d million for legal  accounting and other professional fees and e  for general integration costs 
+we incurred workforce reduction costs as a result of eliminating duplicate positions following the merger  primarily in the areas of sales management for million  general and administrative staff for million  engineering and services management for million  and executive staff for million 
+we incurred costs in connection with the consolidation of excess facilities in europe and japan  and in texas and california in the united states 
+legal  accounting and other professional fees were incurred in connection with the acquisition process for integrated systems and the elimination of acquired legal entities in the united states  europe and japan 
+the reorganization of wind river following the acquisition of integrated systems allowed us to structure our company to promote efficiency of operations  resulting in reduced employee costs  the benefit of which was recognized immediately following the merger  and reduced lease costs  the impact of which was more fully experienced toward the end of fiscal as facilities were exited 
+a summary of the acquisition costs is outlined as follows original charges non cash charges cash payments acquisition accruals at january  cash payments reversals in fiscal year acquisition accruals at january  in thousands investment banking fees   workforce reduction   consolidation of excess facilities    legal  accounting and other professional fees   general integration costs the amounts related to in process technology associated with telenetworks  embedded support tools  audesi  rapid logic and icesoft represent purchased in process technology for projects that have not yet reached technological feasibility and have no alternative future use 
+the value of the in process research and development was determined by estimating the net cash flows resulting from the completion of the projects reduced by the percentage of completion of the projects 
+net cash flows were tax effected using estimated income taxes consistent with our anticipated tax rate for the foreseeable future and then discounted back to their present value at a discount rate based on our required risk adjusted  weighted average rate of return 
+our estimated revenues  margins and operating costs are based upon historical information about similar product development cycles combined with projections of future revenue and cost patterns  including projections used when initially evaluating the acquisition of telenetworks  rapid logic  embedded support tools  icesoft and audesi 
+there is no assurance that we will realize revenues from these in process projects in the amounts estimated or that the costs incurred will be materially consistent with estimates made 
+the nature of the efforts to develop purchased in process technology into commercially viable products principally relates to the completion of all planning  designing  prototyping  verification and testing activities that are necessary to establish that the resulting products can meet their design specifications  including function  features and technical performance requirements 
+due to the fact that the projects were in process  there is uncertainty regarding whether they can be successfully finished and result in the net cash flows that were originally estimated at the time of the acquisitions 
+it is reasonably possible that the development of the acquired technology could fail because of either prohibitive costs  our inability to perform the required completion efforts or other factors outside our control  such as a change in the market for the resulting developed products 
+if the development of the technology is unsuccessful  the technology may be abandoned during the development phase 
+should our development efforts fail or encounter significant delay  then our future returns may be significantly reduced 
+in such case  we may be unable to recover our investment in this project  may be less well positioned to benefit from new product markets in these areas and our future operating results could be adversely affected 
+with the exception of the business restructuring and impairment review discussed below  the assumptions used in determining the value of in process research and development acquired in connection with our purchase acquisitions completed during fiscal and fiscal have been consistent  in all material respects  with the actual results to date 
+the assumptions primarily consist of the expected completion date for the in process projects  estimated costs to complete the projects  and revenue and expense projections once the products have entered the market 
+failure to achieve the expected levels of revenues and net income from these products during their entire life cycle will negatively impact the return on investment expected at the time that the acquisitions were completed and could potentially result in impairment of any other assets related to the development activities 
+see impairment of goodwill and purchased intangibles below for further discussion of our impairment review 
+restructuring costs in may  we announced cost control measures that included a reduction of our worldwide work force  organizational restructuring and additional measures focused on reducing operating expenses 
+we made both permanent and temporary adjustments to the business operations in order to optimize operating efficiency 
+in july  we announced a second phase of the restructuring program that included an additional reduction in the worldwide work force and the consolidation of excess facilities 
+for a further discussion of factors that may affect the success of the restructuring program  see factors that may affect future results our restructuring plans may not result in sufficient cost savings to enable us to achieve profitability in a difficult economic environment 
+as a result of the decision to restructure our business  we recorded net restructuring costs of million during fiscal  which were classified as operating expenses 
+the following paragraphs provide detailed information relating to the restructuring costs that were recorded 
+worldwide work force reduction 
+the worldwide work force reductions started in the second quarter of fiscal and will be substantially completed in the first half of fiscal when completed  the restructuring program will result in the reduction of regular employees of which employees will be from north america  employees from europe  and employees from japan and asia pacific 
+furthermore  the reduction in employees will affect all business functions  including sales and marketing  professional services  product development and engineering  and finance and administration 
+we recorded a net work force reduction charge of approximately million relating primarily to severance payments and the continuation of benefits 
+in addition  we reduced the number of contractors and temporary workers contracted to wind river 
+equipment disposed of or removed from operations as a result of the work force reduction resulted in a non cash charge of  and consisted primarily of computer equipment 
+consolidation of excess facilities 
+during the second quarter of fiscal  we recorded a restructuring charge of million relating to excess facilities 
+the excess facilities  primarily located in the united states and the united kingdom  included the closure of certain leased corporate facilities and sales offices that related to business activities that were restructured 
+the estimated excess facility costs represent the remaining lease payments and estimated costs less estimated proceeds from sub leasing certain facilities 
+the estimated proceeds from sub leasing these facilities were based on current comparable rates for leases in the respective markets 
+in the fourth quarter of fiscal  we recorded a reversal of million against the million  when we determined that certain of such facilities could continue to be used by existing wind river personnel 
+the decision to maintain such facilities was based on changes in the local business environment and lack of competitive leasing rates for new sites 
+as a result  we recorded a net charge for excess facilities of million for fiscal  which primarily related to excess facilities located in the united states 
+amounts accrued relating to the net future payments due on excess facilities will be paid through fiscal unless we successfully negotiate to exit the leases at an earlier date 
+of the total net charge for excess facilities of million  cash related charges of million relate primarily to lease terminations and non cancelable lease costs related to the excess facilities 
+non cash related charges of  relate primarily to the impairment of leasehold improvements 
+a summary of the net restructuring costs is outlined as follows total charges non cash charges cash payments restructuring liabilities at january  in thousands work force reduction    consolidation of excess facilities  impairment of goodwill and purchased intangibles during the second and fourth quarters of fiscal  we identified indicators of possible impairment of goodwill and other acquired intangible assets relating to acquisitions made in earlier years 
+these indicators included the deterioration in the business climate  recent changes in sales and cash flow forecasts  revised strategic plans for certain of the acquired businesses and significant declines in the market values of companies in the embedded software industry 
+in anticipation of continued customer spending and as part of our strategic plan  we acquired these businesses to complement and extend our product offerings 
+since these acquisitions were made  many companies in the high technology and software industries have experienced significant decreases in capital funding and customer spending  and as a result  have curtailed research and development activities 
+therefore  revenues associated with these businesses have not met the original expectations at the time of acquisition 
+many companies in the high technology and software industries  including wind river  have experienced significant declines in the price of their common stock 
+the acquisition of embedded support tools and audesi were paid for in common stock valued at approximately and per share  respectively 
+subsequently  our common stock price declined significantly 
+as a result  the purchase prices of the embedded support tools and audesi assets are substantially higher than their valuation in the current business environment 
+accordingly  we compared the undiscounted cash flows associated with the acquired goodwill and purchased intangible assets with the respective carrying amounts and determined that an impairment of certain of these assets existed 
+as a result  during fiscal  we recorded an aggregate charge of million  of which million related to the impairment of goodwill and million related to the impairment of purchased intangible assets 
+the impaired amount was measured as the amount by which the carrying amount exceeded the present value of the estimated future cash flows for the businesses acquired from which goodwill and purchased intangible assets arose  as follows impairment expense for year ended january  in thousands embedded support tools  audesi  rapid logic  icesoft  software development systems  inc  total  the impairment charge for those assets held for use was determined based upon the estimated discounted cash flows over the remaining useful life of the goodwill  using discount rates ranging from to 
+the assumptions supporting the cash flows  including the discount rates  were determined using our best estimate as of the date of the impairment review 
+the impairment charge for those assets held for disposal was determined based on the expected proceeds of disposition 
+as of january   we had net book values in goodwill and purchased intangible assets of approximately million  representing approximately of our total assets 
+all identifiable intangible assets  other than goodwill  with a net book value totaling million at january   will continue to be amortized in accordance with sfas no 
+ goodwill and other intangible assets sfas no 
+
+see note of notes to the consolidated financial statements 
+goodwill totaling million in net book value as of january  will no longer be amortized in accordance with the provisions of sfas no 
+interest income interest income declined to million in fiscal from million in fiscal reflecting a decrease of from fiscal to fiscal the decrease in interest income was primarily due to lower interest rates on invested balances and a lower average base of invested balances throughout the year 
+total cash and cash equivalents  investments and restricted cash at the end of fiscal and were approximately million and million  respectively 
+interest expense interest expense was million and million in fiscal and  respectively  a decrease of 
+the decrease was primarily due to the repurchase and redemption of the outstanding principal balance of the convertible subordinated notes during fiscal this decrease in interest expense was partially offset by additional interest expense incurred on our convertible subordinated notes issued in december see liquidity and capital resources below for further discussion of our convertible subordinated notes 
+other income expense  net other income expense  net  was net expense of million and net income of million in fiscal and  respectively 
+the increase in net expense in fiscal was primarily due to the write down of certain private and publicly traded investments of million and a loss on the disposition of the previously acquired icesoft business of million  offset in part by a realized gain of million related to the disposition of the remaining shares of liberate technologies  inc liberate 
+during fiscal  we realized gains of million related to the disposition of shares of liberate and e sim  inc e sim 
+provision for income taxes despite the occurrence of net losses in fiscal and  we had a tax provision of million and million and an effective tax rate of and in fiscal and  respectively  due to significant costs associated with in process research and development and amortization and impairment of goodwill  which are not deductible for income tax purposes 
+in addition  in fiscal we recorded a valuation allowance based on management s determination that it is more likely than not that our deferred tax assets at january  will not be realized 
+excluding these charges  the effective tax rate would have been in each fiscal year 
+at january   approximately million of the gross deferred tax asset related to certain us operating loss carry forwards resulting from the exercise of employee stock options 
+when recognized  the tax benefit related to these assets will be accounted for as a credit to additional paid in capital rather than a reduction of the income tax provision 
+years ended january  and revenues total revenues increased by to million in fiscal from million in fiscal the increase in revenues was due to increases in both product revenues and service revenues 
+product revenues accounted for approximately and of the total revenues in fiscal and  respectively  and service revenues accounted for approximately and of total revenues in fiscal and  respectively 
+product revenues increased to million in fiscal from million in fiscal the increase in product revenues was due primarily to the continued acceptance of our products  increases in run time license revenues as customer developed products continue to be accepted by end users and to the expansion of our product lines resulting from research and development and the integration of products from acquired companies 
+run time license revenues increased to million in fiscal from million in fiscal service revenues increased to million in fiscal from million in fiscal  primarily due to an increase in maintenance revenues and revenues from professional services 
+maintenance revenues increased to million in fiscal from million in fiscal the increase was due to growth in revenues from maintenance support agreements  both new and recurring  resulting from our base of installed development environments and software applications provided to customers 
+in addition  other service revenues increased by to million in fiscal from million in fiscal due to continued strategic emphasis in this area 
+revenues from international sales were million and million for fiscal and  respectively  an increase of 
+the percentage of our total revenues from customers located internationally was in fiscal  and in fiscal the decrease in our international revenues as a percentage of total revenues in fiscal was due primarily to domestic revenues increasing at a faster rate than international revenues and due to a decrease in revenues from japan as a result of the transition to a direct distribution model 
+revenues from japan were million and million in fiscal and  respectively 
+the percentage of revenues from other international regions remained relatively constant in fiscal years and at and of total revenues  respectively  while the percentage of revenues from customers located in japan decreased to in fiscal from in fiscal cost of revenues the overall cost of revenues as a percentage of total revenues was in both fiscal and fiscal cost of products was million in fiscal compared to million in fiscal  an increase of 
+cost of products as a percentage of product revenues was and in fiscal and  respectively 
+as a result  gross profit margins for products were and  respectively 
+the decrease in costs as a percentage of product revenues were due to production efficiencies achieved as more development  original equipment manufacturer and run time licenses move through our production cycle  as well as a reduction in third party product costs 
+amortization of capitalized software development costs included in cost of products for fiscal and  amounted to million for both years 
+at january  and  we had net capitalized software costs of million and million  respectively 
+cost of services was million in fiscal compared to million in fiscal  an increase of 
+service related cost of revenues as a percentage of service revenues was and  respectively 
+the increase in costs of service revenues was due to our investment in developing new services offerings and the addition of new personnel and certified third party contractors to our professional services organization 
+selling and marketing expenses selling and marketing expenses increased to million in fiscal compared to million in fiscal  or of total revenues for both fiscal years 
+the increase in absolute dollars from fiscal to resulted primarily from the growth of sales and marketing personnel both domestically and internationally  field engineers  expenses related to marketing and advertising programs and third party marketing costs for product introductions 
+sales and marketing personnel and field engineers increased by to in fiscal from in fiscal the increase was also due to costs associated with the integration of acquisitions made during the year 
+such costs included redesign and reprinting of marketing material  sales meetings  trade show promotions and advertisements and for integrated systems  totaled approximately  product development and engineering expenses product development and engineering expenses were million in fiscal compared to million in fiscal  an increase of 
+as a percentage of revenues  product development and engineering expenses increased to in fiscal from in fiscal the increase in product development and engineering expenses was primarily due to the increase in staff and associated support for engineers to expand and enhance our product line  including the costs associated with integrating engineering staff as a result of the business acquisitions which occurred during the fiscal year 
+engineering staff increased by to in fiscal from in fiscal in addition  we had million and  of funded research and development  which offset a portion of our gross research and development expenses in fiscal years and  respectively  related to our center of excellence initiative 
+general and administrative expenses general and administrative expenses were million in fiscal compared to million in fiscal  an increase of 
+as a percentage of revenues  general and administrative expenses decreased to in fiscal from in fiscal the increase in absolute dollars was primarily due to the growth in worldwide staff and infrastructure investments in the areas of information systems  finance  legal and administration to support our growth and to integrate the companies we have acquired 
+general and administrative employees increased by to in fiscal from in fiscal in addition  fiscal included million in costs associated with the retirement costs of the former chief executive officer  million in costs associated with the hiring of the current chief executive officer and non capitalized costs associated with the implementation of our oracle management information system  which contributed to the higher cost as a percentage of revenues in that year 
+amortization of goodwill and purchased intangibles amortization of goodwill and purchased intangibles increased to million in fiscal from million in fiscal the increase in amortization of intangibles was due to the amortization of identifiable intangibles and goodwill related to the purchase transactions completed in fiscal and primarily consists of amortization related to embedded support tools  which totaled million in fiscal acquisition related costs acquisition related costs were million in fiscal compared to million in fiscal the increase was primarily related to costs associated with the integration of integrated systems and the write off of in process research and development costs from purchase transactions completed during the year 
+during fiscal  we incurred million in acquisition and integration costs associated with the merger of integrated systems 
+additionally  we recognized in process research and development charges of million related to various purchase transactions completed during the year including amounts related to the acquisition of embedded support tools of million  rapid logic of million  audesi of million and icesoft of  see note of notes to consolidated financial statements 
+during fiscal  we recognized an in process research and development charge of million relating to the acquisition of software development systems  a subsidiary of integrated systems 
+interest income interest income was million in fiscal compared to million in fiscal  an increase of 
+the increase was primarily due to higher interest earned on cash balances  short term investments and restricted cash balances 
+total cash  investments and restricted cash at january  and was approximately million and million  respectively 
+interest expense interest expense was million during fiscal and  respectively 
+interest expense represents interest incurred and certain issuance costs associated with the convertible subordinated notes due august other income expense  net other income expense  net  for fiscal was a net income of million compared to a net expense of million in fiscal the increase in net other income was primarily due to gains of million related to the disposition of equity securities 
+provision for income taxes the tax charge for the fiscal years ended january  and differed from the statutory rate primarily due to the impact of non deductible goodwill amortization and in process research and development charges  research and experimentation tax credits and the tax impact of foreign operations 
+the tax provision was million and million in fiscal and  respectively 
+the effective rate excluding the amortization of goodwill and purchased intangibles and acquisition charges  was in fiscal compared to for fiscal the change in the pro forma effective tax rate excluding amortization of goodwill and purchased intangibles and acquisition charges is attributed to the change in the ratio of foreign taxable income to domestic taxable income and carry forward tax attributes 
+liquidity and capital resources cash flows at january   we had working capital of approximately million  and cash and cash equivalents of approximately million  which include million of investments with maturities of greater than one year and exclude restricted cash of million related to our synthetic leases and related interest rate swap agreements 
+we invest primarily in highly liquid  investment grade instruments 
+we have substantial debt service  principal repayment and lease payment obligations  which could affect our liquidity  cash reserves and ability to obtain additional financing if we need to do so 
+operating activities primarily include the net income or loss for the year  non cash charges such as depreciation and amortization expense  certain impairment charges and changes in assets and liabilities 
+in fiscal  our operating activities provided net cash of million compared to million in fiscal  and million in fiscal net cash provided by operating activities for fiscal consisted of a decrease in cash generated from operations of million offset by an increase in cash of million arising from changes in assets and liabilities  primarily accounts receivable 
+accounts receivable decreased by million due to the lower revenue base in fiscal compared to fiscal and due to an increased rate of collections 
+net cash provided by operating activities in fiscal consisted of cash generated from operations of million offset by a decrease in cash of million arising from assets and liabilities  primarily accounts receivable 
+net cash provided by operating activities in fiscal consisted of cash generated from operations of million offset by a decrease in cash of million arising from changes in assets and liabilities  primarily accounts receivable 
+cash from operations includes net loss of million and million and net income of million offset primarily by depreciation and amortization of million  million and million in fiscal  and  respectively  and impairment of goodwill and purchased intangibles of million in fiscal our operating cash flows depend heavily on the level of our sales  which in turn depend  to a large extent on general economic conditions affecting us and our customers  as well as the timing of new product introductions and other competitive factors and our ability to control expenses successfully 
+in fiscal  our investing activities used net cash of million compared to million in fiscal and million in fiscal investing activities generally relate to the purchase of investments  business acquisitions and equipment purchases  partially offset by cash provided from the sale and maturity of investments 
+during fiscal  purchase of capital equipment  business acquisitions and restricted cash deposits relating to our synthetic leases and interest rate swap agreements totaled million  million and million  respectively  compared to million  million and million  respectively  in fiscal and million  million and million  respectively  in fiscal in fiscal  our financing activities provided net cash of million compared to million in fiscal and million in fiscal during fiscal  the primary source of cash was million from the offering of our convertible notes  as discussed below  along with proceeds of million received from the issuance of common stock from employee stock option exercises and employee stock purchase plan purchases 
+cash provided by these sources was partially offset by cash of million used to repurchase or redeem the outstanding convertible notes as discussed below 
+during fiscal  cash provided by the issuance of common stock from stock option exercises and the increase in a line of credit at our japanese subsidiary were partially offset by the repayment of bank borrowings associated with acquired companies 
+during fiscal  cash provided by the issuance of common stock from stock option exercises and the increase in a line of credit at our japanese subsidiary were partially offset by cash used in the repurchase of common stock and the making of a loan to a stockholder 
+convertible subordinated notes during fiscal  we repurchased and retired million in face value of our convertible subordinated notes 
+in january  we redeemed the remaining million of the convertible subordinated notes at a redemption price of of the principal 
+the net impact of gains and losses on the repurchase  retirement and redemption of the convertible subordinated notes was a gain of  net of taxes  which has been reflected in other income expense  net 
+in december  we issued million of our convertible subordinated notes due december the notes are unsecured  subordinated to all existing and future senior debt and convertible into shares of our common stock at an initial conversion price of per share 
+the notes mature on december   unless earlier redeemed or converted 
+interest is payable in cash semi annually in arrears on june and december of each year  commencing june  at the option of the holder  the notes may be converted into our common stock at any time at the then current conversion price 
+we may redeem all or a portion of the notes for cash at a redemption price of of the principal amount between december  and december   and of the principal amount beginning december  and thereafter 
+additionally  under specified circumstances we may redeem the notes prior to the indenture under which the notes were issued provides that an event of default will occur if i we fail to pay principal or premium on the notes  ii we fail to pay interest on the notes and fail to cure such non payment within days  iii we fail to perform any other covenant required of us in the indenture and the failure is not cured or waived within days  or iv we or one of our significant subsidiaries fails to pay  at final maturity or upon acceleration  any indebtedness for money borrowed in an outstanding principal amount in excess of million  including lease commitments  and the indebtedness is not discharged  or the default is not cured  waived or rescinded within days after written notice is provided in accordance with the terms of the indenture 
+if any of these events of default occurs  either the trustee or the holders of at least of the outstanding notes may declare the principal amount of the notes to be due and payable 
+in addition  an event of bankruptcy  insolvency or reorganization involving either us or any of our significant subsidiaries will constitute an event of default under the indenture and  in that case  the principal amount of the notes will automatically become due and payable 
+commitments in fiscal and fiscal  we entered into two operating leases for our headquarters facility constructed on land owned by us in alameda  california 
+after consideration of various financing alternatives for the construction of our headquarters buildings on land owned by us  the related economic impact of each alternative and the ability to retain control of the property  we chose a form of financing that we believe offered beneficial economic terms  commonly referred to as a synthetic lease 
+these leases are treated as operating leases for accounting purposes and financing leases for tax purposes 
+a synthetic lease is a form of off balance sheet financing under which an unrelated third party funds of the costs for the acquisition and or construction of the property and leases the asset back to the company  as lessee 
+none of our officers or employees has any financial interest in these synthetic lease arrangements 
+the lessor has funded a total of million of construction costs related to the first operating lease and million of construction costs related to the second operating lease 
+the operating lease payments vary based upon the total construction costs of the buildings  which include capitalized interest at the london interbank offering rate libor 
+in connection with the leases  we leased the land to the lessor of the buildings at a nominal rate and for a term of years 
+if we were to terminate the ground lease prior to maturity  we would become obligated to purchase the buildings 
+the operating leases provide us with the option  at the end of their terms  to either acquire the buildings at the lessor s original cost or arrange for the buildings to be acquired 
+at january   we had not made a decision with respect to the option we will pursue at the end of the lease terms  and we may be required to act sooner if accounting rules applicable to synthetic leases are modified 
+however  it is likely that we will decide to continue to occupy the buildings  and may therefore purchase the buildings or arrange for their purchase and lease back to us 
+we have guaranteed the residual value associated with the buildings under these operating leases to the lessor of a fixed amount of approximately and  respectively  of the lessor s actual funding of the two leases 
+upon maturity of the operating leases  if we do not purchase the buildings  we may be obligated to pay the amount of the residual value guarantee to the lessor 
+we have deposited fixed income securities with a custodian to ensure the performance of our obligations under the operating leases  at january  and  we held million and million  respectively  in cash and cash equivalents as restricted cash in satisfaction of this requirement 
+the amount held as restricted cash at january  is sufficient to satisfy performance of our obligations under the operating leases 
+the majority of restricted cash represents the build cost incurred upon the construction of the buildings 
+in addition  under the terms of the operating leases  we must maintain compliance with financial covenants relating to a minimum consolidated fixed charge ratio  minimum ebitda  a minimum tangible net worth and minimum net unencumbered cash 
+as of january   we were in compliance with these covenants 
+there can be no assurance  however  that we will continue to be in compliance with these covenants  particularly if our revenues continue to be negatively impacted by the economy or other factors 
+in addition  while we believe we would be able to obtain a waiver if we were out of compliance  there can be no assurance that the lessor will agree to provide one 
+in the event we are not in compliance  and are not able to obtain a waiver or amendment of the covenants  we could become obligated to purchase the buildings and could incur additional costs associated with replacing the synthetic leases 
+in the event of a default  our obligation to purchase the leased properties for of the amount financed by the lessor could be accelerated 
+if the leases were terminated as a result of an event of default and we became obligated to pay the purchase price of the buildings  we would reflect the purchase price as an asset on our balance sheet  and our restricted cash and investments position would be reduced by the amount of the purchase price 
+currently  we reflect rent payments as an expense on our statement of operations 
+in the event we were required to purchase the buildings  our rent expense would cease and we would subsequently record depreciation expense for the buildings over their estimated useful lives 
+although no assurance can be given  management believes that  an event of default or termination of the leases and our obligation to purchase the buildings would not have a material adverse effect on our financial condition  results of operations or cash flows 
+both leases have initial terms of seven years but may be renewed under certain circumstances 
+unless renewed  the first lease will terminate in september  and the second lease will terminate in november in march  we entered into an accreting interest rate swap agreement to mitigate the impact of changes in interest rates on our first floating rate operating lease 
+the interest rate swap agreement effectively changes our interest rate exposure on the operating lease  which is based on the one month libor  to a fixed rate of 
+at january   the notional amount of the accreting interest rate swap was million 
+in january  we entered into another interest rate swap agreement to reduce the impact of changes in interest rates on our second floating rate operating lease 
+this second interest rate swap agreement effectively changes our interest rate exposure on our second operating lease  which is based on the one month libor  to a fixed rate of 
+at january   the notional amount of the interest rate swap was million 
+the differential to be paid or received under both interest rate swap agreements will be recognized as an adjustment to rent expense related to the respective operating leases 
+the interest rate swap agreements mature at the same time that their respective operating leases expire 
+the amounts potentially subject to credit risk arising from the possible inability of the counterparties to meet the terms of their contracts are generally limited to the amounts  if any  by which the counterparties obligations exceed our obligations 
+as at january   the estimated fair value of these interest rate swap liabilities was million  which is recorded in accumulated other comprehensive income and other long term liabilities 
+as of january   our future financial commitments are as set forth in the table below year ended january  in thousands thereafter total synthetic lease payments   interest rate swap payments net    synthetic lease payments  net     subordinated convertible debt     japanese subsidiary line of credit  other operating leases      total       the synthetic lease payments  net  set forth in the table above are computed based on current interest rates  which are subject to certain market based interest rates  and are stated net of interest rate swap payments 
+the million convertible subordinated notes mature in december  but may be redeemed by us starting in or earlier if certain conditions are met 
+see convertible subordinated notes above 
+we had no material planned capital commitments as of january  our capital requirements depend on numerous factors including our research and development expenditures  expenses related to selling  general and administrative operations and working capital to support business growth 
+we anticipate that our operating and capital expenditures will constitute a material use of our cash resources 
+as a result  our net cash flows will depend heavily on i the level of our future sales which depend  to a large extent  on general economic conditions affecting us and our customers  as well as the timing of new product introductions and other competitive factors and ii our ability to implement our restructuring plan and to control expenses 
+although it is difficult for us to predict future liquidity requirements with certainty  we believe that our current cash and cash equivalents will satisfy our cash requirements for planned expansion  product development and capital expenditures for at least the next twelve months and on a longer term basis 
+during or after this period  if cash generated by operations is insufficient to satisfy our liquidity requirements  we may need to sell additional equity or debt securities or obtain an additional credit facility 
+our ability to obtain additional financing may be limited by the amount of indebtedness we have outstanding and or our recent performance and financial condition  particularly if our bond rating is lowered or withdrawn  as well as general market conditions if the current economic downturn were to continue or become more serious 
+there can be no assurance that additional financing will be available to us or  if available  that such financing will be available on favorable terms 
+if we were unable to obtain financing  we might be required to reduce our expenses  including product development and engineering expenses  which could have a material adverse effect on our business and results of operations 
+recent accounting pronouncements in november  the emerging issues task force eitf issued eitf issue no 
+eitf  accounting for consideration given by a vendor to a customer reseller  which addresses the accounting for consideration given by a vendor to a customer  including both a reseller of the vendor s products and an entity that purchases the vendor s products from a reseller 
+eitf also codifies and reconciles related guidance issued by the eitf  including eitf no 
+vendor income statement characterization of consideration paid to a reseller of the vendor s products eitf 
+eitf outlines the presumption that consideration given by a vendor to a customer  a reseller or a customer of a reseller is to be treated as a deduction from revenue 
+treatment of such payments as an expense would only be appropriate if two conditions are met i the vendor receives an identifiable benefit in return for the consideration paid that is sufficiently separable from the sale such that the vendor could have entered into an exchange transaction with a party other than the purchaser or its products in order to receive that benefit  and ii the vendor can reasonably estimate the fair value of that benefit 
+we adopted eitf effective february  our adoption of eitf as of february   is not expected to have a material impact on our financial statements 
+in july  the financial accounting standards board fasb issued sfas no 
+sfas no 
+ business combinations which supercedes accounting principles board opinion no 
+ business combinations 
+sfas no 
+requires the purchase method of accounting for business combinations initiated after june  and eliminates the pooling of interests method 
+in addition  sfas no 
+establishes specific criteria for the recognition of intangible assets separately from goodwill and requires unamortized negative goodwill to be written off immediately as an extraordinary gain  instead of being deferred and amortized 
+the provisions of sfas no 
+were adopted as of july  the adoption of sfas no 
+did not change the method of accounting used in business combinations initiated prior to july   including those we accounted for under the pooling of interests method 
+in july  the fasb also issued sfas no 
+ goodwill and other intangible assets  which is effective for fiscal years beginning after december  certain provisions also apply to acquisitions initiated subsequent to june  sfas no 
+supercedes apb opinion no 
+intangible assets and requires  among other things  the discontinuance of amortization related to goodwill and indefinite lived intangible assets 
+these assets will then be subject to an impairment test at least annually 
+in addition  the statement includes provisions upon adoption for the reclassification of certain existing recognized intangibles  including acquired workforce  as goodwill  the identification of reporting units for the purpose of assessing potential future impairments of goodwill  the reassessment of the useful lives of existing recognized intangibles and reclassification of certain intangibles out of previously reported goodwill 
+we adopted sfas no 
+effective february   which resulted  among other effects  in our discontinuation of our amortization of existing goodwill 
+we are currently reviewing the impact of the adoption of sfas no 
+ including the transition impairment tests 
+the impairment  if any  resulting from these transition tests will be recorded in the period it is determined and will be recognized as the cumulative effect of a change in accounting principle 
+in october  the fasb issued sfas no 
+ accounting for the impairment or disposal of long lived assets 
+sfas no 
+supercedes sfas no 
+accounting for the impairment of long lived assets and for long lived assets to be disposed of 
+sfas no 
+applies to all long lived assets including discontinued operations and consequently amends apb opinion no 
+ reporting the results of operations  reporting the effects of disposal of a segment of a business  and extraordinary  unusual and infrequently occurring events and transactions 
+sfas no 
+develops one accounting model for long lived assets that are to be disposed of by sale 
+sfas no 
+requires that long lived assets that are to be disposed of by sale be measured at the lower of book value or fair value less cost to sell 
+additionally sfas no 
+expands the scope of discontinued operations to include all components of an entity with operations that i can be distinguished from the rest of the entity and ii will be eliminated from the ongoing operations of the entity in a disposal transaction 
+sfas no 
+is effective for financial statements issued for fiscal years beginning after december  and its provisions to are to be applied prospectively 
+we will adopt sfas no 
+ effective february  and we do not expect any material impact on our financial statements from the adoption of this statement 
+factors that may affect future results our business faces significant risks 
+the risks described below may not be the only risks we face 
+additional risks that we do not yet know of or that we currently think are immaterial may also impair our business operations 
+if any of the events or circumstances described in the following risks actually occur  our business  financial condition or results of operations could suffer  and the trading price of our common stock could decline 
+the recent economic downturn has adversely impacted and may continue to adversely impact our revenues and earnings 
+in addition  uncertainties associated with the downturn increase the difficulty of financial planning and forecasting 
+the united states and a number of other countries are currently in the midst of a general economic downturn that commenced in during the fiscal year ended january   we experienced a decline in revenues and a loss of profitability  which we believe is attributable  at least in part  to this downturn  as many of our customers experienced budgeting constraints  causing them to defer or cancel projects 
+our total revenues decreased to million in fiscal compared to million in fiscal we recorded a net loss of million  or per share  for fiscal compared with a net loss of million  or per share  for fiscal our decline in revenues  as well as the adverse economic conditions  led us to implement a restructuring program that included a headcount reduction and other cost control measures  and to record charges for restructuring and impairment of acquired goodwill and other assets 
+we cannot predict how long or severe this downturn will be or whether any actions taken or proposed by the government will be effective to bolster the economy 
+we are required under our synthetic leases to meet certain financial covenants  with which we were in compliance as of january  in the event our revenues and earnings continue to decline  we may not remain in compliance with such covenants  which would trigger an event of default 
+if this were to occur and we could not obtain a waiver  we might be required to purchase the buildings and could incur additional costs associated with replacing the synthetic leases 
+as a result of this uncertainty  forecasting and financial and strategic planning are more difficult than usual 
+if the downturn continues for an extended period or becomes more severe  our business will suffer and we may experience additional declines in sales  as well as continued losses  as our customers attempt to limit their spending 
+in addition  the adverse impact of the downturn on the capital markets could impair our ability to raise capital as needed and impede our ability to expand our business 
+numerous factors may cause our total revenues and operating results to fluctuate significantly from period to period 
+these fluctuations increase the difficulty of financial planning and forecasting and may result in decreases in our available cash and declines in the market price of our stock 
+a number of factors  many of which are outside our control  may cause or contribute to significant fluctuations in our total revenues and operating results 
+these fluctuations make financial planning and forecasting more difficult 
+in addition  these fluctuations may result in unanticipated decreases in our available cash  which could negatively impact our operations 
+as discussed more fully below  these fluctuations also could increase the volatility of our stock price 
+factors that may cause or contribute to fluctuations in our operating results and revenues include the number and timing of orders we receive  including disproportionately higher receipt and shipment of orders in the last month of the quarter  changes in the length of our products sales cycles  which increase as our customers purchase decisions become more strategic and are made at higher management levels  the success of our customers products from which we derive our royalty revenue  the mix of our revenues as between sales of products and lower margin sales of services  our ability to control our operating expenses  our ability to continue to develop  introduce and ship competitive new products and product enhancements quickly  possible deferrals of orders by customers in anticipation of new product introductions  announcements  product introductions and price reductions by our competitors  our ability to manage costs for fixed price consulting agreements  seasonal product purchases by our customers  which historically have been higher in our fourth fiscal quarter  changes in business cycles that affect the markets in which we sell our products  economic conditions in the united states and international markets  and foreign currency exchange rates 
+one or more of the foregoing factors may cause our operating expenses to be disproportionately high or may cause our net revenue and operating results to fluctuate significantly 
+results from prior periods are thus not necessarily indicative of the results of future periods 
+our restructuring plans may not result in sufficient cost savings to enable us to achieve profitability in a difficult economic environment 
+in response to market conditions and the decline in our revenues  in the second quarter of fiscal  we implemented a restructuring plan that was designed to align our resources more strategically and control our expenses 
+our restructuring plan was based on certain assumptions regarding the cost structure of our business and the nature and severity of the current industry adjustment and general economic trends 
+these assumptions may not prove to be accurate and our restructuring plan may not result in the correct alignment of our resources or sufficient cost savings 
+our restructuring plan involves the implementation of a number of initiatives to streamline our business and focus our investments  including reducing headcount by a total of employees across all business functions  implementing cost control measures such as reducing executive compensation  implementing a program of office closure days and reducing discretional spending on items such as consulting and travel 
+additionally  we recorded a million charge for impairment of goodwill and intangible assets during the second and fourth quarters of fiscal these measures may adversely affect our ability to realize our current or future business objectives 
+in addition  the costs actually incurred in connection with restructuring actions may exceed our estimated costs of these actions 
+we may need to refine  expand or extend our plan  which may involve additional restructuring actions  such as further headcount reductions  assessing whether we should consider disposing of businesses or product lines and reviewing the recoverability of remaining tangible and intangible assets 
+any decision to further limit investment or to dispose of or otherwise exit additional businesses may result in the recording of additional accrued liabilities for one time or other charges  such as work force reduction costs  asset write downs and contractual settlements 
+current and additional restructuring actions may result in further cash and or non cash charges  which could have a material adverse effect on our business and results of operations 
+as a result  we cannot be sure that we will return to profitability as a result of our restructuring plan 
+we have substantial debt service and principal repayment obligations  which could make it difficult for us to obtain financing and deplete our cash reserves 
+our substantial debt service and other commitments could impair our liquidity and cash reserves and our ability to obtain additional financing for working capital or acquisitions  should we need to do so 
+as of january   we had million in outstanding indebtedness under our notes and million in long term obligations under the lease financings of our facilities in alameda  california 
+as of january   there was million outstanding under the revolving credit facility of our japanese subsidiary 
+as a result of these and other commitments  our total future commitments for the years ended january  and will be million and million  respectively  assuming that none of our obligations is accelerated 
+at january   we had cash and cash equivalents of approximately million  which included million of investments with maturities of greater than one year and excludes restricted cash of million 
+we face intense competition in the embedded software industry  which could decrease demand for our products or cause us to reduce our prices 
+the embedded software industry is characterized by rapid change  new and complex technology and intense competition 
+our ability to maintain our current market share depends upon our ability to satisfy customer requirements  enhance existing products and develop and introduce new products 
+we expect the intensity of competition to increase in the future 
+increased competitiveness may result in reductions in the prices of our products  run time royalties and services  lower than expected gross margins or loss of market share  any of which would harm our business 
+our primary competition comes from internal research and development departments of companies that develop embedded systems in house 
+in many cases  companies that develop operating systems in house have already made significant investments of time and effort in developing their own internal systems  making acceptance of our products as a replacement more difficult 
+additionally  we compete with independent software vendors 
+some of the companies that develop embedded systems in house and some of these independent software vendors  such as microsoft corporation  have significantly greater financial  technical  marketing  sales and other resources and significantly greater name recognition than we do 
+we also compete with open source software vendors that promote the linux operating system 
+the accessibility of the open source code promotes rapid technological changes from contributors in the open source community  and open source vendors may be able to respond more quickly to these changes 
+additionally  because linux is royalty free  we may be forced to reduce the prices of our run time royalties  which may cause our revenue and profit margin to decline 
+demands for rapid change and the increasing complexity of the technology in our industry intensify the competition we face 
+in addition  our competitors may consolidate or establish strategic alliances to expand product offerings and resources or address new market segments 
+as a result  they may be able to respond more quickly to new or emerging technologies and changes in customer requirements or to devote greater resources to the development  promotion  sale and support of their products 
+these factors favor larger competitors that have the resources to develop new technologies or to respond more quickly with new product offerings or product enhancements 
+we may be unable to meet the pace of rapid development set by our competitors or may incur additional costs attempting to do so  which may cause declines in our operating results 
+our competitors may foresee the course of market developments more accurately than we do and could in the future develop new technologies that compete with our products or even render our products obsolete  any of which could adversely affect our competitive position 
+if we do not continue to address new and rapidly changing markets and increasingly complex technologies successfully and deliver our products on a timely basis  our revenues and operating results will decline 
+the market for embedded software is characterized by ongoing technological developments  evolving industry standards and rapid changes in customer requirements and product offerings in the embedded market 
+our success depends upon our ability to adapt and respond to these changes in a timely and cost effective manner 
+if we fail to continually update our existing products to keep them current with customer needs or to develop new or enhanced products to take advantage of new technologies  emerging standards  and expanding customer requirements  our existing products could become obsolete and our financial performance would suffer 
+we have from time to time experienced delays in the commercial release of new technologies  new products and enhancements of existing products 
+these delays are commonplace in the software industry due to the complexity and unpredictability of the development work required 
+we must effectively market and sell new product offerings to key customers  because once a customer has designed a product with a particular operating system  that customer typically is reluctant to change its supplier due to the significant related costs 
+if we cannot adapt or respond in a cost effective and timely manner to new technologies and new customer requirements  sales of our products could decline 
+the costs of software development can be high  and we may not realize revenues from our development efforts for a substantial period of time 
+introducing new products that rapidly address changing market demands requires a continued high level of investment in research and development 
+our product development and engineering expenses were million  or of total revenues  for the year ended january   and million  or of total revenues  for the year ended january  as we undertake the extensive capital outlays to address the changes in the embedded market  we may be unable to realize revenue as soon as we may expect 
+these costs associated with software development are increasing  including the costs of recruiting and retaining engineering talent and acquiring or licensing new technologies 
+our investment in new and existing market opportunities prior to our ability to generate revenue from these new opportunities may adversely affect our operating results 
+integrating the companies we have acquired and costs associated with acquisitions and investments may disrupt our business and harm our operating results 
+we anticipate that  as part of our business strategy  we will continue to acquire or make investments in business  products and technologies that complement ours 
+these investments and acquisitions can be expensive and difficult to manage and integrate 
+we have incurred significant costs in connection with acquisition transactions in the fiscal years ended january  and and may incur significant costs in connection with future transactions  whether or not they are consummated 
+for example  in fiscal  we recorded a charge of million for acquisition related costs  of which million related to acquisition and integration costs associated with the acquisition of integrated systems  inc  including fees for financial advisors  office closure costs  severance payments and systems integration 
+acquisitions involve additional risks including difficulties in integrating the operations  technologies  and products of the acquired companies  the risk of diverting management s attention from normal daily operations of the business  potential difficulties in completing projects associated with in process research and development  risks of operating in markets in which we have no or limited direct prior experience and where competitors in such markets have stronger market positions  disruption of customer relationships  increased expenses associated with acquisitions  including costs for employee redeployment  relocation or severance  conversion of information systems  combining research and development teams and processes  reorganization or closures of facilities  and relocation or disposition of excess equipment  potential delays in realizing anticipated revenues associated with the acquisition  and the potential loss of key employees of the acquired companies 
+additionally  if revenues associated with acquired businesses do not meet our original expectations  acquisitions may result in charges relating to impairment of acquired goodwill and purchased intangibles 
+during fiscal  we identified indicators of possible impairment of goodwill and other intangible assets relating to acquisitions made in earlier years 
+as a result of our impairment review  we recorded an aggregate charge of million for the impairment of goodwill and purchased intangibles relating to our acquisitions of embedded support tools corporation  audesi technologies  inc  rapid logic  inc  icesoft as and software development systems  inc we may not be successful in integrating the business  products  technologies and personnel we acquire 
+similarly  we cannot guarantee that our investments will yield a significant return  if any 
+if we cannot successfully manage the integration of our acquisitions or are unable to realize the benefits of  or anticipated revenues from  our acquisitions  our business  financial condition and operating results could suffer 
+because a significant portion of our revenue is derived from royalties  we are dependent upon the ability of our customers to develop and penetrate new markets successfully 
+our operating systems and middleware products are embedded in end user products developed and marketed by our customers  and we receive royalty fees for each copy of our operating system and middleware products embedded in those products 
+therefore  our royalty revenues depend both upon our ability to successfully negotiate royalty agreements with our customers and  in turn  upon our customers successful commercialization of their underlying products 
+in particular  we derive significant revenue from customers that develop products in highly competitive and technologically complex areas such as internet infrastructure  servers and storage  digital consumer  aerospace and defense  industrial control and automotive 
+if these customers sell fewer products or otherwise face significant economic difficulties  our revenues will decline 
+during our current fiscal year  we have experienced a decline in run time royalties received from customers  which we believe is primarily due to our customers response to the existing current market conditions in the high technology sector 
+we cannot control these customers product development or commercialization or predict their success 
+in addition  we depend on our customers to accurately report the use of their products in order for us to collect our run time royalties 
+if our customers are not successful with their products or do not accurately report use of their products  our royalty revenues may decline significantly 
+our significant international business activities subject us to increased costs and economic risks 
+we develop and sell a substantial percentage of our products internationally 
+for the year ended january   revenues from international sales were million  or of total revenue  as compared to million  or of total revenue  for the year ended january  additionally  we have investments in  or have made acquisitions of  companies located outside the united states 
+we also expect to continue to make investments to further support and expand our international operations and increase our direct sales force in europe and asia 
+risks inherent in international operations include the imposition of governmental controls and regulatory requirements  the costs and risks of localizing products for foreign countries  differences in business cultures and sales cycles  differences in operation and sales support expenses  unexpected changes in tariffs  import and export restrictions and other barriers and restrictions  greater difficulty in accounts receivable collection  the restrictions on repatriation of earnings  exposure to adverse movements in foreign currency exchange rates  the burdens of complying with a variety of foreign laws  difficulties in staffing and managing foreign subsidiaries and branch operations  difficulties in integrating products and operations from foreign acquisitions  and the need to guarantee credit instruments extended to support foreign operations  in particular in japan 
+any of these events  regionally and as a whole  could reduce our international sales and increase our costs of doing business internationally and have a material adverse effect on our gross margins and net operating results 
+during fiscal  we completed our transition of sales in japan from a distribution model to a direct sales model 
+during fiscal  revenues in japan declined compared to fiscal  primarily because of this transition  and to a lesser extent because of the economic slowdown in japan 
+we cannot be certain that our expectations for the direct sale model will be met and that the level of sales in japan will be maintained or increase in absolute dollars or as a percentage of our revenue 
+if we fail to maintain or increase our sales in japan  or other international regions our results of operations may be adversely affected 
+failure of our current and planned information systems  controls and infrastructure to adequately manage and support our anticipated growth and global operations could disrupt our business 
+we have experienced  and expect to continue to experience in the long term  both through acquisitions and internal expansion  significant growth in our headcount and in the scope  complexity and geographic reach of our operations 
+to support this expansion  we must standardize  integrate and improve our management controls  reporting systems and procedures and information technology infrastructure 
+to implement those improvements  we must purchase  develop and maintain complex and expensive information management systems 
+our current and planned systems  procedures and controls may not be adequate to support our future operations 
+failure of these systems to meet our needs and an inability to efficiently integrate and expand support worldwide could disrupt our operations 
+our ability to manage this growth is complicated by the need to implement headcount reductions and cost control measures in the short term in response to general economic conditions and declining revenues 
+see our restructuring plans may not result in sufficient cost savings to enable us to achieve profitability in a difficult economic environment above 
+our common stock price is subject to volatility 
+in recent years  the stock markets in general and the shares of technology companies in particular have experienced extreme price fluctuations 
+these recent price fluctuations have often been unrelated or disproportionate to the operating performance of the companies affected 
+our stock price has similarly experienced significant volatility  during fiscal  as reported on the nasdaq national market  our stock had a high sales price of and a low sales price of 
+in recent fiscal quarters  we have experienced shortfalls in revenue and earnings from levels expected by securities analysts and investors  which have had an immediate and significant adverse effect on the trading price of our common stock 
+these factors relating to the fluctuations in our revenues and operating results will continue to affect our stock price 
+comments by or changes in estimates from securities analysts as well as significant developments involving our competitors or our industry could also affect our stock price 
+in addition  the market price of our common stock is affected by the stock performance of other technology companies generally  as well as companies in our industry and our customers in particular 
+other broad market and industry factors may negatively affect our operating results or cause our stock price to decline  as may general political or economic conditions in the united states and globally  such as recessions  or interest rate or currency fluctuations 
+our strategic equity investments are subject to equity price risk and their value may fluctuate 
+from time to time  we make investments for the promotion of business and strategic objectives with publicly traded and privately held companies 
+the market price and valuation of the securities that we hold in these companies may fluctuate due to market conditions and other circumstances over which we have little or no control 
+recently  the value of these investments has declined significantly  causing us to record a total impairment loss of million in fiscal for most of these investments 
+as of january   the market value of our publicly held investments was  and the cost basis of our remaining private investments was million 
+we typically do not attempt to reduce or eliminate this equity price risk through hedging or similar techniques  and market price and valuation fluctuations could impact our financial results 
+moreover  our investments in privately held companies are inherently risky because the markets for the technologies or products these companies have under development are typically in the early stage and may never develop 
+we will continue to monitor these investments for impairment and will make appropriate reductions in the carrying value when necessary 
+to the extent that the fair value of these securities is less than our cost over an extended period of time  our net income would be reduced 
+the rights we rely upon to protect the intellectual property underlying our products may not be adequate  which could enable third parties to use our technology and reduce our ability to compete 
+our success depends significantly upon the proprietary technology contained in our products 
+we currently rely on a combination of patents  copyrights  trademarks  trade secret laws  and contractual provisions to establish and protect our intellectual property rights in our technology and products 
+we cannot be certain that the steps we take to protect our intellectual property will adequately protect our rights  that others will not independently develop or otherwise acquire equivalent or superior technology  or that we can maintain our technology as trade secrets 
+in addition  discovery and investigation of unauthorized use of our intellectual property is difficult 
+we expect software piracy  which is difficult to detect  to be a persistent problem  particularly in those foreign countries where the laws may not protect our intellectual property as fully as in the united states 
+employees  consultants  and others who participate in the development of our products may breach their agreements with us regarding our intellectual property 
+we might not have adequate remedies for infringement or breach of our proprietary rights by third parties  employees or consultants 
+further  we have in the past initiated  and in the future may initiate  claims or litigation against third parties for infringement or breach of our proprietary rights or to establish the validity of our proprietary rights 
+whether or not such litigation is determined in our favor  such actions could result in significant expense to us  divert the efforts of our technical and management personnel from productive tasks or cause product shipment delays 
+patent  trademark or copyright infringement or product liability claims against us may result in costly litigation  cause product shipment delays or require us to expend significant resources 
+in addition  patent or copyright claims may require us to enter into royalty or licensing arrangements 
+we occasionally receive communications from third parties alleging patent  trademark or copyright infringement or other intellectual property claims  and there is always the chance that third parties may assert infringement claims against us or against our customers under circumstances that might require us to provide indemnification 
+for example  at various times in recent years  we have been informed that ibm corporation has contacted a few of our customers with respect to potential infringement of ibm patents by our customers products which may include our software 
+additionally  because our products are increasingly used in applications  such as network infrastructure  transportation  medical and mission critical business systems  in which the failure of the embedded system could cause property damage  personal injury or economic loss  we may face product liability claims 
+although our agreements with our customers typically contain provisions intended to limit our exposure to infringement and liability claims  these provisions may not be effective in doing so in all circumstances or in all jurisdictions 
+any of these types of claims  with or without merit  could result in claims for indemnification by us or costly litigation  could require us to expend significant resources to develop non infringing technology or remedy product defects  cause product shipment delays or require us to pay significant damages if the claims are successful 
+in the case of infringement of another party s intellectual property  we may be required to enter into royalty or licensing agreements  however  we cannot be certain that the necessary licenses will be available or that they can be obtained on commercially reasonable terms 
+if we are not successful in defending these claims or  with respect to infringement claims  were to fail to obtain royalty or licensing agreements in a timely manner and on reasonable terms  our business  financial condition and results of operations would be materially adversely affected 
+we are currently involved in certain legal proceedings that are described in item legal proceedings 
+such matters involve complex questions of fact and law and could involve significant costs and the diversion of resources to defend 
+additionally  the results of litigation are inherently uncertain  and an adverse outcome is at least reasonably possible 
+we are unable to estimate the range of possible loss from outstanding litigation and other legal proceedings and no amounts have been provided for such matters in the accompanying consolidated financial statements 
+if we are not successful in defending these claims  our business  financial condition and results of operations could be materially adversely affected 
+item a 
+quantitative and qualitative disclosures about market risk interest rate sensitivity our exposure to market risk for changes in interest rates relate primarily to our investment portfolio and debt obligations 
+we place our investments with high quality credit issuers and  by policy  limit the amount of credit exposure to any one issuer 
+as stated in our policy  our first priority is to reduce the risk of principal loss 
+consequently  we seek to preserve our invested funds by limiting default risk  market risk and reinvestment risk 
+we mitigate default risk by investing in only high quality credit securities that we believe to be low risk and by positioning our portfolio to respond appropriately to a significant reduction in a credit rating of any investment issuer or guarantor 
+the portfolio includes only marketable securities with active secondary or resale markets to ensure portfolio liquidity 
+we believe an immediate basis point move in interest rates affecting our floating and fixed rate financial instruments as of january  would have an immaterial effect on our pretax earnings 
+we also believe an immediate basis point move in interest rates would have an immaterial effect on the fair value of our fixed income securities 
+in march  we entered into a accreting interest rate swap to mitigate the impact of changes in interest rates on our floating interest rate operating lease for our new headquarters 
+at january   the notional amount of the accreting interest rate swap was million 
+in january  we entered into a interest rate swap to mitigate the impact of interest rate changes on our second floating interest rate operating lease for the additional construction of our headquarters facility 
+the notional amount of this interest rate swap was million at january  the estimated fair value of the interest rate swap liabilities was million at january  and negligible at january  the interest rate swap agreements mature at the same time that the respective operating leases expire 
+foreign currency risk we may enter into foreign currency forward exchange contracts to manage foreign currency exposures related to certain foreign currency denominated inter company balances 
+additionally  we may adjust our foreign currency hedging position by taking out additional contracts or by terminating or offsetting existing forward contracts 
+these adjustments may result from changes in the underlying foreign currency exposures or from fundamental shifts in the economics of particular exchange rates 
+gains and losses on terminated forward contracts  or on contracts that are offset  are recognized in income in the period of contract termination or offset 
+our ultimate realized gain or loss with respect to currency fluctuations will depend on the currency exchange rates and other factors in effect as the contracts mature 
+at january   we had no outstanding forward contracts 
+equity price risk we own  shares of common stock of e sim that was purchased prior to e sim s public offering in july at per share 
+on january   the closing price of e sim s stock was per share 
+we own  shares of common stock of tvia  inc that was purchased prior to tvia s public offering in august at per share 
+on january   the closing price of tvia s stock was per share 
+we own  shares of common stock of insignia solutions  ltd 
+purchased in february at a cost of per share 
+on january   the closing price of insignia was per share 
+prior to the july public offering of shares of liberate  we purchased  shares at per share 
+during fiscal  we sold our remaining investment in liberate  for a pre tax gain of approximately million 
+we value our publicly held investments using the closing price of the stock at the end of each month 
+as a result  we reflect these investments on our balance sheet at january  at their aggregate market value of approximately  during fiscal  we recorded an impairment charge on these publicly held investments of million  which represented the amount of other than temporary decline as of the date of impairment 
+we also have certain other minority investments in private companies 
+these investments are included in other long term assets on our balance sheet and are carried at cost  subject to adjustment for impairment 
+these investments are inherently risky because the markets for the technologies or products they have under development are typically in the early stages and may never develop 
+due to the recent economic downturn  we recorded an impairment loss of million during fiscal as of january   the cost basis of the portion of our remaining investments related to private companies was million 
+we will continue to monitor these investments for impairment and make appropriate reductions in carrying values when necessary 
+

@@ -1,0 +1,879 @@
+item  management s discussion and analysis of financial condition and results of operations  in the section entitled trends  uncertainties and risks on page  and similar discussions in our other filings with the securities and exchange commission 
+the company undertakes no obligation to update any forward looking statements in this form k 
+in this report  all share numbers and per share amounts have been adjusted to reflect our for stock split in the form of a stock dividend to stockholders of record as of august  business general semiconductor integrated circuits ics are key components in almost all electronic products and systems produced today 
+their capacity to process and store information gives manufacturers of electronic products a powerful ability to add new features  adapt to changing demands and quickly develop new products 
+as additional semiconductor elements are packed into smaller areas  ics offer valuable new capabilities important to manufacturers of end products 
+we design  develop  manufacture and sell a wide range of ic products 
+we develop and commercialize nonvolatile memory that continues to store information after power is turned off 
+we leverage our expertise in nonvolatile memories by combining them with microcontrollers  digital signal processors and other logic to meet the evolving and growing needs of our customers 
+these complex system on a chip solutions for a broad array of markets are manufactured using our multiple leading edge process technologies  including complementary metal oxide semiconductor cmos  double diffused metal oxide semiconductor dmos  logic  cmos logic  bipolar  bipolar cmos bicmos  silicon germanium sige  sige bicmos  analog  bipolar double diffused cmos bcdmos and radiation tolerant process technologies 
+we develop these process technologies ourselves to ensure they provide the maximum possible performance 
+we manufacture more than of our products in our own wafer fabrication facilities  or fabs 
+we believe our broad portfolio of manufacturing capabilities allows us to produce ics that enable our customers to rapidly introduce leading edge electronic products that are differentiated by higher performance  advanced features  lower cost  smaller size  longer battery life and more memory 
+our products are used primarily in the following markets communications  consumer electronics and computing  storage  automotive  security and imaging 
+we were originally incorporated in california in december in october we were reincorporated in delaware 
+our principal offices are located at orchard parkway  san jose  california  and our telephone number is our internet address is www 
+atmel 
+com  however  the information in  or that can be accessed through  our website is not part of this report 
+our annual reports on form k  quarterly reports on form q  current reports on form k  and amendments to such reports are available  free of charge  through our website as soon as reasonably practicable after we electronically file such material with  or furnish it to  the securities and exchange commission  or sec 
+products our products consist primarily of advanced logic  mixed signal  nonvolatile memory  radio frequency and system level integration semiconductor solutions 
+
+table of contents our business has four operating segments see note of notes to consolidated financial statements 
+each segment offers products that compete in one or more of the end markets described below under the caption principal markets and customers 
+application specific integrated circuit asic segment includes full custom application specific integrated circuits  semicustom gate arrays and semicustom cell based integrated circuits cbics designed to meet specialized single customer requirements for their high performance devices in a broad variety of applications 
+in addition  this business unit includes field programmable gate arrays fpgas  programmable logic devices plds  imaging sensors and processors  audio processors  data communication processors and data acquisition and control circuits for general sale to multiple customers who use them in products for telecommunications  computers  networking  image processing  industrial  automotive  avionics and smart card applications 
+microcontrollers segment includes a variety of microcontrollers including microcontrollers containing embedded nonvolatile memory 
+nonvolatile memories segment includes flash memories  electrically erasable programmable read only memories eeproms  and erasable programmable read only memories eproms for use in a broad variety of customer applications 
+radio frequency rf and automotive segment includes radio frequency and analog circuits for the telecommunications  automotive and industrial markets 
+within each operating segment  we offer our customers products with a range of speed  density  power usage  specialty packaging and other features 
+asic asics 
+we manufacture and market semicustom gate arrays and cell based integrated circuits  as well as full custom asics  to meet customer requirements for high performance logic devices in a broad variety of customer specific applications 
+these logic devices are designed to achieve highly integrated solutions for particular applications by combining a variety of logic functions on a single chip rather than using a multi chip solution 
+our cmos gate array product family satisfies high gate count and high performance requirements  primarily in computer  avionics and military applications 
+our gate array family consists of devices ranging from  gates to more than  gates 
+we design and manufacture cbics in a range of products that includes standard digital and analog functions  as well as nonvolatile memory elements and large pre designed macro functions all mixed on a single chip 
+our asic products are targeted primarily at customers whose high end applications require high speed  high density or low or mixed voltage devices 
+fpgas 
+we believe our fpga designs are well suited for data and computation intensive applications and afford our customers migration paths among various logic solutions as their volume and cost requirements change 
+our at fpgas are being used in graphics  image processing  networking and telecommunications applications  often as a co processor to a digital signal processor dsp to speed up certain software routines by implementing them in hardware 
+our atk family of fpgas with freeram and cache logic offer distributed ram without loss of logic resources as well as a reconfigurable solution for adaptive dsp and other computationally intensive applications 
+the devices range in density from  to  usable gates 
+our customers can use industry standard computer aided engineering cae tools to design both the at and atk fpga families into their products 
+we have also introduced a family of reconfigurable fpga serial configuration eeproms that can replace one time programmable devices 
+these devices may be used for configuring not only our fpgas but also those from other fpga makers 
+additionally  fpga to gate array conversion ulc is available for both military and commercial applications 
+the field programmable system level integrated circuit fpslic tm family of devices combines an avr microcontroller core  standard peripherals and sram program and data memory  along with significant amounts of atk fpga cells which can be programmed by users to quickly and easily customize the ic s function 
+these devices were the industry s first such combination of so called hard macro reduced instruction set risc based 
+table of contents microcontroller and memory functions with on chip fpga customizable functions 
+the family is offered with unique co verification development tools that allow a system designer to perform microcontroller software verification concurrently with fpga hardware verification 
+sensors 
+our line up of imaging and sensing products include ccd and cmos image sensors and processors that cover the market from entry level to the high resolution required for professional  medical  automotive and military applications 
+our portfolio of ics covers innovative image processor technology needed to satisfy our customer s needs for complex image processors and industrial grade image sensors  and can also be integrated into complete digital camera modules plds 
+we have developed a line of plds  ranging from to  gates that are reprogrammable and incorporate nonvolatile elements from our eeprom technology 
+these devices are sometimes used as prototyping and pre production devices and allow for later conversion to gate array products for volume production 
+for these situations  we offer customers the ability to migrate from fpgas or plds either their own or competitors to our gate arrays with minimal conversion effort 
+we offer cmos plds with high performance and low power consumption 
+smart cards 
+we offer a range of secure memory products that address the entire smart card market  from low complexity  serial products to highly complex cryptocontroller products 
+these products provide customers with advanced security solutions  both for contact and contactless cards 
+our contact smart cards range from kbit to kbit in memory density 
+our contactless smart cards range from kbit to kbit in memory density 
+custom asics 
+we work closely with certain customers to develop and manufacture custom asic products so we can provide them asic products on a sole source basis 
+to develop gate arrays and cbics  our customers system designers require sophisticated development aids 
+these cae tools include logic synthesizers  logic circuit simulators  timing analysis and verification tools  test pattern generators and testability graders  automated circuit placement and interconnection programs and mask tooling generators 
+microcontrollers our microcontroller business unit offers a variety of products to serve the commercial and aerospace marketplaces for embedded controls 
+the cornerstone of the product portfolio is two bit microcontroller architectures targeted at the high volume embedded control segment 
+they are the and avr microcontrollers 
+the family consists of microcontrollers containing read only memory  one time programmable memory  or flash memory and microcontrollers without memories plus application specific products designed to enable mp  can or smart card reader systems 
+the avr microcontroller family uses a risc architecture that is optimized for c language code density and low power operation 
+both microcontroller families are offered as standard products  as building blocks in our asic library or as application specific products 
+the microcontroller families offer a large variety of memory densities  package types and peripheral options including analog capability 
+additionally  under license agreements  we make and sell secure versions of an bit microcontroller to serve smart card markets  standard and secure versions of arm core based bit microcontrollers to serve high performance embedded processing applications  and high reliability versions of the motorola power pc and microprocessor families to serve military and industrial applications 
+we are a supplier to the aerospace industry  delivering radiation tolerant and radiation hard sram  dual port ram  fifo  asic and bit sparc processors 
+nonvolatile memories eproms 
+the worldwide eprom market is intensely competitive and characterized by commodity pricing 
+our strategy is to target the high performance end of this market by offering faster speed  higher density and lower power usage devices 
+we currently offer eproms with access speeds of nanoseconds to nanoseconds and densities of kilobits to megabits 
+these products are generally used to contain the operating programs of embedded microcontroller or dsp based systems  such as hard disk drives  cd rom drives and modems 
+parallel interface eeproms 
+we supply high performance in system programmable parallel interface eeproms 
+we believe that our parallel interface eeprom products  all of which are full featured  represent the most complete parallel interface eeprom product family in the industry 
+we have maintained this leadership role through early introductions of high speed  high capacity and low power consumption cmos devices 
+we are the 
+table of contents sole source supplier for several customers for certain parallel interface eeprom devices 
+in the design of this product family  we have emphasized device reliability  achieved partly through the incorporation of on chip error detection and correction features 
+these products are generally used to contain frequently updated data in communications infrastructure equipment and avionics navigation systems 
+serial interface eeproms 
+we used our parallel interface eeprom technology and sub micron fabrication capability to enter the serial interface eeprom market 
+this move allowed us to substantially broaden our eeprom product offerings to include most package and temperature configurations required by customers in certain segments of the serial interface eeprom market such as the wire  wire  wire and serial peripheral interface spi market segments 
+as with the parallel interface eeprom family  we believe our serial interface eeprom products represent the most complete family in the industry 
+the serial interface eeprom product line incorporates many of the reliability  speed and other features of our parallel interface eeprom products 
+these products are generally used to contain user preference data in cellular and cordless telephones  home appliances  automotive applications and computer peripherals or stored value data in smart cards 
+flash memories 
+flash memories represent the latest technology in nonvolatile devices that can be reprogrammed in system 
+flash memories offer a middle ground in price and features between eproms  which can be reprogrammed only a few times and only if removed from a system  and relatively more expensive parallel interface eeproms  in which any individual byte of data can be reprogrammed on the device in system tens to hundreds of thousands of times 
+our flash memories  based on our eeprom technology  were the industry s first flash memories that could be reprogrammed using only a single volt power source  a single volt power source  a single volt power source or a single volt power source as opposed to the heavier  larger and more expensive volt power sources typically utilized by many eprom based flash memories 
+these lower power requirements are particularly important in portable telecommunications and consumer electronic products and other systems where small size and weight and longer battery life are critical customer requirements 
+we have expanded our flash product offerings by introducing a range of products based on our more cost effective flash technology 
+we currently offer flash memories with capacities of kilobits to megabits in each ic 
+the flexibility and ease of use of our flash memories make them an attractive alternative to eproms in systems where program information stored in memory must be rewritten after the system leaves its manufacturing environment 
+in addition  many customers use flash memories within their system manufacturing cycle  affording them in system diagnostic and test programming prior to reprogramming for final shipment configuration 
+the reprogrammability of flash memories also serves to support later system upgrades  field diagnostic routines and in system reconfiguration  as well as capturing voice and data messages for later review 
+dataflash 
+the dataflash product family represents one of our newest innovations in nonvolatile memory 
+dataflash products are designed to easily and efficiently handle large amounts of frequently changing data  ideally addressing the needs of digital voice storage  digital image storage  and text data storage applications such as digital answering machines  cellular phones  fax machines  digital cameras and computer peripherals where small size is an important factor 
+to minimize cost  footprint size and power consumption  dataflash products utilize our latest flash technology for the core memory array combined with the simple spi from the serial interface eeproms 
+other architectural features include dual on chip sram buffers and error detection logic  as well as additional command and device status logic 
+our memory products are used to provide nonvolatile program and data storage in digital systems for a variety of applications and markets  including computing  telecommunications  data communications  consumer electronics  automotive  industrial instrumentation and military avionics 
+rf and automotive our rf products are designed to service the automotive  telecommunications  consumer and industrial markets 
+our focus is to design and supply high frequency products for many types of wireless communications devices in the frequency range of to ghz 
+these products  manufactured using sige technology  are used in two way pagers  digitally enhanced cordless telecommunications  mobile telephones  and cellular base stations  among other applications 
+for automotive applications  this segment offers a family of read  read write and encryption identification ics  which are used for wireless access control and operate at a frequency in the range of khz to mhz 
+
+table of contents these ics are used in combination with a reader ic to make possible contactless identification for a wide variety of applications 
+typical applications include access control and tracking of consumer goods 
+within this segment another product family uses rf technology for remote keyless entry for automobiles  as well as for many other remote control applications  such as air conditioning control  garage door openers  outside wireless temperature monitoring and security home alarm systems 
+we also specialize in providing intelligent load driver ics suited for the rugged automotive environment 
+these ics are manufactured in bcdmos technology  a micron mixed signal high voltage technology providing analog bipolar  high voltage dmos power and cmos logic function on a single chip 
+the applications for these automotive products are primarily motor and actuator drivers and smart valve controls 
+technology from our inception  we have focused our efforts on developing advanced cmos processes that can be used to manufacture reliable nonvolatile elements for memory and logic integrated circuits 
+we believe we are a leader in single and multiple layer metal cmos processing  which enables us to produce high density  high speed and low power memory and logic products 
+we attempt to meet customers demands for constantly increasing functionality on ever smaller ics by increasing the number of layers we use to build the circuits on a wafer and by reducing the size of the transistors and other components in the circuit 
+to accomplish this we develop and introduce new wafer manufacturing techniques as necessary 
+for example  to allow smaller circuit dimensions by smoothing out surface irregularities between layers  we introduced chemical mechanical planarization to our wafer manufacturing process and now use it in all our fabrication facilities 
+we also provide our fabrication facilities with state of the art manufacturing equipment and development resources that allow us to produce ics with increasingly smaller feature sizes 
+our current ics incorporate effective feature sizes as small as microns 
+we are developing processes that support effective feature sizes as small as microns 
+we broadened our technology focus by developing expertise for designing and manufacturing high frequency rf products  which are used primarily in cellular telephones and cordless applications 
+in order to achieve high frequency with high efficiency and very low noise  a sige technology was developed 
+this technology is based on well established bipolar silicon process technology  with one of the key process steps  the epitaxial layer  modified by adding germanium to the silicon 
+the current minimum feature size supports the design of very small rf receivers and transceivers as well as power amplifiers 
+this technology is designed to replace galium arsenide gaas technology  which is commonly used for power amplifiers in cellular telephones 
+in order to extend the capabilities of sige  atmel has begun to combine the high frequency features of sige with cmos in order to integrate high density logic parts and rf analog functions on a single integrated circuit 
+we believe this sige cmos technology will enable atmel to provide single chip system solutions to the marketplace 
+principal markets and customers communications 
+communications  including wireless and wireline telecommunications and data networking  is currently our largest end user market 
+for the wireless market  we provide nonvolatile memory  standard and secure microcontrollers  and baseband and rf asics that are used in global standard for mobile communications gsm and code division multiple access cdma mobile phones and their base stations  as well as two way pagers  mobile radios  mhz cordless phones and their base stations 
+we also have a range of products based on the ieee wireless lan standard  and on bluetooth  a new short range wireless protocol that enables instant connectivity between electronic devices 
+our principal customers in the wireless market include ericsson  motorola  nokia  philips  qualcomm  samsung and siemens 
+we also serve the data networking and wireline telecommunications markets  which continue to evolve due to the rapid adoption of new technologies 
+for these markets  we provide asic  nonvolatile memory and programmable logic products that are used in the switches  routers  cable modem termination systems and digital subscriber line dsl access multiplexers  that are currently being used to build internet infrastructure 
+our principal data networking and wireline telecommunications customers include alcatel  and siemens 
+
+table of contents consumer electronics 
+our products are also used in a broad variety of consumer electronics products 
+we provide multimode audio processors and mpeg based decoders with programmable transport for complex digital audio streams used in digital tvs  set top boxes and dvd players 
+for digital cameras  we provide a single chip digital camera processor solution  as well as medium and high resolution image sensors 
+we provide demodulators and decoders for cable modems 
+we also offer media access controllers for wireless local area networks lans and baseband controllers and network protocol stacks for voice over internet protocol voip telephone terminals 
+in addition  we provide secure  encryption enabled  tamper resistant circuits for smart cards and embedded pc security applications 
+our principal consumer electronics customers include fujifilm  gemplus  invensys  lg electronics  matsushita  philips  samsung and schlumberger 
+computing  storage and printing 
+the computing and computing peripherals markets are also growing because of the growth of the internet 
+for computing applications  we provide flash memory  universal serial bus usb hubs and asics for personal computers and servers 
+our biometric security ic verifies a user s identity by scanning a finger 
+in today s security conscious environment we believe this ic is finding applications where access to information  equipment and similar resources needs to be controlled or monitored 
+for storage applications  we provide servo controllers  laser drivers  read channels  and data interfaces for data storage subsystems  hard drives and dvd players 
+we provide asics  nonvolatile memory and microcontrollers for laser printers  inkjet printers  copy machines and scanners 
+our principal customers in these markets include hewlett packard  ibm  intel and seagate 
+manufacturing we currently manufacture our products at our wafer fabrication facilities located in colorado springs  colorado  heilbronn  germany  nantes  france  and rousset  france 
+we have an additional facility in north tyneside  uk  which was kept in a low state of operational readiness during due to excess manufacturing capacity 
+we are currently developing fabrication processes in our north tyneside facility 
+as a result of the economic downturn in the semiconductor industry that began in the fourth quarter  we have taken actions to suspend or reduce our manufacturing capacity and costs to a level that meets demand for our products in order to achieve profitability 
+expensive manufacturing equipment has been underutilized or sold at significantly discounted prices  and employee and other manufacturing costs reduced 
+in the third quarter we announced closure of the company s inch wafer fabrication facility at irving  texas 
+this facility was acquired in  and the company originally intended to commence commercial production in the second half of however  given the market conditions in the semiconductor industry  we reassessed our overall manufacturing capacity against the potential anticipated demand and decided to close the facility 
+the fabrication facility is available for sale and was placed on the market in august we intend to complete a sale as soon as possible  however the timing of a final sale is uncertain given the current market for semiconductor manufacturing facilities 
+see note of notes to consolidated financial statements 
+reducing our wafer fabrication capacity involves significant potential costs and delays  including approvals and requirements of various governmental and judicial bodies and loss of governmental subsidies 
+we may experience labor union or other difficulties when implementing any additional downsizing that we may be required to make if the current downturn continues or worsens 
+any such difficulties that we experience would harm our business and operating results 
+the deteriorating market conditions we experienced in and may continue or worsen  causing our wafer fabrication capacity to continue to be underutilized  and our inability to quickly reduce fixed costs such as depreciation and other fixed operating expenses necessary to operate our wafer manufacturing facilities would continue to harm our operating results 
+if net revenues do not increase sufficiently in future periods to meet these costs  our business would be harmed 
+if market demand for our products increases during and  we believe that we will be able to substantially meet our production needs from our wafer fabrication facilities through the end of  although this date may vary depending on  among other things  our rate of growth 
+we will need to hire  train and manage additional production personnel in order to increase our production capacity from current levels 
+to remain technologically and economically competitive  we must continuously implement new manufacturing technologies such as micron line widths in our wafer manufacturing facilities regardless of demand for our products 
+if the recent downturn continues beyond the first or second half of or worsens  our efforts to implement these new technologies while reducing costs consistent with demand may be significantly impaired 
+
+table of contents the cost of expanding our manufacturing capacity at our existing facilities  acquiring additional facilities  maintaining existing or additional facilities and implementing new manufacturing technologies is typically funded through a combination of available cash resources  cash from operations and additional lease  debt or equity financing 
+we may not be able to generate the cash from operations or obtain the additional financing necessary to fund the maintenance or expansion of our manufacturing facilities or the implementation of new manufacturing technologies 
+the fabrication of our integrated circuits is a highly complex and precise process  requiring production in a tightly controlled  clean environment 
+minute impurities  difficulties in the fabrication process  defects in the masks used to print circuits on a wafer  or other factors can cause a substantial percentage of wafers to be rejected or numerous die on each wafer to be nonfunctional 
+we may experience problems in achieving acceptable yields in the manufacture of wafers  particularly in connection with the expansion of our manufacturing capacity and related transitions 
+the interruption of wafer fabrication or the failure to achieve acceptable manufacturing yields at any of our wafer fabrication facilities would harm our business 
+as a result of these and other factors we may be unable to achieve adequate wafer manufacturing output in any expanded or new facility in a timely manner  and our revenues may not increase in proportion to the anticipated increase in manufacturing capacity associated with any expanded or new facility 
+once we have fabricated the wafers  we test the individual circuits on them to identify those that do not function 
+this saves us the cost of putting mechanical packages around circuits whose failure can be determined in advance 
+after this initial testing we send the wafers to one of our independent assembly contractors  located in china  hong kong  japan  malaysia  the philippines  south korea  or taiwan where they are cut into individual chips  assembled into packages and in some cases given a final test 
+most of the packaged integrated circuits  however  are shipped back to our production facilities where we perform final testing before shipping them to customers 
+our reliance on independent subcontractors to assemble our products into packages involves significant risks  including reduced control over quality and delivery schedules  a potential lack of capacity at our subcontractors and a risk the subcontractor may abandon assembly processes we need 
+we cannot be sure that our current assembly subcontractors will continue to assemble  package and test products for us 
+in addition  because our assembly subcontractors are located in foreign countries  we are subject to some risks commonly associated with contracting with foreign suppliers  including currency exchange fluctuations  political and economic instability  trade restrictions and changes in tariff and freight rates 
+as a result  we may experience production delays  insufficient volumes or inadequate quality of assembled products  any of which could harm our operations 
+to mitigate these risks we execute a strategy of qualifying multiple subcontractors in different countries 
+however  there can be no guarantee that any strategy will eliminate our risk 
+we reduce the unit cost of our products by producing as many wafers as possible in each plant  by shrinking circuits to fit the most possible on each wafer and by keeping production expenses low 
+we normally expect to produce at unit costs low enough to provide satisfactory profit margins 
+the raw materials and equipment we use to produce our integrated circuits are available from several suppliers and we are not dependent upon any single source of supply 
+some materials have been in short supply in the past and lead times for new equipment have lengthened on occasion  but we did not experience serious difficulties in obtaining raw materials or equipment in environmental compliance 
+we are subject to a variety of federal  state and local governmental regulations related to the discharge or disposal of toxic  volatile or otherwise hazardous chemicals used in our manufacturing processes 
+increasing public attention has been focused on the environmental impact of semiconductor operations 
+although we have not experienced any material adverse effect on our operations from environmental regulations  any changes in such regulations or in their enforcement may impose the need for additional capital equipment or other requirements 
+if for any reason we fail to control the use of  or to restrict adequately the discharge of  hazardous substances under present or future regulations  we could be subject to substantial liability or our manufacturing operations could be suspended 
+marketing and sales we market our products worldwide to a diverse base of original equipment manufacturers oems serving primarily commercial markets 
+in the united states and canada  we sell our products to large oem accounts primarily through manufacturers representatives and through national and regional distributors 
+our agreements with our representatives and distributors are generally terminable by either party on short notice  subject to local 
+table of contents laws 
+we support this sales network from our headquarters in san jose  california and through north american regional offices in southern california  colorado  florida  illinois  massachusetts  michigan  minnesota  new jersey  north carolina  oregon  texas and ontario  canada 
+sales to north american oems and distributors  as a percentage of worldwide net revenues  were and in  and in and and in  respectively 
+additionally  we have sales offices outside of north america 
+we generate our revenue by selling our products to original equipment manufacturers oems and distributors 
+our policy is to recognize revenue from sales to customers when the rights and risks of ownership have passed to the customer  when persuasive evidence of an arrangement exists  the product has been delivered  the price is fixed and determinable and collection of the resulting receivable is reasonably assured 
+we allow certain distributors  primarily based in the united states  extensive rights of return and other credits for price protection 
+given the uncertainties associated with the levels of returns and other credits issuable to these distributors  we defer recognition of revenue from sales to these distributors until they have resold our products 
+sales to certain other primarily non us based distributors carry either no or very limited rights of return 
+we have historically been able to estimate returns and other credits from these distributors and accordingly have historically recognized revenue from sales to these distributors on shipment  with a related allowance for potential returns established at the time of our sale 
+we sell to foreign customers primarily through international representatives  who are managed from our foreign sales offices 
+we maintain sales offices in finland  france  germany  hong kong  italy  japan  korea  singapore  sweden  switzerland  taiwan and uk our sales outside north america were approximately  and of total revenues in  and see note of notes to consolidated financial statements 
+although the us government imposes some restrictions on export sales we have not experienced any serious difficulties because of them 
+we expect revenues from our international sales will continue to represent a significant portion of our total revenues 
+international sales are subject to a variety of risks  including those arising from currency fluctuations  tariffs  trade barriers  taxes  export license requirements and foreign government regulations 
+research and development we believe significant investment in research and development is vital to our success  growth and profitability  and we will continue to devote substantial resources  including management time  to this activity 
+our primary objectives are to increase performance of our existing products  to develop new wafer processing and design technologies  and to draw upon these technologies to create new products 
+if we are unable to design  develop  manufacture  market and sell new products successfully  our operating results will be harmed 
+our new product development  process development  or marketing and sales efforts may not be successful  our new products may not achieve market acceptance  and price expectations for our new products may not be achieved 
+during  and we spent million  million and million  on research and development 
+research and development expenses are charged to operations as incurred 
+we expect these expenditures will increase in the future as and when business conditions improve 
+competition we compete in markets that are intensely competitive and characterized by rapid technological change  product obsolescence and price decline 
+throughout our product line  we compete with a number of large semiconductor manufacturers  such as amd  fujitsu  hitachi  intel  lsi logic  microchip  sharp and stmicroelectronics 
+some of these competitors have substantially greater financial  technical  marketing and management resources than we do 
+as we have introduced new products we are increasingly competing directly with these companies  and we may not be able to compete effectively 
+we also compete with emerging companies that are attempting to sell products in specialized markets that our products address 
+we compete principally on the basis of the technical innovation and performance of our products  including their speed  density  power usage  reliability and specialty packaging alternatives  as well as on price and product availability 
+in and we experienced significant price competition in our nonvolatile memory business and especially for eprom and flash products 
+we expect continuing competitive pressures in our markets from existing competitors and new entrants  new technology and weak demand  which  among other factors  will likely maintain the recent trend of declining average selling prices for our products 
+
+table of contents in addition to the factors described above  our ability to compete successfully depends on a number of factors  including the following our success in designing and manufacturing new products that implement new technologies and processes our ability to offer integrated solutions using our advanced nonvolatile memory process with other technologies the rate at which customers incorporate our products into their systems product introductions by our competitors the number and nature of our competitors in a given market  and general market and economic conditions 
+many of these factors are outside of our control  and we may not be able to compete successfully in the future 
+patents and licenses we maintain a portfolio of united states patents and we have patent applications on file with the us patent and trademark office 
+we also operate an internal program to identify patentable developments and we file patent applications wherever necessary to protect our proprietary technologies 
+however  because technology changes very rapidly in the semiconductor industry  we believe our continued success depends primarily on the technological and innovative skills of our employees and their abilities to rapidly commercialize discoveries 
+the semiconductor industry is characterized by vigorous protection and pursuit of intellectual property rights or positions  which have on occasion resulted in significant and often protracted and expensive litigation 
+we have from time to time received  and may in the future receive  communications from third parties asserting patent or other intellectual property rights covering our products or processes 
+in the past  we have received specific allegations from major companies alleging that certain of our products infringe patents owned by such companies 
+in order to avoid the significant costs associated with our defense in litigation involving such claims  we may license the use of the technologies that are the subject of these claims from such companies and be required to make corresponding royalty payments  which may harm our operating results 
+we have in the past been involved in intellectual property infringement lawsuits which harmed our operating results  and we are currently involved in two lawsuits alleging patent infringement 
+see item  legal proceedings 
+although we intend to vigorously defend against any such lawsuits  we may not prevail given the complex technical issues and inherent uncertainties in patent and intellectual property litigation 
+moreover  the cost of defending against such litigation  in terms of management time and attention  legal fees and product delays  could be substantial  whatever the outcome 
+if any patent or other intellectual property claims against us are successful  we may be prohibited from using the technologies subject to these claims  and if we are unable to obtain a license on acceptable terms  license a substitute technology  or design new technology to avoid infringement  our business and operating results may be significantly harmed 
+we have several cross license agreements with other companies 
+in the future  it may be necessary or advantageous for us to obtain additional patent licenses from existing or other parties  but these license agreements may not be available to us on acceptable terms  if at all 
+employees at december   we employed approximately  persons 
+our future success depends in large part on the continued service of our key technical and management personnel and on our ability to continue to attract and retain qualified employees  particularly those highly skilled design  process and test engineers involved in the manufacture of existing products and the development of new products and processes 
+the competition for such personnel is intense  and the loss of key employees  none of whom is subject to an employment agreement for a specified term or a post employment non competition agreement  could harm our business 
+
+table of contents backlog we make a significant portion of our sales to satisfy recently received purchase orders 
+we also accept purchase orders for deliveries covering periods up to approximately one year 
+however  all purchase orders can be revised or cancelled by the customer without penalty 
+considering these practices and our experience  we do not believe our record of customer purchase orders provides meaningful backlog figures or that it is reliable enough to predict actual sales for future periods 
+geographic areas in  of our sales were made to customers in north america  to customers in asia  to customers in europe  and to customers in other regions 
+as described in note of notes to consolidated financial statements  of our sales were made to customers in the united states 
+we determine where our sales are made by the destination of our products when they are shipped 
+at the end of we owned long lived assets in the united states amounting to million  in france  million  in germany  million and in the uk  million 
+
+table of contents item properties at december  we owned the major facilities described below number of buildings location total sq ft use san jose  ca  headquarters offices  research and development  sales and marketing  product design  final product testing colorado springs  co  wafer fabrication  research and development  marketing  product design  final product testing irving  tx  available for sale  wafer fabrication  research and development facility rousset  france  wafer fabrication  research and development  marketing  product design  final product testing nantes  france  wafer fabrication  research and development  marketing  product design  final product testing grenoble  france  wafer fabrication  research and development  marketing  product design  assembly and final product testing heilbronn  germany  wafer fabrication  research and development  marketing  product design  final product testing of square footage is leased to other companies north tyneside  uk  wafer fabrication  research and development in addition to the facilities we own  we lease numerous research and development facilities and sales offices in north america  europe and asia 
+we believe that suitable additional or alternative space will be available as needed on commercially reasonable terms to meet our current and foreseeable requirements 
+item legal proceedings we currently are a party to various legal proceedings  including those noted below 
+while management  including internal counsel  currently believes that the ultimate outcome of these proceedings  individually and in the aggregate  will not have a material adverse effect on our financial position or overall trends in results of operations  litigation is subject to inherent uncertainties 
+were an unfavorable ruling to occur  there exists the possibility of a material adverse impact on the net income and financial position of atmel 
+the estimate of the potential impact on our financial position or overall results of operations or cash flow for the above legal proceedings could change in the future 
+agere systems  inc agere filed suit in the united states district court  eastern district of pennsylvania in february  alleging patent infringement regarding certain semiconductor and related devices manufactured by atmel 
+the complaint seeks unspecified damages  costs and attorney fees 
+the parties are currently engaged in discovery 
+the court held a markman claims construction hearing on december and   and the parties submitted final briefs on december  the court has set a trial date of july  atmel disputes plaintiff s claims and intends to defend the lawsuit vigorously 
+philips corporation philips filed suit against atmel in the united states district court  southern district of new york  on october  for infringement of its patent  seeking injunctive relief against the alleged infringement and damages 
+atmel answered philips complaint alleging invalidity  unenforceability  and non infringement of the patent  which atmel continues to maintain with the substantial completion of fact discovery 
+atmel disputes plaintiff s claims and intends to defend the lawsuit vigorously 
+
+table of contents seagate technology seagate filed suit against atmel on july  seagate contends that certain semiconductor chips sold by atmel to seagate between april and some indefinite date in were defective 
+seagate contends that this defect has caused millions of disk drives manufactured by seagate to fail 
+though the complaint does not describe the nature of the defect  discovery from seagate suggests that seagate believes that the plastic casings of the atmel chips contain red phosphorus  which in certain highly specific and rare situations can result in an electrical short between the pins in the leadframe of the chip 
+seagate seeks unspecified damages as well as disgorgement of profits related to these particular chips 
+atmel disputes plaintiff s claims and intends to defend the lawsuit vigorously 
+on february   a class action entitled pyevich v 
+atmel corporation  et al  was filed in the united states district court for the northern district of california  against atmel and certain of its current officers and a former officer 
+the complaint alleges that atmel made false and misleading statements concerning its financial results and business during the period from january  to july  as a result of sales of allegedly defective product to a customer and alleges that atmel violated section b of the securities exchange act of additional  virtually identical complaints were subsequently filed and will be consolidated into this action 
+the complaints do not identify the alleged monetary damages 
+atmel disputes plaintiffs claims and intends to defend the lawsuit vigorously 
+on february   a derivative class action entitled cappano v 
+perlegos  et al  was filed in the superior court for the state of california for the county of santa clara 
+the complaint names as defendants certain directors  officers and a former officer of atmel  and atmel is also named as a nominal defendant 
+the complaint alleges that between january and july   defendants breached their fiduciary duties to atmel by permitting it to sell defective products to customers 
+the complaint alleges claims for breach of fiduciary duty  mismanagement  abuse of control  waste  and unjust enrichment 
+the complaint seeks unspecified damages and equitable relief as against the individual defendants 
+an additional  virtually identical complaint making the same allegations also was filed 
+atmel disputes plaintiffs claims and intends to defend the lawsuit vigorously 
+item submission of matters to a vote of security holders there were no matters submitted to a vote of security holders during the fourth quarter of executive officers of the registrant the executive officers of atmel  who are elected by and serve at the discretion of the board of directors  and their ages  are as follows ages are as of december  name age position george perlegos chairman of the board  president and chief executive officer gust perlegos executive vice president  office of the president tsung ching wu executive vice president  office of the president donald colvin vice president  finance and chief financial officer robert c 
+avery interim vice president  finance and chief financial officer b 
+jeffrey katz vice president  marketing mikes n 
+sisois vice president  planning and information systems donald colvin resigned as our vice president finance and chief financial officer effective january  robert avery was appointed interim vice president  finance and chief financial officer effective january  george perlegos has served as atmel s president and chief executive officer and a director from its inception in george perlegos holds degrees in electrical engineering from san jose state university bs and stanford university ms george perlegos is a brother of gust perlegos 
+gust perlegos has served as vice president  general manager and a director of atmel since  as executive vice president since  and as executive vice president  office of the president since gust perlegos holds degrees in electrical engineering from san jose state university bs  stanford university bs 
+table of contents and santa clara university phd gust perlegos is a brother of george perlegos 
+tsung ching wu has served as a director of atmel since  as vice president  technology since  as executive vice president since  and as executive vice president  office of the president since mr 
+wu holds degrees in electrical engineering from the national taiwan university bs  the state university of new york at stony brook bs and the university of pennsylvania phd donald colvin joined atmel in as chief financial officer of the atmel rousset sa subsidiary  and was promoted to vice president finance and chief financial officer of atmel in before joining atmel through the company s acquisition of atmel rousset sa  mr 
+colvin spent nine years with motorola inc  in europe in various financial positions 
+he left motorola in to join european silicon structures es as financial director for france 
+he became vice president and chief financial officer of es in mr 
+colvin holds a ba in economics and an ba from the university of strathclyde  scotland 
+robert c 
+avery joined atmel in as finance manager in the company s colorado springs operations 
+he served as corporate director of finance from to  prior to his appointment as interim vice president  finance and chief financial officer in january before joining atmel  mr 
+avery spent six years with honeywell  inc in various financial positions and six years providing audit services with peat  marwick  mitchell co 
+he holds a bs degree in accounting from michigan state university 
+b 
+jeffrey katz has served atmel as vice president  marketing since from to mr 
+katz was vice president of marketing and sales at mosaic systems  inc  a multichip module supplier 
+mr 
+katz was employed by intel from to where he held various marketing positions  including director of marketing 
+mr 
+katz holds a bs in computer engineering from case western university 
+mikes n 
+sisois joined atmel in as director of information systems and has served as vice president  planning and information systems since mr 
+sisois holds a bs in engineering from san jose state university  and an mba and mba from santa clara university 
+
+table of contents part ii item market for the registrant s common stock and related stockholder matters atmel s common stock is traded on the nasdaq stock market s national market under the symbol atml 
+as of march   there were approximately  stockholders of record of atmel s common stock 
+since many holders shares are listed under their brokerage firms names  the actual number of stockholders is estimated by the company to be approximately  no cash dividends have been paid on the common stock  and we currently have no plans to pay cash dividends in the future 
+price range of common stock the last reported price for our stock on march   was 
+the following table presents the high and low closing sales price per share for our common stock as quoted on the nasdaq national market for the periods indicated 
+high low fiscal year first quarter second quarter third quarter fourth quarter fiscal year first quarter second quarter third quarter fourth quarter 
+table of contents item selected consolidated financial data financial highlights year ended december  in thousands  except per share data net revenues income loss before taxes net basic net income loss per share diluted net income loss per share cash cash plus short term investments fixed assets  net total assets long term debt  net of current portion stockholders equity long term debt as a percentage of stockholders equity return on revenues before taxes net return on average stockholders equity income loss before taxes divided by net revenues income loss  net divided by net revenues income loss  net divided by average of beginning and ending stockholder s equity 
+table of contents item management s discussion and analysis of financial condition and results of operations you should read the following discussion and analysis in conjunction with the consolidated financial statements and related notes contained elsewhere in this report 
+we urge you to carefully review and consider the various disclosures made by us in this report and in our other reports filed with the sec  including our quarterly reports on forms q that also discuss our business 
+in this report  all share numbers and per share amounts have been retroactively adjusted to reflect our for stock splits  each in the form of a stock dividend to stockholders of record as of august  overview beginning late in the fourth quarter  the global semiconductor industry began to experience a downturn that has continued through our business has been impacted by this downturn with the effect that our net revenues have declined sequentially for two years 
+revenues in declined from and revenue in declined from our revenues decreased in as our average selling prices dropped in comparison with those in while our asic business segment experienced some revenue growth in from higher unit shipments  we experienced larger declines in the other segments resulting in lower revenue levels in our revenues decreased in because we shipped fewer units than in although our average selling prices during were approximately the same as during rapid declines in revenue had an adverse impact on our profitability in and because significant portions of our costs are fixed  resulting in operating losses in and in response to these market conditions we made several reductions in our workforce and recorded impairment charges for our wafer fabrication facilities  which further adversely impacted our results 
+we incurred a loss before taxes of million in compared to a loss before taxes of million in we recorded asset impairment and restructuring charges of million  million and million during the second  third and fourth quarters of  respectively 
+we incurred a loss before taxes of million in compared to income before taxes of million in we recorded an asset impairment and restructuring charge of million in the third quarter the asset impairment and restructuring charges that were incurred represent a large portion of the losses before taxes for and the remainder of our loss is primarily due to our inability to reduce fixed costs such as depreciation and other fixed operating expenses necessary to operate our wafer manufacturing facilities as quickly as demand for our products declined 
+we reorganized our structure during the fourth quarter to better manage our business 
+our operating segments now comprise application specific integrated circuits asics  microcontroller products microcontroller  nonvolatile memory products nonvolatile memory  and radio frequency and automotive products rf and automotive 
+as a result  operating segments have changed from prior years and all years have been restated to reflect the new organization 
+critical accounting policies and estimates our discussion and analysis of our financial condition and the results of our operations are based upon our consolidated financial statements and the data used to prepare them 
+atmel s financial statements have been prepared in accordance with accounting principles generally accepted in the united states 
+on an ongoing basis we re evaluate our judgments and estimates including those related to product returns  bad debts  inventories  long lived assets  investments  restructuring charges  income taxes  litigation and contingencies 
+we base our estimates and judgments on our historical experience  knowledge of current conditions and our beliefs of what could occur in the future considering available information 
+actual results may differ from these estimates under different assumptions or conditions 
+our estimates are guided by observing the following critical accounting policies 
+revenue recognition we generate our revenue by selling our products to original equipment manufacturers oems and distributors 
+our policy is to recognize revenue from sales to customers when the rights and risks of ownership have passed to the customer  when persuasive evidence of an arrangement exists  the product has been delivered  the price is fixed and determinable and collection of the resulting receivable is reasonably assured 
+
+table of contents we allow certain distributors  primarily based in the united states  extensive rights of return and other credits for price protection 
+given the uncertainties associated with the levels of returns and other credits issuable to these distributors  we defer recognition of revenue from sales to these distributors until they have resold our products 
+sales to certain other primarily non us based distributors carry either no or very limited rights of return 
+we have historically been able to estimate returns and other credits from these distributors and accordingly have historically recognized revenue from sales to these distributors on shipment  with a related allowance for potential returns established at the time of our sale 
+we must make estimates of potential future product returns and revenue adjustments related to current period product revenue 
+management analyzes historical returns  current economic trends in the semiconductor industry  changes in customer demand and acceptance of our products when evaluating the adequacy of our allowance for sales returns 
+if management made different judgments or utilized different estimates  material differences in the amount of our reported revenue may result 
+we provide for these situations based on our experience with specific customers and our expectations for revenue adjustments based on economic conditions within the semiconductor industry 
+at december  our reserve for sales returns was million and at december  it was million 
+we maintain an allowance for doubtful accounts for losses that we estimate will arise from our customers inability to make required payments 
+we make our estimates of the uncollectibility of our accounts receivable by analyzing historical bad debts  specific customer creditworthiness and current economic trends 
+at december  the allowance for doubtful accounts was million and at december  it was million 
+accounting for income taxes we record a valuation allowance to reduce our deferred tax assets to the amount that is more likely than not to be realized 
+while we consider future taxable income and ongoing prudent and feasible tax planning strategies in assessing the need for the valuation allowance  in the event that we determine that we would be able to realize deferred tax assets in the future in excess of the net recorded amount  an adjustment to the deferred tax asset would increase income in the period such determination was made 
+likewise  should we determine that we would not be able to realize all or part of the net deferred tax asset in the future  an adjustment to the deferred tax asset would be charged to income in the period such determination is made 
+valuation of inventory we write down our inventory for estimated obsolescence or unmarketable inventory equal to the difference between the cost of inventory and the estimated market value based upon assumptions about future demand  selling prices and market conditions 
+our inventories include high technology parts that may be subject to rapid technological obsolescence and which are sold in a highly competitive industry 
+if actual product demand or selling prices are less favorable than we estimate we may be required to take additional inventory write downs 
+valuation of long lived assets our business requires heavy investment in manufacturing facilities that are technologically advanced but can quickly become significantly underutilized or rendered obsolete by rapid changes in demand for semiconductors produced in those facilities 
+we estimate the useful life of our manufacturing equipment  which is the largest component of our long lived assets  to be five years 
+we base our estimate on our experience with acquiring  using and disposing of equipment over time 
+depreciation expense is a major element of our manufacturing cost structure 
+we begin depreciation on new equipment when it is put into use for production 
+we have significant investments in new manufacturing equipment installed at our wafer manufacturing facilities in north tyneside  uk  which commenced commercial production efforts in the third quarter of accordingly  these assets were not being depreciated prior to the third quarter of excluding net assets held for sale of million on december   the aggregate amount of fixed assets under construction for which depreciation was not being recorded amounted to million at december  and million at december  we assess the impairment in value to our company of long lived assets whenever events or circumstances indicate that their carrying value may not be recoverable 
+factors we consider important which could trigger an impairment review include the following 
+table of contents significant negative industry trends significant underutilization of the assets significant changes in how we use the assets or our plans for their use 
+if during our impairment review we determine that the future undiscounted cash flows related to these assets will not be sufficient to recover their carrying value we will reduce the carrying values of these assets down to our estimate of fair market value and continue depreciating them over their remaining useful lives 
+our estimates of fair market value are based on outside appraisals that assume the assets will continue in use at their current locations 
+in the third quarter we recorded a million asset impairment charge related to the manufacturing assets in the fabrication facilities in colorado springs  colorado  rousset  france and nantes  france 
+we determined that due to excess capacity  the future undiscounted cash flows related to these facilities would not be sufficient to recover the carrying value of the manufacturing equipment in those facilities 
+the carrying values of these assets were written down to their estimated market value 
+we also recorded an asset impairment charge of million in the second quarter to write down to current fair value the book value of our fabrication equipment in irving  texas and north tyneside  uk the estimate of current fair value underlying the charge was based on an outside appraisal that assumed the assets would continue in use at their current locations 
+we recorded an additional asset impairment and restructuring charge in the third quarter of of million  primarily in connection with our decision to close our irving  texas inch wafer fabrication facility and make it available for sale 
+the charges consisted of costs for reduction in headcount  asset write downs  and expenses associated with our decision to close the facility 
+if the difficult conditions that exist in the semiconductor industry do not improve  we may not be able to realize the current carrying value for the facility and equipment held for sale 
+see notes and of notes to consolidated financial statements 
+results of operations net revenues we normally expect a steady  predictable rate of price decline throughout a product s life cycle 
+however  the semiconductor industry historically has been cyclical and characterized by wide fluctuations in product supply and demand 
+as a result  the industry experiences significant downturns from time to time 
+these downturns are marked by diminished product demand  production overcapacity and accelerated erosion of average selling prices  all of which impacted us during and total net revenue declined to  million in from  in the decline was caused largely by reductions in average selling prices for most of the company s products 
+the commodity memory portion of the semiconductor industry  in which we sell our nonvolatile memory products  has suffered from excess capacity since late in the fourth quarter  which led to greater than normal price erosion during these periods 
+total net revenues declined to  million in from  million in the decline was caused by fewer unit shipments 
+average selling prices over the course of were comparable to  although they decreased consistently throughout the year 
+net revenues by operating segment net revenues in our nonvolatile memory  microcontroller and rf and automotive segments decreased in while net revenues in our asic segment rose in compared to net revenues in our nonvolatile memory and rf and automotive segments decreased significantly in while net revenues in our asic and microcontroller segments rose in compared to 
+table of contents our net revenues by segment are summarized as follows in thousands segment asic microcontroller nonvolatile memory rf and automotive asic asic segment revenues increased by or million in compared to because of higher unit shipments  partially offset by lower average selling prices 
+the majority of this growth came from increased revenues in our smart card and multimedia product families within the asic segment 
+smart card ic revenue increased due to growing demand for applications requiring small memory with high security  such as banking and government applications 
+multimedia product family revenue increased in due to the introduction of new products for the wireless local area network wlan market 
+asic segment revenues were approximately the same in compared to unit shipments declined from but the decrease was offset by stronger average selling prices  which held firm over the course of the year 
+in addition  a subsidiary we acquired in may  atmel grenoble sa  generated million more revenue for the full year of than it did in see note of notes to consolidated financial statements 
+microcontroller the microcontroller segment revenues decreased by or million in compared to due to decreases in average selling prices  partially offset by increases in unit shipments 
+the decline was caused primarily by a decrease in revenues from product families based on the c microcontroller architecture 
+the microcontroller segment increased by or million in compared to due to increases in unit shipments 
+most of the revenue increase in occurred from growth in the military and aerospace product families 
+nonvolatile memory nonvolatile memory nvm segment revenues declined by or million in compared to the decrease was caused primarily by a decline in average selling prices  partially offset by higher unit shipments 
+while all product families registered lower revenues in compared to  the largest dollar declines occurred in the flash  data flash and serial eeprom product families 
+because nvm products are commodity oriented  they are subject to greater declines in average selling prices than other product areas within our company 
+nvm segment revenues declined by or million in compared to the decrease was caused primarily by a decline in unit shipments and also by lower average selling prices during all product families registered declines in revenues in compared to rf and automotive rf and automotive segment revenues declined by or million in compared to this decrease in revenue was primarily due to an overall decrease in unit shipments and average selling prices in weakness in the rf bicmos and secure product businesses were the major contributors to the revenue decline in  compared to rf and automotive segment revenues declined by or million in compared to this decrease in revenue was primarily due to a decrease in unit shipments 
+the decline of revenues in adversely affected all major product families 
+
+table of contents net revenues by geographic area our net revenues by geographic delivery location see note of notes to consolidated financial statements for the three years ended december   and are summarized as follows in thousands area north america europe asia other sales in north america declined million or by in compared to primarily due to lower average selling prices as a result of the industry downturn and prevailing overcapacity 
+sales within north america declined million or in compared to primarily due to lower unit shipments 
+sales outside north america accounted for of our revenues in  of our revenues in  and in many of our customers  particularly in the communication and telecommunication industries  have either moved or outsourced their production operations to low cost regions in asia resulting in a larger percentage of our product shipments and revenue based on shipments to asia in the past years 
+our sales to europe decreased by or million in compared to primarily due to lower unit shipments 
+sales in germany  uk  and france registered declines in our sales to europe decreased by or million in compared to european revenues declined primarily in germany but were partially offset by an increase in revenue in france 
+our sales to asia decreased by or million in compared to primarily due to lower average selling prices  partially offset by higher unit volumes 
+during  sales into china  hong kong  singapore and taiwan registered increases  while sales to korea and malaysia declined 
+our sales to asia declined by or million in compared to net revenues by currency sales in japanese yen accounted for of our total sales in  in and in sales in european currencies amounted to  and of total sales in  and if our sales denominated in yen had been converted to dollars at the average yen exchange rate  net revenue would have been million higher 
+if our sales denominated in yen had been converted to dollars at the average yen exchange rate  net revenue would have been million higher 
+using the same calculation for at the rate  sales would also have been approximately million lower 
+if our sales denominated in european currencies had been converted to dollars at their average exchange rates  our sales would have been approximately million lower 
+if our sales denominated in european currencies had been converted to dollars at their average exchange rates  our sales would have been approximately million higher 
+if our sales denominated in european currencies had been converted to dollars at their average exchange rates  our sales would have been approximately million higher 
+cost of revenues and gross margin our cost of revenues represents the costs of our wafer fabrication  assembly and test operations and freight costs  including the cost of shipping our products to subcontractors 
+our cost of revenues as a percentage of net revenues fluctuates  depending on product mix  manufacturing yields  the level of utilization of manufacturing capacity and average selling prices  among other factors 
+cost of revenues as a percentage of net revenues in was  compared with in and in the increase in our cost of revenue as a percentage of net revenue in compared to was caused primarily by decreases in average selling prices of our products 
+however  our gross margin benefited in from a reduction of inventory reserves that had been established in previous periods 
+the parts for which these reserves had been established were sold in the increase in our cost of revenues as a percentage of net revenues in 
+table of contents compared to was caused primarily by a significant reduction in the volume of units sold 
+we were unable to reduce our manufacturing costs  such as depreciation  maintenance  supplies and labor  as quickly as customer demand declined  and these costs remained while revenue decreased  reducing our gross margin 
+during we put in place additional manufacturing capacity  and corresponding costs  in anticipation of continuing growth in demand for our products 
+when demand decreased starting in  the additional costs associated with our expansion exacerbated the decline in our gross margins 
+at present it is not certain how long the downturn in our business  which began late in the fourth quarter  will continue or when market conditions will improve sufficiently to permit us to more fully utilize our wafer fabrication capacity 
+the increase in fixed costs and operating expenses that we put in place during to increase manufacturing capacity may continue to harm our gross margins and operating results if net revenues do not increase or we are unable to reduce our costs sufficiently in future periods 
+we plan to continue to develop and implement wafer manufacturing technologies that allow us to obtain greater output from our existing manufacturing facilities while controlling costs and increasing shipments 
+however  production delays  difficulties in achieving acceptable yields at any of our manufacturing facilities  or overcapacity could materially and adversely affect our gross margin and future operating results 
+research and development research and development r d expenses decreased to million in from million in the decrease in expenses was caused by various cost control measures  including termination of development at our fabrication facility in irving  texas in connection with making it available for sale in the third quarter of and headcount reductions 
+r d expenses increased to million in  from million in the increase was primarily due to our continuing investment in shrinking the die size of our integrated circuits  enhancement of mature products  development of new products  including smartcard products  and development of new manufacturing techniques 
+we believe that continued strategic investments in process technology and product development are essential for us to remain competitive in the markets we serve  and we are committed to appropriate levels of expenditures for r d 
+selling  general and administrative selling  general and administrative sg a expenses declined to million in from million in as a percentage of net revenues  sg a expenses decreased to in compared to in selling costs  which declined by million in from  were the primary cause of the decrease in sg a 
+the decreases were primarily due to cost controls  reductions from lower sales and marketing activities  declines in selling commissions related to lower sales and headcount reductions 
+general and administrative costs decreased by million in compared to due to cost controls and headcount reductions 
+sg a expenses declined to million in from million in as a percentage of net revenues  sg a expenses increased to in compared to in selling costs  which declined by million in from  are responsible for the majority of the sg a decrease 
+the decline in selling costs was the result of cost control measures combined with a reduction of costs  such as commissions  that vary with the level of revenue 
+general and administrative costs decreased by million in compared to as the result of reduced labor costs and lower fees for legal and accounting services 
+restructuring charges during the period from fiscal to fiscal  our sales volume grew significantly  from billion to billion 
+as business conditions improved during this time  the company took steps to significantly expand its manufacturing capacity 
+in march we acquired the integrated circuit business of temic telefunken microelectronic  including its two fabrication facilities in heilbronn  germany and nantes  france 
+in may we acquired thomson csf semiconducteurs specifique in grenoble  france 
+in addition  during we acquired fabrication facilities in irving  texas and north tyneside  uk we also invested in fabrication facilities to upgrade technology 
+during the period from january to september  we spent approximately billion for 
+table of contents acquisitions of property and equipment in anticipation of significant growth in our business during  and beyond from the historical levels achieved in beginning late in the fourth quarter  business conditions in the semiconductor industry deteriorated rapidly 
+global semiconductor sales declined from billion in to billion in and then stabilized at billion in our quarterly revenues have also declined rapidly from million in the fourth quarter to million in the fourth quarter our quarterly revenues were million in the fourth quarter of and our plants are currently operating significantly below their capacity 
+we do not expect a rapid improvement in market conditions 
+as a result of the difficult operating conditions that existed in the semiconductor industry  we performed asset impairment reviews of our fixed assets during the third quarter of in assessing the impairment  we grouped manufacturing assets at the lowest level from which there were identifiable cash flows that were largely independent of the cash flows of other groups of assets 
+we determined that projected production volumes and related cash flows from the fabrication facilities would not be sufficient to recover the carrying value of those facilities 
+we concluded that these assets were impaired and wrote down the carrying values of these facilities to our estimate of their fair market value 
+our estimate of fair market value was done by management  which considered an outside appraisal that assumed the assets would continue in use at their current locations 
+during the third quarter  we recorded a million asset impairment charge related to certain of its fabrication facilities in colorado springs  colorado  rousset  france and nantes  france and a million charge related to a headcount reduction in europe 
+the charges were part of a restructuring plan that included a workforce reduction and the consolidation of manufacturing operations in both the us and europe 
+as a result of the downturn experienced in  we delayed the completion of construction of our fabrication facilities in north tyneside  uk  and irving  texas  to  when we anticipated the industry to rebound 
+we failed to meet our revenue projections in the first half of and concluded that the recovery in the industry would be slower and take longer than previous estimated 
+in light of these conditions  we determined that the carrying amount of these assets may not be recoverable and performed an asset impairment review 
+we determined that projected production volumes and related cash flows from the fabrication facilities would not be sufficient to recover the carrying value of those facilities 
+we concluded that these assets were impaired and have written down the carrying values of these facilities to our estimate of their fair market value 
+our estimate of fair market value was done by management  which considered an outside appraisal that assumed the assets would continue in use at their current locations 
+in the second quarter  we recorded a million asset impairment charge related to the equipment in our wafer fabrication facilities in irving  texas and north tyneside  uk in the third quarter of we reassessed the overall manufacturing capacity of the irving facility against the potential anticipated demand and decided to close the irving  texas facility  without conducting any commercial production there 
+the facility was placed on the market for sale in august we are actively marketing this facility for sale  but the timing of a final sale is uncertain given the current market for semiconductor manufacturing facilities 
+as a result of the decision to close the facility and make it available for sale  we recorded million of charges in the third quarter of  offset by a million reversal of restructuring charges accrued in the third quarter of  consisting of an asset impairment charge of million for the write down of assets held for sale to their estimated net realizable value of million 
+the estimate of net realizable value was made by management  which considered an outside appraisal of the fabrication facility 
+although we believe we can sell the facility at our carrying value  there can be no assurance we can do so 
+if the difficult operating conditions that exist in the semiconductor industry do not improve  we may not be able to realize the current carrying value 
+costs for terminating contracts with suppliers of million  million of which was paid before december   while the remaining will be paid in future periods 
+employee termination costs of million for employees 
+approximately employees were terminated and million of the charge was paid before december   while the remaining amounts will be paid through september a million charge related to the repayment of a property tax abatement to be paid by january approximately million of the charge was paid before december   while the remaining amount was paid in the first quarter of we also recorded an asset impairment and restructuring charge of million in the fourth quarter of this charge relates to plans for reorganizing certain programs and a person workforce reduction in europe 
+the restructuring charges consist of 
+table of contents a million asset impairment charge for the write down of certain assets held for sale to their estimated realizable value of approximately million 
+the fair values were estimated and prepared based on comparative market values for similar equipment 
+a million charge related to reductions of force in europe 
+approximately employees were terminated and million of the charge was paid before december   while the remaining amounts will be paid through december the impaired assets  other than the irving  texas facility and certain assets in europe  which are currently being held for sale  will continue to be depreciated over their remaining useful lives 
+the restructuring actions underlying the asset impairment and restructuring charges are proceeding as planned 
+the asset impairment and restructuring actions resulted in expense reductions of million in  consisting in million reduction in cost of revenue and million reduction in operating expenses 
+we believe that the asset impairment and restructuring actions will result in expense reductions of million in  consisting of million reduction in cost of revenue and million reduction in operating expenses 
+if business conditions do not improve  we may take actions to further reduce our costs  which will result in additional restructuring charges 
+see note of notes to consolidated financial statements 
+in february  we decided to evaluate various strategic alternatives available to us  including a potential sale of the plant  with respect to the nantes  france  fabrication facility 
+this facility was acquired in  when we purchased the ic business of temic telefunken microelectronic 
+the fabrication facility will remain active and continue to manufacture products until a final decision is made about its future 
+given the current market for semiconductor manufacturing facilities  it is not clear if we will be able to sell the operations 
+we may be required to record an impairment charge if estimated cash flow from these operations are not sufficient to recover the carrying value of the assets and if we determine the in use fair value of the facility is less than our current carrying value of million 
+in the event a buyer cannot be found  we will consider various alternatives  including ceasing manufacturing operations in the fabrication facility  which may require us to take further restructuring charges for terminating employees and decommissioning equipment  and additional impairment charges if the liquidation value of assets is less than our carrying value 
+interest and other income and interest expense interest and other income decreased by million to million in compared to million in the decline is due to a combination of a lower level of invested funds  lower interest rates received and higher losses realized on foreign exchange transactions  partially offset by larger gains recognized in  primarily on the repurchase of convertible notes of million and sale of land in san jose of million 
+interest expense decreased by million in from due to a decrease in outstanding borrowings 
+interest and other income decreased by million to million in compared to million in the decline is due to a combination of a lower level of invested funds and lower interest rates received 
+interest expense increased by million in from due to an increase in outstanding borrowings 
+taxes on income we recorded a tax expense of million and an income tax benefit of million for the fiscal years ended december  and  respectively 
+this resulted in an effective tax rate of for and an effective tax benefit rate of for the significant increase in income tax expense recorded for can be attributed primarily to an increase in the valuation allowance recorded against deferred tax assets during the year 
+we have realized cumulative losses for the and years 
+based on this and all other available evidence  management has determined that it is not more likely than not that the deferred tax assets will be realized 
+as a result  substantially all of deferred tax assets are reserved  resulting in income tax expense for the year ended december  the income tax expense is partially offset by tax refunds of million expected to be realized in the us and increased further by additional tax liabilities incurred by our foreign subsidiaries 
+our and us federal tax returns are currently under examination by the internal revenue service irs 
+the irs has completed its examination of our through tax years and we are currently 
+table of contents pursuing resolution of all tax issues with the irs appeals division 
+in addition  we have various tax audits in progress in certain states that we conduct business 
+further  certain of our foreign subsidiaries with operations in france and germany have tax audits in progress in those jurisdictions 
+we believe that we have adequately provided for all tax  interest and penalties that may arise upon resolution of the respective tax issues 
+net loss income we reported a net loss of million for compared to net loss of million for the loss in was caused by a combination of the million restructuring and asset impairment charges we recorded in the second  third  and fourth quarters see note of notes to consolidated financial statements  the valuation allowance on deferred tax assets we provided and by the decline in net revenues of million in compared to which we were not able to match with corresponding reductions in costs 
+we reported a net loss of million for compared to net income of million for the loss in was caused by a combination of the restructuring charge we recorded in the third quarter see note of notes to consolidated financial statements and by the decline in net revenues of million in compared to which we were not able to match with corresponding reductions in costs 
+at december   we had approximately three million shares remaining in our employee stock purchase plan espp 
+in february we issued approximately million shares under our espp to participating employees  leaving approximately  shares available for issuance under the espp 
+the current espp offering period commenced in february   and we do not have sufficient shares in the espp to fund the purchases that would be made at the close of the current offering period in august  on march   our board of directors authorized  subject to shareholder approval  an increase in the authorized shares available under the espp by million shares 
+if the shareholders do not approve the increase  we will pro rate the number of shares issued under the plan at the end of the current offering period so that the number issued does not exceed the number currently available under the plan 
+if the shareholders approve the increase in the number of authorized shares available under the espp  we may incur accounting charges in the form of compensation expense with respect to those shares approved by the stockholders that are purchased under the espp at the end of the current offering period 
+this charge would equal the amount by which the fair market value of such shares on the date of stockholder approval exceeds their purchase price 
+see note of notes to consolidated financial statements liquidity and capital resources at december  we had million of cash and cash equivalents  compared to million at december  total current assets exceeded total current liabilities by times at december   compared to times at december  short term investments decreased to million at december  from million at december   as funds have been used to help reduce our debt obligations by million from million to million and trade accounts payable to million at december  from million at december   offset by income tax refunds received of million 
+our working capital decreased by million to million during as we used funds to service our debt obligations 
+our current liabilities decreased by only million even though accounts payable and the current portion of long term debt decreased by million and million respectively 
+this is primarily because we have classified the carrying amount of the convertible notes  which were included in non current liabilities at december   as a current liability for million at december  the convertible notes are redeemable at the option of the holders as of april    and  at prices equal to the issue price plus the accrued interest 
+if the holders exercise this put option  we may  at our option  choose to redeem the debt  which will be approximately million in april  for cash or with our common stock  or any combination of the two 
+on march   we announced our intention to use cash to repurchase the convertible notes if redeemed by note holders in april if the note holders submit all these notes for redemption in april  as we currently expect  we will use approximately million of our cash and cash equivalents and short term investments to redeem them 
+the company s accounts receivable increased to million at december  from million at december  the average days of accounts receivable outstanding was days at the end of the fourth quarter as compared to days at the end of fourth quarter average days outstanding could increase if the current downturn in the semiconductor industry  which began late in  continues 
+we monitor collection risks and provide an adequate allowance for doubtful accounts related to these risks 
+while there can be 
+table of contents no guarantee of collecting these receivables  we believe that substantially all net receivables will be collected given customers current credit ratings 
+inventories decreased by million to million at december  from million at december  days sales in inventory were days at december  compared to days at december  we are continuing to take measures to reduce manufacturing costs and balance production rates in line with reduced demand  but the fixed nature of many manufacturing costs and the long semiconductor production cycle time limits our ability to respond as quickly as demand for our products changes 
+the following table describes our commitments to settle contractual obligations in cash as of december  see note of notes to consolidated financial statements in thousands principal payments due by period excluding future interest contractual obligations up to year years years after years total notes payable capital leases convertible notes  a  b  subtotal debt obligations operating leases other long term obligations total contractual cash obligations a zero coupon convertible debt issued in april is not redeemable by us prior to april  thereafter  the debt will be redeemable for cash  at our option in whole at any time or in part from time to time at redemption prices equal to the issue price plus accrued interest 
+in addition  the debt is redeemable at the option of the holder as of april   and  at prices equal to the issue price plus accrued interest 
+if redeemed at the option of the holder  we may  at our option  elect to redeem the debt for cash or our common stock  or any combination thereof see note of notes to consolidated financial statements 
+on march   we announced our intention to use cash to repurchase the convertible notes  if redeemed by note holders in april b zero coupon convertible debt issued in may is redeemable for cash  at our option  at any time on or after may  in whole or in part at redemption prices equal to the issue price plus accrued original issue discount 
+at the option of the holders on may   and  we may be required to redeem the debt at prices equal to the issue price plus accrued original issue discount through date of repurchase 
+if redeemed at the option of the holder  we may elect to pay the repurchase price in cash  in shares of common stock or in any combination of the two see note of notes to consolidated financial statements 
+we estimate that the redemption price of these notes in may would be approximately million 
+other long term obligations consist principally of future repayments of million of advances from customers  of which million have been classified as current liabilities see note of notes to consolidated financial statements 
+we have million of debt obligations that require compliance with certain financial covenants and approximately million of debt obligations with cross default provisions 
+with the economic downturn  we were required to renegotiate and amend certain of these covenants with the lenders  requiring us to maintain restricted cash balance of million with them 
+we were in compliance with covenants at the end of the year 
+if we need to renegotiate any of these covenants in the future  and the lenders refuse and we are unable to comply with the covenants  then we may immediately be required to repay the loans concerned 
+in the event we are required to repay these loans ahead of their due dates  we believe that we have the resources to make such repayments  but such payments could adversely impact our liquidity 
+our ability to service long term debt in the us or to obtain cash for other needs from our foreign subsidiaries may be structurally impeded 
+since a substantial portion of our operations are conducted through our foreign subsidiaries  our cash flow and ability to service debt are partially dependent upon the liquidity and earnings of our subsidiaries as well as the distribution of those earnings  or repayment of loans or other payments of funds by those subsidiaries  to the us parent corporation 
+these foreign subsidiaries are separate and distinct legal entities and may have limited or no obligation  contingent or otherwise  to pay any amounts to us  whether by dividends  
+table of contents distributions  loans or other payments 
+however  the us parent corporation owes much of our consolidated long term debt  including our two outstanding issues of convertible notes 
+during we expect our operations to generate positive cash flow  however  cash will be used to repay debt and make capital investments during the amount of cash we use in will depend largely on the amount of cash generated from our operations 
+currently  we expect our capital expenditures to be approximately million 
+in and future years  our capacity to make significant capital investments will depend on our ability to generate substantial cash flow from operations and on our ability to obtain adequate financing 
+cash flow operating activities during the year ended december   net cash provided by operating activities was million  compared to million in the same period of  a decrease of million  or 
+the decrease in cash provided by operating activities is primarily due to increased net loss  offset by cash provided from tax refunds and inventory reductions 
+depreciation and amortization  a cost not requiring cash  decreased by million compared to the same period of during the year ended december   net cash provided by operating activities was million  compared to million in the same period of  a decrease of million  or 
+the decrease in cash provided by operating activities is primarily due to reduced net income and because cash was used to reduce accounts payable and other accrued liabilities  offset by cash provided from collections of accounts receivable 
+depreciation and amortization  a cost not requiring cash  increased by million compared to the same period of investing activities net cash provided by investing activities was million during  compared to cash used in investing activity of million during  a decrease of million 
+this decrease in cash used in investing activities was primarily due to reduction in acquisition of fixed assets to million in from million in  increase in sales of fixed assets to million in from million in  as well as a net liquidation of investments of million in compared to million of net liquidation of investments in cash used in investing activities was million during  compared to billion during  a decrease of million 
+this decrease in cash used in investing activities was primarily due to a net liquidation of investments of million in compared to a net growth of investments of million in also  our acquisition of fixed assets in was million lower than in financing activities net cash used by financing activities totaled million in compared with million net cash flows generated by financing activities in the principal reason for the decline was our receipt of million in proceeds from convertible notes in  and no proceeds from convertible debt financings in we also engaged in lease financing of million in compared to million in  a decrease of million 
+additionally  we repurchased our convertible notes for million and common stock for million in  and made no such repurchases in in october  the board of directors authorized the repurchase of up to million shares of the company s common stock 
+see note of notes to consolidated financial statements 
+net cash flows generated by financing activities totaled million in compared with million in the principal reason for the decline was our receipt of million in net proceeds from public stock offerings in the first and third quarters  and no equity financings in additionally  we engaged in lease financing of million in compared to million in  a decrease of million 
+whenever possible  capacity improvements and expansions have been funded from our operating results 
+however  since our gross margins came under pressure because we sold fewer units and generated less revenue while many costs we put in place during continued at their previous levels  harming our results 
+cash flow from operations is currently the principal source of our liquidity and our funding for capacity enhancement or expansion and it will decrease if our revenues continue to decline 
+our ability to borrow funds on favorable terms  or at all  is reduced when our operating cash flow declines 
+we believe that our existing balance of cash  cash equivalents and short term investments  together with anticipated cash flow from operations  sale of assets  equipment lease financing  and other short and medium term bank borrowings  will be sufficient to meet 
+table of contents our liquidity and capital requirements for the next months 
+in the longer term  we believe our ability to access additional equity or debt financings to fund our liquidity needs and planned capital expenditures will be dependent on increased revenues and improved operating results 
+the timing and amount of such liquidity and the capital requirements cannot be precisely determined at this time and will depend upon a number of factors  including demand for products  product mix  improved semiconductor industry conditions and competitive factors 
+if additional debt or equity financing was not available when needed or  if available  not available on satisfactory terms  we would be dependent on cash flow from operations to meet our working capital requirements 
+recent accounting pronouncements in july  the financial accounting standards board fasb issued fasb statements nos 
+and sfas and sfas  business combinations and goodwill and other intangible assets 
+sfas replaces apb and eliminates pooling of interests accounting prospectively 
+it also provides guidance on purchase accounting related to the recognition of intangible assets and accounting for negative goodwill 
+sfas changes the accounting for goodwill from an amortization method to an impairment only approach 
+under sfas  goodwill will be tested annually and whenever events or circumstances occur indicating the goodwill might be impaired 
+sfas and sfas are effective for all business combinations completed after june  upon adoption of sfas  amortization of goodwill recorded for business combinations consummated prior to july  ceases  and intangible assets acquired prior to july  that do not meet the criteria for recognition under sfas are reclassified to goodwill 
+companies are required to adopt sfas for fiscal years beginning after december  we adopted sfas on january   the beginning of fiscal the implementation of these standards did not have a material impact on our results of operations  as amortization of goodwill was approximately  in in june  the fasb issued sfas no 
+ accounting for asset retirement obligations 
+this statement addresses financial accounting and reporting for obligations associated with the retirement of tangible long lived assets and the associated asset retirement costs 
+this statement applies to all entities 
+it applies to legal obligations associated with the retirement of long lived assets that result from the acquisition  construction  development  and or the normal operation of a long lived asset  except for certain obligations of lessees 
+sfas no 
+is effective for financial statements issued for fiscal years beginning after june  we expect that the initial application of sfas no 
+will not have a material impact on our financial statements 
+in august  the fasb issued sfas no 
+ accounting for the impairment or disposal of long lived assets 
+sfas no 
+supercedes sfas no 
+ accounting for the impairment of long lived assets and for long lived assets to be disposed of 
+sfas no 
+applies to all long lived assets including discontinued operations and consequently amends accounting principles board opinion no 
+sfas no 
+develops one accounting model for long lived assets that are to be disposed of by sale 
+sfas no 
+requires that long lived assets that are to be disposed of by sale be measured at the lower of book value or fair value less cost to sell 
+additionally  sfas no 
+expands the scope of discontinued operations to include all components of an entity with operations that can be distinguished from the rest of the entity and will be eliminated from the ongoing operations of the entity in a disposal transaction 
+sfas no 
+is effective for us for all financial statements issued in calendar and was used as the guidance for the asset impairment charges recorded by us in in april  the fasb issued sfas no 
+ rescission of fasb statements nos 
+  and  amendment of fasb statement no 
+ and technical corrections 
+sfas no 
+eliminates statement no 
+and statement no 
+ as it amends statement no 
+ which requires gains and losses from extinguishments of debt to be aggregated and  if material  classified as an extraordinary item  net of the related income tax effect 
+as a result  the criteria in apb opinion will now be used to classify those gains and losses 
+sfas no 
+amends fasb statement no 
+to require that certain lease modifications that have economic effects similar to sale leaseback transactions be accounted for in the same manner as sale leaseback transactions 
+this amendment is consistent with the fasb s goal of requiring similar accounting treatment for transactions that have similar economic effects 
+in addition  sfas no 
+makes technical corrections to existing pronouncements 
+while those corrections are not substantive in nature  in some instances  they may change accounting practice 
+this statement is effective for fiscal years beginning after may for the provisions related to the rescission of statements no 
+and no 
+ and for all transactions entered into beginning may for the provision related to the amendment of statement although early adoption is permitted 
+we have early adopted sfas no 
+ and the gain on the repurchase of convertible notes is not shown as an extraordinary item in our statement of operations 
+
+table of contents in june the fasb adopted fasb statement no 
+sfas  accounting for exit or disposal activities  effective for exit or disposal activities that are initiated after december   with early adoption encouraged 
+sfas addresses significant issues regarding the recognition  measurement  and reporting of costs that are associated with exit and disposal activities  including restructuring activities that are currently accounted for pursuant to the guidance that the emerging issues task force eitf has set forth in eitf issue no 
+ liability recognition for certain employee termination benefits and other costs to exit an activity including certain costs incurred in a restructuring 
+a fundamental conclusion reached by the board in this statement is that an entity s commitment to a plan  by itself  does not create a present obligation to others that meets the definition of a liability 
+therefore  this statement eliminates the definition and requirements for recognition of exit costs in issue this statement also establishes that fair value is the objective for initial measurement of the liability 
+the scope of fas no 
+also includes costs related to terminating a contract that is not a capital lease and termination benefits that employees who are involuntarily terminated receive under the terms of a one time benefit arrangement or an individual deferred compensation contract 
+we do not expect the implementation of this standard to have a material impact on our results of operations 
+in december  the fasb issued sfas no 
+ accounting for stock based compensation transition and disclosure an amendment of fasb statement no 
+sfas no 
+amends sfas no 
+ accounting for stock based compensation  to provide alternative methods of transition for a voluntary change to the fair value based method of accounting for stock based employee compensation 
+in addition  sfas no 
+amends the disclosure requirements of sfas no 
+to require prominent disclosures in both annual and interim financial statements about the method of accounting for stock based employee compensation and the effect of the method used on reported results 
+we are required to follow the prescribed format and provide the additional disclosures required by sfas no 
+in our annual financial statements for the year ending december  and must also provide the disclosures in our quarterly reports containing condensed financial statements for interim periods beginning with the quarterly period ended march  we have included additional disclosures in accordance with sfas no 
+in notes and of notes to consolidated financial statements 
+in november  the fasb issued fasb interpretation no 
+fin  guarantor s accounting and disclosure requirements for guarantees  including indirect guarantees of indebtedness of others 
+fin requires that a liability be recorded in the guarantor s balance sheet upon issuance of a guarantee 
+in addition  fin requires disclosures about guarantees that an entity has issued  including a rollforward of the entity s product warranty liabilities 
+we will apply the recognition provisions of fin prospectively to guarantees issued after december  we do not expect the implementation of this standard to have a material impact on our results of operations 
+we have included additional disclosures in accordance with fin in note of notes to consolidated financial statements 
+in january  the fasb issued fasb interpretation no 
+fin  consolidation of variable interest entities  an interpretation of arb no 
+fin requires certain variable interest entities to be consolidated by the primary beneficiary of the entity  if the equity investors in the entity do not have the characteristics of a controlling financial interest or do not have sufficient equity at risk for the entity to finance its activities without additional subordinated financial support from other parties 
+fin is effective for all new variable interest entities created or acquired after january  for variable interest entities created or acquired prior to february   the provisions of fin must be applied for the first interim or annual period beginning after june  we are currently evaluating the effect that the adoption of fin will have on our results of operations and financial condition 
+
+table of contents trends  uncertainties and risks our revenues and operating results fluctuate significantly due to a variety of factors  which may result in volatility or a decline in our stock price 
+our future operating results will be subject to quarterly variations based upon a wide variety of factors  many of which are not within our control 
+these factors include the cyclical nature of both the semiconductor industry and the markets addressed by our products fluctuations in manufacturing yields the timing of introduction of new products the timing of customer orders price erosion changes in mix of products sold the extent of utilization of manufacturing capacity product obsolescence availability of supplies and raw materials price competition and other competitive factors  and fluctuations in currency exchange rates 
+any unfavorable changes in any of these factors could harm our operating results 
+beginning late in the fourth quarter  the semiconductor industry began to experience a downturn 
+our business has been impacted by this recent downturn  with the effect that our net revenues of  million in declined by million  or from  million in this decline was the second sequential annual decline in our revenue 
+in  our revenue declined by million  or  from  million in we cannot predict with any degree of certainty when business conditions will improve 
+we believe that our future sales will depend substantially on the success of our new products 
+our new products are generally incorporated into our customers products or systems at the design stage 
+however  design wins may precede volume sales by a year or more 
+we may not be successful in achieving design wins or design wins may not result in future revenues  which depend in large part on the success of the customer s end product or system 
+we expect the average selling price of each of our products to decline as individual products mature and competitors enter the market 
+to offset average selling price decreases  we rely primarily on reducing costs to manufacture those products  increasing unit sales to absorb fixed costs and introducing new  higher priced products which incorporate advanced features or integrated technologies to address new or emerging markets 
+our operating results could be harmed if such cost reductions and new product introductions do not occur in a timely manner 
+from time to time  our quarterly revenues and operating results can become more dependent upon orders booked and shipped within a given quarter and  accordingly  our quarterly results can become less predictable and subject to greater variability 
+in addition  our future success will depend in large part on the resurgence of various electronics industries that use semiconductors  including manufacturers of computers  telecommunications equipment  automotive electronics  industrial controls  consumer electronics  data networking equipment and military equipment  and economic growth generally 
+the semiconductor industry has the ability to supply more product than demand requires 
+our successful return to profitability will depend heavily upon a better supply and demand balance within the semiconductor industry 
+
+table of contents the cyclical nature of the semiconductor industry creates fluctuations in our operating results the semiconductor industry has historically been cyclical  characterized by wide fluctuations in product supply and demand 
+the industry has also experienced significant downturns  often in connection with  or in anticipation of  maturing product cycles and declines in general economic conditions 
+the industry is currently experiencing this type of downturn 
+the semiconductor industry faced severe business conditions with global semiconductor revenues for the industry declining to approximately billion in compared to revenues in global semiconductor revenues for were approximately billion in which  while representing some level of stabilization  was an indication that demand in our business remains at a low ebb 
+these downturns have been characterized by diminished product demand  production overcapacity and accelerated decline of average selling prices 
+the current downturn is widely thought to be the worst that the semiconductor industry has ever experienced and has lasted for over two years 
+if the current downturn continues our results of operations would be further harmed 
+the commodity memory portion of the semiconductor industry  from which we derived of our revenues in  compared to of our revenues in  and of our revenues in  continued to suffer from excess capacity in and continued price reductions during those periods 
+we cannot predict with any degree of certainty when the current downturn will reverse 
+during the current downturn and in the past  our operating results have also been harmed by industry wide fluctuations in the demand for semiconductors  which resulted in under utilization of our manufacturing capacity and declining gross margins 
+in we recorded a million charge to recognize impairment in value of our manufacturing equipment in colorado springs  colorado  rousset  france and nantes  france 
+in addition  we recorded a million charge for the costs of reducing our workforce in our european manufacturing operations 
+we also recorded an asset impairment charge of million in the second quarter to write down to fair value the book value of our fabrication equipment in irving  texas and north tyneside  uk we recorded a restructuring and asset impairment charge in the third quarter of of million  primarily in connection with the closing of our irving  texas inch wafer fabrication facility and making it available for sale 
+the charges consisted of costs for reduction in headcount  asset write downs  and expenses associated with our decision to close the facility 
+the additional asset write down of the irving facility was necessary because the original charge was based on an outside appraisal that assumed that the assets would continue in use at their current location 
+if the difficult conditions that exist in the semiconductor industry do not improve  we may not be able to realize the current carrying value for the facility 
+our business may be harmed in the future not only by cyclical conditions in the semiconductor industry as a whole but also by slower growth in any of the markets served by our customer products 
+our long term debt could harm our ability to obtain additional financing  and our ability to meet our debt obligations will be dependent upon our future performance 
+as of december   our long term convertible notes and long term debt less current portion was million compared to million at december   and million at december  our long term debt less current portion to equity ratio at december  and december  was our current debt levels as well as any increase in our debt to equity ratio could adversely affect our ability to obtain additional financing for working capital  acquisitions or other purposes and make us more vulnerable to industry downturns and competitive pressures 
+our ability to meet our debt obligations will depend upon our future performance and ability to generate substantial cash flow from operations  which will be subject to financial  business and other factors affecting our operations  many of which are beyond our control 
+if we are unable to meet debt obligations or otherwise are obliged to repay any debt prior to its due date  our available cash would be depleted  perhaps seriously  and our ability to fund operations harmed 
+our ability to service long term debt in the us or to obtain cash for other needs of the atmel group from our foreign subsidiaries may be structurally impeded 
+since a substantial portion of our operations is conducted through our subsidiaries  our cash flow and ability to service debt are partially dependent upon the liquidity and earnings of our subsidiaries as well as the distribution of those earnings  or repayment of loans or other payments of funds by those subsidiaries  to the us parent corporation 
+these subsidiaries are separate and distinct legal entities and may have limited or no obligation  contingent or otherwise  to pay any amounts to us  whether by dividends  distributions  loans or other payments 
+however  the us parent corporation owes much of our consolidated long term debt  including our two outstanding issues of convertible notes 
+
+table of contents in addition  the payment of dividends or distributions and the making of loans and advances to the us parent corporation by any of our subsidiaries could in the future be subject to statutory or contractual restrictions or depend on other business considerations and be contingent upon the earnings of those subsidiaries 
+any right held by the us parent corporation to receive any cash or other assets of any of our subsidiaries upon its liquidation or reorganization will be effectively subordinated to the claims of that subsidiary s creditors  including trade creditors 
+although the us parent corporation may be recognized as a creditor  its interests will be subordinated to other creditors whose interests will be given higher priority 
+we may need to raise additional capital that may not be available 
+semiconductor companies that maintain their own fabrication facilities have substantial capital requirements 
+we made capital expenditures aggregating  million in  and  in large part preparing for expected increases in demand  and in light of falling demand have recognized asset impairment charges aggregating million in and we intend to continue to make capital investments to support new products and manufacturing processes that achieve manufacturing cost reductions and improved yields 
+currently  we expect our capital expenditures to be approximately million 
+we may seek additional equity or debt financing to fund further enhancement of our wafer fabrication capacity or to fund other projects 
+the timing and amount of such capital requirements cannot be precisely determined at this time and will depend on a number of factors  including demand for products  product mix  changes in semiconductor industry conditions and competitive factors 
+additional debt or equity financing may not be available when needed or  if available  may not be available on satisfactory terms 
+if we do not successfully adjust our manufacturing capacity in line with downturns in our industry or increases in demand  our business could be harmed 
+in and  we made substantial capital expenditures to increase our wafer fabrication capacity at our facilities in colorado springs  colorado and rousset  france 
+we also currently manufacture our products at our facilities in heilbronn  germany and nantes  france 
+during periods of economic downturn within the semiconductor industry  such as the current downturn that began late in the fourth quarter  we need to suspend or reduce our manufacturing capacity to a level that meets demand for our products in order to achieve and maintain profitability 
+expensive manufacturing machinery must be underutilized or even sold off at significantly discounted prices  although we continue to be liable to make payments on the debt that financed its purchase 
+at the same time  employee and other manufacturing costs must be reduced 
+since  our gross margin declined significantly as a result of the increase in fixed costs and operating expenses related to the expansion of capacity in and and lower unit sales over which to spread these costs 
+if the most recent downturn in the semiconductor industry continues into or worsens  our inability to reduce fixed costs  such as depreciation  and employee and other expenses necessary to maintain and operate our wafer manufacturing facilities would further harm our operating results 
+we announced in the third quarter that we were ceasing high volume production at one of our two wafer fabrication facilities in colorado springs  colorado and at one of our facilities in europe 
+we announced in july that we were closing  prior to beginning commercial production  our wafer fabrication facility located in irving  texas that we acquired in  and we have put the facility on the market 
+in february  we decided to evaluate the potential sale of our fabrication facility in nantes  france 
+we continue to evaluate the current restructuring and asset impairment reserves as the restructuring plans are being executed 
+as a result  there may be additional charges reversals 
+reducing our wafer fabrication capacity involves significant potential costs and delays  particularly in europe  where we have substantial manufacturing facilities and where the extensive statutory protection of employees imposes substantial costs and delays on their employers when the market requires downsizing 
+such costs and delays include compensation to employees and local government agencies  requirements and approvals of governmental and judicial bodies  and losses of governmental subsidies 
+we may experience labor union objections or other difficulties while implementing any additional downsizing that we may be required to make if the current downturn continues or worsens 
+any such difficulties that we experience would harm our business and operating results  either by deterring needed downsizing or by the additional costs of accomplishing it in europe relative to america or asia 
+
+table of contents if a rebound occurs in the worldwide semiconductor industry and we cannot expand our capacity on a timely basis  we could experience significant capacity constraints that would prevent us from meeting increased customer demand  which would also harm our business 
+expanding our wafer fabrication capacity involves significant risks  including shortages of materials and skilled labor  unavailability and high cost of semiconductor manufacturing and testing equipment  and requirements and approvals of governmental and judicial bodies 
+any one of these risks could delay the building  equipping and production start up of a new facility or the expansion of an existing facility  and could involve significant additional costs or reduce our anticipated revenues 
+in addition  the depreciation and other expenses that we incur in connection with the expansion of our manufacturing capacity may continue to reduce our gross margins in future periods 
+the cost of expanding our manufacturing capacity at our existing facilities  acquiring additional facilities  maintaining existing or additional facilities or implementing new manufacturing technologies is typically funded through a combination of available cash resources  cash from operations and additional lease  debt or equity financing 
+our available cash from operations has not been sufficient since the current downturn began to finance expansion of our facilities or the implementation of new technologies  and may remain insufficient if the downturn continues 
+in light of our recent losses since the middle of  we may not be able to obtain from external sources the additional financing necessary to fund the maintenance or expansion of our manufacturing facilities or the implementation of new manufacturing technologies 
+if we are unable to effectively utilize our wafer manufacturing capacity and fail to achieve acceptable manufacturing yields  our business would be harmed 
+whether demand for semiconductors is rising or falling  we are constantly required by competitive pressures in the industry to successfully implement new manufacturing technologies in order to reduce the geometries of our semiconductors and produce more integrated circuits per wafer 
+currently we are working towards reducing the geometries of our semiconductors to micron line widths 
+fabrication of our integrated circuits is a highly complex and precise process  requiring production in a tightly controlled  clean environment 
+minute impurities  difficulties in the fabrication process  defects in the masks used to print circuits on a wafer or other factors can cause a substantial percentage of wafers to be rejected or numerous die on each wafer to be nonfunctional 
+we may experience problems in achieving acceptable yields in the manufacture of wafers  particularly when we expand our manufacturing capacity or during a transition in the manufacturing process technology that we use 
+we have previously experienced production delays and yield difficulties in connection with earlier expansions of our wafer fabrication capacity or transitions in manufacturing process technology 
+production delays or difficulties in achieving acceptable yields at any of our fabrication facilities could materially and adversely affect our operating results 
+we may not be able to obtain the additional cash from operations or external financing necessary to fund the implementation of new manufacturing technologies 
+our markets are highly competitive  and if we do not compete effectively  we may suffer price reductions  reduced revenues  reduced gross margins  and loss of market share 
+we compete in markets that are intensely competitive and characterized by rapid technological change  product obsolescence and price decline 
+throughout our product line  we compete with a number of large semiconductor manufacturers  such as amd  fujitsu  hitachi  intel  lsi logic  microchip  sharp and stmicroelectronics 
+some of these competitors have substantially greater financial  technical  marketing and management resources than we do 
+as we have introduced our new products  we are increasingly competing directly with these companies  and we may not be able to compete effectively 
+we also compete with emerging companies that are attempting to sell products in specialized markets that our products address 
+we compete principally on the basis of the technical innovation and performance of our products  including their speed  density  power usage  reliability and specialty packaging alternatives  as well as on price and product availability 
+we are experiencing significant price competition in our nonvolatile memory business and especially for eprom and flash products 
+we expect continuing competitive pressures in our markets from existing competitors 
+table of contents and new entrants  which  among other things  will likely maintain the recent trend of declining average selling prices for our products 
+in addition to the factors described above  our ability to compete successfully depends on a number of factors  including the following our success in designing and manufacturing new products that implement new technologies and processes our ability to offer integrated solutions using our advanced nonvolatile memory process with other technologies the rate at which customers incorporate our products into their systems product introductions by our competitors the number and nature of our competitors in a given market  and general market and economic conditions 
+many of these factors are outside of our control  and we may not be able to compete successfully in the future 
+we must keep pace with technological change to remain competitive 
+the average selling prices of our products historically have decreased over the products lives and are expected to continue to do so 
+as a result  our future success depends on our ability to develop and introduce new products which compete effectively on the basis of price and performance and which address customer requirements 
+we are continually designing and commercializing new and improved products to maintain our competitive position 
+these new products typically are more technologically complex than their predecessors  and thus have increased potential for delays in their introduction 
+the success of new product introductions is dependent upon several factors  including timely completion and introduction of new product designs  achievement of acceptable fabrication yields and market acceptance 
+our development of new products and our customers decision to design them into their systems can take as long as three years  depending upon the complexity of the device and the application 
+accordingly  new product development requires a long term forecast of market trends and customer needs  and the successful introduction of our products may be adversely affected by competing products or by technologies serving the markets addressed by our products 
+our qualification process involves multiple cycles of testing and improving a product s functionality to ensure that our products operate in accordance with design specifications 
+if we experience delays in the introduction of new products  our future operating results could be harmed 
+in addition  new product introductions frequently depend on our development and implementation of new process technologies  and our future growth will depend in part upon the successful development and market acceptance of these process technologies 
+our integrated solution products require more technically sophisticated sales and marketing personnel to market these products successfully to customers 
+we are developing new products with smaller feature sizes  the fabrication of which will be substantially more complex than fabrication of our current products 
+if we are unable to design  develop  manufacture  market and sell new products successfully  our operating results will be harmed 
+our new product development  process development  or marketing and sales efforts may not be successful  our new products may not achieve market acceptance  and price expectations for our new products may not be achieved  any of which could harm our business 
+our operations and financial results could be harmed by natural disasters or terrorist acts 
+since the attacks on the world trade center and the pentagon  insurance coverage has been reduced and made subject to additional conditions  and we have not been able to maintain all necessary insurance coverage at reasonable cost 
+instead  we have relied to a greater degree on self insurance 
+for example  we now cover the expense of property loss up to million per event 
+our headquarters  some manufacturing facilities and some of our major vendors and customers facilities are located near major earthquake faults and in potential terrorist target areas 
+if a major earthquake or other disaster or a terrorist act impacts us and insurance coverage is unavailable for 
+table of contents any reason  we may need to spend significant amounts to repair or replace our facilities and equipment  we may suffer a temporary halt in our ability to transport product and we could suffer damages of an amount sufficient to harm our business  financial condition and results of operations 
+our operating results are highly dependent on our international sales and operations  which exposes us to various political and economic risks 
+sales to customers outside north america accounted for approximately  and of net revenues in  and we expect that revenues derived from international sales will continue to represent a significant portion of net revenues 
+in recent years we have significantly expanded our international operations  most recently through our acquisitions of a wafer fabrication facility in north tyneside  uk in september  and a subsidiary  atmel grenoble in may international sales and operations are subject to a variety of risks  including greater difficulty in protecting intellectual property greater difficulty in staffing and managing foreign operations reduced flexibility and increased cost of staffing adjustments  particularly in france and germany greater risk of uncollectible accounts longer collection cycles potential unexpected changes in regulatory practices  including export license requirements  trade barriers  tariffs and tax laws sales seasonality  and general economic and political conditions in these foreign markets 
+further  we purchase a significant portion of our raw materials and equipment from foreign suppliers  and we incur labor and other operating costs in foreign currencies  particularly at our french  german and uk manufacturing facilities 
+as a result  our costs will fluctuate along with the currencies and general economic conditions in the countries in which we do business  which could harm our operating results 
+approximately  and of our sales in  and were denominated in us dollars 
+during these periods our products became less price competitive in countries with currencies declining in value against the dollar 
+in  business conditions in asia were severely affected by banking and currency issues that adversely affected our operating results 
+while these conditions stabilized in and  any adverse developments in business and financial conditions in asia  where  and of our revenues were generated in  and  would likely harm our operating results 
+when we take foreign orders denominated in local currencies  we risk receiving fewer dollars when these currencies weaken against the dollar  and may not be able to adequately hedge against this risk 
+when we take a foreign order denominated in a local currency we will receive fewer dollars than initially anticipated if that local currency weakens against the dollar before we collect our funds 
+in addition to reducing revenues  this risk will negatively affect our operating results 
+in europe  where our significant operations have costs denominated in european currencies  these negative impacts on revenues can be partially offset by positive impacts on costs 
+however  in japan  while our yen denominated sales are also subject to exchange rate risk  we do not have significant operations with which to counterbalance our exposure 
+sales denominated in european currencies and yen were and of our revenues in compared to and in  and and in  respectively 
+we also face the risk that our accounts receivable denominated in foreign currencies will be devalued if such foreign currencies weaken quickly and significantly against the dollar 
+
+table of contents problems that we experience with key customers or distributors may harm our business 
+our ability to maintain close  satisfactory relationships with large customers is important to our business 
+a reduction  delay  or cancellation of orders from our large customers would harm our business 
+the loss of one or more of our key customers  or reduced orders by any of our key customers  could harm our business and results of operations 
+moreover  our customers may vary order levels significantly from period to period  and customers may not continue to place orders with us in the future at the same levels as in prior periods 
+we sell many of our products through distributors 
+our distributors could experience financial difficulties or otherwise reduce or discontinue sales of our products 
+our distributors could commence or increase sales of our competitors products 
+in any of these cases  our business could be harmed 
+we are not protected by long term contracts with our customers 
+we do not typically enter into long term contracts with our customers  and we cannot be certain as to future order levels from our customers 
+when we do enter into a long term contract  the contract is generally terminable at the convenience of the customer 
+in the event of an early termination by one of our major customers  it is unlikely that we will be able to rapidly replace that revenue source  which would harm our financial results 
+our failure to successfully integrate businesses or products we have acquired could disrupt or harm our ongoing business 
+we have from time to time acquired  and may in the future acquire additional  complementary businesses  products and technologies 
+achieving the anticipated benefits of an acquisition depends  in part  upon whether the integration of the acquired business  products or technology is accomplished in an efficient and effective manner 
+moreover  successful acquisitions in the semiconductor industry may be more difficult to accomplish than in other industries because such acquisitions require  among other things  integration of product offerings  manufacturing operations and coordination of sales and marketing and research and development efforts 
+the difficulties of such integration may be increased by the need to coordinate geographically separated organizations  the complexity of the technologies being integrated  and the necessity of integrating personnel with disparate business backgrounds and combining two different corporate cultures 
+the integration of operations following an acquisition requires the dedication of management resources that may distract attention from the day to day business  and may disrupt key research and development  marketing or sales efforts 
+the inability of management to successfully integrate any future acquisition could harm our business 
+furthermore  products acquired in connection with acquisitions may not gain acceptance in our markets  and we may not achieve the anticipated or desired benefits of such transactions 
+we may face third party intellectual property infringement claims that could be costly to defend and result in loss of significant rights 
+the semiconductor industry is characterized by vigorous protection and pursuit of intellectual property rights or positions  which on occasion  have resulted in significant and often protracted and expensive litigation 
+we have from time to time received  and may in the future receive  communications from third parties asserting patent or other intellectual property rights covering our products or processes 
+in the past  we have received specific allegations from major companies alleging that certain of our products infringe patents owned by such companies 
+in order to avoid the significant costs associated with our defense in litigation involving such claims  we may license the use of the technologies that are the subject of these claims from such companies and be required to make corresponding royalty payments  which may harm our operating results 
+we have in the past been involved in intellectual property infringement lawsuits  which harmed our operating results 
+although we intend to vigorously defend against any such lawsuits  we may not prevail given the complex technical issues and inherent uncertainties in patent and intellectual property litigation 
+moreover  the cost of defending against such litigation  in terms of management time and attention  legal fees and product delays  could be substantial  whatever the outcome 
+if any patent or other intellectual property claims against us are successful  we may be prohibited from using the technologies subject to these claims  and if we are unable to obtain a license on acceptable terms  license a substitute technology  or design new technology to avoid infringement  our business and operating results may be significantly harmed 
+
+table of contents we have several cross license agreements with other companies 
+in the future  it may be necessary or advantageous for us to obtain additional patent licenses from existing or other parties  but these license agreements may not be available to us on acceptable terms  if at all 
+we depend on independent assembly contractors which may not have adequate capacity to fulfill our needs and which may not meet our quality and delivery objectives 
+we manufacture wafers for our products at our fabrication facilities  and the wafers are then sorted and tested at our facilities 
+after wafer testing  we ship the wafers to one of our independent assembly contractors located in china  hong kong  japan  malaysia  the philippines  south korea  or taiwan where the wafers are separated into die  packaged and  in some cases  tested 
+our reliance on independent contractors to assemble  package and test our products involves significant risks  including reduced control over quality and delivery schedules  the potential lack of adequate capacity and discontinuance or phase out of the contractors assembly processes 
+these independent contractors may not continue to assemble  package and test our products for a variety of reasons 
+moreover  because our assembly contractors are located in foreign countries  we are subject to certain risks generally associated with contracting with foreign suppliers  including currency exchange fluctuations  political and economic instability  trade restrictions and changes in tariff and freight rates 
+accordingly  we may experience problems in timelines and the adequacy or quality of product deliveries  any of which could have a material adverse effect on our results of operations 
+we are subject to environmental regulations  which could impose unanticipated requirements on our business in the future 
+any failure to comply with current or future environmental regulations may subject us to liability or suspension of our manufacturing operations 
+we are subject to a variety of federal  state and local governmental regulations related to the discharge or disposal of toxic  volatile or otherwise hazardous chemicals used in our manufacturing processes 
+increasing public attention has been focused on the environmental impact of semiconductor operations 
+although we have not experienced any material adverse effect on our operations from environmental regulations  any changes in such regulations or in their enforcement may impose the need for additional capital equipment or other requirements 
+if for any reason we fail to control the use of  or to restrict adequately the discharge of  hazardous substances under present or future regulations  we could be subject to substantial liability or our manufacturing operations could be suspended 
+we depend on certain key personnel  and the loss of any key personnel may seriously harm our business 
+our future success depends in large part on the continued service of our key technical and management personnel  and on our ability to continue to attract and retain qualified employees  particularly those highly skilled design  process and test engineers involved in the manufacture of existing products and in the development of new products and processes 
+the competition for such personnel is intense  and the loss of key employees  none of whom is subject to an employment agreement for a specified term or a post employment non competition agreement  could harm our business 
+business interruptions could harm our business 
+our operations are vulnerable to interruption by fire  earthquake  power loss  telecommunications failure and other events beyond our control 
+we do not have a detailed disaster recovery plan 
+in addition  business interruption insurance may not be enough to compensate us for losses that may occur and any losses or damages incurred by us as a result of business interruptions could significantly harm our business 
+system integration disruptions could harm our business 
+we are currently making enhancements to our integrated financial and supply chain management system and transitioning some of our operational procedures at the same time 
+this transition process is complex  time consuming and expensive 
+operational disruptions during the course of this transition process or delays in the implementation of this new system could adversely impact our operations 
+our ability to forecast sales demand  ship products  manage our product inventory and record and report financial and management information on a timely and accurate basis could be impaired during the transition period 
+
+table of contents provisions in our amended and restated certificate of incorporation  bylaws and preferred shares rights agreement may have anti takeover effects 
+certain provisions of our amended and restated certificate of incorporation  bylaws and delaware law could make it more difficult for a third party to acquire us  even if doing so would benefit our stockholders 
+our board of directors has the authority to issue up to  shares of preferred stock and to determine the price  voting rights  preferences and privileges and restrictions of those shares without the approval of our stockholders 
+the rights of the holders of common stock will be subject to  and may be harmed by  the rights of the holders of any shares of preferred stock that may be issued in the future 
+the issuance of preferred stock may delay  defer or prevent a change in control  by making it more difficult for a third party to acquire a majority of our stock 
+in addition  the issuance of preferred stock could have a dilutive effect on our stockholders 
+we have no present plans to issue shares of preferred stock 
+we also have a preferred shares rights agreement with equiserve trust company  na  as rights agent  dated as of september   amended and restated on october  and amended as of november   which gives our stockholders certain rights that would likely delay  defer or prevent a change of control of atmel in a transaction not approved by our board of directors 
+our stock price has fluctuated in the past and may continue to fluctuate in the future 
+the market price of our common stock has experienced significant fluctuations and may continue to fluctuate significantly 
+the market price of our common stock may be significantly affected by factors such as the announcement of new products or product enhancements by us or our competitors  technological innovations by us or our competitors  quarterly variations in our results of operations  changes in earnings estimates by market analysts and general market conditions or market conditions specific to particular industries 
+statements or changes in opinions  ratings  or earnings estimates made by brokerage firms or industry analysts relating to the market in which we do business or relating to us specifically could result in an immediate and adverse effect on the market price of our stock 
+in addition  in recent years the stock market has experienced extreme price and volume fluctuations 
+these fluctuations have had a substantial effect on the market prices for many high technology companies  often unrelated to the operating performance of the specific companies 
+
+table of contents item a 
+quantitative and qualitative disclosures about market risk interest rate risk we maintain investment portfolio holdings of various issuers  types and maturities whose values are dependent upon short term interest rates 
+we generally classify these securities as available for sale  and consequently record them on the balance sheet at fair value with unrealized gains and losses being recorded as a separate part of stockholders equity 
+we do not currently hedge these interest rate exposures 
+given our current profile of interest rate exposures and the maturities of its investment holdings  we believe that an unfavorable change in interest rates would not have a significant negative impact on our investment portfolio or statement of operations through december  in addition  some of our borrowings are at floating rates  so this would act as a natural hedge 
+we have short term debt  long term debt  capital leases and convertible notes totaling approximately million at december  approximately million of these borrowings have fixed interest rates 
+we have approximately million of floating interest rate debt of which million is euro denominated 
+we do not hedge against this interest rate risk and could be negatively affected should either of these rates increase significantly 
+a hypothetical basis point increase in interest rates would have a million adverse impact on income before taxes on our consolidated statements of operations for while there can be no assurance that both of these rates will remain at current levels  we believe that any rate increase will not cause significant negative impact to our operations and to our financial position 
+market risk sensitive instruments we did not use derivative financial instruments in our operations during foreign currency risk when we take a foreign order denominated in a local currency we will receive fewer dollars than we initially anticipated if that local currency weakens against the dollar before we collect our funds 
+in addition to reducing revenue  this risk will negatively affect our operating results 
+in europe  where our significant operations have costs denominated in european currencies  these negative impacts on revenue can be partially offset by positive impacts on costs 
+however  in japan  while our yen denominated sales are also subject to exchange rate risk  we do not have significant operations with which to counterbalance our exposure 
+sales denominated in yen were of our revenue in sales denominated in foreign currencies were in  compared to in we also face the risk that our accounts receivables denominated in foreign currencies will be devalued if such foreign currencies weaken quickly and significantly against the dollar 
+
+table of contents 

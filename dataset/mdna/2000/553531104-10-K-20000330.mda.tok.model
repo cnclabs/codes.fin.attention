@@ -1,0 +1,713 @@
+item management s discussion and analysis of financial condition and results of operations and note business acquisitions and divestitures in notes to consolidated financial statements for additional information with respect to msc s acquisitions 
+general msc was incorporated in delaware in since its inception in  msc has been engaged in mechanical computer aided engineering mcae  including the development and marketing of software for use principally by engineers and designers in industry  research laboratories and universities 
+msc s mcae solutions are intended to allow the design to manufacture team greater freedom to innovate design concepts  optimize complex solutions and exploit materials as a design variable 
+in the current computer aided manufacturing environment  designs are simulated before manufacturing has begun 
+mcae analysis is used to simulate the performance of a design before its physical manufacture  reducing the costly physical testing of prototypes and permitting a substantial increase in the number of design trade offs and design cycles 
+mechanical simulation helps manufacturers design and build better products faster and more efficiently 
+engineers use msc s simulation software worldwide in several industries  including aerospace  automotive  shipbuilding  consumer products and electronic packaging 
+msc also provides strategic consulting services to customers to improve the integration and performance of their mcae technologies 
+our principal software products include msc 
+nastran  msc 
+marc  msc 
+dytran  msc 
+patran and the msc 
+working model product family 
+msc 
+nastran is a basic mcae analysis software program that determines a product s stresses and deformations 
+msc 
+marc is a non linear finite element analysis fea program that offers automated non linear analysis of contact problems commonly found in rubber or metal forming and many other applications 
+msc 
+dytran is for non linear analyses such as those found in impact scenarios 
+msc 
+patran is an interactive mcae environment that facilitates the use of geometric data from popular computer aided design cad systems such as catia  pro engineer and unigraphics in a variety of commercial analysis programs  including msc 
+nastran 
+msc 
+working model provides mechanical simulation and virtual prototyping software for use in both professional engineering and design markets 
+the mechanical solutions division markets all of msc s products and services internationally to aerospace  automotive and other industrial concerns  computer and electronics manufacturers and universities 
+msc s strong reputation has earned it the business of many companies  including bmw  daimlerchrysler  fiat  gm  ford  nissan  toyota  boeing  airbus  lockheed martin  dupont  eastman kodak and motorola 
+in addition to being a leader in providing high end engineering analysis technology  msc has moved to package its technology in lower priced offerings for multi disciplinary engineers that perform simulation on occasion and design engineers who need to verify design concepts 
+the working knowledge division  created following the acquisition of kr in late december  offers products for this latter market mainly through a network of resellers 
+msc is concentrating on becoming more internet focused by continuing to make its products web enabled and through the launch of a new division and web portal in march  engineering e 
+com 
+this division leverages the core strengths  competencies and infrastructure of msc to create an engineers marketplace on the web 
+in january  the msc 
+linux division was created to support linux products and services 
+msc 
+linux will leverage msc s strengths in software technology development  professional services  hardware and software partnerships 
+the division will initially provide msc s global customer base with cost effective linux based applications of msc s current products and infrastructure 
+products and services core software our core software products are designed to be world class in their own right  and they also function as platforms on which we build some of our aerospace and automotive specific software and services 
+our core software consists of a complement of solvers linked to a pre and post processor msc 
+patran 
+these solvers are capable of simulating virtually any mechanical structural phenomena  ranging from msc s flagship general purpose linear based solver msc 
+nastran to a dedicated non linear solver msc 
+marc to a specialty non linear solver msc 
+dytran 
+future work will be undertaken to create seamless transitions between them 
+in addition  msc will expand beyond the traditional uses of fea to move into manufacturing process simulation utilizing the capabilities of msc 
+marc and msc 
+dytran 
+the governing principles for our core software are to provide enhanced engineering productivity  in terms of process task automation via dedicated environments  templates  and workflow managers  numerical and graphics performance  and overall ease of use  greater range of simulation  including loads analysis and kinematics  non linear effects  robust design including probabilistic analysis  manufacturing process simulation  and test correlation  increased modeling  manipulation  and analysis of assemblies  from geometry to full fea models to super elements substructures to matrices from analysis and test  continued commitment to data exchange standards such as ap  ap  and ap  and increased emphasis on advanced visualization techniques and dedicated results processing utilities 
+solvers msc 
+nastran  msc 
+marc and msc 
+dytran msc 
+nastran is a descendant of nastran tm  a computer program owned by the united states government and leased to others 
+msc has improved upon nastran tm since nastran tm was first released in and the current capabilities and scope of msc 
+nastran are substantially greater than those of nastran tm 
+msc has been selling msc 
+nastran since pursuant to a agreement with the national aeronautics and space administration nasa  msc acquired the perpetual rights to commercially use those elements of nastran tm which are embodied in msc 
+nastran 
+see intellectual property rights below 
+however  certain of msc s competitors sell other variations of nastran tm 
+msc 
+nastran is based upon the finite element method fem of analysis 
+with fem analysis  complex structures are divided into small elements  which form a finite element model  which is then subjected to computer analysis 
+msc 
+nastran is used to analyze structures in order to determine  among other things  their strength  safety and performance characteristics 
+for example  in the aerospace industry  msc 
+nastran is employed to determine the stress distribution in the major parts of an aircraft  such as engines  wings  fuselage and tail 
+a computer analysis could be applied to improve the design of aircraft by suggesting the removal of material where stresses are low and the addition of material where stresses are high  while reducing the usage of physical prototypes and other testing 
+with this knowledge  aircraft can be made both stronger and lighter 
+the same principles have been applied to improve the design of jets  rockets  engines  automobiles  trucks  tires  ships  farm equipment  heavy industrial equipment  nuclear containment vessels  helicopters  spacecraft and other products and structures 
+because msc 
+nastran has been designed in a modular way  new features can be added and obsolete features replaced without disrupting the other modules of the system 
+as a result  major changes in computer hardware have been systematically accommodated 
+for example  the program has been adapted to be used on a variety of computer types  from supercomputers to personal computers 
+msc believes that the continued development and maintenance of msc 
+nastran  together with the modular design features of that program  have prevented  and will continue to prevent  its obsolescence  although no assurance can be given that future changes in hardware or breakthroughs in software design will not result in the obsolescence of the program 
+version was released in october  with the main feature being support for distributed parallel processing for statics  normal modes  and frequency response analysis 
+as an example  this feature now makes it possible for large automotive nvh jobs to be run during the workday  enabling this type of simulation to be an integral part of the design process 
+material sensitivity was also added 
+over the next two years  our emphasis will expand to include more non linear capabilities  utilizing msc 
+marc technologies  which are needed for large  system type simulation 
+selected capabilities from uai 
+nastran and csar 
+nastran will be merged into msc 
+nastran  based on market needs 
+some performance enhancements have already been merged in  with more to come 
+msc 
+marc is the newest addition to the msc suite of solvers  filling the gap between linear msc 
+nastran and its non linear specialty msc 
+dytran 
+msc 
+marc also has extensive distributed parallel processing capabilities  and it is world renowned for its contact algorithms and its extensive material library  both of which have found extensive use in the tire and rubber industries 
+the msc 
+dytran product is for highly non linear analyses such as those found in impact 
+it uniquely combines fluid structure interaction to facilitate the simulation of tire hydroplaning and occupant safety airbag occupant interaction 
+msc 
+patran msc 
+patran provides finite element modeling  analysis data integration  analysis simulation  and results evaluation capabilities to simulate product performance early in the design for manufacture process 
+all of the functions of msc 
+patran may be integrated  automated and tailored to the user s specific requirements using a powerful programming command language 
+msc 
+patran system provides three fundamental functions msc 
+patran core software the core of the msc 
+patran software enables the engineer to visualize the design  preprocess the design into a computer model for engineering analysis  and post process the results of the analysis into a graphical representation 
+the software interfaces with many popular cad programs and many analysis packages such as msc 
+nastran 
+application modules through a series of modules that can be added to the core software  engineers can perform analysis on stress  thermal mechanisms and dynamics  fluid flow  solid modeling  and fatigue 
+some of these application modules have been developed by third parties and are marketed under joint development or marketing agreements 
+interfaces msc 
+patran uses a series of interfaces that allow it to interact with programs developed by other companies in the cad mcae industry 
+these interfaces either involve direct links into other software or translate data to and from other software so that it can be processed within msc 
+patran 
+msc 
+mentat continues to be the pre and post processor for msc 
+marc  and its features will eventually be merged into msc 
+patran 
+other core products other core products include msc 
+fatigue for durability analysis  msc 
+akusmod for internal acoustic modeling and analysis  and msc 
+construct for topology and shape optimization 
+in addition  msc has a variety of other products  none of which accounts for more than of msc s revenue  including msc 
+supermodel  msc 
+superforge and msc 
+mvision 
+msc 
+working model the december acquisition of kr led to the msc 
+working model suite of products for motion and visualization animation 
+these products can be linked to mid range  solid modelers such as solid works  mechanical desktop and solid edge 
+msc plans to extend their visualization capabilities to work with our core solvers 
+during  msc introduced msc 
+working model d  which combined msc 
+working model motion with msc 
+incheck 
+msc 
+working model motion is used to simulate motion such as falling and colliding objects  pistons or conveyor 
+this simulation answers the question will it work msc 
+incheck is used to simulate stress  deformation and vibration 
+this simulation answers the question will it break these products run on microsoft windows based personal computers and are closely linked to desktop based cad programs such as solid works  mechanical desktop and solid edge 
+services msc develops educational tools designed to train users of its products as an extension of its software business 
+training seminars are conducted in local languages on a frequent basis at the msc institute of technology in costa mesa  california  at msc s offices worldwide  and at client sites 
+msc also offers both its mechanical solutions and working knowledge products to schools and universities 
+in addition  msc provides a broad range of engineering software consulting services 
+a typical consulting assignment might include all or some of the following activities process advice and automation we work closely with our key customers to advise them on product development processes  enabling them to make better products in less time and for less cost 
+we automate the advice by providing software systems that integrate our software with pdm  cad  test  and in house software 
+the advice and automation moves simulation up front in the conceptual and detailed design phases to enable simulation to be performed by design engineers and to be an integral part of the product development process 
+in many of our service engagements  we use the msc 
+acumen toolkit to create design engineering workflow templates that capture and automate the engineering process  providing tremendous productivity gains 
+engineering services we provide engineering analysis and design services to our existing software customers and to companies who do not use our software 
+these are delivered to our current customers to provide analysis or design expertise that they may not have  and to augment their capabilities if they have a manpower shortage 
+these services are provided to other companies who do not have any analysis or design professionals on staff  but who need these capabilities provided via outsourcing 
+we deliver the expertise of over highly trained engineers who write  support  and use the msc software on a daily basis 
+we have provided services to automotive  aerospace  biomedical  electronic packaging  petrochemical  nuclear  and consumer product manufacturers and suppliers 
+in addition to analysis and design services before a product s manufacture  we have also investigated the cause of in service failures for a wide range of products 
+automotive specific services automotive manufacturers and suppliers are increasing their use of engineering simulation early in the design process  to reduce dependence on physical testing  improving overall product quality  and reducing cost time to market 
+our automotive specific services capabilities are in the areas of nvh noise  vibration  and harshness and durability 
+we have successfully completed automotive services projects providing fees in excess of  including development of a custom system for cooper tire to integrate simulation  design  and test  helping to reduce tire development time by  funded enhancements to integrate msc 
+ams with bmw s in house product design manufacturing pdm system  substantially reducing modeling time for full vehicle assemblies and spot weld modeling  durability process automation for navistar  and brake squeal analyses for several companies 
+a major trend within automotive manufacturers is to move the development of components and subsystems to their first tier suppliers  providing significant services growth opportunities for us within the supply chain 
+aerospace specific services aerospace manufacturers and suppliers are increasing their efficiency by utilizing simulation to improve product performance and reduce design costs 
+simulation is an integral part of the aerospace design process and is used early and throughout the processes 
+we are known for having a core competency in aerospace and our products are considered the industry standard 
+as a result  msc s two main service opportunities are in the areas of custom software development and process automation 
+a major opportunity for aerospace specific services is in supply chain integration  pushing design and certification responsibilities down the supply chain 
+today  we believe that there is little supply chain optimization within the aerospace market  while it is generally recognized that such optimization is needed 
+most aerospace oems and suppliers are struggling to implement such programs 
+training services we provide custom and standard versions of live  web and video dvd courses and course materials joining the engineering fundamentals with msc product specific knowledge to enable customers to make more efficient use of our software 
+we are the acknowledged leader in cae training  more than five times the expertise and size of our largest competitor 
+in  we expect to deliver several new courses on video and dvd and via the web 
+onsite support as an optional service  we provide onsite support for our software 
+this pay as you go service enables our customers to receive a dedicated level of technical support  with company personnel becoming or adding to the in house experts 
+software implementation implementation services are a combination of training  onsite support  and engineering services to install software at customer sites 
+these are provided to new or existing software customers so they can make quick  effective use of new versions or new products 
+custom software development  collaborative development  and porting we can customize our software in order to provide customer requested capabilities on a funded basis 
+some of our major software capabilities including dynamic sensitivity and optimization  acoustics  and static aeroelasticity were developed as custom projects  and in we will do others 
+in many cases  the projects are fully funded by the customer custom development  but there are cases we absorb part of the cost if there is a future commercial benefit collaborative development 
+one type of custom development is funded porting  where the hardware provider pays us to port our software to their new hardware or to new versions of operating systems 
+linux services a new services area for msc will be for porting to the linux operating system 
+for linux  we will help our customers move from unix  configuring systems for them  porting their in house software  customizing the operating system for special needs  and training them 
+we will also offer turn key systems that include computers  the operating system  and software ours and others 
+the computers will range from single pcs or workstations to high performance clusters of multiple machines 
+research and development msc continually expends significant amounts on the development and maintenance of its suite of mcae software products  as well as on new product research and development 
+during the years ended december   and  gross research and development expenditures were approximately   and  respectively 
+of the amounts expended    and  respectively  were included in software costs capitalized 
+effective january   msc changed the estimated useful life of its capitalized software assets from three and four years to two and three years 
+msc has always estimated the expected life of these assets based on the release cycle of its products 
+msc believes that as software production cycles decrease  amortization periods should also decrease in order to coincide with each version s revenue stream 
+msc made this change prospectively 
+msc s development activities have historically involved adding new capabilities to its family of mcae programs or converting those programs for use on new computer platforms 
+these activities are intended to prevent technological obsolescence and assure msc s clients the maximum flexibility in selecting computer hardware 
+msc considers the feasibility  cost and the size of the market its software program for a particular computer when determining whether to undertake development activity to adapt the program for a particular computer 
+maintenance of msc software products includes system integration  quality assurance testing  error correction  and modifications to accommodate changes to computer system software 
+given the maturity of msc s software  most maintenance efforts stem from continuing new developments 
+maintenance costs are expensed as incurred 
+msc has recently increased its expenditure for software development 
+this increase resulted primarily from the acquisitions of marc  uai  csar and kr and changes within it s product management function in staffing and staff mix related to a strategic revision in product development activity 
+this shift in strategy de emphasizes features upgrades for specific products and promotes the development of technologies and integrated software solutions for targeted customers 
+msc s total development cost before software capitalization was of revenue for  which was consistent with management s target of of total annual revenues under the new strategy 
+sales and marketing msc markets its products through advertising in trade publications  participation in industry trade shows and exhibits  training seminars conducted worldwide  its existing client base and through complementary marketing agreements with computer hardware manufacturers 
+msc also uses its own dedicated sales force as well as value added resellers vars and the internet for domestic marketing 
+foreign marketing is generally conducted in the same manner as marketing within the united states 
+the basic licensing agreements are substantially the same 
+prices for agreements originating with msc s german subsidiary are generally stated in german marks and agreements originating with msc s japanese subsidiary are generally stated in japanese yen 
+agreements with customers are typically denominated in united states dollars 
+the agreements stated in other foreign currencies are subject to currency fluctuations 
+revenue policy msc provides a variety of licensing alternatives for the use of its software products 
+msc s software products have been primarily offered on an annual non cancelable  pre paid license basis 
+an annual non cancelable  pre paid license is set at a fixed rate for the period and provides for payment in advance of use 
+prior to october   license revenue was recognized at the time of sale  while maintenance revenue  representing approximately of the revenue from a non cancelable  pre paid license  was recognized ratably over the term of the maintenance period 
+effective october   msc adopted the accounting standards executive committee of the american institute of certified public accountants aicpa statement of position sop  modification of sop  software revenue recognition with respect to certain transactions  pursuant to which revenue will be recognized ratably over the life of the contract for a non cancelable  pre paid annual license 
+in recent years  demand has also increased for paid up licenses for engineering software products 
+a paid up license provides significant revenue at the original time of sale of the product  with smaller payments for maintenance following the time of sale 
+the growth of paid up licenses creates higher earnings volatility since larger amounts of revenue are recognized at one time instead of over a period of time 
+service revenue was less than of revenue for see note summary of significant accounting policies and business information of notes to consolidated financial statements for additional information with respect to msc s revenue recognition policy 
+sales and support offices msc maintains north american sales and client support offices in costa mesa  california  san mateo  california  palo alto  california  atlanta  georgia  dayton  ohio  southfield  michigan  lowell  massachusetts  and mount laurel  new jersey 
+sales and or technical support representatives who have engineering backgrounds and experience using msc s products are staffed in these offices 
+these representatives market msc s products  provide training in their use  respond to user support calls and provide solutions for mcae analysis throughout north america 
+in addition  sales and support personnel work out of numerous home offices throughout the united states 
+the los angeles office serves as msc s corporate headquarters and e commerce office 
+msc will be relocating its costa mesa office to new office space nearby in the south coast metro area of orange county  california 
+the earliest move in date is anticipated to be january msc s products are marketed  distributed and supported outside of north america through a network of foreign subsidiary offices 
+msc s wholly owned european subsidiary  headquartered in munich  germany  manages msc s network of wholly owned subsidiaries in the united kingdom  italy  spain  france  norway  the netherlands  poland  and the czech republic 
+other sales offices are located in greece  russia  hungary  belgium  romania  slovenia and turkey 
+in the asia pacific region  sales and service are handled through msc s wholly owned subsidiary in tokyo  japan  with a branch office in osaka  japan  as well as other sales and services offices in korea  taiwan and the people s republic of china 
+a foreign subsidiary office is also located in brazil 
+representative arrangements are also utilized in several other european and asia pacific countries as well as in india  australia and parts of latin america 
+post contract support client service is an integral aspect of msc s marketing program 
+msc maintains toll free numbers and a hot line service for its clients 
+msc has invested in advanced call center technology to improve its capabilities 
+user manuals  training and quality assurance are also essential to msc s marketing program 
+msc s user manuals are comprehensive and updated on a regular basis 
+a staff of writers and editors manage the design  writing  editing and preparation of user manuals as well as of training materials and promotional literature 
+msc conducts formal training for clients  ranging from three day introductory courses to intensive courses on specialized subjects for experienced users 
+onsite courses for clients are provided for larger user organizations 
+msc also hosts annual users conferences in the united states  europe  asia pacific  australia and latin america to gather data on client needs  new engineering applications  and new trends in computing technology 
+customers msc s products are marketed internationally to clients from aerospace  automotive  other manufacturers and universities 
+these categories of clients accounted for   and  respectively  of msc s revenues for for  foreign export sales accounted for approximately of gross revenues  most of which was attributable to europe and asia pacific 
+the balance was attributable to canada and south america 
+the operating margins derived from msc s foreign export sales do not materially differ from its domestic operations 
+see notes taxes based on income and note segment information of notes to consolidated financial statements for additional information with respect to msc s foreign operations 
+no single customer accounted for more than of msc s consolidated revenues in backlog msc does not maintain backlog statistics for its products because software is generally available for delivery upon execution of a licensing agreement or contract 
+backlog for consulting services work is currently not material 
+intellectual property rights msc  msc  msc aries  msc patran  msc mvision and msc dytran are registered trademarks of msc 
+working model is a registered trademark of msc s wholly owned subsidiary  knowledge revolution  inc nastran tm is a registered trademark of nasa 
+msc 
+nastran is an enhanced proprietary version of nastran tm 
+msc nastran  msc nastran for windows  msc supermodel  msc incheck  msc superforge  msc nvh manager  msc droptest  msc fea  msc fatigue  msc working knowledge  msc construct  and msc ams are trademarks of msc 
+msc also obtained the registered trademarks of marc  mentat  m autoforge  csa and csar as part of our acquisitions 
+registration is pending on certain of these trademarks 
+most of msc s trademarks have also been registered in foreign countries 
+msc believes that it could successfully defend the use of its trademarks  whether registered or pending registration  under federal or common law existing in the state of california 
+in addition  msc maintains federal statutory copyright protection with respect to its software programs and products and has registered copyrights on all documentation and manuals related to these programs and maintains trade secret protection on its software products 
+competition msc competes in highly competitive markets  including the development and marketing of software for use principally by engineers and designers in industry  research laboratories and universities 
+msc believes that it is a leading supplier of software and services to the mcae markets in which it competes 
+msc believes that msc 
+nastran is the leading program for engineering analysis worldwide  based upon capability  functionality  international acceptance and sales volume  and that msc 
+patran is the standard mcae environment for manufacturers worldwide  based upon its enhanced usability  direct cad access  intelligent use of geometry  automated finite element modeling and completeness of analysis integration 
+msc believes that msc 
+working model motion is the unit volume leader for desktop based motion simulation  based principally on its ease of use and on its association with leading university textbook publishers that bundle our software with their texts 
+msc must continue to offer attractive prices and performance capabilities in order to retain existing clients and further extend its markets 
+see research and development and sales and marketing above 
+msc competes primarily based upon product quality  service  price and technological innovation 
+employees at december   msc and its subsidiaries employed persons  of whom were involved in technical activities  in sales and marketing  and in administration 
+of these employees  hold advanced degrees 
+msc s business is dependent in part upon its ability to attract and retain highly skilled personnel who are in great demand 
+msc has no contracts with labor organizations and believes its relations with its employees are good 
+executive officers of the registrant the table below sets forth certain information about executive officers that are not also directors of msc 
+msc is not aware of any arrangement or understanding between these persons and any other persons pursuant to which the executive officers were selected as such 
+msc is not aware of any family relationships between these executive officers and any other executive officers 
+officer age current position louis a 
+greco chief financial officer and corporate secretary kenneth d 
+blakely senior vice president and general manager mechanical solutions division david baszucki vice president and general manager working knowledge division john di lullo vice president and general manager engineering e 
+com division jeff morgan vice president worldwide product and business development richard c 
+murphy vice president the americas greg sikes vice president and general manager linux division dr 
+christopher st 
+john vice president europe masaru tateishi vice president asia pacific louis a 
+greco has served as chief financial officer of msc since march he has served as corporate secretary since december mr 
+greco has a bachelor of science degree in business with an accounting emphasis from california state university at los angeles and a masters degree in business administration from the university of southern california 
+he is also a certified public accountant 
+kenneth d 
+blakely has served as senior vice president and general manager of the mechanical solutions division since january prior positions at msc include vice president and general manager of the aerospace business unit  vice president of marketing  director of product management  and manager of technical planning and product services 
+he also headed the msc 
+nastran for windows team  responsible for conceiving  developing and launching the product 
+mr 
+blakely has authored the msc 
+nastran basic dynamic analysis user s guide and written more than technical papers  primarily on test analysis correlation  structural dynamics  pc applications  and cad fea interoperability 
+mr 
+blakely has a bachelors degree in engineering and a masters degree in structural dynamics from the university of california at los angeles 
+david baszucki has served as vice president and general manager of working knowledge division since january  when he joined msc upon the acquisition of kr 
+mr 
+baszucki was the president and founder of knowledge revolution inc from august to december mr 
+baszucki is the original architect of interactive physics and the working model platform dependent dynamics engine 
+mr 
+baszucki has years of experience in the simulation software industry 
+before founding kr  he held engineering and marketing positions at rolm corporation and cic corporation 
+mr 
+baszucki has a bachelors degree in electrical engineering from stanford university 
+he is also a recipient of the general motors stanford scholarship and a winner of the stanford mechanical engineering design competition 
+john di lullo has served as vice president and general manager of engineering e 
+com division of msc since march he came to msc in october of prior to that mr 
+di lullo was the general manager of education systems at systems and computer technology where he web enabled their software products and was a senior director at time warner from october through december where he led various internet commerce initiatives 
+mr 
+di lullo has a bachelor of science degree in mathematics and masters degree in information systems from temple university 
+jeff morgan has served as vice president  worldwide product and business development of mechanical solutions division since march mr 
+morgan came to msc with the acquisition of uai where he served as president since mr 
+morgan has a bachelor of science degree in flight sciences from columbia university 
+richard c 
+murphy has served as vice president the americas of mechanical solutions division since january prior to that  he was vice president and general manager of the growth industries business unit from february to december  vice president and general manager of the general manufacturing unit from september to january  department director of north american sales and support from march to august  regional office manager of north american sales and sales support from february to february  and sales representative of north american sales and support from april to january greg sikes has served as vice president and general manager of linux division of msc since march mr 
+sikes joined msc in and has held various positions including director of aerospace development  manager of aerospace products and product manager for msc 
+patran 
+mr 
+sikes has a bachelor of science degree in aeronautical engineering from the university of illinois and a masters degree in mechanical engineering from the university of california at berkeley 
+dr 
+christopher st 
+john has served as vice president europe of mechanical solutions division since april prior to that  he was director of european engineering services from january to march masaru tateishi has served as vice president asia pacific of mechanical solutions division since february before that  he was general manager of msc japan from march to january forward looking statements the forward looking statements in this report  including statements concerning projections of msc s future results  operating profits and earnings  are based on current expectations and are subject to risks and uncertainties that could cause actual results to differ materially from those expressed or implied by those statements 
+the risks and uncertainties include but are not limited to the timely development and market acceptance of new versions of msc s software products  msc s dependence on certain industries  the impact of the internet on msc s business  timely development of computer aided engineering technologies which  among other things  must accommodate industry trends such as increasing computing power and increased usage of workstations  fluctuations of the united states dollar versus foreign currencies  economic conditions in asia pacific  europe and the united states  msc s ability to reduce costs without adversely impacting revenues  successful involvement of international and domestic business partners in creating mechanical engineering solutions  msc s ability to attract  motivate and retain salespeople  programmers and other key personnel  the adoption by msc of certain anti takeover provisions  and continued demand for its products  including msc 
+nastran  msc 
+patran  msc 
+marc  msc 
+dytran  msc 
+mvision  msc 
+nastran for windows  and msc 
+working model d 
+subsequent written and oral forward looking statements attributable to msc or persons acting on its behalf are hereby expressly qualified in their entirety by the cautionary statements in this section of this report 
+risk factors historical results of operations and financial position of msc are not necessarily indicative of future financial performance msc derives most of its revenue from selling software products and services to high end users of the product design markets 
+our revenue growth and our ability to match spending levels with revenue growth rates will directly affect our future operating results 
+historically  a significant portion of our revenue has been generated from shipments in the last month of a quarter 
+in addition  higher volumes of orders have been experienced in the fourth quarter 
+the concentration of orders makes projections of quarterly financial results difficult 
+in addition  over of our revenue is derived from international markets and are denominated in foreign currencies 
+as a result  our financial results could be impacted by weakened general economic conditions in various parts of the world  differing technological advances or preferences  volatile foreign exchange rates  and government trade restrictions in any country in which we do business 
+risk associated with expense management msc plans its operating expense levels  in part  on expected revenue growth 
+our expense levels  however  are generally committed in advance and  in the near term  we are able to change only a relatively small portion of our expenses 
+as a result  our ability to convert operating outlays into expected revenue growth at profitable margins will affect our future operating results 
+if our future revenues are less than expected  our net income may be disproportionately affected since expenses are relatively fixed 
+risks of competition the software industry is highly competitive 
+the entire industry may experience pricing and margin pressure which could adversely affect our operating results and financial position 
+our success depends on our ability to continue to develop  enhance and market new products to meet our customers sophisticated needs within competitive pricing structures and in a timely manner 
+shortened product development cycles may impact product quality  performance  reliability  ease of use  functionality  breadth and integration 
+our success also depends  in part  on our ability to attract and retain technical and other key employees who are in great demand  protect the intellectual property rights of our products  and continue key relationships with product development partners 
+some of our current and possible future competitors have greater financial  technical  marketing and other resources than we do  and some have well established relationships with our current and potential customers 
+it is also possible that alliances among competitors may emerge and rapidly acquire significant market share or that competition will increase as a result of software industry consolidation 
+increased competition may result in price reductions  reduced profitability and loss of market share  any of which could have a material adverse effect our business  financial condition and results of operations 
+risks related to dependence on core products we currently earn a significant portion of our revenues from sales and maintenance of a core group of analysis and design software derived primarily from our msc 
+nastran and msc 
+patran products 
+as a result  any factor adversely affecting sales of these core products could have a material adverse effect on our business 
+our future performance will depend upon successful development  introduction and customer acceptance of new products or enhanced versions of our existing products 
+we can give no assurance that we will continue to be successful in marketing our current products or any new or enhanced products that we may develop in the future 
+in addition  competitive pressures or other factors may result in price erosion that could have a material adverse effect on our business  financial condition and results of operations 
+dependence on certain industries we primarily market our products to aerospace  automotive and other industrial customers 
+for  aerospace clients accounted for of our revenues and automotive clients accounted for of our revenues 
+changes in capital spending by  and cyclical trends affecting  these customers may adversely affect our offerings to these industries 
+in addition  these types of customers tend to adhere to a technology choice for long periods ie  an entire development cycle 
+as a result  a lost opportunity with a given customer may not again become a new opportunity for several years 
+risks related to international activities revenues from foreign export sales represented approximately of our gross revenue for risks inherent in our international business activities include the following imposition of government controls  foreign exchange fluctuations  as many of our agreements originating with our german and japanese subsidiaries are stated in foreign currencies see also euro conversion in item management s discussion and analysis of financial condition and results of operations  export license requirements  restrictions on the export of critical technology or other trade restrictions  foreign political and economic instability  ineffective copyright and trade secret protection under foreign law  changes in regulatory practices  tariffs and taxes  difficulties in staffing and managing international operations  longer accounts receivable payment cycles  and burdens of complying with a wide variety of foreign laws and regulations 
+in  unfavorable economic and political conditions in the asian markets affected our international results 
+of msc s total revenue for is directly related to the japanese market  while is from the asia pacific region outside of japan 
+although the asia pacific economies have shown signs of recovery  we still remain cautious about msc s asia pacific prospects 
+we can give no assurance that the economic and currency issues are going to improve further or remain constant 
+any downturn may have a material adverse effect on our future international sales and  consequently  on our business  financial condition and results of operations 
+certain anti takeover provisions certain provisions of our restated certificate of incorporation and restated bylaws could make it more difficult for a third party to acquire control us  even if the change in control would be beneficial to stockholders 
+these provisions include the following division of our board of directors into three classes  with each class serving a staggered three year term  vesting of exclusive authority in the board  the chairman of the board and the president except as otherwise required by law to call special meetings of stockholders  elimination of stockholder voting by consent  removal of directors for cause only  ability of the board to authorize the issuance of preferred stock in series  vesting of exclusive authority in the board to determine the size of the board subject to certain limited exceptions and to fill vacancies thereon  and advance notice requirements for stockholder proposals and nominations for election to the board 
+risks related to stock market volatility the trading price of our stock  like other software and technology stocks  is subject to significant volatility 
+if our revenues or earnings fail to meet securities analysts expectations  there could be an immediate and significant adverse impact on the trading price of our stock 
+in addition  broader market factors unrelated to our performance may affect our stock price 
+in addition to the above provisions  we adopted a new stockholder rights plan in such plan entitles our stockholders  if an entity acquires more than of our stock or  in the event of a squeeze out merger  to purchase either our common stock or the common stock of the merged entity at one half of such stock s market value 
+until ten days after the announcement of the acquisition of such a interest  we may redeem the rights for a nominal amount 
+a squeeze out merger is a merger transaction in which a minority interest in a corporation is intenionally eliminated or reduced 
+this often accomplished by setting up the merger transaction to provide such holders of minority interests with effective no choice but to accept cash as opposed to interests in the continuing entity in exchange for their shares 
+item properties msc s offices are leased under agreements expiring at various times over the next one to years 
+msc s principal offices are in los angeles  california and costa mesa  california  and include  square feet and  square feet  respectively  under leases expiring in and  respectively 
+as part of its restructuring  msc relocated a portion of its los angeles operations into the costa mesa office 
+management believes that this move provided cost savings as well as providing enhanced productivity by having key personnel in one office 
+msc will be relocating the costa mesa office to new office space nearby in the south coast metro area of orange county  california 
+the new office includes  square feet under a lease expiring in the earliest move in date is anticipated to be january msc also leases its other offices throughout the united states and internationally 
+see note commitments and contingencies of notes to consolidated financial statements of this report for additional information regarding msc s lease obligations 
+item legal proceedings none 
+item submission of matters to a vote of security holders no matters were submitted to a vote of shareholders during the last quarter of msc s fiscal year ended december  part ii item market for registrant s common equity and related stockholder matters msc s common stock is listed for trading on the new york stock exchange nyse under symbol mns 
+the following table sets forth through december   the high  low  average and closing prices  as reported on the nyse composite trading system  for the periods shown sales prices high low average close calendar year fourth quarter third quarter second quarter first quarter calendar year fourth quarter third quarter second quarter first quarter as of march   there were record holders of msc s common stock 
+msc eliminated its dividend in september of and does not anticipate paying a dividend in the foreseeable future 
+in addition  msc s loan agreement with its principal bank imposes restrictions on msc s payment of cash dividends or payments on account of or in redemption  retirement or purchase of msc s common stock or other distributions 
+on november   in connection with the acquisition of csar  msc issued warrants to purchase  shares of msc s common stock at per share for an aggregate exercise price of  the warrants are non transferable  have a five year term and become exercisable two years after the date of issuance 
+the warrants were valued using the black scholes valuation method at approximately  the transaction was a private placement exempt from registration under section of the securities act of during the fourth quarter of  in connection with a marketing arrangement with kubota solid technology corporation  msc issued warrants to purchase  shares of msc s common stock at per share and  shares of msc s common stock at per share for an aggregate exercise price of  the warrants are non transferable  have a five year term and become exercisable two years after the date of issuance 
+the warrants were valued using the black scholes valuation method at approximately  the exercise price was equal to the fair market value of the common stock on the date of purchase 
+the transaction was a private placement involving one offeree and one purchaser exempt from registration under section of the securities act of see note stock options and warrants of notes to consolidated financial statements for additional information with respect to warrants issued by msc 
+item selected financial data the selected financial data for the years ended december     and is derived from msc s audited consolidated financial statements 
+the selected financial data should be read in conjunction with item management s discussion and analysis of financial condition and results of operations  the consolidated financial statements of msc and the related notes to consolidated financial statements 
+years ended december  revenue      operating income loss      net income loss      basic earnings loss per share diluted earnings loss per share cash dividends declared per share total assets      long term debt note payable  less current portion  convertible subordinated debentures  net      subordinated notes payable  net  reflects an in process research and development charge of  related to the acquisition of marc  impairment charges of  in cost of revenue  restructuring charges of  and a gain on sale of equity investment of  reflects a reduction in revenue of  related to the change in how msc recognizes revenue  an in process research and development charge of  related to the acquisition of kr  impairment charges of  in cost of revenue  and restructuring and other impairment charges of  item management s discussion and analysis of financial condition and results of operations recent developments on july   msc 
+software corporation msc changed its name from the macneal schwendler corporation 
+on january   msc changed its fiscal year from a year beginning february and ending january  to a calendar year 
+all financial information for prior periods has been restated to coincide with the new fiscal year 
+therefore  any references to a fiscal year mean the twelve months ended december of that year 
+during  msc acquired the following companies marc analysis research corporation marc  universal analytics inc uai  and computerized structural analysis and research corporation csar 
+in late december  msc acquired knowledge revolution inc kr 
+refer to note business acquisitions and divestitures in notes to consolidated financial statements for additional information with respect to msc s acquisitions 
+accounting changes in the fourth quarter of  the accounting standards executive committee of the american institute of certified public accountants aicpa issued statement of position sop  modification of sop software revenue recognition with respect to certain transactions which retained the restrictive definition of what qualified for vendor specific objective evidence vsoe of fair value for allocating a contract fee among the various elements of an arrangement 
+vsoe must be known for all undelivered elements of an arrangement  such as post sales customer support pcs 
+as permitted  msc adopted the provisions of sop effective october  and  accordingly  revenue on non cancelable and pre paid lease agreements is recognized monthly over the term of the agreement  beginning in the fourth quarter of  since the vsoe of fair value required under sop to allocate the contract fee to the undelivered pcs elements of the arrangements is not available 
+this resulted in a decrease in revenues that otherwise would have been recognized in the fourth quarter of since only a portion of the revenues related to annual lease agreements was recognized 
+the revenue reduction was  compared to the amount of revenue that would have been recognized under sop this revenue was recognized ratably  primarily over the first three quarters of future quarters will also reflect the deferral of revenue associated with non cancelable and pre paid annual lease arrangements entered into in those quarters under sop because sop does not permit restatements of prior periods and because there are annual license renewals in every month of the year  the entire effect of this change in revenue recognition was not fully recognized in reported revenue on a quarterly basis until the fourth quarter of the year will be the first reported year that will reflect a full twelve months of revenue under this method of revenue recognition for annual licenses 
+asset impairment and restructuring msc has consistently followed the policy of capitalizing software development costs related to product development in accordance with the guidelines established under statement of financial accounting standard sfas no 
+ accounting for the costs of computer software to be sold  leased or otherwise marketed 
+capitalized software costs are then amortized over a period of time expected useful life that is estimated to equate to the term during which meaningful revenue from the related product is expected to be recognized 
+previously capitalized product development costs and projected revenues are reviewed quarterly to determine if any impairment in value has occurred that would require an adjustment in the carrying value or change in expected useful lives under the guidelines established in sfas no 
+and sfas no 
+ accounting for the impairment of long lived assets and for long lived assets to be disposed of 
+msc recognizes impairment losses on long lived assets when indicators of impairment are present and the undiscounted cash flows estimated to be generated by those assets are less than the assets carrying amounts 
+accordingly  during the second quarter of  msc recognized non cash pre tax charges of  related to the write off of the net book value of certain previously capitalized software development costs and to provide for the remaining payments due 
+theses costs were deemed impaired because they represented duplicate technologies from those acquired in the marc acquisition 
+during the fourth quarter of  msc recognized non cash pre tax charges of  related to the write off of the net book value of certain previously capitalized software development costs and  of other impairment charges recorded in cost of revenues and a non cash pre tax charge of  recorded as part of restructuring and other impairment charges related to the write off of previously reported goodwill from the acquisition of silverado software consulting silverado 
+refer to note impairment of assets in notes to consolidated financial statements 
+on february   msc announced a new organizational structure following a re evaluation of its business strategy 
+msc is now emphasizing the expansion of the software business into new markets and value added integration services 
+the new structure is designed to better serve the existing customer base and at the same time address expanding growth opportunities 
+the reorganization plan provided for a reduction in msc s worldwide workforce a reduction of approximately positions and the consolidation of field offices 
+these changes resulted in pre tax charges of  in the first two quarters of the charges consist of severance costs of  costs related to facility consolidations of  and other charges of  msc believes these charges provided a reduction in its annual operating costs 
+the restructuring liability at december  represents  of severance charges for certain employee terminations that occurred in december the restructuring and other impairment charges for of  include the  of severance costs and the  of goodwill write off discussed above 
+business acquisitions acquisition of marc analysis research corporation on june   msc acquired all of the outstanding stock of marc  a software developer and supplier whose products include marc a non linear finite element analysis fea program for engineering structural analysis  mentat a graphical user interface for marc  and marc autoforge a simulation program for the bulk forging industry 
+the aggregate fair value of the consideration paid to shareholders and holders of options of marc resulted in a purchase price valued at approximately  including approximately  in cash and a package of securities to the marc shareholders  including  principal amount of subordinated notes due in years  approximately  principal amount of subordinated notes due in two years   principal amount of msc s convertible subordinated debentures due august   and five year warrants to purchase  shares of msc s common stock at an exercise price of per share 
+in allocating the purchase price to the acquired assets and assumed liabilities  msc has recorded a  deferred income tax liability related to identified intangible assets  offset by  for deferred income tax assets  and  for restructuring costs related to the integration of marc  primarily severance costs and costs related to facility consolidations 
+refer to note restructuring reserve 
+the acquisition was accounted for as a purchase and  accordingly  the operating results of marc are included in msc s consolidated financial statements from the date of acquisition 
+the total purchase price was allocated to the assets and liabilities of marc based upon their approximate fair values 
+the independent appraisal of the acquired business included  of purchased in process research and development  which was related to two products under development 
+this valuation represents the ten year after tax cash flow of this in process technology using a discount rate of 
+the acquired technology had not yet reached technological feasibility and had no future alternative uses 
+accordingly  it was written off at the time of the acquisition 
+the remaining purchase price was allocated as follows  to net tangible assets   to identified intangible assets including  of developed technology   to customer list   for trade name recognition  and  of assembled work force  and  to goodwill 
+goodwill and identified intangibles are being amortized over years 
+on the date of its acquisition  marc s technology was classified between core or developed technology and in process research and development 
+three marc products that had been released were grouped under developed technology and two development projects under way were identified as in process research and development 
+the completion of the two development projects was estimated to be and at the time of acquisition 
+the technology assets were valued using a relief from royalty and discounted cash flow approach 
+the concept of the relief from royalty approach is that the value of a technology is the avoided cost of licensing the technology from a third party that the company would otherwise incur if it did not own the technology in question 
+these research and development valuations represent the ten year after tax cash flow of the technology using a discount rate of for developed technology and for in process research and development 
+the discount rate is based upon marc s weighted average cost of capital wacc of 
+this wacc was derived by considering various factors to quantify the risk above a risk free rate of return of approximately 
+the discount rate selected for the in process research and development was determined to be higher due to the relatively higher risk of these cash flows 
+in valuing both the developed technology and in process research and development  the initial focus was on the revenue contribution generated by each of the products 
+revenue estimates were based on the following aggregate revenue growth rates for the business as a whole  individual product revenues  growth rates for related products  anticipated product development and introduction schedules  product sales cycles  and the estimated useful life of a product s underlying technology 
+the aggregate product revenue amounts were estimated and segregated between the developed technology and each in process research and development project 
+in valuing the developed technology  an after tax royalty rate of was combined with a after tax royalty rate attributable to the in process technology to arrive at the free cash flow of the developed technology 
+this cash flow was then discounted to determine the value of the developed technology at the acquisition date 
+in valuing the in process technology  an after tax royalty rate of was applied to the revenues associated with the technology and the resulting avoided royalty payments were discounted to determine the value of the technology 
+percentage of completion factors  based on historical and planned future development expenditures  were applied to the unadjusted projected cash flows of the in process technologies 
+management believes that msc is positioned to continue development of these marc products  integrate these and other marc products with existing msc products and expand msc s market share in the non linear market 
+however  there is risk associated with the completion  marketing and integration of these marc products into msc 
+there is no assurance that the in process technology will meet with either technological or commercial success 
+the substantial or outright failure of this integration could adversely impact msc s financial condition 
+acquisition of universal analytics inc 
+on june   msc acquired uai for approximately  in cash 
+uai is a developer and distributor of fea software and engineering services for the engineering community and to major manufacturers worldwide 
+the acquisition was accounted for as a purchase and  accordingly  the operating results of uai are included in msc s consolidated financial statements from the date of acquisition 
+the excess of the aggregate purchase price over the fair market value of net assets acquired was approximately  goodwill and identified intangibles are being amortized over ten years 
+the pro forma effect of the uai acquisition as if it had occurred on january  or is immaterial to the consolidated financial statements presented herein 
+acquisition of computerized structural analysis and research corporation on november   msc acquired csar for approximately  in cash and five year warrants to purchase  shares of msc s common stock at an exercise price of per share 
+msc financed a portion of the purchase price through a  term loan 
+refer to note financial instruments of notes to consolidated financial statements 
+csar is a developer and distributor of fea software and services for the engineering community and to major manufacturers worldwide 
+the acquisition has been accounted for as a purchase and  accordingly  the operating results of csar have been included in msc s consolidated financial statements since the date of acquisition 
+the excess of the aggregate purchase price over the fair market value of net assets acquired was approximately  goodwill and identified intangibles are being amortized over five years 
+the pro forma effect of the csar acquisition as if it had occurred on january  or is immaterial to the consolidated financial statements presented herein 
+acquisition of knowledge revolution inc 
+in late december  msc acquired kr for approximately  in cash 
+kr is the world s leading developer and distributor of d and d motion simulation software for design engineers and analysts 
+the acquisition was accounted for as a purchase 
+the total purchase price was allocated to the assets and liabilities of kr based on their approximate fair market value 
+the appraisal of the acquired business included  of purchased in process research and development  which was related to three products under development 
+this valuation represents the five year after tax cash flow of this in process technology using a discount rate of 
+the acquired technology had not yet reached technological feasibility and had no future alternative uses 
+accordingly  it was written off at the time of the acquisition 
+the remaining purchase price was allocated as follows  to net tangible assets   to identified intangible assets including  of value added reseller distribution channel   of developed technology  and  of assembled work force  and  to goodwill 
+goodwill and identified intangibles are being amortized over three to ten years 
+on the date of its acquisition  kr s technology was classified between core or developed technology and in process research and development 
+four kr products  one released and the others under development  were identified and their reliance on the developed technology and in process research and development was determined 
+the reliance on in process research and development ranged from to on these products 
+in process research and development was further segmented into classifications of completed and to be completed based on three criteria the estimated time required to complete the development  the estimated cost to complete  and the complexity involved in overcoming technological obstacles that must be resolved during development 
+the completion of development at the time of acquisition ranged from to 
+the in process technology was incorporated in msc s working model motion product that was released in the second quarter of these research and development valuations represent the five year after tax cash flow of this technology using a discount rate of for developed technology and for in process research and development 
+the discount rate is based upon kr s wacc of 
+this wacc was derived by considering various factors to quantify the risk above a risk free rate of return of approximately 
+the discount rate selected for the in process research and development was determined to be significantly higher than the wacc due to the fact that the technology had not yet reached technological feasibility as of the date of acquisition 
+in valuing kr s developed technology and in process research and development  the initial focus was on the revenue contribution generated by each of the products 
+revenue estimates were made using the same principles as we used with respect to marc 
+the aggregate product revenue amounts were estimated and segregated between the developed technology and in process research and development 
+operating expenses were deducted from the revenue estimates to arrive at operating income 
+operating expenses included cost of revenue  selling and marketing  and general and administrative expenses but no non cash charges such as depreciation and amortization 
+certain adjustments were made to operating income to derive the after tax cash flow 
+these adjustments included the calculation of an applicable tax expense and an appropriate charge for the use of contributory assets necessary to generate revenue and operating income associated with the subject intangible assets 
+results of operations compared to net income loss consolidated net income was  or per diluted share  in compared to a net loss of  or per diluted share  in revenue msc reported revenue of  in compared to revenue of  in  an increase of  or 
+the increase in reported revenue from to was primarily due to msc s acquisitions at the end of and during  as well as a favorable impact from the adoption of sop  beginning october  the acquisitions of kr  marc  uai and csar accounted for an increase in revenues of  or  during the period 
+these acquisitions were all accounted for under the purchase method of accounting  so there was  of kr revenue in the same period of the prior year 
+as permitted  msc adopted the provisions of sop effective october  and  accordingly  revenue on non cancelable  pre paid annual lease agreements is recognized monthly over the term of the agreement  beginning in the fourth quarter of  as compared to only deferring the fee related to maintenance for licenses sold before october  software license revenue and maintenance fees account for and of total reported revenue for and  respectively  with service revenue making up the difference 
+for and  approximately and  respectively  of msc s software license revenue and maintenance fees is derived from annual renewable leases and recurring maintenance fees  with the remaining and  respectively  related to paid up licenses 
+due to the adoption of sop  it is difficult to make comparisons of revenues between and for comparative purposes  msc estimates that total revenue for the year ended december  would have been  lower than the reported revenues if sop had been adopted beginning on october  this would have resulted in a growth rate in in total revenues 
+an additional  of revenue increases were due to those revenues which are unaffected by the adoption of sop paid up license revenue  which increased  embedded technology license revenue  which decreased  consulting services revenue  which increased  and other software services revenue  which decreased  revenues for from the acquired companies include paid up license revenue of  software license revenue consists of licensing fees  which are fees charged for the right to use msc s or a third parties software 
+software is sold through monthly  annual or longer lease arrangements and through paid up license arrangements  whereby the customer purchases a perpetual license for the use of msc s software 
+maintenance and services revenues include pcs  consulting and training services 
+pcs includes telephone support  bug fixes and upgrade privileges on a when and if available basis 
+services range from installation and basic consulting to software modification and customization to meet specific customer needs and training 
+the following table illustrates revenue by geographic region and the related growth rates between and in functional currencies as reported utilizing the current revenue recognition policy adopted on october  for and estimated for the year ended december  as if the policy had been adopted on october  growth rate year ended december  vs 
+year ended year ended december  december  if sop had been adopted of total on revenue as reported october  the americas europe asia pacific total the increase in reported revenues for all regions was due to increases from core business revenue and from the acquisitions of kr and marc in december and june  respectively 
+the acquisitions of kr  marc  uai and csar accounted for increases in revenue in asia pacific of  or  in the americas of  or  and in europe of  or 
+msc estimates that the  decline in reported revenues had sop been adopted beginning on october  would have had unfavorable impacts in europe of  or  and in asia pacific of  or  partially offset by a favorable impact in the americas of  or 
+revenue growth in was also impacted from favorable foreign currency translation rates for the japanese yen 
+revenue in the current year would have been approximately  if translated using the prior year s foreign currency translation rates 
+msc s international operations in europe and asia pacific are sales organizations with high gross profit margins  which is due to these operations having minimal software development expenses 
+as a result  msc is exposed to the effects of foreign currency fluctuations of the united states dollar versus the japanese yen and the german deutsche mark 
+the following table details the effect of the currency rate changes on revenue for and the risk of change in the trend exchange rate was determined by prorating the rate change between and and is used to illustrate the sensitivity to foreign currency fluctuations 
+the trend rate is for illustration purposes only and may or may not reflect the actual translation rate in the future period 
+using using using trend exchange rates exchange rates exchange rates revenues the americas    europe    asia pacific    total revenue    exchange rates dm yen includes revenue denominated in united states dollars of  operating expenses operating expenses were  for compared to  for the prior year  an increase of  or 
+operating expenses for include a restructuring charge of  a write off of acquired in process technology of  and a software impairment charge of  operating expenses for include a write off of acquired in process technology of  a software impairment charge of  and restructuring and other impairment charges of  without these charges in and  operating expenses would have totaled  for  an increase of  or  from the  for this increase includes  of additional operating expenses resulting from the companies acquired 
+in accordance with sfas no 
+ accounting for the costs of computer software to be sold  leased  or otherwise marketed  cost of revenue expense includes period expenses directly related to revenue as well as the amortization of capitalized software costs 
+research and development expense is reported net of the amount capitalized 
+cost of revenue cost of revenue was  or of total revenues  for  a decrease of  or  as compared to cost of revenue of  or of total revenues  for the prior year 
+cost of revenue for and includes software amortization of  and  and software impairment charges of  and  respectively under cost of revenue software licenses cos lic 
+amortization of capitalized software costs decreased  or primarily as a result of the impairment costs recorded in cost of revenue  excluding amortization of capitalized software costs and software impairment charges  was  or of total revenues for compared to  or of total revenues for the prior year  an increase of  or 
+this increase was primarily due to a  increase in the cost of technical support services due to a change in staffing mix between sales and support resources under cost of revenue software maintenance and services cos ms  a  increase in software licensing costs under cos lic  a  increase in packaging costs under cos ms  a  decrease in cost sharing reimbursements under cos ms  a  increase in third party commissions under cos lic  and an increase of  in other costs  offset by a  decrease in royalty expense under cos lic 
+royalty expense is paid to third parties under various agreements 
+msc does not consider any royalty expense related to individual agreements to be material 
+royalty expense is expected to decline through april with the replacement of a third party product by marc products 
+gross profit gross profit  which is total revenue less cost of revenue  was  or of total revenues  for  an increase of  or  as compared to a gross profit of  or of total revenues  for this increase was due to the marc and kr acquisitions  plus the favorable impact of the change in revenue recognition method  and due to the decrease in cost of revenues  primarily as a result of  of impairment costs recorded in research and development research and development expense for was  compared to  for  an increase of  or 
+the increase is due to a  increase in the total gross investment in research and development activities and a decrease of  in the amount of research and development expenditures capitalized under sfas no 
+the total gross investment in research and development activities for was  or of total revenue  compared to  or of total revenue  for the prior year 
+this increase resulted primarily from an additional  of development costs from the acquisitions of kr  marc  uai and csar 
+capitalized software development costs were  for compared to  for the prior year  a decrease of  or 
+the amount of product development capitalized in any given period is a function of many factors  including the number of products under development at any point in time as well as their stage of development 
+msc s product development process is continually under review to improve efficiency and product quality  and to reduce time to market 
+due to the continual change in the product development process  there can be no assurance that the level of development capitalized in future periods will be comparable to current capitalized levels 
+selling  general and administrative selling  general and administrative expense was  for compared to  for  an increase of  or 
+this increase includes an additional  resulting from the acquisitions of kr and marc 
+the remaining decrease of  was primarily due to a decrease of  in bad debt expense as a result of the reversal of prior year provisions due to collections of older receivable balances primarily in the fourth quarter of  a decrease of  as a result of the reallocation of sales resources to support maintenance and consulting activities from the recent reorganization  offset by an increase of  as a result of s gain from the termination of the post retirement health care plan  and  of other increases 
+amortization of goodwill and other intangibles amortization of goodwill and other intangibles was  for compared to  for  an increase of  the increase was due to the acquisitions of kr  marc  uai and csar 
+the amount of amortization of goodwill and other intangibles in is expected to be approximately  excluding the impact of any new acquisitions subsequent to december  as with revenue  msc s expenses are impacted by foreign currency fluctuations 
+the following table details the effect of the currency rate changes on operating expense for and the risk of change in the trend exchange rate was determined by prorating the rate change between and and is used to illustrate the risk of foreign currency fluctuations 
+the trend rate is for illustration purposes only and may or may not reflect the actual translation rate in the future period 
+using using using trend exchange rates exchange rates exchange rates operating expense the americas    europe    asia pacific    total operating expense    exchange rates dm yen operating income loss operating income was  for compared to an operating loss of  for  an increase of  operating income loss for the years ended december  and includes the effects of msc s adoption of sop in the fourth quarter of  write offs of acquired in process technology  software impairment charges  and restructuring and other impairment charges  in addition to ongoing operating costs necessary for the operation of the business 
+the operating loss for also includes a  gain from the termination of the post retirement health care plan and a  charge for minimum royalty payments on the impaired software 
+without the effects of these items  and had msc adopted sop in the fourth quarter of with respect to the results  msc estimates operating income would have been  and  for and  respectively  an increase of  as shown in the following table years ended december  operating income loss as reported   adjustments revenue change  net of cost of revenue  restructuring and other impairment charges   write off of acquired in process technology   impairment of capitalized software costs   gain on termination of post retirement health care plan  accrued liabilities for impaired software  total adjustments   operating income as adjusted   total other expense income total other expense income was income of  for compared to expense of  for  an increase of  this increase includes a  gain from the sale of msc s equity investment in lms international 
+excluding this gain  total other expense income was expense of  for  an increase of  compared to the prior year 
+the increase in expense was due to an increase in interest expense  a decrease in investment income offset by a decrease in currency losses 
+interest expense was  for compared to  for the prior year  an increase of  or 
+the increase in interest expense is primarily attributable to increased debt levels as a result of acquisitions 
+interest expense reflects the interest on the convertible subordinated debentures issued as part of the acquisitions of pda engineering in and marc in june  as well as interest on the subordinated notes payable issued as part of the acquisition of marc and interest on the note payable taken out as part of the csar acquisition in november for financial statement purposes  the convertible subordinated debentures and subordinated notes payable were issued with a discount 
+such discount is amortized over the terms of the convertible subordinated debentures and subordinated notes payable and treated as additional interest expense 
+as a result  reported interest will be higher than the cash amount of interest that will actually be paid to the holders of the convertible subordinated debentures and subordinated notes payable 
+other expense income was income of  for compared to income of  for  an increase of  the increase is primarily attributable to a  decrease in foreign currency exchange losses  offset by a  decrease in interest and investment income 
+other expense income also includes gains and losses on property and equipment and other non operating income or expense 
+msc anticipates that interest and investment income will continue to decrease throughout from the and early levels as a result of the decrease in its cash balances following the acquisitions of kr  marc  uai and csar 
+provision benefit for income taxes the effective tax rate for was a provision of compared to a benefit of in the same period of the prior year 
+the rate in was higher than historical rates before due primarily to certain non deductible charges from msc s acquisitions during  including goodwill and acquired in process technology 
+refer to note taxes based on income in notes to consolidated financial statements 
+compared to net income loss consolidated net loss was  or per diluted share  in compared to net income of  or per diluted share  in revenue msc reported revenue of  in  compared to revenue of  in  a decrease of  or 
+revenue growth in was adversely affected by the change in msc s revenue recognition policy effective october  and the strength of the united states dollar compared to foreign currencies in which it operates 
+revenue in the current year would have been approximately  if translated using prior year foreign currency translation rates 
+revenue would have been  if recorded under previous revenue recognition policies  because the adoption of sop in the fourth quarter of deferred  into subsequent periods or  if valued using prior year foreign currency translation rates 
+software license revenue and maintenance fees account for of total reported revenue for the year ended december  and for the year ended december   with service revenue making up the difference 
+the following table illustrates revenue by geographic region and the related growth rates in functional currencies functional currency growth rate of total with without revenue revenue change revenue change the americas europe asia pacific the increase in reported revenues in europe resulted from higher volumes of software licenses and related maintenance revenue 
+the decrease in reported revenues from our asia pacific region is due primarily to the continued economic turmoil the region experienced during the past year and is not an indication of a reduction in it s market share from the region 
+of it s total revenue for is directly related to the japanese market  while is from the asia pacific region outside of japan 
+in light of the continued economic turmoil in the region  msc remains cautious about its asia pacific prospects 
+of the and of it s revenues in and  respectively  that consisted of software license and maintenance revenue  approximately in and in of this revenue is derived from annual renewable leases and recurring maintenance fees with the remaining in and in related to paid up licenses 
+msc is exposed to the impact of foreign currency fluctuations 
+the following table details the effect of the currency rate changes on revenue for and the risk of change in the trend exchange rate was determined by prorating the rate change between and and is used to illustrate the sensitivity to foreign currency fluctuations 
+the trend rate is for illustration purposes only and may or may not reflect the actual translation rate in the future period 
+cy cy cy using using using trend exchange rates exchange rates exchange rates revenues the americas    europe    asia pacific    total revenue    exchange rates dm yen operating expenses operating expenses of  in includes both restructuring and impairment costs in addition to ongoing operating costs necessary for the operation of the business  and represents an increase of  or  from the  reported in operating expenses included restructuring and impairment costs and other unusual items consisting of a  non cash charge included in cost of revenues  a  in process research and development charge  restructuring and other impairment costs of  and a gain from the reversal of a  of post retirement health care liability resulting from the termination of the post retirement health care plan 
+without these charges and the gain  operating expenses totaled  in  an increase of  or  from the  reported in this increase was primarily attributable to a  increase in cost of revenue exclusive of the  reclassification of post sales customer support expense  a  increase in research and development cost including a  increase in the gross research and development investment and a  decrease in capitalized software costs  offset by a  decrease in selling  general and administrative expenses exclusive of the  reclassification of post sales customer support expense and the gain from the reversal of  of post retirement health care liability 
+cost of revenue cost of revenue of  in includes impairment costs in addition to ongoing operating costs necessary for the operation of the business 
+cost of revenue as a percent of revenue was and for and  respectively  or and exclusive of the impairment charges 
+impairment costs included a charge of  against capitalized software and  of other non cash impairment charges 
+capitalized software amortization decreased slightly to  in from  in the prior year 
+cost of revenues  excluding these impairment charges  was  for compared to  for  an increase of  or 
+this increase resulted from a  reclassification of post sales customer support expense from sales and marketing in  and a  increase in labor and related costs 
+during  msc reclassified  of sales and marketing expense to cost of revenue for post sales customer support costs 
+the increase in labor and related costs were related to increases in staffing and the utilization of development and sales resources to support maintenance and consulting activities 
+royalty expense is also included in cost of revenue and paid to third parties under various agreements 
+msc does not consider any royalty expense related to individual agreements to be material 
+gross profit gross profit  which is revenue less cost of revenue  was negatively impacted by msc s change in its revenue recognition policy and the increase in its costs of revenue noted above 
+gross profit was  or  of revenues for the year ended december   as compared to  or  of revenues for the year ended december   representing a decrease of  research and development research and development expense for the year ended december  was  compared to  for the year ended december   representing an increase of  or 
+the increase is the result of an increase of  in the total gross investment in research and development activities and a decrease of  in the amount of research and development expenditures capitalized under sfas the total gross investment in research and development activities for the year ended december  amounted to  or  of revenue for the year ended december  compared to  or  of revenue in the prior year 
+the total increase in the gross research and development investment was  or 
+this increase resulted primarily from changes within msc s product management staffing and staff mix related to a strategic revision in product development activity 
+this shift in strategy de emphasizes features upgrades for specific products and promotes the development of technologies and integrated software solutions for targeted customers 
+msc s total development cost before software capitalization was of revenue for  which remains consistent with management s target of of total annual revenues 
+capitalized software development costs were  in compared to  in  a decrease of  or 
+the amount of product development capitalized in any given period is a function of many factors including the number of products under development at any point in time as well as their stage of development 
+msc s product development process is continually under review to improve efficiency  product quality  and reduce time to market 
+due to the continual change in the product development process  there can be no assurance that the level of development capitalized in future periods will be comparable to current capitalized levels 
+selling  general and administrative selling  general  and administrative expense was  in compared to  in  a decrease of 
+the  decrease was primarily due to  of post sales customer support costs included in cost of revenue  and a reduction of post retirement health care expense of  and a gain from the reversal of  of post retirement health care liability resulting from the termination of the post retirement health care plan 
+as with revenue  msc s expenses are impacted by foreign currency fluctuations 
+the following table details the effect of the currency rate changes on operating expense for and the risk of change in the trend exchange rate was determined by prorating the rate change between and and is used to illustrate the risk of foreign currency fluctuations 
+the trend rate is for illustration purposes only and may or may not reflect the actual translation rate in the future period 
+cy cy cy using using using trend exchange rates exchange rates exchange rates operating expense the americas    europe    asia pacific    total operating expense    exchange rates dm yen operating income loss operating income or loss  including software capitalization and amortization  restructuring costs and impairment charges  was a loss of  in compared to income of  in the  decrease in operating income is primarily attributable to the decrease in gross margin of  an increase in research and development expense of  offset by a decrease in selling  general and administrative expense of  the operating loss includes both effects of msc s adoption of sop in the fourth quarter of that deferred  of revenue into subsequent periods and restructuring and impairment charges in addition to on going operating costs necessary for the operation of the business 
+restructuring and other impairment charges included a  non cash charge included in cost of revenues  a  in process research and development charge  restructuring and other impairment charges of  and a gain from the reversal of a  post retirement health care liability resulting from the termination of the post retirement health care plan 
+without the effect of adoption of sop  these charges and the gain  operating income  including software capitalization and amortization  would have been  in compared to  in  a decrease of  as shown in the following table years ended december  operating income loss as reported   adjustments revenue change  net of cost of revenue  restructuring and other impairment charges  write off of acquired in process technology  impairment of capitalized software costs  gain on termination of post retirement health care plan  accrued liabilities for impaired software  total adjustments  operating income as adjusted   interest expense reflects the interest on the convertible subordinated debentures issued as part of the acquisition of pda engineering in interest payments are due on march and september of each year until the debentures are converted or redeemed 
+other income other income was  in compared to income of  in the fluctuation is primarily attributable to an increase in interest and investment income from  in to  in  a change in foreign exchange gains and losses from a loss of  in to a gain of  in  and a  decrease in gains and losses on the sale of property and equipment 
+provision benefit for income taxes the effective tax rate for the year was a benefit of compared to a provision of in the expected benefit in was reduced due to foreign losses not benefited and certain non deductible charges related to the write off of the silverado goodwill and acquired in process technology of kr 
+company trends reorganization on february   msc announced a new organizational structure following a re evaluation of its business strategy 
+msc will now emphasize the expansion of the software business into new markets and value added integration services 
+the new structure is designed to better serve the existing customer base and at the same time address expanding growth opportunities 
+msc believes that these changes to its organizational structure allow it to continue its leadership in the high end market and deliver tools and expertise to the mid range and desktop markets 
+msc is concentrating on becoming more internet focused by continuing to make its products web enabled and through the launch of a new division and web portal  engineering e 
+com 
+this division leverages the core strengths  competencies and infrastructure of msc to create the engineers marketplace on the web 
+msc 
+visualnastran in march  msc announced the creation of msc 
+visualnastran  which will be the overall name for all of it s software 
+the new name will serve several functions it will leverage the nastran name  it will unify msc s current set of software into one integrated  scalable family of software to address simulation needs in several markets  it will finalize the integration of the working knowledge and marc software products into msc s product line  and it will provide a framework for the future direction of our software products 
+we anticipate several benefits from this a logical structure that shows where all of its software fits and how they interrelate in function  intended market  and pricing  removing the confusion that currently exists when discussing our products  leveraging promotional efforts for all software from all divisions  and msc will be able to define a pricing structure that allows customers to move easily between our product families and find the right price functionality point 
+there are four product families within msc 
+visualnastran visualnastran enterprise software for dedicated analysts at major manufacturers to simulate a wide variety of mechanical conditions 
+this family will include mechanical solutions core products nastran  patran  marc  dytran  mvision  and fatigue as well as the automotive and aerospace vertical applications 
+this software will link to other enterprise software such as cad  pdm  test software  and other cae software 
+visualnastran professional software for multi disciplinary engineers at large or small companies that perform simulation on occasion  though this is not their primary task 
+this family will include our new ultima product  msc 
+nastran for windows  and new integrated products whose functionality and ease of use will be targeted to these engineers 
+visualnastran desktop software for design engineers at large or small companies who need to verify design concepts 
+this family will include the current working knowledge products and others to be defined 
+e 
+visualnastran software from the other three families that runs across the web in an internet asp application services provider model that is similar to data centers 
+the msc 
+visualnastran framework provides a structure for positioning all of our software  current and future 
+there will be some overlap in capabilities and price  and other families may be defined later 
+operating pattern the change in year end to december and the adoption of sop in the fourth quarter of both had a significant effect on the operating pattern of msc 
+the month of january has historically been the largest revenue month of the year with the highest volume of renewals 
+having this month as the first accounting period versus the last accounting period allows management to better forecast the annual results 
+under sop  msc is recognizing software lease revenue on a monthly basis over the term of the licenses 
+this change has reduced the volatility of its revenue stream between interim accounting periods 
+in addition  because the sop does not permit restatements of prior periods and because there are annual license renewals in every month of the year  the entire effect of this change in revenue recognition was not recognized in reported revenue on a quarterly basis until the fourth quarter of the year will be the first reported year that will reflect a full twelve months of revenue under this method of revenue recognition for annual licenses 
+msc anticipates that revenue for will also be affected by having a full year of operations of marc and uai  which were acquired in june  and csar  which was acquired in november effective january   msc changed the estimated useful life of its capitalized software assets from three and four years to two and three years 
+msc has always estimated the expected life of these assets based on the release cycle of its products 
+msc believes that as software production cycles decrease  amortization periods should also decrease in order to coincide with a version s revenue stream 
+msc made this change prospectively 
+due to the continual change in the product development process  there can be no assurance that the level of development capitalized in future periods will be comparable to current capitalized levels 
+therefore  the effect of this change is not determinable 
+liquidity and capital resources working capital needed to finance msc s growth in the past has been provided by cash on hand  the sale of its marketable securities and cash flow from operations 
+management believes that cash generated from operations and the unused portion of its line of credit will continue to provide sufficient capital for normal working capital needs in the foreseeable future 
+net cash provided by operating activities was  and  for the years ended december  and  respectively 
+at december   msc s working capital was  compared to  at december  during  cash outlays were made of  in conjunction with the  of restructuring charges and acquisition costs recorded in and the remaining cash outlays are anticipated to be completed by the end of  excluding certain lease commitments that may continue into the year during  msc expended approximately  of cash in connection with the acquisitions of marc  uai and csar 
+in late december  msc expended  of cash in connection with the acquisition of kr and silverado 
+these acquisitions adversely affected msc s working capital position and cash reserves  and lowered its investment income 
+msc does not expect to have significant amounts of investment income in the near future 
+as of december   msc had a balance outstanding on a line of credit with its previous principal bank of  in may  this amount was repaid 
+on august   msc entered into a new loan and security agreement loan agreement with its new principal bank the bank 
+on october   msc and the bank amended the terms of the loan agreement 
+the credit facility now includes a  revolving line of credit and an  term loan 
+the amount of the line of credit available in excess of  is subject to a defined borrowing base of outstanding trade receivables 
+as of december   the amount available under the line of credit  based on the defined borrowing base  was approximately  the term of the revolving portion of the loan agreement expires may  as of december   there was no balance outstanding on the line of credit and there were no borrowings from the line of credit during on november   msc borrowed  at the bank s prime rate in connection with the acquisition of csar 
+the term of the loan is two years and requires monthly principal payments of  as of december   the balance on the loan was  all borrowings under the loan agreement carry an interest rate equal to the bank s prime lending rate or libor plus basis points 
+borrowings under the loan agreement are secured by nearly all of company s goods and equipment  inventory  contract rights  and intellectual property rights 
+borrowings also involve certain restrictive covenants  including restrictions on dividends and investments 
+as of december   msc is in compliance with all covenants 
+refer to note financial instruments 
+msc issued  of convertible subordinated debentures in connection with the acquisition of pda engineering in an additional  principal amount of convertible subordinated debentures was issued  at a discount  in june in connection with the marc acquisition 
+refer to note business acquisitions and divestitures 
+the debentures bear interest at with interest payments due semi annually on march and september the conversion feature permits the holder to convert the debentures into shares of msc s common stock at a conversion price of per share 
+the debentures mature august   but are redeemable at msc s option at any time after august  upon payment of a premium 
+at december   the balance of the convertible subordinated debentures  excluding unamortized discount of  was  management expects to continue to invest a substantial portion of msc s revenues in the development of new computer software technologies and products and the enhancement of certain existing products 
+during and  msc expended a total of  and  respectively  on development efforts  of which  and  respectively  were capitalized 
+product development costs and the capitalization rate may vary depending  in part  on the number of products and the stage of development of the products in process 
+during and  msc acquired  and  respectively  of new property and equipment 
+capital expenditures included upgrades in computer equipment in order to keep current with technological advances and upgrades of facilities worldwide 
+msc s capital expenditures vary from year to year  as required by business needs 
+msc intends to continue to expand the capabilities of its computer equipment used in the development and support of its proprietary software products 
+management expects expenditures for property and equipment in and to be consistent with those for in  msc s board of directors authorized the repurchase of common stock in the open market for up to a total aggregate amount of  msc repurchased and retired approximately  of common stock in before this authorization was rescinded 
+in june  the principal shareholders of lms international lms exercised a repurchase option for an equity position that msc had held in lms 
+msc realized a pre tax gain of  lms is a privately held company based in leuven  belgium 
+msc does not plan to pay dividends in the foreseeable future 
+in addition  msc s loan agreement with its principal bank contains restrictions on the payment of dividends 
+impact of year in prior years  msc discussed the nature and progress of its plans to become year ready 
+in late  msc completed its remediation and testing of systems 
+as a result of those planning and implementation efforts  msc experienced no significant disruptions in mission critical information technology and non information technology systems and believes those systems successfully responded to the year date change 
+the amount of money msc expended in in connection with remediating its systems was not material 
+msc is not aware of any material problems resulting from year issues  either with its products  its internal systems  or the products and services of third parties 
+msc will continue to monitor its mission critical computer applications and those of its suppliers and vendors throughout the year to ensure that any latent year matters that may arise are addressed promptly 
+euro conversion on january   eleven of the fifteen member countries of the european union the participating countries established fixed conversion rates between their existing sovereign currencies the legacy currencies and the euro currency  adopting the euro as their common legal currency on that date 
+the legacy currencies are scheduled to remain legal tender in the participating countries as denominations of the euro between january  and january  during this transition period  public and private parties may pay for goods and services using either the euro or the participating country s legacy currency on a no compulsion  no prohibition basis whereby recipients must accept euros or the legacy currency as offered by the payer 
+a currency translation process known as triangulation dictates how legacy currencies are converted to the euro and other legacy currencies 
+beginning january   the participating countries will issue new euro denominated bills and coins and replace the legacy currencies as legal tender in cash transactions by july  because msc conducts a significant portion of its business in europe through its wholly owned german subsidiary  its business and operations will be affected by the euro conversion 
+management is addressing the euro conversion  but its impact on future operating results is uncertain 
+management expects the conversion to decrease pressure for pricing in legacy currencies in the participating countries 
+however  it also does business in many non participating countries  including the united kingdom 
+this could lead to an increase in cross border competition  which could affect its allocation of resources within europe  and eventually msc s labor cost 
+msc is implementing an upgrade to its management information system which includes the ability to simultaneously record transactions in euros  perform the prescribed currency conversion computations and convert legacy currency amounts to euro 
+the impact of the conversion on msc s currency risk and taxable income is not expected to be significant 
+in regard to contracts denominated in legacy currencies  management has not identified any third party or customer contracts whose performance might be considered unenforceable due to a currency substitution 
+software lease and maintenance contracts are typically renewed on an annual basis 
+inflation inflation in recent years has not had a significant effect on msc s business 
+item a quantitative and qualitative disclosures about market risk msc is exposed to the impact of foreign currency fluctuations and interest rate changes 
+foreign currency risk international revenues are of msc s total revenues 
+international sales are made mostly from msc s two foreign sales subsidiaries in germany and japan and are typically denominated in the local currency of each country 
+these subsidiaries also incur most of their expenses in the local currency 
+accordingly  all foreign subsidiaries use the local currency as their functional currency 
+msc s international business is subject to risks typical of an international business  including  but not limited to  differing economic conditions  changes in political climate  differing tax structures  other regulations and restrictions  and foreign exchange rate volatility 
+accordingly  msc s future results could be materially adversely impacted by changes in these or other factors 
+msc s exposure to foreign exchange rate fluctuations arises in part from intercompany accounts in which cash from sales of it s foreign subsidiaries costs are transferred back to the united states 
+these intercompany accounts are typically denominated in the functional currency of the foreign subsidiary in order to centralize foreign exchange risk with the parent company in the united states 
+msc is also exposed to foreign exchange rate fluctuations as the financial results of foreign subsidiaries are translated into united states dollars in consolidation 
+as exchange rates vary  these results  when translated  may vary from expectations and adversely impact overall expected profitability 
+the effect of foreign exchange rate fluctuations on msc in was not significant 
+msc may enter into forward exchange contracts to hedge certain anticipated repayments of its intercompany debt with its foreign subsidiaries 
+the forward exchange contracts do not qualify as a hedge for financial reporting purposes and  accordingly  unrealized gains or losses  based on the current forward foreign exchange rates  are reflected directly in income 
+at december   msc had no such forward exchange contracts 
+at december   msc had two forward exchange contracts maturing in january and february to exchange a total of  german marks for united states dollars in the amount of approximately  the unrealized gains were immaterial at december  interest rate risk msc s exposure to market rate risks for changes in interest rates relate to any borrowings under its line of credit 
+refer to note financial instruments of notes to consolidated financial statements 
+msc has not used derivative financial instruments in its investment portfolio 
+msc invests its excess cash primarily in debt instruments of us municipalities and other high quality issuers and  by policy  limits the amount of credit exposure to any one issuer 
+msc protects and preserves its invested funds by limiting default  market and reinvestment risk 
+the following table is a summary of available for sale securities december  december  fair fair market rate of market rate of value return value return municipal securities  equity securities  other debt securities  in  msc sold its securities and used the proceeds to help pay for the acquisitions of marc  uai and csar 
+

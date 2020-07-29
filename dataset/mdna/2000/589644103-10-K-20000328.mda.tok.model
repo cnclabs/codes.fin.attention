@@ -1,0 +1,171 @@
+item management s discussion and analysis of financial condition and results of operations overview net income declined in  in spite of an increase in revenues 
+the primary factor behind the decrease in earnings was an increase in the loss ratios for several lines of business 
+while net investment income and realized gains on the sales of investments declined somewhat during  total revenues increased by percent  driven by a percent increase in premiums earned 
+earned premiums are expected to continue to increase in  given the trend in net written premiums  which increased over percent in  compared with one of the company s growing lines of business is non standard automobile coverage 
+the company began selling this product in during the pool of meridian companies wrote approximately million in non standard auto premium 
+continued growth is expected in non standard automobile insurance covers drivers with no prior insurance or with driving records that do not qualify them for standard or preferred premium rates 
+non standard policies are generally sold at higher premiums to offset increased risk of loss 
+the non standard auto policies are marketed through the company s independent agency force  select non standard specialty agents  and directly via the internet in certain states in which the company does not sell personal lines through independent agents 
+another source of premium growth is the company s relationship with groupadvantage 
+this sales arrangement makes meridian s personal lines products available through franchised independent agencies to sam s club members in certain states 
+in late  the company began writing business in michigan and illinois through this distribution channel 
+during  this arrangement was expanded to include missouri  ohio  and pennsylvania  with kansas and wisconsin added in early groupadvantage is a registered serviced mark of consumer insurance services of america cisa and is used under license from cisa 
+late in  the company entered into a marketing arrangement with insweb  a leading internet insurance marketplace  to quote personal automobile products on the internet 
+meridian is initially quoting policies for consumers in virginia  with washington and missouri expected soon 
+in addition  during meridian added a direct website  www 
+meridiandirect 
+com  through which consumers are able to apply for meridianr insurance products  receive quotations and purchase products in certain states in which the company does not sell personal lines through independent agents 
+the implementation of new distribution methods does not detract from the company s strong support of the independent agency system 
+marketing products through independent agents has been and continues to be the company s primary source of distribution 
+the company continues to build these relationships and has a growing group of nearly  independent agents 
+the company has been steadily expanding its operations into new states 
+at the end of  meridian operated in seven states  entirely in the midwest 
+the company has significantly increased its geographic diversification in recent years and is currently licensed in states 
+additional state expansion  including florida  oregon  utah  and washington dc  is planned for in addition to growth initiatives  the company is working to increase profitability through consistent exercise of underwriting discipline  proper pricing  sound investment management  enhanced customer service and cost control 
+during the company continued its expense consolidation efforts 
+the meridian citizens personal and commercial lines processing was successfully integrated into the company s indianapolis headquarters and the red wing  minnesota office was closed 
+these actions are expected to save approximately million of costs annually  beginning in forward looking statements statements in this annual report that are not strictly historical may be forward looking statements which involve risks and uncertainties 
+the company s future results could differ materially from those discussed 
+risk factors include variation in catastrophe losses due to changes in weather patterns or other natural causes  changes in property and casualty reserves  developments in insurance regulations or legislation that may affect the company  technological difficulties and advancements  general economic conditions  fluctuations in interest rates or securities markets  or market and competitive changes affecting pricing or demand for insurance products or the ability to generate investment income 
+growth and profitability have been and may be affected by these and other factors 
+year disclosures as we approached the end of the century  there was a significant concern that many information technology products would not recognize the year businesses were at risk for possible calculation errors or system failures which could cause a disruption in their operations 
+this became commonly known as the year yk issue 
+in  meridian began the initial planning phase to ensure that all systems were yk compliant 
+as a result of this planning  it was determined that meridian would utilize internal resources to complete the necessary remediation 
+this would allow meridian to contain costs and maintain control as well as provide consistency in system applications 
+as a result of this decision  a team of programmers was hired under the direction of experienced internal management to address the issue 
+it was determined that the meridian citizens project team would operate independently utilizing contracted personnel to complete the project 
+such personnel  our former contracted outside automation services providers  were under contract to complete and test the yk programming efforts as well as provide daily systems support 
+the next stage of the process was to identify those systems and programs that contained date sensitive fields throughout the operating systems 
+the internal approach taken to address the issue was field expansion 
+this expansion allowed the date fields to be expanded and allowed programs to distinguish dates based upon an eight digit code as opposed to a six digit code 
+the meridian citizens approach implemented by the outside automation services provider  took into account the various operating platforms used to process data 
+a combination of field expansion and windowing was selected to address the yk issue 
+the windowing approach utilized a two digit year currently in the date fields and assumed the two digit century field fell within an established window 
+for example  any result over signified the th century and any under fifty  the st century 
+prioritizing the effort was done by reviewing those systems and programs which would require the effective date change prior to january   such as the policy processing systems which required renewal processing as early as november  extensive reprogramming now allows the internal policy processing systems to recognize the difference between the th and the st century 
+updated policy processing systems have been in production and compliant since november during the third quarter of  code remediation was also completed for the meridian management reporting systems and front end client server applications 
+the meridian citizens companies  which operated under a different platform  largely achieved yk compliance as certified by the outside services provider in august and have been in production since that time 
+mainframe  front end client server  and critical network programming have also been completed 
+the remediated policy processing systems were tested and are processing policies with yk dates 
+during the fourth quarter of  the information systems operations of the meridian citizens companies were moved to the indianapolis home office location 
+this change allowed for certain cost savings and a more consistent application of programming discipline throughout the organization 
+prior to the move  yk remediation efforts were completed by an outside vendor for the meridian citizens companies 
+while reviewing other processing issues  internal personnel discovered instances in which remediation efforts had not correctly been completed 
+these issues were resolved when discovered 
+the manner in which these systems were constructed or designed did not provide for a test environment 
+therefore  a more detailed analysis was performed by a project team consisting of both internal and external resources 
+this extensive analysis encompassed applications which were previously understood to be compliant 
+these applications were reviewed for date sensitive related code to determine that the yk remediation was completed correctly 
+re programming efforts  as required  were performed to obtain yk compliance 
+costs for the yk remediation approximated million upon completion 
+such incremental costs have been estimated at approximately  in   in and  with an additional  for the company was able to manage the cost of its yk effort because of the early start of the project and the overall approach of hiring additional internal resources as opposed to extensively utilizing outside programmers 
+approximately percent of the total costs related to programming personnel 
+the remainder of these costs related to the replacement of software applications  hardware costs  and outside consulting fees 
+due to the complexity and importance of the yk project  the company engaged independent consultants to review the planning and methods utilized within the project for all subsidiaries 
+the written report received from the independent consultants contained comments and suggestions which were implemented and incorporated into the final yk action plans 
+yk costs were funded through operating revenues and represented less than percent of the information systems annual budgets 
+costs for the meridian citizens remediation were included under the automation programming charges incurred by the company on a monthly basis and were therefore not distinguishable from normal programming fees 
+as part of the readiness program  the company also recognized the impact that significant outside vendors  agents  and other business associates could have on the ability to transact business 
+as a result  the company reviewed vendor associated software and hardware products utilized within the organization to determine the yk effort that would be necessary to achieve readiness 
+hardware and software vendors were required to provide certification of yk compliance for all products or services afforded to the enterprise 
+all vendor products purchased within the last two years were certified and documented 
+testing took place for each product in a pseudo yk environment prior to moving to production 
+additionally  the company established contact with agents and certain vendors to highlight the yk issue 
+this contact was established for the purpose of reasonably ascertaining the yk impact 
+contingency plans were developed by management of the information resources division 
+the plans included the necessary steps to verify the functionality and to validate the compliance of each system 
+the contingency plans included the use of the company s business resumption disaster recovery hot site in chicago 
+this hot site was prepared to run mainframe applications with very little lag time should all other contingencies have failed 
+while successful testing was performed at this site on two occasions during  the company did not need to utilize this source as the year began 
+the company required key personnel to work during the holiday weekend beginning december   to insure a smooth transition into the year and found only a minor issue that was immediately resolved by replacing a personal computer 
+no material effect on operations or financial results occurred because of the calendar year change 
+any future problems are anticipated to be minimal and further reporting of yk issues will not be made  unless the occurrence is material to the company 
+no significant information technology projects having a material effect on the company s financial position or results of operations were deferred as a direct result of yk efforts 
+the company did not issue insurance policies covering risks related to the year issue 
+however  there can be no certainty regarding future judicial or legislative interpretations of coverage 
+results of operations compared to net income for declined to million  or diluted earnings per share  down from million  or per diluted share for realized investment gains for decreased to million  or per share after tax  from million  or per share after tax  for earnings per share included a first quarter charge for the cumulative effect of an accounting change for certain insurance related assessments 
+also included was a fourth quarter non recurring charge of approximately  or per share after tax  for severance and other costs associated with closing the former minnesota home office of the meridian citizens insurance companies 
+the company s total revenues for increased percent to million from million in premiums earned increased percent to million for in comparison to million for  while net written premiums were up percent over the prior year 
+most of the growth in written premiums was generated from the non standard auto product and from the sam s club sales arrangement through groupadvantage  along with approximately percent commercial lines growth 
+farmowners production was generally flat  while core personal lines of business generated through independent agents declined by approximately percent 
+net investment income of approximately million for decreased by percent in comparison to million for this decline is attributable to a number of factors  including slight reductions in yield and in the average balance of fixed maturity investments held during the year 
+for the years ended december  and  the company realized net investment gains of approximately and million  respectively 
+the current year s realized gains resulted largely from the sale of certain equity securities  which had been trading at relatively high price earnings multiples and had reached the company s price targets 
+loss and loss adjustment expenses increased from the million reported for to million in relative to earned premiums  the loss and loss adjustment expense ratio increased to percent in  compared with percent in weather related catastrophe losses accounted for over seven percentage points of the ratios in both years  with approximately million of such losses in compared to million in due in large part to such weather related losses  property lines of business remained unprofitable  while the casualty lines of business were profitable in both and the personal lines loss ratio of percent increased from percent in the commercial lines loss ratio increased to percent from percent in the increases in the ratios were generally due to loss costs and severity and  to an extent in certain lines  to prior years premium rate actions 
+loss frequency was not a major factor  as overall frequency comparisons changed only a small fraction of one percent between and general operating and amortization expenses of million in increased from the million recorded during relative to the earned premium volume  the company s expense ratio decreased slightly to percent compared to percent for the increase in premium volume over which to spread fixed costs was a factor behind this decrease  as was cost savings resulting from the prior year consolidation of the meridian citizens information systems into the company s indianapolis location 
+for the year ended december   the company recorded income tax expense of million compared to million for the same period last year 
+the decrease in the effective tax rate resulted primarily from the amounts of tax exempt interest and the dividends received deduction  relative to the reduced level of pre tax income 
+compared to net income for grew percent to million  or diluted earnings per share  up from million  or per diluted share for this improvement was achieved in spite of more than double the amount of weather related catastrophe losses in  compared with net catastrophe losses were approximately million in versus approximately million for the company s combined ratio improved to percent for from percent in realized investment gains for increased to million  or per share after tax  from million  or per share after tax  for the company s total revenues for decreased percent to million from million in premiums earned decreased percent to million for in comparison to million for the previous year 
+net written premiums for the company s personal lines of business decreased by approximately percent 
+this was the combination of a percent increase in personal automobile premiums and a decrease in written premium for the homeowners line of business 
+the personal automobile growth was favorably affected by the introduction of the new non standard automobile product 
+net written premiums for the farmowners line of business increased approximately percent 
+commercial lines net written premium decreased approximately percent 
+underwriting actions were taken in and early to improve profitability  negatively affecting premium revenue growth in the short term 
+additionally  intense competition and a soft pricing environment continued to affect market conditions in the company s operating territory  particularly for commercial lines of business 
+net investment income of approximately million for increased percent in comparison to million for this increase was due in part to a larger invested asset base for much of the year 
+the company s pre tax net investment yield was enhanced by a reduction in the tax advantaged portfolio allocation and a reduced allocation to investment expenses 
+for the years ended december  and  the company realized net investment gains of approximately and million  respectively 
+the realized gains resulted largely from the sale of certain equity securities  as well as from certain municipal bond sales motivated by tax planning strategies 
+loss and loss adjustment expenses decreased from the million reported at year end to million in the improvement was achieved despite the high level of weather related catastrophe losses which hit the midwest 
+many of the company s operating states reported significant weather related damage 
+most significantly  industry statistics indicated minnesota  the largest state of operation for the meridian citizens companies  incurred more such losses in than in the last years combined 
+this caused the meridian citizens companies to incur approximately half of the company s consolidated catastrophe losses  while generating less than percent of the company s premium volume 
+the company estimated weather related losses to approximate million in compared to million in despite the record level of catastrophe weather related claims  the statutory loss and loss adjustment expense ratio improved for nearly all lines of business when compared to the personal lines loss ratio of percent improved percentage points from personal automobile  the company s largest line of business  had a loss ratio of percent  compared to percent for the commercial lines loss ratio of percent was also an improvement over the result of percent 
+worker s compensation continued to be very profitable for the company reporting a percent loss ratio in versus percent for much of the improvement in the company s core book of business was attributed to underwriting actions implemented in late and early the company generally experienced favorable trends during in both the frequency and severity of claims incurred 
+general operating and amortization expenses of million in slightly increased from the million recorded during relative to earned premium volume  the company s expense ratio increased to percent compared to percent for the reduction in premium volume over which to spread fixed costs was a factor behind this increase  as were costs to initiate new growth strategies 
+during the fourth quarter of  the company consolidated two regional claims centers and the meridian citizens information systems into the company s indianapolis location 
+while expected to produce cost savings beginning in  incremental costs to implement these changes were estimated at approximately per share after tax in for the year ended december   the company recorded income tax expense of million compared to million for the same period 
+the higher level of pre tax income and a reduction in the tax advantaged portfolio allocation to municipal bonds and sinking fund preferred stocks were the primary factors in the increase 
+liquidity and capital resources the company s primary need for liquidity is to pay shareholder dividends and service debt 
+its main source of liquidity is the receipt of dividends from its subsidiaries 
+the company s subsidiaries are subject to state laws and regulations which restrict their ability to pay dividends 
+during each of the years  and  meridian security declared and paid annual dividends to the company of million 
+the principal need of the company s insurance subsidiaries for liquid funds is the payment of claims and general operating expenses in the ordinary course of business 
+the funds of the company s insurance subsidiaries are generally invested in securities with maturities intended to provide adequate cash to pay such claims and expenses without forced sales of investments 
+the average duration of the fixed maturity portfolio is approximately years 
+over the next year  a relatively small portion of the company s bond portfolio is scheduled to mature 
+approximately percent of the company s investment assets are held in fixed maturities  substantially all of which are believed to be readily marketable 
+within the fixed maturity portfolio  the company holds approximately percent in mortgage backed pass through securities and collateralized mortgage obligations 
+the company has attempted to reduce the prepayment risks associated with mortgage backed securities by investing a majority of the collateralized mortgage obligations in planned amortization and very accurately defined tranches 
+these investments are designed to alleviate the risk of prepayment by providing predictable principal prepayment schedules within a designated range of prepayments 
+the company s fixed income investment portfolio consists almost entirely of investment grade securities  the average quality of which is rated aa aa 
+the company currently holds all of its fixed maturity investments in the available for sale category carried at market value 
+the company at december  recorded unrealized losses in the fixed maturity portfolio of approximately million  net of deferred income taxes 
+at year end  the company recorded unrealized gains on the fixed maturity portfolio of approximately million  net of deferred income taxes 
+the company s equity security portfolio  which accounted for approximately percent of invested assets at year end  had unrealized gains  net of deferred income taxes  of approximately million at december   compared to approximately million at december  net unrealized appreciation of investments added to the company s book value per share at december  net unrealized appreciation added per share to the book value at december  the company does have exposure to market rates and prices 
+the company s primary market risk exposures are changes in price for equity securities and changes in interest rates and credit ratings for fixed maturity securities 
+the company  with the board of directors  administers and oversees investment risk through the investment committee  which provides executive oversight of investment activities 
+the company has specific investment guidelines and policies that define the overall framework used daily by investment portfolio managers to limit the company s exposure to market risk 
+the company does not own or currently utilize derivative financial instruments for the purpose of hedging  enhancing the overall return of its investment portfolio  or reducing the cost of its bank debt 
+meridian  through its outside professional portfolio managers  employs traditional investment management tools and techniques to address the yield and valuation exposures of its invested assets 
+the long term fixed maturity investment portfolio is managed so as to limit various risks inherent in the bond market 
+credit risk is addressed through adequate diversification and the purchase of investment grade securities 
+reinvestment rate risk is controlled through asset liability matching practices and by addressing call characteristics in security selection 
+market value risk is addressed through maturity selection 
+the market value of the company s long term fixed maturity investment portfolio is sensitive to fluctuations in the level of interest rates 
+the impact of interest rate movements on the long term fixed maturity investment portfolio generally affects net realized gains or losses when securities are sold 
+the company estimates that a basis point increase in interest rates from current levels would result in a possible decline in the million market value of the long term fixed maturity investment portfolio of approximately percent  or million 
+with regard to its million equity security portfolio  the company does not own nor engage in any type of option writing 
+a decrease in the us equity market prices could result in a decrease of million in the market value of the company s common equities 
+these possible declines in values for the bond and stock portfolios would  net of deferred income taxes  negatively affect the common shareholders equity at any point in time  but would not necessarily result in the recognition of realized investment losses as long as operating cash flow and the ongoing emergence of bond maturities continued to provide sufficient funds to meet obligations to policyholders and claimants  as well as debt service and cash dividend requirements at the holding company level 
+on may   the company announced that its board of directors had authorized the repurchase of up to  common shares  or approximately five percent of the company s outstanding common stock 
+as of december   the company had repurchased  shares  or approximately percent of the authorized total  at a cost of approximately million 
+on february   the company announced that its board of directors had authorized the additional repurchase of up to  common shares 
+in july  the company completed the acquisition of citizens security group inc of red wing  minnesota 
+the company purchased all of the outstanding shares of citizens security group inc and its wholly owned property and casualty insurance subsidiaries  meridian citizens security insurance company and insurance company of ohio  for approximately million in cash  including capitalized acquisition costs  and became affiliated with meridian citizens mutual insurance company 
+approximately percent of the purchase price was generated from the sale of a portion of the company s investment portfolio 
+the remaining million was financed through bank debt and is being amortized over seven years with a variable interest rate of libor plus basis points 
+the acquisition was accounted for as a purchase with the assets acquired and liabilities assumed being recorded at their estimated fair value at the date of acquisition 
+the excess cost over the fair value of the net assets of approximately million was recorded as goodwill  which is being amortized on a straight line basis over a year period 
+beginning in  state insurance regulators required companies to calculate risk based capital rbc 
+rbc is the capital required to cover the varying degrees of risk inherent in a company s assets  loss reserves  underwriting  and reinsurance 
+the company action level rbc is the minimum amount of capital required in order to avoid regulatory action 
+the adjusted capital of the company s insurance subsidiaries is well above the required minimum 
+impact of inflation inflation can have a significant impact on property and casualty insurers because premium rates are established before the amount of losses and loss adjustment expenses is known 
+the company attempts to anticipate increases from inflation in establishing rates  subject to limitations imposed for competitive pricing 
+the company considers inflation when estimating liabilities for losses and loss adjustment expenses  particularly for claims having a long period between occurrence and settlement 
+the liabilities for losses and loss adjustment expenses are management s estimates of the ultimate net cost of underlying claims and expenses and are not discounted for the time value of money 
+in times of inflation  the normally higher investment yields available may partially offset potentially higher claims and expenses 
+

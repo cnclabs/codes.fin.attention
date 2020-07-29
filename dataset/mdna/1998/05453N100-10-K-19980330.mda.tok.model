@@ -1,0 +1,280 @@
+item management s discussion and analysis of financial condition and results of operations factors that may affect future results 
+software and hardware interfaces 
+the company develops software and hardware interfaces for its adsl chipset which can be used to connect the chipset with pcs  network and central office equipment  and other telephony and data communications devices 
+the interfaces are custom developed by the company for oems  who seek to incorporate the company s adsl technology into their systems 
+access routers 
+the company has developed and markets an adsl access router  called the x access router 
+the x contains the adi aware adsl chipset along with software and hardware interfaces and designs developed by the company  and routing capability for frame relay  tcp ip  and atm data communications protocols 
+in a typical configuration  the company s adsl access router is designed to receive data at speeds over mbps and send data at speeds of up to kbps  is fully rate adaptive in kbps increments and is capable of transmitting data over distances of more than  feet over standard copper wire while maintaining pots service through the use of a pots splitter 
+board level products 
+the company has developed and markets an adsl transceiver module  called the aw the aw is a by transceiver card  which contains the adi aware adsl chipset and software and hardware interfaces 
+the aw  which is primarily sold to oems for inclusion in their adsl product offerings  also transmits and receives data at rates over mbps downstream and kbps upstream 
+test and development systems 
+the company has developed and markets an adsl test and development system  called the ads the ads  which is designed to help oems test their adsl systems  allows a wide range of tests  including adsl line testing and bit rate testing 
+the development system houses two transceiver modules  one central office co module and one remote terminal rt module  and provides power  data  and adsl line signals to the modules 
+products under development the company has publicly announced the following product development projects chipsets 
+the company and adi are currently developing their next generation full rate adsl chipset 
+this release includes improvements to the two asics in the chipset as well as upgrades to the signal processing software for the dsp in the chipset 
+the company has announced that it is working with lucent to develop dsl lite software that will operate on lucent dsps along with analog front end chips 
+the resulting chipset will be targeted at personal computer oem customers 
+the company is also working with adi to develop dsl lite software that will operate on various adi chip platforms 
+the resulting chipset will be primarily targeted at central office oem customers 
+the company has begun in house design and development of a chip that implements the company s proprietary dwmt technology 
+the resulting chip is intended to have applications in the sdsl marketplace 
+the chip will be fabricated by a third party semiconductor manufacturer 
+access routers and transceivers 
+the company has announced that it intends to begin shipping x lite access routers that contain dsl lite functionality and aw dsl lite transceiver modules in the first half of these products  which will incorporate the second generation adi aware adsl chipset operating in dsl lite mode  will be rate adaptive and support speeds up to mbps downstream and kbps upstream and will achieve high speed data transfer over local loops of up to  feet 
+image compression in  the company began an effort to produce commercially marketable wavelet image compression software products 
+the company currently offers five software based compression products and has an agreement with adi to produce and market a wavelet video compression asic  for which the company receives royalties 
+the company s compression products include the following wsq by aware which compresses digital fingerprint data for use by law enforcement agencies  such as the fbi  accupress for radiology which is used to compress digital radiographs and other types of medical imagery  accupress for multimedia which is a general purpose compression product  accupress for remote sensing which is designed for compression of satellite based remote sensing imagery  and seispact which companies in the oil and gas industry can use to store and transmit large amounts of seismic data 
+technology the company s core technology is based on its research into wavelet mathematics  digital communications  and data compression 
+from that core technology  four principal technologies have emerged  including i dmt based adsl technology  ii splitterless dmt dsl lite technology  iii dwmt technology  and iv image compression technology 
+adsl technology adsl is a method for expanding the useable bandwidth of copper wire 
+typically  adsl systems divide a one megahertz mhz bandwidth on copper wire into three segments i the to kilohertz khz range is used for pots  ii the khz to khz range is used to transmit data upstream and iii the khz to mhz range is used to transmit information downstream 
+the ansi specification for adsl calls for operation rates of to mbps downstream and to kbps upstream when operating over existing copper wires at a distance of up to  feet 
+there are two primary adsl modulation techniques for transmitting data signals i dmt  which the company uses  and ii cap 
+dmt is a multi carrier modulation technique that was chosen by ansi as the telecommunications industry standard for adsl 
+cap is a single carrier modulation technique originally developed by at t paradyne corporation now globespan technologies  inc 
+the fundamental difference between cap and dmt is that cap treats each of the upstream and downstream frequency ranges as a single element over which as many information bits as possible are transmitted 
+in contrast  dmt divides the upstream and downstream bands into groups of different smaller subchannel frequency ranges approximately khz each into which a much smaller number of bits are coded and transmitted simultaneously 
+the company believes that dmt technology is better able than cap technology to address the inherent problems of the telcos copper wire networks 
+because of its multiple small frequency bands  dmt is able to adjust and adapt the information signal to both extract more throughput from a wire and to avoid sending information into frequency ranges that are not useable 
+since cap treats the entire frequency range as a single element  it does not have the ability to balance as easily the use of the frequency spectrum to match efficiently the performance of a given wire 
+splitterless dmt dsl lite technology in  the company helped to pioneer a new form of xdsl technology  known as splitterless dmt dsl lite technology 
+dsl lite allows for downstream data transmissions over telephone networks in the to mbps range  and upstream data transmissions of up to kbps in a splitterless environment 
+splitterless means that modems employing this technology do not require special equipment  known as pots splitters  to separate the telephone service from the data service 
+the omission of a pots splitter vastly reduces the installation cost of dsl lite service over that of adsl service by removing the need to send a technician for service installation 
+further  this technology will enable end users to install dsl lite modems in the same way as today s voiceband modems 
+for these reasons  the company believes that dsl lite technology may act as a catalyst to increase the speed at which service providers deploy xdsl technologies 
+dmt operating in a splitterless dsl lite mode has been endorsed by both the uawg and the itu for two primary reasons i dmt dsl lite can be made to interoperate with full rate dmt based adsl  the ansi standard for adsl modulation  and ii dmt dsl lite equipment and software provide a clear migration path to full rate standards based adsl central office and customer premises equipment 
+the uawg intends to submit a specification for splitterless dmt dsl lite to the itu in while predicting the timing or outcome of standard body actions is difficult  the itu has preliminarily indicated that it will attempt to adopt a standard for this technology by the end of dwmt technology the company has invented a proprietary technology based on wavelet mathematics called dwmt 
+the company believes that  as a result of its research and development of dwmt technology  it is a leader in commercialization of wavelets for telecommunications 
+multi carrier systems divide a frequency range into the desired number of subchannels by using a time domain to frequency domain transform  which is a mathematical process 
+because of fundamental limits associated with such transforms  the process of creating isolated subchannels is imperfect 
+these imperfections inhibit modems from achieving theoretical performance limits 
+the subchannelization method used in creating dmt modems utilizes a fourier transform 
+this technique has been used in the telecommunications industry since the s  but has become more practical for high speed  high volume use as digital signal processors have improved 
+the wavelet transform yields significantly better subchannelization than the fourier transform 
+because this technique more closely approximates ideal subchannelization  the performance of a wavelet based dwmt system can produce performance superior to a non wavelet dmt system operating in a noisy environment 
+the company intends to apply dwmt technology to new products using sdsl  vdsl  and hfc applications 
+the company is seeking to incorporate dwmt techniques into industry standards body recommendations 
+the following is a brief description of possible applications using sdsl  vdsl  and hfc sdsl 
+symmetric digital subscriber line technology is similar to adsl  but allows two way data transmission at the same rates 
+the company is developing an sdsl application using its dwmt technology 
+sdsl is not an officially defined standard  but can provide data transmission rates from mbps to mbps simultaneously in both directions on single twisted pair copper wire over distances of  to  feet 
+the company expects that this sdsl application can be used for lan interconnecting and enhanced telephony applications 
+vdsl 
+the company believes that very high speed digital subscriber line technology will be the next generation of high speed user access  critical to the implementation of fiber to the neighborhood and fiber to the curb architectures 
+these architectures involve the deployment of an access node that utilizes fiber optic cable from a telco s central office to the access node  thus bringing fiber closer to the user 
+the final connection to the user is new or existing copper wire or new coaxial cable 
+vdsl is being designed with the objective of providing performance up to six times faster than adsl  but over a shorter distance 
+the goal of vdsl is to enable telcos to provide a combination of digital tv  data dial tone and regular telephony service on a single twisted pair of copper wire 
+hfc 
+by using the frequency band from to mhz for upstream transmission and the frequency band from to mhz for downstream transmission  it is possible to provide two way services  such as telephony and data communications  on existing hfc networks 
+each of these frequency bands is typically divided into smaller bands  to mhz wide 
+the company s hfc technology is based upon dwmt and can provide up to mbps transmission over a mhz band 
+hfc telephony and cable modem technology enables cable companies to re use their existing network to provide two way data transmission services 
+image compression technology since  the company has developed expertise  trade secrets  and intellectual property in the field of wavelet transform based data compression and has obtained several patents in this area 
+the company s wavelet compression technology enables digital image  video and certain types of data to be compressed to between and of their original size 
+using wavelet compression  the decompressed data are not bit for bit identical to the original data 
+a risk with this technique is that  as the original data get smaller  a larger amount of error is introduced into the decompressed data 
+however  compressed data can be transmitted across networks faster and storage costs are reduced 
+research and development the company believes that its future success depends on its ability to adapt to the rapidly changing telecommunications environment and to meet its customers needs 
+the timely development and introduction of new products is essential to maintain the company s competitive position 
+the company s product development activities are focused on delivering technology and products to its oem customers that will enable them to offer end to end systems that will allow their service provider customers to make maximum use of the capabilities of their existing copper wire networks 
+key development objectives include enhancements to the company s adsl and dsl lite technologies as well as on products incorporating dwmt technology for sdsl and vdsl applications 
+in and  the company spent approximately  on the development of its hfc technology 
+in the third quarter of  the company suspended development of its hfc technology due to a lack of customer demand for such technology at that time 
+the company may recommence hfc development activities if and when there is sufficient customer demand 
+most of the company s products are developed internally 
+as of december   the company had a research and development staff of employees  including ten employees holding doctorate degrees related to digital signal processing and digital communications theory 
+the company supplemented its staff of engineering employees with additional contract engineers at december  subject to its ability to effectively source  hire and retain engineers  the company anticipates that its research and development organization will grow significantly in the future as the company attempts to strengthen its technology and product position in the telecommunications marketplace 
+during the years ended december   and  research and development costs charged to operations were   and  respectively 
+such costs are net of software development costs capitalized in accordance with statement of financial accounting standards sfas no 
+there were no sfas costs capitalized in  or new product development schedules are difficult to predict  because telecommunications product development  quality assurance testing and debugging are complex processes that often take longer than expected 
+accordingly  although the company estimates the shipment dates of proposed new products for internal purposes  such estimates are subject to frequent adjustment based on the company s own periodic assessment of its progress in the development process 
+no assurance can be given that any of the development projects referred to in the products and markets section will be successful or that any announced shipping dates for new products will be met 
+sales and marketing to date  the company s principal telecommunications sales and marketing strategy has been to propagate its technology and products with oem equipment suppliers 
+these oem customers manufacture and sell telephone network equipment  cable plant equipment  data communications equipment  and end user customer premises equipment 
+the company s objective is to incorporate its technology and products into solutions offered by its oem customers 
+the company has three types of oem customers with whom it has business relationships i licensees of intellectual property  such as us robotics com  ii semiconductor manufacturing partners  such as adi and lucent  and iii customers who purchase the company s existing telecommunications products  such as advanced fibre communications  dsc communications  ericsson  siemens  adc  phillips  eci  sumitomo  and pulsecom 
+due to the complexity of the company s telecommunications technology  the company s sales people must have a high degree of technical sophistication in order to market its products effectively 
+the company believes that technology selections involving the company s products are frequently made at senior levels within a prospective customer s organization 
+consequently  the company relies significantly on presentations by senior management to key employees of oems 
+as of december   the company had ten people in its telecommunications sales and marketing organization 
+although the company s primary sales and marketing objective is to sell to oem s  during the company began selling its adsl products to resellers  internet service providers and competitive local access providers 
+as xdsl technologies are more broadly adopted  the company expects to hire additional sales and marketing employees to support the efforts of senior management with its oem customers and to create awareness for the company s products and technology with its oems service provider customers 
+the company sells its software based compression products primarily through oems and systems integrators 
+as of december   there were three people in the company s compression software sales organization 
+the company has in the past and expects in the future to derive a substantial portion of its revenues from a limited number of customers 
+there are relatively few oem equipment suppliers to whom the company can sell its technology and products 
+consequently  the company s future success will depend to a large extent upon i the timing and size of future purchase orders for the company s products from these customers  ii the financial and operating success of these customers  and iii the success of products offered by these customers that use the company s technology and products 
+any attempt by such customers to seek out additional or alternative suppliers or to undertake the internal development and sale of technology and products comparable to those of the company could have a material adverse effect on the company s business  financial condition and results of operations 
+see item management s discussion and analysis of financial condition and results of operations factors that may affect future results 
+the company derived approximately   and of its total revenue in from us robotics com  the united states government and adi  respectively 
+the company derived approximately    and of its total revenue in from dsc communications corporation  adi  the united states government  and teltrend  inc  respectively 
+the company derived approximately    and of its total revenue in from adi  general instrument corporation  the united states government  and gss array technology  respectively 
+predominately all revenue in   and was sold to unaffiliated customers in north america 
+manufacturing the company s manufacturing capacity is relatively limited and as such it relies on a third party contractor manufacturer to assemble and test substantially all of its xdsl products 
+the company s third party manufacturer is located in canada  and obtains component parts directly from the company  and from suppliers chosen by the company or itself 
+other than the adsl chipset  which is available through adi  the company believes that other components for its products are available from a number of suppliers 
+further  the company believes that other qualified third party contract manufacturers exist to assemble and test the company s products in the event its relationship with its current contract manufacturer is not successful 
+see item management s discussion and analysis of financial condition and results of operations factors that may affect future results 
+competition the markets for the company s products are intensely competitive and the company expects competition to increase in the immediate future  especially in the emerging adsl and dsl lite market 
+the company intends to compete on the basis of technology  price  the timing of product delivery  product features  quality  reliability  and customer satisfaction 
+the company currently competes  or expects to compete in the future  with the following categories of companies i other vendors of dmt based adsl technology  such as orckit communications limited orckit  amati communications corporation texas instruments inc amati ti  pairgain technologies  inc pairgain and alcatel network systems  inc alcatel  ii vendors of alternative adsl technologies  such as globespan technologies  inc globespan  which is currently marketing its cap based adsl technology  iii oems and other systems integrators  such as ericsson  northern telecommunications  westell  cisco  com  and pairgain  and iv regional bell operating companies rbocs and other telcos  who are no longer prohibited from manufacturing telecommunications equipment as a result of deregulation the company s success will depend on telcos willingness to invest in broadband digital services based on xdsl technologies 
+the company expects that its xdsl technology and products will compete not only with other products that increase the efficiency of digital transmission technologies over copper wire  such as isdn for internet access  but also with other broadband transmission technologies  such as hfc  fiber optic cable  digital broadcast satellite and other wireless technologies 
+the company believes its current and future broadband products will permit telcos to upgrade their networks in a flexible and cost effective way  but telcos may choose to deploy products using better established technologies to upgrade their networks including fiber optic cable  which many telcos favor 
+to the extent that telcos choose to install fiber optic cable or other transmission media between central offices and end users  the company s business  financial condition and results of operations will be materially adversely affected 
+the company believes that  in the adsl market  its dmt based products are more flexible and will enjoy greater potential for deployment than products using the cap technique  which is a non standard  proprietary  single source technology 
+however  cap based adsl products were introduced prior to the company s products and are more readily available than the company s products 
+to date  there has been only limited commercial deployment of the company s competitors dmt based adsl products 
+therefore  the company is uncertain how its products will compare with products sold by alcatel  amati ti  orckit and pairgain  each of whom manufactures dmt based adsl products 
+each of these competitors have made claims in their sales literature and elsewhere suggesting that their products provide data transmission rates that are equal to or faster than that of the company s products 
+however  the company does not have access to these products  and therefore has no independent means by which it can corroborate these claims 
+the markets for the company s wavelet image compression technology are competitive  and are expected to become increasingly so in the near future 
+in addition  the company s wsq finger print compression product is an implementation of an open standard and is therefore subject to competition 
+many of the company s competitors and potential competitors  including the rbocs  alcatel  and amati ti have significantly greater financial  technological  manufacturing  marketing and personnel resources than the company 
+there can be no assurance that the company will be able to compete successfully or that competition will not have a material adverse effect on the company s business  financial condition and results of operations 
+see item management s discussion and analysis of financial condition and results of operations factors that may affect future results 
+intellectual property in the field of telecommunications technology  the company holds eight patents for applying wavelet mathematics to communications systems 
+the company has two pending patent applications that pertain to the application of multi carrier technology to broadband communications 
+the company has also filed multiple provisional patents that pertain to its splitterless dsl techniques 
+the company also holds six patents for image compression and processing  three patents for video compression  one patent for audio compression  one patent for certain optical applications and one pending patent for seismic data compression 
+although the company has patented certain aspects of its technology  the company relies primarily on know how and trade secrets to protect its intellectual property 
+the company attempts to protect its trade secrets and other proprietary information through agreements with its customers  suppliers  employees and consultants  and through security measures 
+each of the company s employees is required to sign a nondisclosure and non competition agreement 
+although the company intends to protect its rights vigorously  there can be no assurance that these measures will be successful 
+in addition  the laws of certain countries in which products incorporating the company s technology may be developed  manufactured or sold may not protect the company s products and intellectual property rights to the same extent as the laws of the united states 
+while the company s ability to compete may be affected by its ability to protect its intellectual property  the company believes that  because of the rapid pace of technological change in the telecommunications industry  its technical expertise and ability to introduce new products on a timely basis will be more important in maintaining its competitive position than protection of its existing intellectual property and that patent  trade secret and copyright protections are important but must be supported by other factors such as the expanding knowledge  ability and experience of the company s personnel  new technology and products  and product enhancements 
+although the company continues to implement protective measures and intends to defend vigorously its intellectual property rights  there can be no assurance that these measures will be successful 
+many participants in the telecommunications industry have an increasing number of patents and have frequently demonstrated a readiness to commence litigation based on allegations of patent and other intellectual property infringement 
+third parties may assert exclusive patent  copyright and other intellectual property rights to technologies that are important to the company 
+if the company is found to have infringed any of such patents  the company could be subject to substantial damages and or an injunction preventing it from conducting its business  and the company s business could be materially and adversely affected 
+the company may also receive notices from third parties regarding the pendency of various patent applications which may be pertinent to the design and operation of xdsl telecommunications equipment 
+unless and until patents actually issue  there can be no infringement  and the company has not examined any such patent applications 
+although third parties may offer to license their patents and their patent applications to the company  there can be no assurance that any license would be available on acceptable terms should the company choose to pursue such license or be found to infringe such patents 
+in addition  there can be no assurance that third parties will not assert infringement claims against the company in the future  that these assertions will not result in protracted and costly litigation  or that the company would prevail in any such litigation or be able to license any valid patents from third parties on commercially reasonable terms 
+further  such litigation  regardless of its outcome  could result in substantial costs to and diversion of effort by the company 
+litigation may also be necessary to enforce the company s intellectual property rights 
+any infringement claim or other litigation against or by the company could have a material adverse effect on the company s business  financial condition and results of operations 
+see item management s discussion and analysis of financial condition and results of operations factors that may affect future results 
+employees at december   the company employed people  including in research and development  in sales and marketing  in manufacturing  and in finance  information systems and administration 
+all of these employees were based in massachusetts 
+as necessary  the company supplements its regular employees with temporary and contract personnel 
+at december   the company had engaged temporary and contract personnel primarily working in research and development 
+the company believes that its future success will depend in large part on the continued service of its technical and senior management personnel and upon the company s continuing ability to attract and retain highly qualified technical  sales and marketing  and managerial personnel 
+competition for highly qualified personnel is intense  and there can be no assurance that the company will be able to retain its key managerial and technical employees or that it will be able to attract and retain additional highly qualified personnel in the future 
+none of the company s employees is represented by a labor union 
+the company considers its employee relations to be good 
+item properties the company houses its headquarters and entire business operations in a  square foot office building that is located in bedford massachusetts 
+the company purchased  renovated and moved into this facility in the second half of under the terms of the building purchase agreement  the company has sublet approximately  square feet of space in the building to the seller of the building 
+the term of the sublease agreement is for an eighteen month period commencing in july and expiring in january the company believes that the space within the facility that is available to the company is substantially utilized  well maintained and suitable for the products and services offered by the company  and that suitable space will be available as needed 
+item legal proceedings there are no pending legal proceedings to which the company is a party or to which any of its properties are subject which  either individually or in the aggregate  are expected by the company to have a material adverse effect on its business  financial position or results of operations 
+item submission of matters to a vote of security holders no matters were submitted to a vote of security holders during the fourth quarter of part ii item market for registrant s common equity and related stockholder matters the company has one class of stock outstanding  its common stock  which has a par value of 
+per share 
+the company s common stock is traded on the nasdaq national market under the symbol awre 
+the following table sets forth the high and the low sales prices as reported on the nasdaq national market from august   the date of the company s initial public offering  to december first second third fourth quarter quarter quarter quarter high low high n a n a low n a n a as of february   the company had approximately shareholders of record 
+this number does not include shareholders from whom shares were held in a nominee or street name 
+the company has never paid cash dividends on its common stock and anticipates it will continue to reinvest any earnings to finance future operations 
+the company did not sell any equity securities that were not registered under the securities act during the three months ended december  the company sold  shares of the company s common stock  par value 
+per share  on august  and september   pursuant to a registration statement on form s file no 
+ which was declared effective by the securities and exchange commission on august  the effective date 
+the managing underwriters of the offering were bancamerica robertson stephens and furman selz llc 
+the aggregate gross proceeds of the offering were  the company s total expenses in connection with the offering were  of which  was for underwriting discounts and commissions and  was for other expenses paid to persons other than directors or officers of the company  persons owning more than percent of any class of equity securities of the company  or affiliates of the company collectively  affiliates 
+the company s net proceeds from the offering were  from the effective date through december   the company used i approximately  of such net proceeds to purchase and renovate a commercial office building  which the company now uses as its headquarters  and to acquire computers  software and other equipment and ii approximately  of such net proceeds for working capital 
+none of these payments were made to affiliates 
+as of december  the company had approximately  of proceeds remaining from the offering  and pending use of the proceeds  the company intends to invest such proceeds primarily in short term  interest bearing  investment grade securities  including money market instruments 
+item selected financial data the following selected historical financial data has been derived from the company s audited consolidated financial statements 
+the historical financial data should be read in conjunction with the company s consolidated financial statements and notes thereto included in item in s  except per share data year ended december  statements of operations data revenue      loss from operations    net income loss   net income loss per share basic net income loss per share diluted balance sheet data cash and short term investments     working capital     total assets     total liabilities  total stockholders equity     item management s discussion and analysis of financial condition and results of operations results of operations the following table sets forth  for the periods indicated  certain line items from the company s consolidated statements of operations as a percentage of total revenue year ended december  revenue product license and royalty research and development total revenue costs and expenses cost of product revenue research and development sales and marketing general and administrative total costs and expenses loss from operations interest income net income loss product revenue product revenue in and consisted primarily of revenue from the sale of asymmetric digital subscriber line adsl modems  transceiver modules  and development systems 
+product revenue increased by from  in to  in product revenue as a percentage of total revenue was and in and  respectively 
+the product revenue increase in was primarily attributable to revenue from the sale of transceiver modules and development systems  which began shipping in the second quarter of higher revenue from the sale of these new products was partially offset by modestly lower revenue from the sale of modems 
+the decline in revenue from the sale of modems in was primarily due to decreased demand for the company s modems for adsl technology trials while the market for adsl products remained in an early stage of development 
+product revenue increased by from  in to  in a year to year comparison of product revenue for these years is not meaningful due to differences in the composition of product revenue 
+product revenue in consisted primarily of revenue from the sale of adsl modems  which were introduced in early product revenue in consisted primarily of revenue from the sale of video editing chipset products  which the company discontinued in license and royalty revenue license and royalty revenue consisted primarily of revenue from the sale of intellectual property  such as hardware and software technology licenses  compression software licenses  and royalties from the sale of chipsets by customers who have licensed the company s technology 
+as such revenue has only a nominal cost of sale associated with it  the company does not report a separate cost of license and royalty revenue line in its statements of operations 
+license and royalty revenue increased by from  in to  in license and royalty revenue as a percentage of total revenue was and in and  respectively 
+the dollar increase in license and royalty revenue in was primarily attributable to higher revenue from the sale of compression software licenses  which was partially offset by lower telecommunications license and royalty revenue 
+the increase in compression software license revenue was primarily due to a significant customer sale in the second quarter of the decrease in telecommunications license and royalty revenue was primarily attributable to a decline in revenue from royalty advances  which fell from  in to nothing in approximately of license and royalty revenue in was received from three customers 
+license and royalty revenue increased by from  in to  in the increase in was primarily attributable to an increase in the sale of adsl and other broadband technology licenses to telephone company equipment suppliers 
+revenue from the sale of compression software licenses also contributed to the increase in license and royalty revenue in approximately of license and royalty revenue in was received from three customers 
+research and development revenue research and development revenue consisted primarily of revenue from commercial contract engineering and development  and government research contracts 
+research and development revenue as a percentage of total revenue was and in and  respectively 
+research and development revenue increased by from  in to  in higher research and development revenue in was primarily due to an increase in commercial engineering projects as well as a modest increase in us government projects 
+the increase in commercial engineering projects is primarily driven by telecommunications customers  who have engaged the company to assist them with the integration of the company s technology into their products 
+research and development revenue decreased by from  in to  in the decrease was primarily due to lower revenue from commercial research and development contracts as well as slightly lower revenue from us government research contracts 
+cost of product revenue cost of product revenue consisted primarily of i direct material  direct labor  and overhead costs to produce the company s products  ii cost of goods for purchases of finished inventory from third party suppliers  and iii provisions for excess and obsolete inventory 
+cost of product revenue as a percentage of product revenue was in as compared to in the cost of product revenue as a percentage of product revenue in and primarily reflects high material  labor  and fixed manufacturing costs due to relatively low production volumes  and provisions for excess and obsolete inventory of  in and  in the provisions for obsolete inventory recorded in and were primarily driven by the environment in which the company operates 
+this environment was and continues to be characterized by rapid technological advances  evolving industry standards  changes in end user requirements  frequent new product introductions  and evolving telco offerings 
+consequently  the company s products have relatively short life cycles 
+excluding obsolete inventory provisions  cost of product revenue as a percentage of product revenue was in and in in the third quarter of  the company entered into an agreement with a third party contract manufacturer that will supply substantially all finished goods products to the company 
+the company anticipates that this arrangement will reduce per unit cost of sales if and when product volumes increase 
+cost of product revenue increased by from  in to  in as a percentage of product revenue  cost of product revenue increased from in to in such percentages primarily reflect the cost of modem revenue and obsolete inventory provisions in and the cost of video editing chipset revenue in accordingly  a comparison of cost of product revenue on a year to year basis is not meaningful due to differences in the composition of product revenue 
+research and development research and development expense consisted primarily of salaries for engineers  and expenses for consultants  recruiting  supplies  equipment  depreciation and facilities 
+research and development expense increased by from  in to  in the increase in research and development expense is primarily due to increased spending on projects related to the company s x access router  dsl lite technology  and sdsl technology 
+spending related to these projects was partially offset by lower spending on the company s hybrid fiber coaxial hfc project  which was temporarily suspended in the company anticipates that research and development spending will continue to grow in future periods 
+research and development expense increased by from  in to  in the increase in research and development expense was primarily attributable to higher spending on projects to develop  enhance  and commercialize the company s adsl  vdsl  sdsl  and hfc broadband technologies 
+higher spending on these projects was partially offset by lower spending as a result of the discontinuance of research involving audio compression technology and lower facilities costs as a result of the relocation of the company s facilities in june selling and marketing selling and marketing expense consisted primarily of salaries for sales and marketing personnel  travel  advertising and promotion  recruiting  and facilities expense 
+selling and marketing expense increased from  in to  in the increase was primarily due to i the addition of sales staff to establish channels of distribution for the company s products and technology  ii the addition of marketing staff  and iii increased levels of advertising and promotion to create awareness for the company s products  including participation in major industry tradeshows 
+the company anticipates that selling and marketing spending will continue to grow in future periods 
+selling and marketing expense increased from  in to  in the increase was primarily due to the addition of sales personnel and increased product advertising related to the company s adsl modem 
+general and administrative general and administrative expense consisted primarily of salaries for administrative personnel  facilities costs  expenses related to being a public company  and professional services  such as legal and audit expenses 
+general and administrative expense increased by from  in to  in the increase was primarily due to i additions to the company s finance  information systems and administrative organizations to support organizational growth  and ii expenses related to investor relations and being a public company 
+general and administrative expense increased by from  in to  in the increase was primarily attributable to additions to the company s management team and administrative infrastructure  and expenses associated with becoming a public company 
+interest income interest income increased from  in to  in primarily as a result of higher average cash balances due to the investment of net proceeds from the company s initial public offering for the full year  as opposed to approximately five months in interest income increased from  in to  in primarily as a result of higher average cash balances due to the investment of net proceeds from the company s initial public offering 
+provision for income taxes the company has made no provision for income taxes as it has a history of net losses  which has resulted in tax loss carryforwards 
+at december   the company had available federal net operating loss carryforwards of approximately  which expire in through  and federal research and development credit carryforwards of approximately  which expire in through at december   the company also had available state net operating loss carryforwards of approximately  which expire in through and state research and development and investment tax credit carryforwards of approximately  which expire in through of the total net operating loss carryforwards  approximately  was attributable to the exercise of stock options and the tax benefit from these losses  when utilized  will be credited to additional paid in capital 
+other information in  the financial accounting standards board fasb issued statement of financial accounting standards sfas no 
+ earnings per share 
+among other requirements  sfas no 
+requires restatement of prior period earnings per share to comply with the provisions of this pronouncement 
+upon adoption of sfas no 
+in december  the company restated earnings per share by applying the provisions of the standard 
+as a result of this restatement  earnings per share for certain prior periods changed from the amounts previously reported 
+liquidity and capital resources at december   the company had cash  cash equivalents and short term investments of  a decrease of  from the prior year 
+the company has funded its operations primarily from sales of common stock  including an initial public offering in august  which generated net proceeds of  in  the company used approximately  of cash to fund operating losses  which was essentially offset by  of proceeds from the issuance of common stock in connection with its stock option plans 
+accordingly  the decrease in cash  cash equivalents and short term investments in was primarily due to purchases of property and equipment 
+cash invested in property and equipment of  was primarily related to i the purchase and renovation of a  square foot commercial office building for  and ii the acquisition of computers  software  furniture  and other equipment primarily used in research and development activities 
+while there can be no assurance that the company will not require additional financing  or that such financing will be available to the company  the company believes that its financial resources are adequate to meet its liquidity requirements over the next twelve months 
+factors that may affect future results certain statements contained in this annual report  including statements regarding the anticipated development and expansion of the company s business  the intent  belief or current expectations of the company  its directors or its officers  primarily with respect to the future operating performance of the company  and other statements contained herein regarding matters that are not historical facts  are forward looking statements 
+these forward looking statements represent the company s present expectations or beliefs concerning future events  however the company cautions that such statements are qualified by important factors 
+such factors  which include  but are not limited to  the risk factors identified below  could cause actual results to differ materially from those indicated in this annual report on form k 
+the company believes that the occurrence of any one or some combination of the following risk factors could have a material adverse effect on the company s business  financial condition and results of operations 
+history of operating losses the company has incurred operating losses in every fiscal year since inception 
+substantial additional research and development expenses to enhance the performance and reduce the manufacturing costs of the company s products will be required before market acceptance of these products can be determined 
+also  the company anticipates that substantial selling and marketing expenses will be required to establish sales channels for the company s products and technology 
+there can be no assurance that the company will achieve profitable operations in any future period 
+dependence on acceptance of adsl technology the company s future success is substantially dependent upon whether adsl technology gains widespread commercial acceptance by the telephone companies telcos and end users of telco services 
+the company has invested substantial resources in the development of adsl technology implemented through the discrete multi tone dmt modulation technique 
+telcos continue to evaluate dmt based adsl technology  and there can be no assurance that the telcos will pursue the deployment of such adsl technology 
+the company believes that volume deployment of adsl technology and equipment will not commence before the second half of  if at all 
+reliance on telcos  dependence on a limited number of customers even if telcos adopt policies favoring full scale implementation of adsl technology  there can be no assurance that sales of the company s adsl products will become significant 
+the company s customers  including regional bell operating companies rbocs  oems and other telcos  are relatively few in number and have significantly greater resources than that of the company 
+the company has limited ability to influence or control decisions made by these customers 
+there can be no assurance that these customers will not use their size and bargaining power to demand unfavorable terms and conditions including price  seek alternative suppliers  or undertake internal development of products comparable to those of the company s 
+substantial dependence on analog devices  inc the company and analog devices  inc adi have entered into a series of agreements to develop integrated chipsets based on the company s technology 
+the inability or refusal of adi to manufacture  market and sell such chipsets in substantial quantities would prevent telcos from adopting the company s technology and would have a material adverse effect on the company s business 
+there can be no assurance that the company s relationship with adi will be successful or  in the event that the relationship is not successful  that the company would be able to find a substitute chipset manufacturer without significant delays 
+proprietary technology  risk of third party claims of infringement the company s ability to compete effectively will depend to a significant extent on its ability to protect its proprietary information and to operate without infringing the intellectual property rights of others 
+despite the precautions the company has taken to protect its intellectual property  there can be no assurance that such steps will be adequate to prevent the misappropriation of its technology 
+in addition  third parties may assert exclusive patent  copyright and other intellectual property rights to technologies that are important to the company 
+there can be no assurance that other third parties will not assert such claims against the company in the future 
+rapid technological change  dependence on new products the markets for the company s products are characterized by rapid technological advances  evolving industry standards  changes in end user requirements  frequent new product introductions  and evolving telco offerings 
+the company s business will be materially adversely affected if technologies or standards on which company s products are based become obsolete  or if the company is unable to develop and introduce new products in a timely manner in response to changing market conditions 
+in such an environment  product cycles tend to be short  and therefore  the company may need to write off excess and obsolete inventory from time to time 
+the company recorded provisions for excess and obsolete inventory of  and  in and  respectively 
+competition the markets for the company s products are intensely competitive and the company expects competition to increase in the immediate future 
+many of the company s competitors and potential competitors have significantly greater financial  technological  manufacturing  marketing and personnel resources than the company 
+there can be no assurance that the company will be able to compete successfully or that competition will not adversely affect the company s business 
+manufacturing the company has limited experience in manufacturing or in supervising the manufacture of its products  including its adsl modems  modules  and development systems 
+in  the company entered into an agreement with a third party contract manufacturer that will supply substantially all finished goods products to the company 
+there can be no assurance that the company s relationship with its contract manufacturer will be successful or  in the event that the relationship is not successful  that the company would be able to find a substitute contract manufacturer without significant delays 
+furthermore  there can be no assurance that the company or its contract manufacturer will not encounter significant difficulties in manufacturing or controlling the quality of its products  or that its products will be reliable in the field 
+dependence on hiring and retaining personnel the company believes that its future success will depend significantly on its ability to attract  motivate and retain additional highly skilled technical  managerial and marketing personnel 
+during  the company experienced difficulty in hiring the additional engineers it had contemplated in its business plans 
+competition for such personnel is intense  and there can be no assurance that the company will be successful in attracting  assimilating and retaining the personnel required to grow and operate profitably 
+year the company is in the process of assessing the impact of the transition to the year on its computer and software applications 
+the company does not believe that any material year issues exist with software contained within its product offerings 
+the company is in the process of attempting to obtain confirmation from vendors of certain purchased software that current releases or upgrades  if installed  will not have any material year issues 
+to the extent necessary to address material year issues  the company plans to obtain current releases or upgrades from software vendors prior to the end of failure to obtain and implement such releases or upgrades  or the failure of such software vendors to have eliminated year issues  could materially and adversely affect the company 
+

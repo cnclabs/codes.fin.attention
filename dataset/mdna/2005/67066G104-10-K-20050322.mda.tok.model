@@ -1,0 +1,1039 @@
+item  management s discussion and analysis of financial condition and results of operations business risks  as well as unanticipated decreases in average selling prices of a particular product  our inability to decrease inventory purchase commitments in a meaningful time frame  reduction in demand for or market acceptance of our products or our customers products  defects in our products  the impact of competitive pricing pressure  new product announcements or introductions by our competitors  disruptions in our relationships with taiwan semiconductor manufacturing company  united microelectronics corporation  international business machines corporation  chartered semiconductor manufacturing  and other key suppliers  fluctuations in general economic conditions  failure to achieve design wins  the seasonality of the pc and our other product segments  international and political conditions  the concentration of sales of our products to a limited number of customers  unforeseen reductions in demand for our products  our ability to safeguard our intellectual property  delays in the development of new products  delays in volume production of our products  and developments in and expenses related to litigation 
+these forward looking statements speak only as of the date hereof 
+we expressly disclaim any obligation or undertaking to release publicly any updates or revisions to any forward looking statements contained herein to reflect any change in our expectations with regard thereto or any change in events  conditions or circumstances on which any such statement is based 
+in the sections of this report entitled business and management s discussion and analysis of financial condition and results of operation all references to nvidia  we  us  our or the company mean nvidia corporation and its subsidiaries  except where it is made clear that the term means only the parent company 
+nvidia  geforce  sli  goforce  nvidia quadro  nvidia nforce  turbocache  purevideo and the nvidia logo are our trademarks or registered trademarks in the united states and other countries that are used in this document 
+we also refer to trademarks of other corporations and organizations in this document 
+overview nvidia corporation is a worldwide leader in graphics and digital media processors dedicated to creating products that enhance the interactive experience on consumer and professional computing platforms 
+we design  develop and market graphics processing units  or gpus  media and communications processors  or mcps  wireless media processors  or wmps  and related software 
+our products are integral to a wide variety of visual computing platforms  including enterprise personal computers  or pcs  consumer pcs  professional workstations  notebook pcs  personal digital assistants  cellular phones  game consoles and digital media centers 
+we were incorporated in california in april and reincorporated in delaware in april our objective is to be one of the most important and influential technology companies in the world 
+original equipment manufacturers  or oems  original design manufacturers  or odms  add in card manufacturers  system builders and consumer electronics companies worldwide utilize nvidia digital media processors as a core component of their entertainment and business solutions 
+our award winning gpus deliver superior performance and crisp visual quality for pc based applications such as manufacturing  science  e business  entertainment and education 
+our critically acclaimed mcps perform highly demanding multimedia processing for secure broadband connectivity  communications and breakthrough audio capabilities 
+our wmps deliver a great visual experience by accelerating graphics and video applications while implementing design techniques that result in high performance and ultra low power consumption 
+industry environment and our business gpu business programmable directx shader model gpus 
+the combination of the programmable gpu with microsoft corporation s  or microsoft s  directx high level shading language are known as directx gpus 
+the flexibility and power of directx gpus can enhance high definition digital video  image processing and editing for digital photographs  as well as bring a cinematic look to computer graphics 
+technology and market leadership in this generation of gpus is a key element of our corporate strategy 
+in fiscal  our strategy was to regain architectural and technology leadership by leading the industry with the first gpu to support directx shader model the geforce series of gpus 
+beginning with the geforce for the enthusiast desktop segment  we introduced a complete family of geforce gpus  including the geforce for the performance segment and geforce for the mainstream segment 
+driven by next generation games such as id software s doom and valve software s half life  consumer awareness and demand grew for our geforce family throughout our fiscal year 
+the geforce architecture is also the foundation for our most current notebook and workstation gpu families 
+mcp business mcps 
+the nvidia nforce family of products represents our mcps for advanced micro devices  inc  or amd  based desktop  notebook  workstation pcs and servers 
+the nvidia nforce architecture is also the foundation for our chipset that we sell to microsoft for the microsoft xbox gaming console 
+to date  the nvidia nforce family of mcps has received hundreds of editorial recommendations  including more than prestigious editors choice awards 
+nvidia nforce products are designed to offer best in class performance and feature rich media and communications support for amd sempron platforms 
+nvidia nforce products  which consist of the nvidia nforce  nvidia nforce professional and nvidia nforce go  are designed to complement the latest bit cpus while delivering innovative technologies for networking  storage and system performance 
+in october  we introduced the nvidia nforce mcp  a new family of performance pci express mcps for amd computing environments 
+in january  we introduced the nvidia nforce professional mcp family  the industry s only pci express core logic solutions for amd opteron processor based server and workstation platforms 
+the nvidia nforce  nvidia nforce and nvidia nforce professional families are designed to provide high speed system performance  unparalleled secure networking and advanced storage solutions for amd based desktop  workstation and server platforms 
+on november   we announced a broad  multi year cross license agreement with intel corporation  or intel 
+the agreement spans multiple product lines and product generations  and includes a multi year chipset agreement that grants us a license to implement intel s front side bus technology 
+we believe that this agreement opens a significant opportunity for us to bring our nvidia nforce brand to the intel segment 
+we expect to commence shipments of our first intel based mcp product during the first quarter of fiscal wmp business wmps 
+since our acquisition of mediaq in fiscal  our nvidia goforce wmp family has grown to include six new wmps  including the goforced  goforced  goforce  goforce  goforce and goforce the goal of every device in the nvidia goforce product family is to provide a high performance  visually rich multimedia experience on cellular phones and handheld devices 
+these products deliver a great visual experience by accelerating graphics and video applications  while supporting the most demanded features and capabilities 
+goforce media processors implement innovative design techniques  both inside the chips and at the system level  resulting in high performance and long battery life 
+these technologies enhance visual display capabilities  improve connectivity and minimize chip and system level power consumption 
+with innovative technologies  such as ultra low power digital media processors  we believe future cellular phones will be able to receive television programs  record digital video like a camcorder  enable video phone calls and be a portable game player 
+we see an exciting opportunity to use our resources and expertise in digital media processing to offer products for the multimedia handset era 
+our products we have three major product groups gpus  mcps and wmps 
+our gpu and mcp product lines are primarily incorporated into traditional consumer and professional computing platforms  including consumer pcs  notebook pcs  workstations  servers and video game consoles 
+our wmp product line is primarily incorporated into multimedia rich cellular phones 
+each of our product lines is designed to provide the advanced processing of a combination of graphics and high definition video  audio  communications  networking security and storage 
+our products are designed to support and deliver the maximum performance for the most current standards as determined by each industry segment  and to provide a comprehensive set of features that enhance the overall operation and compatibility of each platform they support 
+gpus 
+our gpu products support desktop pcs  notebook pcs and professional workstations 
+we have three major families of gpus geforce  go and nvidia quadro 
+geforce 
+the geforce family represents our desktop gpus and includes the geforce  geforce fx and geforce families 
+our most advanced gpu family is the geforce series 
+introduced in july  the geforce architecture is our second generation fully programmable cinematic gpu and is our first gpu to support the microsoft directx shader model standard 
+our geforce ultra gpu is one of the semiconductor industry s most complex application specific integrated circuits  or asics 
+the geforce ultra gpu contains over million transistors and is the industry s only mainstream gpu to incorporate bit floating point precision 
+the geforce class of gpus is designed for the enthusiast consumer segment 
+in august  we introduced the geforce gpu  which is designed for the performance consumer segment  and in october  we introduced the geforce gpu  which is designed for the mainstream consumer segment 
+in december  we launched our geforce gpu with turbocache technology 
+turbocache technology is a new  patent pending hardware and software technology that we believe is redefining the price performance metrics for mainstream pcs 
+turbocache technology allows the gpu to render directly to system memory instead of using local frame buffer memory on the graphics card  thereby lowering on board memory requirements and enabling oems and system builders to deliver entry level pcs with advanced gpu features and performance levels far superior to those of integrated graphics 
+the geforcefx and geforce currently deliver a balance of performance and features for the mainstream accelerated graphics port based  or agp based  pc segments 
+geforce go and nvidia quadro go 
+the geforce go and nvidia quadro go families represent our notebook gpus and include the geforce go  geforce fx go  geforce go  nvidia quadrofx go and nvidia quadro go gpus 
+these gpus are designed to deliver desktop graphics performance and features for multiple notebook configurations from desktop replacements  multimedia notebooks and thin and lights to mobile workstations 
+the geforce go products are designed to serve the needs of both corporate and consumer users 
+the nvidia quadro go products are designed to serve the needs of workstation professionals in the area of product design and digital content creation 
+nvidia quadro 
+the nvidia quadro branded products are robust  high performance workstation solutions for the professional user that are available for the high end  mid range  entry level and multi display product lines 
+the nvidia quadro family  which consists of the nvidia quadro fx  nvidia quadro and the nvidia quadro nvs workstation solutions are designed to meet the needs of a number of workstation applications such as industrial product design  digital content creation  non linear video editing  scientific and medical visualization  general purpose business and financial trading 
+nvidia quadro products are fully certified by several software developers for all professional workstation applications  and are designed to deliver the graphics performance and precision required by professional applications 
+other 
+in addition to the production launch of the geforce family during fiscal  we also introduced a number of technology initiatives that are designed to extend the reach of our gpus and expand the reach of the pc 
+we created the industry standard mobile pci express module  or mxm  notebook gpu module  which is designed to enable faster adoption of gpus in notebooks 
+we invented scalable link interface  or sli  which brought extreme multi gpu graphics to enthusiasts and enabled a new class of pcs called gaming supercomputers 
+purevideo technology is the pc industry s first programmable video architecture and brings consumer electronics quality video to pcs 
+turbocache technology introduced the first frame buffer less gpu  making modern gpus more affordable as they are burdened with less dynamic random access memory cost 
+each of these innovations are industry firsts and have received industry wide support and acclaim 
+mcps 
+our mcp product family  known as nvidia nforce  supports desktop pcs  notebook pcs  professional workstations and servers 
+we also provide a derivative of the nvidia nforce chipset for the microsoft xbox video game console 
+nvidia nforce 
+the nvidia nforce family represents our mcps for amd based desktop pcs  notebook pcs  workstations and servers includes the nvidia nforce  nvidia nforce  nvidia nforce and nvidia nforce professional 
+we define a mcp as a single chip or chipset that can off load system functions  such as audio processing and network communications  and perform these operations independently from the host central processing unit  or cpu 
+the nvidia nforce integrates a comprehensive set of multimedia capabilities  such as two dimensional  or d  three dimensional  or d  digital video disc  or dvd  high definition television  or hdtv  dolby digital audio playback and fast broadband and networking communications 
+nvidia nforce is a two chip solution  which includes either a system platform processor  or spp  or an integrated graphics processor  or igp  combined with a mcp 
+the nvidia nforce family is designed to be compatible with amd s sempron microprocessors 
+the nvidia nforce configuration is determined by the oem or system builder 
+the nvidia nforce and nvidia nforce families are single chip mcps  designed to be compatible with amd and opteron bit cpus 
+the nvidia nforce products which consist of the nvidia nforce  nvidia nforce professional and nvidia nforce go  are designed to complement the latest bit cpus while delivering innovative technologies for networking  storage and system performance 
+nvidia nforce products  which consist of nvidia nforce and nvidia nforce professional  are designed to provide sli and pci express support for amd and opteron based platforms 
+xbox 
+our xbox platform processor supports microsoft s xbox video game console 
+the xbox platform processor features dual processing architecture  which includes our gpu designed specifically for the xbox  or xgpu  and our mcp to power the xbox s standout graphics  audio and networking capabilities 
+the xgpu is a programmable d processor that contains more that million transistors 
+the mcp is based on two powerful digital signal processors with billion operations per second dedicated to d audio and network processing 
+the mcp performs the processing for the broadband networking functions and high speed peripherals 
+wmps 
+our wmp product family  known as goforce  supports handheld personal digital assistants  or pdas  and cellular phones 
+goforce 
+the goforce family represents our wmps for a wide range of cellular and handheld devices 
+the goforce and are two of the first wmps to offer hardware acceleration engines for d graphics to manufacturers that support liquid crystal display  or lcd  screen resolutions up to x pixels 
+the goforce and offer a host of advanced features for cellular phones and pdas  including support for up to megapixel image capture  accelerated graphics for gaming  and motion joint photographic experts group  or jpeg  capture and playback 
+our goforce d  and wmps are the first to provide programmable d shaders  along with high quality multi megapixel still image and video processing in a single chip package 
+using dedicated hardware accelerator engines  the goforce family delivers high performance multimedia applications and drives high resolution displays  while extending handheld battery life through a variety of unique power management techniques 
+our strategy we design our gpus  mcps and wmps to enable our universe of pc oems  odms  system builders  motherboard and add in board manufacturers  and cellular phone and consumer electronics oems  to build award winning products by delivering state of the art features  performance  compatibility and power efficiency while maintaining competitive prices 
+we believe that by developing d graphics  high definition video and media communications solutions that provide superior performance and address the key requirements of each of the product segments we serve  we will accelerate the adoption of high definition digital media platforms and devices throughout these segments 
+we combine scalable architectural technology with mass market economies of scale to deliver a complete family of products that spans performance workstations to consumer pcs to mulitmedia rich cellular phones 
+our objective is to be the leading supplier of performance gpus  mcps and wmps for a broad range of desktop pcs  workstations  notebooks  video game consoles  internet appliances  handhelds and any future computing device with a display 
+our current focus is on the desktop pc  workstation  notebook pc  servers  mulitmedia rich cellular phones and video game console product lines  and we plan to expand into other product lines 
+our strategy to achieve this objective includes the following key elements build award winning  architecturally compatible d graphics  high definition video  media communications and ultra low power product families for the pc  handheld and digital entertainment platforms 
+our strategy is to achieve market share leadership in these platforms by providing award winning performance at every price point 
+by developing d graphics  high definition video and media communications solutions that provide superior performance and address the key requirements of these platforms  we believe that we will accelerate the adoption of d graphics and rich digital media 
+target leading oems  odms and system builders 
+our strategy is to enable our leading pc  handheld and consumer electronics oems  odms and major system builder customers to differentiate their products in a highly competitive marketplace by using our digital media processors 
+we believe that design wins with these industry leaders provide market validation of our products  increase brand awareness and enhance our ability to penetrate additional leading customer accounts 
+in addition  we believe that close relationships with oems and odms will allow us to better anticipate and address customer needs with future generations of our products 
+sustain technology and product leadership in d graphics and high definition video  and media communications and ultra low power 
+we are focused on using our advanced engineering capabilities to accelerate the quality and performance of d graphics and high definition video  media communications and ultra low power processing in pcs and handheld devices 
+a fundamental aspect of our strategy is to actively recruit the best d graphics and high definition video  networking and communications engineers in the industry  and we believe that we have assembled an exceptionally experienced and talented engineering team 
+our research and development strategy is to focus on concurrently developing multiple generations of gpus  mcps and wmps using independent design teams 
+as we have in the past  we intend to use this strategy to achieve new levels of graphics  networking and communications features and performance and ultra low power designs  enabling our customers to achieve award winning performance in their products 
+increase market share 
+we believe that substantial market share will be important to achieving success 
+we intend to achieve a leading share of the market by devoting substantial resources to building award winning families of products for a wide range of applications 
+use our expertise in digital multimedia 
+we believe the synergy created by the combination of d graphics and high definition video and the internet will fundamentally change the way people work  learn  communicate and play 
+we believe that our expertise in high definition graphics and system architecture positions us to help drive this transformation 
+we are using our expertise in the processing and transmission of high bandwidth digital media to develop products designed to address the requirements of high bandwidth concurrent multimedia 
+sales and marketing our worldwide sales and marketing strategy is a key part of our objective to become the leading supplier of performance gpus  mcps and wmps for pcs  handheld devices and consumer electronics platforms 
+our sales and marketing teams work closely with each industry s respective oems  odms  system integrators  motherboard manufacturers  add in board manufacturers and industry trendsetters  collectively our channel  to define product features  performance  price and timing of new products 
+members of our sales team have a high level of technical expertise and product and industry knowledge to support a competitive and complex design win process 
+we also employ a highly skilled team of application engineers to assist the channel in designing  testing and qualifying system designs that incorporate our products 
+we believe that the depth and quality of our design support are key to improving the channel s time to market  maintaining a high level of customer satisfaction within the channel and fostering relationships that encourage customers to use the next generation of our products 
+in the gpu and mcp segments we serve  the sales process involves achieving key design wins with leading oems and major system integrators and supporting the product design into high volume production with key odms  motherboard manufacturers and add in board manufacturers 
+these design wins in turn influence the retail and system integrator channel that is serviced by add in board and motherboard manufacturers 
+our distribution strategy is to work with a number of leading independent contract equipment manufacturers  or cems  odms  motherboard manufacturers  add in board manufacturers and distributors each of which has relationships with a broad range of major oems and or strong brand name recognition in the retail channel 
+in the wmp segments we serve  the sales process primarily involves achieving key design wins directly with the leading handheld oems and supporting the product design into high volume production 
+currently  we sell a significant majority of our digital media processors directly to distributors  cems  odms  motherboard manufacturers and add in board manufacturers  which then sell boards and systems with our products to leading oems  retail outlets and to a large number of system integrators 
+although a small number of our customers represent the majority of our revenue  their end customers include a large number of oems and system integrators throughout the world 
+as a result of our channel strategy  our sales are focused on a small number of customers 
+sales to edom technology co  ltd  or edom  accounted for and sales to microsoft accounted for of our total revenue for fiscal edom is an independent distributor 
+to encourage software title developers and publishers to develop games optimized for platforms utilizing our products  we seek to establish and maintain strong relationships in the software development community 
+engineering and marketing personnel interact with and visit key software developers to promote and discuss our products  as well as to ascertain product requirements and solve technical problems 
+our developer program makes products available to developers prior to volume availability in order to encourage the development of software titles that are optimized for our products 
+backlog our sales are primarily made pursuant to standard purchase orders 
+the quantity of products purchased by our customers as well as shipment schedules are subject to revisions that reflect changes in both the customers requirements and in manufacturing availability 
+the semiconductor industry is characterized by short lead time orders and quick delivery schedules 
+in light of industry practice and experience  we believe that only a small portion of our backlog is non cancelable and that the dollar amount associated with the non cancelable portion is not significant 
+we do not believe that a backlog as of any particular date is indicative of future results 
+seasonality our industry is largely focused on the consumer products market 
+due to the seasonality in this market  we typically expect to see stronger revenue growth in the second half of the calendar year related to the back to school and holiday seasons 
+manufacturing we do not directly manufacture semiconductor wafers used for our products 
+instead we utilize what is known as a fabless manufacturing strategy for all product line operating segments whereby we employ world class suppliers for all phases of the manufacturing process  including wafer fabrication  assembly  testing and packaging 
+this strategy uses the expertise of industry leading suppliers that are certified by the international organization for standardization  or iso  in such areas as fabrication  assembly  quality control and assurance  reliability and testing 
+in addition  this strategy allows us to avoid many of the significant costs and risks associated with owning and operating manufacturing operations 
+our suppliers are also responsible for procurement of most of the raw materials used in the production of our products 
+as a result  we can focus our resources on product design  additional quality assurance  marketing and customer support 
+we utilize taiwan semiconductor manufacturing corporation  or tsmc  international business machines corporation  or ibm  chartered semiconductor manufacturing  or chartered  and united microelectronics corporation  or umc  to produce our semiconductor wafers 
+we then utilize independent subcontractors to perform assembly  testing and packaging of our products 
+our gpus  mcps and wmps are assembled  tested and packaged by advanced semiconductor engineering  amkor technology  stats chippac incorporated and siliconware precision industries company ltd 
+we receive semiconductor products from our subcontractors  perform incoming quality assurance and then ship them to cems  distributors  motherboard and add in board manufacturer customers from our santa clara  california warehouse and third party warehouse in hong kong 
+generally  these manufacturers assemble and test the boards based on our design kit and test specifications  and then ship the products to retailers  system integrators or oems as motherboard and add in board solutions 
+inventory and working capital our management focuses considerable attention on managing our inventories and other working capital related items 
+we manage inventories by communicating with our customers and then using our industry experience to forecast demand on a product by product basis 
+we then place manufacturing orders for our products that are based on this forecasted demand 
+the quantity of products actually purchased by our customers as well as shipment schedules are subject to revisions that reflect changes in both the customers requirements and in manufacturing availability 
+we generally maintain substantial inventories of our products because the semiconductor industry is characterized by short lead time orders and quick delivery schedules 
+research and development we believe that the continued introduction of new and enhanced products designed to deliver leading d graphics  high definition video  audio  ultra low power communications  storage  and secure networking performance and features is essential to our future success 
+our research and development strategy is to focus on concurrently developing multiple generations of gpus  mcps and wmps using independent design teams 
+our research and development efforts are performed within specialized groups consisting of software engineering  hardware engineering  very large scale integration  or vlsi  design engineering  process engineering  architecture and algorithms 
+these groups act as a pipeline designed to allow the efficient simultaneous development of multiple generations of products 
+a critical component of our product development effort is our partnerships with leaders in the computer aided design  or cad  industry 
+we invest significant resources in the development of relationships with industry leaders  including cadence design systems  inc  and synopsys  inc  often assisting these companies in the product definition of their new products 
+we believe that forming these relationships and utilizing next generation development tools to design  simulate and verify our products will help us remain at the forefront of the d graphics market and develop products that utilize leading edge technology on a rapid basis 
+we believe this approach assists us in meeting the new design schedules of pc manufacturers 
+we have substantially increased our engineering and technical resources from fiscal  and have  full time employees engaged in research and development as of january   compared to  employees as of january  during fiscal  and  we incurred research and development expenditures of million  million and million  respectively 
+competition the market for gpus  mcps and wmps for pcs  handhelds and consumer electronics is intensely competitive and is characterized by rapid technological change  evolving industry standards and declining average selling prices 
+we believe that the principal competitive factors in this market are performance  breadth of product offerings  access to customers and distribution channels  backward forward software support  conformity to industry standard apis  manufacturing capabilities  price of digital media processors and total system costs of add in boards or motherboards 
+we expect competition to increase both from existing competitors and new market entrants with products that may be less costly than ours  or may provide better performance or additional features not provided by our products 
+in addition  it is possible that new competitors or alliances among competitors could emerge and acquire significant market share 
+we expect substantial competition from intel s publicized focus on moving to selling platform solutions dominated by intel products  such as the centrino platform 
+an additional significant source of competition is from companies that provide or intend to provide gpu  mcp and wmp solutions for the pc  consumer electronics and handheld segments 
+our competitors include the following suppliers of mcps that incorporate a combination of d graphics  networking  audio  communications and input output  or i o  functionality as part of their existing solutions  such as ati technologies  inc  or ati  broadcom corporation  or broadcom  intel  silicon integrated systems  inc and via technologies  inc  or via  suppliers of standalone desktop gpus that incorporate d graphics functionality as part of their existing solutions  such as ati  creative technology  matrox electronics systems ltd 
+and xgi technology  inc  suppliers of standalone notebook gpus that incorporate d graphics functionality as part of their existing solutions  such as ati  silicon motion corporation  and the joint venture formed by sonicblue incorporated formerly s incorporated and via  and suppliers of wmps for handheld devices that incorporate advanced graphics functionality as part of their existing solutions  such as ati  renesas technology  broadcom and seiko epson 
+if and to the extent we offer products outside of the pc  consumer electronics and handheld segments  we may face competition from some of our existing competitors  as well as from companies with which we currently do not compete 
+we cannot accurately predict if we will compete successfully in any new segments we may enter 
+patents and proprietary rights we rely primarily on a combination of patents  trademarks  trade secrets  employee and third party nondisclosure agreements and licensing arrangements to protect our intellectual property in the united states and internationally 
+our issued patents have expiration dates from september  to december  we have numerous patents issued and pending in the united states and in foreign countries 
+our patents and pending patent applications relate to technology used by us in connection with our products  including our digital media processors 
+we also rely on international treaties and organizations and foreign laws to protect our intellectual property 
+we continuously assess whether and where to seek formal protection for particular innovations and technologies based on such factors as the commercial significance of our operations and our competitors operations in particular countries and regions  the location in which our products are manufactured  our strategic technology or product directions in different countries  and the degree to which intellectual property laws exist and are meaningfully enforced in different jurisdictions 
+our pending patent applications and any future applications may not be approved 
+in addition  any issued patents may not provide us with competitive advantages or may be challenged by third parties 
+the enforcement of patents by others may harm our ability to conduct our business 
+others may independently develop substantially equivalent intellectual property or otherwise gain access to our trade secrets or intellectual property 
+our failure to effectively protect our intellectual property could harm our business 
+we have licensed technology from third parties for incorporation in our digital media processors  and expect to continue to enter into license agreements for future products 
+these licenses may result in royalty payments to third parties  the cross licensing of technology by us or payment of other consideration 
+if these arrangements are not concluded on commercially reasonable terms  our business could suffer 
+employees as of january  we had  employees   of whom were engaged in research and development and of whom were engaged in sales  marketing  operations and administrative positions 
+none of our employees are covered by collective bargaining agreements  and we believe our relationships with our employees are good 
+financial information by business segment and geographic data during the second quarter of fiscal  our chief operating decision maker  the chief executive officer  began reviewing financial information presented on an operating segment basis for purposes of making operating decisions and assessing financial performance 
+we now report three product line operating segments the gpu business  which is composed of products that support desktop pcs  notebook pcs and professional workstations  the mcp business  which is composed of nvidia nforce and xbox products  and the wmp business  which supports handheld personal digital assistants and cellular phones 
+in addition to these operating segments  we have the all other category that includes human resources  legal  finance  general administration and corporate marketing expenses that we do not allocate to our other operating segments 
+all other also includes the results of operations of other miscellaneous operating segments that are neither individually reportable  nor aggregated with another operating segment 
+revenue in the all other category is primarily derived from sales of memory 
+the information included in note of the notes to the consolidated financial statements is hereby incorporated by reference 
+executive officers of the registrant the following sets forth certain information regarding our executive officers  their ages and their positions as of january  name age position jen hsun huang president  chief executive officer and director marvin d 
+burkett chief financial officer jeffrey d 
+fisher executive vice president  worldwide sales david m 
+shannon vice president  general counsel di ma vice president  operations daniel f 
+vivoli executive vice president  marketing jen hsun huang co founded nvidia in april and has served as its president  chief executive officer and a member of the board of directors since its inception 
+from to  mr 
+huang was employed at lsi logic corporation  a computer chip manufacturer  where he held a variety of positions  most recently as director of coreware  the business unit responsible for lsi s system on a chip strategy 
+from to  mr 
+huang was a microprocessor designer for advanced micro devices  a semiconductor company 
+mr 
+huang holds a bsee degree from oregon state university and an msee degree from stanford university 
+marvin d 
+burkett joined nvidia as chief financial officer in september from february until joining nvidia  mr 
+burkett was a financial consultant and served as chief financial officer of arcot systems  a security software company 
+from to  mr 
+burkett was the executive vice president and chief financial officer of packard bell nec 
+mr 
+burkett also previously spent years at advanced micro devices  inc  or amd  where he held a variety of positions including chief financial officer  senior vice president and corporate controller 
+mr 
+burkett holds bs and mba degrees from the university of arizona 
+jeffrey d 
+fisher has been the executive vice president  worldwide sales of nvidia since july he has over years of sales and marketing experience in the semiconductor industry 
+mr 
+fisher holds a bsee degree from purdue university and an mba degree from santa clara university 
+david m 
+shannon joined nvidia in august as vice president and general counsel 
+from to  mr 
+shannon held various counsel positions at intel  including the most recent position of vice president and assistant general counsel 
+mr 
+shannon also practiced for eight years in the law firm of gibson dunn and crutcher  focusing on complex commercial and high technology related litigation 
+mr 
+shannon holds ba and ba degrees from pepperdine university 
+di ma was vice president of operations from july through january  on january   dr 
+ma concluded his employment at nvidia 
+from to  dr 
+ma was with standard microsystems  most recently serving as the senior vice president of operations 
+previously  dr 
+ma held management positions in engineering at motorola inc  or motorola  and was an adjunct professor at state university of new york 
+dr 
+ma holds a bs in physics from the national taiwan university and an ms degree and a ms in electrical engineering from the state university of new york 
+daniel f 
+vivoli has been executive vice president of marketing since december from to december  mr 
+vivoli held management positions  most recently as vice president of product marketing  at silicon graphics  inc  a computing technology company 
+from to  mr 
+vivoli held various marketing positions at hewlett packard company 
+mr 
+vivoli holds a bsee degree from the university of illinois at champaign urbana 
+available information our annual report on form k  quarterly reports on form q  current reports on form k and  if applicable  amendments to those reports filed or furnished pursuant to section a of the exchange act are available free of charge on or through our internet website  http www 
+nvidia 
+com  as soon as reasonably practicable after we electronically file such material with  or furnish it to  the securities and exchange commission 
+our website and the information contained therein as connected thereto is not intended to be incorporated into the annual report on form k 
+item properties our headquarters complex is located on a leased site in santa clara  california and is comprised of five buildings 
+additionally  we lease three other buildings in santa clara with one used as warehouse space and the other two used as lab space 
+outside of santa clara  we lease space in austin  texas  berkeley  california  beaverton  oregon  bedford  massachusetts  bellevue  washington  chandler  arizona  durham  north carolina  greenville  south carolina  fort collins  colorado  honolulu  hawaii  and redmond  washington 
+these facilities are used as design centers and or sales and administrative offices 
+outside of the united states  we lease space in singapore  taipei  taiwan  hsin chu  taiwan  yokohama  japan  seoul  korea  beijing  china  shanghai  china  wanchai  hong kong  bangalore  india  paris  france  moscow  russia  munich  germany  and theale  england 
+these facilities are used primarily to support our customers and operations and as sales and administrative offices 
+in addition  we lease space in wurselen  germany  which is used primarily as a design center 
+we believe that we currently have sufficient facilities to conduct our operations for the next twelve months  although we expect to lease additional facilities throughout the world as our business requires 
+for additional information regarding obligations under leases  see note to the consolidated financial statements under the subheading lease obligations  which information is hereby incorporated by reference 
+item legal proceedings dfx on december   nvidia corporation and one of our indirect subsidiaries entered into an agreement to purchase certain graphics chip assets from dfx 
+the dfx asset purchase closed on april  in may  we were served with a complaint filed by the landlord of dfx s san jose  california commercial real estate lease 
+in october  dfx filed for chapter bankruptcy protection in the united states bankruptcy court for the northern district of california 
+in december  we were served with a complaint filed by the landlord of dfx s austin  texas commercial real estate lease 
+the landlords complaints both assert claims for  among other things  interference with contract  successor liability and fraudulent transfer 
+the landlords are seeking to recover  among other things  amounts owed on their leases in the aggregate amount of approximately million 
+in march  we were served with a complaint filed by the trustee appointed by the bankruptcy court to represent the interests of the dfx bankruptcy estate 
+the trustee s complaint asserts claims for  among other things  successor liability and fraudulent transfer 
+the trustee s complaint seeks additional payments from us  the amount of which has not been quantified 
+the landlords actions have been removed to the bankruptcy court from the superior court of california and consolidated with the trustee s action for purposes of discovery 
+discovery is currently proceeding and no trial date has been set 
+we believe the claims asserted against us are without merit and we will continue to defend ourselves vigorously 
+opti incorporated on october   opti incorporated  or opti  filed a complaint for patent infringement against nvidia in the united states district court for the eastern district of texas 
+opti asserts that unspecified nvidia chipsets infringe five united states patents held by opti 
+opti seeks unspecified damages for our conduct  attorneys fees and triple damages for alleged willful infringement by nvidia 
+nvidia filed a response to this complaint in december discovery has not begun and no trial date has been set 
+we believe the claims asserted against us are without merit and we will continue to defend ourselves vigorously 
+american video graphics in august  a texas limited partnership named american video graphics  lp  or avg  filed three separate complaints for patent infringement against various corporate defendants not including nvidia in the united states district court for the eastern district of texas 
+avg initially asserted that each of the approximately thirty defendants sells products that infringe one or more of seven separate patents that avg claims relate generally to graphics processing functionality 
+each of the three lawsuits targeted a different group of defendants  one case involves approximately twenty of the leading personal computer manufacturers  the pc makers case  one case involves the three leading video game console makers  the game console case  and one case involves approximately ten of the leading video game publishers  the game publishers case 
+in november  nvidia sought and was granted permission to intervene in two of the three pending avg lawsuits  the pc makers case and the game console case 
+nvidia s complaint in intervention alleges both that the patents in suit are invalid and that  to the extent avg s claims target nvidia products  the asserted patents are not infringed 
+two other leading suppliers of graphics processing products  intel and ati  have also intervened in the cases  ati in both the pc makers and game console case  and intel in the pc makers case 
+after some consensual reconfigurations proposed by the various parties  in january  the district court judge entered docket control and discovery orders in the three lawsuits 
+the pc makers case now involves four separate patents and is currently scheduled for trial beginning on september  the game console case involves a single patent and is currently scheduled for trial beginning on december  we believe that  to the extent avg s infringement allegations target functionality that may be performed by nvidia products  those claims are without merit  and we will continue to defend ourselves and our products vigorously 
+we are subject to other legal proceedings  but we do not believe that the ultimate outcome of any of these proceedings will have a material adverse effect on our financial position or overall trends in results of operations 
+however  if an unfavorable ruling were to occur in any specific period  there exists the possibility of a material adverse impact on the results of operations of that period 
+item submission of matters to a vote of security holders no matters were submitted to a vote of our security holders during the fourth quarter of fiscal part ii item market for registrant s common equity  related stockholder matters and issuer repurchases of equity securities our common stock is traded on the nasdaq national market under the symbol nvda 
+public trading of our common stock began on january  prior to that  there was no public market for our common stock 
+as of march   we had approximately stockholders of record  not including those shares held in street or nominee name 
+the following table sets forth for the periods indicated the high and low sales price for our common stock as quoted on the nasdaq national market high low year ended january  first quarter through march  year ended january  fourth quarter third quarter second quarter first quarter year ended january  fourth quarter third quarter second quarter first quarter dividend policy we have never paid and do not expect to pay cash dividends for the foreseeable future 
+equity compensation plan information information regarding our equity compensation plans  including both stockholder approved plans and non stockholder approved plans  will be contained in our definitive proxy statement with respect to our annual meeting of stockholders under the caption compensation equity compensation plan information  and is incorporated by reference into this report 
+issuer purchases of equity securities on august   we announced a stock repurchase program under which we may purchase up to million of our common stock over a three year period through august the repurchases will be made in the open market or in privately negotiated transactions  from time to time  in compliance with rule b under the securities exchange act of  subject to market conditions  applicable legal requirements and other factors 
+our stock repurchase program does not obligate us to acquire any particular amount of common stock and may be suspended at any time at our discretion 
+the repurchases will be funded from our available working capital 
+during fiscal  we repurchased million shares for a total cost of approximately million 
+we did not repurchase any shares during the fourth quarter of fiscal period total number of shares purchased average price paid per share total number of shares purchased as part of publicly announced plans of programs approximate dollar value of shares that may yet be purchased under the plans or programs july  through august  august  through september  september  through october  total represents average price paid per share during the third quarter of fiscal item selected financial data the following selected financial data should be read in conjunction with our financial statements and the notes thereto  and with item  management s discussion and analysis of financial condition and results of operations 
+the consolidated statement of income data for the years ended january   january  and january  and the consolidated balance sheet data as of january  and january  have been derived from and should be read in conjunction with our audited consolidated financial statements and the notes thereto included herein 
+the consolidated statement of income data for the years ended january  and january  is derived from audited consolidated financial statements and the notes thereto which are not included in this annual report on form k 
+the consolidated balance sheet data as of january   january  and january  is derived from audited consolidated financial statements and the notes thereto which are not included in this annual report on form k 
+year ended january  january  january  january  january  a  b c  d e  f in thousands  except per share data consolidated statement of income data revenue gross profit income from operations income before income tax expense income tax expense net income basic net income per share diluted net income per share shares used in basic per share computation shares used in diluted per share computation january  january  january  january  january  in thousands consolidated balance sheet data cash  cash equivalents and marketable securities total assets capital lease obligations  less current portion deferred revenue deferred income tax liability long term debt long term liabilities total stockholders equity cash dividends declared per common share a fiscal included a charge of million related to the write off of acquired research and development expense from the purchase of mediaq  inc that had not yet reached technological feasibility and has no alternative future use 
+b fiscal included a charge of million in connection with our convertible subordinated debenture redemption 
+c fiscal included million in additional revenue related to our settlement of our arbitration with microsoft regarding xbox pricing 
+d fiscal included a charge for stock option exchange expenses of million related to personnel associated with cost of revenue for manufacturing personnel  research and development and sales  general and administrative of million  million and million  respectively 
+e fiscal included million of acquisition charges attributable to expenses related to our acquisition of assets from dfx 
+f fiscal included a charge of million related to our relocation from our previous headquarters 
+item management s discussion and analysis of financial condition and results of operations the following discussion and analysis of our financial condition and results of operations should be read in conjunction with selected financial data  our consolidated financial statements and related notes thereto  and the business risks section at the end of this item  as well as other cautionary statements and risks described elsewhere in this annual report  before deciding to purchase  hold or sell shares of our common stock 
+overview our company nvidia corporation is a worldwide leader in graphics and digital media processors dedicated to creating products that enhance the interactive experience on consumer and professional computing platforms 
+we design  develop and market graphics processing units  or gpus  media and communications processors  or mcps  wireless media processors  or wmps  and related software 
+our products are integral to a wide variety of visual computing platforms  including enterprise personal computers  or pcs  consumer pcs  professional workstations  notebook pcs  personal digital assistants  cellular phones  game consoles and digital media centers 
+we were incorporated in california in april and reincorporated in delaware in april our objective is to be one of the most important and influential technology companies in the world 
+recent developments sony computer entertainment inc in december  we announced that sony computer entertainment inc  or scei  and nvidia are jointly developing a custom gpu incorporating our next generation geforce gpu and scei s system solutions for scei s next generation playstation 
+the collaboration includes licensing and royalties for the next generation playstation as well as all derivatives  including next generation digital consumer electronics devices 
+in addition  we are licensing to scei software development tools for creating shaders and advanced graphics capabilities 
+for fiscal  we expect to recognize revenue of approximately million from development and software license fees associated with this collaboration 
+depending on the ultimate success of this next generation platform  we expect to generate  starting in fiscal  revenue ranging from million to million annually from technology license fees and royalties over a four year period  with the possibility of additional royalties for several years thereafter 
+the additional royalty stream will depend on the use and success of our technology in future digital consumer electronics devices such as digital televisions and media servers 
+intel cross license agreement on november   nvidia and intel announced that the companies signed a broad  multi year patent cross license agreement spanning multiple product lines and product generations 
+additionally  the companies signed a multi year chipset agreement granting nvidia a license to implement intel s front side bus technology 
+we believe that this agreement opens a significant opportunity for us to bring our nvidia nforce brand to the intel segment 
+we expect to commence shipments of our first intel based mcp product during the first quarter of fiscal geforce series in april  we announced our latest flagship gpu architecture  the geforce series 
+the geforce series offers a number of new features  including a faster architecture than our geforce fx series  compliance with many of the latest software standards and on chip video processors for high definition encoding and decoding and direct to television playback 
+the geforce series offers more flexibility for game designers and graphic artists  while increasing performance over our previous top end product  the geforce fx during the second quarter of fiscal  we launched the production shipment of the geforce ultra  gt and  the industry s first gpus to support microsoft s directx shader model during the third quarter of fiscal  we launched the production shipment of the geforce gt and  which are intended for the mainstream market  and the geforce  which delivers the geforce series architecture and performance to the value pc segment 
+in december  we introduced a version of the geforce with turbocache technology 
+nvidia turbocache technology is a new  patent pending hardware and software technology  which allows a gpu to render directly to system memory instead of using local memory on the graphics card 
+many of the world s leading pc oems  system builders  and add in card partners have announced plans to build systems and graphics cards utilizing the geforce with turbocache technology 
+in december  we announced nvidia purevideo technology  which brings consumer electronics quality video to pcs 
+purevideo technology eliminates the need for separate hardware or chipsets and takes the load off the pc s multi purpose cpu 
+new notebooks and media centers powered by geforce with purevideo technology are expected to be introduced to the market soon 
+peripheral component interconnect express  or pci express the transition to pci express was central to our gpu and mcp objectives during fiscal industry adoption of pci express was slower than expected during our fiscal in february  we announced a top to bottom family of pci express gpus 
+by using a pci express high speed interconnect  or hsi  which is a complex piece of networking technology that performs high speed bi directional interconnect protocol conversion  we were able to transform our geforce family of gpus into pci express compatible gpus 
+in june  we executed on our strategy to deliver a full line of gpus ready to support pci express chipsets 
+our first pci express graphics solutions  the geforce pcx series  were released for retail sale during the second quarter of fiscal in september  we announced the geforce gt and the geforce in october  we announced the geforce  our first native pci express gpus 
+in november  we announced the launch of geforce go gpu  our first native pci express gpu for notebook pcs 
+in may  we announced the mobile pci express module specification  or mxm 
+mxm was jointly developed by nvidia and leading notebook pc manufacturers in an effort to accelerate the adoption of pci express based notebooks in all market segments 
+mxm is an open design specification that supports a wide range of graphics solutions from any gpu manufacturer  allowing system integrators maximum flexibility for build to order with various graphics solutions 
+mxm also serves as the primary delivery vehicle for our geforce go series of gpus 
+in august  we announced that pci sig  the special interest group responsible for conventional pci  pci x and pci express industry standard i o technologies  had added our pci express technology based products to the pci sig integrators list  including gpus designed for workstations  desktop pcs and notebook pcs 
+in february  we announced the nvidia quadro fx go mobile gpu for pci express  which provides the performance  programmability  precision and quality that cad  dcc and scientific applications require 
+wmp business during the first quarter of fiscal  motorola  inc announced their decision to incorporate our goforce in their upcoming new line of g multimedia phones 
+in july  we announced that samsung electronics co  or samsung  had selected our goforce media processor for the sch m mobile intelligent terminal by samsung  or mits  phone 
+we now have design wins with three of the world s top five cellular phone oems motorola  samsung and lg electronics  inc in september  we unveiled the goforce d  the world s first d wmp 
+in february  we announced the goforce d over the next several years  we expect digital media processing technology to play a critical role in the cellular phone industry 
+scalable link interface technology in june  we unveiled a new scalable link interface  or sli  technology that takes advantage of the increased bandwidth of the pci express bus architecture to allow two nvidia based graphics cards to operate in a single pc or workstation 
+pci express based pcs and workstations based on nvidia sli technology became available in the second half of fiscal from pc and workstation manufacturers 
+nvidia nforce during the first quarter of fiscal  we launched production of the nvidia nforce gb mcp  the first single chip mcp to offer gigabit ethernet  dual independent serial advanced technology attachment  or sata  controllers  industry leading redundant array of independent disks  or raid  features and hardware security processing 
+in june  we announced the release of the nvidia nforce ultra mcp  a mcp for motherboards and pc systems based on the amd computing platform 
+in october  we introduced the nvidia nforce mcps  our new family of high end pci express based mcps for amd computing environments 
+nvidia nforce mcps provide the platform technology that is designed to power this year s fastest gaming  enthusiast  and digital media pcs and motherboards  driving the pci express transition 
+in january  we introduced nvidia nforce professional mcps  which currently are the only pci express core logic solutions for amd opteron processor based server and workstation platforms 
+the nvidia nforce professional mcp family includes the nvidia nforce professional and the mcp 
+share based payment since inception  we have used stock options and our employee stock purchase program as fundamental components of our compensation packages 
+to date we generally have not recognized compensation cost for employee stock options or shares sold pursuant to our employee stock purchase program 
+we believe that these incentives directly motivate our employees and  through the use of vesting  encourage our employees to remain with us 
+in december  the financial accounting standards board issued sfas no 
+r  share based payment  or sfas no 
+r 
+sfas no 
+r is effective for interim or annual periods beginning after june   and requires that we record compensation expense for stock options and our employee stock purchase plan using the fair value of those awards 
+expensing these incentives in future periods will materially and adversely affect our reported operating results as the stock based compensation expense would be charged directly against our reported earnings 
+to the extent that sfas no 
+r makes it more expensive to grant stock options or to continue to have an employee stock purchase program  we may decide to incur increased cash compensation costs 
+repatriation legislation the american jobs creation act of was signed into law on october  this act creates a temporary incentive for united states multinationals to repatriate accumulated income earned outside the united states at a federal effective tax rate of 
+on december   the financial accounting standards board  or fasb  issued fasb staff position no 
+fas  accounting and disclosure guidance for the foreign earnings repatriation provision within the american jobs creation act of  which allows an enterprise time beyond the financial reporting period of enactment to evaluate the effect of the act on its plan for reinvestment or repatriation of foreign earnings 
+we have started an evaluation of the effects of the repatriation provision  however  we do not expect to be able to complete this evaluation until after congress or the treasury department provide additional clarifying language on key elements of the provision 
+we have not provided for united states income taxes on a cumulative total of approximately million of undistributed earnings as of january  for certain non united states subsidiaries as we intended to reinvest these earnings indefinitely in operations outside of the united states 
+we are currently in the process of evaluating whether or not  and to what extent  if any  this provision may benefit us 
+we expect to complete such evaluation before the end of fiscal the range of possible amounts that we are considering for repatriation under this provision is between zero and million 
+the potential range of related income tax expense is between zero and million 
+future objectives and challenges gpu business during fiscal  we committed ourselves to recapture technology leadership in our gpu business  while creating an architecture that is cost efficient 
+with our geforce family  we captured a significant share of the performance gpu segment  and we are now focused on using that technology leadership position into the mainstream and value gpu segments 
+by the end of fiscal  we had a top to bottom product line that supports shader model and with sli  mxm  hsi  turbocache technology and purevideo technology 
+now  we are focused on growing our gpu business 
+pci express pci express is expected to enable a new level of performance for high bandwidth applications like graphics and networking 
+the transition to pci express  which is extremely complex  is central to our gpu and mcp objectives this fiscal year 
+we initiated this transition by creating our geforce pcx series of gpus  using hsi technology 
+during the second quarter of fiscal  we executed on our strategy to deliver a full line of gpus ready to support pci express chipsets 
+the transition to pci express was central to our gpu and mcp objectives during fiscal industry adoption of pci express was slower than expected during our fiscal and there is no assurance that the adoption rate will increase during fiscal our first pci express graphics solutions  the geforce pcx series  was released for retail sale during the second quarter of fiscal we expected to ramp up sales of our pci express products during the second quarter of fiscal  but as a result of intel s delayed pci express chipset production  followed by its product recall  the performance desktop segment was impacted by stalling our customers production ramp of our geforce pcx gpus 
+during the third quarter of fiscal  we announced and ramped up sales of the geforce gt  geforce and the geforce  our first native pci express gpus 
+gross margin improvement during the fourth quarter of fiscal  our gross margin was  an increase of from our gross margin of for the fourth quarter of fiscal our gross margin was for fiscal  an increase of from our gross margin of for fiscal these improvements in our gross margin reflect our continuing focus on delivering cost effective product architectures  enhancing business processes and driving profitable growth 
+we expect gross margin to improve by approximately to during the first quarter of fiscal as our geforce product family becomes an increasing portion of our revenue and as our nvidia nforce and nvidia nforce product revenue continues to increase 
+wmp business our wmp objective is to lead the multimedia handheld era by building exciting products that use our expertise  resources  and investments in digital media processing combined with our low power technology 
+our wmp business achieved record revenue during the fourth quarter of fiscal and is expected to achieve substantial revenue levels in fiscal with the wmps on our roadmap  we anticipate that future cellular phones will be able to receive television programs  record digital video like a camcorder  enable video phone calls  and be portable game players 
+critical accounting policies and estimates management s discussion and analysis of financial condition and results of operations are based upon our consolidated financial statements  which have been prepared in accordance with accounting principles generally accepted in the united states 
+the preparation of these financial statements requires us to make estimates and judgments that affect the reported amounts of assets  liabilities  revenue  cost of revenue  expenses and related disclosure of contingencies 
+on an on going basis  we evaluate our estimates  including those related to revenue recognition  accounts receivable  inventories  long lived assets  goodwill  income taxes and contingencies 
+we base our estimates on historical experience and on various other assumptions that are believed to be reasonable under the circumstances  the results of which form the basis for making judgments about the carrying values of assets and liabilities 
+we believe the following critical accounting policies affect our significant judgments and estimates used in the preparation of our consolidated financial statements 
+our management has discussed the development and selection of these critical accounting policies and estimates with the audit committee of our board of directors and the audit committee has reviewed our disclosures relating to our critical accounting policies and estimates in this report 
+revenue recognition product revenue we recognize revenue from product sales when persuasive evidence of an arrangement exists  the product has been delivered  the price is fixed and determinable and collection is reasonably assured 
+for all sales  we use a binding purchase order and in certain cases we use a contractual agreement as evidence of an arrangement 
+we consider delivery to occur upon shipment provided title and risk of loss have passed to the customer 
+at the point of sale  we assess whether the arrangement fee is fixed and determinable and whether collection is reasonably assured 
+if we determine that collection of a fee is not reasonably assured  we defer the fee and recognize revenue at the time collection becomes reasonably assured  which is generally upon receipt of cash 
+our policy on sales to distributors is to defer recognition of revenue and related cost of revenue until the distributors resell the product 
+we record estimated reductions to revenue for customer programs at the time revenue is recognized 
+our customer programs primarily involve rebates  which are designed to serve as sales incentives to resellers of our products in various target markets 
+we account for rebates in accordance with emerging issues task force issue  or eitf  accounting for consideration given by a vendor to a customer including a reseller of the vendor s products and  as such  we accrue for of the potential rebates and do not apply a breakage factor 
+unclaimed rebates  which historically have not been significant  are reversed to revenue upon expiration of the rebate 
+rebates typically expire six months from the date of the original sale 
+our customer programs also include marketing development funds  or mdfs 
+we account for mdfs as either a reduction of revenue or an operating expense in accordance with eitf mdfs represent monies paid to retailers  system builders  oems  distributors and add in card partners that are earmarked for market segment development and expansion and typically are designed to support our partners activities while also promoting nvidia products 
+if market conditions decline  we may take actions to increase amounts offered under customer programs  possibly resulting in an incremental reduction of revenue at the time such programs are offered 
+we also record a reduction to revenue by establishing a sales return allowance for estimated product returns at the time revenue is recognized  based primarily on historical return rates 
+however  if product returns for a particular fiscal period exceed historical return rates we may determine that additional sales return allowances are required to properly reflect our estimated exposure for product returns 
+license and development revenue for license arrangements that require significant customization of our intellectual property components  we generally recognize license revenue using the percentage of completion method of accounting over the period that services are performed 
+for all license and service arrangements accounted for under the percentage of completion method  we determine progress to completion based on actual direct labor hours incurred to date as a percentage of the estimated total direct labor hours required to complete the project 
+we periodically evaluate the actual status of each project to ensure that the estimates to complete each contract remain accurate 
+a provision for estimated losses on contracts is made in the period in which the loss becomes probable and can be reasonably estimated 
+to date  we have not recorded any such losses 
+costs incurred in advance of revenue recognized are recorded as deferred costs on uncompleted contracts 
+if the amount of revenue recognized exceeds the amounts billed to customers  the excess amount is recorded as unbilled accounts receivable 
+if the amount billed exceeds the amount of revenue recognized  the excess amount is recorded as deferred revenue 
+revenue recognized in any period is dependent on our progress toward completion of projects in progress 
+significant management judgment and discretion are used to estimate total direct labor hours 
+any changes in or deviations from these estimates could have a material effect on the amount of revenue we recognize in any period 
+investment impairments we review all of our investments quarterly for indicators of impairment 
+for non marketable equity securities  the impairment analysis requires significant judgment to identify events or circumstances that would likely have a significant adverse effect on the fair value of the investment 
+the indicators that we use to identify those events or circumstances include the investee s revenue and earnings trends relative to predefined milestones and overall business prospects  factors related to the investee s ability remain in business  such as the investee s liquidity  and the investee s receipt of additional funding at a lower valuation 
+investments identified as having an indicator of impairment are subject to further analysis to determine if the investment is other than temporarily impaired  in which case we write the investment down to its impaired value 
+when an investee is not considered viable from a financial point of view  we write down the entire investment since we consider the estimated fair market value to be nominal 
+if an investee obtains additional funding at a valuation lower than our carrying amount or requires a new round of equity funding to stay in operation and the new funding does not appear imminent  we presume that the investment is other than temporarily impaired  unless specific facts and circumstances indicate otherwise 
+impairments of investments in our portfolio  primarily impairments of non marketable equity securities  were nil in fiscal and accounts receivable we maintain an allowance for doubtful accounts receivable for estimated losses resulting from the inability of our customers to make required payments 
+management determines this allowance  which consists of an amount identified for specific customer issues as well as an amount based on general estimated exposure 
+our overall estimated exposure excludes significant amounts that are covered by credit insurance and letters of credit 
+if the financial condition of our customers  the financial institutions providing letters of credit  or our credit insurance carrier were to deteriorate  resulting in an impairment of their ability to make payments  additional allowances may be required that could adversely affect our operating results 
+furthermore  there can be no assurance that we will be able to obtain credit insurance in the future 
+our current credit insurance agreement expires on december  as of january   our allowance for doubtful accounts receivable was million and our gross accounts receivable balance was million 
+of the million  million was covered by credit insurance and million was covered by letters of credit 
+as a percentage of our gross accounts receivable balance  our allowance for doubtful accounts receivable has ranged between and during fiscal and as of january   our allowance for doubtful accounts receivable represented of our gross accounts receivable balance 
+if our allowance for doubtful accounts receivable would have been recorded at of our gross accounts receivable balance  then our allowance for doubtful accounts receivable balance at january  would have been approximately million  rather than the actual balance of million 
+inventories inventory cost is computed on an adjusted standard basis which approximates actual cost on an average or first in  first out basis 
+we write down our inventory for estimated lower of cost or market  obsolescence or unmarketable inventory equal to the difference between the cost of inventory and the estimated market value based upon assumptions about future demand  future product purchase commitments  estimated manufacturing yield levels and market conditions 
+if actual market conditions are less favorable than those projected by management  or if our future product purchase commitments to our suppliers exceed our forecasted future demand for such products  additional future inventory write downs may be required that could adversely affect our operating results 
+if actual market conditions are more favorable  we may have higher gross margins when products are sold 
+sales to date of such products have not had a significant impact on our gross margin 
+as of january   our inventory reserve was million 
+as a percentage of our gross inventory balance  our inventory reserve has ranged between and during fiscal and as of january   our inventory reserve represented of our gross inventory balance 
+if our inventory reserve would have been recorded at of our gross inventory balance  then our inventory reserve balance at january  would have been approximately million  rather than the actual balance of million 
+inventory reserves once established are not reversed until the related inventory has been sold or scrapped 
+valuation of long lived assets we review long lived assets  such as property and equipment and intangible assets subject to amortization  whenever events or changes in circumstances indicate that the carrying amount of such assets may not be recoverable 
+we utilize a two step approach to testing long lived assets for impairment 
+the first step tests for possible impairment indicators 
+if an impairment indicator is present  the second step measures whether the asset is recoverable based on a comparison of the carrying amount of the asset to the estimated undiscounted future cash flows expected to be generated by the asset 
+if the carrying amount of an asset exceeds its estimated future cash flows  an impairment charge is recognized by the amount by which the carrying amount of the asset exceeds the fair value of the asset 
+our review requires the use of judgment and estimates 
+no such impairment charges have occurred to date 
+however  future events or circumstances may result in a charge to earnings if we determine that the carrying value of a long lived asset is not recoverable 
+goodwill our impairment review process compares the fair value of the reporting unit in which the goodwill resides to its carrying value 
+we determined that our reporting units are equivalent to our operating segments for the purposes of completing our statement of financial accounting standards no 
+ or sfas no 
+ goodwill and other intangible assets  impairment test 
+we utilize a two step approach to testing goodwill for impairment 
+the first step tests for possible impairment by applying a fair value based test 
+the second step  if necessary  measures the amount of such an impairment by applying fair value based tests to individual assets and liabilities 
+we elected to perform our annual goodwill impairment review during the fourth quarter of each fiscal year 
+we completed our most recent annual impairment test during the fourth quarter of fiscal and concluded that there was no impairment 
+however  future events or circumstances may result in a charge to earnings in future periods due to the potential for a write down of goodwill in connection with such tests 
+income taxes statement of financial accounting standards no 
+ or sfas no 
+ accounting for income taxes  establishes financial accounting and reporting standards for the effect of income taxes 
+in accordance with sfas no 
+ we recognize federal  state and foreign current tax liabilities or assets based on our estimate of taxes payable or refundable in the current fiscal year by tax jurisdiction 
+we also recognize federal  state and foreign deferred tax assets or liabilities  as appropriate  for our estimate of future tax effects attributable to temporary differences and carryforwards  and we record a valuation allowance to reduce any deferred tax assets by the amount of any tax benefits that  based on available evidence and judgment  are not expected to be realized 
+our calculation of current and deferred tax assets and liabilities is based on certain estimates and judgments and involves dealing with uncertainties in the application of complex tax laws 
+our estimates of current and deferred tax assets and liabilities may change based  in part  on added certainty or finality to an anticipated outcome  changes in accounting or tax laws in the united states  or foreign jurisdictions where we operate  or changes in other facts or circumstances 
+in addition  we recognize liabilities for potential united states and foreign income tax contingencies based on our estimate of whether  and the extent to which  additional taxes may be due 
+if we determine that payment of these amounts is unnecessary or if the recorded tax liability is less than our current assessment  we may be required to recognize an income tax benefit or additional income tax expense in our financial statements 
+as of january   we had a valuation allowance of million 
+of the total valuation allowance  million is attributable to certain net operating loss and tax credit carryforwards resulting from the exercise of employee stock options 
+the tax benefit of these net operating loss and tax credit carryforwards  if and when realization is sustained  will be accounted for as a credit to stockholders equity 
+of the remaining valuation allowance at january   million relates to federal and state tax attributes acquired in certain acquisitions for which realization of the related deferred tax assets was determined not more likely than not to be realized due  in part  to potential utilization limitations as a result of ownership changes  and million relates to certain state deferred tax assets that management determined are not more likely than not to be realized due  in part  to projections of future taxable income 
+to the extent realization of the deferred tax assets related to certain acquisitions becomes probable  recognition of these tax benefits would first reduce goodwill to zero  then reduce other non current intangible assets related to the acquisition to zero with any remaining benefit reported as a reduction to income tax expense 
+to the extent realization of the deferred tax assets related to certain state tax benefits becomes probable  we would recognize an income tax benefit in the period such asset is more likely than not to be realized 
+contingencies we are subject to the possibility of various loss contingencies arising in the ordinary course of business 
+we consider the likelihood of loss or impairment of an asset or the incurrence of a liability  as well as our ability to reasonably estimate the amount of loss in determining loss contingencies 
+an estimated loss contingency is accrued when it is probable that an asset has been impaired or a liability has been incurred and the amount of loss can be reasonably estimated 
+we regularly evaluate current information available to us to determine whether such accruals should be adjusted and whether new accruals are required 
+results of operations the following table sets forth  for the periods indicated  certain items in our consolidated statements of income expressed as a percentage of revenue 
+year ended january  january  january  revenue cost of revenue cost of revenue related to stock option exchange gross profit operating expenses research and development sales  general and administrative in process research and development stock option exchange total operating expenses income from operations interest and other income  net convertible debenture redemption expense income before income tax expense income tax expense net income fiscal years ended january   january  and january  revenue during the second quarter of fiscal  we began reporting three product line operating segments the gpu business  which is composed of products that support desktop pcs  notebook pcs and professional workstations  the mcp business  which is composed of nvidia nforce products and xbox related products  and the wmp business  which is comprised of goforce products that support handheld personal digital assistants and cellular phones 
+please refer to note of the notes to the consolidated financial statements for further information 
+revenue was billion in fiscal  compared to billion in fiscal  which represented an increase of 
+the revenue increase from fiscal to fiscal was primarily the result of increased sales of our nvidia quadro workstation products  increased memory sales  increased sales of our handheld products  increased sales of our notebook gpu products  and increased sales of our desktop products  offset by decreased sales of our xbox products 
+the increase in sales of our nvidia quadro workstation products in fiscal was due to unit sales volume increases  and an increase in average selling prices as a result of increased board sales 
+the increase in memory sales in fiscal was a result of the alignment of memory sales with the introduction of our geforce products during the period 
+the increase in handheld sales in fiscal was primarily due to our acquisition of mediaq  inc in october  which represented our initial entry into the handheld market and to sales of our goforce product 
+the increase in notebook gpu sales in fiscal resulted from sales of our geforce fx go notebook gpu products outpacing the decline in our older notebook gpu product lines during the period 
+the increase in desktop products in fiscal was a result of a significant increase in sales of our high end desktop products  offset by a slight decrease in mainstream desktop products 
+high end desktop sales increased in fiscal primarily due to unit volume increases primarily related to our geforce and products 
+the decrease in mainstream desktop sales in fiscal was mainly due to competitive pricing in the mainstream consumer segment offset by the ramp of product sales of our geforce with turbocache technology during the fourth quarter of fiscal sales of our xbox products have historically fluctuated based on the timing of orders from microsoft 
+revenue from sales to microsoft in fiscal was slightly lower than fiscal due to unit sales volume increases offset by a lower average sales price 
+during fiscal  microsoft announced that it had entered into an agreement with one of our competitors to develop technology for future xbox products and services 
+the impact that this announcement may have on our future revenue from microsoft is uncertain  but we anticipate that we will not achieve historical levels of xbox revenue in fiscal fiscal was a week year  compared to fiscal which was a week year  and we believe that this extra week may have had a positive impact on our revenue in fiscal however  we are not able to quantify the effect of the slightly longer year on our revenue 
+revenue was billion in fiscal  compared to billion in fiscal  which represented a decrease of 
+this revenue decrease was primarily the result of a significant decrease in sales of xbox processors to microsoft  offset by growth in our gpu  mcp and wmp products 
+revenue from sales to customers outside of the united states and other americas accounted for  and of total revenue for fiscal  and  respectively 
+revenue by geographic region is allocated to individual countries based on the location to which the products are initially billed even if the foreign cems and add in board and motherboard manufacturers revenue is attributable to end customers in a different location 
+the increase in the percentage of revenue from sales to customers outside of the united states and other americas for fiscal as compared to fiscal and for fiscal as compared to fiscal is primarily due to decreased sales of xgpus and mcps used in the microsoft xbox product  which are billed to microsoft in the united states 
+sales to microsoft accounted for approximately of our revenue for fiscal our three other largest customers accounted for approximately of our revenue for fiscal sales to microsoft accounted for approximately of our revenue for fiscal our three other largest customers accounted for approximately of our revenue for fiscal in fiscal  sales to microsoft accounted for approximately of our revenue 
+our three other largest customers accounted for approximately of our revenue for fiscal gross profit gross profit consists of total revenue  net of allowances  less cost of revenue 
+cost of revenue consists primarily of the cost of semiconductors purchased from subcontractors  including wafer fabrication  assembly  testing and packaging  manufacturing support costs  including labor and overhead associated with such purchases  final test yield fallout  inventory provisions and shipping costs 
+gross margin is the ratio of gross profit to revenue 
+our gross margin can vary in any period depending on the mix of types of products sold 
+our gross margin was  and in fiscal  and  respectively 
+gross margin improved during fiscal compared to fiscal as a result of three primary factors 
+first  during fiscal our geforce fx series of gpu products had experienced lower gross margins than previous series of geforce gpu products  such as the geforce series 
+company wide efforts were made to drive down cost and improve gross margin and  as a result  during fiscal  we were able to improve our gross margin 
+in addition  in fiscal  we realized increased sales of our performance geforce fx desktop gpu products and began shipping our geforce series gpus  which are among our highest gross margin products 
+finally  revenue from our nvidia quadro workstation products  which typically provide the highest gross margins of any of our products  increased as a percentage of our total revenue during fiscal this increase in our mix of revenue toward higher margin products led to a positive impact on overall gross margin 
+these improvements in our gross margin reflect our continuing focus on delivering cost effective product architecture  enhancing business process and driving profitable growth 
+we expect gross margin to improve by approximately to during the first quarter of fiscal as our geforce product family comprises an increasing portion of our revenue and as nvidia nforce product revenue continues to increase 
+gross margin for fiscal as compared to fiscal decreased primarily due to a shift in the mix of product sales to our geforce fx products 
+our geforce fx products generally experienced lower gross margins than previous geforce products 
+this decrease was offset by an increase in gross margin on sales of xbox processors in fiscal  which resulted from the pricing settlement with microsoft that we announced on february  operating expenses research and development year ended year ended jan 
+ jan 
+ jan 
+ jan 
+ change change change change in thousands research and development salaries and related benefits computer software and lab equipment new product development facility expense depreciation and amortization other total research and development as a percentage of net revenue research and developments expenses increased by million  or  from fiscal to fiscal primarily due to a million increase related to additional personnel and a million increase in new product developments costs related to an overall increase in the number of product tape outs and in prototype materials 
+depreciation and amortization increased million due to emulation hardware and software programs that were purchased during fiscal  resulting in a full year of depreciation in fiscal compared to a partial year of depreciation in fiscal computer software and equipment increased million primarily due to increased allocation of information technology expenses and facilities increased million due to increased facilities expense allocation  both based on the growth in headcount 
+research and development expenses increased by million  or  from fiscal to fiscal primarily due to a million increase related to additional personnel  including approximately employees that we hired as a part of our acquisition of mediaq and a million increase in depreciation and amortization  offset by a million decrease in new product development costs 
+we anticipate that we will continue to devote substantial resources to research and development  and we expect these expenses to increase in absolute dollars in the foreseeable future due to the increased complexity and the greater number of products under development 
+research and development expenses are likely to fluctuate from time to time to the extent we make periodic incremental investments in research and development and these investments may be independent of our level of revenue 
+sales  general and administrative year ended year ended jan 
+ jan 
+ jan 
+ jan 
+ change change change change in thousands sales  general and administrative salaries and related benefits advertising and promotions legal and accounting fees facility expense depreciation and amortization other total sales  general and administrative as a percentage of net revenue sales  general and administrative expenses increased million  or  from fiscal to fiscal primarily due to an million increase related to additional personnel and a million increase in advertising and promotion costs for tradeshows and new product launches and other marketing costs  including travel and customer samples 
+these increases were offset by a decrease of million in other expenses during the period  including a reduction in the allowance for doubtful accounts 
+sales  general and administrative expenses increased million  or  from fiscal to fiscal primarily due to a million increase in salaries and related benefits related to additional personnel  a million increase in advertising and promotions costs for tradeshows and marketing development and a million increase in computer software and equipment related to the enhancement of our computer systems and the depreciation and amortization of new equipment 
+these increases were offset by a million decrease in legal fees related to higher legal fees incurred during fiscal for various issues that have since been resolved  including an inquiry by the securities and exchange commission  the microsoft arbitration and shareholder lawsuits 
+in process research and development in connection with our acquisition of mediaq in august  we wrote off million of in process research and development expense  or ipr d  that had not yet reached technological feasibility and has no alternative future use 
+in accordance with sfas no 
+ accounting for research and development costs  as clarified by fin  applicability of sfas no 
+to business combinations accounted for by the purchase method an interpretation of sfas no 
+ amounts assigned to ipr d meeting the above stated criteria must be charged to expense as part of the allocation of the purchase price 
+interest income and interest expense interest income consists of interest earned on cash  cash equivalents and marketable securities 
+interest income decreased from million to million from fiscal to fiscal primarily due to the result of lower overall balances of cash  cash equivalents and marketable securities and due to lower market interest rates 
+interest income decreased from million to million from fiscal to fiscal primarily due to lower overall balances of cash  cash equivalents and marketable securities in fiscal when compared to fiscal this overall decrease was caused by the redemption of our million convertible subordinated debentures due  or the notes  in october interest expense primarily consists of interest incurred as a result of capital lease obligations and  prior to the redemption in october  interest on the notes 
+interest expense decreased from million to million from fiscal to fiscal interest expense decreased from million to million from fiscal to fiscal these decreases were primarily due to the redemption of the notes 
+other income expense  net other income and expense primarily consists of realized gains and losses on the sale of marketable securities 
+other income decreased by million from fiscal to fiscal primarily due to million of realized gains on the sale of marketable securities during fiscal as a result of our liquidation of a significant portion of our marketable securities portfolio in order to obtain the cash required to redeem the notes in october this decrease was offset by a million realized gain during fiscal related to the receipt of cash and marketable securities as part of an investment exchange 
+stock option exchange on september   we commenced an offer  or the offer  to our employees to exchange outstanding stock options with exercise prices equal to or greater than per share  or eligible options 
+the offer was implemented in order to improve employee morale by realigning the cash and equity components of our compensation programs  eliminate significant out of the money options and reduce the number of outstanding stock options relative to the number of shares outstanding  or options overhang  thereby reducing future potential dilution to existing stockholders 
+stock options to purchase an aggregate of approximately  shares were eligible for tender at the commencement of the offer  representing approximately of our outstanding stock options as of the commencement date of the offer 
+only employees of nvidia or one of our subsidiaries as of september  who continued to be employees through the offer termination date of october  were eligible to participate in the offer 
+employees who were on medical  maternity  worker s compensation  military or other statutorily protected leaves of absence  or a personal leave of absence  were also eligible to participate in the offer 
+employees who were terminated on or before the offer termination date of october   were not eligible to participate in the offer 
+in addition  our chief executive officer and chief financial officer and members of our board of directors were not eligible to participate in this offer 
+eligible employees who participated in the offer received  in exchange for the cancellation of eligible options  a fixed amount of consideration  represented by fully vested  non forfeitable common stock less applicable withholding taxes  equal to the number of shares underlying such eligible options  multiplied by  less the amount of applicable tax withholdings  divided by  the closing price of our common stock as reported on the nasdaq national market on october  we concluded that the consideration paid for the eligible options represented substantial consideration as required by issue f of eitf issue no 
+issues relating to accounting for stock compensation under apb opinion no 
+and fasb interpretation no 
+ as the per eligible option was at least the fair value for each eligible option  as determined using the black scholes option pricing model 
+in determining the fair value of the eligible options using the black scholes option pricing model  we used the following assumptions i the expected remaining life was deemed to be the remaining term of the options  which was approximately years  ii a volatility of during the expected life  iii a risk free interest rate of  and iv no dividends 
+the amount of per eligible option was established at the commencement of the offer period and remained unchanged throughout the offer period 
+variable accounting is not required under issue a of eitf issue no 
+for eligible options subject to the offer that were not surrendered for cancellation  because i the shares of our common stock offered as consideration for the surrendered options were fully vested and non forfeitable  and ii the number of shares to be received by an employee who accepted the offer was based on the number of surrendered eligible options multiplied by  divided by the fair value of the stock at the date of exchange 
+we further concluded that the look back and look forward provisions of fasb interpretation no 
+ paragraph did apply to the stock options surrendered for cancellation 
+based on the terms of the offer  variable accounting is not required for any of our outstanding stock options existing at the time of the offer 
+we did not grant stock options to any participants in the offer for at least six months following october  if any stock options were granted to participants in the offer within the six months following october   those stock options would have received variable accounting 
+on october   the offer period ended and we were obligated to exchange approximately  eligible options for total consideration of million  consisting of million in fully vested  non forfeitable shares of our common stock approximately  shares and million in employer and employee related taxes 
+the number of fully vested  non forfeitable shares of our common stock to be issued was determined by dividing the total consideration due less the amount of applicable tax withholdings by the closing price of our common stock on october   of per share 
+the shares of our common stock issued in exchange for eligible options were fully vested 
+however  a portion of the shares equal to of the total consideration  based on the closing price of our common stock on the offer termination date  have a six month holding period  and a portion of the shares equal to of such total consideration have a one year holding period 
+withholding taxes and other charges were deducted from the remaining of the total consideration  and the shares issued after such withholding did not have a holding restriction 
+income taxes we recognized income tax expense of million  million and million in fiscal  and  respectively 
+income tax expense as a percentage of income before taxes  or our annual effective tax rate  was in fiscal  in fiscal and in fiscal in the second quarter of fiscal  we revised our annual effective tax rate for the year from to 
+the change in rate was primarily due to federal and state tax credits and foreign tax rate differentials 
+in the third and fourth quarters of fiscal  we had significant items impacting our annual effective tax rate which included the million mediaq ipr d write off for which no tax benefit was recognized  the million income tax benefit of certain tax contingencies as a result of settlement of our federal income tax return exam by the internal revenue service  or irs  the million income tax expense for the accrual of united states deferred income taxes on previous permanently reinvested foreign earnings and the million income tax expense for the establishment of a valuation allowance on certain previously recognized state deferred tax assets determined not more likely than not the be realized due  in part  to projections of future taxable income 
+as a result of this change in rate and the special items incurred during  our annual effective tax rate for such year was 
+in fiscal  we did not record an income tax benefit for the third quarter loss before income tax expense as such loss was primarily attributable to a stock compensation charge for which no income tax benefit may have been available 
+as a result  our annual effective tax rate for fiscal was 
+as of january   the irs closed our federal income tax return exam for our fiscal and fiscal during fiscal  the joint committee on taxation  or the joint committee  completed its review of our irs exam for these fiscal years and closed such exam with no exception to the conclusions reached by the irs 
+accordingly  the results of our exam as recorded in our financial statements for fiscal accurately reflected our final settlement reached with the irs that was subsequently closed  without exception  by the joint committee during fiscal please refer to note of the notes to the consolidated financial statements for further information regarding the components of our income tax expense 
+convertible debenture redemption expense on october   we fully redeemed the notes 
+the aggregate principal amount of the notes outstanding was million  which included million of notes that we had purchased in the open market during the three months ended october  the redemption price was equal to approximately of the outstanding principal amount of the notes  plus accrued and unpaid interest up to  but excluding  the redemption date 
+in connection with the redemption of the notes  we recorded a one time charge in fiscal of approximately million  which included a million redemption premium and million of unamortized issuance costs 
+liquidity and capital resources as of january   we had million in cash  cash equivalents and marketable securities  an increase of million from the end of fiscal our portfolio of cash equivalents and marketable securities is managed by several financial institutions 
+our investment policy requires the purchase of top tier investment grade securities  the diversification of asset type and certain limits on our portfolio duration 
+operating activities generated cash of million  million and million during fiscal  and  respectively 
+the increase in cash flows from operating activities in fiscal when compared to fiscal was primarily related to the million increase in net income and changes in operating assets and liabilities 
+on our consolidated balance sheet  accrued liabilities increased million primarily due to an increase in rebates payable  which resulted from increased oem business 
+accounts payable increased million primarily due to purchases from subcontract manufacturers for inventory 
+offsetting these increases  our accounts receivable increased million primarily due to increased sales during the fourth quarter of fiscal as compared to the fourth quarter of fiscal investing activities have consisted primarily of purchases and sales of marketable securities  purchases of property and equipment  which include leasehold improvements for our facilities and intangible assets 
+investing activities used cash of million and provided cash of million during fiscal and  respectively 
+net cash used by investing activities during fiscal was primarily due to million of net purchases of marketable securities 
+in addition  we used million for capital expenditures primarily attributable to purchases of leasehold improvements for our new data center at our headquarters campus  new research and development emulation equipment  technology licenses  software and intangible assets 
+we expect to spend approximately million to million for capital expenditures during fiscal  primarily for purchases of software licenses  emulation equipment  computer and engineering workstations 
+in addition  we may continue to use cash in connection with the acquisition of new businesses or assets 
+financing activities provided cash of million during fiscal compared to cash used of million during fiscal cash provided in fiscal primarily resulted from million of common stock issued under employee stock plans  offset by million related to our stock repurchase program 
+in fiscal  the cash used was primarily due to the million redemption of the notes  which included million of notes that we had purchased during the three months ended october  stock repurchase program on august   we announced a stock repurchase program under which we may purchase up to million of our common stock over a three year period through august the repurchases will be made in the open market or in privately negotiated transactions  from time to time  in compliance with rule b under the securities exchange act of  subject to market conditions  applicable legal requirements and other factors 
+our stock repurchase program does not obligate us to acquire any particular amount of common stock and may be suspended at any time at our discretion 
+the repurchases will be funded from our available working capital 
+during fiscal  we repurchased million shares for a total cost of approximately million 
+we did not repurchase any shares during the fourth quarter of fiscal operating capital and capital expenditure requirements we believe that our existing cash balances and anticipated cash flows from operations will be sufficient to meet our operating  acquisition and capital requirements for at least the next months 
+however  there is no assurance that we will not need to raise additional equity or debt financing within this time frame 
+additional financing may not be available on favorable terms or at all and may be dilutive to our then current stockholders 
+we also may require additional capital for other purposes not presently contemplated 
+if we are unable to obtain sufficient capital  we could be required to curtail capital equipment purchases or research and development expenditures  which could harm our business 
+factors that could affect our cash used or generated from operations and  as a result  our need to seek additional borrowings or capital include decreased demand and market acceptance for our products and or our customers products  inability to successfully develop and produce in volume production our next generation products  competitive pressures resulting in lower than expected average selling prices  and new product announcements or product introductions by our competitors 
+for additional factors see business risks risks related to our operations our operating results are unpredictable and may fluctuate  and if our operating results are below the expectations of securities analysts or investors  our stock price could decline 
+shelf registration statement in december  we filed a form s with the sec under its shelf registration process 
+this shelf registration was declared effective by the sec on march  under this shelf registration statement  we may sell common stock  preferred stock  debt securities  warrants  stock purchase contracts and or stock purchase units in one or more offerings up to a total dollar amount of million 
+unless otherwise indicated in the applicable prospectus supplement  we intend to use the proceeds for working capital and general corporate purposes 
+dfx asset purchase the dfx asset purchase closed on april  under the terms of the asset purchase agreement  the cash consideration due at the closing was million  less million that was loaned to dfx pursuant to a credit agreement dated december  the asset purchase agreement also provided  subject to the other provisions thereof  that if dfx properly certified that all its debts and other liabilities had been provided for  then we would have been obligated to pay dfx two million shares of nvidia common stock 
+if dfx could not make such a certification  but instead properly certified that its debts and liabilities could be satisfied for less than million  then dfx could have elected to receive a cash payment equal to the amount of such debts and liabilities and a reduced number of shares of our common stock  with such reduction calculated by dividing the cash payment by per share 
+if dfx could not certify that all of its debts and liabilities had been provided for  or could not be satisfied  for less than million  we would not be obligated under the agreement to pay any additional consideration for the assets 
+we are currently party to litigation relating to certain aspects of the asset purchase and dfx s subsequent bankruptcy in october please refer to item legal proceedings for further information regarding this litigation 
+contractual obligations the following summarizes our contractual obligations that are both on our balance sheet and off balance sheet as of january  and the effect such obligations are expected to have on our liquidity and cash flow in future periods contractual obligations total within year years years after years in thousands capital lease obligations  including interest operating leases purchase obligations other liabilities reflected on our balance sheet under gaap total contractual obligations represents our inventory purchase commitments as of january  recently issued accounting pronouncements in march  the fasb approved the consensus reached on the emerging issues task force issue no 
+ or eitf  the meaning of other than temporary impairment and its application to certain investments 
+eitf provides guidance for identifying impaired investments and new disclosure requirements for investments that are deemed to be temporarily impaired 
+on september   the fasb issued a final staff position eitf issue that delays the effective date for the measurement and recognition guidance included in paragraphs through of eitf quantitative and qualitative disclosures required by eitf remain effective for fiscal we do not believe the impact of adoption of this eitf consensus will have a material impact on our consolidated financial position  results of operations or cash flows 
+in november  the fasb issued no 
+ or sfas no 
+ inventory costs  an amendment of arb no 
+ chapter sfas no 
+amends arb no 
+ chapter  to clarify that abnormal amounts of idle facility expense  freight  handling costs and wasted material spoilage should be recognized as current period charges 
+in addition  sfas no 
+requires that allocation of fixed production overhead to the cost of conversion be based on the normal capacity of the production facilities 
+the provision of sfas no 
+shall be effective for inventory costs incurred during fiscal years beginning after june  we do not expect the adoption of sfas no 
+to have a material impact on our consolidated financial position  results of operations or cash flows 
+in december  the fasb issued sfas no 
+ or sfas no 
+ exchanges of nonmonetary assets an amendment of apb opinion no 
+ accounting for nonmonetary transactions 
+sfas no 
+eliminates the exception from fair value measurement for nonmonetary exchanges of similar productive assets in paragraph b of apb opinion no 
+ accounting for nonmonetary transactions  and replaces it with an exception for exchanges that do not have commercial substance 
+sfas no 
+specifies that a nonmonetary exchange has commercial substance if the future cash flows of the entity are expected to change significantly as a result of the exchange 
+sfas no 
+is effective for fiscal periods beginning after june  we do not expect the adoption of sfas to have a material impact on our consolidated financial position  results of operations or cash flows 
+in december  the fasb issued statement of financial accounting standards no 
+r  or sfas no 
+r  share based payment  which requires the measurement and recognition of compensation expense for all stock based compensation payments 
+sfas no 
+r is effective for all interim and annual periods beginning after june  we are currently evaluating the impact of sfas no 
+r on our operating results and financial condition 
+the adoption of the sfas no 
+r fair value method will have a significant impact on our reported results of operations  although it will have no impact on our overall financial position 
+the impact of adoption of sfas no 
+r cannot be predicted at this time because that will depend on the fair value and number of share based payments granted in the future 
+however  had we adopted sfas no 
+r in prior periods  the magnitude of the impact of that standard would have approximated the impact of statement of financial accounting standards no 
+ accounting for stock based compensation  assuming the application of the black scholes model as described in the disclosure of pro forma net income loss and pro forma net income loss per share in note of the notes to the consolidated financial statements under the subheading stock based compensation 
+sfas no 
+r also requires the benefits of tax deductions in excess of recognized compensation cost to be reported as a financing cash flow  rather than as an operating cash flow as required under current literature 
+this requirement will reduce net operating cash flows and increase net financing cash flows in periods after adoption 
+business risks in addition to the risks discussed in item business and management s discussion and analysis of financial condition and results of operations  our business is subject to the risks set forth below 
+risks related to our operations our failure to estimate customer demand properly may result in excess or obsolete inventory or  conversely  may result in inadequate inventory levels  either of which could adversely affect our financial results 
+inventory purchases are based upon future demand forecasts  which may not accurately predict the quantity or type of our products that our customers will want in the future 
+in forecasting demand  we must make multiple assumptions which may prove to be incorrect 
+if there were to be a sudden and significant decrease in demand for our products  or if there were a higher incidence of inventory obsolescence because of rapidly changing technology and customer requirements  we could be required to write down our inventory and our gross margin could be adversely affected 
+additionally  if we fail to estimate customer demand properly before a new product is introduced  we may end up with excess inventory levels of older products  which could result in write downs of the value of our inventory and our gross margin could be adversely affected 
+during the second quarter of fiscal  demand for our non pci express mainstream desktop products declined significantly due in large part to unexpected competitive pricing actions taken by our competition 
+as a result of these competitive pricing actions  we were required to reduce the average selling prices of certain of our mainstream desktop products and our gross margin was adversely affected 
+if such competitive pricing actions were to recur in the future  we could be forced to continue to reduce average selling prices or to write down our inventory and our gross margin could be adversely affected 
+conversely  if we underestimate our customers demand for our products  we may have inadequate manufacturing capability and may not be able to obtain sufficient inventory to fill our customers orders on a timely basis 
+even if we are able to increase production levels to meet customer demand  we may not be able to do so in a cost effective manner 
+inability to fill our customers orders on a timely basis could damage our customer relationships  result in lost revenue  cause a loss in market share or damage our reputation 
+we order materials in advance of anticipated customer demand 
+therefore  we have limited ability to reduce our inventory purchase commitments quickly in response to any revenue shortfalls 
+substantially all of our sales are made on the basis of purchase orders rather than long term agreements 
+as a result  we may commit resources to the production of products without having received advance purchase commitments from customers 
+any inability to sell products to which we have devoted significant resources could harm our business 
+in addition  cancellation or deferral of product orders could result in our holding excess inventory  which could adversely affect our gross margin and restrict our ability to fund operations 
+we may build inventories during periods of anticipated growth and in connection with selling workstation boards directly to major original equipment manufacturers  or oems 
+additionally  because we typically recognize a substantial portion of our revenue in the last month of each quarter  we may not be able to reduce our inventory purchase commitments in a timely manner in response to any revenue shortfalls 
+we could be subject to excess or obsolete inventories and be required to take corresponding inventory write downs if growth slows or if we incorrectly forecast product demand 
+a reduction in demand could negatively impact our gross margin and financial results 
+we are dependent on key personnel and the loss of these employees could negatively impact our business 
+our performance is substantially dependent on the performance of our executive officers and key employees 
+none of our officers or employees is bound by an employment agreement  meaning our relationships with our officers and employees are at will 
+we do not have key person life insurance policies on any of our employees 
+the loss of the services of any of our executive officers  technical personnel or other key employees  particularly jen hsun huang  our president and chief executive officer  would harm our business 
+our success will depend on our ability to identify  hire  train and retain highly qualified technical and managerial personnel 
+our failure to attract and retain the necessary technical and managerial personnel would harm our business 
+the integration of new executives or personnel could disrupt our ongoing operations 
+failure to achieve expected manufacturing yields for existing and or new products would reduce our gross margin 
+semiconductor manufacturing yields are a function both of product design  which is developed largely by us  and process technology  which typically is proprietary to the manufacturer 
+since low yields may result from either design or process technology failures  yield problems may not be effectively determined or resolved until an actual product exists that can be analyzed and tested to identify process sensitivities relating to the design rules that are used 
+as a result  yield problems may not be identified until well into the production process 
+resolution of yield problems would require cooperation by and communication between us and the manufacturer 
+because of our potentially limited access to wafer fabrication capacity from our manufacturers  any decrease in manufacturing yields could result in an increase in our per unit costs and force us to allocate our available product supply among our customers 
+this could potentially harm customer relationships  our reputation  our revenue and our gross profit 
+our wafer manufacturers may be unable to achieve or maintain acceptable manufacturing yields in the future 
+our inability to achieve planned yields from our wafer manufacturers could harm our business 
+we also face the risk of product recalls or product returns resulting from design or manufacturing defects that are not discovered during the manufacturing and testing process 
+a significant number of product returns due to a defect or recall  could damage our reputation and result in customers working with our competitors 
+to stay competitive  we may have to invest more resources in research and development 
+if new competitors  technological advances by existing competitors or other competitive factors require us to invest significantly greater resources than anticipated in research and development efforts  our operating expenses would increase 
+we have substantially increased our engineering and technical resources and have  full time employees engaged in research and development as of january   compared to  employees as of january  during fiscal  and  research and development expenditures represented  and as a percentage of revenue  respectively 
+if we are required to invest significantly greater resources than anticipated in research and development efforts without an increase in revenue  our operating results would decline 
+we anticipate that we will continue to devote substantial resources to research and development  and we expect these expenses to increase in absolute dollars in the foreseeable future due to the increased complexity and the greater number of products under development 
+research and development expenses are likely to fluctuate from time to time to the extent we make periodic incremental investments in research and development and these investments may be independent of our level of revenue 
+our operating expenses are relatively fixed and we may have limited ability to reduce operating expenses quickly in response to any revenue shortfalls 
+during fiscal and  our operating expenses  which are comprised of research and development expenses and sales  general and administrative expenses  represented and of our total revenue  respectively 
+since we typically recognize a substantial portion of our revenue in the last month of each quarter  we may not be able to adjust our operating expenses in a timely manner in response to any revenue shortfalls 
+if we are unable to reduce operating expenses quickly in response to any revenue shortfalls it would negatively impact our financial results 
+failure to transition to new manufacturing process technologies could affect our ability to compete effectively 
+our strategy is to utilize the most advanced manufacturing process technology appropriate for our products and available from commercial third party foundries 
+use of advanced processes may have greater risk of initial yield problems and higher product cost 
+manufacturing process technologies are subject to rapid change and require significant expenditures for research and development 
+we continuously evaluate the benefits of migrating to smaller geometry process technologies in order to improve performance and reduce costs 
+we currently use micron  micron  micron and micron process technologies for our family of gpus  mcps and wmps 
+the majority of our newest gpus  the geforce series  geforce fx and the geforce fx go products are manufactured in micron and micron process technology 
+we have experienced difficulty in migrating to new manufacturing processes in the past and  consequently  have suffered reduced yields  delays in product deliveries and increased expense levels 
+we may face similar difficulties  delays and expenses as we continue to transition our products to smaller geometry processes 
+moreover  we are dependent on our relationships with our third party manufacturers to migrate to smaller geometry processes successfully 
+the inability by us or our third party manufacturers to transition to new manufacturing process technologies may adversely affect our operating results and negatively impact our gross margin 
+our operating results are unpredictable and may fluctuate  and if our operating results are below the expectations of securities analysts or investors  our stock price could decline 
+many of our revenue components fluctuate and are difficult to predict  and our operating expenses are largely independent of revenue in any particular period 
+it is  therefore  difficult for us to accurately forecast revenue and profits or losses 
+as a result  it is possible that in some quarters our operating results could be below the expectations of securities analysts or investors  which could cause the trading price of our common stock to decline  perhaps substantially 
+for example  on august   we announced that the operating results for our second quarter of fiscal included significantly lower amounts of revenue and earnings per share than had been expected by securities analysts 
+our announcement was followed by a decline in the trading price of our common stock 
+conversely  on february   we announced better than expected financial results for the fourth quarter of fiscal this announcement was followed by an increase in the price of our common stock 
+we believe that our quarterly and annual results of operations may continue to be affected by a variety of factors that could harm our revenue  gross profit and results of operations 
+factors that have affected our results of operations in the past  and could affect our results of operations in the future  include the following demand and market acceptance for our products and or our customers products  the successful development and volume production of our next generation products  new product announcements or product introductions by our competitors  our ability to introduce new products in accordance with oems design requirements and design cycles  changes in the timing of product orders due to unexpected delays in the introduction of our customers products  the level of growth or decline of the pc industry in general  slower than expected growth of demand for new technologies  fluctuations in the availability of manufacturing capacity or manufacturing yields  declines in spending by corporations and consumers related to perceptions regarding an economic downturn in the united states and international economies  competitive pressures resulting in lower than expected average selling prices  product rates of return in excess of that forecasted or expected due to quality issues  the rescheduling or cancellation of customer orders  the loss of a key customer or the termination of a strategic relationship  seasonal fluctuations associated with the pc and consumer products market  substantial disruption in our suppliers operations  as a result of a natural disaster  equipment failure  terrorism or other causes  supply constraints for and changes in the cost of the other components incorporated into our customers products  including memory devices  our inability to reduce the manufacturing costs of our products  legal and other costs related to defending intellectual property and other types of lawsuits  availability of licenses at commercially reasonable terms for the continued sale or development of new products  customer receivable bad debt write offs  costs associated with the repair and replacement of defective products  unexpected inventory write downs  and introductions of enabling technologies to keep pace with faster generations of processors and controllers 
+any one or more of the factors discussed above could prevent us from achieving our expected future revenue or net income 
+accordingly  we believe that period to period comparisons of our results of operations should not be relied upon as an indication of future performance 
+in addition  the results of any quarterly period are not necessarily indicative of results to be expected for a full fiscal year 
+risks related to our products we need to develop new products and to manage product transitions in order to succeed 
+our business depends to a significant extent on our ability to successfully develop new products for our target segments 
+our add in board and motherboard manufacturers  original design manufacturers  or odms  and major oem customers typically introduce new system configurations as often as twice per year  typically based on spring and fall design cycles 
+accordingly  when our customers are making their design decisions  our existing products must have competitive performance levels or we must timely introduce new products in order to be included in new system configurations 
+this requires that we do the following anticipate the features and functionality that consumers will demand  incorporate those features and functionalities into products that meet the exacting design requirements of oems  odms  cems and add in board and motherboard manufacturers  price our products competitively  and introduce the products to the market within the limited window for oems  odms and add in board and motherboard manufacturers 
+if odms and oems do not include our products in their systems  they will typically not use our products in their design systems until at least the next design configuration 
+therefore  we endeavor to develop close relationships with our oems and odms in an attempt to allow us to better anticipate and address customer needs in new products 
+as a result  we believe that significant expenditures for research and development will continue to be required in the future 
+we make these expenditures independent of the level of purchase commitments from our customers 
+if our new products are not adopted by our customers  our business results may be adversely affected 
+the success of new product introductions will depend on many factors  including the following proper new product definition  timely completion and introduction of new product designs  the ability of ibm  tsmc  umc  chartered and any additional third party manufacturers to effectively manufacture our new products in a timely manner  dependence on third party subcontractors for assembly  testing and packaging of our products and in meeting product delivery schedules and maintaining product quality  the quality of any new products  differentiation of new products from those of our competitors  market acceptance of our products and our customers products  and availability of adequate quantity and configurations of various types of memory products 
+a critical component of our product development effort is our partnerships with leaders in the computer aided design  or cad  industry 
+we have invested significant resources to develop relationships with industry leaders  including cadence design systems  inc and synopsys  inc  often assisting these companies in the product definition of their new products 
+we believe that forming these relationships and utilizing next generation development tools to design  simulate and verify our products will help us remain at the forefront of the d graphics  communications and networking markets and develop products that utilize leading edge technology on a rapid basis 
+we believe this approach assists us in meeting the new design schedules of pc oems and cellular phone manufacturers 
+if these relationships are not successful  we may not be able to develop new products in a timely manner  which could result in a loss of market share  a decrease in revenue and a negative impact on our operating results 
+in addition  our strategy includes utilizing the most advanced semiconductor process technology appropriate for our products and available from commercial third party foundries 
+use of advanced processes has in the past resulted in initial yield problems 
+new products that we introduce may not incorporate the features and functionality demanded by oems  odms  add in board and motherboard manufacturers and consumers of pcs and consumer electronics 
+even if we are able to provide the demanded features and functionality  we may not be able to successfully develop or introduce new products in sufficient volumes within the appropriate time to meet both the oems design cycles and market demand 
+we have in the past experienced delays in the development of some new products 
+our failure to successfully develop  introduce or achieve market acceptance for new digital media processors would harm our business 
+in particular  during the first half of fiscal  we experienced delays in the introduction of digital media processors using our next generation technology 
+in addition  we expected to ramp up sales of our pci express products during the second quarter of fiscal  but as a result of intel s delayed pci express chipset production  followed by their product recall  the performance desktop segment was impacted by stalling our customers production ramp of our geforce pcx gpus 
+any such delay in the future or failure of our digital media processors or other processors to meet or exceed specifications of competitive products could materially harm our business 
+our failure to identify new market or product opportunities or develop new products could harm our business 
+as our digital media processors develop and competition increases  we anticipate that product life cycles at the high end will remain short and average selling prices will continue to decline 
+in particular  we expect average selling prices and gross margins for our digital media processors to decline as each product matures and as unit volume increases 
+as a result  we will need to introduce new products and enhancements to existing products to maintain overall average selling prices and gross margins 
+in order for our digital media processors to achieve high volumes  leading pc oems  odms  and add in board and motherboard manufacturers must select our digital media processor for design into their products  and then successfully complete the designs of their products and sell them 
+we may be unable to successfully identify new product opportunities or to develop and bring to market new products in a timely fashion 
+in addition  we cannot guarantee that new products we develop will be selected for design into pc oems  odms  and add in board and motherboard manufacturers products  that any new designs will be successfully completed or that any new products will be sold 
+as the complexity of our products and the manufacturing process for our products increases  there is an increasing risk that we will experience problems with the performance of our products and that there will be delays in the development  introduction or volume shipment of our products 
+we may experience difficulties related to the production of current or future products or other factors that may delay the introduction or volume sale of new products we develop 
+in addition  we may be unable to successfully manage the production transition risks with respect to future products 
+failure to achieve any of the foregoing with respect to future products or product enhancements could result in rapidly declining average selling prices  reduced margins and reduced demand for products or loss of market share 
+in addition  technologies developed by others may render our digital media processors non competitive or obsolete or result in our holding excess inventory  any of which would harm our business 
+pci express is central to our gpu as well as mcp strategies and the outcome of this strategy will impact our business 
+pci express is expected to enable a new level of performance for high bandwidth applications like graphics and networking 
+the transition to pci express  which is extremely complex  is central to our gpu and mcp objectives this fiscal year 
+we initiated this transition by creating our geforce pcx series of gpus  using hsi technology 
+during the second quarter of fiscal  we executed on our strategy to deliver a full line of gpus ready to support pci express chipsets 
+we expected to ramp up sales of our pci express products during the second quarter of fiscal  but as a result of intel s delayed pci express chipset production  followed by their product recall  the performance desktop segment was impacted by stalling our customers production ramp of our geforce pcx gpus 
+during the third quarter of fiscal  we announced and ramped up sales of the geforce gt  geforce and the geforce  our first native pci express gpus 
+in may  we announced the mobile pci express module specification  or mxm 
+mxm was jointly developed by nvidia and leading notebook pc manufacturers in an effort to accelerate the adoption of pci express based notebooks in all market segments 
+mxm is an open design specification that supports a wide range of graphics solutions from most gpu manufacturers  allowing system integrators maximum flexibility for build to order with various graphics solutions 
+mxm also serves as the primary delivery vehicle for our geforce go series of gpus 
+industry adoption of pci express was slower than we expected during fiscal and there is no assurance that the adoption rate will increase during fiscal if our pci express compatible products do not meet consumer and or customer demand or expectations  our business results could suffer 
+we could suffer a loss of market share if our products contain significant defects 
+products as complex as those we offer may contain defects or experience failures when introduced or when new versions or enhancements to existing products are released 
+we have in the past discovered defects and incompatibilities with customers hardware in certain of our products and may experience delays or loss of revenue to correct any new defects or incompatibilities in the future 
+errors in new products or releases after commencement of commercial shipments could result in loss of market share  failure to achieve market acceptance  or loss of design wins 
+our products typically go through only one verification cycle prior to beginning volume production and distribution 
+as a result  our products may contain defects or flaws that are undetected prior to volume production and distribution 
+if these defects or flaws exist and are not detected prior to volume production and distribution  we may be required to reimburse customers for costs to repair or replace the affected products in the field 
+we may also be required to incur additional research and development costs to find and correct the defect  which could divert the attention of our management and engineers from the development of new products 
+these costs could be significant and could adversely affect our business and operating results 
+we may also suffer a loss of reputation and or a loss in our market share  either of which could materially harm our financial results 
+risks related to our partners we sell our products to a small number of customers and our business could suffer by the loss of these customers 
+we have only a limited number of customers and our sales are highly concentrated 
+although a small number of our customers represent the majority of our revenue  their end customers include a large number of oems and system integrators throughout the world 
+our sales process involves achieving key design wins with leading pc oems and major system builders and supporting the product design into high volume production with key cems  odms  motherboard and add in board manufacturers 
+these design wins in turn influence the retail and system builder channel that is serviced by cems  odms  motherboard and add in board manufacturers 
+our distribution strategy is to work with a small number of leading independent cems  odms  motherboard manufacturers  add in board manufacturers and distributors  each of which has relationships with a broad range of system builders and leading pc oems 
+currently  we sell a significant majority of our digital media processors directly to distributors  cems  odms  motherboard and add in board manufacturers  which then sell boards with our graphics processor to leading pc oems  retail outlets and to a large number of system builders 
+if we were to lose sales to our pc oems  cems  odms  motherboard and add in board manufacturers and were unable to replace the lost sales with sales to different customers  or if they were to significantly reduce the number of products they order from us  our revenue may not reach or exceed the expected level in any period  which could harm our financial condition and our results of operations 
+difficulties in collecting accounts receivable could result in significant charges against income  which could harm our business 
+our accounts receivable are highly concentrated and make us vulnerable to adverse changes in our customers businesses and to downturns in the economy and the industry 
+in addition  difficulties in collecting accounts receivable or the loss of any significant customer could materially and adversely affect our financial condition and results of operations 
+accounts receivable owed by foreign customers may be difficult to collect 
+we maintain an allowance for doubtful accounts for estimated losses resulting from the inability of our customers to make required payments 
+this allowance consists of an amount identified for specific customers and an amount based on overall estimated exposure 
+as of the end of fiscal  fiscal and fiscal our allowance for doubtful accounts represented  and of revenue for each fiscal quarter  respectively 
+if the financial condition of our customers were to deteriorate  resulting in an impairment of their ability to make payments  additional allowances may be required which could adversely affect our operating results 
+we may have to record additional reserves or write offs in the future  which could negatively impact our financial results 
+we depend on foundries and independent contractors to manufacture our products and these third parties may not be able to satisfy our manufacturing requirements  which would harm our business 
+we do not manufacture the semiconductor wafers used for our products and do not own or operate a wafer fabrication facility 
+our products require wafers manufactured with state of the art fabrication equipment and techniques 
+we utilize tsmc  ibm  umc and chartered to produce our semiconductor wafers and utilize independent subcontractors to perform assembly  testing and packaging 
+our wafer requirements represent a significant portion of the total production capacity at ibm 
+we depend on these suppliers to allocate to us a portion of their manufacturing capacity sufficient to meet our needs  to produce products of acceptable quality and at acceptable manufacturing yields  and to deliver those products to us on a timely basis at acceptable prices 
+these manufacturers may be unable to meet our near term or long term manufacturing or pricing requirements 
+we obtain manufacturing services on a purchase order basis 
+the foundries we use have no obligation to provide us with any specified minimum quantities of product 
+tsmc  ibm  umc and chartered fabricate wafers for other companies  including certain of our competitors  and could choose to prioritize capacity for other users  reduce or eliminate deliveries to us  or increase the prices that they charge us on short notice 
+if we are unable to meet customer demand due to reduced or eliminated deliveries  we could lose sales to customers  which would negatively impact our revenue and our reputation 
+because the lead time needed to establish a strategic relationship with a new manufacturing partner could be several quarters  there is no readily available alternative source of supply for any specific product 
+in addition  the time and expense to qualify a new foundry could result in additional expense  diversion of resources or lost sales any of which would negatively impact our financial results 
+we believe that long term market acceptance for our products will depend on reliable relationships with tsmc  ibm  umc  chartered and any other manufacturers we may use to ensure adequate product supply and competitive pricing to respond to customer demand 
+any difficulties like these would harm our business 
+we are dependent on third parties located outside of the united states for assembly  testing and packaging of our products  which reduces our control over the delivery and quantity of our products 
+our digital media processors are assembled and tested by siliconware precision industries company ltd  amkor technology inc  stats chippac incorporated and advanced semiconductor engineering  inc  all of which are located outside of the united states 
+we do not have long term agreements with any of these subcontractors 
+as a result of our dependence on third party subcontractors for assembly  testing and packaging of our products  we do not directly control product delivery schedules or product quality 
+any product shortages  quality assurance problems or political instability outside of the united states could increase the costs of manufacture  assembly or testing of our products  which could cause our gross margin to decline 
+due to the amount of time typically required to qualify assemblers and testers  we could experience significant delays in the shipment of our products if we are required to find alternative third parties to assemble or test our products or components 
+any such delays could result in a loss of reputation or a decrease in sales to our customers 
+we rely on third party vendors to supply tools to us for the development of our new products and we may be unable to obtain the tools necessary to develop these products 
+in the design and development of new products and product enhancements  we rely on third party software development tools 
+while we currently are not dependent on any one vendor for the supply of these tools  some or all of these tools may not be readily available in the future 
+for example  we have experienced delays in the introduction of products in the past as a result of the inability of then available software development tools to fully simulate the complex features and functionalities of our products 
+the design requirements necessary to meet consumer demands for more features and greater functionality from digital media processors in the future may exceed the capabilities of the software development tools that are available to us 
+if the software development tools we use become unavailable or fail to produce designs that meet consumer demands  our business could suffer 
+we may not be able to realize the potential financial or strategic benefits of business acquisitions  which could hurt our ability to grow our business  develop new products and sell our products 
+in the past we have acquired and invested in other businesses that offered products  services and technologies that we believed would help expand or enhance our products and services or help expand our distribution channels 
+we may enter into future acquisitions of  or investments in  businesses  in order to complement or expand our current businesses or enter into a new business segment 
+if we do consider an acquisition  strategic alliance or joint venture  the negotiations could divert management s attention as well as other resources 
+for any previous or future acquisition or investment  the following risks could impair our ability to grow our business and develop new products  and ultimately  could impair our ability to sell our products and may not lead to any improvements in our financial results difficulty in combining the technology  products  operations or workforce of the acquired business with our business  disruption of our ongoing businesses  difficulty in realizing the potential financial or strategic benefits of the transaction  diversion of management s attention from our business  difficulty in maintaining uniform standards  controls  procedures and policies  disruption of or delays in ongoing research and development efforts  diversion of capital and other resources  assumption of liabilities  difficulties in entering into new markets in which we have limited or no experience and where competitors in such market segments have stronger positions  and impairment of relationships with employees and customers  or the loss of key employees as a result of any integration of new businesses and management personnel 
+in addition  the consideration for any future acquisition could be paid in cash  shares of our common stock  the issuance of convertible debt securities or a combination of cash  convertible debt and common stock 
+if we pay a portion of the purchase price in cash  our cash reserves would be reduced 
+if the consideration is paid with shares of our common stock  or convertible debentures  the holdings of existing stockholders would be further diluted 
+we cannot forecast the number  timing or size of future acquisitions  or the effect that any such acquisitions might have on our operations or financial results 
+the impact on our future revenue by microsoft s announcement that it has entered into an agreement with one of our competitors to develop technology for future xbox products and services is uncertain 
+during fiscal  microsoft announced that it had entered into an agreement with one of our competitors to develop technology for future xbox products and services 
+the impact that this announcement may have on our future revenue from microsoft is uncertain  but we anticipate that we will not achieve historical levels of xbox revenue in fiscal revenue from microsoft during fiscal  fiscal and fiscal accounted for  and respectively  of our total revenue 
+if our revenue from microsoft declines during fiscal  we will need to increase revenue from other customers in order to be able to maintain our current revenue level and operating results 
+if we do not replace any reduction in revenue from microsoft with revenue from other customers  our operating results would be adversely affected 
+provisions in our certificate of incorporation  our bylaws and our agreement with microsoft could delay or prevent a change in control 
+our certificate of incorporation and bylaws contain provisions that could make it more difficult for a third party to acquire a majority of our outstanding voting stock 
+these provisions include the following the ability of the board of directors to create and issue preferred stock without prior stockholder approval  the prohibition of stockholder action by written consent  a classified board of directors  and advance notice requirements for director nominations and stockholder proposals 
+on march   we entered into an agreement with microsoft in which we agreed to develop and sell graphics chips and to license certain technology to microsoft and its licensees for use in the xbox 
+in the event that an individual or corporation makes an offer to purchase shares equal to or greater than of the outstanding shares of our common stock  microsoft has first and last rights of refusal to purchase the stock 
+the microsoft provision and the other factors listed above could also delay or prevent a change in control of nvidia 
+risks related to our competition the d graphics  platform processor and handheld industries are highly competitive and we may be unable to compete 
+the market for gpus  mcps and wmps for pcs and handhelds is intensely competitive and is characterized by rapid technological change  evolving industry standards and declining average selling prices 
+we believe that the principal competitive factors in this market are performance  breadth of product offerings  access to customers and distribution channels  backward forward software support  conformity to industry standard application programming interfaces  or apis  manufacturing capabilities  price of digital media processors and total system costs of add in boards and motherboards 
+we believe that our ability to remain competitive will depend on how well we are able to anticipate the features and functions that customers will demand and whether we are able to deliver consistent volumes of our products at acceptable levels of quality 
+we expect competition to increase both from existing competitors and new market entrants with products that may be less costly than ours  or may provide better performance or additional features not provided by our products  which could harm our business 
+further  we expect substantial competition from intel s publicized focus on moving to selling platform solutions dominated by intel products  such as the centrino platform 
+an additional significant source of competition is from companies that provide or intend to provide gpu and mcp solutions for the pc and wmp segments 
+some of our competitors may have greater marketing  financial  distribution and manufacturing resources than we do and may be more able to adapt to customer or technological changes 
+our current competitors include the following suppliers of mcps that incorporate a combination of d graphics  networking  audio  communications and input output  or i o  functionality as part of their existing solutions  such as ati  broadcom  intel  silicon integrated systems  inc and via  suppliers of standalone desktop gpus that incorporate d graphics functionality as part of their existing solutions  such as ati  creative technology  matrox electronics systems ltd 
+and xgi technology  inc  suppliers of standalone notebook gpus that incorporate d graphics functionality as part of their existing solutions  such as ati  silicon motion corporation and the joint venture of a division of sonicblue incorporated formerly s incorporated and via  and suppliers of wmps for handheld devices that incorporate advanced graphics functionality as part of their existing solutions  such as ati  renesas technology  broadcom and seiko epson 
+if and to the extent we offer products outside of the pc  consumer electronics and handheld segments  we may face competition from some of our existing competitors as well as from companies with which we currently do not compete 
+we cannot accurately predict if we will compete successfully in any new markets we may enter 
+if we are unable to compete in our current and any new markets  our financial results will suffer 
+our failure to achieve one or more design wins would harm our business 
+our future success will depend in large part on achieving design wins  which entails having our existing and future products chosen for hardware components or subassemblies designed by pc oems  odms  and add in board and motherboard manufacturers 
+our add in board and motherboard manufacturers and major oem and odm customers typically introduce new system configurations as often as twice per year  generally based on spring and fall design cycles 
+accordingly  at the time our oem and odm customers are making their decisions  our existing products must have competitive performance levels or we must timely introduce new products with such performance characteristics  consistent quality  correct price and an adequate feature set in order to be included in new system configurations 
+our failure to achieve one or more design wins would harm our business 
+the process of being qualified for inclusion in an oem s product can be lengthy and could cause us to miss a cycle in the demand of end users for a particular product feature  which also could harm our business 
+even if we achieve a significant number of design wins  there can be no assurance that our oem and odm customers will actually take the design to production or that the design will be commercially successful 
+our ability to achieve design wins also depends in part on our ability to identify and ensure compliance with evolving industry standards 
+unanticipated changes in industry standards could render our products incompatible with products developed by major hardware manufacturers and software developers  including intel and microsoft 
+such changes would require us to invest significant time and resources to redesign our products to ensure compliance with relevant standards 
+if our products are not in compliance with prevailing industry standards for a significant period of time  our ability to achieve design wins could suffer 
+if we are unable to achieve new design wins for existing or new customers  we may lose market share and our operating results would be negatively impacted 
+risks related to market conditions we are dependent on the pc market and the rate of its growth has and may in the future have a negative impact on our business 
+we derive the majority of our revenue from the sale of products for use in the desktop pc and notebook pc segments  including professional workstations 
+we expect to continue to derive most of our revenue from the sale or license of products for use in the desktop pc and notebook pc segments in the next several years 
+a reduction in sales of pcs  or a reduction in the growth rate of pc sales  will reduce demand for our products 
+moreover  changes in demand could be large and sudden 
+since pc manufacturers often build inventories during periods of anticipated growth  they may be left with excess inventories if growth slows or if they have incorrectly forecast product transitions 
+in these cases  pc manufacturers may abruptly suspend substantially all purchases of additional inventory from suppliers like us until the excess inventory has been absorbed 
+if our products do not continue to be accepted by the pc and consumer electronics segments or if demand by the pc and consumer electronics segments for new and innovative products decreases  our business and operating results would suffer 
+our success depends in part upon continued broad adoption of our digital media processors for d graphics in pc and consumer electronics applications 
+the market for digital media processors has been characterized by unpredictable and sometimes rapid shifts in the popularity of products  often caused by the publication of competitive industry benchmark results  changes in dynamic random access memory devices pricing and other changes in the total system cost of add in boards  as well as by severe price competition and by frequent new technology and product introductions 
+only a small number of products have achieved broad market acceptance and such market acceptance  if achieved  is difficult to sustain due to intense competition and frequent new technology and product introductions 
+since the pc segment is our core business  our business would suffer if for any reason our current or future digital media processors do not continue to achieve widespread acceptance in the pc segment 
+if we are unable to complete the timely development of products or if we were unable to successfully and cost effectively manufacture and deliver products that meet the requirements of the pc segment  we may experience a decrease in revenue which could negatively impact our operating results 
+additionally  there can be no assurance that the industry will continue to demand new products with improved standards  features or performance 
+if our customers and the market do not continue to demand new products with increased performance  features  functionality or standards  sales of our products could decline and our business and operating results could suffer 
+we are subject to risks associated with international operations which may harm our business 
+a significant portion of our semiconductor wafers are manufactured  assembled  tested and packaged by third parties located outside of the united states 
+additionally  we generated of our total revenue from sales to customers outside of the united states and other americas for the fiscal revenue from sales to customers outside of the united states and other americas for fiscal and accounted for and of total revenue  respectively 
+the manufacture  assembly  test and packaging of our products outside of the united states and sales to these customers outside of the united states and other americas subjects us to a number of risks associated with conducting business outside of the united states and other americas  including  but not limited to international economic and political conditions  unexpected changes in  or impositions of  legislative or regulatory requirements  labor issues in foreign countries  cultural differences in the conduct of business  inadequate local infrastructure  delays resulting from difficulty in obtaining export licenses for certain technology  tariffs  quotas and other trade barriers and restrictions  transportation delays  longer payment cycles  difficulty in collecting accounts receivable  fluctuations in currency exchange rates  imposition of additional taxes and penalties  different legal standards with respect to protection of intellectual property  the burdens of complying with a variety of foreign laws  and other factors beyond our control  including terrorism  civil unrest  war and diseases such as severe acute respiratory syndrome  or sars and bird flu 
+if sales to any of our customers outside of the united states and other americas are delayed or cancelled because of any of the above factors  our revenue may be negatively impacted 
+we also have sales offices in several international locations including taiwan  russia  japan  china  hong kong  germany  france and the united kingdom 
+we have a design center in germany and recently opened a design center in india 
+our international operations are subject to the many of the risks contained in the above list 
+difficulties with our international operations  including finding appropriate staffing  may divert management s attention and other resources all of which could negatively impact our operating results 
+currently  all of our arrangements with third party manufacturers and subcontractors provide for pricing and payment in united states dollars as are sales to our customers located outside of the united states and other americas 
+increases in the value of the united states dollar relative to other currencies would make our products more expensive  which would negatively impact our ability to compete 
+conversely  decreases in the value of the united states dollar relative to other currencies could result in our suppliers raising their prices in order to continue doing business with us 
+to date  we have not engaged in any currency hedging activities  although we may do so in the future 
+fluctuations in currency exchange rates could harm our business in the future 
+hostilities involving the united states and or terrorist attacks could harm our business 
+the financial  political  economic and other uncertainties following the terrorist attacks upon the united states led to a weakening of the global economy 
+subsequent terrorist acts and or the threat of future outbreak or continued escalation of hostilities involving the united states and iraq or other countries could adversely affect the growth rate of our revenue and have an adverse effect on our business  financial condition or results of operations 
+in addition  any escalation in these events or similar future events may disrupt our operations or those of our customers  distributors and suppliers  which could also adversely affect our business  financial condition or results of operations 
+our business is cyclical in nature and an industry downturn could harm our financial results 
+our business is directly affected by market conditions in the highly cyclical semiconductor industry  including alternating periods of overcapacity and capacity constraints  variations in manufacturing costs and yields  significant expenditures for capital equipment and product development and rapid technological change 
+if we are unable to respond to changes in our industry  which can be unpredictable and rapid  in an efficient and timely manner  our operating results could suffer 
+in particular  from time to time  the semiconductor industry has experienced significant and sometimes prolonged downturns characterized by diminished product demand and accelerated erosion of average selling prices 
+if we cannot take appropriate actions such as reducing our costs to sufficiently offset declines in demand during a downturn  our revenue and earnings will suffer during downturns 
+political instability in taiwan and in the people s republic of china or elsewhere could harm our business 
+because of our reliance on tsmc and umc  our business may be harmed by political instability in taiwan  including the worsening of the strained relations between the people s republic of china and taiwan  or if relations between the united states and the people s republic of china are strained due to foreign relations events 
+if any of our suppliers experienced a substantial disruption in their operations  as a result of a natural disaster  political unrest  economic instability  acts of terrorism or war  equipment failure or other cause  could harm our business 
+we are exposed to fluctuations in the market values of our portfolio investments and in interest rates 
+we invest in a variety of financial instruments  consisting principally of investments in commercial paper  money market funds and highly liquid debt securities of corporations  municipalities and the united states government and its agencies 
+these investments are denominated in united states dollars 
+we account for our investment instruments in accordance with sfas no 
+all of the cash equivalents and marketable securities are treated as available for sale under sfas no 
+investments in both fixed rate and floating rate interest earning instruments carry a degree of interest rate risk 
+fixed rate debt securities may have their market value adversely impacted due to a rise in interest rates  while floating rate securities may produce less income than expected if interest rates fall 
+part of our portfolio includes equity investments in publicly traded companies  the value of which are subject to market price volatility 
+due in part to these factors  our future investment income may fall short of expectations due to changes in interest rates or if the decline in fair value of our publicly traded equity investments is judged to be other than temporary 
+we may suffer losses in principal if forced to sell securities that decline in market value due to changes in interest rates 
+however  because our debt securities are classified as available for sale  no gains or losses are recognized due to changes in interest rates unless such securities are sold prior to maturity 
+our stock price may continue to experience significant short term fluctuations 
+the price of our common stock has fluctuated greatly 
+these price fluctuations have been rapid and severe 
+for example  on august   we announced that the operating results for our second quarter of fiscal included significantly lower amounts of revenue and earnings per share than had been expected by securities analysts 
+our announcement was followed by a decline in the trading price of our common stock 
+conversely  on february   we announced better than expected financial results for the fourth quarter of fiscal this announcement was followed by an increase in the price of our common stock 
+we believe that our quarterly and annual results of operations may continue to be affected by a variety of factors that could harm our revenue  gross profit and results of operations 
+the price of our common stock may continue to fluctuate greatly in the future due to factors that are non company specific  such as the decline in the united states economy  acts of terror against the united states  war or due to a variety of company specific factors  including quarter to quarter variations in our operating results  shortfalls in revenue or earnings from levels expected by securities analysts and the other factors discussed in these risk factors 
+risks related to intellectual property  litigation and government action while we believe that we currently have adequate internal controls over financial reporting  we are exposed to risks from recent legislation requiring companies to evaluate those internal controls 
+section of the sarbanes oxley act of requires our management to report on  and our independent registered public accounting firm to attest to  the effectiveness of our internal control structure and procedures for financial reporting 
+we have an ongoing program to perform the system and process evaluation and testing necessary to comply with these requirements 
+this legislation is relatively new and neither companies nor accounting firms have significant experience in complying with its requirements 
+as a result  we have incurred  and expect to continue to incur increased expense and to devote additional management resources to section compliance 
+in the event that our chief executive officer  chief financial officer or our independent registered public accounting firm determine that our internal controls over financial reporting are not effective as defined under section  investor perceptions of us may be adversely affected and could cause a decline in the market price of our stock 
+expensing employee stock options in future periods will materially and aversely affect our reported operating results 
+since inception  we have used stock options and our employee stock purchase program as fundamental components of our compensation packages 
+to date we generally have not recognized compensation cost for employee stock options or shares sold pursuant to our employee stock purchase program 
+we believe that these incentives directly motivate our employees and  through the use of vesting  encourage our employees to remain with us 
+in december  the financial accounting standards board issued sfas no 
+r  share based payment  or sfas no 
+r 
+sfas no 
+r is effective for interim or annual periods beginning after june   and requires that we record compensation expense for stock options and our employee stock purchase plan using the fair value of those awards 
+expensing these incentives in future periods will materially and adversely affect our reported operating results as the stock based compensation expense would be charged directly against our reported earnings 
+to the extent that sfas no 
+r makes it more expensive to grant stock options or to continue to have an employee stock purchase program  we may decide to incur increased cash compensation costs 
+in addition  actions that we may take to reduce the non cash expense may make it difficult to attract  retain and motivate employees any of which could adversely affect our competitive position as well as our business and operating results 
+we are currently involved in patent litigation  which  if not resolved favorably  could require us to pay damages 
+we are currently involved in patent litigation 
+on october   opti incorporated  or opti  filed a complaint for patent infringement against us in the united states district court for the eastern district of texas 
+opti asserts that unspecified nvidia chipsets infringe five united states patents held by opti 
+opti seeks unspecified damages for our conduct  attorneys fees and triple damages because of our alleged willful infringement of these patents 
+discovery has not begun and no trial date has been set 
+we believe the claims asserted against us are without merit and we will continue to defend ourselves vigorously 
+in august  a texas limited partnership named american video graphics  lp  or avg  filed three separate complaints for patent infringement against various corporate defendants not including nvidia in the united states district court for the eastern district of texas 
+avg initially asserted that each of the approximately thirty defendants sells products that infringe one or more of seven separate patents that avg claims relate generally to graphics processing functionality 
+each of the three lawsuits targeted a different group of defendants  one case involves approximately twenty of the leading personal computer manufacturers  the pc makers case  one case involves the three leading video game console makers  the game console case  and one case involves approximately ten of the leading video game publishers  the game publishers case 
+in november  nvidia sought and was granted permission to intervene in two of the three pending avg lawsuits  the pc makers case and the game console case 
+nvidia s complaint in intervention alleges both that the patents in suit are invalid and that  to the extent avg s claims target nvidia products  the asserted patents are not infringed 
+two other leading suppliers of graphics processing products  intel and ati  have also intervened in the cases  ati in both the pc makers and game console case  and intel in the pc makers case 
+after some consensual reconfigurations proposed by the various parties  in january  the district court judge entered docket control and discovery orders in the three lawsuits 
+the pc makers case now involves four separate patents and is currently scheduled for trial beginning on september  the game console case involves a single patent and is currently scheduled for trial beginning on december  we believe that  to the extent avg s infringement allegations target functionality that may be performed by nvidia products  those claims are without merit  and we will continue to defend ourselves and our products vigorously 
+our defenses against these suits may be unsuccessful 
+at this time  we cannot reasonably estimate the range of any loss or damages resulting from these suits due to uncertainty regarding the ultimate outcome 
+if these cases go forward  we expect that they will result additional legal and other costs  regardless of the outcome  which could be substantial 
+our industry is characterized by vigorous protection and pursuit of intellectual property rights or positions that could result in litigation and substantial costs to us 
+the semiconductor industry is characterized by vigorous protection and pursuit of intellectual property rights and positions  which have resulted in protracted and expensive litigation 
+the digital media processor industry in particular has been characterized recently by the aggressive pursuit of intellectual property positions  and we expect our competitors to continue to pursue aggressive intellectual property positions 
+the technology that we use to design and develop our products and that is incorporated into our products may be subject to claims that it infringes the patents or intellectual property rights of others 
+our success is dependent on our ability to develop new products without infringing or misappropriating the intellectual property rights of others 
+from time to time we receive notices or are included in legal actions alleging that we have infringed patents or other intellectual property rights owned by third parties 
+we expect that  as the number of issued hardware and software patents increases  and as competition in our product lines intensifies  the volume of intellectual property infringement claims may increase 
+if infringement claims are made against us  we may seek licenses under the claimants patents or other intellectual property rights 
+however  licenses may not be offered to us at all or on terms acceptable to us  particularly by competitors 
+the failure to obtain a license from a third party for technology used by us could cause us to incur substantial liabilities and to suspend the manufacture of and sale of one or more products  which could reduce our revenue and harm our business 
+furthermore  we may initiate claims or litigation against third parties for infringement of our proprietary rights or to establish the validity of our proprietary rights  which could be costly 
+if we have to initiate a claim  our operating expenses may increase which could negatively impact our operating results 
+in order to develop products  we have licensed technology from third parties for incorporation in our digital media processors  and expect to continue to enter into license agreements with third parties for future products 
+these licenses may result in royalty payments to third parties  the cross licensing of technology by us or payment of other consideration 
+if these arrangements are not concluded on commercially reasonable terms or at all  our competitive position and our business could suffer 
+we have agreed to indemnify certain customers for certain claims of infringement arising out of sale of our products 
+we may be involved in future lawsuits or other legal proceedings alleging patent infringement or other intellectual property rights violations by us or customers that we have agreed to indemnify for certain claims of infringement arising out of the sale of our products to these customers 
+in addition  litigation or other legal proceedings may be necessary to assert claims of infringement  enforce our patents  protect our trade secrets or know how  or determine the enforceability  scope and validity of the propriety rights of others 
+regardless of the outcome  litigation can be very costly and can divert management s attention from other matters 
+we may be unsuccessful in defending or pursuing these lawsuits or claims 
+an unfavorable ruling could include significant damages  invalidation of a patent or group of patents  indemnification of customers  payment of lost profits  or  when it has been sought  injunctive relief 
+if one of our patents in invalidated or found to be unenforceable  we would be unable to license the patent which could result in a loss of revenue 
+we or our customers may be required to obtain a license to the other parties patents or intellectual property 
+if we fail to obtain a license from a third party for technology we use or that is used by an indemnified customer  we could be subject to substantial liabilities or have to suspend or discontinue the manufacture of and sale of one or more of our products either of which could reduce our revenue and harm our business 
+initiation of claims or indemnification of a customer may increase our operating expenses which could negatively impact our operating results 
+our ability to compete will be harmed if we are unable to adequately protect our intellectual property 
+we rely primarily on a combination of patents  trademarks  trade secrets  employee and third party nondisclosure agreements and licensing arrangements to protect our intellectual property in the united states and internationally 
+we have numerous patents issued  allowed and pending in the united states and in foreign countries 
+our patents and pending patent applications relate to technology used by us in connection with our products  including our digital media processors 
+we also rely on international treaties and organizations and foreign laws to protect our intellectual property 
+the laws of certain foreign countries in which our products are or may be manufactured or sold  including various countries in asia  may not protect our products or intellectual property rights to the same extent as by the laws of the united states 
+this makes the possibility of piracy of our technology and products more likely 
+we continuously assess whether and where to seek formal protection for particular innovations and technologies based on such factors as the commercial significance of our operations and our competitors operations in particular countries and regions  the location in which our products are manufactured  our strategic technology or product directions in different countries  and the degree to which intellectual property laws exist and are meaningfully enforced in different jurisdictions 
+our pending patent applications and any future applications may not be approved 
+in addition  any issued patents may not provide us with competitive advantages or may be challenged by third parties 
+the enforcement of patents by others may harm our ability to conduct our business 
+others may independently develop substantially equivalent intellectual property or otherwise gain access to our trade secrets or intellectual property 
+our failure to effectively protect our intellectual property could harm our business 
+we have licensed technology from third parties for incorporation in our digital media processors  and expect to continue to enter into license agreements for future products 
+these licenses may result in royalty payments to third parties  the cross licensing of technology by us or payment of other consideration 
+if these arrangements are not concluded on commercially reasonable terms  our business could suffer 
+item a 
+quantitative and qualitative disclosures about market risk interest rate risk we invest in a variety of financial instruments  consisting principally of investments in commercial paper  money market funds and highly liquid debt securities of corporations  municipalities and the united states government and its agencies 
+these investments are denominated in united states dollars 
+we account for our investment instruments in accordance with statement of financial accounting standards no 
+ or sfas no 
+ accounting for certain investments in debt and equity securities 
+all of the cash equivalents and marketable securities are treated as available for sale under sfas no 
+investments in both fixed rate and floating rate interest earning instruments carry a degree of interest rate risk 
+fixed rate securities may have their market value adversely impacted due to a rise in interest rates  while floating rate securities may produce less income than expected if interest rates fall 
+due in part to these factors  our future investment income may fall short of expectations due to changes in interest rates or we may suffer losses in principal if forced to sell securities that decline in market value due to changes in interest rates 
+however  because we classify our debt securities as available for sale  no gains or losses are recognized due to changes in interest rates unless such securities are sold prior to maturity 
+these securities are reported at fair value with the related unrealized gains and losses included in accumulated other comprehensive income  a component of stockholders equity  net of tax 
+as of january   we performed a sensitivity analysis on our floating and fixed rate financial investments 
+according to our analysis  parallel shifts in the yield curve of both basis points would result in changes in fair market values for these investments of approximately million 
+exchange rate risk we consider our direct exposure to foreign exchange rate fluctuations to be minimal 
+currently  sales and arrangements with third party manufacturers provide for pricing and payment in united states dollars  and therefore are not subject to exchange rate fluctuations 
+to date  we have not engaged in any currency hedging activities  although we may do so in the future 
+fluctuations in currency exchange rates could harm our business in the future 
+

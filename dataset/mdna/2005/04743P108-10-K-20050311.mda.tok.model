@@ -1,0 +1,762 @@
+item  management s discussion and analysis of financial condition and results of operations factors that may affect our results 
+these forward looking statements speak only as of the date hereof 
+we expressly disclaim any obligation or undertaking to release publicly any updates or revisions to any forward looking statements contained herein to reflect any change in our expectations with regard thereto or any change in events  conditions or circumstances on which any such statement is based 
+in this report  references to atheros  we  us  our or the company mean atheros communications  inc and its subsidiaries  except where it is made clear that the term means only the parent company 
+atheros  super g  super ag  xl  extended range  mimo g  mimo ag  vlocity mimo  and vlocity video are our trademarks 
+we also refer to trademarks of other corporations and organizations in this document 
+overview we are a leading developer of semiconductor system solutions for wireless communications products 
+we combine our wireless systems expertise with high performance radio frequency  or rf  mixed signal and digital semiconductor design skills to provide highly integrated chipsets that are manufacturable on low cost  standard complementary metal oxide semiconductor  or cmos  processes 
+we provide a comprehensive portfolio of products ranging from entry level wireless networking products for the home and small office markets to sophisticated wireless infrastructure systems on chip with advanced network management capabilities for the enterprise market 
+our wireless systems solutions are used in a variety of applications in the personal computer  enterprise access  small office and branch office networking  home networking  hotspot  wireless broadband  voice  mobile computing devices  and consumer electronics markets 
+we have a broad base of leading personal computer original equipment manufacturer  or pc oem  customers  including hewlett packard  ibm  nec  and toshiba  consumer electronics customers  including philips  samsung  and sony  and networking equipment manufacturers  including alvarion  cisco systems  d link  io data  linksys  netgear  nortel networks  and symbol 
+we were incorporated as t span systems corporation in delaware in may in may  we changed our corporate name to atheros communications  inc 
+table of contents our website address is located at http www 
+atheros 
+com 
+the information contained in our website does not form any part of this annual report on form k 
+however  we make available free of charge through our website our annual reports on form k  our quarterly reports on form q  our current reports on form k and amendments to those reports filed or furnished pursuant to section a or d of the securities exchange act of as soon as reasonably practicable after we electronically file this material with  or furnish it to  the sec 
+our products and technology we are shipping production volumes of our sixth generation of semiconductors  hardware designs and software for wireless applications 
+we offer customers guidelines known as reference designs that they can use to design systems  including devices and access points 
+these solutions provide features from basic connectivity in standards compliant wireless local area networks  including substantial throughput enhancement and range enhancement  supporting video  voice and outdoor broadband access 
+our products support several encryption and authentication security standards  network management protocols  operating systems  and interfaces to non computing environments  such as consumer electronics 
+we currently provide four types of semiconductors radio on a chip  or roc  is a radio transmitter and receiver for either or both of the frequency bands in which our products operate and is primarily an analog radio frequency  or rf  circuit 
+mac baseband is an implementation of mixed signal circuitry containing low frequency analog circuits and data converters integrated with a digital interface  media access controller  or mac  and baseband processor 
+the mac contains a silicon implementation to support the protocol for network communications 
+wireless system on a chip  or wisoc  incorporates a mac baseband integrated with a network processor and network interfaces  which are otherwise typically separate components 
+the processor is a digital device and is integrated to reduce the cost of the solution in an infrastructure product access point  gateway  or router 
+single chip solutions are highly integrated  complete wireless solutions  including one or more radios on a chip  media access controllers  baseband processors  and optionally  a network processor and network interfaces 
+these devices encapsulate substantially all of the digital and analog circuitry within a single chip 
+our customers can use a variety of combinations of our chips to create differentiated client and access products to meet the needs of the specific market segment that they address 
+client devices typically include a single roc or multiple rocs combined with a single mac baseband  or are a single chip solution 
+infrastructure devices usually include single or multiple rocs and a wisoc  which implements the mac baseband section with an integrated microprocessor  or are a single chip solution 
+our products not only meet the appropriate ieee wlan standards for which they are designed  but also offer enhanced capabilities that benefit the users with enhanced performance and functionality 
+some of the key proprietary features are super g and super ag are performance enhancing extensions that allow our products with g and a wlan capabilities to operate at data rates of up to mbps  twice the industry standard maximum data rate of mbps  while maintaining the ability to work at industry standard data rates 
+we achieve this by adapting the operating protocols to maximize throughput based on several advanced signaling technologies 
+
+table of contents extended range  or xr  is a range enhancing extension that can more than double the distance at which an atheros client device can maintain a connection with an atheros access point minimizing dead spots and providing better coverage in large homes from a single access point 
+we achieve this by adapting the ofdm algorithms in the baseband to increase the sensitivity of the receiver when the signal level is too low for standard operation 
+mimo g  mimo ag  vlocity mimo  and vlocity video take advantage of multiple radio  smart antenna technologies including multiple input multiple output  or mimo  designs to increase the performance of wireless networks 
+power management technology enables our products to use significantly less power in the transmit  receive and sleep operating modes  which offers the benefit of longer battery life for the access device 
+this is achieved by monitoring functions and using custom timing circuits to keep non active circuitry in sleep mode when possible 
+we are actively developing new proprietary extensions to further benefit users as the standards continue to evolve 
+we believe that wireless lans and other wireless products will continue to improve by transitioning from multi chip systems to more highly integrated systems providing radio  baseband and mac functionality on a single silicon chip such as those offered by us 
+we have released in volume a family of single chip wireless lan solutions  and expect to continue to both integrate additional functionality in these solutions as well as develop single chip solutions for other markets 
+to enable our customers to easily incorporate our wireless systems solutions into their products  we support a network of authorized design centers and contract engineering firms based in the united states  europe and japan that we have trained in the use of our tools and technologies 
+these design centers have enabled our customers to introduce a number of products based upon our wireless systems solutions  extending our market reach 
+customers we sell our products directly to original equipment manufacturers  or oems  who include our chipsets in their products  and to original design manufacturers  or odms  who in turn include our chipsets in products they supply to oems 
+for direct sales to oems  we incorporate our wireless system solutions directly into the oems products  and the oem is the licensee and the end user of the technology 
+however  we primarily sell directly to odms  as many oems choose to specify an odm to integrate our technology in a module  such as a peripheral component interconnect  or pci  card  which is then delivered to the oem customer 
+for oems who use an odm as an intermediary  our shipments and revenue are directly with the odm 
+however  we attempt to maintain close relationships with the target oem and the initial technology design win is generally awarded by the oem 
+we also have ongoing contact with the oem for forecasting and technology update purposes 
+currently  our target markets include the personal computer  enterprise access  small office and branch networking  home networking  hotspot  wireless broadband  voice  mobile computing devices and consumer electronics markets 
+in  hon hai precision industry formerly ambit microsystems corporation  askey computer corporation  global sun technology inc and alpha networks  inc formerly d link corporation accounted for   and of our net revenue  respectively 
+in  global sun technology inc and ambit microsystems corporation accounted for and of our net revenue  respectively 
+in  d link corporation and the linksys group accounted for and of our net revenue  respectively 
+substantially all of our sales are to customers outside the united states and canada 
+sales to customers in asia accounted for of net revenue in each of and sales to customers in taiwan accounted for and of our net revenue in and  respectively 
+
+table of contents while we primarily sell directly to odms  on the purchase order submitted by the odm they generally identify for whom they are purchasing our product 
+we do not have the ability to directly confirm with the sell through party that they received the final product from the odm 
+based on the sell through information provided to us by the odms  the following companies or their subsidiaries are among those that have incorporated atheros products through odms during the year ended december  com corporation airespace  inc alvarion ltd 
+buffalo  inc cisco systems  inc corega d link corporation fujitsu limited hewlett packard company international business machines corporation io data device  inc the linksys group  inc nec electronics corporation netgear  inc oki electric industry co  ltd 
+proxim  inc sony corporation toshiba corporation sales and marketing we have a direct sales staff in the united states and asia who support our major oem and odm customers 
+we have strategically located this organization near our major customers with offices in california  china  japan  hong kong  korea and taiwan 
+each salesperson has specific end user market expertise 
+we also have field application engineers  or faes  who provide technical support and assistance to existing and potential customers in designing  testing and qualifying systems that incorporate our products 
+our fae organization is segmented by end user market as well as the core competencies in hardware  software and radio frequency necessary to support our customers 
+to supplement our direct sales  we have independent sales representatives and distributors with locations throughout the world 
+we selected these independent representatives based on their ability to provide effective field sales  marketing communications and technical support for our products 
+our customers place orders directly with us rather than with the representatives  and our representatives do not generally maintain product inventory 
+our third party design centers provide expertise in rf design  board layout  operating system and driver development  industrial design and prototyping to customize our software or hardware for smaller customers requirements 
+these third party design centers typically provide their services on a contract engineering basis and enable rapid time to market in areas of expertise 
+in addition to providing chipsets  we also license software in source code form 
+since the licensing of software in source code requires that we enter into a technology license directly with end customers  we maintain a direct relationship with the end customer whether they have purchased chipsets directly from us or through one of our odms or independent representatives 
+contractual obligations of our licensees not to disclose or misuse our source code may not sufficiently protect us from misuse or disclosure of our intellectual property 
+the costs of enforcing contractual rights could substantially increase our operating costs and may not ultimately succeed in 
+table of contents protecting our proprietary rights 
+if our competitors access our source code  they may gain further insight into our technology and duplicate or design around our products  which would harm our competitive position 
+our marketing group focuses on our product strategy  product development road maps  new product introduction process  demand assessment and competitive analysis 
+the group also ensures that product development activities  product launches  channel marketing program activities  and ongoing demand and supply planning occur in a well managed  timely basis in coordination with our development  operations  and sales groups  as well as our odms  oems and representatives 
+our sales are made primarily pursuant to standard purchase orders 
+because industry practice allows customers to reschedule or cancel orders on relatively short notice  we believe that backlog is not a good indicator of our future sales 
+our net revenue consisted of sales to customers in the following countries for the periods indicated in the following table year ended december  taiwan japan united states malaysia other regulatory environment and industry standards our products and our customers products transmit and receive radio signals across both licensed and unlicensed  regulated spectrum 
+to certify our products for use in a broad geographic market  we maintain communication with a variety of government and certification agencies in the united states and international markets  including  but not limited to  japan  china  taiwan  south korea  france  germany and the united kingdom 
+as the wireless communications market is particularly influenced by regulations and policy on spectrum allocations and licensing provisions  this direct contact gives us insight into market requirements and appropriate product plans 
+we have developed and obtained necessary certifications for certain proprietary technologies and algorithms that enable our products to roam between and adapt to various standards and to international regulatory and operational requirements 
+these technologies are not necessarily exclusive to us  but have been refined by us and are a requirement for many multinational equipment manufacturers 
+we intend to participate in  support our employees participation in  or monitor  as appropriate  the activities of various standards bodies  including the ieee standards group  the european telecommunications standards  or etsi  the international telecommunications union  or itu  the wifi alliance  wimax  a nonprofit group formed to create and promote the development of wireless broadband standard  mobile internet technical architecture  or mita  digital living networking alliance  or dlna  and the world radiocommunications conference  or wrc 
+the rights to use spectrum are subject to changes made by the government entities that allocate and regulate radio spectrum 
+changes in united states and international spectrum policy may limit or prevent our ability to sell products  require substantial engineering effort and expense to address and work around any such changes  and substantially and adversely affect future revenue 
+in addition  our products and our customers products could be denied the regulatory certifications required to sell these products 
+our products include encryption technologies that are regulated by the us and foreign governments 
+we believe we are in compliance with all export and import laws and regulations related to our encryption technologies 
+however  these laws and regulations may change and limit our ability to continue to export and import our products internationally until we can adapt to these changes 
+
+table of contents intellectual property our success will depend in part on our ability to protect our intellectual property 
+we rely on a portfolio of intellectual property rights  both foreign and domestic  including patents  trademark registrations  copyright rights  trade secrets  contractual provisions and licenses to protect our intellectual property 
+many of our issued patents and pending patent applications relate to algorithms  integrated circuit  or ic  designs  software and systems related to wireless communications and networking  with a focus on innovations we believe we have achieved in our implementations of industry standards compliant wireless networking 
+patents as of december   we held us issued patents and pending us patent applications 
+we continue to pursue actively the filing of additional patent applications in both the united states and foreign jurisdictions 
+our domestic patents and applications have expiration dates from september through december we may not receive competitive advantages from the rights granted under our patents and other intellectual property rights 
+our continued success and future growth is based on execution capability  technical expertise  speed of implementation and process management abilities of our employees and our ability to defend our intellectual property 
+our existing and future patents may be circumvented  blocked  licensed to others or challenged as to inventorship  ownership  scope  validity or enforceability 
+it is possible that literature we may be advised of by third parties in the future could negatively affect the scope or enforceability of either our present or future patents 
+furthermore  our pending and future patent applications may not issue with the scope of claims sought by us  if at all  or the scope of claims we are seeking may not be sufficiently broad to protect our proprietary technologies 
+others may develop technologies that are similar or superior to our proprietary technologies  duplicate our proprietary technologies or design around the patents owned or licensed by us 
+if our products  patents or patent applications are found to conflict with any patents held by third parties  we could be prevented from selling our products  our patents may be declared invalid or our patent applications may not result in issued patents 
+in addition  in foreign countries  we may not receive effective patent and trademark protection 
+we cannot be sure that steps we take to protect our proprietary technologies will prevent misappropriation of our technologies 
+intellectual property litigation the wireless communications industry is characterized by frequent litigation and other vigorous protection and pursuit of intellectual property rights or positions 
+there are also numerous patents in the wireless communications industry and new patents are being issued at a rapid rate 
+this often results in significant and often protracted and expensive litigation 
+questions of infringement in the wireless market involve highly technical and subjective analyses 
+litigation may be necessary in the future to enforce any patents we may be granted and other intellectual property rights  to protect our trade secrets  to determine the validity and scope of the proprietary rights of others  or to defend against claims of infringement or invalidity  and we may not prevail in any future litigation 
+our customers and we have received from time to time in the past written notices and offers from research institutions  intellectual property holding firms and competitors or others claiming to have patent rights in certain technology and inviting us to license this technology and related patent rights for use in our products and methods 
+for example  during the last few years  we received several written notices or offers from our competitors and others claiming to have certain patents and technology that apply to the b  g and a wireless standards 
+these notices or offers have been made directly to us and through our us and foreign customers 
+we have responded directly  or indirectly through our customers  to all of these notices  and continue to correspond regarding the offers with some of the parties that have sent the notices 
+none of these notices has resulted in litigation against us 
+we have received legal advice and opinions from our patent counsel regarding these matters 
+we believe that the rights offered are either already licensed to us or our products do not infringe any valid claim to the issued patents identified to date 
+we cannot assure you that any of these or other third parties will not pursue litigation or assert their patent and other intellectual property rights 
+table of contents against us in the future 
+we have certain indemnification obligations to customers with respect to infringement of third party patents and intellectual property rights by our products 
+we cannot assure you that our potential obligations to indemnify such customers will not harm us  our business or our financial condition and results of operations 
+the results of any litigation are inherently uncertain 
+any successful infringement claim or litigation against us could have a significant adverse impact on our business 
+if it is necessary or desirable  we may seek licenses under third party patents or other intellectual property rights 
+however  we cannot be sure that third parties will offer licenses to us or that we will find and secure acceptable terms for any offered licenses 
+if we fail to obtain a license from a third party for proprietary technologies that we use  we could incur substantial liabilities  or suspend sales or use of our products or our use of processes requiring the technologies 
+whether or not any litigation is determined in our favor or settled  it could cause us to incur significant expenses  harm our sales of the challenged technologies or products and divert the attention and efforts of our technical and management personnel  whether or not a court decides the litigation in our favor 
+adverse determinations in litigation could result in the loss or impairment of our proprietary rights  subject us to significant liabilities and money damages  require us to seek licenses from third parties  cause us to spend significant resources and revenues to design around or develop non infringing technology  or prevent us from licensing our technology or selling our products  any of which could harm our business 
+copyrights and trademarks we claim copyright and trademark protection for proprietary documentation and a variety of branding marks 
+we also pursue foreign copyrights and trademarks where applicable and necessary 
+the branding marks are sublicensed to our customers and used by them to identify and promote their products capabilities in markets  including  but not limited to  computing and consumer electronics 
+as of december   we held eight registered us trademarks 
+licenses we also rely on third party licensors for certain technologies embedded in our semiconductor  hardware and software designs 
+these are typically non exclusive contracts for general capabilities provided under royalty accruing or paid up licenses 
+these licenses are generally perpetual or automatically renewed for so long as we continue to pay any royalty that may be due 
+we have entered into a number of licensing arrangements pursuant to which we license third party technologies 
+we do not believe our business is dependent to any significant degree on any individual third party license 
+we generally enter into confidentiality agreements with our employees  vendors  industry partners and customers  as well as generally control access to and distribution of our documentation and other proprietary information 
+despite this protection  unauthorized parties may copy aspects of our current or future software products or obtain and use information that we regard as proprietary 
+certain software compatible with our chipsets has been made available to others through open source licensing agreements 
+we believe that this has been a source of benefit and differentiation as it expands the market for our products and enables these products to benefit from the design efforts of the open source community 
+this practice does provide to others some level of insight into the design and the features of our products  although we maintain and retain proprietary rights to the substantial portion of our wireless capabilities 
+research and development we engage in substantial research and development to develop new products and integrate additional capabilities in our core wireless designs 
+we conduct research into digital and analog ic design  hardware reference board design  software reference code development  systems integration and manufacturing process flow development at our corporate headquarters 
+we also perform test emulation  digital design verification and 
+table of contents application software development at our offices in india 
+we use a number of proprietary design tools and processes that enable us to deliver high performance wireless capabilities using low cost manufacturing facilities 
+we employ a team of engineers with extensive experience in mixed signal design  systems and communications architecture  cmos technology and software development 
+our research and development expense was million in  million in and million in manufacturing we design and develop our proprietary designs and provide them to third party foundries  contract manufacturers  odms  assembly and test companies and other licensees and contractors to produce silicon wafers and semiconductors 
+we produce a variety of digital  analog and mixed signal chip designs using standard cmos production facilities 
+the use of this process enables us to produce cost effective products  and we have proprietary rights to the particular design methodologies that we use to maintain high performance levels on generic processes 
+we currently have in production products using micron  micron  and micron process geometries for wafer production at our principal foundry  taiwan semiconductor manufacturing corporation  or tsmc  in taiwan  and also using a micron process at semiconductor manufacturing international corporation  or smic  in shanghai  china 
+we also qualify and package wafers and test packaged units at multiple locations  including  but not limited to  amkor technology inc china and korea  asat holdings limited china and hong kong  siliconware precision industries co  ltd 
+taiwan and st assembly test services ltd 
+singapore 
+we store and distribute our inventory from a contracted warehouse in singapore 
+we also maintain software test facilities at both our corporate headquarters and at our research and development facility in india 
+this enables us to operate certain test processes on demand  so as to reduce the time to market of our designs and improve their reliability 
+competition the notebook computer  enterprise access  small office and branch office networking  home networking  hotspots  voice  wireless broadband  mobile computing devices  and consumer electronics markets are intensely competitive with a variety of large and small companies providing semiconductors  hardware and software designs 
+we believe that our focus on wireless technology has enabled us to compete favorably with respect to the following factors product performance  feature set and quality  including network throughput  product range  power efficiency  security features  reliability and consistency  level of integration  time to market  price  customer support and application support  and ability to comply with  and influence  industry standards and international regulatory requirements 
+we compete with large semiconductor manufacturers and designers and start up semiconductor design companies as well as large  established suppliers 
+our primary competitors include broadcom corporation  conexant systems  inc  intel corporation  marvell technology group ltd 
+and texas instruments incorporated 
+many of our current and potential competitors have longer operating histories  significantly greater resources and name recognition  and a larger base of customers than we do 
+many of our competitors also have significant influence in the semiconductor industry 
+we may not be able to compete effectively against current and potential 
+table of contents competitors especially those with significantly greater resources and market leverage 
+as a result  these competitors may respond more quickly than we do to new or emerging technologies or changes in customer requirements 
+moreover  our competitors may foresee the course of market developments more accurately than we can 
+in addition  some of our larger competitors may be able to provide greater incentives to customers through rebates and marketing development funds and similar programs 
+furthermore  some of our competitors with multiple product lines may integrate wireless functionality into products that we do not sell or bundle their products to offer a broader product portfolio  which may make it difficult for us to gain or maintain market share 
+for example  intel markets its centrino mobile technology brand and we believe intel provides a substantial marketing development fund incentive for buyers of a combination of its microprocessor  a related chipset and an wireless network module that uses the brand 
+we believe a separate wlan chipset solution offers advantages to a solution integrated with other communications protocols because of the rapid changes in wlan technologies that occur on a different cycle than those of other communications technologies and due to the significant differences in the performance available from standalone solutions 
+our competitors may be able to adopt more aggressive pricing policies and devote greater resources to the development  promotion and sale of their products than we can 
+in addition  new competitors  including taiwanese semiconductor companies or alliances among existing competitors could emerge 
+many of our customers are also large  established integrated circuit suppliers 
+our sales to and support of such customers may enable them to become a source of competition to us  despite our efforts to protect our intellectual property rights 
+competition could increase pressure on us to lower our prices and lower our margins 
+if we do not compete successfully  we will be unable to gain or retain market share 
+employees as of december   we employed full time employees  including in research and development and operations  in sales and marketing  and in general and administration 
+we have never had a work stoppage and none of our employees is represented by a labor organization nor under any collective bargaining arrangements 
+we consider our employee relations to be good 
+item properties our corporate headquarters and primary research and development and operations facilities occupy approximately  square feet in sunnyvale  california under leases that expire in june we also lease properties around the world and within the facilities of certain customers and suppliers for use as sales and support offices  warehouses and logistics centers and test facilities 
+the size and location of these properties change from time to time based on business requirements 
+we do not own any manufacturing facilities  and we contract and license to third parties the production and distribution of our chipsets  hardware and software 
+our international sales and support offices are in locations within the countries and administrative regions of china  hong kong  japan and taiwan  and we have a research and development facility in india  and an administrative center in macau 
+we believe our space is adequate for our current immediate needs and that suitable additional or substitute space will be available to accommodate foreseeable expansion of our operations 
+we anticipate that we will enter into a new lease for our corporate headquarters facility before june item legal proceedings we are not involved in any material pending legal proceedings 
+many companies in the semiconductor  networking  software and related industries have a significant number of patents and have demonstrated a willingness to instigate litigation based on allegations of patent  trademark and other claims of infringement 
+from time to time  we have received  and expect to continue to receive  notices of claims of infringement  misappropriation or misuse of other parties proprietary rights 
+some of these claims may lead to litigation 
+item submission of matters to a vote of security holders no matters were submitted to a vote of security holders during the quarter ended december  
+table of contents part ii item market for registrant s common equity  related stockholder matters and issuer purchases of equity securities market information our shares of common stock are traded on the nasdaq national market under the symbol athr 
+our common stock began trading on february   upon our initial public offering 
+the following table shows  for the periods indicated  the high and low intra day sale prices for our common stock on the nasdaq national market 
+year ended december  high low first quarter from february  second quarter third quarter fourth quarter as of february   the number of record holders of our common stock was because most of our shares are held by brokers and other institutions on behalf of stockholders  we are unable to estimate the total number of beneficial stockholders represented by these record holders 
+dividends we have never declared or paid a cash dividend on our common stock and do not anticipate paying any cash dividends in the foreseeable future 
+any future determination with respect to the declaration and payment of dividends will be at the discretion of our board of directors 
+in addition  we currently maintain a revolving credit facility that prohibits the payment of dividends without prior written consent of the bank 
+securities authorized for issuance under equity compensation plans information regarding the securities authorized for issuance under our equity compensation plans can be found under item of this annual report on form k 
+use of proceeds from sales of registered securities on february   we completed an initial public offering of  shares of our common stock 
+the shares of common stock sold in the offering were registered under the securities act of on a registration statement on form s no 
+
+the registration statement was declared effective by the securities and exchange commission on february  the initial public offering price was per share  and the aggregate gross proceeds to us were million 
+after deducting the underwriting discounts and commissions of million and the offering expenses of approximately million  the net proceeds to us from the offering were approximately million 
+from february   until december   we used the following net proceeds from the offering in february  we used million of the net offering proceeds to repay debt owed to silicon valley bank  and we have used a total of million to fund working capital requirements 
+we continue to invest the remaining proceeds in investment grade  interest bearing instruments 
+
+table of contents issuer purchases of equity securities the following table provides information with respect to purchases made by us or on our behalf or on behalf of any affiliated purchaser  as defined in rule b a under the securities exchange act of  of shares of our common stock during each of the three months in the quarter ended december  period a total number of shares purchased b average price paid per share c total number of shares purchased as part of publicly announced plans or programs d maximum number or approximate dollar value of shares that may yet be purchased under the plans or programs month october month november month december total these shares had been purchased from us by four employees pursuant to the exercise of stock options and were unvested shares under the terms of the stock option agreements between us and the employees 
+we repurchased the shares from the employees upon their termination of employment with us pursuant to our right to repurchase unvested shares at the original exercise price under our stock incentive plan and the stock option agreements 
+
+table of contents item selected financial data the following selected consolidated financial data should be read in conjunction with the consolidated financial statements and the notes to the consolidated financial statements and management s discussion and analysis of financial condition and results of operations  which are included elsewhere in this report 
+year ended december  consolidated statements of operations data net revenue cost of goods sold gross profit operating expenses research and development sales and marketing general and administrative stock based compensation total operating expenses income loss from operations interest income expense  net income loss before income taxes provision for income taxes net income loss basic net income loss per share diluted net income loss per share shares used in computing basic net income loss per share shares used in computing diluted net income loss per share december  consolidated balance sheet data cash  cash equivalents and marketable securities working capital total assets short and long term debt and capital lease obligations total stockholders equity item management s discussion and analysis of financial condition and results of operations overview we are a leading developer of semiconductor system solutions for wireless communications products 
+we combine our wireless systems expertise with high performance radio frequency  or rf  mixed signal and digital semiconductor design skills to provide highly integrated chipsets that are manufacturable on low cost  standard complementary metal oxide semiconductor  or cmos  processes 
+we were incorporated in may and commenced operations in december through december   we were engaged principally in 
+table of contents research and development 
+we first generated meaningful revenue from sales of our products in the fourth quarter of and have experienced increased revenue and chipset volumes while lowering our average selling price for our chipsets during each of the years ended december  through december  during  we began volume shipments of our first single chip wireless solution 
+this single chip solution is generally priced lower than the combined average selling prices of our multi chip solutions 
+therefore  the average selling price per chipset may continue to decline as our single chip volume increases 
+we generated net income for the first time during the year ended december  through december   we had an accumulated deficit of million 
+our product portfolio is currently comprised of various generations of our radio on a chip  media access controller baseband and wireless system on a chip products supporting the institute of electrical and electronics engineers  or ieee  family of wireless local area networking  or wlan  standards  including the b  g and a standards 
+these products are sold together as chipsets as part of a wireless system solution that also incorporates software and system level reference designs or are sold as a single chip wireless solution which integrates the radio  media access controller and baseband onto one chip 
+our wireless systems solutions are used in a variety of applications in the personal computer  enterprise access  small office and branch office networking  home networking  hotspot and consumer electronics markets 
+revenue 
+our revenue is derived primarily from the sale of wlan chipset products and  to a lesser extent  from licensed software and services 
+our sales have historically been made on the basis of purchase orders rather than long term agreements 
+original equipment manufacturers  or oems  utilize our chipsets in developing their wireless system solutions such as access point and cardbus products 
+some oems purchase chipsets directly from us and manufacture their products 
+other oems utilize original design manufacturers  or odms  to design and build subsystem products that the oem then purchases from the odm and incorporates into the oem s wireless system solution 
+accordingly  we ship our products either directly to the oem or to the odm based on the requirements of each oem 
+purchase orders are received from an oem or an odm and we recognize revenue based on the shipment of chipsets to this customer 
+a single odm may provide our chipsets to numerous oems 
+however  we attempt to maintain a close relationship with the target oem to monitor end market demand 
+due to the use of odms  our direct customer base is relatively concentrated  although we believe that the number of total oems who purchase our chipsets through odms is broader 
+we anticipate that we may continue to experience changes in our odm customer base as our end customers change odms for a variety of reasons while still using our chipsets 
+we expect to continue to have major concentrations of sales to a relatively small list of odm customers 
+the following table shows the customers that represented greater than of revenue for the years ending december   and december  hon hai precision industry formerly ambit microsystems corporation askey computer corporation global sun technology inc alpha networks  inc formerly d link corporation the linksys group less than in the applicable period 
+substantially all of our sales are to customers outside the united states and canada 
+sales to customers in asia accounted for of net revenue in each of and because many of our odm customers are located in asia  we anticipate that a majority of our revenue will continue to be represented by sales to customers in that region 
+although a large percentage of our sales are made to customers in asia  we believe that a significant number of the systems designed by these customers are then sold through to oems outside of asia 
+all of our sales are denominated in united states dollars 
+
+table of contents cost of goods sold 
+cost of goods sold relates primarily to the purchase of silicon wafers  costs associated with assembly  test and inbound and outbound shipping of our chipsets  costs of personnel  materials and occupancy associated with manufacturing support and quality assurance  royalty costs and adjustments to state inventory at the lower of cost or market caused by product obsolescence and transitions from older to newer products 
+additionally  our cost of goods sold includes accruals for warranty obligations  which we record when revenue is recognized 
+because we do not have long term  fixed supply agreements  our wafer costs are subject to changes based on the cyclical demand for semiconductors 
+in addition  after we purchase wafers from foundries  we also have the yield risk related to manufacturing these wafers into die 
+research and development 
+research and development expense relates primarily to compensation and associated costs related to development employees and contractors  mask and reticle costs  prototype wafers  software and computer aided design software licenses  intellectual property license costs  reference design development costs  development testing and evaluation  occupancy costs and depreciation expense 
+all research and development costs are expensed as incurred 
+we expect our research and development costs to increase in absolute dollars in the future as we invest to develop new products to be competitive in the future 
+sales and marketing 
+sales and marketing expense relates primarily to compensation and associated costs for marketing and selling personnel  sales commissions to independent sales representatives  public relations  promotional and other marketing expenses  travel  trade show expenses  depreciation expenses and allocated occupancy costs 
+we expect sales and marketing expenses will increase in absolute dollars as we hire additional personnel  expand our sales and marketing efforts and pay increased sales commissions 
+general and administrative 
+general and administrative expense relates primarily to compensation and associated costs for general and administrative personnel  professional fees and banking fees  charges related to allowance for doubtful accounts and allocated occupancy costs 
+we expect that general and administrative expense will increase in absolute dollars as we hire additional personnel and incur costs related to the anticipated growth of our business  compliance with the requirements of the sarbanes oxley act of and improvements to our information technology infrastructure 
+stock based compensation 
+in connection with the grant of stock options in  and  we have recorded an aggregate of million in stock based compensation 
+these options were considered compensatory because the fair market value of our stock on the date of grant was greater than the exercise price 
+as of december   we had an aggregate of million in stock based compensation remaining to be amortized 
+we are amortizing deferred stock based compensation over the vesting period of the related options  which is generally four to five years using the graded vesting method 
+this deferred stock based compensation balance will be amortized as follows  assuming no forfeiture of awards million during   during   during  and  during interest income and expense 
+interest income consists of interest earned on cash and cash equivalents and marketable securities balances 
+interest expense consists of interest on our revolving line of credit  equipment loans and equipment lease 
+provision for income taxes 
+from inception through december   we incurred net losses for federal and state tax purposes 
+we recorded income tax expense of  in compared to  in and  in the tax expense in consists primarily of us alternative minimum tax and non us income taxes 
+the tax expense in and consists entirely of foreign income tax expense incurred as a result of local country profits 
+critical accounting policies and estimates our discussion and analysis of our financial condition and the results of operations are based on our financial statements which have been prepared in accordance with accounting principles generally accepted in the united states of america 
+the preparation of these financial statements requires us to make estimates and 
+table of contents judgments that affect the reported amounts of assets  liabilities  revenue and expenses 
+we base our estimates on historical experience and on various other assumptions that we believe to be reasonable under the circumstances  the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources 
+actual results may differ from these estimates under different assumptions or conditions 
+our critical accounting policies are set forth below 
+revenue recognition 
+we derive revenue primarily from three sources the sale of our wireless chipsets and reference designs  our licensed software and technical documentation  and service and support revenue relating to the licensed software 
+we recognize revenue in accordance with sec staff accounting bulletin  or sab  no 
+ revenue recognition 
+sab requires that four basic criteria must be met before revenue can be recognized persuasive evidence of an arrangement exists  delivery has occurred or services have been rendered  the fee is fixed and determinable  and collectibility is reasonably assured 
+determination of criteria and are based on management s judgment regarding the fixed nature of the fee charged for the products delivered and the collectibility of those fees 
+should changes in conditions cause management to determine these criteria are not met for certain future transactions  revenue recognized for any reporting period could be adversely impacted 
+we provide customer incentives to some of our direct and indirect customers 
+these obligations are estimated and recorded as a reduction of revenue at the time at which we ship product to the customers in accordance with emerging issues task force issue no 
+ accounting for consideration given by a vendor to a customer including a reseller of the vendor s products 
+estimated incentive amounts are recorded as a reduction of revenue and are based on agreements between us and our customers 
+estimating incentive amounts requires that we make estimates regarding the percentage of committed incentives that will be submitted by our customers and the value of the incentives at the time of redemption 
+these estimates may require revisions at later dates if the actual sales data submitted by the customers differs significantly from the original estimates 
+inventory 
+we continually assess the recoverability of our inventory based on assumptions about demand and market conditions 
+forecasted demand is determined based on historical sales and expected future sales 
+we value our inventory at the lower of actual cost using the first in  first out method or its current estimated market value 
+we adjust our inventory to the estimated lower of cost or market value to account for its obsolescence or lack of marketability 
+adjustments are calculated as the difference between the cost of inventory and the estimated market value based upon assumptions about future demand and market conditions 
+if actual market conditions are less favorable than those projected by management  additional inventory write downs may be required that may adversely affect our operating results 
+if actual market conditions are more favorable  we may have higher gross margins when products are sold 
+stock options 
+we have elected to follow the intrinsic value based method prescribed by accounting principles board opinion  accounting for stock issued to employees  or apb  and related interpretations in accounting for employee stock options rather than adopting the alternative fair value accounting provided under statement of financial accounting standards  or sfas  no 
+ accounting for stock based compensation 
+therefore  we do not record any compensation expense for stock options we grant to our employees where the exercise price equals the fair market value of the stock on the date of grant and the exercise price  number of shares eligible for issuance under the options and vesting period are fixed 
+we comply with the disclosure requirements of sfas no 
+and sfas no 
+ accounting for stock based compensation transition and disclosures  which require that we disclose our pro forma net income or loss and net income or loss per common share as if we had expensed the fair value of the options 
+in calculating such fair value  there are certain assumptions that we use  as disclosed in note of our audited financial statements 
+accounts receivable allowance 
+we perform ongoing credit evaluations of our customers and adjust credit limits and their credit worthiness  as determined by our review of current credit information 
+we continuously 
+table of contents monitor collections and payments from our customers and maintain an allowance for doubtful accounts based upon our historical experience  our anticipation of uncollectible accounts receivable and any specific customer collection issues that we have identified 
+while our credit losses have historically been within our expectations and the allowance established  we might not continue to experience the same credit loss rates that we have in the past 
+our receivables are concentrated in a relatively few number of customers 
+although most of our receivables from inception through were backed by letters of credit  all of our major customers have converted to open credit terms during therefore  a significant change in the liquidity or financial position of any one customer could make collection of our accounts receivable more difficult  require us to increase our allowance for doubtful accounts and negatively affect our working capital 
+warranty reserve 
+we provide for the estimated cost of product warranties at the time revenue is recognized 
+while we engage in extensive product quality programs and processes  including actively monitoring and evaluating the quality of our chipset suppliers  our warranty obligation is affected by product failure rates  the cost of replacement chipsets and inbound and outbound freight costs incurred in replacing a chipset after failure 
+we continuously monitor chipset returns for warranty and maintain an accrual for the related warranty expenses based on historical experience of similar products as well as various other assumptions that we believe to be reasonable under the circumstances 
+should actual failure rates  cost of chipset replacement and inbound and outbound freight costs differ from our estimates  revisions to the estimated warranty accrual would be required 
+results of operations the following table shows the percentage relationships of the listed items from our consolidated statements of operations  as a percentage of net revenue for the periods indicated 
+years ended december  consolidated statements of operations data net revenue cost of goods sold gross profit operating expense research and development sales and marketing general and administrative stock based compensation total operating expenses income loss from operations interest income  net provision for income taxes net income loss years ended december  and tables presented in thousands  except percentage amounts net revenue years ended december  change in net revenue 
+table of contents the increase in net revenue was due to the increased acceptance of our wireless chipset products  an increase in the number of personal computer original equipment manufacturer  or pc oem  and networking manufacturer design wins  the broadening of our product line to provide integrated b  g and a products and the introduction of our single chip solution  integrating the radio  media access controller and baseband in a single chip 
+as a result  the total number of chipsets shipped increased from approximately million in to approximately million in gross profit years ended december  change in gross profit of net revenue the increase in gross profit was due to a increase in net revenue and a decrease in per unit costs of our chipsets related to design efficiencies and volume purchasing discounts  partially offset by a decrease in the average selling price of our chipsets 
+during and  software license fee revenue contributed and  respectively  to our gross margin 
+research and development years ended december  change in research and development of net revenue the increase in research and development expenses was primarily due to increased compensation related costs of million and additional software development licenses of  resulting from a increase in research and development headcount in additionally  consulting and outside services costs related to the development of new products increased million and equipment and prototype expenses increased million 
+sales and marketing years ended december  change in sales and marketing of net revenue the increase in sales and marketing expenses was primarily due to an increase in compensation costs and travel expenses of million related to a increase in sales and marketing headcount and higher commissions to independent sales representatives of  associated with a increase in revenue during over additionally  trade show and other marketing related costs increased  general and administrative years ended december  change in general and administrative of net revenue 
+table of contents this increase in general and administrative expenses was primarily due to incremental compensation related costs of  resulting from a increase in the number of general and administrative personnel 
+additionally  professional and consulting fees  insurance costs and license fees increased million as a result of becoming a public company in february stock based compensation years ended december  change in stock based compensation of net revenue we have recorded deferred stock based compensation in connection with the grant of stock options to our employees and directors prior to our initial public offering 
+at december   we had million of deferred stock based compensation remaining to be amortized 
+interest income expense  net years ended december  interest income expense  net of net revenue during  we experienced increased interest income resulting from increased balances of cash  cash equivalents and marketable securities  primarily as a result of million in net proceeds received from our initial public offering in february provision for income taxes years ended december  change in provision for income taxes of net revenue provision for income taxes during consisted primarily of us alternative minimum tax and non us income taxes as a result of recording income before provision for income taxes of million 
+during we recorded a net loss  and provision for income taxes consisted solely of non us income tax incurred as a result of local country profits 
+years ended december  and tables presented in thousands  except percentage amounts net revenue years ended december  change in net revenue 
+table of contents during  customers elected to incorporate our chipsets into more of their product designs than in  primarily due to the introduction of our g and a g chipsets in early as a result  the total number of chipsets shipped increased from approximately million in to approximately million in gross profit years ended december  change in gross profit of net revenue in  we focused on addressing higher volume markets  including the market for g and multi mode products that had approximately lower average selling prices 
+this resulted in increased chipset volumes of over  a decrease in the gross margin percentage from to on these sales  and an increase in gross profit of million 
+during and  software license fee revenue contributed and  respectively  to our gross margin 
+research and development years ended december  change in research and development of net revenue the increase in research and development expenses was primarily due to increased compensation related costs of million and additional software development licenses of  resulting from a increase in research and development headcount in additionally  the costs of our mask sets and reticles  and licensing costs for intellectual property increased  in over  primarily resulting from the development efforts related to nine new chips in as compared to seven in sales and marketing years ended december  change in sales and marketing of net revenue the increase in sales and marketing expenses was primarily due to an increase in compensation costs and travel expenses of million related to a increase in sales headcount and higher commissions to independent sales representatives of million associated with a increase in revenue during over general and administrative years ended december  change in general and administrative of net revenue 
+table of contents this increase in general and administrative expenses was primarily due to incremental compensation related costs of million resulting from a headcount increase 
+additionally  we increased the allowance for doubtful accounts by  from to resulting primarily from the increase in accounts receivable balances during this period 
+stock based compensation years ended december  change in stock based compensation of net revenue the increase in stock based compensation resulted primarily from an increase in headcount and the related stock option grants to these new employees 
+options granted in were considered compensatory because the fair market value of our stock determined for financial reporting purposes was greater than the fair value determined by the board of directors on the date of the grant or issuance 
+interest income expense  net years ended december  interest income expense  net of net revenue during  we experienced decreased interest income resulting from lower balances of cash  cash equivalents and marketable securities  as well as the interest expense related to our revolving credit facility 
+provision for income taxes years ended december  change in provision for income taxes of net revenue during each of the years and we recorded net losses 
+as a result  provision for income taxes consisted solely of non us income tax incurred as a result of local country profits 
+liquidity and capital resources in february  we raised million in our initial public offering of common stock 
+prior to our initial public offering  we financed our operations primarily through private placements of convertible preferred stock  capital equipment loans and lease lines 
+our principal sources of liquidity as of december   consisted of cash  cash equivalents and marketable securities of million and our revolving credit facility  which had million available to borrow 
+operating activities 
+our operating activities used cash in the amount of million  million and million in  and  respectively 
+the increase in cash used in operating activities in compared to was due to an increase in working capital requirements  partially offset by generating net income in compared to a net loss in the decrease in cash used in operating activities in compared to was due primarily to a decrease in net loss 
+our inventory increased million  million 
+table of contents and million in  and  respectively  in order to meet the increased customer demand for our products 
+our accounts receivable increased million  million and  in  and  respectively  related to increased revenue and the timing of customer payments 
+our accounts payable decreased million in and increased million and million in and  respectively 
+the decrease in accounts payable in related primarily to the timing of inventory purchases and payments to our vendors  while the increases in and related primarily to the increases in inventory 
+our other accrued liabilities increased million  million and  in  and  respectively 
+the increase in was primarily due to a million increase in accrued customer incentives associated with increases in revenues during the year 
+these increases in and were primarily due to growth in accrued compensation and benefits associated with increases in our headcount  and in  a million growth in accrued customer incentives associated with increases in revenues during the year 
+investing activities 
+our investing activities used million in primarily related to the purchase of marketable securities and property and equipment  partially offset by maturities of marketable securities 
+our investing activities provided cash of million and million in and  respectively  which resulted primarily from maturities of marketable securities  partially offset by purchases of marketable securities and purchases of property and equipment 
+financing activities 
+our financing activities provided cash of million in  million in  and used  in financing activities in primarily represented proceeds from the sale of our common stock pursuant to our initial public offering  exercises of options to purchase our common stock and purchases of our common stock pursuant to our employee stock purchase plan  partially offset by repayments of short term borrowings  equipment loans and capital lease obligations 
+financing activities in and primarily represented proceeds from exercises of options to purchase our common stock and proceeds from borrowings against the revolving line of credit  and borrowings  partially offset by repayments  against the equipment loans and capital leases 
+our revolving credit facility with silicon valley bank provides financing up to million for working capital requirements 
+as of december   no balances were outstanding against the revolving credit facility 
+interest on borrowings under the revolving credit facility is calculated at the bank s prime rate plus 
+the loan is collateralized by all of our tangible assets 
+the loan agreement contains financial and nonfinancial covenants with which we must comply 
+through december   we were in compliance with all required covenants 
+during  we entered into a loan agreement to borrow up to million to finance certain equipment purchases 
+in and  we borrowed a total of million to finance equipment purchases 
+the loans bear interest at rates ranging from to 
+the remaining balance of the agreement is no longer available to us 
+the equipment collateralizes the loan balance due 
+the loan agreement contains certain nonfinancial covenants with which we were in compliance as of december  at december  the outstanding balance under this agreement was  principal and interest payments are due in monthly installments through july capital expenditures were million  million and  in  and  respectively 
+these expenditures primarily consisted of computer and test equipment and software purchases 
+we anticipate that further capital expenditures will be required to support future growth 
+we believe that research and development resources are required to expand our core technologies and product offerings 
+our research and development expenses were million  million and million in  and  respectively 
+these expenditures resulted in enhancement of our product offerings  technological know how and inventions that have yielded numerous issued and pending us patents 
+we expect to continue to incur significant research and development expenses and intend to fund these expenses with operating cash flow  cash and cash equivalents and marketable securities 
+
+table of contents we expect to experience a significant increase in our operating expenses in absolute dollars  particularly in research and development and sales and marketing expenses  for the foreseeable future in order to execute our business strategy 
+as a result  we anticipate that operating expenses  as well as planned capital expenditures  will constitute a material use of our cash resources 
+we believe that our existing cash and cash equivalents  marketable securities and amounts available under our revolving credit facility will be sufficient to meet our anticipated cash needs for at least the next months 
+our future capital requirements will depend on many factors including our rate of revenue growth  the timing and extent of spending to support development efforts  the expansion of sales and marketing activities  the timing of introductions of new products and enhancements to existing products  the costs to ensure access to adequate manufacturing capacity and the continuing market acceptance of our products 
+although we are currently not a party to any agreement or letter of intent with respect to potential investments in  or acquisitions of  complementary businesses  products or technologies  we may enter into these types of arrangements in the future  which could also require us to seek additional equity or debt financing 
+the sale of additional equity securities or convertible debt securities would result in additional dilution to our stockholders 
+additional debt would result in increased interest expense and could result in covenants that would restrict our operations 
+we have not made arrangements to obtain additional financing and there is no assurance that such financing  if required  will be available in amounts or on terms acceptable to us  if at all 
+as of december   we had no off balance sheet arrangements as defined in item a of the securities and exchange commission s regulation s k 
+the following summarizes our contractual obligations at december  and the effect those obligations are expected to have on our liquidity and cash flow in future periods in millions payments due by period less than year years after years total contractual obligations operating leases commitments under licensing agreements short term obligations total recent accounting pronouncements in march  the financial accounting standards board  or fasb  reached a consensus on eitf issue no 
+ the meaning of other than temporary impairment and its application to certain investments  which provides new guidance for assessing impairment losses on investments 
+additionally  eitf includes new disclosure requirements for investments that are deemed to be temporarily impaired 
+in september  the fasb delayed the effective date of the recognition and measurement provisions of eitf we will evaluate the impact of eitf once final guidance is issued 
+in december  the fasb issued sfas no 
+ exchanges of nonmonetary assets an amendment of apb opinion no 
+apb opinion no 
+ accounting for nonmonetary transactions  is based on the opinion that exchanges of nonmonetary assets should be measured based on the fair value of the assets exchanged 
+sfas no 
+amends opinion no 
+to eliminate the exception for nonmonetary exchanges of similar productive assets and replaces it with a general exception for exchanges of nonmonetary assets whose results are not expected to significantly change the future cash flows of the entity 
+the provisions of this statement are effective for nonmonetary asset exchanges occurring in fiscal periods beginning after june  the adoption of sfas no 
+is not expected to have any impact on our consolidated financial condition or results of operations 
+we account for stock based compensation awards issued to employees using the intrinsic value measurement provisions of apb opinion no 
+ accounting for stock issued to employees 
+accordingly  no 
+table of contents compensation expense has been recorded for stock options granted with exercise prices greater than or equal to the fair value of the underlying common stock at the option grant date 
+on december   the financial accounting standards board issued statement of financial accounting standards no 
+revised  share based payment  or sfas r 
+sfas r eliminates the alternative of applying the intrinsic value measurement provisions of opinion to stock compensation awards issued to employees 
+rather  the new standard requires enterprises to measure the cost of employee services received in exchange for an award of equity instruments based on the grant date fair value of the award 
+that cost will be recognized over the period during which an employee is required to provide services in exchange for the award  known as the requisite service period 
+we have not yet quantified the effects of the adoption of sfas r  but it is expected that the new standard will result in significant stock based compensation expense 
+the pro forma effects on net results of operations and earnings per share if we had applied the fair value recognition provisions of original sfas on stock compensation awards rather than applying the intrinsic value measurement provisions of opinion are disclosed above 
+although such pro forma effects of applying original sfas may be indicative of the effects of adopting sfas r  these pro forma effects should not be relied upon in determining the effects on net results of operations of adopting sfas r as the provisions of these two statements differ in some important respects 
+the actual effects of adopting sfas r will be dependent on numerous factors including  but not limited to  the valuation model chosen by us to value stock based awards  the assumed award forfeiture rate  the accounting policies adopted concerning the method of recognizing the fair value of awards over the requisite service period  and the transition method chosen for adopting sfas r 
+sfas r will be effective for our fiscal quarter beginning july   and requires the use of the modified prospective application method 
+under this method sfas r is applied to new awards and to awards modified  repurchased  or cancelled after the effective date 
+additionally  compensation cost for the portion of awards for which the requisite service has not been rendered  such as unvested options  that are outstanding as of the date of adoption shall be recognized as the remaining requisite services are rendered 
+the compensation cost relating to unvested awards at the date of adoption shall be based on the grant date fair value of those awards as calculated for pro forma disclosures under the original sfas in addition  companies may use the modified retrospective application method 
+this method may be applied to all prior years for which the original sfas was effective or only to prior interim periods in the year of initial adoption 
+if the modified retrospective application method is applied  financial statements for prior periods shall be adjusted to give effect to the fair value based method of accounting for awards on a consistent basis with the pro forma disclosures required for those periods under the original sfas factors that may affect our results risks related to our business fluctuations in our operating results on a quarterly and annual basis could cause the market price of our common stock to decline 
+our revenue and operating results have fluctuated significantly from period to period in the past and are likely to do so in the future 
+these fluctuations could cause the market price of our common stock to decline 
+as a result  you should not rely on period to period comparisons of our operating results as an indication of our future performance 
+in future periods  our revenue and results of operations may be below the expectations of analysts and investors  which could cause the market price of our common stock to decline 
+factors that are likely to cause our revenue and operating results to fluctuate include those discussed in the risk factors below 
+we do not expect to sustain our recent growth rate  and we may not be able to manage our future growth effectively 
+we have experienced significant growth in a short period of time 
+our revenue has increased from million in  to million in  million in and million in we do not expect 
+table of contents similar revenue growth rates in future periods 
+growth and expansion of our operations may place a significant strain on our resources and increased demands on our management information and reporting systems  financial and management controls and personnel 
+we may not be able to develop the internal capabilities or collaborative relationships required to manage future growth and expansion or to support future operations 
+if we are unable to manage growth effectively  our financial results could be adversely affected 
+although we have recently achieved profitability  we may incur losses in the future 
+accordingly  we may not be able to generate sufficient revenue in the future to sustain profitability 
+at december   we had an accumulated deficit of approximately million 
+during  we incurred million in operating expenses and a net loss of million 
+during  we incurred operating expenses of million and generated net income of million 
+to sustain profitability  we will need to maintain or increase our revenue while maintaining reasonable cost and expense levels 
+in addition  since we expect average selling prices of our products to continue to decrease in the future  we will need to continue to reduce the average unit costs of our products and increase sales volumes to maintain profitability 
+we expect to increase expense levels in absolute dollars in each of the next several quarters to support increased research and development efforts related to new and existing product development and sales and marketing efforts 
+these expenditures are expected to decrease as a percentage of revenue over the next several quarters if our revenue increases 
+because many of our expenses are fixed in the short term  or are incurred in advance of anticipated sales  we may not be able to decrease our expenses in a timely manner to offset any shortfall of sales 
+we may not be able to sustain or increase profitability on a quarterly or an annual basis 
+if demand for our chipsets declines or does not grow  we will be unable to increase or sustain our revenue and our business will be severely harmed 
+we derive substantially all of our revenue from the sale of chipsets for wireless applications 
+we currently expect our chipsets for wireless applications to account for substantially all of our revenue for the foreseeable future 
+if we are unable to develop new products in a timely manner or demand for our chipsets declines as a result of competition or technological changes  it would have a material negative impact on our business  operating results and financial position and our competitive position 
+the markets for our products are characterized by frequent introduction of next generation and new products  short product life cycles and significant price competition 
+if we or our customers are unable to manage product transitions in a timely and cost effective manner  our business and results of operations will suffer 
+in addition  frequent technology changes and introduction of next generation products may result in inventory obsolescence  which could reduce our gross margins and adversely affect our operating performance 
+since we have limited visibility as to the volume of sales of our products by our customers and inventory levels of our products held by our customers  our ability to forecast accurately future demand for and sales of our products is limited 
+we sell our chipsets to oems who integrate our chipsets into their products or to odms who include our chipsets in the products they supply to oems 
+we have limited visibility as to the volume of our products that our oem and odm customers are selling to their customers or carrying in their inventory 
+if our customers have excess inventory or experience a slowing of products sold through to their end customers  it would likely result in a slowdown in orders from our customers and adversely impact our future sales 
+the average selling prices of products in our markets have historically decreased rapidly and will likely do so in the future  which could harm our revenue and gross profits 
+the products we develop and sell are used for high volume applications and are subject to rapid declines in average selling prices 
+our average selling prices have decreased significantly in order to meet market demand  and we expect that we will continue to reduce prices in the future 
+reductions in our average selling prices to one 
+table of contents customer could impact our average selling prices to all customers 
+historically  we have been able to substantially offset reductions in our average selling prices with decreases in our product and operating costs and increases in our unit volumes 
+our financial results will suffer if we are unable to offset any future reductions in our average selling prices by increasing our unit volumes  reducing our costs or developing new or enhanced products on a timely basis with higher selling prices or gross margins 
+while gross margins may decline as a result of reductions in average selling prices  we may continue to incur research and development costs at higher or existing levels to develop future products 
+this continued spending would have an adverse impact on our immediate operating results if our revenue does not continue to grow or our gross margins decline 
+we may not be able to compete effectively and increase or maintain revenue and market share 
+we may not be able to compete successfully against current or potential competitors 
+if we do not compete successfully  our market share and revenue may decline 
+we compete with large semiconductor manufacturers and designers and start up integrated circuit companies 
+most of our current and potential competitors have longer operating histories  significantly greater resources and name recognition and a larger base of customers than we do 
+this may allow them to respond more quickly than us to new or emerging technologies or changes in customer requirements 
+in addition  these competitors may have greater credibility with our existing and potential customers 
+moreover  our competitors have been doing business with customers for a longer period of time and have established relationships  which may provide them with information regarding future trends and requirements that may not be available to us 
+in addition  some of our larger competitors may be able to provide greater incentives to customers through rebates and marketing development funds and similar programs 
+some of our competitors with multiple product lines may bundle their products to offer a broader product portfolio or integrate wireless functionality into other products that we do not sell  which may make it difficult for us to gain or maintain market share 
+for example  intel markets its centrino mobile technology brand and we believe they provide a substantial marketing development fund incentive for buyers of a combination of its microprocessor  related chipsets and wireless networking module that use the brand 
+intel or other large competitors may also be able to discourage oems from placing our brand on their products  which could substantially harm our marketing efforts 
+we depend on key personnel and consultants to operate our business  and if we are unable to retain our current personnel and hire additional personnel  our ability to develop and successfully market our products could be harmed 
+we believe our future success will depend in large part upon our ability to attract and retain highly skilled managerial  engineering and sales and marketing personnel 
+the loss of any key employees or the inability to attract or retain qualified personnel  including engineers and sales and marketing personnel  could delay the development and introduction of  and harm our ability to sell  our products and harm the market s perception of us 
+we believe that our future success is highly dependent on the contributions of our senior management  including our president and chief executive officer and our senior engineering personnel 
+we do not have long term employment contracts with these or any other key personnel  and their knowledge of our business and industry would be extremely difficult to replace 
+there is currently a shortage of qualified technical personnel with significant experience in the design  development  manufacture  marketing and sales of integrated circuits for use in wireless products 
+our key technical personnel and consultants represent a significant asset and serve as the source of our technological and product innovations 
+we may not be successful in attracting and retaining sufficient numbers of technical personnel to support our business plan 
+if we fail to develop and introduce new products and enhancements for wireless applications or if our proprietary features do not achieve market acceptance on a timely basis  our ability to attract and retain customers could be impaired  and our competitive position may be harmed 
+the wireless communications market is characterized by rapidly changing technology  evolving industry standards  rapid changes in customer requirements and frequent product introductions 
+we must continually 
+table of contents design  develop and introduce new products with improved features to be competitive 
+our current and future products may not achieve market acceptance or adequately address the changing needs of the wireless market  and we may not be successful in developing and marketing new products or enhancements to our existing products on a timely basis 
+the introduction of products embodying new technologies  the emergence of new industry standards or changes in customer requirements could render our existing products obsolete and unmarketable 
+in addition  we introduce from time to time products with proprietary enhancements 
+although we believe our products are fully compliant with applicable industry standards  proprietary enhancements may not in the future result in full conformance with existing industry standards under all circumstances 
+our introduction of proprietary features involves risks associated with market acceptance of these new products and certification by industry standards groups 
+we have reviewed the rules and regulations of the various standards bodies and related industry organizations to which we belong or with which we are affiliated  and we believe there is not a significant risk that action would be taken that would undermine our ability to continue to exploit our affiliation with these organizations 
+the development of our products is highly complex 
+we occasionally have experienced delays in completing the development and introduction of new products and product enhancements  and we could experience delays in the future 
+unanticipated problems in developing wireless products could also divert substantial engineering resources  which may impair our ability to develop new products and enhancements and could substantially increase our costs 
+even if the new and enhanced products are introduced to the market  we may not be able to achieve market acceptance of these products and our proprietary features in a timely manner 
+we have and will continue to expend substantial resources developing products for new applications or markets and may never achieve the sales volume for these products that we anticipate  which may limit our future growth and harm our results of operations 
+all of our products introduced to date have been for use in wireless networking applications 
+our strategy includes developing and introducing new products for use in applications other than wireless networking 
+our future success will depend in part upon the success of any such products  and we face a number of risks in connection with these products  including those described in other risk factors in this report 
+we have in the past  and will likely in the future  expend substantial resources in developing new and additional products for new applications and markets 
+we may experience unforeseen difficulties and delays in developing these products and defects upon volume production and broad deployment 
+in addition  we have no experience in markets other than wireless networking  and may be unsuccessful in marketing and selling any products we develop 
+the markets we choose to enter will likely be highly competitive and many of our competitors will have substantially more experience in these markets 
+our success will depend on the growth of the markets we enter and the competitiveness of our products 
+if we choose to enter markets that do not achieve or sustain the growth we anticipate  or if our products are not competitive  we may not achieve volume sales which may limit our future growth and harm our results of operations 
+we depend on a small number of customers for a significant portion of our revenue 
+if we fail to retain or expand customer relationships  our revenue could decline 
+we derive a significant portion of our revenue from a small number of customers  and we anticipate that we will continue to do so in the foreseeable future 
+these customers may decide not to purchase our products at all  to purchase fewer products than they did in the past  for example due to an increase in inventory  or to alter their purchasing patterns in some other way  particularly because substantially all of our sales are made on a purchase order basis  which permits our customers to cancel  change or delay product purchase commitments with little or no notice to us and without penalty 
+in the year ended december   hon hai precision industry  askey computer corporation  global sun technology inc and alpha networks  inc 
+formerly d link corporation accounted for   and of our net revenue  respectively 
+in the year ended december   global sun technology inc and hon hai precision industry accounted for and of our net revenue  respectively 
+some of our original 
+table of contents equipment manufacturer customers are also original design manufacturer customers  which may increase the impact of the loss of any customer 
+we must obtain orders from new customers on an ongoing basis to increase our revenue and grow our business 
+sales to our largest customers have fluctuated significantly from period to period primarily due to a change in our distribution model from direct sales to an increasing number of sales to original design manufacturers and the continued diversification of our customer base in our current markets 
+we believe that sales will likely continue to fluctuate significantly in the future as we enter into new markets 
+the loss of any significant customer  a significant reduction in sales we make to them  or any problems collecting receivables from them would likely harm our financial condition and results of operations 
+we will have difficulty selling our products if customers do not design our products into their product offerings or if our customers product offerings are not commercially successful 
+we sell our products directly to original equipment manufacturers  who include our chipsets in their products  and to original design manufacturers  who include our chipsets in the products they supply to original equipment manufacturers 
+our products are generally incorporated into our customers products at the design stage 
+as a result  we rely on original equipment manufacturers to design our products into the products they sell 
+without these design wins  our business would be materially and adversely affected 
+we often incur significant expenditures on the development of a new product without any assurance that an original equipment manufacturer will select our product for design into its own product 
+once an original equipment manufacturer designs a competitor s product into its product offering  it becomes significantly more difficult for us to sell our products to that customer because changing suppliers involves significant cost  time  effort and risk for the customer 
+furthermore  even if an original equipment manufacturer designs one of our products into its product offering  we cannot be assured that its product will be commercially successful  that we will receive any revenue from that manufacturer or that a successor design will include one of our products 
+the complexity of our products could result in unforeseen delays or expenses from undetected defects  errors or bugs in hardware or software  which could reduce the market acceptance for our new products  damage our reputation with current or prospective customers and adversely affect our operating costs 
+highly complex products such as our chipsets and the related reference designs we provide to our customers frequently contain defects  errors and bugs when they are first introduced or as new versions are released 
+we have in the past and may in the future experience these defects  errors and bugs 
+if any of our products have reliability  quality  or compatibility problems  we may not be able to successfully correct these problems 
+in addition  if any of our proprietary features contain defects  errors or bugs when first introduced or as new versions are released  we may be unable to correct these problems 
+consequently  our reputation may be damaged and customers may be reluctant to buy our products  which could harm our ability to retain existing customers and attract new customers and our financial results 
+in addition  these defects  errors or bugs could interrupt or delay sales to our customers 
+if any of these problems are not found until after we have commenced commercial production of a new product  we may be required to incur additional development costs and product recalls  repairs or replacement costs 
+these problems may also result in claims against us by our customers or others 
+because we do not have long term commitments from our customers  we must estimate customer demand  and errors in our estimates can have negative effects on our inventory levels  sales and operating results 
+our sales are largely made on the basis of individual purchase orders rather than long term purchase commitments 
+our customers have the right to cancel or defer some purchase orders 
+we have experienced in the past cancellations or deferrals of purchase orders  and additional cancellations and deferrals may occur from time to time 
+we have historically placed firm orders for products with our foundries up to approximately weeks prior to the anticipated delivery date and typically prior to receiving an order for the product 
+therefore  our order volumes are based on our forecasts of demand from our customers 
+this process requires us to make 
+table of contents multiple demand forecast assumptions  each of which may introduce error into our estimates 
+if we overestimate customer demand or incorrectly estimate product mix  we may allocate resources to manufacturing products that we may not be able to sell when we expect or at all 
+as a result  we would have excess inventory  which would harm our financial results 
+conversely  if we underestimate customer demand or if insufficient manufacturing capacity is available  we would forego revenue opportunities  lose market share and damage our customer relationships 
+on occasion  we have been unable to adequately respond to increases in customer purchase orders  and therefore  were unable to complete  or needed to delay  sales 
+we have in the past  and may in the future  allocate our supply among our customers 
+product allocation may result in the loss of current customers  and if we are unable to commit to provide specified quantities of products over a given period of time  we will not attract new customers 
+the failure to maintain customer relationships would decrease our revenue and harm our business 
+we may experience difficulties in transitioning to smaller geometry process technologies or in achieving higher levels of design integration  which may result in reduced manufacturing yields  delays in product deliveries and increased expenses 
+to remain competitive  we continually work to improve our chipsets and  in particular  our high performance radio frequency products  to be manufactured using increasingly smaller geometries and to achieve higher levels of design integration 
+these ongoing efforts require us from time to time to modify the manufacturing processes for our products and to redesign some products 
+to remain competitive  our chipset must be redesigned from time to time  which may result in delays in product deliveries 
+we periodically evaluate the benefits  on a product by product basis  of migrating to smaller geometry process technologies to reduce our costs 
+in the past  we have experienced some difficulties in shifting to smaller geometry process technologies or new manufacturing processes  which resulted in reduced manufacturing yields  delays in product deliveries and increased expenses 
+in addition  while we purchase wafers from foundries  we also assume the yield risk related to manufacturing these wafers into die 
+we may face similar difficulties  delays and expenses in the future 
+we depend on our relationships with our foundries to transition to smaller geometry processes successfully and cannot assure that our foundries will be able to effectively manage the transition 
+if our foundries  or we  experience significant delays in this transition or fail to efficiently implement these transitions  our business  financial condition and results of operations could be adversely affected 
+we rely on a limited number of independent foundries and subcontractors for the manufacture  assembly and testing of our chipsets  and the failure of any of these third party vendors to deliver products or otherwise perform as requested could damage our relationships with our customers  decrease our sales and limit our growth 
+we do not have our own manufacturing or assembly facilities and have limited in house testing facilities 
+therefore  we must rely on third party vendors to manufacture  assemble and test the products we design 
+we rely on taiwan semiconductor manufacturing corporation in taiwan and semiconductor manufacturing international corporation in shanghai  china to produce all of our chips 
+we also rely on amkor technology  inc in china and korea  asat holdings limited in china and hong kong  siliconware precision industries co  ltd 
+in taiwan  st assembly test services ltd 
+in singapore and other third party assembly and test subcontractors to assemble  package and test our products 
+if these vendors do not provide us with high quality products  services and production and test capacity in a timely manner  or if one or more of these vendors terminates its relationship with us  we may be unable to obtain satisfactory replacements to fulfill customer orders on a timely basis  our relationships with our customers could suffer  our sales could decrease and our growth could be limited 
+we face risks associated with relying on third party vendors for the manufacture  assembly and testing of our chipsets 
+we face significant risks associated with relying on third party vendors  including reduced control over product cost  delivery schedules and product quality  
+table of contents potential price increases  inability to achieve sufficient production  increase production or test capacity and achieve acceptable yields on a timely basis  increased exposure to potential misappropriation of our intellectual property  shortages of materials that foundries use to manufacture products  capacity shortages  and labor shortages or labor strikes 
+we do not have long term supply contracts with our third party manufacturing vendors and they may allocate capacity to other customers and may not allocate sufficient capacity to us to meet future demands for our products 
+we currently do not have long term supply contracts with any of our third party vendors 
+therefore  they are not obligated to perform services or supply products to us for any specific period  in any specific quantities  or at any specific price  except as may be provided in a particular accepted purchase order 
+none of our third party foundry or assembly and test vendors has provided contractual assurances to us that adequate capacity will be available to us to meet future demand for our products 
+these foundries and assembly and test vendors may allocate capacity to the production of other companies products while reducing deliveries to us on short notice 
+in particular  other customers that are larger and better financed than us or that have long term agreements with these foundries or assembly and test vendors may cause these foundries or assembly and test vendors to reallocate capacity to those customers  decreasing the capacity available to us 
+if we enter into costly arrangements with suppliers that include nonrefundable deposits or loans in exchange for capacity commitments  commitments to purchase specified quantities over extended periods or investment in a foundry  our operating results could be harmed 
+to date  we have not entered into such arrangements with our suppliers 
+if we need another integrated circuit foundry or assembly and test subcontractor because of increased demand  or the inability to obtain timely and adequate deliveries from our providers  we might not be able to cost effectively and quickly retain other vendors to satisfy our requirements 
+if our third party foundries or suppliers do not achieve satisfactory yields or quality  our relationships with our customers and our reputation will be harmed 
+the fabrication of chipsets is a complex and technically demanding process 
+minor deviations in the manufacturing process can cause substantial decreases in yields  and in some cases  cause production to be suspended 
+our third party foundries and suppliers have from time to time experienced manufacturing defects and reduced manufacturing yields 
+changes in manufacturing processes or the inadvertent use of defective or contaminated materials by our foundries could result in lower than anticipated manufacturing yields or unacceptable performance 
+many of these problems are difficult to detect at an early stage of the manufacturing process and may be time consuming and expensive to correct 
+in addition  designing radio frequency circuits using standard  complementary metal oxide semiconductor processes is difficult and can result in unsatisfactory yields 
+because we purchase wafers  our exposure to low wafer yields from our foundries is increased 
+poor yields from our foundries or defects  integration issues or other performance problems in our products could cause us significant customer relations and business reputation problems  or force us to sell our products at lower gross margins and therefore harm our financial results 
+in addition  manufacturing defects may not be detected by our testing  or may be caused by defective packaging of our products by our third party suppliers 
+if these defects arise or are discovered after we have shipped our products  our reputation and business would suffer 
+if we fail to secure or protect our intellectual property rights  competitors may be able to use our technologies  which could weaken our competitive position  reduce our revenue or increase our costs 
+we rely on a combination of patent  copyright  trademark and trade secret laws  confidentiality procedures and licensing arrangements to establish and protect our proprietary rights 
+our pending patent applications may 
+table of contents not result in issued patents  and our existing and future patents may not be sufficiently broad to protect our proprietary technologies or may be held invalid or unenforceable in court 
+policing unauthorized use of our products is difficult and we cannot be certain that the steps we have taken will prevent the misappropriation or unauthorized use of our technologies  particularly in foreign countries where the laws may not protect our proprietary rights as fully as united states law 
+any patents we have obtained  or may obtain in the future  may not be adequate to protect our proprietary rights 
+our competitors may independently develop or may have already developed similar technology  duplicate our products or design around any patents issued to us or other intellectual property rights 
+in addition  we may be required to license our patents as a result of our participation in various standards organizations 
+because we license some of our software source code directly to customers  we face increased risks that our trade secrets will be exposed through inadvertent or intentional disclosure  which could harm our competitive position or increase our costs 
+we license some of our software source code to our customers  which increases the number of people who have access to some of our trade secrets and other proprietary rights 
+contractual obligations of our licensees not to disclose or misuse our source code may not be sufficient to protect us from disclosure or misuse 
+the costs of enforcing contractual rights could substantially increase our operating costs and may not ultimately succeed in protecting our proprietary rights 
+if our competitors access our source code  they may gain further insight into the technology and design of our products  which would harm our competitive position 
+intellectual property litigation  which is common in our industry  could be costly  harm our reputation  limit our ability to license or sell our proprietary technologies or products and divert the attention of management and technical personnel 
+the wireless communications market is characterized by frequent litigation regarding patent and other intellectual property rights 
+in the last few years  we received several written notices or offers from our competitors and others claiming to have patent rights in certain technology and inviting us to license this technology and related patents that apply to the institute of electrical and electronics engineers  or ieee  family of wireless local area networking standards  including the b  g and a wireless standards as well as other technology and patents relevant to other standards related to our chips  software and system solutions 
+these notices or offers have been made directly to us and through our us and foreign customers 
+we have certain indemnification obligations to customers with respect to any infringement of third party patents and intellectual property rights by our products 
+we have responded directly  or indirectly through our customers  to all of these notices  and continue to correspond regarding the offers with some of the parties that have sent the notices 
+none of these notices or offers to license has included an explicit threat of  or resulted in  litigation against us 
+while at least one of our customers has been sued by the holder of a patent related to b  g and a technology  none of these notices or offers to license has included an explicit threat of  or resulted in  litigation against us 
+questions of infringement in the wireless communications market involve highly technical and subjective analyses 
+litigation may be necessary in the future to enforce any patents we may receive and other intellectual property rights  to protect our trade secrets  to determine the validity and scope of the proprietary rights of others  or to defend against claims of infringement or invalidity  and we may not prevail in any future litigation 
+if litigation were to be filed against us in connection with an offer to license technology or claims of infringement  our business could be harmed 
+litigation  whether or not determined in our favor or settled  could be costly  could harm our reputation and could divert the efforts and attention of our management and technical personnel from normal business operations 
+in addition  adverse determinations in litigation could result in the loss of our proprietary rights  subject us to significant liabilities  require us to seek licenses from third parties or prevent us from licensing our technology or selling our products  any of which could seriously harm our business 
+any of these consequences could result from litigation whether initiated by our competitors or others  including those that have already sent notices or offers to us and our customers claiming patent rights and offering licenses 
+
+table of contents any potential dispute involving our patents or other intellectual property could also include our industry partners and customers  which could trigger our indemnification obligations to them and result in substantial expense to us 
+in any potential dispute involving our patents or other intellectual property  our customers or licensees could also become the target of litigation  and certain customers have received notices of written offers from our competitors and others claiming to have patent rights in certain technology and inviting our customers to license this technology 
+at least one customer has been sued outside the us for allegedly infringing a patent related to b  g and a technology 
+because we indemnify our customers for intellectual property claims made against them for products incorporating our technology  any litigation could trigger technical support and indemnification obligations in some of our license or sales agreements  which could result in substantial expenses 
+in addition to the time and expense required for us to supply support or indemnification to our customers  any such litigation could severely disrupt or shut down the business of our customers  which in turn could hurt our relations with our customers and cause the sale of our proprietary technologies and products to decrease 
+we face business  political  regulatory  operational  financial and economic risks because most of our operations and sales activities take place outside of the united states 
+a significant portion of our products is sold to customers outside the united states and canada 
+sales to customers in asia accounted for substantially all of our net revenue in each of and because many of our original design manufacturer customers are located in asia  we anticipate that substantially all of our revenue will continue to be represented by sales to customers in that region 
+in addition  we conduct research and development activities in india and have sales  marketing and support personnel in japan  taiwan  korea  hong kong and china 
+our success depends upon continued expansion of our international operations 
+our international business involves a number of risks  including multiple  conflicting and changing laws and regulations  tax laws  export and import restrictions  employment laws  regulatory requirements and other governmental approvals  permits and licenses  difficulties in staffing and managing foreign operations as well as cultural differences  trade restrictions or higher tariffs that favor local competition in some countries  difficulties of managing sales representatives  especially because we expect to increase our sales through our sales representatives  inadequate local infrastructure and transportation delays  financial risks  such as longer payment cycles  greater difficulty collecting accounts receivable and exposure to foreign currency exchange rate fluctuations  failure by us or our customers to gain regulatory approval for use of our products  and political and economic instability  including wars  terrorism  and political unrest  recurrence of the sars or any other outbreak  boycotts  curtailment of trade and other business restrictions 
+any of these factors could significantly harm our future international sales and operations  consequently  our revenue and results of operations and business and financial condition 
+our headquarters are located in california  and we have sales offices in japan and elsewhere in asia  and a research and development facility in india 
+our third party foundries and subcontractors are concentrated in asia and elsewhere in the pacific rim 
+these areas are subject to significant earthquake and earthquake related risks 
+any disruption to the operations of these offices  foundries and subcontractors resulting from earthquakes or other natural disasters could cause significant delays in the production  shipment and sales of our products 
+taiwan semiconductor manufacturing corporation and semiconductor manufacturing international corporation  which manufacture our chipsets and perform substantially all of our assembly and testing facilities  
+table of contents are located in asia 
+in addition  our headquarters are located in northern california  and we have sales offices in japan  taiwan  hong kong and elsewhere in asia  and a research and development facility in india 
+the risk of an earthquake or an earthquake related disaster such as a tsunami in the pacific rim region or the indian ocean region  including asia and northern california  is significant due to the proximity of major earthquake fault lines 
+in september  a major earthquake in taiwan affected the facilities of several of these third party contractors  as well as other providers of these services 
+as a result of this earthquake  these contractors suffered power outages and disruptions that impaired their production capacity 
+in addition  the tsunami in december caused widespread destruction and disruption of business in india and throughout the indian ocean coastal region 
+the occurrence of additional earthquakes or other natural disasters could result in the disruption of our foundry or assembly and test capacity  or our ability to market and sell our products 
+we may not be able to obtain alternate capacity on favorable terms  if at all 
+we rely upon third parties for technology that is integrated into some of our products  and if we are unable to continue to use this technology and future technology or the technology fails to operate  our ability to sell technologically advanced products would be limited 
+we rely on third parties for technology that is integrated into some of our products 
+if we are unable to continue to use or license on reasonable terms third party technologies used in some of our products or the technology fails to operate  we may not be able to secure alternatives in a timely manner and our business would be harmed 
+while we believe that we currently have adequate internal controls over financial reporting  we are exposed to risks from recent legislation requiring companies to evaluate those internal controls 
+section of the sarbanes oxley act of requires our management to report on  and our independent auditors to attest to  the effectiveness of our internal control structure and procedures for financial reporting 
+we have an ongoing program to perform the system and process evaluation and testing necessary to comply with these requirements 
+this legislation is relatively new and neither companies nor accounting firms have significant experience in complying with its requirements 
+as a result  we expect to incur increased expense and to devote additional management resources to section compliance 
+in the event that our chief executive officer  chief financial officer or independent registered public accounting firm determine that our internal controls over financial reporting are not effective as defined under section  investor perceptions of our company may be adversely affected and could cause a decline in the market price of our stock 
+changes to financial accounting standards may affect our results of operations and cause us to change our business practices 
+we prepare our financial statements to conform with generally accepted accounting principles  or gaap  in the united states 
+these accounting principles are subject to interpretation by the american institute of certified public accountants  the securities and exchange commission and various bodies formed to interpret and create appropriate accounting policies 
+a change in those policies can have a significant effect on our reported results and may affect our reporting of transactions completed before a change is announced 
+changes to those rules or the questioning of current practices may adversely affect our reported financial results or the way we conduct our business 
+for example  accounting policies affecting many aspects of our business  including rules relating to employee stock option grants  have recently been revised or are under review 
+the financial accounting standards board and other agencies have finalized changes to us generally accepted accounting principles that will require us  starting in our third quarter of  to record a charge to earnings for employee stock option grants and other equity incentives 
+we may have significant and ongoing accounting charges resulting from option grants and other equity incentive expensing that could reduce our overall results of operations 
+in addition  since we historically have used equity related compensation as a component of our total employee compensation program  the accounting change could make the use of equity related compensation less attractive to us and therefore make it more difficult to attract and retain employees 
+
+table of contents risks related to our industry any future downturns in the semiconductor industry may reduce our revenue and result in excess inventory 
+the semiconductor industry is highly cyclical and is characterized by constant and rapid technological change  rapid product obsolescence and price erosion  evolving standards  short product life cycles and wide fluctuations in product supply and demand 
+the industry has  from time to time  experienced significant downturns  often connected with  or in anticipation of  maturing product cycles of both semiconductor companies and their customers products and declines in general economic conditions 
+these downturns have been characterized by diminished product demand  production overcapacity  high inventory levels and accelerated erosion of average selling prices 
+any future downturns may reduce our revenue or our percentage of revenue growth on a quarter to quarter basis and result in us having excess inventory 
+furthermore  any upturn in the wireless communications market in which we sell our chipsets could result in increased competition for access to limited third party foundry  assembly and test capacity 
+changes in current laws or regulations or the imposition of new laws or regulations could impede the sale of our products or otherwise harm our business 
+wireless networks can only operate in the frequency bands  or spectrum  allowed by regulators and in accordance with rules governing how the spectrum can be used 
+the federal communications commission  or the fcc  in the united states  as well as regulators in foreign countries  have broad jurisdiction over the allocation of frequency bands for wireless networks 
+we therefore rely on the fcc and international regulators to provide sufficient spectrum and usage rules 
+for example  countries such as china  japan or korea heavily regulate all aspects of their wireless communication industries  and may restrict spectrum allocation or usage  or may impose requirements that render our products or our customers products unmarketable in these jurisdictions 
+if this were to occur  it would make it difficult for us to sell our products in that region 
+in addition  some of our chipsets operate in the gigahertz  or ghz  band  which is also used by government and commercial services such as military and commercial aviation 
+the fcc and european regulators have traditionally protected government uses of the ghz  bands by setting power limits and indoor and outdoor designation and requiring that wireless local area networking devices not interfere with other users of the band such as government and civilian satellite services 
+changes in current laws or regulations  reversal of usage rights  or the imposition of new laws and regulations in the united states or elsewhere regarding the allocation and usage of the ghz band on us  our customers or the industries in which we operate may materially and adversely impact the sale of our products and our business  financial condition and results of operations 
+rapidly changing standards could make our products obsolete  which would cause our operating results to suffer 
+we design our products to conform to standards set by industry standards bodies such as the institute of electrical and electronics engineers  inc we also depend on industry groups such as the wifi alliance to certify and maintain certification of our products 
+if our customers adopt new or competing industry standards with which our products are not compatible  or such industry groups fail to adopt standards with which our products are compatible  our existing products would become less desirable to our customers and our sales would suffer 
+the emergence of markets for our chipsets is affected by a variety of factors beyond our control 
+in particular  our products are designed to conform to current specific industry standards 
+competing standards may emerge that are preferred by our customers  which could also reduce our sales and require us to make significant expenditures to develop new products 
+for example  the ieee has initiated working group proceedings directed at promulgating a new wireless local area networking standard  called n  that may be  or may be perceived by customers as being  superior to the standards with which our current products comply 
+if adoption of n and pre n products becomes widespread before we offer such products  we will lose customers and revenue and our business will be harmed 
+
+table of contents if our customers or the industries using wireless technology prefer to integrate wireless capability into other products  we may not be able to compete effectively  we will lose customers  our revenue will decline and our business will be harmed 
+we have adopted the strategy of maintaining wireless technology on a chipset that is separate from functionality contained on other chips within a product 
+our customers or the industries using wireless technology may prefer to integrate wireless capability into other products such as dsl modems  or determine that an integrated chip with multiple functionality results in products that perform better or are less expensive or more efficient to manufacture 
+if wireless functionality becomes commonly integrated with other functionality  the market for our products may decline 
+consequently  we may miss product cycles in order to redesign our products  and we may not be able to forge strategic relationships necessary in order to design and arrange for the production of chips that include multiple functionality 
+if we miss product cycles  we will lose customers  our revenue will decline and our business will be harmed 
+the proliferation of wireless devices may expand beyond the capacity of the channels available in the ghz or ghz bands  which may overload the networks and result in decreased market demand for our products 
+wireless networks currently operate in the ghz or ghz bands  within which there are a limited number of channels available for use 
+the increasing number of wireless devices and networks may overburden the frequency bands and overload the networks 
+recent studies have predicted that congestion in the ghz band could result from the increasing number of wireless devices using that band 
+if this occurs  our customers or the industries in which we operate may be adversely affected because the networks become inoperable or because only a limited number of devices will be able to access the networks 
+in turn  we may experience a decrease in market demand for our products that would adversely impact our business and results of operations 
+we may experience a decrease in market demand due to uncertain economic conditions in the united states and in international markets  which has been further exacerbated by the concerns of terrorism  war and social and political instability 
+economic growth in the united states and international markets has slowed significantly and the united states economy has recently been in a recession 
+the timing of a full economic recovery is uncertain 
+in addition  the terrorist attacks in the united states  the continued presence of united states military forces in iraq  and turmoil in the middle east have contributed to the uncertainty in the united states economy and may lead to a decline in economic conditions  both domestically and internationally 
+further terrorist acts and similar events  or additional wars in general  could contribute further to a slowdown of the market demand for goods and services  including demand for our products 
+if the economy declines as a result of the recent economic  political and social turmoil  or if there are further terrorist attacks in the united states or elsewhere  we may experience decreases in the demand for our products and services  which may harm our operating results 
+risks related to the market for our common stock because the nasdaq national market is likely to continue to experience extreme price and volume fluctuations  the price of our stock may decline 
+since we completed our initial public offering in february  the market price of our shares has been and likely will continue to be highly volatile and could be subject to wide fluctuations in response to numerous factors  including the following actual or anticipated variations in our quarterly operating results or those of our competitors  announcements by us or our competitors of new products or technological innovations  introduction and adoption of new industry standards  
+table of contents changes in financial estimates or recommendations by securities analysts  changes in the market valuations of our competitors  announcements by us or our competitors of significant acquisitions or partnerships  and sales of our common stock 
+many of these factors are beyond our control and may negatively impact the market price of our common stock  regardless of our performance 
+in addition  the stock market in general  and the market for technology and semiconductor companies in particular  have been highly volatile 
+our common stock may not trade at the same levels of shares as that of other semiconductor and technology companies  and shares of semiconductor and technology companies  in general  may not sustain their current market prices 
+in the past  securities class action litigation has often been brought against a company following periods of volatility in the market price of its securities 
+we may be the target of similar litigation in the future 
+securities litigation could result in substantial costs and divert management s attention and resources  which could seriously harm our business and operating results 
+our corporate actions are substantially controlled by officers  directors  principal stockholders and affiliated entities 
+our directors  executive officers and their affiliated entities beneficially own approximately of our outstanding common stock 
+one of our directors  teresa h 
+meng  owns approximately of our common stock  including shares subject to options that are immediately exercisable as of december  including shares deemed beneficially owned in accordance with the rules of the sec  but with respect to which they disclaim beneficial ownership except to the extent of their pecuniary interests therein  forest baskett  william b 
+elmore and andrew s 
+rappaport beneficially own approximately  and  respectively 
+these stockholders  if they acted together  could exert substantial control over matters requiring approval by our stockholders  including electing directors and approving mergers or other business combination transactions 
+this concentration of ownership may also discourage  delay or prevent a change in control of our company  which could deprive our stockholders of an opportunity to receive a premium for their stock as part of a sale of our company and might reduce our stock price 
+these actions may be taken even if they are opposed by our other stockholders 
+our ability to raise capital in the future may be limited and our failure to raise capital when needed could prevent us from executing our growth strategy 
+we believe that our existing cash and cash equivalents and existing amounts available under our revolving credit facility will be sufficient to meet our anticipated cash needs for at least the next months 
+the timing and amount of our working capital and capital expenditure requirements may vary significantly depending on numerous factors  including market acceptance of our products  the need to adapt to changing technologies and technical requirements  the existence of opportunities for expansion  and access to and availability of sufficient management  technical  marketing and financial personnel 
+if our capital resources are insufficient to satisfy our liquidity requirements  we may seek to sell additional equity securities or debt securities or obtain debt financing 
+the sale of additional equity securities or convertible debt securities would result in additional dilution to our stockholders 
+additional debt would result in increased expenses and could result in covenants that would restrict our operations 
+we have not made arrangements to obtain additional financing and there is no assurance that financing  if required  will be available in amounts or on terms acceptable to us  if at all 
+
+table of contents delaware law and our corporate charter and bylaws contain anti takeover provisions that could delay or discourage takeover attempts that stockholders may consider favorable 
+provisions in our certificate of incorporation may have the effect of delaying or preventing a change of control or changes in our management 
+these provisions include the following the right of the board of directors to elect a director to fill a vacancy created by the expansion of the board of directors  the establishment of a classified board of directors requiring that not all members of the board be elected at one time  the prohibition of cumulative voting in the election of directors which would otherwise allow less than a majority of stockholders to elect director candidates  the requirement for advance notice for nominations for election to the board of directors or for proposing matters that can be acted upon at a stockholders meeting  the ability of the board of directors to alter our bylaws without obtaining stockholder approval  the ability of the board of directors to issue  without stockholder approval  up to  shares of preferred stock with terms set by the board of directors  which rights could be senior to those of common stock  the required approval of holders of at least two thirds of the shares entitled to vote at an election of directors to adopt  amend or repeal our bylaws or amend or repeal the provisions of our certificate of incorporation regarding the election and removal of directors and the ability of stockholders to take action  the required approval of holders of at least two thirds of the shares entitled to vote at an election of directors to remove directors for cause  and the elimination of the right of stockholders to call a special meeting of stockholders and to take action by written consent 
+in addition  because we are incorporated in delaware  we are governed by the provisions of section of the delaware general corporation law 
+these provisions may prohibit large stockholders  in particular those owning or more of our outstanding voting stock  from merging or combining with us 
+these provisions in our certificate of incorporation  bylaws and under delaware law could discourage potential takeover attempts and could reduce the price that investors might be willing to pay for shares of our common stock in the future and result in the market price being lower than they would without these provisions 
+item a 
+quantitative and qualitative disclosures about market risk the primary objectives of our investment activity are  in order of importance  to preserve principal  provide liquidity and maximize the income without significantly increasing the risk 
+some of the securities we invest in are subject to market risk 
+this means that a change in prevailing interest rates may cause the principal amount of the investment to fluctuate 
+to minimize this risk  we maintain our portfolio of cash equivalents and short term investments in a variety of securities  including commercial paper  money market funds  government and non government debt securities and certificates of deposit 
+the risk associated with fluctuating interest rates is limited to our investment portfolio and we do not believe that a change in interest rates will have a significant impact on the fair value of our portfolio or on our interest income 
+as of december   our investments were in money market funds  commercial paper  corporate notes  market auction preferred stock and us government securities 
+
+table of contents the following table presents the amounts of cash equivalents and marketable securities in thousands  except percentages that are subject to market risk by range of expected maturity and weighted average interest rates as of december  this table does not include money market funds because those funds are not subject to market risk 
+maturing in three months or less maturing between three months and one year maturing greater than one year total fixed rate weighted average interest rate our exposure to market risk also relates to the increase or decrease in the amount of interest we must pay on our outstanding debt instruments  primarily certain borrowings under the revolving credit facility 
+our revolving credit facility provides financing up to million for working capital requirements 
+as of december   no balances were outstanding under the revolving credit facility 
+the loan bears interest at the bank s prime rate plus 
+we do not believe that a change in the prime rate would have a significant impact on our interest expense 
+to date  our international customer agreements have been denominated solely in us dollars  and accordingly  we have not been exposed to foreign currency exchange rate fluctuations related to customer agreements  and do not currently engage in foreign currency hedging transactions 
+however  the functional currency of our operations in japan  taiwan and india is the us dollar and as the local expenditures are denominated in the local currencies of japan  taiwan and india  respectively  we are subject to foreign currency exchange rate fluctuations associated with remeasurement to u 
+s dollars 
+a hypothetical change of in the foreign currency exchange rates would not have a material impact on our consolidated financial position or results of operations 
+

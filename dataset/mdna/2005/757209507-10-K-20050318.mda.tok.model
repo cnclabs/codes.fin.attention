@@ -1,0 +1,888 @@
+item management s discussion and analysis of financial condition and results of operations for a description of these forward looking statements and cautionary language  and please see the section of this annual report entitled risk factors for a description of the risks that may cause our actual results to vary from the forward looking statements 
+item business overview redback networks inc was incorporated in delaware in redback is a leading provider of advanced telecommunications networking equipment 
+redback s products enable carriers and service providers to build next generation broadband networks that can deliver high speed access and services to consumers and businesses 
+redback s smartedge router and service gateway platforms combine subscriber management systems and edge routing and  in conjunction with the netop element and policy manager platform  provide an infrastructure for managing both subscribers and value added services 
+these product families are designed to enable our customers to create regional and national networks that support major broadband access technologies  as well as new services such as video that these high speed connections enable 
+redback networks maintains a growing and global customer base of more than carriers and service providers  including major local exchange carriers lecs  inter exchange carriers ixcs  post  telephone and telegraph ptts and service providers 
+based on the information that management reviews for assessing performance and allocating resources within redback  we have concluded that redback has only one reportable segment 
+net revenue was million  million and million for the years ended december   and  respectively 
+loss from operations was million  million and million for the years ended december    and  respectively 
+total assets were million  million and million as of december   and  respectively 
+our smartedge family of products offers service providers the next generation of edge platforms that provide the ability to add revenue generating network services in addition to the data internet connectivity provided by traditional routers 
+the smartedge products simplify the architecture of today s regional data networks  and improve their capacity  performance and ability to deliver internet protocol ip services like virtual private networks vpns 
+the smartedge family includes the smartedge and the smartedge products  both of which are available as either a router or a service gateway 
+our smartedge router allows broadband service providers to connect thousands of business users quickly and cost effectively through traditional interfaces ds  ds  oc  oc and oc as well as ethernet and gigabit ethernet interfaces 
+its modular and scalable ip software enables the platform to provide users with high reliability  scalability and performance 
+in june  we announced the availability of the service gateway software enhancement to the smartedge platforms that allow service providers to utilize the same high performance platform to simultaneously support large number of broadband subscribers and perform subscriber management functions 
+our sms family of products connect and manage large numbers of subscribers across major high speed access technologies including dsl 
+these products bridge the operational gap between the devices used to gather high speed internet users ie  access concentrators at one end of the network and the devices at the other end of the network used to connect to the internet ie  routers 
+redback has a portfolio of products in the sms family targeted for different scaling points in the network 
+this portfolio includes the sms  sms sl  sms  and sms sl products 
+the combination of our smartedge and sms products deliver an architecture that enables our carrier and service provider customers to build intelligent broadband infrastructure  creating a robust environment for inserting and managing differentiated ip services  on a user by user basis 
+
+table of contents on november   we filed a voluntary petition for relief under chapter of title of the united states code in the united states bankruptcy court  district of delaware  or the bankruptcy court  and filed a prepackaged plan of reorganization  or the plan  on that same date 
+our subsidiaries did not follow the parent company into bankruptcy 
+on december   the bankruptcy court entered an order confirming the plan 
+we emerged from bankruptcy on the effective date of the plan  january  industry background  trends and competition our product lines consist of the smartedge and sms product families  which are designed to enable our customers to create metropolitan area networks that  support an aggregation of broadband internet access technologies  as well as new services that these high speed connections support 
+our market opportunity for the smartedge and sms products is governed by the inherent growth in broadband subscribers and bandwidth usage as well as technological and scale advantages introduced in the market 
+our primary competitors include juniper networks and cisco systems  as well as several start up technology companies and traditional telecom equipment providers 
+we also face competition from the traditional routing companies that have added subscriber management features to their traditional products 
+several vendors have introduced products that serve multiple functions  including aggregation and ip services delivery  and other startup companies are developing next generation technologies that may compete with our products 
+the market for our smartedge router platform is characterized by an upgrade cycle of swapping existing edge routers  for denser next generation edge routers with higher interface speeds and richer software functionality 
+industry analysts expect this transition to occur over the next four years 
+we primarily compete with routers from cisco systems and juniper networks in this market 
+additional competition exists from companies who make multi service edge devices  as well as startup companies who are developing next generation technologies that may compete with our products 
+increasing demand for broadband access services in recent years  there has been a significant increase in demand by businesses and consumers for broadband  or high speed access to the internet and to corporate networks 
+increasing numbers of users are relying on networks based on the dominant internet protocol software standard for the internet to access internal corporate networks intranets  the worldwide web  and participating in network dependent activities such as e mail  electronic commerce  telecommuting and on line entertainment 
+consumers are seeking low cost  high speed access to internet content and services such as graphical web sites  audio and video feeds  and high speed data 
+businesses have requirements for high speed access in order to implement electronic commerce strategies or web based business models  and to provide employees and others with robust telecommuting capabilities 
+these applications often require the transmission of large  multimedia intensive files  which requires high speed data access services 
+broadband internet access options broadband service providers have been responding to this demand for high speed access by providing broadband connections that are always on  as compared with using traditional dial up modes 
+below is a brief description of the major consumer oriented broadband access technologies digital subscriber line dsl 
+the market for digital subscriber line services has been expanding in many regions around the world 
+at the end of the third quarter of  there were an estimated million dsl subscribers around the world 
+this growth is expected to continue  with yankee group  a market research company  predicting the global dsl market to grow to million subscribers by the end of using the extensive network that has been laid out for voice based telephone calls  dsl operates over most types of standard copper telephone wires 
+various implementations of dsl have been developed and deployed  resulting in consumer oriented and business oriented access services that offer different speeds  availability guarantees 
+table of contents and other features 
+dsl can also serve as an affordable replacement for dedicated data lines used to deliver high speed data services to small and medium sized businesses 
+fiber 
+increasingly  carriers are starting to deploy fiber infrastructure in the form of fiber to the curb fttc  fiber to the premise fttp or fiber to the home ftth 
+fiber deployments can deliver exceptionally high data rates to end users and enable carriers and service providers to deliver simultaneous voice  video and data services 
+cable 
+high speed data communication across existing cable television networks has been made possible by the combination of two way cable technology  cable modems installed in the home  and network equipment installed at major cable concentration points to terminate end user traffic 
+wireless 
+as an alternative to access technologies using physical wires or cables  carriers and service providers are also using wireless technologies to provide broadband access 
+many of these providers are in the early stages of using their licenses to deploy broadband wireless data services 
+in addition  wireless fidelity wi fi as a ubiquitous low cost mechanism for wireless local area networks is gaining popularity and could drive broadband acceptance 
+in addition to the consumer oriented access methods outlined above  businesses generally connect to the internet using high speed access methods such as leased lines  asynchronous transfer mode atm  and frame relay 
+obstacles to deploying broadband access deployment of broadband access and related services poses several major challenges associated with building and expanding networks to accommodate large numbers of new high speed users 
+in the past  carriers and service providers did not have equipment available that would enable them to rapidly create and manage large broadband networks  especially when dsl was the technology of choice 
+if a carrier or provider wanted to build a large broadband network  it would have to manage thousands of users ongoing connections and to route users data to and from the internet 
+initially service providers used traditional data networking equipment to perform this function ie routers  that they were designed only to address part of this task and were limited to managing several hundred end users  significantly less than the tens of thousands of potential users associated with a widely deployed service 
+separate networks for each access technology broadband technologies pose additional challenges for carriers and providers interested in offering more than one type of broadband service 
+each broadband access technology uses different equipment at the provider s facility 
+as a result  service providers offering multiple broadband services significantly increase their costs  as they must purchase different networking devices and use different operational models for each broadband service they choose to offer to their end users 
+capacity and flexibility issues in regional data networks in addition to the obstacles noted above for delivering broadband access  broadband service providers face additional issues in their regional data networks  or intra and inter city networks  with regard to capacity and flexibility 
+previously  these telecommunications providers carried only voice or low speed data traffic over their regional data networks 
+however  with the popularity of broadband internet access and high speed data connections for businesses  providers are now facing challenges in accommodating a greatly increased volume of traffic 
+the widespread availability of broadband access has the potential to create significantly more data traffic volume demand than most existing regional networks are able to carry today 
+
+table of contents complexity in providers regional data networks another issue broadband service providers must address in their regional networks is the complexity that exists in such regional networks today 
+currently  most telecommunication data providers regional networks are composed of two separate networks one that carries traditional voice and data traffic using older optical technology and one that provides high speed connections for businesses using newer but still complex data equipment 
+to offer a comprehensive set of telecommunications services to a business  a service provider must purchase new equipment or modify existing equipment 
+the result is that  today telecommunications services often take a long time to be delivered once requested and cannot be quickly modified to meet customer requests 
+strategy redback s objective is to be a leading provider of intelligent broadband infrastructure that enables carriers and service providers to rapidly deploy high speed access to the internet and corporate networks and to deliver advanced internet protocol ip services that enable providers to generate incremental revenue from their networks 
+key elements of our strategy include the following enable triple play service 
+we believe our products provide a flexible solution for the creation and delivery of new value added services 
+we will continue to work directly with our customers and partners to develop features and functionality that further enhance the ability of service providers to deliver new broadband based services 
+we believe this approach will increase the value we offer in both new and existing installations  as well as contribute to the business success of our customers 
+examples of these new services may include silver  gold or platinum tiered bandwidth services  duration or time based access services and virtual private network services 
+leverage leading software capabilities 
+we believe our smartedge operating system on the smartedge platform and the aos operating system on the sms platform differentiates our solution and gives us a competitive advantage in the marketplace 
+these software capabilities allow redback s products to aggregate and manage broadband subscriber connections and enable additional services on top of basic connectivity 
+the modular software architecture heightens reliability and enables binding of any user connection to any service  further simplifying service provisioning 
+software modularity also allows for easier product evolution because new software modules can be independently developed  tested and installed to satisfy demand for new services 
+we intend to continue to enhance our bandwidth management  security  wholesale  subscriber accounting and billing  and policy management capabilities 
+leverage proprietary computer circuit designs 
+we believe our smartedge products hardware design  including proprietary computer chips commonly known as application specific integrated circuits asics  gives us a competitive advantage in the marketplace 
+these asics are complex and incorporate the functions previously performed by multiple pieces of equipment 
+in particular  our packet processing asic ppa provides us with the capability to perform deep packet inspection at very high processing rates in a programmable fashion that allow us to deliver new and innovative ip based services 
+we intend to continue to enhance our asic designs and use them throughout our smartedge product line 
+deliver broad product families 
+we have expanded our smartedge and sms product families to address the different capacity and functionality requirements of different market segments and our target customers needs 
+our smartedge and smartedge routers and the sms  sms sl  sms and sms sl products  are targeted at carriers and service providers 
+we will continue to invest in expanding our product portfolio to address other scaling points in the network and to add additional functionality to the smartedge family of products 
+expand global distribution and strengthen relationships with distribution partners 
+we currently pursue a direct and indirect sales strategy to penetrate broadband service provider organizations  focusing primarily on large carriers and major service providers 
+we also target smaller carriers and service providers through resellers 
+table of contents and channel partners who sell our products to their customers 
+we offer participating resellers discounts  technical training materials  access to an exclusive web site and targeted marketing and sales materials 
+we are continuing to expand our customer reach by pursuing strategic partnerships like the one announced with eci telecom in november increasing the scope of our distribution capability in europe and asia pacific 
+this includes distribution agreements such as the one announced in september with zte  a telecom equipment supplier based in china 
+establishing relationships with system integrators to deliver a fully integrated solution for our customers 
+establishing a solutions alliance program with various companies to add network and service management solutions 
+these actions may enable us to expand our global sales presence through the sale of integrated products to mutual customers 
+extend market position throughout broadband service provider markets 
+we plan to extend our market position by continuing to invest in sales and marketing efforts that will allow us to penetrate further with existing accounts with existing and new products  to develop early customer relationships and to win new service provider accounts for all types of broadband access 
+the key application areas that redback provides solutions include broadband subscriber aggregation  edge routing and services that can be delivered over the networking infrastructure 
+the redback solution redback provides solutions that make it possible for broadband service providers to connect  manage  and deliver services for a large numbers of subscribers using a range of high speed access technologies 
+our product families enable our customers to create end to end regional and national networks that support major broadband access technologies as well as new services that these high speed connections support 
+our smartedge platform provides broadband service providers the ability to support simultaneously large number of broadband dsl users and to connect thousands of business users quickly and cost effectively through traditional interfaces ds  ds  oc  oc  oc  and their etsi equivalents  atm interfaces  frame relay interfaces as well as ethernet and gigabit ethernet interfaces 
+its modular and scalable ip software  built for aggregation  enables the platform to provide users with high reliability  scalability and performance 
+our sms platform is designed to allow broadband service providers to connect tens of thousands of end users quickly and cost effectively  as well as manage user accounts and service profiles 
+by using our products  broadband service providers are able to deliver different kinds of high speed access and a variety of service offerings with a single operational structure 
+redback believes that data networks must evolve from the connectivity oriented networks of today to more intelligent  user aware networks optimized for service delivery 
+these updated networks allow redback s customers to offer more profitable  intelligent network services to their end users in an efficient and easily manageable fashion 
+this is not unlike the transition that occurred in the public switched telephone network pstn 
+for a long time  the pstn was purely a connectivity based network 
+in recent years  the pstn has evolved to offer advanced services such as call waiting  call forwarding  voicemail and auto call return 
+these advanced services  referred to as the advanced intelligent network ain  deliver increased margins to the pstn service provider 
+redback s products are designed to enable carriers and service providers to deliver equivalent advanced services in data networks 
+our products enable broadband service providers to create and market new service offerings that extend to their customers additional capabilities such as enhanced network based delivery of content such as video  traffic management  increased security  and connectivity options based on time of day  volume  or duration 
+
+table of contents benefits of the redback solution redback s solution of enabling the build out of smart broadband networks provides the following benefits to our carrier and service provider customers high reliability  so that the underlying service delivery infrastructure is available to the customer  high scalability to enable the service provider to serve more customers with less infrastructure  high flexibility so that the equipment has a longer shelf life and can be adapted to offer new services  user awareness to identify  authenticate  and bill the user  and service insertion capability so that users may have access to various services 
+enhances broadband operations 
+our products bridge the operational gap between access equipment located at the consumer end of the networks that serve businesses  homes and the routers at the carriers and service providers facilities that connects to the internet and to corporate networks 
+supports major access and aggregation methods 
+our smartedge and sms products support major access and aggregation technologies  including broadband dsl  wi fi  and cable 
+ip aggregation traditional and emerging methods for transmitting information over an ip based network  which enables our customers to provide their users with a high performance  highly reliable and scalable ip platform 
+equally important  this platform enables service providers the opportunity to insert value added data services based on ip technology 
+facilitates rapid and expandable deployment 
+our products allow broadband service providers to deploy quickly high speed access so that revenue generating services can be offered to their customers while using existing access  accounting and management control systems 
+provides a platform for the delivery of value added services 
+our products enable broadband service providers to create and market new service offerings such as such as enhanced delivery of content such as video  traffic management  increased security  and connectivity options based on time of day  volume  or duration 
+products and technology the smartedge redback has built the smartedge platform for the service provider network s edge 
+its hardware and software has been designed with high reliability  scalability and flexibility in mind 
+in performing its edge role  the smartedge router s operating system has been designed for user to network functionality and hence is not limited by only supporting network to network functionality inherent in other competing platforms that have been adapted to perform at the edge of the network 
+the smartedge platform incorporates a packet processing asic which allows the platform to facilitate a deep level of packet processing enabling such functions as quality of service  user awareness and appropriate policy enforcement while maintaining line rate 
+another distinguishing characteristic of this platform is the custom designed software 
+the modular software architecture heightens reliability and enables binding of any user connection to any service  further simplifying service provisioning 
+software modularity also allows for easier product evolution because new software modules can be independently developed  tested and installed to satisfy demand for new services 
+the smartedge platform also incorporates many of the same service philosophies inherent in the sms platform 
+for example  multiple routing contexts allow providers to partition a chassis with software to create 
+table of contents hundreds of contexts or virtual routers  each with its own management console  private forwarding tables  accounting and provisioning systems 
+the software architecture facilitates dynamic binding of the context to a service 
+end user visibility into virtual routers reduces management expense for the service provider 
+the smartedge platform was introduced in october of as the smartedge router for performing edge routing and edge aggregation of business traffic from access methods such as leased lines  atm  frame relay and ethernet 
+in june of  redback introduced new enhancements to the smartedge platform that enable it to function as a service gateway  which is the functionality of being able to aggregate and manage broadband subscribers in addition to terminating business subscribers  and delivering a wide array of value added services 
+today  the smartedge platform is available as the smartedge edge router  for deployment in traditional edge routing applications and as the smartedge service gateway  for deployment in broadband aggregation and subscriber management applications or as a converged edge platform that can perform all of the above types of applications in one chassis 
+the smartedge the smartedge platform is a new product introduced in june that expands the smartedge product portfolio 
+it is a smaller version of the smartedge platform in a compact chassis targeted for deployment in smaller central office locations  remote terminals and multi dwelling units 
+it shares all the key attributes of the smartedge the hardware architecture  the software and the line cards 
+the smartedge platform is also available as the smartedge router  for deployment in traditional edge routing applications and as the smartedge service gateway router  for deployment in broadband aggregation and subscriber management applications or as a converged edge platform that can perform all of the above types of applications in one chassis 
+the sms product family the sms system enables service providers and carriers to provision  aggregate and manage broadband and dial up subscribers and services through a single  unified platform 
+the sms platform is deployed at service providers points of presence pops or within carriers metropolitan networks 
+the sms system accepts a large concentration of broadband subscriber traffic from devices  such as dsl access multiplexers dslams  cable modem termination systems cmtss and wireless concentrators including wi fi hotspots  and delivers groomed traffic to the providers backbone routers 
+the sms platform eases provisioning through radius integration and standard management interface for rapid time to market and enables the creation and delivery of revenue generating packet based services and content 
+the sms family includes four product offerings the sms  the sms sl  the sms  and the sms sl products 
+all devices are purpose built for subscriber management  with the ability to aggregate broadband subscribers over dsl  cable and wireless 
+the sms and sms sl the sms platform features significant capacity and throughput with high reliability and redundancy of major system components 
+scalable to tens of thousands of active subscribers per seven foot rack in certain environments  the sms product enables new levels of service aggregation  wholesale access and ip service creation 
+the sms sl product was released in october and is an enhancement to the sms platform built upon redback s subscriber management technology with a redesign of certain portions of the hardware architecture and a new version of the aos operating software 
+the sms and sms sl similar to the sms platform  the sms system aggregates thousands of broadband subscribers and is deployed at the service providers pops to aggregate broadband subscriber traffic from dslams  cmtss 
+table of contents and wireless concentrators and pass on groomed traffic to backbone routers 
+the sms sl product was released in september and is an enhancement to the sms platform built upon redback s subscriber management technology with a redesign of certain portions of the hardware architecture and a new version of the aos operating software 
+the netop policy manager and netop element manager the netop policy manager netop pm is a software platform that allows policy management and control across the entire smartedge and sms product families 
+leveraging the proven use of industry standard radius as the basis for subscriber provisioning  netop pm greatly expands the capabilities of existing operational environments to offer a large variety of services such as time of day and volume based services as well manage a wide range of services offered through our solution alliance partners  such as video  security  wi fi  and traffic management 
+working in conjunction with the unique architectures of the smartedge and sms products  netop pm allows a carrier to introduce quickly value added services 
+the netop element manager provides network management for the smartedge platforms 
+it is a software platform that enables highly scalable  distributed network and service management for the smartedge platforms through a graphical user interface that simplifies critical tasks related to fault and configuration management  inventory management and troubleshooting  helping providers reduce costs and more efficiently manage their networks 
+in addition  embedded management functionality including command line interface  simple network management protocol  and bulk statistics enables efficient smartedge platform configuration and monitoring  greatly reducing the time it takes to deliver new services to customers 
+by partnering with leading operational support system vendors to supply critical management functions and multi vendor support  redback delivers a complete management solution for its smartedge platforms 
+sales and marketing we sell our products through a direct sales force  resellers  and distribution partners 
+through december   most of our revenue was derived from sales to carriers and service providers of broadband access and broadband services 
+as of december   our sales force consisted of approximately persons located globally 
+for the years ended december   and we derived approximately  and  respectively  of net revenue from international sales 
+we currently have regional sales and support headquarters in north america  europe and asia pacific 
+see note to our consolidated financial statements for additional revenue information by geographic region and risk factors for a description of risks attendant to our foreign operations 
+in addition to direct sales  we have a variety of reseller and distribution partners  especially for local or regional customer reach in europe and asia 
+we have a variety of marketing programs and initiatives to support the awareness  sale and distribution of our products 
+the audience for these activities includes our existing and prospective customers  distribution partners and authorized resellers  direct sales organization  and the trade press  analysts and others who are influential in the industry 
+marketing activities include participation in technical conferences and industry tradeshows  preparation of sales tools  business cases  competitive analyses and other marketing collateral  
+table of contents sales training  publication of customer deployments  new product information and educational articles in industry journals  maintenance of our world wide web site  and direct marketing to prospective customers 
+during  revenue from purchases by sbc communications accounted for approximately of out net revenue 
+during  revenue from purchases by sbc communications and british telecom accounted for approximately and of our net revenue  respectively 
+during  revenue from purchases by verizon  sumitomo  nokia and sbc accounted for approximately   and of our net revenue  respectively 
+backlog as of december   and  we had million  million and million  respectively in product backlog 
+backlog represents orders for goods or services on our current price list that are expected to ship within the next twelve months 
+december  product backlog of million is the highest annual ending backlog since december  research and development our engineering expertise includes internet protocol and routing software development  asics  and custom circuit design  subscriber management software  atm frame relay termination  wide area network interfaces  network and policy management software  system level testing  and quality assurance 
+we continue to invest in research and development programs 
+we are focusing development efforts on  among other things  completing and extending the functions of our asic designs  enhancing our support of the internet protocol and other related routing protocols  and creating and delivering new interfaces for our products 
+we are also developing new features and product families for our subscriber management system and are committed to extending the functionality of our subscriber management system software to create additional competitive advantages for our customers 
+we incurred research and development expenses of million  million and million in  and  respectively 
+customer service and support our primary customer service and support organization supports and maintains products sold worldwide by our direct sales force  as well as products sold by our authorized resellers and partners 
+generally  our distribution partners and authorized resellers provide installation services and support  first and second level  while we provide third level support 
+our technical assistance centers in the north america  asia and europe employ systems engineers who work closely with our direct sales personnel  partners and resellers to assist end users with post sales support issues 
+we incurred customer service and support expenses of million  million and million  in  and respectively 
+
+table of contents manufacturing our manufacturing operations consist primarily of prototype development  materials planning and procurement for an outsourced order fulfillment model 
+jabil circuit inc performs all of our production  including final assembly and testing 
+we use several independent suppliers to provide printed circuit boards  chassis and subassemblies 
+our products use a combination of standard parts and critical components  some of which are purchased from single or limited sources of supply 
+we incurred product cost of revenue  including manufacturing expenses  of million  million and million  in  and respectively 
+patents and proprietary rights our success and ability to compete are dependent on our ability to develop and maintain the proprietary aspects of our technology 
+we rely on a combination of patent  trademark  copyright and trade secret laws  employee and third party nondisclosure agreements and licensing arrangements to protect our intellectual property rights  but these legal protections afford only limited protection 
+executive officers of the registrant name age position held as of march  kevin a 
+denuccio president and chief executive officer ebrahim abbasi senior vice president of operations  information technology and customer service georges antoun senior vice president of worldwide field operations thomas l 
+cronan iii senior vice president of finance and administration and chief financial officer scott marshall senior vice president of engineering and product management kevin a 
+denuccio has served as president and chief executive officer and as a member of the board of directors of redback since august prior to that  mr 
+denuccio was with cisco systems inc from august to august  where he served as senior vice president of worldwide service provider operations 
+during his tenure at cisco  mr 
+denuccio also managed worldwide field operations  including all sales and engineering support organizations 
+prior to joining cisco  mr 
+denuccio was the founder  president and chief executive officer of bell atlantic network integration  inc  a wholly owned subsidiary of bell atlantic now verizon communications 
+mr 
+denuccio has also held senior management positions at both unisys corporation and wang laboratories as vice president in their network integration and worldwide channel partner businesses 
+mr 
+denuccio received his finance degree from northeastern university and is a graduate of the executive mba program at columbia university 
+ebrahim abassi has served as senior vice president of operations  information technology and customer service of redback since june prior to that  mr abbasi served as senior vice president of operations and information technology from april until june and as senior vice president of operations from october through april prior to joining redback  mr 
+abbasi was vice president of operations at zhone technologies from january to june mr 
+abbasi also spent more than two years at ascend communications acquired by lucent technologies as vice president of west coast operations from december to april mr 
+abbasi holds a b 
+s 
+degree and masters degree from the university of tehran 
+georges antoun has served as senior vice president of worldwide field operations of redback since july mr 
+antoun also served as redback senior vice president of engineering  product management and marketing from january to july and as senior vice president of marketing and business development from august to january before joining redback in august  mr 
+antoun spent the preceding five years  from july to august  at cisco systems inc  where he served as vice president of worldwide systems engineering and field marketing  vice president of worldwide optical operations and  
+table of contents more recently  as vice president of carrier sales 
+mr 
+antoun has also held senior management positions at newbridge networks and nynex now verizon communications  where he was part of their science and technology division 
+mr 
+antoun holds a bs degree from the university of louisiana at lafayette and a masters degree from new york polytechnic university 
+thomas l 
+cronan iii has served as senior vice president of finance and administration and chief financial officer since january mr 
+cronan began at redback in april as vice president and general counsel 
+from june to march  mr 
+cronan served as vice president and general counsel us at entrust technologies inc from february to june  mr 
+cronan served as vice president  general counsel and secretary at encommerce  inc en commerce merged with entrust in june mr 
+cronan served in both public and private high technology companies for more than years including ibm  opentv  taligent and encommerce  and was special counsel at wilson sonsini goodrich rosati  professional corporation in their technology licensing group 
+mr 
+cronan holds a jd from fordham law school and a bs from muhlenberg college and is a member of the bar in new york  california and connecticut 
+scott w 
+marshall has served as senior vice president of engineering and product management since october from february to september  mr 
+marshall served as president and chief executive officer of ceyba inc before joining ceyba  mr 
+marshall served as a group vice president at cisco systems  inc from august to february mr 
+marshall also served in various roles at newbridge networks from december to october  including six years as executive vice president of research and development and product management 
+mr 
+marshall holds a basc 
+degree from the university of waterloo 
+employees as of december   we had a total of employees  including in research and development operations  in sales and marketing  in finance and administration and in customer support 
+geographic information see note to our consolidated financial statements for financial information about geographic areas 
+where you can find more information we make our annual report on form k  quarterly reports on form q  current reports on form k  and all amendments to such reports filed pursuant to section a or d of the securities exchange act  available free of charge on or through our internet website located at www 
+redback 
+com  as soon as reasonably practicable after they are filed with or furnished to the u 
+s 
+securities and exchange commission sec 
+
+table of contents risk factors our operating plan is based on assumptions concerning the realization of a certain level of revenues and the control of our costs  which are difficult to predict and there is no guarantee that those goals are achievable 
+our operating plan is subject to great uncertainty because we have limited visibility into our business prospects and difficulty predicting the amount and timing of our revenue 
+specifically  the sales cycle is difficult to predict with respect to our smartedge router products due to our customers and potential customers needs to fully evaluate these products and compare them to competitive products 
+at the same time  revenue from our sms product line has declined in compared with revenues and sms revenue is expected to continue to decline during as more customers are considering or are moving to next generation dsl networks 
+during most of  we had a limited view of backlog of orders continuing into each of the following quarters and this made predicting our sales cycle even more difficult 
+while we were able to increase our backlog of orders significantly during the fourth quarter of  there continues to be considerable risk that we will not be able to sustain this larger backlog during  resulting in much less predictability in the sales cycle and therefore lower revenue than planned 
+many of our customers sales decisions are not made until the final weeks or days of the calendar quarter  which leads to greater uncertainty for us in predicting the timing and amount of our revenue 
+customers often view the purchase of our products as a significant and strategic decision  and this causes purchases of our products to become more susceptible to extensive testing and internal review and approval cycles by our customers  the length and outcome of which is difficult to predict 
+this is particularly true for larger customers who represent a significant percentage of our sales 
+these customers are often engaged in multiple simultaneous purchasing decisions  some of which may pertain to more immediate needs and absorb the immediate attention of our customers 
+our customers current capital constraints also make if difficult for them to commit in advance to buy our products in any given quarter or throughout the year 
+if sales from a specific customer for a particular quarter are not realized in that quarter or at all  our operating results could be materially adversely affected 
+our projected results are also based upon assumptions about our overall cost structure  which could prove unreliable 
+for example  if our current pricing arrangement with our contract manufacturer is not renewed beyond its current term  or is renegotiated on terms less favorable to us  our results of operations and financial condition could be materially harmed 
+our operating results have and are expected to continue to fluctuate significantly  which may result in volatility in the price of our securities 
+our operating results are likely to be affected by a number of factors  including the timing of significant sales to large customers  the long sales and implementation cycles  competitive pricing pressures  our ability to control expenses  and the recovery of the telecommunications industry and the economy in general 
+the majority of our expenses are essentially fixed in the short term 
+as a result  if we experience delays in generating or recognizing revenue  our quarterly operating results will likely decrease 
+therefore  we believe that quarter to quarter comparisons of our operating results may not be meaningful 
+you should not rely on our results for one quarter as any indication of our future performance 
+it is likely that in some future quarter our operating results may be above or below the expectations of public market analysts or investors 
+if this occurs  the price of our common stock would likely fluctuate 
+there are a limited number of potential customers for our products and the loss of any of our key customers would likely reduce our revenues significantly and have a negative impact on our cash position 
+our customers include both direct purchasers and resellers 
+during the twelve months ended december   revenue from product purchases by sbc communications accounted for approximately of our revenue 
+during the twelve months ended december   revenue from product purchases by sbc communications and british telecom accounted for approximately and of our revenue  respectively 
+
+table of contents during the year ended december   revenue from product purchases by verizon  sumitomo  nokia and sbc communications accounted for approximately    and of our revenue  respectively 
+we anticipate that a large portion of our revenues will continue to depend on sales to a limited number of customers  and we do not have contracts or other agreements that guarantee continued sales to these or any other customers 
+the current consolidation in the telecommunications industry such as sbc s proposed acquisition of at t and verizon s proposed acquisition of mci reduces further the number of available customers and could delay purchasing decisions at our existing customers that are effected by these consolidations 
+the loss of any of our key customers would have a negative impact on our cash collections and significantly reduce our revenues 
+our gross margin may continue to fluctuate over time  which could harm our results of operations 
+our gross margin may continue to fluctuate in the future due to  among other things  a change in the composition of our product mix that may tend to a greater percentage of smartedge sales  increasing pressure in more competitive markets  particularly in asia and europe  to reduce our current price levels  our ability to reduce product costs  our ability to control inventory costs and other reserves  and our ability to control and absorb fixed costs 
+based on the foregoing  our gross margin could decline and our results of operations would suffer 
+although we have successfully emerged from chapter bankruptcy  we expect to continue to incur net losses in the near future 
+to date  we have not been profitable 
+we incurred net losses of approximately million in the year ended december   million during fiscal year  million in  billion in and billion in  and we will continue to expend substantial funds in fiscal year to date  we have funded our operations primarily from private and public sales of debt and equity securities  as well as from bank borrowings 
+as of december   we had cash and cash equivalents of million 
+on november   we filed a voluntary petition for relief under chapter of title of the united states code 
+we emerged from bankruptcy on the effective date of the plan  january  even after our emergence from bankruptcy  we have continued to incur losses 
+although we believe that our future operating cash flows will be sufficient to finance our operating requirements for the next months  our limited availability of funds along with our continued loss from operations restricts our ability to expand or significantly increase our re investment in our business and makes us more vulnerable to industry downturns 
+this may also place us at a competitive disadvantage 
+we may continue to experience a negative impact on our business and operations due to the chapter bankruptcy filing 
+while we emerged from bankruptcy on january   there may be continued resistance to conduct business with us on the part of our customers  partners and vendors 
+our customers and partners may continue to have concerns about our long term viability given our bankruptcy filing  which may delay or change their decision to purchase products or enter into new distribution agreements with us 
+in addition  our vendors may be unwilling to extend us favorable credit terms or refuse to do business with us at all as a result of our bankruptcy proceedings 
+an occurrence of one or all of these events could have a material adverse impact on our business 
+our operating results will suffer if we do not successfully commercialize our product lines 
+our product line expanded when we began shipping our smartedge router during the fourth quarter of in addition  we have introduced new technologies in and in the fourth quarter of  we introduced new technology for the sms platform  the sms sl product 
+in the second quarter of  we introduced the smartedge router and the service gateway software for all smartedge platforms 
+in the third quarter of  we introduced the sms sl product and the netop policy manager products 
+during 
+table of contents  the revenue from smartedge products grew by compared with revenue from smartedge products in  but the revenue from sms products in decreased compared to the growth of our business is dependent on customer acceptance of the new smartedge products 
+if sales of the smartedge products do not meet our revenue targets  our operating results  financial condition or business prospects may be negatively impacted 
+in addition  the sale of these new products to our customer base may negatively impact the revenue of our pre existing products 
+our future success depends in large part on sales to companies in the telecommunications sector  and these companies continue to remain cautious with respect to new purchases 
+we are highly dependent on sales to companies in the telecommunications sector 
+our future depends on an improvement in the financial strength of the telecommunications sector because our sales depend on the increased use and widespread adoption of broadband access services  sustained capital expenditures by the telecommunications carriers which often occurs on a sporadic and unpredictable basis  and the ability of our customers to market and sell broadband access services 
+if the telecommunications industry experiences another downturn or broadband deployments do not increase steadily  our customers may forego sustained or increased levels of capital investments  and reevaluate their need for our products 
+if the foregoing occurs  our revenues may be less than we currently anticipate  and our business will suffer 
+we increasingly rely on sales in international markets  which expose us to additional risks that may affect our revenue levels 
+we have become increasingly reliant on sales to international customers during the last three years 
+during the years ended december   and we derived approximately  and  respectively  of our net revenue from sales to international customers 
+our growing international presence exposes us to risks including political  legal and economic instability in many parts of the world  protectionist tariffs and other unpredictable regulatory requirements  difficulties in managing operations across disparate geographic areas  foreign currency fluctuations  reduced or limited protection of our intellectual property rights  dependence on local and global resellers  greater expenses associated with customizing products for foreign countries  international taxes  longer accounts receivable cycles  and disruptions to our business related to widespread disease or other medical conditions 
+if one or more of these risks materialize  our sales to international customers may decrease and or our costs may increase  which could negatively impact our revenues and operating results 
+intense competition in our industry could result in the loss of customers or an inability to attract new customers 
+our smartedge platform competes in a market characterized by new geographic builds and an upgrade cycle of swapping existing edge routers for denser next generation routers with higher interface speeds and richer software functionality 
+industry analysts expect this transition to occur over the next four years 
+our competitors are expected to continue improving their existing products and to introduce new competitive products within the 
+table of contents next twelve months 
+additional competition exists from companies who make multi service edge devices  those who are adding subscriber management features to their existing core routers  as well as startup companies who are developing next generation technologies that may compete with our products 
+smartedge router competitive pressures may result in price reductions  reduced profit margins and lost market share  which would materially adversely affect our business  results of operations and financial condition 
+in addition  some of our competitors are large public companies that have greater name recognition  broader product offerings  more extensive customer bases  more established customer support and professional services organizations  and significantly greater financial  technical  marketing and other resources than we have 
+as a result  these competitors are able to devote greater resources to the development  promotion  sale and support of their products  and they can leverage their customer relationships and broader product offerings and adopt aggressive pricing policies to gain market share 
+our competitors with large market capitalization or cash reserves are much better positioned than we are to acquire other companies  including our competitors  and thereby acquire new technologies or products that may displace our product lines 
+as a result of the foregoing  we may be unable to maintain a competitive position against our competitors  which could result in a decrease in sales  earnings  and cash generation 
+if we fail to retain or attract employees  we may not be able to timely develop  sell or support our products 
+over the past several years  we have experienced a significant decrease in our overall number of employees as a result of operational efficiencies and reductions in the workforce 
+more recently  we have been especially challenged in retaining and attracting highly qualified management  skilled engineers and other knowledgeable workers in an industry such as ours where competition for skilled personnel is intense 
+in addition  we continue to evaluate our management structure to suit the needs of our business 
+our future performance depends  in part  on the ability of our senior management team to effectively work together  manage our workforce and retain highly qualified technical and managerial personnel 
+if our products do not anticipate and meet specific customer requirements and demands  our sales and operating results would be adversely affected 
+to achieve market acceptance of our products  we must anticipate and adapt to customer requirements and offer products and services that meet customer demands 
+due to the complexity of our products and the complexity  diversity  and changing nature of our customer needs  many of our customers require product features and capabilities that our products may not have or may not satisfy over time 
+in addition  we may experience design  manufacturing  marketing and other difficulties that could delay or prevent the development  introduction or marketing of new products and enhancements 
+there can be no assurance that we will be able to provide products that will satisfy new customer demands or evolving industry standards  or that the standards we choose to develop will position our products to compete with others in the market 
+in addition  if we are required to add features to our products  we may experience longer sales cycles  higher research and development spending and lower margins 
+furthermore  if we are required to modify our products for a few customers  we may experience delays in developing other product features desired by different customers  which may cause us to lose sales to those customers 
+our failure to develop products or offer services that satisfy customer requirements would materially adversely affect our sales  operating results  financial condition and business prospects 
+a number of our customers are evaluating our next generation products that may lead to an extended evaluation period or a decision to use a competitor s products and this may have a material adverse effect on our business 
+a significant number of our customers are in the process of evaluating our smartedge platform and new software releases for use in their next generation networks 
+these evaluations are often lengthy and may cause delays in purchasing decisions 
+there is no guarantee that customers will select our products at all 
+redback may 
+table of contents incur significant costs and resources during the evaluation process 
+due to the competitive nature of these evaluations  we may be forced to provide significant price concessions or commit to onerous contract terms to win the business and this may negatively impact our revenue and cost structure 
+undetected software or hardware errors in our products before deployment could have a material adverse effect on our operating results 
+due to the complexity of both our products and our customers environments  we may not detect product defects until full deployment in our customers networks 
+furthermore  due to the intricate nature of our products  it is possible that our products may not interoperate with our customers networks 
+this possibility is enhanced by the fact that our customers typically use our products in conjunction with products from other vendors 
+regardless of whether warranty coverage exists for a product  we may be required to dedicate significant technical resources to resolve any defects or interoperability problems in order to maintain our customer relationships 
+if this occurs  we could experience  among other things  loss of major customers  cancellation of product orders  increased costs  delay in recognizing revenue  and damage to our reputation 
+we currently depend on a single contract manufacturer  jabil circuit inc  with whom we do not have a long term supply contract  and the loss of any manufacturing capacity could materially and adversely affect our operating results 
+we depend on a single third party contract manufacturer  jabil circuit inc  to manufacture our products  and certain strategic vendors to supply parts to our contract manufacturer  with whom we do not have long term contracts 
+if we should fail to manage effectively the relationship with our contract manufacturer or if they should experience delays  disruptions or quality control problems in our manufacturing operations  our ability to ship products to our customers would be delayed 
+if our contract manufacturer were to cease doing business with us  our ability to deliver products to customers could be materially adversely affected  which would have a material adverse effect on our business 
+the loss of any of our contract manufacturer s manufacturing capacity could prevent us from meeting our scheduled product deliveries to our customers and could materially and adversely affect our sales and operating results 
+we continue to dispute a number of the proof of claims filed in the bankruptcy proceeding  which may result in additional liability and may be costly to litigate 
+we filed objections to certain disputed proof of claims 
+although we have resolved several of these objections  approximately million of priority tax claims currently remain in dispute  which may result in additional liabilities  payable in cash  if such claims are ultimately allowed by the bankruptcy court 
+we intend to continue our negotiations with the applicable taxing authorities to reach a settlement of the disputed claims which may be paid out over a number of years 
+we may litigate such claims to the extent that we believe such claims have been either improperly filed with the bankruptcy court  or were filed in amounts in excess of the company s belief of the true liability of such claims 
+we cannot predict the outcome of such disputes and there may be an unfavorable outcome from the company s perspective with respect to these disputed claims 
+we are dependent on sole source and limited source suppliers for several key components  and any interruptions or delay of supply could adversely affect our sales and business prospects 
+we currently purchase several key components used in our products from single or limited sources of supply 
+specifically  we rely on a limited number of foundries for a number of our asics 
+we have no guaranteed supply arrangement with these suppliers  and we  or our third party contract manufacturer  may fail to obtain these supplies in a timely manner in the future 
+financial or other difficulties faced by these suppliers or significant changes in demand for these components could limit the availability of these components to us 
+any interruption or delay in the supply of any of these components  or the inability to obtain these components from alternate sources at acceptable prices and within a reasonable amount of time  would adversely affect our ability 
+table of contents to meet scheduled product deliveries to our customers and would materially adversely affect our sales and business prospects 
+in addition  locating and contracting with additional qualified suppliers is time consuming and expensive 
+our inability to obtain sufficient quantities of components from our suppliers in a timely manner could negatively impact our ability to timely introduce and generate revenue from this new technology 
+our business will be adversely affected if we are unable to protect our intellectual property rights 
+we rely on a combination of patent  copyright  trademark and trade secret laws and restrictions on disclosure to protect our intellectual property rights 
+we also enter into confidentiality or license agreements with our employees  consultants and corporate partners  and control access to and distribution of our software  documentation and other proprietary information 
+despite our efforts to protect our proprietary rights  unauthorized parties may attempt to copy or otherwise obtain and use our products or technology 
+monitoring unauthorized use of our products is difficult  and we cannot be certain that the steps we have taken will prevent unauthorized use of our technology  particularly in foreign countries where the laws may not protect our proprietary rights as fully as in the united states 
+furthermore  other parties may independently develop similar or competing technology  design around any patents that may be issued to us  otherwise gain access to our trade secrets or intellectual property  or disclose our intellectual property or trade secrets 
+although we attempt to protect our intellectual property rights  we may be unable to prevent the misappropriation of our intellectual property  particularly in foreign countries where the laws may not protect our proprietary rights as fully as in the united states 
+the company has actively filed  patent applications but these applications may not result in the issuance of any patents 
+any patent that is issued might be invalidated or circumvented or otherwise fail to provide us any meaningful protection 
+in addition  we cannot be certain that others will not independently develop substantially equivalent intellectual property or otherwise gain access to our trade secrets or intellectual property  or disclose our intellectual property or trade secrets  or that we can meaningfully protect our intellectual property 
+our failure to protect our intellectual property effectively could have a material adverse effect on our business  financial condition or results of operations 
+we have licensed technology from third parties for incorporation into our products  and we expect to continue to enter into such agreements for future products 
+if necessary licenses of third party technology are not available to us or are unreasonably expensive to obtain  our results of operations could be adversely affected 
+we may be required to license technology from third parties to develop new products or product enhancements 
+however  these licenses may not be available to us on commercially reasonable terms  if at all 
+the inability to obtain any third party licenses required developing new products and product enhancements could require us to obtain substitute technology of lower quality or performance standards or at greater cost of which could seriously harm our business  financial condition and results of operations 
+we could become subject to litigation regarding intellectual property rights that could subject us to significant liability or force us to redesign our products 
+in recent years  we have been involved in litigation involving patents and other intellectual property rights  including our settled litigation with nortel networks 
+moreover  many patents have been issued in the united states and throughout the world relating to many aspects of networking technology  and therefore  we may become a party to additional litigation to protect our intellectual property or as a result of an alleged infringement of others intellectual property rights 
+if we do not prevail in potential lawsuits  we could be subject to significant liability for damages and we could be forced to redesign any of our products that use such infringing technology 
+our business and financial condition would be materially harmed due to reduction in our cash as a result of damage awards  lost or delayed sales or additional development or licensing expenses 
+moreover  lawsuits  even those in which we prevail are time consuming and expensive to resolve and divert management and technical 
+table of contents time and attention 
+although we carry general liability insurance  our insurance may not cover potential claims of this type or may not be adequate to indemnify us for all liability that may be imposed 
+we may be at risk of additional litigation  which could be costly and time consuming to defend 
+in  we were a defendant in a securities class action litigation  which is still pending  although it is subject to a pending settlement covered by insurance 
+in addition  more recently  certain or our current and former executive officers and board members have become the subject of several purported class action and stockholder derivative lawsuits 
+these complaints allege  among other things  that the named defendants breached their fiduciary duties to us and failed to disclose information relating to transactions we entered into with qwest communications 
+these lawsuits could seriously harm our business and financial condition 
+in particular  the lawsuits could harm our relationships with existing customers and our ability to obtain new customers 
+the continued defense of the lawsuits could also result in the diversion of our management s time and attention away from business operations  which could harm our business 
+the lawsuits could also have the effect of discouraging potential acquirers from bidding for us or reducing the consideration they would otherwise be willing to pay in connection with an acquisition 
+although we are unable to determine the amount  if any  we may be required to pay in connection with the resolution of these lawsuits by way of settlement  indemnification obligations or otherwise  the size of any such payments  unless covered by insurance or recovered from third parties  could seriously harm our financial condition or liquidity 
+all litigation that was commenced prior to or during the course of bankruptcy was stayed once we entered bankruptcy and will be handled pursuant to the plan 
+however  we remain at risk of post chapter litigation claims  including in the areas of securities class action  intellectual property rights  employment unfair hiring or terminations  product liability  etc 
+and remain at risk of obtaining liability insurance at a reasonable cost when our current policies expire 
+litigation involves costs in defending the action and the risk of an adverse judgment 
+any material litigation could result in substantial costs and divert management s attention and resources  which could seriously harm our business  financial condition and results of operations or liquidity 
+if we experience difficulties in developing new products  our revenues and earnings may be adversely affected 
+we intend to continue to invest in product and technology development 
+the development of new or enhanced products is a complex and uncertain process that requires the accurate anticipation of technological and market trends 
+we may experience design  manufacturing  marketing and other difficulties that could delay or prevent the development  introduction or marketing of new products and enhancements 
+we may also experience the loss of key development personnel that could impair our ability to develop and introduce new or enhanced products 
+the introduction of new or enhanced products also requires that we manage the transition from older products in order to minimize disruption in customer ordering patterns  to ensure that adequate supplies of new products can be delivered to meet anticipated customer demand  and to limit the creation of excess inventory that may impact our financial results 
+our inability to effectively manage the transition to newer products or accurately predict market and economic conditions in the future may cause us to incur additional charges of excess and obsolete inventory 
+if any of the foregoing occurs  our revenue  earnings  and cash generation may be adversely affected 
+we have been informed that the securities and exchange commission sec is examining certain transactions involving qwest communications  and adverse determination relating to redback in this examination could result in a material adverse effect on our business 
+we were previously informed that the sec is examining various transactions involving qwest communications  some of which were entered into between qwest and us 
+we fully cooperated with the sec regarding this matter and have provided relevant information to the sec in response to its requests 
+the transactions with respect to which the sec has requested information from us were all entered into prior to fiscal year and involve the sale of products by redback to qwest  the purchase of certain products and services by 
+table of contents redback from qwest and certain equity investments 
+we cannot predict the duration or outcome of the sec s examination  and to date  the sec has not informed us as to their intent to pursue enforcement or any other action against us 
+if  however  the sec determines to pursue enforcement or other action against us  our management could be distracted  we could incur substantial costs and there could be a material adverse effect on our business 
+future changes in financial accounting standards or practices may cause adverse unexpected fluctuations to our reported results of operations 
+we prepare our financial statements in conformity with accounting principles generally accepted in the united states of america 
+these principles are subject to interpretation by the sec and various bodies formed to interpret and create appropriate accounting policies 
+a change in these policies can have a significant effect on our reported results and may even retroactively affect previously reported transactions 
+in particular  changes to the financial accounting standards board pronouncements relating to accounting for stock based compensation will likely increase our compensation expense  could make our net income less predictable in any given reporting period and could change the way we compensate our employees or cause other changes in the way we conduct our business 
+if we fail to match production with product demand  we may need to incur additional costs and liabilities to meet such demand 
+we currently use a rolling forecast based on anticipated product orders  product order history and backlog to determine our materials requirements 
+lead times for the materials and components that we order vary significantly and depend on numerous factors  including the specific supplier  contract terms and demand for a component at a given time 
+if we overestimate our requirements or there are changes in the mix of products  the contract manufacturer may have excess inventory  which would increase our storage or obsolescence costs 
+for example  we incurred write downs of excess and obsolete inventory and related claims of million  million and million in  and  respectively 
+the and excess and obsolete inventory charges resulted from reductions in forecasted revenue and reactions to current market conditions 
+if we underestimate our requirements  the contract manufacturer may have an inadequate inventory  which could interrupt manufacturing of our products and result in delays in shipments and revenues 
+our business may suffer slower or less growth due to further government regulation of the communications industry 
+the jurisdiction of the federal communications commission  or fcc  extends to the communications industry  to our customers and to the products and services that our customers sell 
+continued regulations that adversely affect our customers or future fcc regulations  or regulations established by other regulatory bodies  may limit the amounts of money capital available for investment in broadband 
+regulation of our customers may materially harm our business and financial condition 
+the delays that these governmental processes entail may cause order cancellations or postponements of product purchases by our customers  which would materially harm our business  results of operations and financial condition 
+a small number of stockholders own a large percentage of our voting stock and could significantly influence all matters requiring stockholder approval 
+based upon information that is available to us  three stockholders each own over of our outstanding voting stock creedon keller partners  inc owns approximately  kopp investment advisors  llc owns approximately and entities affiliated with technology crossover ventures own approximately of voting preferred stock 
+in addition  tcv holds warrants  if converted  that would contribute approximately to tcv s total interest 
+these percentages are based on the sum of the common and preferred shares outstanding as of march  and the warrants held by entities affiliated with tcv are included to determine their interest 
+in the event some or all of these stockholders vote together they would be able to significantly influence all matters requiring approval by our stockholders  including new financing  the election of directors and the 
+table of contents approval of mergers or other business combination transactions 
+to the extent that the interests of these stockholders are different from those of other stockholders  important company decisions may not reflect the interests of all stockholders 
+we have adopted anti takeover measures effects that could prevent a change in our control 
+in  we adopted a stockholder rights plan 
+this plan was assumed by the company in the bankruptcy 
+this plan could delay or impede the removal of incumbent directors and could make more difficult a merger  tender offer or proxy contest involving us  even if such events could be beneficial  in the short term  to the interests of the stockholders 
+in addition  such provisions could limit the price that some investors might be willing to pay in the future for shares of our common stock 
+our certificate of incorporation and bylaws contain provisions that limit liability and provide for indemnification of our directors and officers  and provide that our stockholders can take action only at a duly called annual or special meeting of stockholders 
+these provisions and others also may have the effect of deterring hostile takeovers or delaying changes in control or management 
+changes in  or interpretations of  accounting rules and regulations  such as expensing of stock options  could result in unfavorable accounting charges 
+we prepare our consolidated financial statements in conformity with generally accepted accounting principles 
+these principles are subject to interpretation by the sec and various bodies formed to interpret and create appropriate accounting policies 
+a change in these policies can have a significant effect on our reported results and may even retroactively affect previously reported transactions 
+our accounting policies that recently have been or may be affected by changes in the accounting rules are as follows software revenue recognition accounting for share based payments accounting for income taxes accounting for business combinations and related goodwill recent rulemaking by the financial accounting standards board will require us to expense equity compensation given to our employees and will significantly harm our operating results and may reduce our ability to effectively utilize equity compensation to attract and retain employees 
+we historically have used stock options as a significant component of our employee compensation program in order to align employees interests with the interests of our stockholders  encourage employee retention  and provide competitive compensation packages 
+the financial accounting standards board has adopted changes that will require companies to record a charge to earnings for employee stock option grants and other equity incentives beginning july  this accounting change will reduce our reported earnings and may require us to reduce the availability and amount of equity incentives provided to employees  which may make it more difficult for us to attract  retain and motivate key personnel 
+each of these results could materially and adversely affect our business 
+while we believe that we currently have adequate internal controls over financial reporting  we are exposed to risks from recent legislation requiring companies to evaluate those internal controls 
+section of the sarbanes oxley act of requires our management to report on  and our independent registered public accounting firm to attest to  the effectiveness of our internal control structure and procedures for financial reporting 
+as we begin the second year of compliance  we are developing a program to perform the system and process evaluation and testing necessary to comply with these requirements on a sustained basis 
+companies do not have significant experience in complying with these requirements on an ongoing and sustained basis 
+as a result  we expect to continue to incur increased expense and to devote additional management 
+table of contents resources to section compliance 
+in the event that our chief executive officer  chief financial officer or our independent registered public accounting firm determine that our internal controls over financial reporting are not effective as defined under section  investor perceptions of redback may be adversely affected and could cause a decline in the market price of our stock 
+item properties redback leases all of its facilities as of march  redback s principal long term leases on a post bankruptcy basis are as follows location square footage occupied use for occupied facilities san jose  ca  principal administrative  sales  marketing  research and development facilities and service functions vancouver  bc  research and development total in addition to our facilities in california and british columbia  canada  we have small sales offices throughout the united states  including regional sales offices in georgia and texas  as well as international offices in france  germany  italy  netherlands  spain  turkey  and the united kingdom  the people s republic of china  hong kong  japan  korea  singapore and taiwan 
+we believe that our facilities will be feasible and adequate for the present purposes and the productive capacity in such facilities is substantially being utilized 
+these lease agreements expire at various times between and item legal proceedings the information set forth under note commitments and contingencies contained in the notes to the consolidated financial statements of the company s report on form k is incorporated herein by reference 
+item submission of matters to a vote of security holders no matters were submitted to a vote of security holders during the fourth quarter of the fiscal year covered by this report 
+
+table of contents part ii item market for registrant s common equity and related stockholder matters redback common stock is traded on the nasdaq national market under the symbol rbak 
+redback began trading on the nasdaq on may   the date of its initial public offering 
+the following table sets forth the range of high and low bid prices  as restated to give effect to the two for stock splits effected in august and april  reported on the nasdaq national market for redback common stock for the periods indicated 
+the information included below for the fiscal year does give effect to an approximate to reverse stock split effected as part of the plan  which became effective on january  high low fiscal first quarter second quarter third quarter fourth quarter fiscal first quarter second quarter third quarter fourth quarter fiscal first quarter second quarter third quarter fourth quarter as of march   there were approximately  beneficial owners and holders of record of redback common stock 
+dividend information redback has never paid any cash dividends on its stock  and anticipates that for the foreseeable future it will continue to retain any earnings for use in the operation of its business 
+sales of unregistered securities none 
+equity compensation plan information the information required by this item regarding equity compensation plans is incorporated by reference to the information set forth in item of this annual report on form k 
+
+table of contents item selected financial data the following selected financial data should be read in conjunction with redback s financial statements and related notes and management s discussion and analysis of financial condition and results of operations included elsewhere in this form k 
+year ended december  in thousands  except per share amounts statement of operations data product revenue related party product revenue service revenue total revenue product cost of revenue service cost of revenue amortization total cost of revenue gross profit loss operating expenses research and development selling  general and administrative impairment of goodwill restructuring charges reorganization items amortization of goodwill and intangible assets in process research and development stock based compensation expense total operating expenses loss from operations other income expense  net interest and other income expense  net interest expense release of restructuring liability upon termination of leases fresh start adjustments induced conversion charge total other income expense  net loss before reorganization items reorganization items net loss before deemed dividend and accretion on redeemable convertible preferred stock deemed dividend and accretion on redeemable convertible preferred stock net loss net loss per basic and diluted share shares used in computing net loss per share ratio of earnings to fixed charges ratio of earnings to fixed charges amount of deficiency amounts exclude stock based compensation as follows cost of revenue research and development selling  general and administrative total 
+table of contents the pre tax losses from continuing operations for the years ended december     and were not sufficient to cover fixed charges by a total of approximately million  million  million  billion and billion  respectively 
+as a result  the ratio of earnings to fixed charges has not been computed for any of these periods 
+as provided in the plan  the underlying shares of these options were subject to an approximate to reverse stock split that occurred immediately after the company emerged from bankruptcy 
+options held by employees as of january  that were i below market as defined in the plan were cancelled in connection with the company s emergence from bankruptcy or ii above market as defined in the plan  were cancelled ten days after the company s emergence from bankruptcy if the holders did not exercise them 
+net loss per basic and diluted share for the year ended december  has been computed excluding the impact of predecessor company net loss of  december  in thousands balance sheet data cash  cash equivalents and short term investments  including restricted cash and investments working capital deficit total assets long term obligations  less current portion liabilities subject to compromise accumulated deficit total stockholders equity deficit december  september  june  march  in thousands quarterly total liabilities  redeemable convertible preferred stock and stockholders equity data total liabilities redeemable convertible preferred stock stockholders equity common stock deferred stock based compensation accumulated other comprehensive loss accumulated deficit total stockholders equity total liabilities  redeemable convertible preferred stock  and stockholders equity amount reflects a correction of a clerical footing error with respect to the amount of stockholders equity as reported in the company s third quarter form q filed on november  
+table of contents item management s discussion and analysis of financial condition and results of operations this annual report in particular item the business section and item management s discussion and analysis of financial condition and results of operations contains forward looking statements within the meaning of the private securities litigation reform act of which is codified in section e of the securities exchange act of and section a of the securities act of 
+when we use the words  anticipate  assume  estimate  project  intend  expect  plan  believe  should  likely and similar expressions  we are making forward looking statements 
+in addition  forward looking statements in this report include  but are not limited to  statements about our beliefs  assumptions  estimates or plans regarding the following topics our product and marketing strategy  our expectation of continued growth in revenue in  our expected gross margins in  our future r d and sg a expenses  interest income and the cash requirement for interest expenses relating to credit facilities  our estimated future capital expenditures  our expectation regarding the outcome of pending litigation  and our belief that cash and cash equivalents will be sufficient to fund our operations through at least the next months 
+these forward looking statements  wherever they occur in this report  are estimates reflecting the best judgment of the senior management of redback 
+forward looking statements involve a number of risks and uncertainties that could cause actual results to differ materially from those suggested by the forward looking statements 
+forward looking statements should  therefore  be considered in light of various important factors  including those set forth in this report under the caption risk factors and elsewhere in this report 
+moreover  we caution you not to place undue reliance on these forward looking statements  which speak only as of the date they were made 
+we do not undertake any obligation to release publicly any revisions to these forward looking statements to reflect events or circumstances after the date of this report or to reflect the occurrence of unanticipated events 
+all subsequent forward looking statements attributable to redback or any person acting on our behalf is expressly qualified in their entirety by the cautionary statements contained or referred to in this report 
+background redback networks inc was incorporated in delaware in redback is a leading provider of advanced telecommunications networking equipment 
+redback s products enable carriers and service providers to build next generation broadband networks that can deliver high speed access and services to consumers and businesses 
+redback s smartedge router and service gateway platforms combine subscriber management systems and edge routing and  in conjunction with the netop element and policy manager platform  provide an infrastructure for managing both subscribers and value added services 
+these product families are designed to enable our customers to create regional and national networks that support major broadband access technologies  as well as new services such as video that these high speed connections enable 
+redback networks maintains a growing and global customer base of more than carriers and service providers  including major local exchange carriers lecs  inter exchange carriers ixcs  post  telephone and telegraph ptts and service providers 
+the following is a summary of significant events and transactions in the year ended december  the events outlined in this summary are more fully described elsewhere in this document or in previous filings with the sec 
+our net revenue increased to million in from million in the net revenue increase was primarily related to a higher acceptance of the smartedge family of products  including smartedge products of router and service gateway particularly in the international regions 
+our smartedge revenue increased to million while our sms revenue decreased to million during substantially all the sms revenue decline related to products of sms  sms and sms platforms 
+our gross profit in included a million liabilities release  as a result of the cancellation of an engineering services contract 
+excluding the favorable release  gross profit in would have been to revenue compared to in our gross profit improved in primarily due to lower department spending  offset by increased product costs and higher production variance expenses in 
+table of contents upon our emergence from chapter bankruptcy proceedings on january   we adopted fresh start reporting under statement of position  financial reporting by entities in reorganization under the bankruptcy code 
+see notes and in the notes to the consolidated financial statements for a discussion of our emergence from bankruptcy and our adoption of fresh start reporting 
+as a result  the debtor in possession revolving credit facility  or the dip facility  obtained during december was terminated and no amounts were borrowed under this facility 
+in january  we issued and sold to tcv iv  lp and tcv iv strategic partners lp  for an aggregate purchase price of approximately million  a total of  shares of our series b convertible preferred stock preferred stock and warrants to purchase  shares of our common stock at an exercise price of per share 
+the warrants have a term of seven years 
+each share of preferred stock is convertible into ten shares of the company s common stock  subject to adjustment for certain events such as stock splits and dividends 
+in addition  the preferred stock will automatically convert into shares of common stock after one year if the common stock trades at a minimum price of for consecutive days 
+the holders of the preferred stock have the right to vote with the common stockholders or as a separate class depending on the circumstances 
+in the event of a sale  liquidation  or dissolution of the company  the holders of preferred stock are entitled to be paid an amount in cash equal to the original price and all accrued or unpaid dividends 
+tcv is entitled to receive a cumulative dividend of per annum  payable semi annually  either in cash or preferred stock at the company s option  subject to certain conditions 
+if the company declares a dividend or distribution on common stock  then the holders of preferred stock will also be entitled to this dividend or distribution 
+the proceeds received from tcv were allocated to the preferred stock and the warrants on a relative fair value basis in accordance with gaap 
+this allocation created a beneficial conversion feature on this preferred stock based on the difference between the accounting conversion price of the preferred stock and the fair value of the company s common stock at the time of issuance of the preferred stock 
+the beneficial conversion feature resulted in a one time deemed dividend to the holders of the preferred stock of approximately million during the fiscal year in addition  the company accrued  for the semi annual dividend on the preferred stock for the fiscal year  which is payable in cash or preferred stock at the company s option 
+during  we used approximately million of cash flow from operating activities  resulting primarily from our loss from operations of million which includes million of depreciation and amortization expenses and sold equity investments for net proceeds of million 
+we spent million for capital expenditures principally to support our r d 
+our cash and cash equivalents at december  were million 
+on march   we entered into a million asset based credit facility under an agreement with silicon valley bank the bank that will expire on june  on june   july   december  and march   we amended certain provisions of the million asset based credit facility with the bank 
+the agreement provides that borrowings under the facility will be formula based including eligible receivables plus an overadvance facility of million and would be secured by substantially all of our assets 
+the line of credit is used to maintain a million letter of credit with jabil circuit inc  our contract manufacturer  and for working capital and general corporate purposes as required 
+borrowings under the line of credit generally bear interest at prime rate plus 
+if any amounts under the overadvance facility were outstanding  the bank may demand that we either pay the amount of overadvance or permit the bank to restrict the use of cash or securities on deposit with the bank in an amount equal to the overadvance 
+we are required to meet certain financial covenants under the loan agreement including a minimum tangible net worth requirement  if the company is not in compliance with the minimum tangible net worth requirement  the minimum tangible net worth is reset and the company must maintain minimum cash balances of million if the letter of credit is in place and million if the overadvance facility is used 
+in certain cases  the company s borrowings may be subject to a higher interest rate and payment of additional fees 
+the bank  at its option  may also cease making advances or otherwise extending credit to us under this agreement upon the occurrence of a number of specified events  including material adverse changes as defined in the agreement 
+
+table of contents as of march  june  and december   we did not have any outstanding amounts under the overadvance facility 
+as of september   however  the company had approximately million borrowed under the overadvance facility which was subject to the overadvance repayment or restriction provision of the agreement due to a deficit in its eligible receivables to maintain the letter of credit with jabil ciruit inc as of december   our eligible receivables were million and our total availability  net of the million letter of credit  was million 
+our total availability included the million overadvance and we were in compliance with the financial covenants under the loan agreement 
+as of december   no borrowings were outstanding under the facility 
+period comparisons our results of operations after january  and our consolidated balance sheet at december  are not comparable to the results of operations prior to january  and the historical balance sheet at december  due to our adoption of fresh start reporting upon our emergence from bankruptcy 
+however  such differences in our results of operations relate primarily to depreciation of property  plant and equipment  amortization of other intangible assets  interest expense and reorganization expenses 
+additionally  these differences in our balance sheets relate primarily to property  plant  and equipment  intangible and other assets  goodwill  lease related restructuring accruals  and the conversion of our convertible notes to common stock 
+certain amounts  such as net sales and certain expenses were not affected by our adoption of fresh start accounting and  accordingly  we believe them to be comparable 
+to provide a more meaningful analysis  the following discussion of our operating results for are presented on a combined basis covering our predecessor company operating results for the period from january  through january  and our successor company operating results following emergence from bankruptcy for the period from january  through december  as compared to years ended december  and 
+table of contents results of operations the following table provides statement of operations data and the percentage change from prior year in thousands year ended december  change change statement of operations data product revenue related party product revenue service revenue total revenue product cost of revenue service cost of revenue amortization total cost of revenue gross profit operating expenses research and development selling  general and administrative restructuring charges reorganization items amortization of goodwill and intangible assets stock based compensation total operating expenses loss from operations other income expense  net interest and other income expense  net interest expense release of restructuring liability upon termination of leases fresh start adjustments induced conversion charge total other income expense  net net loss before reorganization items reorganization items loss before deemed dividend and accretion on redeemable convertible preferred stock deemed dividend and accretion on redeemable convertible preferred stock net loss attributable to common stockholders years ended december  and net revenue 
+our net revenue increased to million in from million in the net revenue increase was primarily related to our product revenue 
+during  our smartedge revenue increased to million while our sms revenue decreased to million 
+substantially all the 
+table of contents sms revenue decline related to lower aggregate unit volumes of the sms  sms and sms platforms 
+the increase in smartedge revenue primarily resulted from a higher acceptance of the smartedge family of products  particularly in the international regions and higher aggregate unit volume of smartedge products  including router and service gateway 
+unit volume sales of our products increased overall during the year ended december  compared to the year ended december  average selling price on the smartedge systems is generally lower than sms systems 
+service revenue increased to million in from million in substantially all of our service revenues related to revenues from maintenance contracts 
+the increase in service revenue during is in part a result of higher renewals as well as multi year contract arrangements with our customers 
+our ability to predict future revenues is limited 
+we are planning our business on the assumption that our sales will grow in the future 
+we expect that this growth in revenue will be due to i increased customer acceptance of our smartedge router and service gateway platforms b increase customer confidence in purchasing our technology for longer term investments following the completion of our financial restructuring  and ii growth of regional and national networks that support major broadband access technologies  as well as increased use and widespread adoption of broadband access services 
+cost of revenue gross profit 
+our cost of revenue increased million to million in from million in our cost of revenue as a percentage of revenue was in an increase of approximately one percentage point from in during the third quarter of  customer cancelled a product related engineering services contract which resulted in a release of liabilities for approximately million to the cost of revenue 
+excluding the favorable effect of the release  our cost of revenue as a percentage of revenue would have been in compared to in the improvement in cost as a percentage of revenue is primarily due to lower department spending  offset by increased product costs and higher production variance expenses in for the year ended december   our manufacturing and customer services organization department expenses were reduced from the same period in primarily due to decreases in payroll payroll related costs and lower depreciation expense as a result of the reduction in the fair value of fixed assets upon adoption of fresh start accounting 
+during the second half of  shipments of smartedge product exceeded the shipments of sms product line 
+as the product transition transpired  we incurred higher product costs associated with the change in the product mix 
+smartedge products generally have lower margins compared to our sms product line 
+in addition  production variance expenses increased from primarily due to amortization of product related intangible assets and excess and obsolete charges in the amortization of product related intangible assets increased to million for the year ended december  compared to million in reflecting the revaluation of intangible assets to fair values as a part of fresh start accounting 
+the charges for excess and obsolete inventory and related claims and commitments were million and million for the year ended december  and  respectively 
+the excess and obsolete inventory charges for and resulted from reductions in forecasted revenue  change in product mix  and reactions to current market conditions 
+during and  we also recognized a benefit of approximately million and million  respectively for the sale of inventory that had been fully reserved in a prior period 
+on a forward looking basis  we are planning our business based on the assumption that our gross margin will increase from the gross margin reported in due to i product cost reductions from our contract manufacturer  ii the ability to spread our fixed overhead costs such as manufacturing and service organization spending  over a higher assumed product sales volume and iii our ability to gain efficiencies in our customer service organization 
+at this time  it is not possible to anticipate or quantify savings  if any  relating to future negotiations 
+
+table of contents however  gross profit could be lower in  subject to a number of factors including but not limited to continued decline in our sms business which is a mature business and has a high profit margin  continued competitive pressure on our smartedge sales  particularly in the asia pacific region  which results in lower average sales price and therefore lower product margins  higher charges from our contract manufacturer as it realizes lower economies of scale  if price levels of parts increase  if shortages require premium charges  if product lead times increase  or if we are unsuccessful in renegotiations for continuing discounts and cost reductions 
+we do not currently anticipate a reduction in orders that would result in lower economies of scale for our contract manufacturer or parts shortages that could lead to higher pricing 
+parts shortages may occur if market demand increases 
+shortages in components used by multiple manufacturers may increase the lead time for our contract manufacturer as well as other distribution partners 
+a shortage of a key component such as the strategic integrated circuits used in our products would be a risk to our business  a decline in overall unit volume of sales would result in lower absorption of our internal manufacturing operating costs  which are not scalable directly with revenue volumes  and amortization of intangible assets  which are essentially fixed 
+most of our internal manufacturing operating costs  such as salaries for our operations and service department and amortization of intangibles  are fixed costs that are relatively independent of the volume of our business 
+if our business volume decreases  our internal costs would be absorbed at a lower revenue level  thus reducing the gross profit per unit  additional charges for excess and obsolete inventory resulting from changes in expected demand 
+operating expenses and headcount 
+a significant amount of our departmental spending relates to salaries and related costs 
+following is a breakdown of our headcount r d other total december  other net changes december  research and development 
+our research and development r d expenditures include salary related expenses for our engineering staff  costs for engineering equipment and prototypes  depreciation of property and equipment  and other departmental expenses 
+our r d expenditures decreased to million for the year ended december  from million in the prior year  and represented and of net revenue in and  respectively 
+the decrease in our r d expenses is primarily due to a decrease in amortization and depreciation for million primarily as a result of the reduction in the fair value of fixed assets upon adoption of fresh start accounting  a decrease in prototype spending for million  and a decrease in salary and related costs for million caused by a decrease in our r d headcount 
+because the market for our products involves rapidly changing technology  industry standards and customer demands  our r d expenses will most likely fluctuate in future periods both in absolute dollars spent and as a percentage of revenue 
+we continue to re evaluate our product strategy  which may result in realignment in r d resources or a change in the mix of skills of our staff 
+selling  general and administrative 
+selling  general and administrative sg a expenses include salaries and related costs for our non engineering staff in sales  marketing  and administration  office and equipment related expenditures including depreciation of property and equipment  costs for operating leases and office supplies  professional services including audit  tax  legal and non engineering consulting fees  promotions and advertising  and selling expenses 
+our sg a expenditures decreased to million for the year ended december  from million in the prior year  and represented and of net revenue in the years ended december  and  respectively 
+the decrease in our sg a expense is primarily due 
+table of contents to the decrease in salary and related costs of million  a decrease of million in equipment related expenses which included amortization and depreciation expenses as a result of the reduction to the fair value of fixed assets upon adoption of fresh start accounting offset by increase in professional service expenses including costs relating to sarbanes oxley compliance and testing for approximately million 
+in addition  operating lease expenses decreased million to million in from million in previous year primarily due to the termination of our facilities leases in bankruptcy and negotiation of a new lease agreement following the emergence from bankruptcy 
+we will continue to evaluate the expenses as revenue volume fluctuates in future periods 
+restructuring charges 
+we did not record any restructuring provisions or accruals for the year ended december  however  we did incur restructuring charges of million for the year ended december  pursuant to the plan  all of our lease obligations terminated upon emergence from bankruptcy 
+consequently  the restructuring accruals have been eliminated as of january  resulting in a net gain of million on the release of restructuring liability upon the termination of leases during the period from january  through january  see note of the notes to the consolidated financial statements for further discussion 
+consolidation of facilities 
+during june  we recorded a million restructuring charge for the estimated costs to terminate or sublease an additional san jose facility 
+in addition  we recorded a charge for the write off of leasehold improvements related to this facility of million 
+as part of our plan  we had restructured all of our facility leases in the united states 
+this resulted in the reversal of certain restructuring accruals net of deposits as of the effective date of the plan on january  see note to the consolidated financial statements 
+workforce reductions 
+during april  we restructured our operations through a reduction in our workforce 
+the research and development functions were primarily affected by the reduction 
+the affected employees received severance and other benefits pursuant to our benefits program 
+we recorded a charge of million for termination benefits and other related costs in the second quarter of in accordance with statement of financial accounting standards sfas no 
+ accounting for costs associated with exit or disposal activities 
+the current and long term portions of the restructuring related reserves for the year ended december  were million and million  respectively 
+these amounts were included on the balance sheet within accrued liabilities and other long term liabilities  respectively 
+reorganization items 
+we incurred million reorganization costs in the year ended december  the reorganization costs were included as part of our operating expenses as we exited the bankruptcy on january  we incurred million reorganization costs in year ended december  the decrease of million  was primarily due to professionals fees related to our financial restructuring  including the chapter bankruptcy proceedings 
+impairment of goodwill and amortization of intangible assets we adopted sfas no 
+ goodwill and intangible assets on january  under sfas no 
+ goodwill must be tested for impairment annually and whenever events or circumstances occur indicating that goodwill might be impaired  such as a significant adverse change in legal factors or in the business climate  an adverse assessment or action by a regulator  unanticipated competition  a loss of key personnel  or the testing for recoverability under sfas no 
+ accounting for the impairment or disposal of long lived assets of a significant asset group 
+sfas no 
+also requires intangible assets other than goodwill to be amortized over their useful lives  unless these lives are determined to be indefinite 
+upon exiting the bankruptcy protection in january  the carrying value of goodwill and intangible assets were adjusted as a part of fresh start accounting to fair value based on the reorganization value 
+with the 
+table of contents adoption of fresh start accounting  we recorded other intangible assets in the amount of million  which included the developed core and product technology 
+the intangible assets are being amortized on a straight line basis over their estimated useful lives ranging from five to nine years 
+amortization expense for the year ended december  and was approximately million and million  respectively  of which million and million  respectively  was recorded in cost of revenue 
+see note to the consolidated financial statements for further discussion 
+we performed the annual impairment test of goodwill as of september   and determined that no impairment charge was required 
+in the prior years  we performed the impairment test in may  upon the filing of the plan with the bankruptcy court on november   and in may  and determined that no impairment charges were required for all three periods 
+we could be required to record impairment charges in the future 
+any resulting impairment will be recorded in the income statement in the period it is identified and quantified 
+in accordance with sfas no 
+ we ceased amortizing goodwill with a net carrying value of million as of january   including million of acquired workforce intangibles previously classified as purchased intangible assets 
+see note to the consolidated financial statements 
+accordingly  there were no charges for the amortization of goodwill in and other intangibles  with a net book value of  at december   comprising non compete agreements and purchased technology resulting from our merger with siara systems  inc siara and the acquisitions of abatis systems corporation abatis and merlin systems corporation merlin continued to be amortized until we emerged from bankruptcy in january see note and note to the consolidated financial statements 
+stock based compensation 
+stock based compensation increased million in to million from  in the increase in stock based compensation expense in the current year is attributed to the deferred compensation charge totaling million  which was recorded for stock options issued to employees on january  the deferred compensation is being amortized over the vesting period of the options under an accelerated method 
+in the year ended december   stock based compensation includes approximately  from the and assumption of stock options grants in connection with the abatis and merlin acquisitions and approximately  from stock option grants made below fair market value to certain key employees 
+in the year ended december   stock based compensation primarily includes approximately million from the and assumption of stock options grants in connection with the abatis and merlin acquisitions  our initial public offering and million from stock option grants made below fair market value to certain key employees 
+due to the stock price on the last trading day of the year december   there was no stock based compensation recorded for the voluntary stock option replacement program 
+options held by employees as of january  that were i below market as defined in the plan were cancelled in connection with our emergence from bankruptcy or ii above market as defined in the plan  were cancelled ten days after our emergence from bankruptcy if the holders did not exercise them 
+
+table of contents other income expense  net 
+interest and other income expense increased from expense of million in to expense of million in  details as follows in thousands year ended december  foreign currency loss  net release of restructuring liability upon termination of leases fresh start reporting adjustments induced conversion charges interest income interest expense realized gain on sale of investments and other total interest and other income foreign currency loss in fiscal years was primarily attributable to the weakening of the us dollar against foreign currencies  primarily euro and the british pound 
+the foreign currency loss in was due to loss on hedge ineffectiveness 
+the company recorded million of the release of restructuring liability upon termination of leases  fresh start reporting adjustments  and induced conversion charges in connection with the company emergence from chapter bankruptcy on january  and the adoption of fresh start reporting 
+see notes and in the notes to the condensed consolidated financial statements for further discussion 
+interest income decreased in compared to since the company maintained the cash balances in money market accounts during  given that the company emerged from bankruptcy on january  during  the company maintained some of the cash balances in cds and other higher interest bearing securities 
+interest expense decreased from million in to  in  primarily due to cancellation of our outstanding convertible notes in accordance with the plan and ceased accruing interest on the convertible notes upon filing bankruptcy in november realized gain on sale of investments and other increased million in from  primarily due to a gain of million on the sale of our equity investments in that were written off in a previous period while the company had an approximately million lease settlement during during  the company had other expense primarily related to bank and fees relating to our credit facilities 
+on a forward looking basis  we do not anticipate that there will be significant cash requirements for interest expense 
+we expect interest income to decrease as a result of the expected use of our cash to fund operations 
+provision for income taxes 
+no provisions for income taxes have been recorded  as we have incurred net losses since inception 
+the realization of deferred tax assets is dependent on generating taxable income in the future 
+as a result of the losses incurred  we have determined that it is more likely than not that these deferred tax assets will not be realized 
+accordingly  we have established a full valuation allowance 
+years ended december  and net revenue 
+our net revenue decreased to million in from million in  which included a reduction in quarterly revenue from a high during of million in the first quarter of to a low in of million in the second quarter of the decrease from to was 
+table of contents primarily a result of decreased product revenue 
+during  our sms revenue decrease to million and our smartedge revenue decrease to million 
+substantially all the sms revenue decline related to lower aggregate unit volumes of the sms  sms and sms platforms 
+the decrease in smartedge revenue primarily resulted from a decrease in our smartedge transport revenue and a decrease in our smartedge router revenue 
+substantially all the product revenue decline related to lower aggregate unit volume sales of both smartedge and sms products 
+unit volume sales of our products declined during the year ended december  compared to the year ended december  the decrease in unit volume sales was partially offset by the increase in our average selling prices 
+service revenue remained constant year over year and was million in compared to million in cost of revenue gross profit 
+gross profit improved from in to in  primarily as a result of lower charges for excess and obsolete inventory  product cost improvements  decrease in other manufacturing costs  and a reversal of a million accrual for an engineering services contract that was canceled in the quarter ended september  we recorded charges for excess and obsolete inventory and related claims and commitments of  and million in the years ended december  and  respectively 
+the and excess and obsolete inventory charges resulted from reductions in forecasted revenue and reactions to current market conditions 
+the charges for and resulted from the comparison of on hand  on order and committed inventories to various factors including reductions in our anticipated demand 
+during  we also recognized a reduction in the provision for excess and obsolete inventory of  for the sale of inventory that had been fully reserved in a prior period 
+the lower level of manufacturing overhead resulted from lower departmental spending in our manufacturing and customer support organizations in since we scaled down our operations to support the lower levels of business we were experiencing in for the year ended december   our manufacturing and customer support organization expenses  principally payroll related costs  were reduced from in response to lower support requirements due to lower levels of business 
+over the same period  inventory related costs declined million and amortization of intangibles declined million 
+operating expenses and headcount 
+a significant amount of our departmental spending relates to salaries and related costs 
+following is a breakdown of our headcount r d other total december  layoffs other net changes december  research and development 
+our r d expenditures decreased to million for the year ended december  from million in the prior year  and represented and of net revenue in the years ended december  and  respectively 
+the decrease in our r d expenses is primarily due to a decrease in prototype spending  equipment related expenses  a decrease in salary and related costs consistent with the decrease in our r d headcount  and a decrease in the use of consultants 
+selling  general and administrative 
+our selling  general and administrative expenditures decreased to million for the year ended december  from million in the prior year  and represented and of net revenue in the years ended december  and  respectively 
+the decrease in our sg a expense is primarily due to the decrease in selling and related expenses and salary and related costs consistent with the decrease in our sg a headcount and a decrease in our sales related travel expenditures consistent with decreased revenue 
+
+table of contents restructuring charges consolidation of facilities 
+during  we recorded a million restructuring charge for the estimated costs to terminate or sublease excess facilities 
+this estimate was based upon current comparable market rates for leases and anticipated dates that these properties are subleased 
+during june  we recorded a million restructuring charge for the estimated costs to terminate or sublease an additional san jose facility 
+this estimate was based upon current comparable market rates for leases and anticipated dates that these properties are subleased 
+in addition  we recorded a charge for the write off of leasehold improvements related to this facility of million 
+as part of our plan  we had restructured all of our facility leases in the united states 
+this resulted in the reversal of certain restructuring accruals net of deposits as of the effective date of the plan on january  see note to the consolidated financial statements 
+workforce reductions 
+in october  we reduced our workforce by people  and recorded a charge of million for termination benefits and  for property and equipment during the three months ended december  in may and june  we reduced our workforce by people  and recorded a charge of million for these termination benefits during the three months ended june  during april  we restructured our operations through a reduction in our workforce 
+the research and development functions were primarily affected by the reduction 
+the affected employees received severance and other benefits pursuant to our benefits program 
+we recorded a charge of million for termination benefits and other related costs in the second quarter of in accordance with statement of financial accounting standards sfas no 
+ accounting for costs associated with exit or disposal activities 
+the activities of our restructuring reserves are summarized as follows in thousands workforce reductions consolidation of excess facilities total accruals cash payments restructuring accrual at december  accruals non cash charges cash payments restructuring accrual at december  accruals cash payments restructuring accrual at december  the current and long term portions of the restructuring related reserves are million and million  respectively 
+these amounts were being included on the balance sheet within accrued liabilities and other long term liabilities  respectively  and released upon emergence from bankruptcy in fresh start accounting on january  impairment of goodwill and amortization of intangible assets 
+amortization of intangible assets decreased from million in to  in due primarily to the adoption of sfas no 
+ goodwill and other intangible assets on january  in accordance with sfas no 
+on january   we reclassified million in workforce assets to goodwill  and we ceased amortizing the resulting goodwill balance of million 
+accordingly  there were no charges for the amortization of goodwill in and 
+table of contents stock based compensation 
+stock based compensation decreased to  in from million in as previously discussed in the year ended december   stock based compensation includes assumption of stock options grants in connection with the abatis and merlin acquisitions and stock option grants made below fair market value to certain key employees 
+in the year ended december   stock based compensation primarily includes assumption of stock options grants in connection with the abatis and merlin acquisitions  our initial public offering and option grants made below fair market value to certain key employees 
+the decrease in stock based compensation expense in the period can be attributed to lower expenses for the stock option grants in connection with abatis and merlin acquisitions  our accelerated amortization methodology  and the reductions in workforce 
+other income expense  net 
+other income expense include the following in thousands years ended december  bond conversion foreign exchange gain loss loss on hedge ineffectiveness interest expense interest income other expense total interest and other income expense  net interest and other income expense decreased from expense of  in to income of million in in interest and other income  net includes interest income of million  foreign exchange losses of million  and other expense of million 
+in  interest and other income included a million charge as required by sfas no 
+ induced conversions of convertible debt  in connection with the retirement of million aggregate principal of our convertible subordinated notes  or convertible notes  by issuing million shares of our common stock valued at approximately million 
+also included in interest and other income was million in loss on hedge ineffectiveness  which was recorded in connection with our interest rate swaps 
+in may  we entered into two interest rate swaps for our convertible notes to change the interest characteristic of our fixed rate debt to a variable rate of month libor plus basis points 
+in august  we terminated our two interest rate swap agreements realizing cash proceeds of approximately million  including a million gain that was being amortized as an offset to interest expense over the remaining term of the convertible notes 
+we also entered into a new interest rate swap agreement for our convertible notes to change the interest characteristic of our fixed rate debt to a variable rate of month libor plus basis points 
+in october  we terminated this interest rate swap agreement realizing cash proceeds of approximately million  including a million gain that was being amortized as an offset to interest expense over the remaining term of the convertible notes 
+the gains were recorded within convertible notes on the balance sheet at december  we did not re enter into a new swap agreement given the volatility in interest rates at the time 
+the remaining balance in interest and other income of million was primarily comprised of million in interest income from cash and equivalents  short term investments and restricted cash and investments and  of other expense  net of foreign exchange gains 
+the convertible notes including deferred gains were cancelled on january  upon our emergence from chapter bankruptcy proceedings 
+the change in interest income from million in to million in was due primarily to a decrease in interest rates and the decrease in our invested funds from million at december  to million in interest expense decreased to million in from million in 
+table of contents interest expense resulted primarily from the issuance in march of our convertible notes 
+the decrease in interest expense from the prior year comparative period is due primarily to ceased accruing interest on the convertible notes upon filing bankruptcy in november reorganization items 
+reorganization costs of million in included fees to professionals related to our financial restructuring  including the chapter bankruptcy proceedings 
+provision for income taxes 
+no significant provisions for income taxes have been recorded  as we have incurred net losses since inception 
+the realization of deferred tax assets is dependent on generating taxable income in the future 
+as a result of the losses incurred  we have determined that it is more likely than not that these deferred assets will not be realized 
+accordingly  we have established a full valuation allowance 
+significant accounting policy judgments and estimates the preparation of financial statements in accordance with accounting principles generally accepted in the united states requires that we make estimates and judgments  which affect the reported amounts of assets  liabilities  revenue and expenses  and related disclosures of contingent assets and liabilities 
+on an on going basis  we evaluate our estimates  including those related to sales returns  bad debts  inventories  investments  intangible assets  income taxes  warranty obligations  restructuring charges  contingencies such as litigation  and contract terms that have multiple elements and other complexities typical in the telecommunications equipment industry 
+we base our estimates on historical experience and other assumptions that we believe are reasonable under the circumstances 
+actual results may differ from these estimates under different assumptions or conditions 
+we believe the following critical accounting policies affect the more significant judgments and estimates used in the preparation of our financial statements 
+revenue recognition 
+we recognize revenue  generally upon shipment  when all four of the following criteria are met we have a contract with our customer  when title and risk of loss pass to the customer  when our price is fixed or determinable  and when collection of the receivable is reasonably assured 
+for transactions where we have not yet obtained required customer acceptance  revenue is deferred until the terms of acceptance are satisfied 
+maintenance contract revenue is recognized ratably over the period of the contract  which is typically one year 
+a reserve for sales returns is established based on historical trends in product returns 
+if the actual future returns differ from historical levels  our revenue could be adversely affected 
+sales to resellers are generally recognized upon shipment 
+allowance for doubtful accounts 
+the allowance for doubtful accounts receivable is based on the aging of accounts receivable and our assessment of the collectibility of our aged receivables 
+if there is a deterioration of a major customer s credit worthiness or actual defaults are higher than our historical experience  our estimates of the recoverability of amounts due to us could be adversely affected 
+inventory reserves 
+inventory purchases and commitments are based upon future demand projections 
+we record reserves for inventory based on several factors including estimates of forecasted demand 
+if there is a significant decrease in demand for our products or there is a higher risk of inventory obsolescence because of rapidly changing technology and customer requirements  we may be required to increase our inventory allowances and our gross margin could be adversely affected 
+
+table of contents long lived assets 
+we perform goodwill impairment tests on an annual basis and between annual tests in certain circumstances 
+we also review our other long lived assets  including property and equipment and other identifiable intangible assets  for impairment whenever events or changes in circumstances indicate that the carrying value of such assets may not be recoverable 
+factors considered important that could result in an impairment review include significant underperformance relative to expected historical or projected future operating results  significant changes in the manner of use of acquired assets or the strategy for our business  significant negative industry or economic trends  and a significant decline in our common stock price for a sustained period of time 
+impairments are recognized based on the difference between the fair value of the asset and its carrying value  and fair value is generally measured based on discounted cash flow analyses 
+if there is a significant decrease in our business in the future  we may be required to record impairment charges in the future 
+warranty reserves 
+we provide a limited warranty for our products 
+a provision for the estimated warranty cost is recorded at the time revenue is recognized 
+liabilities for the estimated future costs of repair or replacement are established and charged to cost of sales at the time the related sale is recognized 
+the amount of liability to be recorded is based on management s best estimates of future warranty costs after considering historical and projected product failure rates and product repair costs 
+if we experience an increase in warranty claims  which are higher than our historical experience  our gross margin could be adversely affected 
+deferred taxes 
+we have provided a full valuation allowance against our tax assets  given uncertainty as to their realization 
+in future years  these benefits are available to reduce or eliminate taxes on future taxable income 
+stock based compensation 
+we amortize the deferred stock compensation  upon our emergence from bankruptcy  over accelerated three years vesting period 
+the related compensation expense will fluctuate significantly from period to period based upon a number of factors including changes in quoted prices of our common stock and actual vesting  exercises  forfeitures and cancellations 
+legal matters 
+we have been involved in litigation in the normal course of business 
+the results of any litigation matter are inherently uncertain 
+litigation that was commenced prior to or during the course of the bankruptcy was stayed once we entered bankruptcy and was handled pursuant to the plan 
+in the event of any adverse decision in litigation with third parties that could arise in the future with respect to patents  other intellectual property rights relevant to our products and defective products  we could be required to pay damages and other expenses  to cease the manufacture  use and sale of infringing products  to expand significant resources to develop non infringing technology  or to obtain licenses to the infringing technology 
+these charges may occur in any particular quarter resulting in variability in our operating results and an unplanned use of our cash resources 
+liquidity and capital resources our principal source of liquidity as of december  consisted of approximately million in cash and cash equivalents 
+this was an increase of approximately million compared to the balance as of december  of million 
+the primary contributors to the increase were the sale of our preferred stock to tcv totaling approximately million  proceeds from issuance of common stock of million  sale of equity investments that were previously written off of million and change in restricted cash of million  offset by cash used in operating activities of million  purchases of property and equipment for approximately million  and payment on capital lease obligations and borrowings of approximately million 
+revenue generated from the sale of our products and services may not increase to a level that exceeds our expenses or could fluctuate significantly as a result of changes in customer demand or acceptance of future products 
+although we expect to continue to review our operating expenses  if we are not successful in achieving a cost reduction or generating sufficient revenues  our cash flow from operations will continue to be negatively impacted 
+cash used in operating activities was million for the year ended december   compared to million in the year ended december  cash used in operating activities in the year ended 
+table of contents december  resulted primarily from our net loss before deemed dividend and accretion on preferred stock of million  and a release of restructuring liability upon termination of leases of million  gain on sale of equity investment of million  offset by fresh start accounting adjustments of million  an induced conversion charge of million  depreciation of million  amortization of intangibles of million  amortization of the fair value of warrants issued in connection with a lease agreement of approximately million and stock compensation expense of million 
+cash used in operating activities in the year ended december  resulted primarily from our net loss of and amortization of deferred swap gain of million  payment of reorganization items consisting of professional fees of million  offset by depreciation and amortization of million  stock compensation expense of  impairment of property and equipment of million  and working capital changes of approximately million 
+our primary source of operating cash flow is the collection of accounts receivable arising from sales of products to our customers and the timing of payments to our vendors and service providers 
+we measure the effectiveness of our collections efforts by an analysis of the average number of days our accounts receivable are outstanding 
+at december  and  our days sales outstanding was day and days  respectively 
+collections of accounts receivable and related days outstanding will fluctuate in future periods due to the timing  amount and the geographic mix of our future revenues  payment terms on customer contracts and the effectiveness of our collection efforts 
+our operating cash flows will be impacted in the future based on the timing of payments to our vendors for accounts payable 
+our days payable outstanding averaged approximately days during and during  our vendors were  in general  less willing to extend us favorable credit terms as a result of our impending bankruptcy proceedings 
+during  we saw a decreasing resistance to conduct business with us on the part of our vendors as we continued our efforts to obtain favorable payment terms on our significant purchases 
+in the future  the timing of cash payments may be impacted by the timing and nature of credit arrangements we are able to obtain from our vendors 
+cash provided by investing activities was approximately million for the year ended december   compared to million in the year ended december  cash provided by investing activities in the year ended december  was due primarily to proceeds from sale of investment of approximately million and changes in restricted cash of approximately  offset by purchases of property and equipment of million 
+cash provided by investing activities in the year ended december  was due primarily to the net sale of investments of million and changes in restricted cash of approximately million  offset by purchases of property and equipment of million cash provided by financing activities was million for the year ended december   compared to cash used in financing activities of million in the year ended december  cash provided by financing activities in the year ended december  was primarily due to proceeds from the issuance of preferred stock of approximately million  issuance of common stock of million  and exercise of warrants of approximately  offset by principal payments on capital lease obligations and borrowings of approximately  cash used in financing activities in the year ended december  was primarily due to proceeds from the issuance of common stock of  and proceeds from bank borrowings of million  offset by principal payments on capital lease obligations and borrowings of million 
+in the fourth quarter of  we entered into a line of credit with available borrowings of up to million 
+the line of credit was collateralized by restricted cash of approximately of the outstanding borrowings 
+borrowings under this line of credit bore interest at an annual rate of the bank s prime rate  which was at a minimum of 
+we had million outstanding under this line of credit at december  we repaid the million outstanding under this line of credit in and terminated this facility in november in january  we issued and sold to tcv iv  lp and tcv iv strategic partners  lp  for an aggregate purchase price of approximately million  a total of  shares of our series b convertible preferred 
+table of contents stock preferred stock and warrants to purchase  shares of our common stock at an exercise price of per share 
+the warrants have a term of seven years 
+each share of preferred stock is convertible into ten shares of the company s common stock subject to adjustment for certain events such as stock splits and dividends 
+in addition  the preferred stock will automatically convert into shares of common stock after one year if the common stock trades at a minimum price of for consecutive days 
+preferred stockholders have the right to vote with the common stockholders at any annual or special meeting of stockholders of the company or the taking of any stockholder action by written consent and vote as a separate class to elect and remove a member of the board of directors 
+in the event of a sale  liquidation  or dissolution of the company  the holders of preferred stock are entitled to be paid in cash equal to the original price and all accrued or unpaid dividends 
+tcv is entitled to receive a cumulative dividend of per annum payable semi annually  either  in cash or preferred stock at our option  subject to certain conditions 
+if we declare a dividend or distribution on common stock  then the holders of preferred stock will also be entitled to this dividend or distribution 
+the proceeds received from tcv were allocated to the preferred stock and the warrants on a relative fair value basis in accordance with accounting principles board opinion no this allocation created a beneficial conversion feature on this preferred stock based on the difference between the accounting conversion price of the preferred stock and the fair value of our common stock at the time of issuance of the preferred stock 
+the beneficial conversion feature resulted on a one time deemed dividend to the holders of preferred stock of approximately million in the first quarter of on march   we entered into a million asset based credit facility under an agreement with silicon valley bank the bank that will expire on june  on june   july   december  and march   we amended certain provisions of the million asset based credit facility with the bank 
+the agreement provides that borrowings under the facility will be formula based including eligible receivables plus an overadvance facility of million and would be secured by substantially all of our assets 
+the line of credit is used to maintain a million letter of credit with jabil circuit inc  our contract manufacturer  and for working capital and general corporate purposes as required 
+borrowings under the line of credit generally bear interest at prime rate plus 
+if any amounts under the overadvance facility were outstanding  the bank may demand that we either pay the amount of overadvance or permit the bank to restrict the use of cash or securities on deposit with the bank in an amount equal to the overadvance 
+we are required to meet certain financial covenants under the loan agreement including a minimum tangible net worth requirement  if the company is not in compliance with the minimum tangible net worth requirement  the minimum tangible net worth is reset and the company must maintain minimum cash balances of million if the letter of credit is in place and million if the overadvance facility is used 
+in certain cases the company s borrowings may be subject to a higher interest rate and payment of additional fees 
+the bank  at its option  may also cease making advances or otherwise extending credit to us under this agreement upon the occurrence of a number of specified events  including material adverse changes as defined in the agreement 
+as of march  june  and december   we did not have any outstanding amounts under the overadvance facility 
+as of september   however  the company had approximately million borrowed under the overadvance facility which was subject to the overadvance repayment or restriction provision of the agreement due to a deficit in its eligible receivables to maintain the letter of credit with jabil ciruit inc as of december   our eligible receivables were million and our total availability  net of the million letter of credit  was million 
+our total availability included the million overadvance and we were in compliance with the financial covenants under the loan agreement 
+as of december   no borrowings were outstanding under the facility 
+on a forward looking basis  we believe that our cash and cash equivalents will be sufficient to fund our operating and capital requirements through at least the next months 
+however  within the next months  we may be required to raise additional capital  or could elect to raise capital  if certain events occur  including  but not limited to we fail to meet our revenue or collection targets and continue to incur significant losses 
+our business increases significantly and we require additional working capital 
+
+table of contents we believe it to be in our best interests to hold more working capital 
+there is an unfavorable final outcome on the resolution of pending litigation 
+there is an unfavorable final outcome on the resolution of disputed proof of claims relating to bankruptcy 
+in the event that we are forced to raise additional capital  we may have to sell assets or undertake other transactions that may seriously harm our business and financial condition 
+additional capital may not be available at all  or may only be available on terms unfavorable to us 
+any additional issuance of equity or equity related securities could be dilutive to our stockholders 
+if we continue to incur losses and negative cash flows during fiscal year  it is likely we will need to raise additional funds in or there can be no assurance that we would be able to obtain financing or that such financing would be available on terms acceptable to us 
+in addition  we continue to have significant commitments for cash payments that will occur regardless of our revenue as follows in millions after total lease payments due on properties we occupy accounts payable to contract manufacturers for inventory purchased payments contracted for it systems hosting in addition  we have purchase commitments with our contract manufacturer in the normal course of operations totaling million as of december  related party transactions in may  we sold approximately million shares of common stock to nokia finance international bv  or nokia  for an aggregate cash issuance price of approximately million pursuant to a common stock and warrant purchase agreement 
+the issuance of shares was recorded at fair value on the date of closing 
+however  the cash issuance price paid by nokia was based upon the average closing price of our common stock on the nasdaq national market over a five day period  which resulted in a discount in the amount of approximately million from the market price on the date of closing 
+this discount  which is included in other non current assets  is being amortized on a straight line basis over the three year term of the related commercial arrangement with periodic charges against revenue 
+in the year ended december   revenue was reduced by approximately million for such non cash amortization 
+as a result of the common stock and warrant purchase agreement  nokia previously had the right to designate one member to our board of directors 
+however  this right was terminated upon nokia s ownership of the company s common stock dropped below  as indicated in nokia s report on schedule d filed on august  revenue from nokia is reflected as related party in the years ended december  and  since nokia was a related party from may to august related party revenue from nokia was approximately million and million during the years ended december  and  respectively 
+as of december   accounts receivable from nokia was approximately million 
+we also issued to nokia a common stock purchase warrant granting nokia the right to purchase up to an aggregate of approximately million shares of common stock at an exercise price of equal to the closing price of our common stock on the date of exercise 
+on august   the common stock purchase warrant was terminated 
+
+table of contents potential mergers and acquisitions the networking and telecommunications industry is undergoing consolidation  and it is generally believed that a substantial number of companies in the industry will be bought by larger competitors or will merge to form larger businesses 
+from time to time  companies that would like to buy all our outstanding shares or a minority interest have approached us  and we expect to continue to be approached with similar interest in the future 
+in the past  we have consulted with investment bankers to assist us in evaluating these expressions of interest and we expect to continue to do so in the future 
+recent accounting pronouncements in december  the financial accounting standards board fasb issued statement of financial accounting standard sfas no 
+r  accounting for share based payment  replacing sfas no 
+ accounting for stock based compensation  and supersedes apb no 
+for accounting for stock issued to employees 
+sfas no 
+r requires the measurement of all employee share based payments to employees  including grants of employee stock options  using a fair value based method and the recording of such expense in the consolidated statements of operations 
+the accounting provisions of sfas no 
+r are effective for reporting periods beginning after june  redback is required to adopt sfas no 
+r in the third quarter of fiscal the pro forma disclosures previously permitted under sfas no 
+no longer will be an alternative to financial statement recognition 
+see stock based compensation under note organization and summary of significant accounting policies  for the pro forma net loss and net loss per share amounts  for fiscal through fiscal upon adoption  this statement is expected to have a material impact on our consolidated financial statements as we will be required to expense the fair value of our stock option grants and stock purchases under our employee stock purchase plan rather than disclose the impact on our consolidated net income within our footnotes as is our current practice see note of the notes of the consolidated financial statements contained herein 
+the amounts disclosed within our footnotes are not necessarily indicative of the amounts that will be expensed upon the adoption of fas r 
+compensation expense calculated under sfas no 
+r may differ from amounts currently disclosed within our footnotes based on changes in the fair value of our common stock  changes in the number of options granted or the terms of such options  the treatment of tax benefits and changes in interest rates or other factors 
+in november  the fasb issued sfas no 
+ inventory costs an amendment of arb no 
+ chapter sfas 
+sfas amends the guidance in arb no 
+ chapter  inventory pricing  to clarify the accounting for abnormal amounts of idle facility expense  freight  handling costs  and wasted material spoilage 
+among other provisions  the new rule requires that items such as idle facility expense  excessive spoilage  double freight  and rehandling costs be recognized as current period charges regardless of whether they meet the criterion of so abnormal as stated in arb no 
+additionally  sfas requires that the allocation of fixed production overheads to the costs of conversion be based on the normal capacity of the production facilities 
+sfas is effective for fiscal years beginning after june  and is required to be adopted by us in the first quarter of fiscal we do not expect sfas to have a material impact on our consolidated results of operations and financial condition 
+in april  the emerging issues task force issued statement no 
+ participating securities and the two class method under fasb statement no 
+ earnings per share  eitf 
+eitf addresses a number of questions regarding the computation of earnings per share by companies that have issued securities other than common stock that contractually entitle the holder to participate in dividends and earnings of the company when  and if  it declares dividends on its common stock 
+the issue also provides further guidance in applying the two class method of calculating earnings per share  clarifying what constitutes a participating security and how to apply the two class method of computing earnings per share once it is determined that a security is participating  including how to allocate undistributed earnings to such a security 
+eitf is effective for fiscal periods beginning after march  the adoption of this statement did not have a material impact on our consolidated financial statements 
+
+table of contents item a 
+quantitative and qualitative disclosure about market risk as of december   we maintained cash and cash equivalents of million and had no outstanding capital lease 
+we are exposed to financial market risk from fluctuations in foreign currency exchange rates 
+we manage our exposure to these risks through our regular operating and financing activities and  when appropriate  through hedging activities 
+in  we commenced using foreign exchange contracts to hedge significant intercompany account balances denominated in foreign currencies 
+market value gains and losses on these hedge contracts are substantially offset by fluctuations in the underlying balances being hedged 
+at december  and  our primary net foreign currency exposures were in canadian dollars  euros  japanese yen  and british pounds 
+at december   we held foreign exchange forward purchase contracts for euros totaling million 
+at december   we did not hold any foreign exchange contracts 
+the net financial impact of foreign exchange gains and losses are recorded in interest and other income and representing non cash gains and losses based on transactions between parent and subsidiaries 
+our policy is not to use hedges or other derivative financial instruments for speculative purposes 
+actual gains or losses in the future may differ materially from this analysis  depending on actual changes in the timing and amount of interest rate and foreign currency exchange rate movements and our actual balances and hedges or other derivative financial instruments for speculative purposes 
+we currently have operations in the united states  asia  and europe  however  substantially all of our sales transactions are made in us dollars 
+as a result  we have relatively little exposure to currency exchange risks and foreign exchange losses have been minimal to date 
+while we expect our international revenues to continue to be denominated predominately in us dollars  an increasing portion of our international revenues may be denominated in foreign currencies in the future 
+as a result  our operating results may become subject to significant fluctuations based upon changes in exchange rates of certain currencies in relation to the us dollar 
+we currently have not entered into forward exchange contracts to hedge exposure denominated in foreign currencies or any other derivative financial instruments for trading or speculative purposes 
+we will analyze our exposure to currency fluctuations and may engage in financial hedging techniques in the future to attempt to minimize the effect of these potential fluctuations  however  exchange rate fluctuations may adversely affect our financial results in the future 
+as of december  and  a fluctuation in exchange rates of in the foreign currencies to which we are exposed would not have a material impact on our results of operations  financial condition  or statement of cash flows 
+
+table of contents 

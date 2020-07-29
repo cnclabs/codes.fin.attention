@@ -1,0 +1,849 @@
+item management s discussion and analysis of financial condition and results of operations future performance and risk factors and elsewhere in this report  that could cause actual results to differ materially from historical results or those currently anticipated 
+in this report  the words anticipates  believes  expects  intends  future and similar expressions identify forward looking statements 
+readers are cautioned not to place undue reliance on these forward looking statements  which speak only as of the date hereof 
+item business 
+introduction we develop and market integrated circuits  integrated circuit cores and embedded software used by original equipment manufacturers  or oems  in digital video and audio products for commercial and consumer markets 
+we also provide complete  copy ready system reference designs based on our technology that help our customers produce commercial and consumer products more quickly and cost effectively 
+our integrated circuits are used in a variety of products  including digital versatile disc  or dvd  players  filmless digital cameras  professional and consumer video editing systems and digital speakers and audio systems 
+we were incorporated in california in december and reincorporated in delaware in november our corporate headquarters are located at scott boulevard  santa clara california  and our telephone number is our website can be found at www 
+zoran 
+com 
+industry background until the mid s  video images and audio soundtracks were transmitted  edited and stored almost exclusively using analog formats 
+more recently  however  advances in technology have allowed audio and video to be processed and stored in digital form 
+unlike analog formats  which are inherently unstable and difficult to edit and enhance  digital formats permit the manipulation of audio and video signals through digital signal processing and offer a number of fundamental advantages over analog technologies 
+through complex digital signal processing operations  digital audio and video signals may be compressed  providing significant storage and transmission efficiencies 
+they also may be filtered  allowing for noise reduction  and they may be transmitted and reproduced without perceptible image or sound degradation 
+digital formats provide users with additional benefits  including random access to data  superior editing capabilities and enhanced security features such as protection against unauthorized copying and controlled and secure access 
+one of the most significant barriers to the widespread adoption of digital technology has been the huge amount of data required to represent images and sounds in a digital format  making cost effective storage or transmission impractical 
+for example  storage of a two hour movie in uncompressed digital form would require approximately video cds 
+through digital compression techniques a substantial number of the redundancies inherent in audio and video data can be identified and eliminated  significantly reducing the overall amount of data which needs to be retained 
+compression techniques introduced in the early s allowed the same two hour movie which required video cds to be compressed and stored on only two video cds with video resolution comparable to that of a standard vhs tape 
+more recent techniques allow the storage of a full length movie of more than three hours on a single dvd  with substantially improved audio and video quality and the incorporation of additional data  such as additional languages  scenes and director and actor commentary 
+additionally  digital compression of video data allows previously unmanageable amounts of data to be stored in the memory of a standard personal computer  thereby permitting the data to be accessed and edited easily 
+digital audio compression allows efficient storage and delivery of multi channel audio  making possible high quality special effects such as multi channel surround sound  virtual surround sound and wireless audio delivery via two speakers or headphones 
+in the field of still photography  digital compression allows dozens or hundreds of digital pictures to be stored on a single memory card  depending on the resolution desired 
+to drive the implementation and speed the adoption of products based on digital formats  industry participants organized committees to define international compression standards 
+the principal standards in use today include the joint photographic experts group  or jpeg  standard for the high quality compression of still images and the real time  low cost compression and decompression of moving images  the mpeg standard  adopted by the moving pictures experts group  or mpeg  for the compression of both audio and video data at the high compression ratios necessary for the limited storage capacity of the cd rom format  the mpeg standard  subsequently adopted by the motion pictures expert group  for the compression of both audio and video data  designed to provide improved quality in broadcast and video playback applications  the mpeg standard is an extension of mpeg and mpeg that provides the ability to view  access and manipulate objects rather than pixels  which is especially significant in video streaming  digital television  module multimedia and video game applications  and dolby ac  also known as dolby digital  developed by dolby laboratories  an industry standard for the compression of audio for use in multi channel digital surround sound systems 
+these industry standard techniques have enabled the dramatic growth in a variety of digital multimedia markets  including dvd players 
+dvd players use mpeg video compression and dolby digital audio technology to provide significantly higher quality playback than is possible with vcr or video cd technology 
+according to cahners in stat group  a market research firm  worldwide sales of dvd players are expected to grow from million units in to million units in  a compounded annual growth rate of 
+filmless digital cameras 
+filmless digital cameras use jpeg compression technology to capture high resolution images that can be viewed  edited and stored on a computer system and transmitted over telephone lines and computer networks 
+according to cahners in stat group  sales of megapixel digital cameras are expected to grow from million units in to million units in  a compounded annual growth rate of 
+pc video systems 
+jpeg based pc video systems are used to capture and cut and paste video sequences and add special audio and video effects 
+the growth in the desktop video editing market has slowed in recent years 
+however  according to cahners in stat group  the demand for pc tv tuners that incorporate universal serial bus  or usb  connectors is expected to grow from  units in to million units in  a compound annual growth rate of 
+digital audio systems 
+dolby digital and other audio compression techniques are used in multi channel surround sound products including movie theater sound systems  audio video receivers and digital speakers 
+according to data gathered from cahners in stat group  the demand for digital audio systems is expected to grow from  units in to million units in  a compounded annual growth rate of 
+additional products and markets are developing based on these established compression standards as well as emerging compression technologies such as mlp  a new standard for dvd audio  and mp  a compression standard for the download of audio recordings from the internet 
+these established and emerging compression standards specify data formats in which compressed data must be presented in order to enable products from different vendors to interact and permit the capture  transmission  storage and display of audio and video data in digital format 
+these standards do not specify the compression methodologies to be employed or additional functionality which may be used to enhance or manipulate digital signals 
+these standards  therefore  do not determine image or sound quality or compression efficiency 
+for example  data compression may comply with relevant standards despite being poorly processed and containing artifacts which result in image degradation in video applications or poor sound quality in audio applications 
+as a result there can be significant differences in overall image or sound quality between two solutions based on the same standard 
+therefore  integrated circuit manufacturers can differentiate their products on the basis of the quality of their compression solution 
+historically  as system vendors sought compression solutions  the cost  complexity  and time required to compress and decompress data have imposed significant limitations on the use of digital compression 
+over the last several years  as cost effective compression solutions have emerged  product manufacturers have increasingly sought to design and market lower cost digital audio and video systems and products to address high volume consumer applications 
+in addition  product manufacturers are facing competitive pressure to introduce their products more rapidly 
+to address these issues  oems seek to integrate multiple functions on individual chips in order to reduce their costs  speed time to market and produce smaller products with reduced power consumption 
+they also seek solutions that can be easily integrated into their commercial and consumer products 
+the current challenge to manufacturers of compression integrated circuits is  therefore  to provide product manufacturers with high quality  cost effective  standards based solutions that deliver flexible control  image enhancement  audio effects and other functions in addition to high quality compression solutions 
+the zoran solution we provide feature rich  cost effective  standards based solutions for a broad range of digital video and audio applications 
+we were a pioneer in the development of high performance digital signal processor products  and have developed expertise in digital signal processing  integrated circuit design  mathematical algorithms and software development  as well as proprietary digital signal processing  video and audio compression technologies 
+we apply our multi disciplinary expertise and proprietary technologies to the development of fully integrated solutions for high growth multimedia markets 
+the key elements of our solution are standards plus methodology 
+we have leveraged our broad multi disciplinary expertise and proprietary digital signal processing and compression technologies to develop what we refer to as standards plus solutions 
+we have enabled oems to improve image and sound quality and deliver superior products to end users by adding more features around compression standards  such as more efficient use of memory  processing and communication resources  as well as audio and image enhancement algorithms 
+we have also provided oems the ability to include oem programmable effects  as well as variable compression ratios for video 
+these standards plus features allow our customers to differentiate their products from those of their competitors 
+expandable and programmable architecture 
+we design our integrated circuits to enable easy adaptation for a broad range of specific applications 
+we can vary the architecture of our chips by adding or deleting modules  and we can also modify the software embedded in the chips themselves to address specific applications 
+we also license ready to manufacture cores building blocks of integrated circuits that can be integrated into our customers chips 
+combined with the enhanced functionality of our standards plus technology  our expandable and programmable architecture facilitates product design  upgrades and customization  substantially accelerating our customers time to market with differentiated products 
+integrated system solutions 
+we help our customers meet their total system requirements by providing integrated products that combine hardware and software to address required system functions and features on a single integrated circuit or chip set  reducing the number of integrated circuits  and in some cases providing a complete solution on a single chip 
+as a result  our customers total system cost can be reduced and they can concentrate on differentiating their products from those of their competitors 
+for example  we introduced the camera on a chip  or coach  which includes most of the electronics of a filmless digital camera 
+we also offer the cmos sensor that is tightly integrated with coach 
+by delivering a camera on a chip with the cmos sensor  we enable our customers to reduce the costs of their products and focus on providing products that meet the needs of their end users 
+cost effective products 
+we focus on reducing the feature size  power requirements and number of integrated circuits necessary to perform required system functions  including compression functions 
+this reduces our customers manufacturing costs for their products which incorporate our integrated circuits  and also reduces the operating costs for these products  enabling the use of our products in a broader range of high volume applications 
+the modular nature of our architecture reduces our new product development costs  and enables our design engineers to meet our customers new product specification and cost parameters 
+copy ready system reference designs 
+we provide our customers with a broad range of engineering reference boards and products complete with device driver software  embedded software and detailed schematics 
+these products substantially shorten our customers product design time 
+strategy we provide cost effective  high performance digital audio and video solutions addressing selected high growth applications enabled by compression in evolving multimedia markets 
+key elements of our strategy include focus on high growth applications 
+our strategy is to focus on providing digital video and audio solutions for emerging high growth consumer electronics  pc and communications applications 
+our current focus markets include dvd players  filmless digital cameras  professional and consumer video editing systems and digital speakers and audio systems 
+leverage existing technology and expertise 
+we intend to continue to identify those markets that we believe have the highest growth potential for our products and to actively pursue those markets 
+our proprietary digital signal processing and compression technologies can be used to serve emerging markets for digital video and audio 
+potential markets include internet audio and video appliances  digital television and television set top boxes  as well as personal digital video and audio devices 
+further penetrate key international markets 
+in  we opened an office in shenzhen  china 
+during  we opened offices in taiwan and japan 
+in  we opened offices in korea and hong kong 
+we believe that by opening these offices we will be able to better provide sales  marketing  and applications support for these growing consumer electronics markets 
+extend technological leadership 
+our years of experience in the fields of digital signal processing  integrated circuit design  algorithms and software development have enabled us to become a leader in the development of digital audio and video solutions enabled by compression 
+using our multi disciplinary expertise  we have developed new technologies for compression of digital audio and video 
+for example  our proprietary bit rate control technology has helped us provide reliable and inexpensive jpeg based video compression  and our proprietary virtual multi channel digital  or vmd  technology enables high quality surround sound effects from two low cost audio speakers  rather than the four or five speakers required by other technologies 
+during  we acquired pixelcam inc  which enabled us to develop a competitive advantage by combining our camera on a chip  or coach  processor with pixelcam s cmos sensor  providing a more integrated system 
+furthermore  during we acquired nogatech inc  which provided us with low cost pc connectivity and mpeg technologies 
+we intend to continue to invest in our own research and development  and to evaluate opportunities to acquire additional technologies in order to maintain and extend our technological leadership 
+expand strategic partnerships 
+we work closely in the product development process with leading manufacturers of products that incorporate our integrated circuits 
+we also work closely with key customers and provide them early access to our technologies 
+potential products are designed to meet customer driven product requirements defined jointly by us and our partners with the partner providing technological input and  in selected cases  a portion of the development funding 
+this strategy has enabled us to develop products with substantial financial and other assistance while retaining ownership of the technology and ensuring an established customer for the product once development is completed 
+in some cases  our strategic partners also provide sales and marketing support 
+we have also established long term relationships with strategic partners that provide manufacturing capacity and will seek to develop additional strategic relationships with manufacturers 
+markets and applications our products are currently used in a variety of consumer multimedia and pc applications 
+video playback systems currently  three types of digital video playback systems are available for consumer video applications video cd players  super video cd players and dvd players 
+video cd players are essentially cd audio players with mpeg decoders and a video output 
+video cd players offer video playback of near vcr quality and two channel stereo audio playback 
+compression enables to minutes of video to be stored on a single cd 
+video cd players can also play karaoke titles and were particularly popular in china  although we believe that the volume for these players have declined 
+we formerly sold mpeg based products to manufacturers of stand alone video cd players but are no longer selling these products for this market 
+in  the chinese government adopted the super video cd standard 
+by utilizing mpeg compression technology as well as graphics  super video cd offers substantially higher audio and video quality than is possible with a video cd player 
+the super video cd standard that replaced video cd in china is  in turn  being replaced by dvd players 
+dvd players  the latest generation of video playback systems  use mpeg video compression and dolby digital or similar audio technology to provide significantly higher quality playback than is possible with vcrs  video cd or super video cd players 
+dvd players are sold as stand alone products and are now also being bundled with other functions including dvd vcr combinations  dvd receivers and dvd tv combinations 
+in addition  the dvd player can act as a platform for connecting digital cameras so that the player becomes the playback mechanism for digital still images 
+dvd players are also included in place of cd rom drives in some newer pcs  where they are referred to as dvd roms 
+dvd roms are also sold as upgrade products 
+the growth in the dvd market is demonstrated by the rapidly growing sales of dvd players  the increasing number of models and manufacturers  and the increasing number of dvd titles available for purchase and rent 
+filmless digital cameras filmless digital cameras allow the capture of high resolution images  the viewing  editing and storage of such images on a computer system and their transmission over telephone lines and computer networks 
+high quality copies of these images can be printed using color printers 
+in addition  digital cameras can be connected directly to a pc for downloading of pictures and to a television for displaying pictures 
+the original digital cameras were developed for the professional market and currently sell at prices of  to  as technology has advanced and manufacturing costs have decreased  digital cameras for the consumer market have been introduced in the to  price range 
+compression technology has also enabled the development of digital video security cameras and low cost digital video cameras for use with pcs 
+digital video recording systems digital video recording systems are aimed at replacing the analog vcr 
+digital video recording systems will not only store home made movies and tv programs but will allow them to be easily edited 
+in addition  digital video recording systems will enable high quality time shifting of tv program viewing by recording the program so that it can be watched simultaneously or on a delayed basis 
+the recording media includes dvd recordable media and hard disks 
+digital video recording systems use mpeg as the video compression format and dolby digital or mpeg audio as the audio format 
+pc video systems historically  professional video editing systems were comprised of expensive pieces of analog audio and video equipment 
+compression technology allows digital video images to be stored in a computer s memory in sufficient volume to enable capture and cut and paste editing to be performed through random access to stored images 
+as the cost of compression technology has declined  a number of manufacturers have designed low cost digital video capture and editing systems that run on pcs  creating a new category of users in the corporate  education and government markets 
+the availability of universal serial bus  or usb  connectors on most pcs currently being manufactured creates an opportunity for the development of low cost external video capture and editing accessories that can be easily installed by consumers 
+we believe that enhanced support of video in consumer pcs  and the growing popularity of wideband internet services will open new opportunities for video capture and sharing applications on the pc and will increase the popularity of such products 
+digital audio systems digital audio facilitates enhanced audio playback with features such as multi channel surround sound and virtual surround sound utilizing two channel technology 
+many standards have emerged for the digital compression of audio 
+current digital audio compression standards in use include dolby digital  dts  mlp and mp dolby digital and dts are competing standards of audio compression for use in multi channel digital surround sound systems in movie theaters and at home 
+mlp was developed for audio compression in dvd audio 
+mp is one of the compression standards recognized for the download of audio recordings over the internet 
+our audio integrated circuits incorporate all of these standards 
+the principal products using compressed digital audio in the consumer market are dvd players  pcs incorporating dvd roms  digital speakers and portable mp players 
+other applications other existing and potential applications for our audio and video compression technologies include internet audio and video appliances  digital television and television set top boxes  as well as personal digital audio and video devices 
+technology image and video technology the jpeg standard 
+in  the joint photographic experts group  or jpeg  committee of the international standards organization completed a technical specification for a standard to compress individual digitized images which may consist of still images or consecutive frames of video data 
+jpeg has been widely adopted for video editing applications  since each frame in the video is individually compressed  allowing cutting and pasting of sequences as well as modification of individual frames 
+images are compressed through elimination of spatial redundancies within an image and the filtering of high frequency areas to which the eye is less sensitive 
+using these techniques  the jpeg compression standard is able to reduce the data necessary to represent an image without significant degradation of image quality 
+still images or motion video can be compressed to varying degrees using jpeg  with greater compression resulting in lower quality 
+typically  four to one or five to one compression yields broadcast image quality while to compression is similar to vhs quality 
+zoran jpeg technology 
+our jpeg technology incorporates a proprietary bit rate control algorithm that enables our jpeg based products to compress any image to a predetermined size while optimizing video quality using pre selected parameters 
+without this feature  the jpeg compression process results in compressed data files of various sizes based on the actual content of the original image given a constant degree of compression 
+an image with large amounts of visual detail will generate a larger data file than that generated from an image with less detail 
+performance of many video applications is hampered by variability in the size of the compressed images in a video sequence  which can result in inefficient use of available memory  bus speed or communication channel capacity or even the loss of images 
+our bit rate control is a standards plus solution that uses real time digital signal processing algorithms to optimize video quality based on pre selected parameters  which can be programmed by oems  without the loss of any image or video frame 
+our bit rate control has been incorporated in our jpeg based devices that are used in video editing systems  filmless and tapeless digital cameras  color scanners  pc based security systems  video conferencing and other applications 
+other features of our jpeg based products include their ability to handle a wide range of compression ratios  to perform a lossless compression algorithm in the same jpeg device  to rapidly scan or browse a large number of images and utilize advanced image processing algorithms that enable bit rate control of usb data  vertical blank interval detection  infrared remote control detection and scene analysis for computer control applications 
+we implement these functions in a single integrated circuit while we believe most other manufacturers either offer fewer functions or require multiple chips  resulting in higher manufacturing costs and greater power consumption 
+cmos sensor technology 
+with the widespread availability of inexpensive complementary metal oxide semiconductor  or cmos  fabrication facilities  image sensor designers are now able to offer a single chip solution to perform the light to bytes function at a quality level that is competitive with the long established charge coupled device  or ccd  sensor technology  but with far greater operational flexibility and at much lower power consumption 
+cmos sensors can scan in a variety of modes and directions and perform analog domain pre processing of the signal which may be advantageous from a system perspective 
+although the greater pixel circuit complexity results in a larger imager today  progress is being made to both reduce the geometry of the pixel and use more aggressive design rules 
+the result will be a sensor which provides both cost reduction and performance enhancement paths to the system designer over the traditional ccd based solution 
+zoran cmos sensor technology 
+the pixelcam zr and zr are high performance megapixel cmos image sensors that are ideal for digital still and video imaging products 
+using our proprietary distributed pixel amplifier design  the pixel response is independent of its distance from each column s cds circuitry 
+this unique architecture results in an extremely uniform pixel array with low fixed pattern noise without the need for off chip background frame subtraction circuitry 
+the bank of analog front end circuits quantizes each pixel to bit resolution 
+this highly parallel approach eases speed requirements on individual analog circuits and reduces overall power consumption 
+separate programmable red  green and blue pga circuits enable analog domain color balance 
+the flexibility of these sensors output image format permits the tradeoff between resolution and frame rate 
+the image output may also be horizontally mirrored and vertically flipped 
+the mpeg standards 
+in  the moving pictures expert group  or mpeg  committee of the international standards organization completed a technical specification for a standard to compress moving audio and video into a single data stream 
+like jpeg  mpeg removes spatial redundancies from single frames of video data 
+mpeg improves on jpeg by also removing redundancies that occur between consecutive video frames 
+because video represents movement  it is possible to detect and estimate the movement of similar picture elements between video frames  a process called motion estimation 
+mpeg motion estimation uses the content of previous and future frames to predict the content of the current frame without using its full content 
+mpeg implements audio compression by exploiting psycho acoustic masking  taking advantage of the fact that the ear is less sensitive to a quiet note at one frequency when a much louder note is present at a nearby frequency 
+mpeg often achieves audio compression ratios of six to one and video compression ratios of over to mpeg is particularly suitable for low cost cd rom applications due to its low cost implementation 
+in  the mpeg video committee completed a technical specification to address the more stringent requirements of the broadcast industry 
+mpeg provides more sophisticated prediction techniques  enabling a compression solution to comprehend video as interlaced fields of data  rather than individual frames 
+mpeg also allows for operation at higher resolution and at higher bit rates than mpeg  resulting in improved image quality for high motion  high detail video 
+mpeg typically achieves compression ratios of to because of its higher bit rate  mpeg technology cannot be used in standard cd rom applications  but can be used in dvd players 
+mpeg builds on the experience of the mpeg and mpeg standards  which are currently used in digital video applications 
+mpeg is rich in features  and can be customized to serve the needs of specific industries while preserving a high level of interoperability across a variety of applications 
+it allows a new level of interaction with visual content  providing the ability to view  access and manipulate objects rather than pixels 
+mpeg s impact is especially significant in video streaming  digital television  mobile multimedia and game applications zoran mpeg technology 
+beginning in  we established ourselves as a leading provider of mpeg technology for dvd and super video cd applications 
+we introduced the first dvd decoder device integrating digital video with multi channel digital audio and programmable audio effects for use in dvd players 
+we also introduced new mpeg compression chip cores that can be integrated into chips manufactured by oem customers  enabling these customers to reduce the cost of custom chip design and accelerate the time to market of their products 
+audio technology the dolby digital standard 
+in  dolby laboratories launched dolby digital  an audio compression technique which has emerged as an industry standard 
+dolby digital was developed as a successor to dolby s pro logic analog technique for use in multi channel digital surround sound systems 
+it is currently used in movie theaters comprising over  screens worldwide and is also used in home theater and computer multimedia applications 
+digital compression of audio data allows the storage of full quality multi channel audio playback in the limited space allocated for audio in video oriented formats 
+it also facilitates the seamless integration of sound with compressed video 
+the dolby digital audio compression standard is currently the principal audio compression technique used in dvd players 
+dolby digital has also been adopted as a standard for use in high definition television and digital cable systems 
+other audio standards 
+other digital audio compression standards currently in use include dts  an audio compression standard that competes with dolby digital  mlp  a compression standard for dvd audio  and mp  used for the download of audio recordings from the internet 
+zoran audio technology 
+working closely with dolby laboratories  we have developed a programmable audio digital signal processing engine with an architecture optimized for dolby digital and other demanding audio applications and we were the first to develop a single chip solution for dolby digital decoding 
+our vaddis dvd decoders and audio processors now incorporate this engine to allow systems manufacturers to replace system components with software modules  differentiate their products from their competition  use our silicon software library of advanced audio algorithms  and reduce system costs and time to market 
+in addition to dolby digital  our dvd decoders and audio processors implement all principal audio compression standards  including dts  mlp and mp our integrated circuits also include additional functions such as virtual multi channel digital  surround sound for headphones  high definition cd  karaoke processing and speaker equalization 
+products our multimedia product line consists of four principal product families dvd video and audio decompression products based on mpeg  dolby digital and dts  filmless digital cameras video compression and decompression products based on jpeg technology and cmos sensors  pc video video compression and decompression products based on jpeg technology and usb multimedia controllers  and digital audio audio decompression products for use in products using mpeg  dolby digital  dts  mlp  mp and other audio technologies 
+the following table lists our principal multimedia integrated circuits currently in production  including the months in which initial production units were first made available to customers product family products initial commercial shipment principal applications dvd vaddis dvd decoder zr december dvd players vaddis iii integrated dvd decoder zr august vaddis iv integrated dvd decoder zr june vaddis iv lc integrated dvd decoder zr november vaddis v integrated dvd decoder zr may filmless digital cameras filmless digital camera processor coach zr february filmless digital cameras  security filmless digital camera processor coach xl zr march filmless digital camera processor coach lc zr march cmos sensor zr july cmos sensor zr february pc video jpeg codec zr april pc video editing  office automation integrated converter zr february color scanners and printers jpeg codec zr february pc video editing  security jpeg pci multimedia controller zr september pc video editing usb multimedia controller zr june pc tvs  pc digital cameras  video capture devices usb multimedia controller zr december pc tvs  pc digital cameras  pc set top boxes  cable modems digital audio channel dolby digital decoder zr december home theater programmable digital audio processor zr december digital speakers for home theater  computers and gaming consoles multi standard programmable digital audio processor zr december audio video receivers  d headphones designed and manufactured by a third party and sold by us under our name pursuant to a non exclusive license 
+see proprietary rights and licenses 
+dvd 
+our vaddis decoders perform all the audio and video decoding and display requirements of the dvd specification  including mpeg audio and video decoding  dolby digital  dts and mlp audio decoding  on screen display  decryption required for copyright protection and presentation of graphic information 
+the vaddis has additional computation power that can be utilized for customer differentiation features 
+for example  it can incorporate virtual surround sound algorithms without the addition of hardware 
+this allows the user to enjoy the theater like sound obtained from six speakers using a system that includes only two speakers and the vaddis 
+the vaddis iv incorporates a more powerful audio digital signal processor that enables the support of advanced audio algorithms like mpeg  dts and audio dvd  which are needed in today s dvd player systems 
+the vaddis v integrates the host controller and incorporates dvd audio and progressive scan output features that are part of current high end dvd player systems 
+vaddis decoders are being used in dvd players manufactured by sharp  toshiba and others 
+we provide full reference designs of dvd players  based on our vaddis chips  that help our customers accelerate their time to market for their players 
+filmless digital camera products 
+our jpeg technology is used in filmless digital cameras 
+in september  we introduced the camera on a chip  or coach an integrated system on a chip solution that includes most of the electronics of a filmless digital camera 
+the coach can be connected directly to a high resolution up to mega pixel ccd or cmos sensor  process the video information in real time  compress the captured image in real time to a flash memory  interface an lcd or micro display and interface to all types of flash memory 
+among the unique capabilities of the coach is the ability to transfer in real time  over a usb bus  high quality video to the pc and thus serve also as a pc video camera 
+the coach also allows for direct connection to a printer  including color correction and special effects  for the non pc consumer environment 
+the coach is supplemented by full filmless digital camera reference designs  cam on and cam mini  shortening the time to market for coach customers 
+our pixelcam cmos sensor products currently deliver ccd image quality with megapixel resolution at one quarter the power dissipation and twice the integration level of ccd sensors 
+the sensor s architecture is scalable  which will enable higher resolution product offerings as the digital camera oem s needs change 
+these products also offer the digital camera manufacturer longer battery life and reduced time to next shot 
+pc video products 
+our zr and zr codecs are compression decompression devices used for real time encoding and decoding of jpeg video for editing applications 
+they are fully compliant with jpeg standards 
+the zr and zr utilize our proprietary bit rate control technology for high quality video capture 
+the zr also features a unique  embedded  lossless mode that allows customers to elect to use low compression ratio techniques that result in no data loss for applications where quality is the primary consideration 
+the zr and zr can be installed in a chipset that includes the zr motion controller for pci board implementation or pre post processing devices such as the zr integrated color space raster to block converter 
+the zr integrates the functions of the zr  zr and an additional sram device in a single chip 
+the zr is a pci motion jpeg controller targeting consumer priced but professional quality desktop pci video editing systems 
+the zr is a video chip for video communication across the usb channel to the pc 
+the zr chip incorporates video  audio and data streaming into a single chip for video  audio and data transfer across the usb channel to the pc 
+digital audio products 
+the zr  a single chip digital audio processor designed to support the pc and home theater digital speaker market  takes advantage of most of the advanced audio algorithms included in our silicon software library 
+its eight channel output architecture supports the latest home theater applications  including dolby surround ex channel sound 
+the zr s ability to accept six individual channels of audio input also makes it the ideal processor for today s four channel direct sound computer games 
+the zr  a true multi standard digital audio processor  takes advantage of our complete silicon software library 
+it is designed to support the large mid and low range audio video receiver market  while providing features previously available only on more expensive models 
+integrated circuit cores 
+we offer multimedia integrated circuit  or intellectual property ip  cores which can be incorporated into our customers chips 
+for example  zoran licenses a video decoder ip core for conversion of an ntsc  pal  or secam tv signal into a format that allows the information in the tv signal to be displayed on a tv monitor 
+this ip core enables the integration of tv functionality into ics for lcd panels  lcd tvs  plasma display tvs  set top boxes  digital tvs dtvs  projector systems  pc video capture and other applications 
+our video encoder ip cores perform the reverse function  converting component video data into an ntsc  pal or secam tv signal 
+this ip core has applications in ics for graphics display  set top boxes  digital cameras  dtvs  dvd players  gaming systems and other applications 
+conversion of various digital video formats for display on televisions and pc monitors  and can be integrated into graphics integrated circuits  digital televisions  television set top boxes and digital cameras 
+customers the following table lists representative customers  as well as other oems who purchase our products through our distributors 
+each of these customers and oems purchased  directly or indirectly  at least  of our products from january  through december  product family direct customers other oems dvd alco electronics ltd 
+amoisonic electronics co  ltd 
+edge electronics inc fly ring digital technology fm com corp 
+fujifilm jiangsu hongtu high technology marketa semiconductor newell hong kong optomedia electronics corp sanyo electric shanghai world trade dev 
+co 
+shenzhen bao tong electronic shenzhen j s industrial co 
+sinoglobal technology inc tomen electronics corp 
+topas electronic world trade electronics zhongshan kenloon lighing co 
+orion quisheng sharp toshiba digital audio altec lansing atl electronics cet ltd 
+newell hong kong recoton pc video alcom electronics amega group limited atd electronique ati technologies ltd 
+belkin components china metal products co 
+ltd 
+cse co 
+ltd 
+dazzle  inc edge electronics inc optibase ltd 
+pinnacle systems qsr ltd 
+sci manufacturing inc scm microsystems sinoglobal technology inc tomen electronics corp 
+topas electronic usc corporation xanbo inc avid lucent technologies silicon graphics filmless digital cameras kinpo electronics ltd 
+nucam corporation primax electronics ltd 
+samsung techwin co 
+ltd 
+silent witness sinoglobal technology inc tomen electronics corp 
+minolta ricoh fujifilm purchases our products primarily as a distributor and resells these products  in many cases under its own trade name 
+fujifilm acts as our primary distributor in japan and accounts for most of our product sales in japan 
+during  sales to fujifilm accounted for of our total revenues  including of product sales 
+during  sales to fujifilm accounted for of our total revenues  including of product sales 
+in addition  sales to fly ring digital technology during accounted for of our total revenues  including of product sales 
+during  our four largest customers accounted for of our revenues  and during  our four largest customers accounted for of our revenues 
+research and development we believe that our future success depends on our ability to continue to enhance our existing products and to develop new products that maintain technological competitiveness and compliance with new standards in rapidly evolving consumer oriented digital audio and video markets 
+we attempt to leverage our expertise in the fields of digital signal processing  integrated circuit design  algorithms and software development to maintain our position as a leader in the development of digital audio and video solutions enabled by compression 
+accordingly  we devote a significant portion of our resources to maintaining and upgrading our products to reduce integrated circuit cost  feature size  power consumption and the number of integrated circuits required to perform compression and other functions necessary for the evolving digital audio and video application markets 
+in addition  we seek to design integrated circuits and cores  as well as copy ready reference designs which can reduce the time needed by manufacturers to integrate our products into their own products 
+we have historically generated a significant percentage of our total revenues from development contracts with our strategic partners 
+these development contracts provide that we will receive payments upon reaching certain development milestones and that we will retain ownership of the intellectual property developed 
+development contracts have enabled us to fund portions of our product development efforts  to respond to the feature requirements of our customers  to accelerate the incorporation of our products into our customers products and to accelerate the time to market of our customers products 
+we are currently developing new integrated circuits based on mpeg and dolby digital compression standards pursuant to a development contract with fujifilm  under which fujifilm is providing a portion of the development funding 
+fujifilm has participated directly in product definition for these development programs and has the right to sell resulting products in japan under its distribution agreement with us 
+fujifilm also has the right to manufacture a portion of our requirements for which it has contributed significant funding 
+we are a party to research and development agreements with the chief scientist in israel s ministry of industry and trade and the israel united states binational industrial research and development foundation 
+these organizations fund up to of incurred project costs for approved projects up to contract maximums 
+the agreements require us to use our best efforts to achieve specified results and to pay royalties at rates of to of resulting product sales and up to of resulting license revenues  up to a maximum of to of the total funding received 
+reported research and development expenses are net of these grants  which fluctuate from period to period 
+total grants earned in were  and in were  in we did not receive any grants from these organizations 
+the terms of israeli government participation also contain restrictions on the location of research and development activities  and the terms of the grants from the chief scientist prohibit the transfer of technology developed pursuant to these grants to any person without the prior written consent of the chief scientist 
+we are currently engaged in the development of improvements to our camera on a chip  or coach  technology under grant from the chief scientist 
+although we have received grants from the chief scientist and the foundation in the past  we intend to fund future research and development efforts for new products primarily from our own funds and through research and development arrangements with our major oem customers 
+as of december   we had a staff of full time and part time research and development personnel  of whom are based in israel 
+sales and marketing our sales and marketing strategy is to focus on providing solutions  primarily compression related  for manufacturers seeking to design audio and video products for emerging high volume consumer applications 
+in cooperation with leading manufacturers of audio and video equipment in the commercial and consumer markets  we attempt to identify market segments which have the potential for substantial growth 
+to implement our strategy  we have established a direct sales force located at several sales and marketing offices  and a worldwide network of independent sales representatives and distributors 
+in some cases  our strategic partners also provide sales and marketing support 
+we work closely in the product development process with strategic partners to incorporate our integrated circuits and software into their products 
+potential products are designed to meet customer specific product requirements defined jointly by us and our strategic partners with our partners providing technological input  and in some cases  a portion of the development funding 
+this strategy has permitted us to develop products with substantial financial and other assistance  while retaining ownership of the technology and ensuring an established customer for the product once development is completed 
+in addition  our application engineers assist customers in designing their products to incorporate our integrated circuits 
+our sales are generally made pursuant to purchase orders received between one and six months prior to the scheduled delivery date 
+we sell our products primarily through our person direct sales staff  of whom four are located in the united states and ten are located internationally 
+our united states sales staff is primarily responsible for sales in north america  south america and asia  and our israeli sales staff is primarily responsible for sales in europe and the middle east 
+in addition  we sell our products indirectly through commissioned sales representatives as well as selected distributors 
+we typically warrant our products for a month period 
+to date  we have not experienced material product returns or warranty expense 
+we have opened offices in other parts of the world in order to better address specific markets 
+during  we opened an office in shenzhen  china as part of our effort to capture a leadership position in the chinese digital audio and video markets 
+during  we opened an office in taipei  taiwan in an effort to better address the digital camera market 
+as of december   we had a staff of employees in our china office and employees in our taiwan office  including sales  applications and customer support employees 
+in addition  in we opened offices in hong kong and korea 
+at december  we had a staff of three in each location 
+these offices also provide sales  applications and customer support 
+we distribute our integrated circuit products in japan primarily under an agreement with fujifilm 
+under this agreement  fujifilm acts as the primary distributor in japan of products developed by us under development contracts with fujifilm 
+fujifilm also sells some of these products in japan under its own name 
+we may sell these products directly in japan only to specified customers and must first buy the products from fujifilm 
+fujifilm also has a nonexclusive license to distribute most of our products outside of japan 
+we operate a representative office in tokyo to help promote our products in japan and to manage the sale of products not sold through fujifilm  such as integrated circuit cores and certain jpeg products 
+we sell our dolby digital based products under a perpetual  non exclusive license from dolby to sell products that incorporate the dolby digital algorithm 
+we are not required to pay license fees or royalties to dolby under this agreement 
+our customers enter into license agreements directly with dolby  pursuant to which they pay royalties to dolby 
+under our agreement with dolby  we may sell our dolby digital based products only to customers who are licensees of dolby 
+to date  most potential customers for our dolby digital based products are licensees of dolby 
+however  the failure or refusal of potential customers to enter into license agreements with dolby in the future could harm our sales 
+we sell our dts technology based products under a non exclusive license from dts technology llc to sell products that incorporate the dts algorithm 
+we are not required to pay royalties to dts technology under this agreement 
+our customers enter into license agreements directly with dts  pursuant to which they pay royalties to dts 
+under our agreement with dts  we may sell our dts based products only to customers who are licensees of dts 
+the failure or refusal of potential customers to enter into license agreements with dts in the future could harm our sales 
+backlog sales of our products are made pursuant to firm purchase orders 
+however  sometimes we allow customers to cancel or reschedule deliveries 
+in addition  purchase orders are subject to price renegotiations and to changes in quantities of products ordered as a result of changes in customers requirements and manufacturing availability 
+our business is characterized by short lead times and quick delivery schedules 
+as a result of these factors  we do not believe that backlog at any given time is a meaningful indicator of future sales 
+manufacturing we contract our wafer fabrication  assembly and testing to independent foundries and contractors  which enables us to focus on our design strengths  minimize fixed costs and capital expenditures and gain access to advanced manufacturing facilities 
+our engineers work closely with our foundry partners and subcontractors to increase yields  lower manufacturing costs and assure quality 
+our primary foundry is taiwan semiconductor manufacturing company  or tsmc  which has manufactured integrated circuits for us since tsmc is currently manufacturing our dvd  audio  jpeg and some of our digital camera products 
+in addition  fujifilm and national semiconductor manufacture some integrated circuit products for us 
+fujifilm is currently manufacturing our jpeg codec  our jpeg based converter products and our mpeg decoder 
+national semiconductor manufactures some of our digital camera products 
+hyundai and fujitsu manufacture our usb multimedia controller chips 
+our independent foundries fabricate products for other companies and may also produce products of their own design 
+all of our devices are currently fabricated using standard complementary metal oxide semiconductor process technology with micron to micron feature sizes 
+all of our semiconductor products are currently being assembled by one of five independent contractors  ase  amkor  asat  kyocera or vate  and tested by those contractors or other independent contractors 
+our zr jpeg codec was developed jointly with fujifilm and is currently manufactured by fujifilm pursuant to an agreement that grants fujifilm the right to manufacture up to of our requirements for this product subject to fujifilm s ability to manufacture the product on substantially the same or better terms and conditions as we could obtain from a third party 
+this agreement also grants fujifilm marketing rights in japan with respect to these products 
+see sales and marketing 
+we currently purchase products from all of our foundries under individually negotiated purchase orders 
+our agreement with fujifilm entitles us to obtain wafer foundry services from fujifilm on most favored pricing and availability terms  subject to fujifilm s technological capabilities and reasonable limitations as to quality and delivery terms requested by us 
+we do not currently have a long term supply contract with tsmc  and therefore tsmc is not obligated to manufacture products for us for any specific period  in any specific quantity or at any specified price  except as may be provided in a particular purchase order 
+competition our existing and potential competitors include many large domestic and international companies that have substantially greater resources in the areas of finance  manufacturing  technology  marketing  and distribution 
+some of these competitors also have broader product lines and longer standing relationships with customers than we do 
+some of our principal competitors maintain their own semiconductor foundries and may therefore benefit from capacity  cost and technical advantages 
+in the market for jpeg based products for desktop video editing applications  our principal competitors are divio and sunplus 
+cirrus logic crystal semiconductor  fujitsu  motorola  stmicroelectronics and yamaha are currently shipping dolby digital based audio compression products 
+c cube  now part of lsi logic  ess  luxsonor  matsushita  national semiconductor  stmicroelectronics  sony and winbond have introduced integrated audio and video devices for dvd and super video cd applications 
+these manufacturers  as well as others  are licensed by dolby to incorporate dolby digital technology in their products 
+in addition  some manufacturers  including sony  incorporate compression technologies other than dolby digital in audio products that compete with products using our integrated circuits 
+in the markets for jpeg based products for use in filmless digital cameras  our principal competitors are in house solutions developed and used by major japanese oems  atmel  omnivision  sunplus and texas instruments 
+motorola is providing cmos sensor products 
+in the market for mpeg based chip core products  our principal competitors are david sarnoff research center and sican microelectronics 
+we believe that our ability to compete successfully in the rapidly evolving markets for high performance audio and video compression technology depends on a number of factors  including price  quality  performance and features of our products  the timing and success of new product introductions by us  our customers and our competitors  the emergence of new industry standards  our ability to obtain adequate foundry capacity  the number and nature of our competitors in a given market  and general market and economic conditions 
+the markets in which we compete are intensely competitive and are characterized by rapid technological change  declining average unit selling prices and rapid product obsolescence 
+we expect competition to increase in the future from existing competitors and from other companies that may enter our existing or future markets with solutions which may be less costly or provide higher performance or more desirable features than our products 
+the dvd market is growing  and additional competitors are expected to enter the market for integrated circuits used in dvd players 
+we believe that several large japanese consumer electronics companies may be planning to enter this market and may attempt to develop mpeg hardware or software to compete with our products 
+some of these potential competitors may develop captive implementations for use only with their own pc and commercial and consumer electronics products 
+this increased competition may result in price reductions  reduced profit margins and loss of market share 
+historically  average unit selling prices in the semiconductor industry in general  and for our products in particular  have decreased over the life of a particular product 
+we expect that the average unit selling prices of our products will continue to be subject to significant pricing pressures 
+in order to offset expected declines in the average unit selling prices of our products  we will likely need to reduce the cost of our products 
+we intend to accomplish this by implementing design changes that lower the cost of manufacture  assembly and testing  by negotiating reduced charges by our foundries as and if volumes increase  and by successfully managing our manufacturing and subcontracting relationships 
+since we do not operate our own manufacturing  assembly or testing facilities  we may not be able to reduce our costs as rapidly as companies that operate their own facilities 
+if we fail to introduce lower cost versions of our products in a timely manner or to successfully manage our manufacturing  assembly and testing relationships our business would be harmed 
+proprietary rights and licenses our ability to compete successfully is dependent in part upon our ability to protect our proprietary technology and information 
+although we rely on a combination of patents  copyrights  trademarks  trade secret laws and licensing arrangements to protect some of our intellectual property  we believe that factors such as the technological and creative skills of our personnel and the success of our ongoing product development efforts are more important in maintaining our competitive position 
+we generally enter into confidentiality or license agreements with our employees  distributors  customers and potential customers and limit access to our proprietary information 
+we currently hold several us patents  and have additional patent applications pending  that pertain to technologies and processes relating to our current business 
+our intellectual property rights  if challenged  may not be upheld as valid  may not be adequate to prevent misappropriation of our technology or may not prevent the development of competitive products 
+additionally  we may not be able to obtain patents or other intellectual property protection in the future 
+in particular  the existence of several consortiums that license patents relating to the mpeg standard has created uncertainty with respect to the use and enforceability of patents implementing that standard 
+furthermore  the laws of certain foreign countries in which our products are or may be developed  manufactured or sold  including various countries in asia  may not protect our products or intellectual property rights to the same extent as do the laws of the united states and thus make the possibility of piracy of our technology and products more likely in these countries 
+we sell our dolby digital based products under a perpetual non exclusive license from dolby which permits us to incorporate the dolby digital algorithm into our products 
+our customers enter into license agreements with dolby pursuant to which they pay royalties directly to dolby 
+under our agreement with dolby  we may sell our dolby digital based products only to customers who are licensees of dolby 
+to date  most potential customers for our dolby digital based products are licensees of dolby 
+however  the failure or refusal of potential customers to enter into license agreements with dolby in the future could harm our business 
+we sell our dts technology based products under a non exclusive license from dts technology llc to sell products that incorporate the dts algorithm 
+we are not required to pay royalties to dts under this agreement 
+our customers enter into license agreements directly with dts  pursuant to which they pay royalties to dts 
+under our agreement with dts  we may sell our dts based products only to customers who are licensees of dts 
+the failure or refusal of potential customers to enter into license agreements with dolby in the future could harm our sales 
+the semiconductor industry is characterized by vigorous protection and pursuit of intellectual property rights  which have resulted in significant and often protracted and expensive litigation 
+we or our foundries from time to time are notified of claims that we may be infringing patents or other intellectual property rights owned by third parties 
+we have been subject to intellectual property claims and litigation in the past and we may be subject to additional claims in the future 
+in particular  given the uncertainty discussed above regarding patents relating to the mpeg standard  it is difficult for us to assess the possibility that our activities in the mpeg field may give rise to future patent infringement claims 
+litigation by or against us relating to patent infringement or other intellectual property matters could result in significant expense to us and divert the efforts of our technical and management personnel  whether or not such litigation results in a determination favorable to us 
+in the event of an adverse result in any such litigation  we could be required to pay substantial damages  cease the manufacture  use and sale of infringing products  expend significant resources to develop non infringing technology  discontinue the use of certain processes or obtain licenses to the infringing technology 
+licenses may not be offered or the terms of any offered licenses may not be acceptable to us 
+if we fail to obtain a license from a third party for technology used by us we could incur substantial liabilities and to suspend the manufacture of products  or the use by our foundries of certain processes 
+employees as of december   we had full time and part time and contract employees  including full time and part time and contract employees primarily involved in research and development activities  in marketing and sales  in finance and administration and in manufacturing control and quality assurance 
+we have full time employees and part time and contract employees based in israel  including employees who are primarily involved in engineering and research and development 
+we have employees at our facilities in santa clara  california 
+the remaining employees are located in our international offices in canada  japan  china  taiwan  hong kong and korea 
+we believe that our future success will depend in large part on our ability to attract and retain highly skilled  engineering  managerial  sales and marketing personnel 
+competition for such personnel is intense 
+our employees are not represented by any collective bargaining unit  and we have never experienced a work stoppage 
+we believe that our employee relations are good 
+item properties 
+our executive offices  our principal administration  marketing and sales operations and a portion of our research and development operations are located in approximately  square feet of leased space in santa clara  california under a lease expiring in march our principal research and development and engineering facilities and the balance of our administration  marketing and sales operations are located in approximately  square feet of leased space in an industrial park in haifa  israel under a lease expiring in and approximately  square feet of leased space in kfar saba  israel under a lease expiring in the aggregate annual gross rent for our facilities was approximately  in we also lease sales offices in tokyo  japan  taipei  taiwan  and shenzhen  china 
+see note of notes to consolidated financial statements 
+in addition  at the beginning of we opened offices in hong kong and korea 
+we believe that our current facilities are adequate for our needs for the foreseeable future and that  should it be needed  suitable additional space will be available to accommodate expansion of our operations on commercially reasonable terms 
+item legal proceedings 
+we are not a party to any pending legal proceedings which we believe will materially affect our financial condition or results of operations 
+item submission of matters to a vote of security holders 
+we did not submit any matters to a vote of security holders during the fourth quarter of the year ended december  executive officers the names of our executive officers and their ages as of december  are as follows name age position levy gerzberg  ph 
+d president  chief executive officer and director camillo martino executive vice president and chief operating officer isaac shenberg  ph 
+d senior vice president  business and strategic development karl schneider vice president  finance and chief financial officer levy gerzberg was a co founder of zoran in and has served as our president and chief executive officer since december and as a director since dr 
+gerzberg also served as our president from to and as our executive vice president and chief technical officer from to prior to co founding zoran  dr 
+gerzberg was associate director of stanford university s electronics laboratory 
+dr 
+gerzberg holds a phd in electrical engineering from stanford university and an ms in medical electronics and a bs in electrical engineering from the technion israel institute of technology in haifa  israel 
+camillo martino joined zoran as executive vice president and chief operating officer in august from january through july  mr 
+martino served as chief executive officer of merinta inc  a subsidiary of boundless corporation  engaged in the business of delivering integrated linux based internet appliances solutions to network operators 
+mr 
+martino served as marketing director for national semiconductor from may to december from february to may  he served as vice president general manager international operations for netpliance inc  an internet appliance company 
+from january through february  mr 
+martino served in various director of marketing positions for national semiconductor 
+mr 
+martino holds a ms in digital communications from chisholm institute of technology and a bs in electrical engineering from the university of melbourne 
+isaac shenberg has served as vice president  sales and marketing of zoran since january and as senior vice president  business and strategic development since october from august to january  dr 
+shenberg served as our product line business manager 
+dr 
+shenberg holds a phd in electrical engineering from stanford university and a phd and phd in electrical engineering from the technion 
+karl schneider joined zoran as corporate controller in january and was elected vice president  finance and chief financial officer in july from september through  mr 
+schneider served as controller for the film measurement and robotics and integrated technologies divisions of kla tencor  a semiconductor equipment company 
+mr 
+schneider served as the corporate controller for scm microsystems  inc from october to september  controller for reply corporation from january to september  director of finance for digital f x from october to january and controller for flextronics from september through june mr 
+schneider holds a bs in business administration from san diego state university 
+part ii item market for the registrant s common stock and related stockholder matters 
+we effected our initial public offering of our common stock on december  since that date  our common stock has been quoted on the nasdaq national market under the symbol zran 
+the following table sets forth the high and low closing sales price of our common stock as reported on the nasdaq national market for the periods indicated high low first quarter second quarter third quarter fourth quarter first quarter second quarter third quarter fourth quarter as of december   there were holders of record of our common stock 
+we have never paid cash dividends on our capital stock 
+it is our present policy to retain earnings to finance the growth and development of our business and  therefore  we do not anticipate paying any cash dividends in the foreseeable future 
+item selected financial data 
+the following selected consolidated financial data should be read in conjunction with the consolidated financial statements and the notes thereto included elsewhere herein 
+year ended december  in thousands  except per share data consolidated statement of operations data revenues product sales software  licensing and development total revenues costs and expenses cost of product sales research and development selling  general and administrative amortization of goodwill and write off of acquired in process research development total costs and expenses operating income loss interest and other income  net income loss before income taxes provision for income taxes net income loss basic net income loss per share diluted net income loss per share shares used to compute basic net income loss per share shares used to compute diluted net income loss per share december  in thousands consolidated balance sheet data cash  cash equivalents and short term investments working capital total assets accumulated deficit total stockholders equity see note of notes to consolidated financial statements for a description of the computation of the number of shares and net income loss per share 
+item management s discussion and analysis of financial condition and results of operations 
+overview from our inception in through  we derived the substantial majority of our revenue from digital filter processors and vector signal processors used principally in military  industrial and medical applications 
+in  we repositioned our business to develop and market data compression products for the evolving multimedia markets and discontinued development of digital filter processor and vector signal processor products 
+in  we discontinued production of these products 
+our current lines of digital audio and video products include integrated circuits and related products used in digital versatile disc players  movie and home theater systems  filmless digital cameras and video editing systems 
+we derive most of our revenues from the sale of our integrated circuit products 
+historically  average selling prices in the semiconductor industry in general  and for our products in particular  have decreased over the life of a particular product 
+average selling prices for our hardware products have fluctuated substantially from period to period  primarily as a result of changes in our customer mix of original equipment manufacturer  or oem  sales versus sales to distributors and the transition from low volume to high volume production 
+in the past  we have reduced the prices of some of our products in order to better penetrate the consumer market 
+we believe that  as our product lines continue to mature and competitive markets evolve  we are likely to experience further declines in the average selling prices of our products  although we cannot predict the timing and amount of such future changes with any certainty 
+our cost of product sales consists primarily of fabrication costs  assembly and test costs  and the cost of materials and overhead from operations 
+if we are unable to reduce our cost of product sales to offset anticipated decreases in average selling prices  our product gross margins will decrease 
+our product gross margin is also dependent on product mix and on the percentage of products sold directly to our oem customers versus indirectly through our marketing partners who purchase our products at lower prices but absorb most of the associated marketing and sales support expenses  maintain inventories and provide customer support and training 
+lower gross margins on sales to distributors are partially offset by reduced selling and marketing expenses related to such sales 
+product sales in japan are primarily made through fujifilm  our strategic partner and distributor in japan 
+fujifilm provides more sales and marketing support than our other distributors 
+we expect both product and customer mix to continue to fluctuate in future periods  causing further fluctuations in margins 
+we also derive revenue from licensing our software and other intellectual property 
+licensing revenue includes one time license fees and royalties based on the number of units distributed by the licensee 
+in addition  we have historically generated a significant percentage of our total revenues from development contracts  primarily with key customers  although development revenue has declined as a percentage of total revenues over the past several years 
+these development contracts have provided us with partial funding for the development of some of our products 
+these development contracts provide for license and milestone payments which are recorded as development revenue 
+we classify all development costs  including costs related to these development contracts  as research and development expenses 
+we retain ownership of the intellectual property developed by us under these development contracts 
+while we intend to continue to enter into development contracts with certain strategic partners  we expect development revenue to continue to decline as a percentage of total revenues 
+our research and development expenses consist of salaries and related costs of employees engaged in ongoing research  design and development activities and costs of engineering materials and supplies 
+we are also a party to research and development agreements with the chief scientist in israel s ministry of industry and trade and the israel united states binational industrial research and development foundation  which fund up to of incurred project costs for approved products up to specified contract maximums 
+these agreements require us to use our best efforts to achieve specified results and require us to pay royalties at rates of to of resulting product sales  and up to of resulting license revenues  up to a maximum of to of total funding received 
+reported research and development expenses are net of these grants  which fluctuate from period to period 
+we believe that significant investments in research and development are required for us to remain competitive and we expect to continue to devote significant resources to product development  although such expenses as a percentage of total revenues may fluctuate 
+our selling  general and administrative expenses consist primarily of employee related expenses  royalties  sales commissions  product promotion and other professional services 
+we expect that selling  general and administrative expenses will continue to increase to support our anticipated growth 
+we conduct most of our research and development and certain sales and marketing and administrative operations in israel through our wholly owned israeli subsidiary 
+as a result  some of our expenses are incurred in new israeli shekels 
+to date  substantially all of our product sales and our development and licensing revenue have been denominated in us dollars and most costs of product sales have been incurred in us dollars 
+we expect that most of our sales and costs of sales will continue to be denominated and incurred in us dollars for the foreseeable future 
+we have not experienced material losses or gains as a result of currency exchange rate fluctuations and have not engaged in hedging transactions to reduce our exposure to such fluctuations 
+we may in the future elect to take action to reduce our foreign exchange risk 
+our effective income tax rate has benefited from the availability of net operating losses which we have utilized to reduce taxable income for us federal income tax purposes and by our israeli subsidiary s status as an approved enterprise under israeli law  which provides a ten year tax holiday for income attributable to a portion of our operations in israel 
+our us federal net operating losses expire at various times between and  and the benefits from our subsidiary s approved enterprise status expire at various times beginning in in june  we sold to mgi software of canada the intellectual property related to our softdvd product line and transferred to mgi certain related software development and support resources in exchange for cash  mgi common stock and future royalties 
+we do not currently expect  however  that these royalties will have a material impact on quarterly revenues for the foreseeable future 
+in addition  the shares of mgi stock received by us as part of this transaction are subject to future appreciation or depreciation 
+our software revenues have declined significantly as a result of the sale of the softdvd product line 
+in june  we acquired pixelcam  inc  a manufacturer of megapixel cmos image sensors  in exchange for  shares of our common stock and options to purchase  shares of our common stock with an aggregate value of million 
+the acquisition was accounted for under the purchase method of accounting 
+see note of notes to consolidated financial statements 
+on october   we acquired nogatech inc  a provider of chips that compress digital video images and establish connections  or video connectivity  between video devices and computers  as well as between video devices across a variety of networks  in exchange for  shares of our common stock and options to purchase  shares of our common stock with an aggregate value of million 
+the acquisition was accounted for under the purchase method of accounting 
+see note of notes to consolidated financial statements 
+critical accounting policies and estimates our discussion and analysis of our financial condition and results of operations are based upon our consolidated financial statements  which have been prepared in accordance with accounting principles generally accepted in the united states of america 
+the preparation of these financial statements requires us to make estimates and judgments that affect the reported amounts of assets  liabilities  revenues and expenses  and related disclosure of contingent assets and liabilities 
+on an on going basis  we evaluate our estimates  including bad debts  inventories  investments  intangible assets and income taxes 
+we base these estimates on historical experience and on various other assumptions that are believed to be reasonable under the circumstances  the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources 
+actual results may differ from these estimates under different assumptions or conditions 
+we believe the following critical accounting policies affect our more significant judgments and estimates used in the preparation of our consolidated financial statements we recognize development revenue using the percentage of completion method 
+under the percentage of completion method  revenue recognized is that portion of the total contract price equal to the ratio of costs expended to date to the anticipated final total costs  based on current estimates of the costs to complete the project 
+these estimates are reviewed and revised periodically throughout the lives of the contracts 
+any revisions are recorded in the accounting period in which the revisions are made 
+inventories are recorded at the lower of standard cost  which approximates actual cost on a first in first out basis  or market value 
+we write down inventories to net realizable value based on forecasted demand and market conditions 
+actual demand and market conditions may be different from those projected by our management 
+this could have a material effect on our operating results and financial position 
+we maintain allowances for doubtful accounts for estimated losses resulting from the inability of our customers to make required payments 
+if the financial condition of our customers were to deteriorate  resulting in an impairment of their ability to make payments  additional allowances may be required 
+we hold minority interests in companies having operations or technology in areas within our strategic focus 
+at december  these investments totaled million 
+we record an investment impairment charge when we believe an investment has experienced a decline in value that is other than temporary 
+we assess the value of this investment principally by using information acquired from the investee  including historical and projected financial performance and recent funding events 
+future adverse changes in market conditions or poor operating results of underlying investments could result in losses or an inability to recover the carrying value of the investments that may not be reflected in an investment s current carrying value thereby possibly requiring an impairment charge in the future 
+we evaluate the recoverability of our property and equipment and intangible assets in accordance with statement of financial accounting standards no 
+accounting for the impairment of long lived assets and for long lived assets to be disposed of 
+this standard requires recognition of impairment of long lived assets in the event the carrying value of such assets exceeds the future undiscounted cash flows attributable to such assets 
+impairment evaluations involve management estimates of asset useful lives and future cash flows 
+actual useful lives and cash flows could be different from those estimated by our management 
+this could have a material effect on our operating results and financial position 
+we follow the liability method of accounting for income taxes which requires recognition of deferred tax liabilities and assets for the expected future tax consequence of temporary differences between the financial statement carrying amounts and the tax bases of assets and liabilities 
+in the event actual results differ from these expectations then the resulting impact to income would be assessed in the period such determination was made 
+results of operations the following table sets forth certain consolidated statement of operations data as a percentage of total revenues for the periods indicated year ended december  revenues product sales software  licensing and development total revenues costs and expenses cost of product sales research and development selling  general and administrative amortization of goodwill and write off of acquired in process research development total costs and expenses operating income loss interest and other income  net income loss before income taxes provision for income taxes net income loss year ended december  compared to year ended december  revenues 
+total revenues increased by to million in from million in product sales increased by to million in from million in the increase in product sales resulted primarily from increased unit sales of dvd products and to a lesser extent filmless digital cameras 
+offsetting these increases somewhat were decreased unit sales for our digital audio and pc video products 
+software  licensing and development revenues decreased by to million in from million in this decrease was due to a decline in the number and size of significant new licensing contracts  as well as the timing of revenue recognition on a long term development contract 
+product gross margin 
+product gross margin decreased to in compared to in the decrease was due to a substantial shift in product mix to a higher percentage of lower margin dvd products  which include cpu companion chips that are sold at low margin  and a shift in customer mix to a lower percentage of direct sales to oem customers 
+in addition  we experienced a decline in the average selling price of our older vaddis iii dvd chip that is being phased out as we transition our customer base to our new vaddis iv plus dvd chip 
+research and development 
+research and development r d expenses increased by to million in from million in gross r d expenses increased primarily as a result of our acquisitions of pixelcam and nogatech in june and october  respectively and the timing of major project expenses such as tape outs 
+r d expenses in did not include reimbursements from the chief scientist 
+for  chief scientist reimbursements were  r d expenses decreased as a percentage of total revenues to in  compared to in due to the increase in revenue 
+selling  general and administrative 
+selling  general and administrative sg a expenses increased by to million in from million in the increase was primarily due to our acquisitions of pixelcam and nogatech  and the continued expansion of our presence in the asia pacific region including the establishment of offices in hong kong and korea at the beginning of amortization of goodwill and write off of acquired in process research and development 
+the acquisitions of pixelcam and nogatech resulted in the following charges pixelcam during  we recorded million in charges related to the amortization of goodwill associated with our acquisition of pixelcam compared to million recorded during during  we did not record any charges related to the write off of in process research and development associated with the pixelcam acquisition 
+for we incurred million in charges associated with the write off of in process research and development 
+nogatech during  we recorded million in charges related to the amortization of goodwill associated with our acquisition of nogatech compared to million recorded during during we did not record any charges related to the write off of in process research and development associated with the nogatech acquisition 
+for we incurred million in charges associated with the write off of in process research and development 
+the in process research and development project related to our pixelcam acquisition was completed and we began shipping the resulting product in the third quarter of the project associated with the acquisition of nogatech has been delayed due to uncertainty in the market concerning implementation timing of this technology 
+completion of this project remains a significant risk to the company due to the remaining effort to achieve technical feasibility  rapidly changing customer markets and significant competitive threats from other companies 
+failure to bring related products to market in a timely manner could adversely impact our future sales and profitability 
+additionally  the value of the intangible assets acquired may become impaired 
+we have not yet completed our assessment of goodwill and other intangibles in accordance with financial accounting standards board fasb statements nos 
+and  business combinations and goodwill and other intangible assets sfas and sfas 
+sfas changes the accounting for goodwill from an amortization method to an impairment only approach 
+under sfas  goodwill will be tested annually and whenever events or circumstances occur indicating that goodwill might be impaired 
+upon adoption of sfas  amortization of goodwill recorded for business combinations consummated prior to july  will cease  and intangible assets acquired prior to july  that do not meet the criteria for recognition under sfas will be reclassified to goodwill 
+companies are required to adopt sfas for fiscal years beginning after december  accordingly  our amortization of goodwill expense  which totaled million in  will be discontinued in in connection with the adoption of sfas  the company will be required to perform a transitional goodwill impairment assessment and has six months from january  to complete this task 
+interest and other income expense  net 
+net interest and other income increased by to million in from million in the increase resulted primarily from increased interest income on higher cash balances following our acquisition of nogatech in october provision for income taxes 
+excluding charges related to the amortization of goodwill and the write off of acquired in process research and development our estimated effective tax rate remained at for and year ended december  compared to year ended december  revenues 
+total revenues increased by to million in from million in product sales increased by to million in from million in the increase in product sales resulted primarily from increased unit sales of dvd and super video cd products as well as filmless digital cameras 
+software  licensing and development revenues increased by to million in from million in this increase was the result of significant license and development contracts entered into during which offset the decline in revenues resulting from our sale of our softdvd product line in june product gross margin 
+product gross margin decreased to in compared to in the decrease was due to a shift in product mix to a higher percentage of lower margin products and a shift in customer mix to a lower percentage of direct sales to oem customers 
+research and development 
+research and development r d expenses increased by to million in from million in r d expenses in were net of reimbursements in the amounts of  under product development agreements with the chief scientist 
+for  chief scientist reimbursements were  gross r d expenses increased primarily as a result of our acquisitions of pixelcam in june and nogatech in october as well as our planned enhancement to our technology and development capabilities 
+r d expenses increased as a percentage of total revenues to in  compared to in selling  general and administrative 
+selling  general and administrative sg a expenses increased by to million in from million in the increase was primarily due to our acquisitions of pixelcam and nogatech  the continued expansion of our china office and the opening of our taiwan office 
+amortization of goodwill and write off of acquired in process research and development 
+the acquisitions of pixelcam and nogatech resulted in the following charges pixelcam during  we recorded million in charges related to the amortization of goodwill associated with our acquisition of pixelcam 
+in addition to the amortization charge  during the second quarter of  we recorded a million charge related to the write off of acquired in process research and development associated with the pixelcam acquisition 
+the allocation of million of the purchase price to the acquired in process research and development was determined by identifying the research project for which technological feasibility had not been established at the time of the acquisition and for which no alternative future uses then existed 
+the value was determined by estimating the expected cash flows from the project once commercially viable  discounting the net cash flows back to their present value  and then applying a percentage of completion to the calculated value 
+the percentage of completion was determined using costs incurred by pixelcam prior to the acquisition date compared to the remaining research and development to be completed to bring the project to technological feasibility 
+we estimated that  as of the acquisition date  the project was complete and the estimated costs to complete the project were approximately million 
+nogatech during  we recorded million in charges related to the amortization of goodwill and other intangibles associated with our acquisition of nogatech 
+in addition to the amortization charge  during the fourth quarter of  we recorded a million charge related to the write off of acquired in process research and development associated with the nogatech acquisition 
+the allocation of million of the purchase price to the acquired in process research and development was determined by identifying the research project for which technological feasibility had not been established at the time of the acquisition and for which no alternative future uses then existed 
+the value was determined by estimating the expected cash flows from the project once commercially viable  discounting the net cash flows back to their present value  and then applying a percentage of completion to the calculated value 
+the percentage of completion was determined using costs incurred by nogatech prior to the acquisition date compared to the remaining research and development to be completed to bring the project to technological feasibility 
+we estimated that  as of the acquisition date  the project was complete and the estimated costs to complete the project were approximately million 
+interest and other income expense  net 
+net interest and other income increased by to million in from million in the increase resulted primarily from increased interest income on higher cash balances following a follow on public offering of common stock in december provision for income taxes 
+excluding charges related to the amortization of goodwill and the write off of acquired in process research and development our estimated effective tax rate remained at for and liquidity and capital resources at december   we had million of cash and cash equivalents  million of short term investments and million of working capital 
+in addition  we had million of investments in other assets that have maturity dates that are beyond one year 
+our operating activities provided cash of million during  primarily due to the net loss adjusted for the non cash impact of depreciation and the amortization of goodwill and other intangibles associated with our acquisitions of pixelcam and nogatech during in addition  an increase in accounts payable and decrease in inventory  partially offset by an increase in accounts receivable  also contributed to the cash provided by operating activities 
+cash used in investing activities was million during cash used for short term investments during the year was million 
+capital equipment expenditures accounted for million of the cash used while the purchase of long term investments used million cash provided by financing activities was million during and primarily consisted of proceeds from the issuance of common stock under our incentive stock option and employee stock purchase plans of million  offset by the repurchase  shares of our common stock for million 
+as of december  we are responsible for lease commitments of million associated with our worldwide facilities of which million is due in   is due in and  is due in and  respectively 
+in addition  we had inventory purchase commitments of million at december  at december  and  we did not have any relationships with unconsolidated entities or financial partnerships  such as entities often referred to as structured finance or special purpose entities  established for the purpose of facilitating off balance sheet arrangements or other contractually narrow or limited purposes 
+accordingly  we are not exposed to the type of financing  liquidity  market or credit risk that could arise if we had engaged in such relationships 
+we believe that our current balances of cash  cash equivalents and short term investments  and anticipated cash flow from operations  will satisfy our anticipated working capital and capital expenditure requirements at least through nonetheless  our future capital requirements may vary materially from those now planned and will depend on many factors including  but not limited to the levels at which we maintain inventory and accounts receivable  the market acceptance of our products  the levels of promotion and advertising required to launch our new products or to enter markets and attain a competitive position in the marketplace  our business  product  capital expenditure and research and development plans and technology roadmap  volume pricing concessions  capital improvements to new and existing facilities  technological advances  the response of competitors to our products  and our relationships with our suppliers and customers 
+in addition  we may require an increase in the level of working capital to accommodate planned growth  hiring and infrastructure needs 
+additional capital may also be required for consummation of any acquisitions of businesses  products or technologies 
+to the extent that our existing resources and cash generated from operations  are insufficient to fund our future activities  we may need to raise additional funds through public or private financings or borrowings 
+if additional funds are raised through the issuance of debt securities  these securities could have rights  preferences and privileges senior to holders of common stock  and the terms of this debt could impose restrictions on our operations 
+the sale of additional equity or convertible debt securities could result in additional dilution to our stockholders 
+we cannot be certain that additional financing will be available in amounts or on terms acceptable to us  if at all 
+if we are unable to obtain this additional financing  we may be required to reduce the scope of our planned product development and sales and marketing efforts  which could harm our business  financial condition and operating results 
+selected pro forma financial data the following pro forma consolidated results of operations do no represent our results of operations or earnings per share information in accordance with accounting principles generally accepted in the united states of america 
+pro forma results of operations have been presented  in addition to the actual results  to provide period to period comparability of our underlying operating results excluding the following amortization of goodwill and other intangibles  the write off of acquired in process technology  and the amortization of deferred stock based compensation associated with the acquisition of nogatech  inc year ended december  in thousands  except per share data pro forma net revenues pro forma income loss from operations pro forma net income pro forma net income per share basic diluted future performance and risk factors the company s future business  operating results and financial condition are subject to various risks and uncertainties  including those described below 
+our quarterly revenues and operating results fluctuate due to a variety of factors  which may result in volatility or a decline in the price of our stock 
+our quarterly operating results have varied significantly due to a number of factors  including fluctuation in demand for our products  the timing of new product introductions by us and our competitors  the level of market acceptance of new and enhanced versions of our products and our customers products  the timing of large customer orders  the length and variability of the sales cycle for our products  the cyclical nature of the semiconductor industry  the availability of development funding and the timing of development revenue  changes in the mix of products sold  seasonality in demand for our products  competitive pricing pressures  and the evolving and unpredictable nature of the markets for products incorporating our integrated circuits and embedded software 
+we expect that our operating results will continue to fluctuate in the future as a result of these factors and a variety of other factors  including the cost and availability of adequate foundry capacity  fluctuations in manufacturing yields  the emergence of new industry standards  product obsolescence  and the amount of research and development expenses associated with new product introductions 
+our operating results could also be harmed by economic conditions generally or in various geographic areas where we or our customers do business  other conditions affecting the timing of customer orders  or a downturn in the markets for our customers products  particularly the consumer electronics market 
+these factors are difficult or impossible to forecast 
+we place orders to purchase our products from independent foundries several months in advance of the scheduled delivery date  often in advance of receiving non cancelable orders from our customers 
+if anticipated shipments in any quarter are canceled or do not occur as quickly as expected  expense and inventory levels could be disproportionately high 
+if anticipated license revenues in any quarter are canceled or do not occur  gross margins may be reduced 
+a significant portion of our expenses are relatively fixed  and the timing of increases in expenses is based in large part on our forecast of future revenues 
+as a result  if revenues do not meet our expectations we may be unable to quickly adjust expenses to levels appropriate to actual revenues  which could harm our operating results 
+as a result of these factors  our operating results may vary significantly from quarter to quarter 
+any shortfall in revenues or net income from levels expected by securities analysts could cause a decline in the trading price of our stock 
+our success for the foreseeable future will be dependent on growth in demand for integrated circuits for dvd  filmless digital camera applications and  to a lesser extent  on digital audio and video editing applications and our ability to market and sell our products to manufacturers who incorporate those types of integrated circuits into their products 
+in and  we derived a majority of our product revenues from the sale of integrated circuits for dvd and  to a lesser extent  super video cd applications 
+we expect that sales of our products for dvd applications will continue to account for a significant portion of our revenues for the near future 
+our ability to sell our products for filmless digital camera applications and to a lesser extent digital audio and video editing applications will also have an impact on our financial performance for the foreseeable future 
+if the markets for these products and applications decline or fail to develop as expected  or we are not successful in our efforts to market and sell our products to manufacturers who incorporate integrated circuits into these products  our financial results will be harmed 
+our customers experience fluctuating product cycles and seasonality  which causes our sales to fluctuate 
+because the markets our customers serve are characterized by numerous new product introductions and rapid product enhancements  our operating results may vary significantly from quarter to quarter 
+during the final production of a mature product  our customers typically exhaust their existing inventory of our products 
+consequently  orders for our products may decline in those circumstances  even if our products are incorporated into both mature products and replacement products 
+a delay in the customer s transition to commercial production of a replacement product would delay our ability to recover the lost sales from the discontinuation of the related mature product 
+our customers also experience significant seasonality in the sales of their consumer products  which affects their orders of our products 
+typically  the fourth calendar quarter represents a disproportionate percentage of sales for our customers due to the holiday period  and therefore a disproportionate percentage of our sales 
+we expect these sales fluctuations to continue for the foreseeable future 
+product supply and demand in the semiconductor industry is subject to cyclical variations 
+the semiconductor industry is subject to cyclical variations in product supply and demand 
+downturns in the industry often occur in connection with  or anticipation of  maturing product cycles for both semiconductor companies and their customers and declines in general economic conditions 
+these downturns have been characterized by abrupt fluctuations in product demand  production over capacity and accelerated decline of average selling prices 
+in some cases  these downturns have lasted more than one year 
+a downturn in the semiconductor industry could harm our sales and revenues if demand drops or our gross margins if average selling prices decline 
+the development and evolution of markets for our integrated circuits is dependent on factors such as industry standards  over which we have no control  for example  if manufacturers adopt new or competing industry standards with which our products are not compatible  our existing products would become less desirable to the manufacturers and our sales would suffer 
+the emergence of markets for our products is affected by a variety of factors beyond our control 
+in particular  our products are designed to conform to current specific industry standards 
+manufacturers may not continue to follow these standards  which would make our products less desirable to manufacturers and reduce our sales 
+also  competing standards may emerge that are preferred by manufacturers  which could also reduce our sales and require us to make significant expenditures to develop new products 
+the emergence of new markets for our products is also dependent in part upon third parties developing and marketing content in a format compatible with commercial and consumer products that incorporate our products 
+if content compatible with commercial and consumer products that incorporate our products is not available  manufacturers may not be able to sell products incorporating our integrated circuits  and our sales to manufacturers would suffer 
+we rely on independent foundries and contractors for the manufacture  assembly and testing of our integrated circuits  and the failure of any of these third parties to deliver products or otherwise perform as requested could damage our relationships with our customers and harm our sales and financial results 
+we do not operate any manufacturing facilities  and we rely on independent foundries to manufacture substantially all of our products 
+these independent foundries fabricate products for other companies and may also produce products of their own design 
+from time to time there are manufacturing capacity shortages in the semiconductor industry 
+we do not have long term supply contracts with any of our suppliers  including our principal supplier  taiwan semiconductor manufacturing company  or tsmc 
+therefore  tsmc and these other suppliers are not obligated to manufacture products for us for any specific period  in any specific quantity or at any specified price  except as may be provided in a particular purchase order 
+our reliance on independent foundries involves a number of risks  including the inability to obtain adequate manufacturing capacity  the unavailability of or interruption in access to certain process technologies necessary for manufacture of our products  reduced control over delivery schedules  reduced control over quality assurance  reduced control over manufacturing yields and cost  and potential misappropriation of our intellectual property 
+in addition  tsmc and some of our other foundries are located in areas of the world which are subject to natural disasters such as earthquakes 
+while the earthquake in taiwan did not have a material impact on our independent foundries  a similar event centered near tsmc s facility could severely reduce tsmc s ability to manufacture our integrated circuits 
+the loss of any of our manufacturers as a supplier  our inability to expand the supply of our products in response to increased demand  or our inability to obtain timely and adequate deliveries from our current or future suppliers due to a natural disaster or any other reason could delay or reduce shipments of our products 
+any of these circumstances could damage our relationships with current and prospective customers and harm our sales and financial results 
+we also rely on independent contractors for the assembly and testing of our products 
+at present  all of our semiconductor products are assembled by one of five independent contractors ase  amkor  asat  kyocera  or vate 
+our semiconductor products are tested by these contractors or other independent contractors 
+our reliance on independent assembly and testing houses limits our control over delivery schedules  quality assurance and product cost 
+disruptions in the services provided by our assembly or testing houses or other circumstances that would require us to seek alternative sources of assembly or testing could lead to supply constraints or delays in the delivery of our products 
+these constraints or delays could damage our relationships with current and prospective customers and harm our sales and financial results 
+because foundry capacity is limited from time to time we may be required to enter into costly long term supply arrangements to secure foundry capacity 
+if we are not able to obtain additional foundry capacity as required  our relationships with our customers would be harmed and our sales would likely be reduced 
+in order to secure additional foundry capacity  we have considered and will continue to consider various arrangements with suppliers  which could include  among others option payments or other prepayments to a foundry  nonrefundable deposits with or loans to foundries in exchange for capacity commitments  contracts that commit us to purchase specified quantities of silicon wafers over extended periods  issuance of our equity securities to a foundry  investment in a foundry  joint ventures  or other partnership relationships with foundries 
+we may not be able to make any such arrangement in a timely fashion or at all  and such arrangements  if any  may not be on terms favorable to us 
+moreover  if we are able to secure foundry capacity  we may be obligated to utilize all of that capacity or incur penalties 
+such penalties may be expensive and could harm our financial results 
+if our independent foundries do not achieve satisfactory yields  our relationships with our customers may be harmed 
+the fabrication of silicon wafers is a complex process 
+minute levels of contaminants in the manufacturing environment  defects in photomasks used to print circuits on a wafer  difficulties in the fabrication process or other factors can cause a substantial portion of the integrated circuits on a wafer to be non functional 
+many of these problems are difficult to detect at an early stage of the manufacturing process and may be time consuming and expensive to correct 
+as a result  foundries often experience problems achieving acceptable yields  which are represented by the number of good integrated circuits as a proportion of the number of total integrated circuits on any particular wafer 
+poor yields from our independent foundries would reduce our ability to deliver our products to customers  harm our relationships with our customers  and harm our business 
+to be successful  we must efficiently develop new and enhanced products to meet rapidly changing customer requirements and industry standards 
+the markets for our products are characterized by rapidly changing technologies  evolving industry standards  frequent new product introductions  and short product life cycles 
+over the long run  we expect to increase our product development expenses  and our future success will depend to a substantial degree upon our ability to develop and introduce  on a timely and cost effective basis  new and enhanced products that meet rapidly changing customer requirements and industry standards 
+we may not successfully develop  introduce or manage the transition to new products 
+delays in the introduction or shipment of new or enhanced products  lack of market acceptance for such products or problems associated with new product transitions could harm our sales and financial results 
+we face competition or potential competition from companies with greater resources than ours  and if we are unable to compete effectively with these companies  our market share may decline and our business could be harmed 
+competition in the compression technology market has historically been dominated by large companies  such as stmicroelectronics  and companies that develop and use their own integrated circuits  such as sony 
+as this market continues to develop  we face competition from other large semiconductor vendors  including atmel corporation  cirrus logic crystal semiconductor  ess technology  inc  fujitsu  lsi logic including c cube microsystems inc acquired during  motorola  omnivision technologies  inc  sunplus technology  and texas instruments 
+we also face competition from internally developed solutions developed and used by major japanese original equipment manufacturers  who may also be our customers 
+many of our existing and potential competitors have substantially greater resources than ours in many areas  including finances  manufacturing  technology  marketing  and distribution 
+many of our competitors have broader product lines and longer standing relationships with customers than we do 
+moreover  our competitors may foresee the course of market developments more accurately than we do and could in the future develop new technologies that compete with our products or even render our products obsolete 
+in addition  a number of private companies have announced plans for new products to address the same digital multimedia compression problems that our products address 
+if we are unable to compete successfully against our current and future competitors  we could experience price reductions  order cancellations and reduced gross margins  any one of which could harm our business 
+the dvd market is growing  and additional competitors are expected to enter the market for dvd players and software 
+some of these potential competitors may develop captive implementations for use only with their own pc and consumer electronics products 
+it is also possible that application software vendors  such as microsoft  may attempt to enter the dvd application market in the future 
+this increased competition may result in price reductions  reduced profit margins and loss of market share 
+our products are characterized by average selling prices that decline over relatively short time periods  if we are unable to reduce our costs or introduce new products with higher average selling prices  our financial results would suffer 
+average selling prices for our products decline over relatively short time periods 
+many of our manufacturing costs are fixed 
+when our average selling prices decline  our revenues decline unless we sell more units  and our gross margins decline unless we are able to reduce our manufacturing costs by a commensurate amount 
+our operating results suffer when gross margins decline 
+we have experienced these problems and may continue to experience them in the future and cannot predict when they may occur or their severity 
+we derive most of our revenue from sales to a small number of large customers  and if we are not able to retain these customers  or they reschedule  reduce or cancel orders  our revenues would be reduced and our financial results would suffer 
+our largest customers account for a substantial percentage of our revenues 
+in  sales to fujifilm accounted for of our total revenue 
+our four largest customers in accounted for approximately of our total revenues 
+during  our four largest customers accounted for approximately of our revenues with fujifilm accounting for 
+sales to these large customers have varied significantly from year to year and will continue to fluctuate in the future 
+these sales also may fluctuate significantly from quarter to quarter 
+we may not be able to retain our key customers or these customers may cancel purchase orders or reschedule or decrease their level of purchases from us 
+any substantial decrease or delay in sales to one or more of our key customers could harm our sales and financial results 
+in addition  any difficulty in collecting amounts due from one or more key customers could harm our financial results 
+we are dependent on our relationship with fujifilm for a significant percentage of our product sales  and if this relationship were terminated  our business would be harmed 
+fujifilm has been our largest customer in four of the last five years 
+fujifilm purchases our products primarily as a distributor 
+under our arrangement with fujifilm  fujifilm acts as the primary distributor in japan of products developed by us under development contracts with fujifilm 
+fujifilm also sells some of these products in japan under its own name 
+we may sell these products directly in japan only to specified customers and must first buy the products from fujifilm 
+fujifilm provides more sales and marketing support than our other distributors 
+fujifilm also has a nonexclusive license to distribute most of our products outside of japan 
+fujifilm has provided wafer manufacturing services on a most favored terms basis to us since and has also provided funding to support our development efforts 
+if our relationship with fujifilm were terminated  our business would be harmed 
+our products generally have long sales cycles and implementation periods  which increases our costs in obtaining orders and reduces the predictability of our earnings 
+our products are technologically complex 
+prospective customers generally must make a significant commitment of resources to test and evaluate our products and to integrate them into larger systems 
+as a result  our sales process is often subject to delays associated with lengthy approval processes that typically accompany the design and testing of new products 
+the sales cycles of our products often last for many months or even years 
+longer sales cycles require us to invest significant resources in attempting to make sales and delay the generation of revenue 
+long sales cycles also subject us to other risks  including customers budgetary constraints  internal acceptance reviews and cancellations 
+in addition  orders expected in one quarter could shift to another because of the timing of customers purchase decisions 
+the time required for our customers to incorporate our products into their own can vary significantly with the needs of our customers and generally exceeds several months  which further complicates our planning processes and reduces the predictability of our operating results 
+we are not protected by long term contracts with our customers 
+we generally do not enter into long term purchase contracts with our customers  and we cannot be certain as to future order levels from our customers 
+when we do enter into a long term contract  the contract is generally terminable at the convenience of the customer 
+in the event of an early termination by one of our major customers  it is unlikely that we will be able to rapidly replace that revenue source  which would harm our financial results 
+we are dependent upon our international sales and operations  economic  political or military events in a country where we make significant sales or have significant operations could interfere with our success or operations there and harm our business 
+during  of our total revenues were derived from international sales 
+we anticipate that international sales will continue to represent a substantial majority of our total revenues for the foreseeable future 
+in addition  substantially all of our semiconductor products are manufactured  assembled and tested outside of the united states by independent foundries and subcontractors 
+we are subject to the risks inherent in doing business internationally  including unexpected changes in regulatory requirements  fluctuations in exchange rates  political and economic instability  imposition of tariffs and other barriers and restrictions  and the burdens of complying with a variety of foreign laws 
+the majority of our research and development personnel and facilities and a significant portion of our sales personnel are located in israel 
+political  economic and military conditions in israel directly affect our operations 
+some of our officers and employees in israel are obligated to perform up to days of military reserve duty annually 
+the absence of these employees for significant periods during the work week may cause us to operate inefficiently during these periods 
+our operations in china are subject to the economic and political uncertainties affecting that country 
+for example  the chinese economy has experienced significant growth in the past decade  but such growth has been uneven across geographic and economic sectors and has recently been slowing 
+this growth may continue to decrease and any slowdown may have a negative effect on our business 
+during and the beginning of we also opened offices in taipei  taiwan  hong kong and seoul  korea 
+our operations are subject to the economic and political uncertainties affecting these countries as well 
+our business and future operating results could be harmed by terrorist activity or armed conflict 
+our business and operating results are subject to uncertainties arising out of possible terrorist attacks on the united states and other regions of the world including locations where we maintain operations and by the potential expansion of armed conflict and potential instability associated with terrorism 
+our operations could be harmed due to disruption in commercial activities associated with heightened security concerns affecting international travel and commerce  reduced demand for consumer electronic products due to a potential extension of the global economic slowdown  tightened immigration controls that may adversely affect the residence status of key non us managers and technical employees in our us facilities or our ability to hire new us employees in such facilities  or potential expansion of armed conflict in the middle east which could adversely affect our operations in israel 
+the prices of our products may become less competitive due to foreign exchange fluctuations 
+foreign currency fluctuations may affect the prices of our products 
+prices for our products are currently denominated in us dollars for sales to our customers throughout the world 
+if there is a significant devaluation of the currency in a specific country  the prices of our products will increase relative to that country s currency and our products may be less competitive in that country 
+also  we cannot be sure that our international customers will continue to be willing to place orders denominated in us dollars 
+if they do not  our revenue and operating results will be subject to foreign exchange fluctuations 
+our ability to compete could be jeopardized if we are unable to protect our intellectual property rights from challenges by third parties 
+our success and ability to compete depend in large part upon protecting our proprietary technology 
+we rely on a combination of patent  trade secret  copyright and trademark laws  non disclosure and other contractual agreements and technical measures to protect our proprietary rights 
+these agreements and measures may not be sufficient to protect our technology from third party infringement  or to protect us from the claims of others 
+monitoring unauthorized use of our products is difficult and we cannot be certain that the steps we have taken will prevent unauthorized use of our technology  particularly in foreign countries where the laws may not protect our proprietary rights as fully as in the united states 
+the laws of certain foreign countries in which our products are or may be developed  manufactured or sold  including various countries in asia  may not protect our products or intellectual property rights to the same extent as do the laws of the united states and thus make the possibility of piracy of our technology and products more likely in these countries 
+if competitors are able to use our technology  our ability to compete effectively could be harmed 
+we could become subject to claims and litigation regarding intellectual property rights  which could seriously harm our business and require us to incur significant costs 
+in recent years  there has been significant litigation in the united states involving patents and other intellectual property rights 
+in the past  we have been subject to claims and litigation regarding alleged infringement of other parties intellectual property rights 
+we could become subject to litigation in the future either to protect our intellectual property or as a result of allegations that we infringe others intellectual property rights 
+claims that our products infringe proprietary rights would force us to defend ourselves and possibly our customers or manufacturers against the alleged infringement 
+these claims and any resulting lawsuit  if successful  could subject us to significant liability for damages and invalidation of our proprietary rights 
+these lawsuits  regardless of their success  would likely be time consuming and expensive to resolve and would divert management time and attention 
+any potential intellectual property litigation could force us to do one or more of the following stop selling our products that incorporate the challenged intellectual property  obtain from the owner of the infringed intellectual property right a license to sell or use the relevant technology  which license may not be available on reasonable terms or at all  pay damages  or redesign those products that use such technology 
+if we are forced to take any of the foregoing actions  our business could be severely harmed 
+if necessary licenses of third party technology are not available to us or are very expensive  our products could become obsolete 
+from time to time we may be required to license technology from third parties to develop new products or product enhancements 
+third party licenses may not be available to us on commercially reasonable terms  if at all 
+if we are unable to obtain any third party license required to develop new products and product enhancements  we may have to obtain substitute technology of lower quality or performance standards or at greater cost  either of which could seriously harm the competitiveness of our products 
+if we are not able to apply our net operating losses against taxable income in future periods  our financial results will be harmed 
+our future net income and cash flow will be affected by our ability to apply our net operating losses  which totaled approximately million for federal tax reporting purposes as of december   against taxable income in future periods 
+our net operating losses incurred prior to the consummation of our initial public offering in that we can use to reduce future taxable income for federal tax purposes are limited to approximately million per year 
+changes in tax laws in the united states may further limit our ability to utilize our net operating losses 
+any further limitation on our ability to utilize our net operating losses could harm our financial condition 
+any acquisitions we make could disrupt our business and severely harm our financial condition 
+we have made investments in  and acquisitions of  complementary companies  products and technologies 
+during  we acquired pixelcam and nogatech  and we may acquire additional businesses  products  or technologies in the future 
+in the event of any future acquisitions  we could issue stock that would dilute our current stockholders percentage ownership  incur debt  assume liabilities  incur amortization expenses related to goodwill and other intangible assets  or incur large write offs immediately or in the future 
+our operation of any acquired business will also involve numerous risks  including problems combining the purchased operations  technologies or products  unanticipated costs  diversion of management s attention from our core business  adverse effects on existing business relationships with customers  risks associated with entering markets in which we have no or limited prior experience  and potential loss of key employees  particularly those of the purchased organizations 
+we may not be able to successfully integrate any businesses  products or technologies or personnel that we might acquire in the future and any failure to do so could disrupt our business and seriously harm our financial condition 
+our products could contain defects  which could reduce sales of those products or result in claims against us 
+we develop complex and evolving products 
+despite testing by us and our customers  errors may be found in existing or new products 
+this could result in  among other things  a delay in recognition or loss of revenues  loss of market share or failure to achieve market acceptance 
+these defects may cause us to incur significant warranty  support and repair costs  divert the attention of our engineering personnel from our product development efforts and harm our relationships with our customers 
+the occurrence of these problems could result in the delay or loss of market acceptance of our products and would likely harm our business 
+defects  integration issues or other performance problems in our products could result in financial or other damages to our customers or could damage market acceptance of our products 
+our customers could also seek damages from us for their losses 
+a product liability claim brought against us  even if unsuccessful  would likely be time consuming and costly to defend 
+if we do not maintain our current development contracts or are unable to enter into new development contracts  our business could be harmed 
+we historically have generated a significant percentage of our total revenues from development contracts  primarily with key customers 
+these development contracts have provided us with partial funding for the development of some of our products 
+under these contracts  we receive payments upon reaching certain development milestones 
+if we fail to achieve the milestones specified in our existing development contracts  if our existing contracts are terminated or we are unable to secure future development contracts  our ability to cost effectively develop new products would be reduced and our business would be harmed 
+we may need additional funds to execute our business plan  and if we are unable to obtain such funds  we will not be able to expand our business as planned 
+we may require substantial additional capital to finance our future growth  secure additional foundry capacity and fund our ongoing research and development activities beyond our capital requirements will depend on many factors  including acceptance of and demand for our products  the types of arrangements that we may enter into with our independent foundries  and the extent to which we invest in new technology and research and development projects 
+to the extent that our existing sources of liquidity and cash flow from operations are insufficient to fund our activities  we may need to raise additional funds 
+if we raise additional funds through the issuance of equity securities  the percentage ownership of our existing stockholders would be reduced 
+further  such equity securities may have rights  preferences or privileges senior to those of our common stock 
+additional financing may not be available to us when needed or  if available  it may not be available on terms favorable to us 
+if we fail to manage our future growth  if any  our business would be harmed 
+we anticipate that our future growth  if any  will require us to recruit and hire a substantial number of new engineering  managerial  sales and marketing personnel 
+our ability to manage our growth successfully will also require us to expand and improve our administrative  operational  management and financial systems and controls 
+many of our key operations  including the major portion of our research and development operations and a significant portion of our sales and administrative operations  are located in israel 
+a majority of our sales and marketing and certain of our research and development and administrative personnel  including our president and chief executive officer and other officers  are based in the united states 
+the geographic separation of these operations places additional strain on our resources and our ability to effectively manage our growth 
+if we are unable to manage growth effectively  our business would be harmed 
+we rely on the services of our executive officers and other key personnel  whose knowledge of our business and industry would be extremely difficult to replace 
+our success depends to a significant degree upon the continuing contributions of our senior management 
+the loss of key management personnel could delay product development cycles or otherwise harm our business 
+we may not be able to retain the services of any of our key employees 
+we believe that our future success will also depend in large part on our ability to attract  integrate and retain highly skilled engineering  managerial  sales and marketing personnel  both in the united states and in israel 
+competition for such personnel is intense  and we may not be successful in attracting  integrating and retaining such personnel 
+failure to attract  integrate and retain key personnel could harm our ability to carry out our business strategy and compete with other companies 
+the israeli rate of inflation may negatively impact our costs if it exceeds the rate of devaluation of the new israeli shekel against the us dollar 
+a portion of the cost of our operations  relating mainly to our personnel and facilities in israel  is incurred in new israeli shekels 
+as a result  we bear the risk that the rate of inflation in israel will exceed the rate of devaluation of the new israeli shekel in relation to the dollar  which will increase our costs as expressed in dollars 
+to date  we have not engaged in hedging transactions 
+in the future  we may enter into currency hedging transactions to decrease the risk of financial exposure from fluctuations in the exchange rate of the us dollar against the new israeli shekel 
+these measures may not adequately protect us from the impact of inflation in israel 
+the government programs we participate in and tax benefits we receive require us to meet several conditions and may be terminated or reduced in the future  which would increase our costs 
+in the year ended december   we did not receive proceeds from grants for research and development from the chief scientist in israel s ministry of industry and trade 
+however  we did receive an aggregate of  in such grants during we plan to seek additional grants from the chief scientist in the future 
+to be eligible for these grants  our development projects must be approved by the chief scientist on a case by case basis 
+if our development projects are not approved by the chief scientist  we will not receive grants to fund these projects  which would increase our research and development costs 
+we also receive tax benefits  in particular exemptions and reductions as a result of the approved enterprise status of our existing operations in israel 
+to be eligible for these tax benefits  we must maintain our approved enterprise status by meeting conditions  including making specified investments in fixed assets located in israel and investing additional equity in our israeli subsidiary 
+if we fail to meet these conditions in the future  the tax benefits would be canceled and we could be required to refund the tax benefits already received 
+these tax benefits may not be continued in the future at their current levels or at any level 
+israeli governmental authorities have indicated that the government may reduce or eliminate these benefits in the future  which would harm our business 
+we have anti takeover provisions in our charter documents and there are provisions of delaware law that could prevent or delay a change in control of our company 
+our certificate of incorporation  our bylaws and delaware law contain provisions that could make it more difficult for a third party to acquire us  even if doing so would be beneficial to our stockholders 
+these include provisions prohibiting a merger with a party that has acquired control of or more of our outstanding common stock  such as a party that has completed a successful tender offer  until three years after that party acquired control of of our outstanding common stock  authorizing the issuance of up to  shares of blank check preferred stock  eliminating stockholders rights to call a special meeting of stockholders  and requiring advance notice of any stockholder nominations of candidates for election to our board of directors 
+our stock price has fluctuated and may continue to fluctuate widely 
+the market price of our common stock has fluctuated significantly since our initial public offering in between january  and december   the closing sale price of our common stock  as reported on the nasdaq national market  ranged from a low of to a high of 
+the market price of our common stock is subject to significant fluctuations in the future in response to a variety of factors  including announcements concerning our business or that of our competitors or customers  quarterly variations in operating results  changes in analysts earnings estimates  announcements of technological innovations  the introduction of new products or changes in product pricing policies by us or our competitors  proprietary rights or other litigation  general conditions in the semiconductor industry  and developments in the financial markets 
+in addition  the stock market has  from time to time  experienced extreme price and volume fluctuations that have particularly affected the market prices for semiconductor companies or technology companies generally and which have been unrelated to the operating performance of the affected companies 
+broad market fluctuations of this type may reduce the future market price of our common stock 
+item a 
+quantitative and qualitative disclosures about market risk s 
+we are exposed to financial market risks including changes in interest rates and foreign currency exchange rates 
+the fair value of our investment portfolio or related income would not be significantly impacted by either a increase or decrease in interest rates due mainly to the short term nature of the major portion of our investment portfolio 
+a majority of our revenue and capital spending is transacted in us dollars  although a portion of the cost of our operations  relating mainly to our personnel and facilities in israel  is incurred in new israeli shekels 
+we have not engaged in hedging transactions to reduce our exposure to fluctuations that may arise from changes in foreign exchange rates 
+based on our overall currency rate exposure at december  a near term appreciation or depreciation of the new israeli shekel would have an immaterial affect on our financial condition 
+

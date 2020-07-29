@@ -1,0 +1,472 @@
+item management s discussion and analysis of financial condition and results of operations entitled factors affecting future results and elsewhere in this report 
+document sciences corporation develops  markets and supports a family of document automation software used in high volume electronic publishing applications 
+document automation has become increasingly important as more companies realize the benefits of automating the high volume production of individually customized documents that require the precise layout of information such as financial data  marketing text and graphs 
+our document automation software  the document sciences autograph family of products  enables personalized and customized publishing solutions for many industries including insurance  managed healthcare  financial services  commercial print services  government  telecommunications and manufacturing 
+our products facilitate an important form of communication between organizations and customers by employing enterprise database assets to produce high quality documents that are ready to print on demand and distribute in high volume 
+additionally  our core technology is being applied to provide electronic document automation solutions for the internet by leveraging the capabilities of adobe s widespread pdf technology 
+document sciences autograph is licensed to more than customers worldwide who are collectively producing an estimated one billion customized pages per month 
+our highly portable document sciences autograph software platform enables cost effective  just in time  on demand  high volume publishing that is fully automated  capable of quality document composition and flexible for end user customization 
+our products are used in a wide array of computing environments from client server to large computer systems 
+products the document sciences autograph family of products currently addresses three major functional areas within the enterprise document automation arena document composition and assembly  variable content management and electronic document viewing  as described below 
+all of our software products can be complemented by our professional services organization 
+historically  we have licensed our products for one year  for an initial license fee  after which an annual renewal fee  usually of the initial license fee  is required for continued use 
+we have augmented this approach with new licensing models whereby we offer perpetual licenses for our products  as well as three year term licenses  after which the license may be renewed for additional three year terms  or converted for perpetual use 
+we also provide three year maintenance agreements that are usually in an amount equal to  per year  of the initial license fee 
+the list price for a three year license fee for compuset  our core product  is currently  for a mainframe installation and ranges down to  for a pc nt server installation 
+options currently range from  to  a typical new account sale through the direct channel is currently about  for software licenses and approximately  for professional services 
+document composition and assembly composition and assembly 
+compuset automates document composition and assembly using data and content stored in corporate databases 
+compuset software consists of a rule based language and a composition engine that provides high speed composition and assembly of complex documents with high typographic and aesthetic levels of quality 
+variable content is marked with compuset tags which  in turn  are defined in logically separate style specifications 
+the compuset tags are conceptually and syntactically similar to html or xml  the current web standards for content tagging  and the style specification is conceptually similar to css  the current web standard for style definition 
+without requiring any real time user interaction  compuset transforms the tagged data and variable content into finished electronic documents 
+these can be composed and assembled at rates in excess of pages per second  depending on computing configuration and complexity of the document 
+document composition and construction features are rich and extensive  including the generation of multi dimensional dynamic data driven graphics  and the support of full color text and images 
+compuset operates on a wide range of popular computers and operating systems including mainframes  unix platforms and pc nt servers 
+data and content capture 
+data and content capture products include the data preparation tool  or dpt  as well as a number of content importers 
+these prepare data and content for subsequent composition and assembly by compuset 
+dpt is an optional product that enables users to capture and tag raw data and variable content from a variety of sources  including corporate databases  for subsequent processing by compuset 
+it provides an easy to use graphical user interface  or gui  that describes the existing data environment and the related data processing and tagging instructions for compuset 
+it then automatically generates a data preparation program in cobol that is compatible with mainframe cobol compilers and acucorp s acucobol runtime products 
+content importers accept externally generated document objects  including text  static graphics and scanned images  and converts them into formats that are compatible with compuset 
+the content importers currently supported include xerox metacode  adobe postscript and the tiff standard for scanned images 
+this part of the architecture is extensible and new content importers can be developed as required 
+additional content importers for the support of certain popular web formats are planned for introduction during document output and merge 
+emitters transform the output of compuset into a number of popular page description languages  or pdls  for subsequent printing and or viewing 
+the pdls provide device specific instructions for rendering text  forms  images and graphics into finished documents 
+the emitters also condition the pdls for transport over a variety of high speed printing interfaces and for support of various finishing devices 
+the pdl formats currently supported are xerox metacode  ibm afpds  hp pcl and adobe postscript 
+this part of the architecture is extensible and new emitters can be developed as required 
+additional emitter features and enhancements  including inline output processing functionality  are planned for introduction during rapid application development tools 
+visual compuset application development tools run on microsoft windows r and simplify variable document application design and prototyping 
+visual compuset incorporates support for the optional dpt product  for a variety of importer  merge and emitter tools  as well as for the compuseries ii design environment and jetform r corporation s jetform design tool 
+visual compuset uses a pc windows version of compuset  combined with an editor to manipulate the tagged document data and content 
+visual compuset supports all of the dynamic functions and features of the compuset production engine 
+visual compuset professional edition 
+the recent introduction of visual compuset professional edition  or vcpro  significantly augments the capabilities of the visual compuset product 
+a new dpt document designer component is tightly integrated with the graphical dpt user interface 
+users can define their existing data environment with dpt and directly associate their variable data and content elements with compuset style objects such as sections  paragraphs  tabular elements  images  photographs and and d data driven graphics 
+the dpt document designer gui interactions feature wysiwyg and drag and drop operability 
+the feature set is rich and general purpose and the design centerline is the generation of complex high value investment statement that feature rich use of cross marketing elements including full color graphics 
+existing visual compuset users can upgrade to the new professional edition product 
+vcpro enhancements  including web application support  are planned for introduction during variable content management variable content management products provide client server solutions for the creation  revision and management of document components used in several types of document automation solutions 
+they consist of the document library service  or dls  server and client products 
+dls manages the document component creation process required by complex variable and text intensive documents  such as contracts and policies 
+in addition to component creation  dls also supports the definition of complex assembly rules required for interactive or fully automated document composition and assembly using microsoft word r and or compuset 
+dls uses a client server architecture for accessing data and files on a mainframe or nt network server 
+the dls client product manages text objects created with microsoft word r 
+the dls text objects are tracked and managed in a multi authoring environment that supports access security  revision control and approval workflow 
+dls also provides a criteria based document text object selection capability for customized or personalized documents 
+these criteria are then used by dls to select the text objects and generate a microsoft word r document or a compuset ready tagged file  based on application volume requirements 
+the customized or personalized document assembly can be directed to occur in a high volume fashion on the server or in a just in time  on demand fashion on the local dls client pc 
+dls web express 
+the recent introduction of dls web express significantly augments the flexibility of our dls product line by incorporating internet support 
+dls web express enables the dynamic creation of web ready documents using html and or adobe pdf 
+these documents can be created on demand through advanced server page asp  or other web compatible  applications 
+dynamic web browser form input is routed to the dls web express server to automatically assemble and generate a customized web ready document for local browser viewing or printing 
+target applications include insurance agent and sales proposal automation 
+existing dls users can upgrade to the new dls web express product 
+additional features and enhancements to dls web express are planned for electronic document viewing electronic document viewing enables on line viewing and archiving of electronic documents produced by compuset document automation applications 
+it consists of the ccf formatter and compuview  as well as the pdf formatter for supporting adobe s popular portable document format 
+the ccf formatter is available for a variety of mainframe  unix platforms and pc nt servers 
+the electronic document files are generated in the composite container format  or ccf  which is optimized for fast  memory efficient viewing  transport and storage 
+ccf container files can then be viewed by compuview 
+ccf files consist of three major components an internal rendition of the pages for wysiwyg viewing  various indices for locating documents and reusable document elements 
+the view of the document is virtually identical to the printed document 
+ccf files can be distributed  archived or printed through document distribution and archiving systems offered by third party software developers that integrate ccf and compuview 
+the pdf formatter can also be used to support archiving and viewing with third party products 
+lastly  indexed support of ibm s afpds document format is provided for compatibility with ibm s on demand offering 
+we are developing a variety of internet extensions  as well as considering additional possible future extensions  some of which are not currently under active development 
+we believe that our core technology can be extended to the internet and we are continuing our development activities in this area  although there can be no assurance that such development activities will result in commercially successful products 
+see business research and development 
+professional services in addition to our software products  we provide a comprehensive suite of professional services that can assist customers in the implementation of mission critical document automation applications 
+professional services include on site software installation  customer training programs  telephone support programs and consulting services 
+consulting services is currently focused on assisting in the sale of high margin initial software licenses by providing project management  requirements analysis  application design and application development services 
+in addition to consulting services  we currently provide introductory level customer education with compuset  dls  dpt and vcpro initial licenses 
+additional and advanced classes are available for additional fees at our headquarters in san diego  our offices in milwaukee and at customer sites 
+we believe that the use of our professional services enables customers to deploy our document automation products more rapidly and effectively 
+the professional services and support organizations employed a staff of as of december  sales and marketing our sales and marketing organization targets vertical industry markets that require document automation and high volume  high quality document customization 
+we currently license our products using a combination of direct sales and alternate channels 
+in the united states  we market our products primarily through a direct sales force that manages our existing base of corporate accounts  as well as targets new accounts in select market segments 
+our sales account executives are grouped into industry focused teams and are provided with pre sales technical support by qualified solution analysts 
+account executives and solution analysts are located throughout the united states to provide optimal coverage 
+we also distribute our software products through value added resellers  or vars  such as xerox canada  ltd 
+in canada  fuji xerox co  ltd 
+in australia and xerox brazil  ltd 
+in brazil 
+our subsidiary  document sciences europe  markets our products in europe  africa and the middle east by providing var channel management and support and by defining european market and product requirements 
+our european vars are principally xerox europe affiliates who re market our products 
+our revenues from export transactions with xerox affiliates were million  million and million in  and  respectively 
+the sales and marketing organization employed a staff of as of december  we intend to expand our sales and marketing organization to provide incremental direct sales coverage in the us as well as incremental indirect channel coverage throughout the world  including the us 
+such planned expansion will occur by first addressing the unique product requirements of a region or market segment  followed by the development of suitable vars  to sell in that region or market segment 
+the var expansion will be facilitated by our newly improved worldwide var program 
+as we are able to increase our market presence  we may choose to augment our alternate channels with a direct sales capability 
+in some cases  we also plan on providing our software through oem channels where specific coverage would not be provided by either direct or alternate channels 
+in addition  we also intend to increase both our product offerings and markets through joint marketing  sales and distribution and development relationships with other major companies 
+current relationships include formal and informal marketing and sales alliances with xerox  ibm  bmc  rsd  jetform corporation  systemware and anacomp 
+these relationships provide sales leads for our products and extend our sales coverage and networking capabilities 
+research and development with the release of dls web express in and the continuing sales of our pdf formatter during the year  document sciences has continued to enhance its world wide web functionality 
+early in  we engaged several customers in a formal requirements analysis looking ahead three years 
+we used the quality function deployment qfd process  which is a formal procedure for interviewing customers  identifying their needs and prioritizing specific product features 
+as a result  we have identified a number of requirements related to regulated  electronic documents of the future 
+our major product initiatives in are addressing several of the key requirements from the qfd exercise 
+in general  our product development strategy is based on delivering document automation solutions for specific types of documents in single industries 
+a cross functional team that includes a representative from each discipline in the company is responsible for delivering each focused offering 
+we use a documented business planning and product delivery process to guide its product development and delivery activities 
+new product offerings build on document sciences autograph family of products 
+these established products are maintained by teams that respond to customer requests for defect corrections and feature enhancements 
+by building on our existing products we maximize our reuse of existing software and expertise and enable our customers to purchase new offerings as upgrades 
+there can be no assurance that we will be successful in developing  introducing and marketing new products on a timely and cost effective basis  if at all  or that new products will achieve market acceptance 
+we expect to continue to enhance our existing products and to develop new products  particularly as they relate to electronic document automation applications 
+research and development expenditures have grown substantially since our inception 
+such expenditures  not including amounts capitalized  were million  million and million in  and the development organization employed a staff of as of december  we employ independent contractors as needed to supplement the permanent development staff 
+competition the market for document automation products is intensely competitive  subject to rapid change and significantly affected by new product introductions and other market activities of industry participants 
+our software products are targeted at document intensive organizations that require the ability to produce large quantities of customized and personalized documents in paper or electronic form 
+we face direct and indirect competition from a broad range of competitors who offer a variety of products and solutions to our current and potential customers 
+our principal competition currently comes from systems developed in house by the internal mis departments of large organizations where there is a reluctance to commit the time and effort necessary to convert their document automation processes to our document automation software 
+we also face competition from docucorp  in the insurance industry  m i data services  inc in banking and financial services  group software  inc in commercial direct mailing and marketing as well as several other general purpose competitors 
+several of our competitors have longer operating histories  significantly greater financial  technical and marketing resources  greater name recognition and a larger installed base of customers 
+it is also possible that we will face competition from new competitors 
+these include large independent software companies offering personal computer based application software solutions  such as microsoft corporation and adobe corporation  and from large corporations providing database management software solutions  such as oracle corporation 
+in addition  xerox  either directly or through affiliated entities  could become a large competitor 
+moreover  as the market for document automation software develops  a number of these or other companies with significantly greater resources than document sciences could attempt to enter or increase their presence in the document automation market by either acquiring or forming strategic alliances with our competitors or by increasing their focus on the industry 
+in addition  current and potential competitors have established or may establish cooperative relationships among themselves or with third parties to increase the ability of their products to address the needs of our current and prospective customers 
+it is possible that new competitors or alliances among competitors may emerge and rapidly acquire significant market share 
+increased competition may result in price reductions  reduced gross margins and loss of market share  any of which could have a material adverse effect on our business  operating results and financial condition 
+there can be no assurance that we will be able to compete successfully against current or future competitors or that competitive pressures faced by us will not materially adversely affect our business  operating results and financial condition 
+we believe that the principal competitive factors affecting our market include product performance and functionality  ease of use  scalability  operating across multiple computer and operating system platforms  product and company reputation  client service and support and price 
+although we believe we currently compete favorably with respect to such factors  there can be no assurance that we will be able to maintain our competitive position against current and future competitors  especially those with greater financial  technical and marketing resources than us  or that we will be successful in the face of increasing competition from new products  new solutions introduced by existing competitors or by new companies entering the market 
+patents and proprietary rights our success is dependent  in part  on the ability to protect our proprietary technology 
+we rely primarily on a combination of copyright and trademark laws  trade secrets  confidentiality procedures and contractual provisions to protect our proprietary rights 
+we seek to protect our software  documentation and other written materials under trade secret and copyright laws  which afford only limited protection 
+we presently have no patents or patent applications pending 
+despite our efforts to protect our proprietary rights  unauthorized parties may attempt to copy aspects of our products or to obtain and use information that we regard as proprietary 
+policing unauthorized use of our products is difficult  and while we are unable to determine the extent to which piracy of our software products exists  software piracy can be expected to be a persistent problem 
+in addition  the laws of some foreign countries do not protect our proprietary rights to as great an extent as do the laws of the united states 
+there can be no assurance that our means of protecting our proprietary rights will be adequate or that our competitors will not independently develop similar technology 
+we are not aware that any of our products infringe upon the proprietary rights of third parties 
+there can be no assurance  however  that third parties will not claim infringement by us with respect to current or future products 
+we expect that software product developers will increasingly be subject to infringement claims as the number of products and competitors in our industry segment grows and the functionality of products in different industry segments overlaps 
+any such claims  with or without merit  could be time consuming  result in costly litigation  cause product shipment delays or require us to enter into royalty or licensing agreements 
+such royalty or licensing agreements  if required  may not be available on terms acceptable to us or at all  which could have a material adverse effect upon our business  operating results and financial condition 
+in addition  we also rely on certain software that we license from third parties  including software that is integrated with internally developed software and used in our products to perform key functions 
+there can be no assurances that such firms will remain in business  that they will continue to support their products or that their products will otherwise continue to be available to us on commercially reasonable terms 
+the loss or inability to maintain any of these software licenses could result in delays or reductions in product shipments until equivalent software can be developed  identified  licensed and integrated  which would adversely affect our business  operating results and financial condition 
+employees as of december   we had employees including in professional services  in sales and marketing  in research and development and in finance and administration 
+none of our employees are represented by a labor union 
+we have experienced no work stoppages and believe our relationship with our employees is good 
+competition for qualified personnel in the industry in which we compete is intense 
+we believe that our future success will depend in part on our continued ability to attract  hire and retain qualified personnel 
+risk factors the following is a discussion of certain factors which currently impact or may impact our business  operating results and or financial condition 
+anyone making an investment decision with respect to our common stock or other securities is cautioned to carefully consider these factors 
+if any of the following risks actually occur  our business  future operating results and financial condition could be materially adversely affected 
+in such case  the trading price of our common stock could decline and you may lose all or part of your investment 
+our quarterly results fluctuate significantly and we may not be able to maintain our existing growth rates 
+our total revenues and operating results can vary  sometimes substantially  from quarter to quarter and we expect them to vary significantly in the future 
+our revenues and operating results are difficult to forecast  and our future results will depend upon many factors  including the following the demand for our products  the level of product and price competition we face  the length of our sales cycle  the size and timing of individual license transactions  the delay or deferral of customer implementations  the budget cycles of our customers  our success in expanding our direct sales force or indirect distribution channels  the timing of our new product introductions and enhancements  as well as those of our competitors  our mix of products and services  our level of international sales  the activities of and acquisitions by our competitors  our timing of new hires  changes in foreign currency exchange rates  our ability to develop and market new products and to control costs  and general domestic and international economic conditions 
+our initial license fee revenue mainly depends on when orders are received and shipped 
+however  because of our sales model  our customers implementation schedule and the complexity of the implementation process  revenue from some software shipments may not be recognized in the same quarter as the shipment occurs 
+our operating expenses are primarily based on anticipated revenue levels 
+since a high percentage of those expenses are relatively fixed  a delay in the recognition of revenue from license transactions could cause significant variations in operating results from quarter to quarter and we may sustain losses as a result 
+if such expenses precede increased revenues  our operating results would be materially adversely affected 
+as a result of these factors  results from operations for any quarter are subject to significant variation  and we believe that period to period comparisons of our results of operations are not necessarily meaningful and you should not rely upon them as an indication of our future performance 
+furthermore  our operating results in some future quarter may fall below the expectations of public market analysts and investors 
+if this occurs  the price of our common stock would likely be materially adversely affected 
+we are substantially controlled by xerox 
+xerox owns approximately of the outstanding shares of our common stock 
+consequently  xerox controls document sciences  is able to elect our entire board of directors and could have significant input into our operations 
+in addition  xerox is able to determine the outcome of all corporate actions requiring stockholder approval  including potential mergers  acquisitions  consolidations and sales of all or substantially all of our assets 
+xerox s voting power could delay or prevent a change in control of document sciences and may prevent or discourage tender offers for our common stock at a premium price by another person or entity 
+xerox affiliates currently hold two of the five seats on our board of directors 
+our business is dependent on maintaining our relationships with xerox 
+we currently have a variety of contractual and informal relationships with xerox and affiliates of xerox  including a cooperative marketing agreement  a transfer and license agreement and various distribution agreements 
+we rely on these relationships and agreements for a significant portion of our total revenues 
+in  revenues derived from relationships with xerox and affiliates of xerox accounted for approximately million  representing of our total revenues  in  revenues derived from relationships with xerox and affiliates of xerox accounted for approximately million  representing of our total revenues  and in  revenues derived from relationships with xerox and affiliates of xerox accounted for approximately million  representing of our total revenues 
+included above were commissions that we received from sales of xerox printers under our strategic marketing alliance with xerox 
+these commissions were  and these commissions have little or no associated costs and have contributed a substantial portion of our income from operations for certain prior operating periods 
+this commission arrangement was terminated as of september  furthermore  there can be no assurance that existing and potential customers will continue to do business with us because of these relationships or our historical ties with xerox and its affiliates 
+though we intend to continue our existing relationships with xerox  our strategy is to lessen our dependence on xerox 
+however  there can be no assurance that we will be able to do so and  because of our current level of dependence on xerox  there can be no assurance that our move to become more independent will not adversely affect our business  operating results and financial condition 
+our failure to maintain these relationships  particularly with xerox and its affiliates  or to establish new relationships in the future  could have a material adverse effect on our business  operating results and financial condition 
+xerox has strategic alliances and other business relationships with other companies who supply software and services used in high volume electronic publishing applications and who now or in the future may be our competitors 
+there can be no assurance that xerox or one of its affiliated companies will not engage in business that directly competes with us 
+in addition  xerox has ongoing internal development activities that could in the future lead to products that compete with us 
+xerox could in the future expand these relationships or enter into additional ones  and as a result our business could be materially adversely affected 
+our growth is dependent upon successfully focusing our distribution channels 
+we intend to streamline our worldwide sales and distribution channels by focusing on key target industry market segments where our current and planned products enjoy a significant competitive advantage and a current  high market demand 
+we also plan on leveraging our existing relationships with xerox corporation  ibm corporation and their channels and affiliates by launching targeted joint marketing and value added reseller programs and by introducing new product offerings that are optimized for selected target markets and marketing channels 
+in addition  we intend to form additional partnerships with system integrators and consultants in order to broaden our capacity to deliver complete document automation solutions that incorporate significant services content  while also maintaining our core domain expertise 
+we cannot assure you that we will be able to successfully streamline and focus our worldwide channels  leverage our existing relationships or form new alliances 
+if we fail to do so  it will have a material adverse effect on our business  operating results and financial condition 
+continued expansion of our professional services is necessary for our future growth 
+we are increasing our focus on the consulting services component of our professional services to assist customers in the planning and implementation of enterprise wide  mission critical document automation applications 
+our increased focus is dependent on retaining and hiring professionals to perform these consulting services 
+should we be unable to maintain the necessary services workforce  our business and financial condition could be materially adversely affected 
+our growth depends on market acceptance of our existing products and our introduction of new products and enhancements to existing products 
+our future business  operating results and financial condition will depend upon market acceptance of our existing products  as well as our ability to develop new products that address the future needs of our target markets and to respond to emerging industry standards and practices 
+our document sciences autograph family of products has been applied mainly to document automation applications producing paper based documents 
+we believe that our core technology can be extended to the internet  intranets and commercial on line services  and we have begun initial development activity in this area 
+we cannot assure you that we will be successful in developing  introducing and marketing new products or product enhancements  including new products or the extension of existing products for the internet  intranets and commercial on line services  on a timely and cost effective basis  if at all 
+in addition  we cannot assure you that our new products and product enhancements will adequately meet the requirements of the marketplace or achieve market acceptance 
+delays in our commercial shipments of new products or enhancements may result in client dissatisfaction and a delay or loss of product revenues 
+if we are unable  for technological or other reasons  to develop and introduce new products or enhancements of existing products in a timely manner in response to changing market conditions or client requirements  then our business  operating results and financial condition will be materially adversely affected 
+in addition  we cannot assure you that our existing products  new products or new versions of our existing products will achieve market acceptance 
+in order to provide our customers with integrated product solutions  our future success will also depend in part upon our ability to maintain and enhance relationships with our technology partners 
+a longer than expected sales cycle may affect our revenues and operating results 
+the licensing of our software products is often an enterprise wide decision by prospective customers and generally involves a sales cycle of three to twelve months in order to educate them regarding the use and benefits of our products 
+in addition  the implementation of our products by customers involves a significant commitment of their resources over an extended period of time  and is commonly associated with substantial customer business process reengineering efforts 
+for these and other reasons  our sales and customer implementation cycles are subject to a number of significant delays over which we have little or no control 
+any delay in the sale or customer implementation of a limited number of license transactions could have a material adverse effect on our business and financial condition and cause our operating results to vary significantly from quarter to quarter 
+our operating results are substantially dependent on sales of a small number of products in highly concentrated industries 
+we derived of our initial license revenue from compuset and related compuset option products in our initial license fees from dls and dvs comprised and  respectively  in as a result  factors that may adversely impact the pricing of or demand for compuset and related products  such as competition from other products  negative publicity or obsolescence of the hardware or software environments in which our products run  could have a material adverse effect on our business  operating results and financial condition 
+our financial performance will continue to depend significantly on the successful development  introduction and customer acceptance of new and enhanced versions of our compuset software and related products 
+our revenues are derived from sales to a small number of industries as follows licenses to end users in the insurance and commercial print services industries for accounted for of initial license revenues  licenses to end users in these industries for accounted for of initial license revenues  and licenses to end users in these industries for accounted for of initial license revenues 
+our future success will depend on our ability to continue to successfully market our products in these and other industries 
+we cannot assure you that we will continue to be successful in developing and marketing compuset products and related services 
+our failure to do so would have a material adverse effect on our business  operating results and financial condition 
+we may be exposed to risks associated with international operations 
+our revenues from export sales  including sales through our foreign subsidiary  accounted for the following of our total revenues in  of our total revenues in  and of our total revenues in our wholly owned subsidiary  document sciences europe  markets and supports our products in europe 
+we license our products in europe through value added resellers and to a lesser extent  direct sales 
+our vars are principally xerox affiliates who re market our products 
+revenues generated by this subsidiary were million  million and million in  and  respectively 
+in canada  australia and brazil we distribute our products through xerox canada  ltd  fuji xerox co  ltd 
+and xerox brazil  ltd  respectively 
+revenues generated by these xerox affiliates were million  million and million in  and  respectively 
+in order to successfully expand export sales  we must establish additional foreign operations  hire additional personnel and develop relationships with additional international resellers 
+if we are unable to do so in a timely manner  our growth in international export sales could be limited  and our business  operating results and financial condition could be materially adversely affected 
+in addition  we cannot assure you that we will be able to maintain or increase international market demand for our products 
+additional risks inherent in our international business activities include currency fluctuations  unexpected changes in regulatory requirements  tariffs and other trade barriers  our limited experience in localizing products for foreign countries  lack of acceptance of our localized products in foreign countries  longer accounts receivable payment cycles  difficulties in managing our international operations  potentially adverse tax consequences including restrictions on the repatriation of earnings  and the burdens of complying with a wide variety of foreign laws 
+a portion of our business is conducted in currencies other than the us dollar  primarily the french franc 
+although exchange rate fluctuations have not had a significant impact on us  fluctuations in the value of the currencies in which we conduct our business relative to the us dollar could cause currency transaction gains and losses in future periods 
+we do not currently engage in currency hedging transactions  and we cannot assure you that fluctuations in currency exchange rates in the future will not have a material adverse impact on our international revenues  business  operating results and financial condition 
+our business is dependent on the market for document automation software 
+the market for document automation software is intensely competitive  highly fragmented  underdeveloped and subject to rapid change 
+marketing and sales techniques in the document automation software marketplace  as well as the bases for competition  are not well established 
+we cannot assure you that the market for document automation software will develop or that  if it does develop  organizations will adopt our products 
+we have spent  and intend to continue to spend  significant resources educating potential customers about the benefits of our products 
+however  we cannot assure you that such expenditures will enable our products to achieve further market acceptance  and if the document automation software market fails to develop or develops more slowly than we currently anticipate  our business  operating results and financial condition would be materially adversely affected 
+in addition  the commercial market for document automation of electronic documents designed for use with the internet  intranets and commercial on line services has only recently begun to develop  and the success of our products designed for this market will depend in part on their compatibility with such services 
+it is difficult to predict whether the internet  intranets and commercial on line services will be a viable commercial marketplace or whether the demand for related products and services will increase or decrease in the future 
+since the increased commercial use of the internet  intranets and commercial on line services could require substantial modification and customization of certain of our products and services as well as the introduction of new products and services  we cannot assure you that we will be able to effectively or successfully compete in this market 
+our ability to manage our growth will affect our business 
+we have recently experienced a period of growth in total revenues 
+our ability to compete effectively and to manage future change will require us to continue to improve our financial and management controls  reporting systems and procedures on a timely basis and to expand  train and manage our work force 
+we cannot assure you that we will be able to do so successfully 
+our failure to do so could have a material adverse effect on our business  operating results and financial condition 
+our executive officers and certain key personnel are critical to our business  and these officers and key personnel may not remain with us in the future 
+our future performance depends in significant part upon the continued service of our key technical  sales and senior management personnel  none of whom had signed employment agreements with us as of december  the loss of the services of one or more of our executive officers could have a material adverse effect on our business  operating results and financial condition 
+our future success also depends on our continuing ability to attract and retain highly qualified product development  sales and management personnel 
+competition for such personnel is intense  and there can be no assurance that we will be able to retain our key employees or that we will be able to attract  assimilate or retain other highly qualified product development  sales and managerial personnel in the future 
+our failure to adequately limit our exposure to product liability claims may adversely affect us 
+our license agreements with our customers typically contain provisions designed to limit our exposure to potential product liability claims 
+however  it is possible that the limitation of liability provisions contained in our license agreements may not be effective under the laws of certain jurisdictions 
+although we have not experienced any product liability claims to date  sale and support of our products may entail the risk of such claims in the future 
+a successful product liability claim brought against us or a claim arising as a result of our professional services could have a material adverse effect upon our business  operating results and financial condition 
+our products may suffer from defects or errors 
+software products as complex as those we offer  particularly our new visual compuset professional edition product  may contain undetected defects or errors when first introduced or as new versions are released 
+as a result  we could in the future lose or delay recognition of revenues as a result of software errors or defects 
+in addition  our products are typically intended for use in applications that may be critical to a customer s business 
+as a result  we expect that our customers and potential customers have a greater sensitivity to product defects than the general market for software products 
+although our business has not been adversely affected by any such errors to date  we cannot assure you that  despite our testing and testing by current and potential customers  errors will not be found in our new products or releases 
+if these errors are discovered after the commencement of commercial shipments  it could result in any of the following loss of revenue or delay in market acceptance  diversion of our development resources  damage to our reputation  or increased service and warranty costs 
+if any of these factors occur  it would have a material adverse effect upon our business  operating results and financial condition 
+we may face risks from the euro 
+in january  a new currency called the euro was introduced in certain economic and monetary union  or emu  countries 
+during  all emu countries are expected to be operating with the euro as their single currency 
+uncertainty exists as to the effects the euro will have on the marketplace 
+additionally  all of the final rules and regulations have not yet been defined and finalized by the european commission with regard to the euro 
+we are still assessing the impact the emu formation will have on our internal systems and the sale of our products 
+we expect to take appropriate actions based on the results of such assessment 
+we have not yet determined any potential costs 
+item properties our principal administrative  sales  marketing  training and research and development facilities occupy approximately  square feet in carlsbad  california  pursuant to a lease expiring on february  our subsidiary in france occupies approximately  square feet of office space with a renewable lease expiring on april  in addition  our regional office in milwaukee  wisconsin occupies approximately  square feet of office space pursuant to a lease expiring on march  sales representatives and field technical support personnel operate from their homes 
+item legal proceedings we are not a party  nor is our property subject  to any material pending legal proceedings 
+item submission of matters to a vote of security holders no matters were submitted to a vote of security holders during the fourth quarter of fiscal year executive officers of document sciences the executive officers of document sciences and their ages  as of march   are as follows name age position barton l 
+faber president and chief executive officer john l 
+mcgannon vice president  chief financial officer and secretary peter l 
+bradshaw vice president  development daniel j 
+fregeau vice president  worldwide sales and business development ann kana vice president  professional services john h 
+wilson vice president  finance barton l 
+faber has served as president and chief executive officer since june he has been a member of the board of directors since from to  mr 
+faber served as chairman of the board of directors and chief executive officer of metromail 
+from april to june  he held various positions with rr donnelly 
+prior to joining rr donnelley  he held various positions with mobil oil corporation and ramada europe 
+mr 
+faber currently serves as a member of the board of directors of dataware technologies  inc  geosystems global corporation and xeikon nv john l 
+mcgannon has served as vice president  chief financial officer and secretary since december he has also served as vice president  chief administrative officer and controller since joining document sciences in september from june through august  mr 
+mcgannon served as the manager of financial analysis and planning for simulation sciences  inc  a california based software developer for the oil and chemical engineering industries 
+mr 
+mcgannon worked for chevron corporation from to in a variety of finance and accounting positions 
+peter l 
+bradshaw has served as vice president of development since march prior to joining document sciences  mr 
+bradshaw was manager of the application software team at xerox from to  where he was responsible for integrating high volume printers with application software 
+from to  mr 
+bradshaw worked in xerox workstation business unit where he managed the development team responsible for the graphical user interface for the workstation 
+from to  mr 
+bradshaw was at bell telephone laboratories in system development 
+daniel j 
+fregeau has served as vice president of worldwide sales and business development since from to  he served as vice president  business development  from to  he served as vice president  marketing and from to  he served as vice president  sales 
+prior to joining document sciences  mr 
+fregeau was marketing manager for the networking division of sears business centers  san diego  from to mr 
+fregeau was a founder and principal of microage in san diego from to from to  mr 
+fregeau held several positions with xerox corporation s electronic publishing business unit including manager of systems engineering and integration  technical program manager and project manager 
+while at xerox  mr 
+fregeau designed and directed the development of several publishing products and was a key contributor to the launch of the xics now compuset product in the us and canada 
+ann kana has served as vice president of professional services since july she joined document sciences in may and previously served as director of project management in professional services 
+from to  ms 
+kana held various management positions in business planning  product development  marketing and finance at sabre travel information network  a division of the sabre group 
+ms 
+kana s past positions include seven years with andersen consulting  serving as a manager in their financial and commercial services division from to ms 
+kana holds a ba degree in managerial studies from rice university and a ms in accounting from texas a m university 
+john h 
+wilson has served as vice president of finance since august between and  mr 
+wilson served as an interim senior financial officer for several software and electronic industry companies in san diego  california  including document sciences from may to august mr 
+wilson s previous experience includes senior financial and general management positions in the retail and healthcare industries and service with price waterhouse coopers  llp 
+mr 
+wilson is a certified public accountant in california and holds a master s degree in business from woodbury university in los angeles 
+executive officers are appointed by the board of directors and serve at the discretion of the board 
+there are no family relationships among any directors or executive officers of document sciences 
+part ii item market for registrant s common equity and related stockholder matters our common stock is traded on the nasdaq national market under the symbol docx 
+the following table sets forth the range of high and low closing prices on the national market of the common stock for the periods indicated  as reported by nasdaq 
+such quotations represent inter dealer prices without retail markup  markdown or commission and may not necessarily represent actual transactions 
+high low fiscal first quarter ended march  second quarter ended june  third quarter ended september  fourth quarter ended december  fiscal first quarter ended march  second quarter ended june  third quarter ended september  fourth quarter ended december  we had record holders as of december  there were no sales of unregistered stock in item selected financial data the following table presents selected financial data of document sciences corporation 
+this historical data should be read in conjunction with the consolidated financial statements and the related notes thereto in item and management s discussion and analysis of financial condition and results of operations in item years ended december  in thousands  except per share data statement of income net revenues      income loss from operations     net income loss     net income loss per share 
+
+
+
+
+shares used in per share calculations      balance sheet working capital      total assets      capital lease obligations  less current portion stockholders equity     item management s discussion and analysis of financial condition and results of operations in addition to historical information  this form k contains forward looking statements that involve risks and uncertainties 
+our actual results could differ materially from those discussed herein 
+factors that could cause or contribute to such differences include  but are not limited to  those discussed herein as well as those discussed in business risk factors on pages through readers are cautioned not to place undue reliance on these forward looking statements  and we undertake no obligation to publicly release the results of any revision to these forward looking statements which may be made to reflect events or circumstances after the date hereof or to reflect the occurrence of unanticipated events 
+overview document sciences corporation develops  markets and supports a family of document automation software used in high volume electronic publishing applications 
+we were incorporated in delaware in october as a wholly owned subsidiary of xerox corporation 
+following our initial public offering of stock in september  xerox ownership was reduced to approximately 
+results of operations for the years ended december   and revenues total revenues were million  million and million in  and  respectively  representing increases of from to and from to our revenues are divided into three categories based upon the sources from which they are derived initial license fees  annual renewal license and support fees  and services and other revenues 
+initial license fees are comprised of license fees for the first year of use of our products 
+annual renewal license and support fees are comprised of license fees for the continued use and support of our licensed products 
+services and other revenues are comprised of fees for consulting  application development and training services performed by us as well as fees received from xerox in connection with the sale of certain xerox printer products 
+we recognize revenue in accordance with aicpa statement of position sop  software revenue recognition 
+initial license fees are recognized when a contract exists  the fee is fixed or determinable  software delivery has occurred and collection of the receivable is deemed probable 
+the portion of the initial license fee representing the software support for the first year is deferred and recognized ratably over the contract period 
+annual renewal license and support fees are recognized ratably over the contract period 
+revenues from commissions paid by xerox in connection with the sale of xerox printer products are recognized upon installation of the printer products 
+revenues generated from consulting services are recognized as the related services are performed 
+however  when such consulting services are deemed to be essential to the functionality of the delivered software product  revenue from the entire arrangement is recognized in accordance with sop  accounting for performance of construction type and certain production type contracts  and accounting research bulletin arb no 
+ long term construction type contracts 
+we sell our products principally through our direct sales force domestically  and internationally through distributors and value added resellers  or vars 
+revenues from export sales and sales through our foreign subsidiary were million  million and million in  and  respectively  representing an increase of from to and a decrease of from to revenue from export sales were  and of total revenues in  and  respectively 
+the decrease from to is primarily the result of decreased activity associated with an internal realignment of our foreign subsidiary 
+until september   we had a strategic marketing alliance with xerox under which both parties agreed to pay each other fees on referrals that lead to the successful sale or licensing of each other s products 
+our revenues from this strategic marketing alliance were   and  in  and  respectively 
+these commissions were  and of total revenues in  and  respectively 
+commissions paid relating to referrals from xerox were  and in  and  respectively 
+we have entered into distributorship agreements with various xerox foreign affiliates to remarket our products internationally 
+our revenues from these agreements were million  million and million in  and  respectively 
+initial license fees 
+initial license fees were million  million and million in  and  respectively  representing a decrease of from to and an increase of from to the increase in was mainly due to increased sales by our direct sales force in the united states 
+the decrease in was caused by greater dependence on solution sales and the adoption of sop  software revenue recognition 
+this sop requires deferring recognition of some revenues  depending on the nature and complexity of certain transactions 
+initial license revenues were  and of total revenues in  and  respectively 
+annual renewal license and support fees 
+annual renewal license fees were million  million and million in  and  respectively  representing increases of from to and from to these increases were principally due to an increase in the installed base of users of our software products 
+annual license fees were  and of total revenues in  and  respectively 
+services and other 
+revenues from services and other were million  million and million in  and  respectively  representing an increase of from to and a decrease of from to the decrease in was principally due to our latest software versions not needing as much consulting services in order to be used 
+the increase in was principally due to the increased number of new customer licenses generating increased demand for services as well as the increasing scope of professional services offered 
+revenues from services and other were  and of total revenues in  and  respectively 
+cost of revenues and operating expenses cost of initial license fees 
+costs of initial license fees were  million and million in  and  respectively  representing  and of initial license fees in  and  respectively 
+cost of initial license fees includes documentation  reproduction costs  product packaging  packaging design  product media  employment costs for installation and distribution personnel  the cost of third party software and amortization of previously capitalized software development costs 
+the decrease as a percentage of revenue in from was primarily due to savings realized from our restructuring 
+the increase as a percentage of revenue in from was primarily the result of increased payments for third party software integrated into our visual compuset products and an increase in the amount of capitalized software resulting from the rd quarter release of visual compuset and dpt 
+cost of annual renewal license and support fees 
+costs of annual renewal license fees consist principally of the employment related costs for our technical support staff 
+costs of annual license fees were   and  in  and  respectively  representing  and of annual license fees in  and  respectively 
+while the relative costs of servicing our customer base are decreasing  the increase in absolute dollars is attributable to additional technical support personnel necessary to support our increasing customer base 
+cost of services and other 
+costs of services and other were million  million and million in  and  respectively  representing  and of services and other revenue in  and  respectively 
+costs of services and other consist principally of the employment related costs of our consulting and training staff 
+the decrease in was primarily due to savings realized from our restructuring 
+the increase in was mainly due to the addition of new staff to perform our professional services 
+research and development 
+research and development expenses were million  million and million in  and  respectively  representing increases of from to and from to research and development expenses consist primarily of the employment related costs of personnel associated with developing new products  enhancing existing products  testing software products and developing product documentation 
+as a percentage of total revenue  research and development expenses were  and in  and  respectively 
+we anticipate that we will continue to direct significant resources to the development and enhancement of our products 
+we expense all costs for research and development of new products until technological feasibility has been assured 
+thereafter  costs of software development are capitalized until general release of the product 
+the capitalized costs of software development are amortized using the greater of the amount computed using the ratio of current product revenues to estimated total product revenues or the straight line method over the remaining estimated economic life of the product 
+we capitalized software development costs of   and  in  and  respectively 
+the amount of software development costs to be capitalized in the future may change if the time between the establishment of technological feasibility of a product and its general release changes 
+selling and marketing 
+selling and marketing expenses were million  million and million in  and  respectively  representing increases of from to and a decrease of from to selling and marketing expenses consist primarily of salaries  commissions  marketing programs and related costs for pre and post sales activity 
+the decrease in was primarily the result of savings realized from our restructuring and the aligning of our commission structure with our recognition of revenue 
+the increase in was the result of personnel added in to increase the geographic coverage of our selling organization 
+selling and marketing expenses were  and of total revenues in  and  respectively 
+general and administrative 
+general and administrative expenses consist of employment related costs for finance  administration and human resources and general corporate management expenses 
+general and administrative expenses were million  million and million in  and  respectively  representing  and of total revenues in  and  respectively 
+the decrease in was the result of savings realized from our restructuring 
+the increase in was the result of increased provisions for bad debts  a one time charge for severance and recruiting costs  increased costs of outside consultants and professional fees as well as planned growth in the finance and administrative functions 
+restructuring charges 
+in connection with a restructuring plan adopted in the fourth quarter of fiscal  we recorded a million restructuring charge associated with our actions to reduce our overall cost structure that had become inconsistent with our revenue base 
+this charge included the termination of employees  the write off of impaired assets and a reduction in our leased facilities 
+interest  net 
+interest  net is composed of interest income from cash and cash equivalents and short term investments offset by finance charges related to equipment leases 
+interest  net was million   and  in  and  respectively 
+the decrease in is from lower cash balances due to payments made toward the restructuring charges 
+the decrease in was due to declining cash balances as a result of operating losses 
+provision for income taxes 
+effective tax rates were approximately  and in  and  respectively 
+the and rates differs from the federal statutory rate primarily due to valuation allowances offsetting deferred tax assets 
+factors that may affect future operating results our total revenues and operating results can vary  sometimes substantially  from quarter to quarter and are expected to vary significantly in the future 
+our revenues and operating results are difficult to forecast 
+future results will depend upon many factors  including the demand for our products  the level of product and price competition  the length of our sales cycle  the size and timing of individual license transactions  the delay or deferral of customer implementations  the budget cycles of our customers  our success in expanding our direct sales force and indirect distribution channels  the timing of new product introductions and product enhancements by us and our competitors  the mix of products and services sold  levels of international sales  activities of and acquisitions by competitors  the timing of new hires  changes in foreign currency exchange rates  our ability to develop and market new products  controlling costs and general domestic and international economic conditions 
+in addition  our sales generally reflect a relatively high amount of revenue per order  and  therefore  the loss or delay of individual orders could have a significant impact on our revenues and quarterly operating results 
+in addition  a significant amount of our revenues occur predominantly in the third month of each fiscal quarter and tend to be concentrated in the latter half of that third month 
+our software products generally are shipped as orders are received 
+as a result  initial license fees in any quarter are substantially dependent on orders booked and shipped in that quarter 
+the timing of receipt of initial license fees is difficult to predict because of the length of our sales cycle  typically three to twelve months from the initial contact 
+because our operating expenses are based on anticipated revenue trends and because a high percentage of our expenses are relatively fixed  a delay in the recognition of revenue from a limited number of initial license transactions could cause significant variations in operating results from quarter to quarter and could result in losses 
+to the extent such expenses precede  or are not subsequently followed by  increased revenues  our operating results could be materially adversely affected 
+due to the foregoing factors  revenues and operating results for any quarter are subject to significant variation  and we believe that period to period comparisons are not necessarily meaningful and should not be relied upon as indications of future performance 
+liquidity and capital resources at december   we had million in cash  cash equivalents and short term investments 
+this is a decrease of million from december  this decrease was mainly caused by capital investments in equipment and software and a decrease in liabilities due to the paying of expenses that resulted from our restructuring 
+we believe that our existing cash balances and anticipated cash flows from operations will be sufficient to meet our anticipated cash needs for working capital and capital expenditures at least through the next twelve months 
+a portion of our cash could be used to acquire or invest in complementary businesses or products or obtain the right to use complementary technologies 
+we are currently evaluating  in our ordinary course of business  potential investments such as businesses  products or technologies 
+we have no current understandings  commitments or agreements with respect to any acquisition of other businesses  products or technologies 
+recently enacted accounting standards in march  the american institute of certified public accountants issued statement of position sop  accounting for costs of computer software developed or obtained for internal use 
+this standard requires companies to capitalize qualifying software costs that are incurred during the application development stage and amortize them over the software s estimated useful life 
+we adopted sop effective january  with no material effect on the financial statements 
+in june  the financial accounting standards board  or fasb  issued sfas no 
+ accounting for derivative instruments and hedging activities  which establishes accounting and reporting standards for derivative instruments and hedging activities 
+the statement will require the recognition of all derivatives on our balance sheet at fair value 
+the fasb has subsequently delayed implementation of the standard for the financial years beginning after june  we expect to adopt the new statement effective january  the impact on our financial statements is not expected to be material 
+in december  the securities and exchange commission staff released staff accounting bulletin sab no 
+ revenue recognition in financial statements 
+the adoption of sab no 
+did not have any impact on our revenue recognition 
+year compliance we completed all year compliance work by december  and have experienced no significant problems in the costs incurred to complete this work were immaterial 
+we see no continued exposure to the year problem 
+euro conversion in january  a new currency called the euro was introduced in certain economic and monetary union  or emu  countries 
+during  all emu countries are expected to be operating with the euro as their single currency 
+uncertainty exists as to the effects the euro will have on the marketplace 
+additionally  all of the final rules and regulations have not yet been defined and finalized by the european commission with regard to the euro 
+we are still assessing the impact the emu formation will have on our internal systems and the sale of our products 
+we expect to take appropriate actions based on the results of such assessment 
+we have not yet determined any potential costs 
+item a 
+quantitative and qualitative disclosures about market risk foreign currency exchange risk our earnings and cash flows are subject to fluctuations due to changes in foreign currency exchange rates 
+to a certain extent  foreign currency exchange rate movements also affect our competitive position  as exchange rate changes may affect business practices and or pricing strategies on non us based competitors 
+the primary foreign currency risk exposure is related to us dollar to french franc and us dollar to euro conversions 
+considering both the anticipated cash flows from firm sales commitments and anticipated sales for the next quarter and the foreign currency derivative instruments in place at year end  a hypothetical weakening of the us dollar relative to all other currencies would not materially adversely affect expected first quarter earnings or cash flows 
+this analysis is dependent on actual export sales during the next quarter occurring within of budgeted forecasts 
+the effect of the hypothetical change in exchange rates ignores the affect this movement may have on other variables including competitive risk 
+if it were possible to quantify this competitive impact  the results could well be different than the sensitivity effects described above 
+in addition  it is unlikely that all currencies would uniformly strengthen or weaken relative to the us dollar 
+in reality  some currencies may weaken while others may strengthen 
+each month we review our position for expected currency exchange rate movements 
+interest rate risk we are exposed to changes in interest rates primarily from our short term available for sale investments 
+under our current policies  we do not use interest rate derivative instruments to manage exposure to interest rate changes 
+a hypothetical basis point adverse move in interest rates along the entire interest rate yield curve would not materially affect the fair value of our interest sensitive financial instruments at december  declines in interest rates over time will  however  reduce our interest income 
+

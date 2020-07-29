@@ -1,0 +1,496 @@
+item management s discussion and analysis of financial condition and results of operations  and  in particular  risk factors 
+the company disclaims any obligation to update information in any forward looking statement 
+item business overview exar corporation and its subsidiaries exar or the company designs  develops and markets high performance  high bandwidth physical interface and access control solutions for use in the worldwide communications infrastructure 
+leveraging its industry proven analog and digital design expertise  system level knowledge and standard complementary metal oxide semiconductors cmos process technologies  exar provides original equipment manufacturers oems with innovative  highly integrated circuits ics that facilitate the aggregation and transport of signals in access  metro and wide area networks 
+the company s physical layer silicon solutions address transmission standards such as t e carrier  atm and sonet sdh 
+during the year  the company expanded its communications portfolio by offering a family of clock distribution devices  which leverage technology common with its existing network and transmission products 
+the clock distribution devices are targeted at wireless base stations  network switches and routers 
+the company also provides one of the industry s most comprehensive families of serial communications solutions 
+within this product offering  the low voltage and multi channel universal asynchronous receiver transmitters uarts are particularly well suited to increase data transfer efficiency for various industrial  telecommunications and computer server applications 
+in addition  the company markets ic products that address select applications for the video and imaging markets 
+exar s common stock trades on the nasdaq stock market under the symbol exar and is included in the s p smallcap index 
+the company s oem customers include  among others  alcatel  cisco systems inc cisco  delphi corporation delphi  digi international  inc 
+digi international  hewlett packard company hewlett packard  huawei technologies company  ltd 
+huawei  logitech international sa logitech  lucent technologies  inc lucent  mitsubishi electronic corporation of japan mitsubishi electronics  nec corporation nec  nokia corporation nokia  plantronics  inc plantronics and tellabs  inc tellabs 
+for the fiscal year ended march   no one oem customer represented or more of net sales 
+the company markets its products in north and south america through independent  sales representatives and independent  non exclusive distributors  as well as the company s own direct sales organization 
+additionally  the 
+table of contents company is represented in europe and the asia pacific region by its wholly owned foreign subsidiaries  independent sales representatives and independent  non exclusive distributors 
+the company s international sales represented  and of net sales for the fiscal years ended march   and  respectively 
+industry background communications technology has evolved from simple analog voice signals transmitted over networks of copper telephone lines to complex analog and digital voice  video and data signals transmitted over hybrid networks of media  such as copper  coaxial and fiber optic cables 
+this evolution has been driven by large increases in the number of users and the complexity and variety of the data transmitted over networks resulting from the substantial growth in the internet and its transformation from a text based medium to a multimedia platform containing images  video and sound  the growth of wireless communications  and the increased demand for remote network access and higher speed  higher bandwidth communication between local area networks lans  metropolitan area networks mans and wide area networks wans 
+the majority of installed communications systems were designed to transmit only voice communication  and  therefore  are inadequate for the high bandwidth transmission of both voice and data 
+access to the public network is typically based on asynchronous technologies  such as t e carrier over copper wire 
+the demand for greater bandwidth is driving a migration from lower speed t e to higher speed t e transmission rates 
+the t e standard permits the transmission of data at mbps mbps  and the t e standard permits the transmission of data at mbps mbps 
+the backbone of the public network is built on an optical fiber transmission medium that employs synchronous technologies such as sonet sdh 
+similar to the utilization of faster transmission rates over copper wire  sonet sdh protocols such as oc mbps are being upgraded to oc mbps  oc gbps and oc gbps to increase the bandwidth over a single optical fiber 
+the market dynamics of the communications industry have changed significantly since many carriers that spent billions of dollars building out their networks in and prior years were not successful in executing their business model  and  consequently  were sold or declared bankruptcy 
+incumbent telephone companies such as at t corp  sprint corporation and mci  inc and regional bell operating companies such as bellsouth corporation  verizon communications inc and sbc communications inc have substantially reduced their capital expenditures in line with current revenues 
+this dynamic severely impacted exar s customers during the period of calendar years through many oems underwent extensive restructuring to eliminate excess inventory and to reduce expenses by significantly downsizing their organizations 
+during calendar  the company noted increased development activity within the telecommunications industry oems 
+at the same time  the company s oem customers are and will continue to come under tremendous pressure to develop new products for access and man markets that will enable carriers to leverage their current network infrastructure 
+to address these evolving requirements of the communications industry  oems must develop and introduce increasingly sophisticated systems with fewer engineering resources 
+to achieve the performance and functionality required of these systems  communications oems are using increasingly complex communications ics  which now account for a significant portion of the value added proprietary content of these systems 
+as a result of new equipment introductions  coupled with the reduction in their technical staff  the proliferation of transmission standards and the difficulty of designing and producing communications ics  equipment suppliers are increasingly outsourcing the design and production of the ics incorporated into their systems 
+
+table of contents the key ics contained in a typical communications system include physical interface  access control  clocks  network processor  traffic manager and switch fabric devices 
+the physical interface device consists of a transmitter and receiver that  when integrated  is called a transceiver 
+transceivers interface with the physical transmission media  such as copper wire or optical fiber 
+most of these high speed  mixed signal ics convert parallel digital signals into a single analog bit stream that is up to times faster than the original signal 
+transceivers therefore serve as a bridge between analog transmission media and the digital devices that process data 
+access control circuits are digital ics that format  or frame  the data  perform error checking and in some applications aggregate signals by mapping multiple lower speed data streams to a single higher speed stream 
+the traffic manager manages the transfer of data between the network processor and the switch fabric  which work together to shape  route and control the data 
+because physical interface and access control ics interface with the transmission media and are critical to increasing bandwidth  these ics must offer high speed and robust performance 
+therefore  communications equipment oems seek ic suppliers that possess extensive analog and digital expertise to provide high speed  mixed signal solutions to bridge the analog physical world and the digital computing environment 
+this must be coupled with system level expertise so that a supplier can quickly bring to market high performance  highly reliable ics with optimal feature sets 
+the exar solution exar designs  develops and markets high performance  high bandwidth physical interface and access control solutions for use in the worldwide communications infrastructure 
+the company s analog and digital design expertise  combined with its systems understanding  enables the company to provide physical interface and access control silicon solutions that address transmission standards such as t e carrier  atm and sonet sdh 
+the company also offers within its communications portfolio clock distribution devices  targeted at high performance system boards  that offer flexibility to board designers by providing them with precision  low jitter  programmable skew  zero delay and fan out buffers 
+the company also provides one of the industry s most comprehensive families of serial communications solutions 
+exar believes its products offer its customers the following benefits increased bandwidth through the integration of multiple channels on a single device  reduced system noise jitter to improve data integrity  seamless integration  reduced overall system cost through the integration of multiple functions on a single device  and accelerated time to market by allowing customers to focus on core competencies and outsource standards based solutions 
+key elements of the company s solution include leading analog and mixed signal design expertise 
+exar has over years of proven technical competency in developing analog and mixed signal ics 
+as a result  the company has developed a proven history of technical competence in these areas and a library of design elements 
+for example  the company believes that it has particularly strong expertise in the design of high speed  low jitter phase locked loops  which are key elements in its mixed signal transceiver  jitter attenuator  data aggregation mapper products and clock devices 
+as a result  exar can provide its customers with solutions that typically exceed standard specifications and allow them flexibility in designing other system elements 
+broad product offerings 
+exar offers a variety of physical interface and access control products based upon t e  t e  atm and sonet sdh transmission standards 
+exar s broad portfolio of multiple channel and multi function products for each transmission standard enables its customers to minimize overall system cost in multi port applications 
+
+table of contents comprehensive solutions to enhance system integration 
+the combination of exar s design and system level expertise allows it to provide a comprehensive solution that encompasses hardware  software and applications support 
+exar believes that  by using its solutions  oems can efficiently integrate the company s devices into their systems  better leverage their development resources and reduce their time to market 
+compelling price and performance solutions 
+the company uses its systems expertise and its analog  digital and mixed signal design techniques to architect high performance products based on standard cmos process technologies 
+exar believes that these cmos processes are proven  stable  predictable and able to meet its customers speed  power and performance requirements at a competitive price point 
+strategy exar strives to be a leading provider of physical layer high performance  high bandwidth ic solutions for use in the worldwide communications infrastructure 
+the company also designs  develops and markets ic products that address the needs of the serial communications market 
+to achieve its business objectives  exar employs the following strategies focus on growing market share within the communications markets 
+exar targets communications markets  including t e carrier  atm and sonet sdh 
+the company has built substantial expertise in the areas of analog and digital design  systems architecture and applications support 
+exar believes that the integration of these capabilities enables the company to develop solutions addressing the high bandwidth physical layer requirements of communications systems oems 
+the company s broad product offerings support differentiated features that the company believes will enable it to increase its market share 
+leverage analog and mixed signal design expertise to provide integrated system level solutions 
+utilizing its strong analog and mixed signal design expertise  the company integrates mixed signal physical interface devices with digital access control devices 
+the company offers products that integrate transceivers with jitter attenuators and framers atm unis on a single ic 
+the company s data aggregation devices leverage its t e carrier and sonet sdh expertise  mapping multiple t data streams into a sonet sdh stream 
+these configurations enable oems to use less board space and reduce their overall system cost 
+expand the company s revenue content per system 
+exar s analog and mixed signal design expertise have enabled the company to build what it believes to be a technological lead and a strong market position in t e transceivers  t e transceivers and framer and sonet aggregation 
+the company intends to leverage this lead and its established customer relationships to capture design wins for its physical layer products  thereby increasing the company s overall revenue content per system 
+strengthen and expand strategic oem relationships 
+exar s oem customers include alcatel  cisco  digi international  hewlett packard  huawei  lucent  nec  nokia and tellabs 
+to promote the early adoption of its solutions  the company actively seeks collaborative relationships with strategic oems during product development 
+the company believes that oems recognize the value of exar s early involvement because designing their system products in parallel with the company s development can accelerate time to market for their end products 
+in addition  exar believes that collaborative relationships help the company to obtain early design wins and to reduce the market acceptance risk of its new products 
+leverage broad product portfolio to accelerate communications product development 
+exar believes it has developed a strong presence in the serial communications market  where the company has leading industry customers and proven technological capabilities 
+the company s design expertise has enabled it to offer a diverse portfolio of both industry standard and proprietary serial communications products 
+in addition  the company further expanded its communications portfolio by offering a family of clock distribution devices  which leverage technology common with its existing network and transmission products 
+use standard cmos process technologies to provide compelling price performance solutions 
+exar designs its products to be manufactured using standard cmos processes 
+the company believes that these 
+table of contents processes are proven  stable and predictable and benefit from the extensive semiconductor manufacturing infrastructure devoted to cmos processes 
+therefore  the company believes that it can achieve a higher level of performance at a lower cost than competitors products 
+leverage fabless semiconductor model 
+exar has long standing relationships with world class third party assembly  test and wafer foundries to manufacture the company s ics 
+the company s fabless approach allows it to avoid substantial capital spending  obtain competitive pricing  reduce time to market  reduce technology and product risks  and facilitate the migration of the company s products to new process technologies  which reduce costs and optimize performance 
+by leveraging the fabless model  exar can focus on its core competencies of ic design and product development 
+products exar designs  develops and markets high performance  high bandwidth physical interface  access control and clock solutions for use in the worldwide communications infrastructure 
+the company s current ic products for the communications market are designed to respond to the growing demand for cost effective line card solutions based on transmission standards such as t e carrier  atm and sonet sdh 
+the company also designs  develops and markets ic products that address the needs of the serial communications market 
+exar uses its design expertise to develop products ranging from application specific standard product assps for industry wide applications  to custom solutions for specific customer applications 
+communications exar s products for t e carrier  atm and sonet sdh applications include high speed analog  digital and mixed signal physical interface and access control ics 
+the physical interface ic consists of a transmitter and receiver that  when integrated  is called a transceiver 
+transceivers interface with the physical transmission media 
+most of these high speed  mixed signal ics convert parallel digital inputs into a single analog bit stream that is up to times faster than the original signal 
+access control circuits are digital circuits that format  or frame  the data  perform error checking and in some applications aggregate signals by mapping multiple lower speed data streams to a single higher speed stream 
+the figure below illustrates where the company s products are employed within networking equipment 
+types of communications ics used in networking equipment logo 
+table of contents exar s communications products include transceivers  also known as line interface units lius  transmitters and receivers  transceivers  phys  jitter attenuators  framers  clocks  atm unis and data aggregation mappers 
+these products are used in networking equipment such as sonet sdh add drop multiplexers adms  pbx  central office switches  digital cross connects  multi service provisioning platforms  routers and dslams 
+the company continues to enhance its t e physical interface solutions with an integrated single chip transceiver and offering one  two  three  four  six and twelve channel versions  with or without integrated jitter attenuation  that achieve higher performance levels  while requiring less board space and lower overall power in multi port applications 
+extending its jitter attenuation capabilities  exar incorporates desynchronization in its transceivers and data aggregation mappers to solve complex timing issues associated with mapping demapping from sonet sdh synchronous to t e asynchronous environments 
+exar s data aggregation mapper solutions leverage the company s expertise in t e carrier with sonet sdh enabling the company to provide unique solutions to the sonet sdh market place 
+in addition to integrating sonet phy capability into its data aggregation mappers  the company offers an oc phy with integrated forward error correction  or fec 
+the company plans to complement its products with oc data aggregation solutions currently under development 
+exar s access control products include framers and atm unis  in addition to its data aggregation mappers 
+during the year  the company expanded its communications portfolio by offering a family of clock distribution devices  which leverage technology common with its existing network and transmission products 
+the clock distribution devices  targeted at high performance system boards  offer flexibility to board designers by providing them with precision  low jitter  programmable skew  zero delay and fan out buffers 
+in addition  these clock distribution devices enable board designers to seamlessly migrate the board development from v to v without a major redesign effort 
+the result is lower system cost and improved time to market 
+the clock distribution devices are targeted at wireless base stations  network switches and routers 
+the company also supplies a family of v 
+transceiver products used for data transmission  primarily in networking equipment such as routers and bridges 
+
+table of contents the following table describes some of the company s key communications products product description applications oc to x t e sts mapper oc to x t e sts mapper sonet sdh add drop multiplexers  atm switches  routers and digital cross connects oc phy transceiver oc framer sonet sdh add drop multiplexers  atm switches  routers and digital cross connects t e sts      channel transceivers t e sts channel receiver and transmitter sonet sdh multiplexers and digital cross connects t e sts      channel transceivers jitter attenuators desync sonet sdh multiplexers and digital cross connects t e   channel jitter attenuators multiplexers  switches and digital cross connects t e      channel framers multiplexers and digital cross connects t e   channel atm unis atm switches routers hubs t e channel integrated atm uni liu combo dslams  routers  internet access equipment  frame relay and atm switches routers hubs t e    channel sh and lh sh transceivers routers  internet access equipment  frame relay and atm switches routers hubs t e    channel framers liu combo routers  internet access equipment  frame relay and atm switches routers hubs t e channel framer routers  internet access equipment  frame relay and atm switches routers hubs e multi channel transceivers multiplexers  frame relay and atm switches routers hubs t e clock adaptors frame relay access devices and remote access servers bits clock extractor frame relay devices  dslams  multiplexers  digital cross connects clock multipliers network and telecommunication equipment multi protocol serial interface multiplexers  access equipment and routers v 
+serial interface multiplexers  access equipment and routers the company expects to introduce a number of new communications ics in the fiscal year ending march  to provide an expanded line of t e carrier products  sonet sdh products  as well as clock distribution devices 
+the t e carrier products are expected to include multi channel  multi function ics that integrate transceivers  jitter attenuators  framers and atm unis 
+sonet sdh product introductions are expected to focus on data aggregation  combining oc mbps capability with oc mbps or oc gbps functions 
+the clock distribution devices will be expanded to include programmable skew clocks  jitter attenuation and failsafe clocks an intelligent clock switch 
+serial communications uarts convert data streams from parallel to serial and serial to parallel  enabling a serial data stream to communicate with a central processing unit  or cpu 
+exar sells its uart products to the remote access  data collection  industrial automation  point of sale and handheld mobile markets 
+many of these products include high performance features  such as automated flow control and large first in first out  or fifo  buffers 
+the company has designed highly integrated quad four channel and octal eight channel uarts with fifo circuitry  which the company believes are the de facto industry standard for multi channel fifo uarts used in 
+table of contents multi port applications 
+during the past fiscal year  exar introduced several devices in a qfn package  which provide the smallest form factor in the industry for implementing a serial port on a board 
+the following table describes some of the company s key serial communications products product description applications   channel uart with byte fifo process control systems   channel pci uart with byte fifo   channel universal i o pci uart pci interface for network control management   channel uart with byte fifo network management  remote access servers and point of sale systems  personal digital assistants and gps   channel uart with byte fifo hub management  high speed modems  pc i o cards  process control systems  switches and serial port equipment channel uart with byte fifo process control systems  switches and serial port equipment channel uart serial port equipment the company expects to expand its family of pci products during fiscal year video and imaging exar supplies high performance analog to digital converters  or adcs  and integrated analog front ends  or afes  for products such as digital copiers and scanners  digital still cameras  or dscs  and multifunctional peripherals  or mfps  which incorporate scanning  faxing  copying and printing functions in a single integrated system 
+the company uses advanced design techniques and process technologies to integrate low power converter architectures with surrounding analog functions  thereby reducing system costs 
+the following table describes some of the company s key video and imaging products product description applications bit or msps afes high speed scanners  dscs  camcorders and video conferencing bit  or msps afes dscs  camcorders and video conferencing channel  or bit or msps afes scanners  mfps and digital color copiers bit or msps adcs high end dscs and broadcast video bit msps adcs video boards  scanners and battery powered devices  or bit serial input dacs digital to analog converter voltage control and power control for wireless equipment sales and customers the company markets its products in north and south america through independent sales representatives and two independent and non exclusive primary distributors  as well as the company s own direct sales organization 
+the company currently has domestic support offices in or near atlanta  boston  chicago  dallas  los angeles and fremont  california  and international support offices in kawasaki  japan  shanghai  china and valauris  france 
+additionally  the company is represented in europe and the asia pacific region by its wholly owned foreign subsidiaries  along with independent sales representatives and other independent  non exclusive distributors 
+
+table of contents the company s oem customers include the following  among others communications serial and other communications video and imaging alcatel cisco hewlett packard cisco delphi logitech huawei digi international lucent plantronics nec huawei nokia mitsubishi electronics tellabs hewlett packard represented and of the company s net sales for the fiscal years ended march  and  respectively 
+for the fiscal years ended march  and  no other oem customer accounted for or more of the company s net sales 
+the sharp decline in video  imaging and other products sales  as anticipated and previously announced  reflected a decision by the company s primary customer in imaging sales  hewlett packard  to transition some of its production to a competing supplier 
+the company sells its products to distributors and oems throughout the world 
+for the year ended march   worldwide sales through the company s two primary distributors for subsequent resale to oems or their subcontract manufacturers accounted for of net sales 
+future electronics future was and continues to be the company s largest primary distributor 
+future  on a worldwide basis  represented and of net sales in fiscal years and  respectively 
+the company s second largest primary distributor  nu horizons electronics corp 
+nu horizons  accounted for and of net sales in fiscal years and  respectively 
+manufacturing exar outsources all of its fabrication and assembly  as well as the majority of its testing operations 
+this fabless manufacturing model allows the company to focus on its core competencies of product design and development 
+the majority of the company s current products are implemented in standard cmos 
+the company uses cmos manufacturing processes to take advantage of that technology s lower power consumption  cost effectiveness  foundry availability and ever increasing speed 
+currently  all of the company s new product development is being implemented in cmos 
+chartered semiconductor manufacturing chartered manufactures all of the company s cmos products 
+the company does not have long term supply agreements with chartered 
+during the current fiscal year  chartered transferred production from its foundry  which utilized six inch wafer manufacturing technologies  to a facility that is based on eight inch wafer manufacturing technologies 
+the company has completed the transfer and qualification of the majority of its existing products to the new foundry and is in the process of qualifying the remaining products 
+this transfer and qualification entails certain risks and uncertainties related to the re qualification of ic wafers and related costs 
+see management s discussion and analysis of financial condition and results of operations risk factors 
+most semiconductor wafers are shipped to the company s subcontractors in asia for wafer test and assembly  where they are cut into individual die and packaged 
+independent contractors in hong kong  indonesia and singapore perform most of the company s assembly work 
+following assembly  final test and quality assurance are performed either at the company s fremont  california facility or at its subcontractors facilities in asia 
+the combination of various functions makes the test process for analog and mixed signal devices particularly difficult 
+test operations require the programming  maintenance and use of sophisticated computer based test systems and complex automatic handling systems 
+
+table of contents research and development exar believes that the continued introduction of new products in its core markets is essential to its growth 
+exar s research and development is focused on developing high performance analog  digital and mixed signal solutions addressing the high bandwidth requirements of communications systems oems 
+exar continues to make significant investments in advanced design tools and high performance standard cell libraries 
+by utilizing these tools  the company pursues the development of design methodologies that are optimized for reducing design cycle time and increasing chances of first time success 
+in order to support high pin count devices  the company continues to develop high performance packages for its new products in collaboration with packaging suppliers 
+as of march   the company s research and development staff consisted of employees  of whom hold advanced degrees 
+competition the semiconductor industry is intensely competitive and is characterized by rapid technological change and a history of price reductions as production efficiencies are achieved in successive generations of products 
+although the market for analog and mixed signal integrated circuits is generally characterized by longer product life cycles and less dramatic price reductions than the market for digital integrated circuits  the company faces substantial competition in each market in which it participates 
+competition in the company s markets is based principally on technical innovation  product features  timely introduction of new products  quality and reliability  performance  price  technical support and service 
+the company believes that it competes favorably in all of these areas 
+because the ic markets are highly fragmented  the company generally encounters different competitors in its various market areas 
+competitors with respect to the company s communications products include applied micro circuits corporation  integrated device technology  inc  mindspeed technologies  inc  pmc sierra  inc  transwitch corporation and vitesse semiconductor corporation 
+competitors in the company s serial communications and video and imaging markets include royal philips electronics  texas instruments incorporated and wolfson microelectronics ltd 
+backlog exar defines backlog to include oem orders and distributor orders for which a delivery schedule has been specified for product shipment occurring during the succeeding six months 
+as of march   exar s backlog was million  compared to million as of march  all backlog is expected to be filled within the current fiscal year 
+the company s business and  to a large extent  that of the entire communication semiconductor industry  is currently characterized by shortened order to shipment schedules 
+sales are made pursuant to either purchase orders for current delivery of standard items or agreements covering purchases over a period of time  which are frequently subject to revision and cancellation 
+lead times for the release of purchase orders depend on the scheduling practices of the individual customer  and the company s rate of bookings varies from month to month 
+in addition  exar s domestic distributor agreements generally permit the return of up to of purchases of the preceding quarter for purposes of stock rotation and also provide for credits to distributors in the event that exar reduces the price of any inventoried product 
+since orders constituting the company s backlog are subject to changes in delivery schedules or to cancellation at the option of the customer without significant penalty  backlog is not necessarily an indication of future sales 
+the company believes that its backlog as of any particular date may not be representative of actual sales for any succeeding six month period 
+
+table of contents intellectual property rights the company has patents issued and patent applications pending in the us the company has patents issued and patent applications pending in various foreign countries 
+the company s existing patents will expire between and  or sooner if it chooses not to pay renewal fees 
+the company believes that its intellectual property is critical to its current and future success 
+however  the company does not believe that it is materially dependent upon any one patent 
+to protect its intellectual property  the company also relies on a combination of mask work registrations  trademarks  copyrights  trade secrets  employee and third party nondisclosure agreements and licensing arrangements 
+the company may enter into license agreements or other agreements to gain access to externally developed products or technologies 
+the company may fail to adequately protect its intellectual property 
+others may gain access to the company s trade secrets or disclose such trade secrets to third parties 
+some or all of the company s pending and future patent applications may not result in issued patents that provide it with a competitive advantage 
+even if issued  such patents  as well as its existing patents  may be challenged and later determined to be invalid or unenforceable 
+in addition  others may develop similar or superior products without access to or without infringing upon its intellectual property  including intellectual property that is protected by trade secret and patent rights 
+the company cannot be sure that its products or technologies do not infringe patents that may be granted in the future pursuant to pending patent applications or that the company s products do not infringe any patents or proprietary rights of third parties 
+occasionally  the company is informed by third parties of alleged patent infringement 
+in the event that any relevant claims of third party patents are found to be valid and enforceable  the company may be required to stop selling  incorporating or using its products that use the infringed intellectual property  obtain a license to make  sell or use the relevant technology from the owner of the infringed intellectual property  although  such license may not be available on commercially reasonable terms  if at all  and redesign the company s products so as not to use the fringed intellectual property  which may not be technically or commercially feasible 
+if the company were required to take any of the actions described above or defend against any claims from third parties  its business  financial condition and results of operations could be harmed 
+see management s discussion and analysis of financial condition and results of operations risk factors 
+employees as of march   the company employed full time employees  with in research and development  in operations  in marketing and sales and in administration 
+of the research and development employees  hold advanced degrees 
+the company s ability to attract  motivate and retain qualified personnel is essential to its continued success 
+none of the company s employees is represented by a collective bargaining agreement  nor has the company ever experienced a work stoppage due to labor issues 
+the company believes its employee relations are good 
+available information the company s website is located on the internet at www 
+exar 
+com 
+the company makes available on its website  free of charge  copies of its annual reports on form k  quarterly reports on form q  and current reports on form k  and amendments to those reports filed or furnished pursuant to section a or d of the securities exchange act of  as amended  as soon as reasonably practicable after such reports are electronically filed with or furnished to the sec 
+
+table of contents glossary exar uses a number of terms in this annual report which are familiar to industry participants but which some investors may not recognize 
+the company has provided a glossary of some of these terms below 
+access refers to the part of the network between a home or business and the public network 
+access control circuits an ic that formats or frames the data  performs error checking and in some applications aggregates signals by mapping multiple lower rate data streams to a single higher speed data stream 
+analog to digital converters adcs convert an analog signal to a digital signal 
+add drop multiplexer adm a device at an intermediate point on a transmission line that enables new signals to come in and existing signals to go out 
+analog front ends afes an ic that conditions the analog signal received from a sensor and performs an analog to digital conversion 
+analog integrated circuits these semiconductor devices are used to electronically shape continuous real world phenomena  such as sound waves  motion  heat  light and pressure 
+the electronic signals from analog ics are typically translated into digital form and later converted back into analog forms that provide visual  auditory and tactile sensory stimuli 
+application specific standard product assp a device tailored for a specific application that is sold on the open market to multiple customers with similar requirements 
+customers will often differentiate their end product with unique software and hardware features 
+asynchronous transfer mode atm a fast packet switching protocol by which short packets or cells containing data  voice or video signals are moved over networks at high speed 
+this high speed switching technology is used as a backbone technology in carrier networks and large enterprises 
+atm is designed to take advantage of high speed transmission media such as t e and sonet 
+atm user network interfaces atm unis a device that provides the atm physical layer physical medium dependent and transmission convergence sub layers interface for the public and private networks 
+asynchronous transmission describes digital signals that are transmitted without precise clocking 
+backbone backplane or bus which makes up the skeleton of a network 
+
+table of contents bandwidth commonly defined as the volume of data that a transmission line can carry  measured in bits per second bps 
+traditional copper lines have the lowest bandwidth potential  while fiber optic lines have the highest 
+a range of signal frequencies  measured in cycles per seconds or hertz hz 
+also refers to the speed at which data is transmitted  measured in bits per second bps 
+broadband communications data transmission at speeds of equal to or greater than mbps 
+central office co the main switching facility for a telephone company where larger telephone trunks are provisioned out in smaller lines to customers 
+where fiber is connected to copper and vice versa 
+central processing unit cpu the computational and control unit of a computer  the device that interprets and executes instructions 
+by definition  the cpu is the chip that functions as the brain of the computer 
+complementary metal oxide semiconductor cmos process technology used to manufacture silicon integrated circuits 
+carrier an organization that provides communications services 
+copper usually small gauge where two wires are twisted together  twisted pair 
+limited in the amount of information it can carry 
+typically associated with last mile transport 
+design win exar defines as a minimum order of units which signifies acceptance of a device by an oem for use in their end product 
+digital cross connect an electronic switching system that routes digital signals among multiple paths without demultiplexing them 
+digital ics within these devices  transistors are used to switch discrete digital signals that are represented in two states on or off  or or 
+with today s process technologies  millions of transistors can be integrated on a single chip  resulting in enormous computing power 
+dslam digital subscriber line access multiplexer located in the telephone company exchange that provides consumers access to digital subscriber line services over twisted pair copper cabling 
+
+table of contents frame relay a packet switching technology used to route frames of information within a network 
+instead of leasing dedicated lines between all remote sites  frame relay allows virtual private networks to be established in which remote sites are connected to a central carrier  which routes data accordingly 
+gigabit gbps one billion bits per second 
+integrated circuit ic a single electronic device that contains previously separate discrete electronic components 
+an ic is produced on a small slice of silicon semiconductor material 
+jitter attenuation reduces jitter noise  distortion so that data transmission is clean and error free 
+kilobit kbps one thousand bits per second 
+local area network lan a shared  private data communications network linking a variety of data devices such as workstations  computers and printers within an office or home environment  usually confined to a single building or cluster of buildings 
+line interface unit liu a device containing a transmitter that converts digital data to an analog signal suitable for transmission over the transmission media 
+on the receiving side  it processes the incoming analog signal to recover the timing and the original digital data and outputs to the next layer for further processing 
+megabit mbps one million bits per second 
+metropolitan area network man a communications network that covers a geographic area  such as a city or suburb  or a series of lans at multiple sites often interconnected by public facilities 
+mixed signal ics integrated circuits that combine analog and digital functions 
+mixed signal ics are difficult to design because the analog and digital parts of the chip operate differently 
+multiplexing multiplexer or mux an electronic or optical process that combines a large number of low speed transmission lines into one high speed line by splitting the total available bandwidth of the high speed line into narrower channels 
+demultiplexing is the reverse of multiplexing 
+
+table of contents network processor an ic that executes programmed instructions  performs arithmetic and logical operations on signals  and controls input output functions 
+oc  oc  oc  oc optical carrier  designating sonet speed mbps  mbps  gbps  gbps  respectively 
+peripheral component interconnect pci pci provides high speed  auto configuring interconnections between the cards in a pc or a system 
+packet any logical block of data sent over a network 
+it contains a header consisting of control information such as sender  receiver  and error control data  as well as the message itself 
+may be fixed or variable length 
+phase lock loop pll analog or digital function that regulates the critical timing function in telecommunication and computer ics 
+physical layer level on the open space interconnect osi model 
+the connection layer  or where the wire connects to the equipment 
+physical interface phy an ic that receives analog signals from transmission media and converts it to a digital signal for further processing for incoming signals 
+it converts digital signals to analog for transmission across the transmission media for outgoing signals 
+private branch exchanges pbx a pbx is a switching system that provides telecommunications services on the premises or campus  eg internal calling and other services  and access to public and private telecommunications networks 
+router a device that connects multiple lans  or the bridge between a lan and the public network 
+synchronous digital hierarchy sdh an international standard for high speed synchronous data transmission over fiber  sdh was adapted from sonet  which is employed in north america 
+synchronous optical network sonet the north america standard for high speed synchronous data transmission over optical fiber 
+rates are measured in optical carrier oc units 
+for example  oc corresponds to mbps  oc corresponds to mbps and oc corresponds to gbps 
+sonet backbones are widely used to aggregate lower speed t and t lines 
+the international equivalent is sdh 
+
+table of contents synchronous transport signal sts x electronic equivalent of sonet oc level  x designating the speed 
+switch fabric devices an ic that incorporates a series of point to point interconnections that are used to overcome bandwidth bottlenecks in traditional bus structures 
+connection end points are joined through a cross connected switching matrix resembling a woven piece of cloth  hence the name fabric 
+any point may be combined with any other point to produce a powerful combination of switched end points 
+t e t is a dedicated digital transmission link with a capacity of mbps provided by telephone companies 
+widely used for private networks as well as interconnections between an organization s pbx or lan and telephone companies 
+a t line can normally accommodate voice conversations channels  each one digitized at kbps and one kbps channel for signaling and control 
+e is the european designation for t and has a capacity of approximately mbps 
+t e a digital transmission link capable of transmission speeds of mbps 
+a t line can normally accommodate t lines or voice conversations 
+e is the european designation for t traffic manager an ic which manages the transfer of data among numerous channels and elements such as the network processor and switch fabric  which work together to shape  route and control the data 
+transmission media the physical transmission path along which a signal propagates  such as a twisted copper pair  coaxial cable or optical fiber cable 
+universal asynchronous receiver transmitter uart uarts convert data streams from parallel to serial and serial to parallel  enabling a serial data stream to communicate with a cpu 
+wide area network wan a shared network of computers and data devices that spans a large geographical area  such as the internet  transporting long distance between mans 
+
+table of contents management the names of the company s executive officers and directors  and their ages as of may   are as follows name age position donald l 
+ciffone  jr 
+chairman of the board  chief executive officer and president michael class vice president  worldwide sales mir bahram ghaderi vice president and general manager  network and transmission products division roubik gregorian executive vice president and chief operating officer ronald w 
+guire executive vice president  chief financial officer  assistant secretary and director susan j 
+hardman vice president and general manager  interface products division thomas r 
+melendrez general counsel  secretary and vice president business development stephen w 
+michael vice president  operations and reliability quality assurance raimon l 
+conlisk vice chairman and director frank p 
+carrubba director john mcfarlane director richard previte director donald l 
+ciffone  jr 
+joined the company as president and chief executive officer in october and was appointed a director at that time 
+mr 
+ciffone was appointed chairman of the board in april from august to october  mr 
+ciffone was executive vice president of toshiba america  the us semiconductor subsidiary of toshiba semiconductor 
+prior to joining toshiba  he served from to in a variety of senior management positions  including senior vice president of the vlsi product divisions  at vlsi technology  inc from to  mr 
+ciffone held a variety of marketing and operations positions at national semiconductor  inc mr 
+ciffone holds a ba from san jose state university and an ba from santa clara university 
+michael class joined the company as director of western area sales in in january  he was promoted to the position of vice president  north american european sales and was promoted to vice president  worldwide sales in july mr 
+class has over years of experience in the semiconductor industry  including employment with ic works  inc as area sales manager for the western us and canada 
+prior to joining ic works  mr 
+class held various sales management positions with intel corporation and vlsi from to he holds a bs in electrical engineering from lehigh university and an mba from lasalle university 
+mir bahram ghaderi joined the company in march as director of engineering  startech division  when the company acquired startech semiconductor  inc  where he served as vice president of engineering 
+he was promoted to divisional vice president of engineering  communications division in september  and to his current position as vice president and general manager  network and transmission products division  in april prior to joining startech in  he was director of engineering  modem clock products  at sierra semiconductor  inc dr 
+ghaderi has years of product development experience in the semiconductor industry and received a msee and msee in electrical engineering from the university of california at los angeles  as well as a msee from tehran university 
+roubik gregorian joined the company in march as vice president  startech division  when the company acquired startech semiconductor  inc  where he served as president 
+he was appointed chief technology officer and vice president of the communications division in june  and chief technology officer  senior vice president general manager  communications division  in june dr 
+gregorian was promoted to executive vice president general manager  communications division in may and to chief operating officer in april prior to joining startech in  dr 
+gregorian was vice president of research 
+table of contents and development and chief technology officer for sierra semiconductor  inc dr 
+gregorian has been issued patents  authored two textbooks and received his msee and msee in electrical engineering from the university of california at los angeles  as well as a msee from tehran university 
+ronald w 
+guire joined the company in july as vice president and treasurer and has been a director since june his title was changed to chief financial officer in may  and to executive vice president in july mr 
+guire has served as the company s assistant secretary since june mr 
+guire was a partner in the certified public accounting firm of graubart co 
+from until he joined exar in july mr 
+guire holds a bs in accounting from california college of commerce 
+susan j 
+hardman joined the company in february and became vice president and general manager  interface products division in april prior to this  she served as vice president  corporate marketing and has served as director of marketing for the company s communications products 
+ms 
+hardman has years experience in the semiconductor industry 
+from to  ms 
+hardman was with vlsi technology vlsi in a variety of management positions  most recently as director of product marketing for vlsi s networking products division 
+from to  she was with motorola holding a variety of engineering roles 
+ms 
+hardman holds a bs in chemical engineering from purdue university and an mba from the university of phoenix 
+ms 
+hardman has been named a outstanding chemical engineer by purdue university 
+thomas r 
+melendrez joined the company in april as corporate attorney 
+he was promoted to director  legal affairs in july  and again to corporate vice president  legal affairs in march in march  mr 
+melendrez was promoted to corporate vice president  general counsel 
+in june  mr 
+melendrez was appointed secretary of the company 
+in april  mr 
+melendrez assumed  in addition to his other duties  the responsibilities of vice president  business development 
+mr 
+melendrez has approximately years legal experience in the semiconductor and related industries 
+he received a ba from the university of notre dame  a ba from the university of san francisco  and an mba from pepperdine university 
+stephen w 
+michael joined exar as vice president new market development in september in july  he was appointed vice president operations  and in may  he was appointed to his current position of vice president  operations and reliability quality assurance 
+mr 
+michael has years of semiconductor industry experience  most recently as vice president and general manager  analog and custom products with catalyst semiconductor 
+prior to joining catalyst  he served in various senior positions at ge semiconductor  intersil  fairchild and national semiconductor 
+he holds a bs in electrical engineering from the university of california at davis 
+raimon l 
+conlisk joined the company as a director in august  was appointed vice chairman of the board in august  served as chairman of the board from august to april  and is currently serving as vice chairman 
+mr 
+conlisk has also served as a director since  and in december was appointed chairman of the board  of sbe  inc  a manufacturer of communications and computer products 
+in march  mr 
+conlisk retired as a director and chairman from sbe  inc  however  he was subsequently appointed chairman emeritus 
+from to  mr 
+conlisk was president of conlisk associates  a management consulting firm serving high technology companies in the united states and foreign countries 
+from to  mr 
+conlisk served as a director of xetel corporation  a contract manufacturer of electronic equipment 
+mr 
+conlisk was also president from to  a director from  and chairman from until retirement in june  of quantic industries  inc  a privately held manufacturer of electronic systems 
+from to  and from to  mr 
+conlisk served as a director of the american electronics association 
+he holds a bs in electrical engineering from the university of california at berkeley 
+frank p 
+carrubba joined the company as a director in august dr 
+carrubba served as executive vice president and chief technical officer of royal philips electronics  headquartered in eindhoven  the netherlands  from to from to  dr 
+carrubba was with hewlett packard company  where 
+table of contents he was a member of the group management committee and was director of hewlett packard laboratories 
+prior to joining hewlett packard  he spent years as a member of the technical staff at ibm corporation s thomas j 
+watson research laboratory in yorktown heights  new york 
+dr 
+carrubba was one of the original designers of the risc architecture  for which he was named inventor of the year by the intellectual property owners in washington  dc in dr 
+carrubba is also a director of coherent  inc  a global leader in the design  manufacture and sale of lasers  and gyration  inc  creators of in air cordless mice and controllers for games  presentations and virtual reality 
+in june  dr 
+carrubba was appointed chairman of the board of accerra corporation  a provider of secure online services for business communications located in santa rosa  california 
+he holds a bs in electrical engineering  a ms in operations management and an honorary phd in computer engineering from the university of new haven 
+john mcfarlane joined the company as a director in january mr 
+mcfarlane has served as chairman and chief executive officer of ascendent telecommunication  inc  a provider of advanced voice communications systems  enabling mobility and business continuity solutions  since march he has over years of global experience in the high technology industry encompassing computing  software  networking  and telecommunications 
+from march to april  mr 
+mcfarlane was president and chief executive officer of nexsi systems  a provider of high performance internet security and traffic management systems 
+nexsi systems  a private corporation  filed for protection under chapter of the us bankruptcy laws on may  from may to march  he held senior executive positions at sun microsystems  including president of the service provider business and president of the software division 
+prior to may  he spent years at northern telecom and bell northern research  and was vice president  engineering and technology  broadband networks from to mr 
+mcfarlane is also a director of pitney bowes inc  and creo inc he holds a bs and an bs from the university of toronto 
+richard previte joined the company as a director in october he was a director of advanced micro devices  or amd  from to april  and vice chairman from to april additionally  mr 
+previte served as chairman of the board of vantis corporation  a subsidiary of amd  from to june  and acted as chief executive officer from february to june mr 
+previte served as president of amd from to  executive vice president and chief operating officer from to  and chief financial officer and treasurer from to most recently he was chief executive officer and chairman of the board of marketfusion  inc  from january to april he holds a bs and an bs from san jose state university 
+item properties exar s executive offices  marketing and sales  research and development  manufacturing  test and engineering operations are located in fremont  california in two buildings that the company owns  which consist of approximately  square feet 
+additionally  the company owns approximately acres of undeveloped property adjacent to its headquarters  which is presently being held for future office expansion 
+the company leases additional space for sales offices in or near atlanta  boston  chicago  dallas  kawasaki  japan  shanghai  china and valauris  france 
+item legal proceedings on september   exar filed a complaint in the superior court for the state of california  county of alameda against vicor corporation 
+exar asserted claims for breach of contract and breach of the covenant of good faith and fair dealing arising from vicor s failure to take delivery of and pay for semi custom wafers ordered by vicor 
+exar initially sought damages in excess of million 
+on october   vicor filed a cross complaint stating a claim for promissory estoppel 
+vicor subsequently withdrew its original cross complaint for promissory estoppel and filed a first amended cross complaint 
+in the first amended cross complaint  vicor asserted claims for breach of oral contract  breach of express warranty  breach of implied warranties  breach of the covenant of good faith and fair dealing  fraud and negligent misrepresentation 
+the 
+table of contents court sustained exar s demurrer to all causes of action in the first amended cross complaint with leave to amend 
+vicor filed a second amended cross complaint on march  asserting causes of action for breach of oral contract  breach of express warranty  breach of the implied covenant of good faith and fair dealing  fraud and negligent misrepresentation 
+vicor alleged that its damages were in excess of million 
+exar demurred to the second amended cross complaint seeking dismissal of all claims 
+the court overruled exar s demurrer as to all causes of action 
+following discovery in the action  exar sought  and was granted leave to amend its complaint against vicor to assert a third cause of action for fraud 
+exar filed its first amended complaint against vicor corporation on december  on october  and february   exar filed separate motions seeking summary adjudication of each of the causes of action asserted by vicor in its second amended cross complaint 
+on march   the court granted exar s motion for summary adjudication as to the negligent misrepresentation cause of action 
+exar s motion as to the remaining causes of action was denied on march  on april   the court granted vicor leave to file a third amended cross complaint and to assert both contract and tort claims against rohm co  ltd  rohm corporation  and rohm device  usa  llc 
+on december   exar filed and action in the superior court for the state of california  county of santa clara against rohm co  ltd 
+and rohm corporation 
+in the complaint  exar asserted causes of action against rohm co  ltd 
+and rohm corporation for breach of written contract  breach of the implied covenant of good faith and fair dealing  and implied indemnity arising from rohm s decision to close its kifer pastoria foundries from which rohm had previously supplied exar with semiconductor wafers 
+rohm co  ltd 
+demurred to the causes of action for breach of the implied covenant of good faith and fair dealing and implied indemnity  which the court granted with leave to amend 
+on april   exar filed its first amended complaint and reasserted causes of action for breach of written contract and breach of the implied covenant of good faith and fair dealing 
+in connection with a case management conference  rohm co  ltd 
+has stated that one of its affiliated companies  rohm device usa  llc intends to intervene in the action and assert a cause of action against exar for breach of contract 
+rohm device has alleged that exar is liable for certain damages 
+the company is not currently a party to any other material legal proceedings 
+item submission of matters to a vote of security holders during the fourth quarter of fiscal year  no matter was submitted to a vote of security holders through the solicitation of proxies or otherwise 
+
+table of contents part ii item market for registrant s common equity  related stockholder matters and issuer purchases of securities the common stock of exar is traded on the nasdaq stock market  inc under the symbol exar 
+the following table sets forth the range of high and low sales prices of the company s common stock for the periods indicated  as reported by nasdaq 
+the listed quotations represent inter dealer prices without retail markups  markdowns or commissions 
+the company has never paid cash dividends on its common stock and presently intends to continue this policy in order to retain earnings for use in its business 
+the company had approximately stockholders on record as of may  the company believes it has in excess of  beneficial stockholders 
+the last sales price for exar s common stock  as reported by nasdaq on june  was per share 
+common stock prices high low fiscal quarter ended march  quarter ended december  quarter ended september  quarter ended june  fiscal quarter ended march  quarter ended december  quarter ended september  quarter ended june  information relating to securities authorized for issuance under equity compensation plans under this item is hereby incorporated by reference from the company s definitive proxy statement to be filed not later than days following the close of the fiscal year 
+
+table of contents item selected consolidated financial data the following selected consolidated financial data should be read in conjunction with the consolidated financial statements and notes thereto and management s discussion and analysis of financial condition and results of operations included elsewhere in this report 
+years ended march  in thousands  except per share amounts consolidated statements of operation data net sales gross profit income loss from operations net income loss net income loss per share basic diluted shares used in computation of net income loss per share basic diluted as of march  in thousands consolidated balance sheets data cash  cash equivalents  short term and long term marketable securities working capital total assets long term obligations retained earnings stockholders equity 
+table of contents item management s discussion and analysis of financial condition and results of operations the following management s discussion and analysis of financial condition and results of operations  as well as information contained in risk factors below and elsewhere in this annual report on form k the annual report under the caption part i  item business  contains forward looking statements within the meaning of section a of the securities act of and section e of the securities exchange act of  as amended 
+forward looking statements are generally written in the future tense and or are preceded by words such as will  may  should  could  expect  suggest  believe  anticipate  intend  plan  or other similar words 
+forward looking statements contained in this annual report include  among others  statements made in financial outlook and elsewhere regarding the company s net sales  the company s gross profits  the company s ability to control and or reduce operating expenses  the company s research and development efforts  customer acceptance of the company s new products  the company s ability to finance its operations with cash flows from operations  existing cash and investment balances  and some combination of long term debt and or lease financing and additional sales of equity securities  the sufficiency of the company s capital resources  the company s capital expenditures  competitive pressures  the utilization of the company s deferred tax assets and the general market and economic outlook 
+forward looking statements are not guarantees of future performance and involve risks and uncertainties 
+actual results may differ materially from those projected in the forward looking statements as a result of various factors 
+these risks  uncertainties and other factors include  among others  those identified under risk factors 
+the company disclaims any obligation to update information in any forward looking statement 
+overview exar corporation and subsidiaries exar or the company designs  develops and markets high performance  high bandwidth physical interface and access control solutions for use in the worldwide communications infrastructure 
+the company s current ic products for the communications market are designed to respond to the growing demand for cost effective line card solutions based on transmission standards such as t e carrier  atm and sonet sdh 
+the company also offers a family of clock distribution devices 
+the company also designs  develops and markets ic products that address the needs of the serial communications market 
+in addition  the company markets ic products that address select applications for the video and imaging markets 
+exar uses its design methodologies to develop products ranging from assps  designed for industry wide applications  to custom solutions for specific customer applications 
+these complementary products enable the company to offer a range of solutions for its customers applications 
+exar believes its products offer its customers the following benefits increased bandwidth through the integration of multiple channels on a single device  reduced system noise jitter to improve data integrity  seamless integration  reduced overall system cost through the integration of multiple functions on a single device  and accelerated time to market by allowing its customers to focus on core competencies and outsource standards based solutions 
+the company s oem customers include  among others  alcatel  cisco systems inc  delphi corporation  digi international  inc  hewlett packard company hewlett packard  huawei technologies company  ltd  logitech international sa  lucent technologies  inc  mitsubishi electronic corporation of japan  nec corporation  nokia corporation  plantronics  inc and tellabs  inc for the fiscal year ended march   no one oem customer represented or more of net sales 
+
+table of contents over the past several years  the company has actively refocused its business on products for the communications market 
+in the s  the company designed  manufactured and marketed custom and general purpose analog circuits supporting many different applications 
+in the s  the company transitioned its products to analog and mixed signal application specific standard products  or assps  focusing on telecommunications  data communications  computer peripherals and consumer electronics 
+through the mid s  the company continued this product transition through internal development and strategic acquisitions and moved to a fabless semiconductor business model 
+in  the company leveraged its analog expertise by beginning to focus its product strategy and development efforts predominantly on the communications markets 
+for the fiscal year ended march   the company s communications product sales represented of its net sales 
+the company markets its products in north and south america through independent sales representatives and independent  non exclusive distributors  as well as the company s own direct sales organization 
+additionally  the company is represented in europe and the asia pacific region by its wholly owned foreign subsidiaries  independent sales representatives and independent  non exclusive distributors 
+the company s international sales represented  and of net sales for the fiscal years ended march   and  respectively 
+these international sales consist primarily of export sales from the united states that are denominated in united states dollars 
+such international sales and related operations expenses expose the company to fluctuations in currency exchange rates because the company s foreign operating expenses are denominated in foreign currency while its sales are denominated in united states dollars 
+although foreign sales within certain countries or foreign sales comprised of certain products may subject the company to tariffs  the company s profit margin on international sales of ics  adjusted for differences in product mix  is not significantly different from that realized on the company s sales to domestic customers 
+the company s operating results are subject to quarterly and annual fluctuations as a result of several factors that could materially and adversely affect the company s future profitability  as described below in risk factors 
+during fiscal year  the company experienced a significant shift in its mix of product sales resulting in increased sales in network and transmission products and serial communication products  its core markets 
+for the fiscal year ended march   sales of its communications products  which encompass network and transmission products and serial communication products  represented of its net sales  as compared to and of its net sales for the fiscal years ended march  and  respectively 
+this change in the mix of product sales resulted in improved gross margins in fiscal year which increased to as compared to and for fiscal years and  respectively 
+the company believes that increased sales of its communications products are primarily due to the economic recovery experienced by the telecommunications market driven by increased spending levels by the larger telecommunications service providers in support of infrastructure expansion 
+recent events during the year  the company expanded its communications portfolio by offering a family of clock distribution devices  which leverage technology common with its existing network and transmission products 
+the clock distribution devices  targeted at high performance system boards  offer flexibility to board designers by providing them with precision  low jitter  programmable skew  zero delay and fan out buffers 
+in addition  these clock distribution devices enable board designers to seamlessly migrate the board development from v to v without a major redesign effort 
+the result is lower system cost and improved time to market 
+the clock distribution devices are targeted at wireless base stations  network switches and routers 
+critical accounting policies and estimates the preparation of the company s financial statements and accompanying disclosures in conformity with gaap  the accounting principles generally accepted in the united states of america  requires estimates and assumptions that affect the reported amounts of assets  liabilities  revenues and expenses  and related disclosures 
+table of contents of contingent assets and liabilities in the consolidated financial statements and accompanying notes 
+the us securities and exchange commission the sec has defined a company s critical accounting policies as policies that are most important to the portrayal of a company s financial condition and results of operations  and which require a company to make its most difficult and subjective judgments  often as a result of the need to make estimates of matters that are inherently uncertain 
+based on this definition  the company has identified its most critical accounting policies and estimates to be as follows net sales  inventories and income taxes  which are addressed below 
+the company also has other key accounting policies that involve the use of estimates  judgments and assumptions that are significant to understanding the company s results 
+for additional information  see 

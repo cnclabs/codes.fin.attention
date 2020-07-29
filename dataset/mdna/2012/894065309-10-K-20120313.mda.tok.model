@@ -1,0 +1,1022 @@
+item management s discussion and analysis of financial condition and results of operations 
+company overview transwitch designs  develops and supplies innovative integrated circuit ic and intellectual property ip solutions that provide core functionality for voice  data and video communications equipment for network  enterprise and customer premises applications 
+we provide integrated multi core network processor system on a chip soc solutions and software solutions for fixed  g and g mobile  voip and multimedia infrastructures 
+for the customer premises market  we offer interoperable connectivity solutions that provide a bridge between hdmi and displayport and enable the distribution and presentation of high definition hd content for consumer electronic  and personal computer markets and also provide a family of communications processors that provide best in class performance for a range of applications 
+overall  we have over active customers  including the leading global telecom equipment providers  semiconductor and consumer product companies 
+transwitch corporation is a delaware corporation incorporated on april  our principal executive offices are located at enterprise drive  shelton ct  and our telephone number at that location is our internet address is www 
+transwitch 
+com 
+our common stock trades on the nasdaq capital market under the symbol txcc 
+our telecom products are sold to original equipment manufacturers oems for use in a variety of communications network equipment  including network infrastructure processing multi media processing engines to address multiple carrier segments such as wireline and wireless gateways  session border controllers sbc  media resource functions mrf  multi service access nodes msan  passive optical network multi dwelling units pon mdus and translation gateways 
+enterprise applications include voip private branch exchanges 
+communication network premises equipment ip multimedia subsystem ims and voice over lte volte capable g lte fixed wireless gateways  residential gateway routers  small office home office soho routers and secure voip private branch exchanges pbxs 
+our interoperable connectivity solutions are sold to oems for use in consumer electronics and personal computers 
+next generation network infrastructure converged network infrastructure data and video services are the main drivers for future network infrastructure investments 
+carrier ethernet is the industry s accepted standard technology for next generation networks  however  a large percentage of optical network infrastructure currently in place is based on sonet sdh technology designed and optimized for voice traffic 
+our products enable a mix of voice and data traffic to be efficiently transported over existing sonet sdh networks using a number of techniques for mapping ethernet data into the sonet or sdh format eos in accordance with recently introduced industry standards 
+our products are incorporated in optical transport equipment  and enable the fiber optic network to transport information with improved efficiency  thus increasing the overall network capacity 
+we also supply products designed for use in ethernet equipment such as carrier grade ethernet routers and switches 
+such products enable carriers to provide robust and differentiated services using ethernet technology in their wide area networks 
+within this new infrastructure  voice traffic is also carried over ethernet  and we provide market leading solutions for use in equipment such as media gateways  soft switches and multi service access nodes used in both wire line and cellular carrier networks as well in corporate network applications 
+currently  most telephony service providers maintain two separate networks one for legacy voice traffic and a second for data traffic 
+voip technology compresses voice signals into discrete packets of data  thereby enabling the voice signals to be transmitted over lower cost networks originally designed for data only transmission 
+voip technology is used in numerous new types of communications equipment  such as next generation carrier and enterprise class gateways  soft switches  digital loop carriers  ip dsl access multiplexers  media terminal adapters  and home gateways for use by consumers and small businesses 
+these voip technology based devices enable more efficient and cost effective voice transmissions than their legacy circuit switched equipment counterparts 
+in addition to significant cost savings  voip also enables advanced services that traditional telephony could not support 
+voip technology enables and enhances features such as unified messaging and managed services that provide additional value to consumers and businesses and allow service providers to enhance revenue opportunities 
+our customers in this market include alcatel lucent  tellabs  fiberhome  ericsson  nec and other oems 
+the broadband access portion of the market includes equipment that provides last mile connectivity between the end customer and the network for broadband services 
+it includes systems for connectivity over copper wires based on dsl  technology  fiber connectivity using passive optical network pon technology or wireless connectivity using cellular  wimax or other technologies 
+our products are incorporated into broadband access equipment  enabling telecommunications service providers to deliver next generation services such as voice  data and video over the broadband connection 
+fiber based broadband access  generally referred to as fttx  is deployed in a variety of alternative architectures such as fiber to the home ftth  fiber to the building fttb or fiber to the node fttn 
+in the case of ftth  fiber extends all the way to each individual subscriber location  while in the case of fttb and fttn  fiber extends to multiplexing equipment located at a building with multiple end users or in a neighborhood node  and each subscriber location residence or office is connected to the multiplexing equipment with copper wire using dsl or ethernet technology 
+ftth provides the highest bandwidth per subscriber  while fttb and fttn provide a more economical alternative 
+the underlying technology for most fttx deployments is passive optical networking pon because it eliminates the need for active electronics in the fiber portion of the network 
+there are dominant variants of this technology  namely ethernet based pon epon which has been adopted extensively in japan and to a lesser extent in other asian countries  and gigabit pon gpon which is currently being deployed primarily in north america and is expected to be deployed in several other regions worldwide 
+epon supports data rates up to gigabit per second gbps while gpon supports data rates up to gbps 
+fttx technology provides higher speeds than dsl technology for both residential and business end users and enables service providers to offer a wider range of next generation bundled services to potentially enhance their revenue streams 
+our broadband access product offerings include a variety of solutions for both epon as well as gpon standards 
+we also supply products that support the hybrid fiber copper architectures such as fttb and fttn using dsl or ethernet as well as voice over ip voip processors to extract  encode and manage voice services at the node equipment in the case of fttb and fttn architectures 
+our customers in this market include alcatel lucent  sumitomo  nokia siemens networks and other oems 
+broadband customer premises equipment broadband cpe the increasing role of broadband cpe in the delivery of modern communications services is driven directly by the deployment of broadband access networks discussed above 
+a single broadband connection is capable of delivering multiple services voice  video and data to the subscriber location in the form of a high speed packetized data stream 
+broadband cpe must then process this high speed packet data stream and deliver the various services to appliances within the home or office in the appropriate manner 
+for instance  telephone voice service needs to be converted from packetized data using voip technology into its native electrical form and distributed over the internal telephone wiring or using a wireless technology such as digital enhanced cordless telecommunications to cordless phones 
+similarly  internet data traffic must be routed over ethernet connections or wifi to computers within the customer premises and video traffic must be routed to set top devices or tv sets as appropriate 
+increasing availability of high definition video content is driving the need for high speed connectivity within the home 
+the consumer electronics industry standard known as high definition multimedia interface hdmi and the related displayport standard adopted by the computer industry are the de facto interfaces of choice 
+broadband cpe equipment also provides the necessary security features such as firewall and data encryption as well as a host of other management and control functions required for interworking with the service provider s network 
+we provide high speed interface technology conforming to hdmi  displayport and ethernet standards in the form of ip cores 
+our customers for this technology are other semiconductor companies who supply complementary markets such as consumer electronics tv  dvr and video camera and computer equipment manufacturers 
+we also provide a family of communications processors designed specifically for broadband cpe applications  combining voip  data routing and security functions in a single highly integrated device that meets the stringent cost performance and low power consumption demands of this market segment 
+our products and the functions they serve our products provide several of the key functionalities required for converged network infrastructure and broadband cpe converged network infrastructure a infrastructure voip processors b eos eopdh mappers and framers c tributary switches d carrier ethernet solutions e fttx protocol processors f access voip processors g access controllers broadband cpe a multi service communications processors b connectivity solutions hdmi  displayport  hdp tm  ethernet ip cores and hdp tm transceivers within each of these markets  we have developed a number of product families as described below products for converged network infrastructure a infrastructure voip processors our entropia series of processors are highly integrated soc solutions each incorporating multiple embedded reduced instruction set computing and digital signal processing processors for encoding  decoding and transcoding voip traffic according to a multitude of protocols and standards adopted in different networks worldwide 
+entropia iii and iv can process up to  voice channels for high capacity applications while our entropia ii lp product supports medium density applications requiring up to voice channels 
+the entropia series is designed for wire line and wireless carrier equipment such as media gateways  soft switches  ims and msan as well as in enterprise network applications such as ip pbx 
+because different voip coding standards are used by different network operators  a vital attribute of our entropia processors is their ability to recognize and dynamically adapt to the appropriate coding standard and to trans code the voice traffic from one standard to another as required 
+in addition to voip processing  our entropia products provide a complete system level solution by incorporating a variety of other related functions such as fax relay  packet processing  circuit emulation  signaling and control required for operation in the carrier s network 
+b eos eopdh mappers and framers our products address the predominant formats and data speeds employed in the access portion of the network 
+we provide solutions that cover both north american sonet async as well as international sdh pdh standards 
+data rates covered by our products range from mb s to gb s 
+our ethermap and etherphast product families address the need of carriers to efficiently transport data traffic over their existing sonet  sdh and pdh networks 
+our vtxp products provide low level grooming of time division multiplexing tdm circuits which will continue to be a requirement throughout the transition to ip and will be performed predominantly in smaller edge platforms rather than larger metro platforms 
+our products are optimized for these edge platforms  and will continue to be applicable as will our broad line of mappers and framers 
+c tributary switches this product category includes switch fabric devices and adjunct switching devices that enable traffic to be switched or re arranged groomed to use network capacity more efficiently 
+d carrier ethernet solutions as carriers move to packet based networks for more and more of their infrastructure  the need for both pure carrier class ethernet devices as well as transition products continues to grow 
+our envoy line of ethernet controllers and switches allows for differentiation and creates the opportunity for market leadership with trend setting metro ethernet features 
+our packettrunk family of circuit emulation and clock recovery devices provides vital interworking capability between the new ip based services and infrastructures and the legacy voice tdm based services and infrastructures 
+e fttx protocol processors the prevalent passive optical networking standards are epon which is adopted primarily in japan  china and korea and a more recent standard gpon  which has been adopted by carriers in the united states and is expected to be the deployed in several other countries 
+our diplomat ont product is a highly integrated soc solution for gpon onu applications equipped to provide up to four channels of voip processing and is interoperable with optical line terminations olts from the leading equipment suppliers worldwide 
+f access voip processors a large percentage of fiber based broadband access deployments are hybrid fiber copper architectures such as fttn or fttb 
+this is particularly true in countries such as china where large apartment buildings rather than single family houses are the norm 
+even in the united states  at t has chosen to deploy fiber to the node rather than fiber to the home based on its own economic analysis 
+in these hybrid architectures  the fiber cable terminates in optical network termination ont equipment designed to serve multiple subscribers is placed in a neighborhood site or in the basement of the apartment building  and the individual subscriber locations are served over copper wires using vdsl or ethernet technology 
+voice traffic is carried over the fiber portion of the network in packetized form voip  and is decoded and converted to the analog form at the ont so it can be transmitted over the copper wires 
+our entropia tm iii c series of processors is designed to serve these applications 
+this new series of entropia processors scales the market proven features and performance advantages of our larger flagship entropia iii and entropia iv series into an appropriately sized  highly integrated soc that is ideally matched to the requirements for broadband access ont equipment 
+g access controllers the multi subscriber ont equipment in fttb or fttn architectures performs the function of an access multiplexor in that it must appropriately route the appropriate data from the fiber connection to the each subscriber over a separate copper connection and vice versa 
+data security  quality of service  and traffic management features are critical elements of this functionality 
+our diplomat ip access controller is designed to provide this core functionality for xdsl equipment such as msan  and mdu ont for fttn and fttb networks 
+products for broadband cpe a connectivity solutions hdmi  displayport  hdp tm  ethernet ip cores and hdp tm transceivers we are a recognized worldwide leader in the licensing of interconnect technologies 
+our intellectual property serves as a key building block for many varied semiconductor applications ranging from consumer electronics to home network equipment to industrial and automotive applications 
+our ethernet technology has been adopted and incorporated by many of the world s leading semiconductor and equipment manufacturers 
+in  we introduced our hd pxl family of products addressing multimedia interconnect standards specifically addressing the hdmi and displayport tm standards for consumer electronics and pc appliances 
+these technologies have also been licensed by some of the leading semiconductor companies serving the consumer electronics and computer equipment industry 
+recently we also introduced a new proprietary technology called hdp tm 
+it is a patented technology developed for high definition television hdtv and dimensional television d tv applications 
+it combines both hdmi and displayport capability in a single circuit enabling hdtv and d tv manufacturers to support either standard with a single connector 
+conceived from our hdp tm technology  our hd pxl ip core supports aggregate data rates over gbps and is designed to meet all hdmi resolution requirements including p at hz  the highest resolution for d televisions  and k k  the resolution required for digital theatres 
+in addition  this ip core supports ethernet over hdmi hec  and includes the audio return channel arc  which eliminates the need for separate audio cables between televisions and home entertainment systems 
+the result is a technology that elevates the home entertainment experience to new levels of picture quality for consumers while simplifying the overall manufacturing process for hdtv and d tv manufacturers 
+in  we introduced hdplay tm  our first ic utilizing our hdp tm technology 
+hdplay tm enables hdtv and d tv manufacturers to support either standard with a single connector and also incorporates our anycable tm technology  which provides superior functionality with any low cost hdmi tm and displayport cables 
+also in  we introduced hdwire tm  a video interface solution designed to be used inside flat panel televisions and monitors 
+our hdwire tm video interface solution supports current and next generation  high definition hd video displays 
+the ultra fast hdwire tm panel interface ensures reliable  crystal clear video for the high resolution computer and tv displays at low power consumption and low system design cost 
+we are offering hdwire tm as licensable intellectual property ip cores and plan to offer an ic line in the future 
+our mystiphy and mystiphy dsp based ethernet transceiver cores address megabit per second and megabit per second ethernet data rate specifications 
+both cores are fully compliant with ieee standards  and the dsp based design approach provides superior performance that exceeds standard requirements for cable length and noise immunity  while providing exceptionally low power consumption and small die size 
+b multi service communications processors our atlanta processor family is a multi service soc for customer premises equipment that supports toll quality telephone voice  fax and routing functionality over any broadband access network 
+system designs based on the atlanta product family can connect directly to a broadband modem or be added as part of a small office home office  or soho  network 
+the atlanta a tm product is the family s entry level soc while the a tm soc adds the capability to interface with any wifi or high speed adapter 
+the a tm soc is optimized for the soho market with four voice channels and a high performing routing engine available at mbit second 
+the a tm soc adds powerful  enterprise level security and encryption of all data and voice 
+in  we introduced atlanta a  the flagship of our atlanta processor line 
+a is a multi core soc supporting wire speed gigabit routing performance  up to eight channels of low bit rate voip processing or four channels of high definition voice processing and a rich set of data security features 
+a fulfills the high performance requirements for next generation residential or small business gateway appliances 
+in  we introduced the atlanta a  which supports a wide range of applications including voice enabled gateway routers for home and small office use  as well as ieee n wifi routers 
+in  we introduced an lte tm long term evolution fixed wireless reference design that enables wireless providers to deliver broadband voice  video and data services to homes and enterprises 
+the reference design incorporates our atlanta tm processor and complete software solution which is designed for high performance and real time services under real world network conditions 
+technology one of our core competencies is knowledge of the telecommunications and data communications landscape 
+specifically  our systems engineering personnel possess substantial telecommunications and data communications design experience  as well as extensive knowledge of the relevant standards 
+this includes not only a thorough understanding of the actual written standards  but also an awareness of and appreciation for the nuances associated with the standards necessary for assuring that device designs are fully compliant 
+complementing our communications industry expertise is our very large scale integration vlsi design competence 
+our vlsi design personnel have extensive experience in designing high speed digital and mixed signal devices for communications applications 
+these designs require a sophisticated understanding of complex technology  as well as the specifics of deep sub micron manufacturing processes and their resulting impact on device performance 
+we have developed a large number of vlsi blocks and intellectual property cores that operate under the demanding requirements of the telecommunications and data communications industries 
+these blocks and intellectual property cores have been designed using standard vlsi oriented programming languages such as vhsic hardware descriptive language vhdl and verilog  and have been authenticated with standard verification tools 
+we have developed proprietary tool sets  called test benches  that facilitate rapid development of vlsi products and help assure that our products are standards compliant and meet customer requirements 
+these test benches consist of behavioral models of all applicable functions in a high level design environment and also include test signal generators and analyzers such as models of sonet sdh signals 
+systems engineers use test benches to test new architectural concepts  while vlsi designers use test benches to ensure that the device conforms to product specifications 
+in addition to the extensive hardware functionality  many of our products utilize embedded processors that are software programmable 
+this approach enables us to develop products with higher levels of functionality and flexibility than are possible with purely hardware based solutions 
+a digital signal processor  as it relates to communications applications  encodes digital data for transmission over bandwidth limited media  such as copper telephone lines  and recovers the encoded data at the receiving end 
+our software programmable digital signal processor is optimized for communications applications and provides high processing bandwidth with low power requirements 
+this digital signal processor can be programmed for several different applications  such as dsl and voip networking 
+this software programmable digital signal processor technology gives us the advantage of field programmability of devices 
+field programmability means that service providers can remotely upgrade their equipment to address new standards or enable improved features  thereby extending the life cycles of their equipment while incurring lower costs 
+our products are multi million gate devices  which are implemented in  and nanometer complementary metal oxide semiconductor cmos silicon technologies 
+they incorporate high speed mixed signal circuitry 
+some of these devices are equipped with embedded processors that provide added functionality through software 
+we have developed substantial expertise in communications algorithms 
+communications algorithms are the processes and techniques used to transform a digital data stream into a specially conditioned analog signal suitable for transmission across copper telephone wires 
+we possess a thorough understanding of  and practical experience in  the process of transmitting and receiving a digital data stream in analog form 
+we also have significant experience developing algorithms to enable voice compression  echo cancellation and telephony signal processing 
+this expertise allows us to design highly efficient algorithms that in turn enable us to create products with high performance  re programmability and low power consumption 
+we are experts in the area of highly complex  high speed digital chip development 
+we design both the logic and the physical layout for our products 
+this design expertise has enabled us to develop tightly integrated digital chips that have small form factors with low power consumption 
+we have continued to improve upon our internal chip layout capabilities and our design for test capability  both of which have resulted in significant improvements in silicon efficiency  silicon testability and time to market 
+our soc definition  architecture  verification expertise and design methodology ensure that hardware and software architectural trade offs yield desired performance testing from our vlsi solutions 
+the soc performance simulation  emulation  verification and stress testing  using test benches and test equipment  ensure that our products meet carrier class quality  performance and reliability requirements 
+we have expertise in developing software embedded in our semiconductor products that addresses the needs of network equipment manufacturers and service providers 
+in addition  our understanding of various operating systems and personal computer environments allows us to create software embedded on the chip that provides for simple installation and operation 
+the expertise of our personnel  our rigorous design methodology and our investment in state of the art electronic design automation tools enable us to develop the complex and innovative products our customers demand 
+strategy our goal is to be the leading supplier of innovative semiconductor and intellectual property ip solutions that provide core functionality for voice  data and video communications equipment for network  enterprise and customer premises applications 
+the key elements of our business strategy include the following provide the optimal solutions within target markets we offer our customers unique solutions that enable optimized performance and functionality for applications ranging from ethernet over sonet mapping and framing for optical transport systems  voice media gateway platforms  fiber to the premises applications  home gateway routers and interoperable connectivity solutions for consumer products 
+our solutions include embedded software in the computer chip for control of our configurable devices  product reference design models for both hardware and software applications  evaluation boards and reference design  oem product design support  multi tier applications support  and product technical and design documentation 
+our complete product approach allows oems to optimally configure their products while maintaining product compatibility over multiple generations 
+this approach allows equipment vendors to selectively upgrade their products with next generation higher functionality devices 
+continue to promote the deployment of programmable devices we will continue to develop highly integrated products that combine the use of embedded software programmable blocks and optimized hardware blocks in order to provide an optimal level of performance and flexibility to our customers 
+this flexibility enables customers to adapt the product for their unique needs or to accommodate changes resulting from emerging telecommunications standards 
+seek early market penetration through customer sponsorship we seek to develop close sponsoring relationships with strategic oems during product development in order to secure early adoption of our solutions 
+we believe that oems recognize the value of their early involvement through sponsorship of our products  as they can design their system products in parallel with our product development  thereby accelerating their time to market 
+in addition  we believe that our sponsoring relationships with leading oems help us to obtain early design wins and help reduce risks of market acceptance for our new products 
+third party semiconductor fabrication we work with select third party foundries to produce our semiconductor devices 
+this approach allows us to avoid substantial capital spending  obtain competitive pricing and technologies  and retain the ability to migrate our products to new process technologies to reduce costs and optimize performance 
+our design methodology enables the production of our devices at multiple foundries using well established and proven processes 
+we engage foundries that are iso and iso ts certified for quality and use only semiconductor processes and packages that are qualified under industry standard requirements 
+marketing and sales our marketing strategy focuses on key customer relationships to promote early adoption of our technology in the products of market leading oems 
+through our customer sponsorship program  oems collaborate on product specifications and applications while participating in product testing in parallel with our own certification process 
+this approach accelerates our customers time to market delivery while enabling us to achieve early design wins for our products and volume forecasts for specific products from these sponsors 
+our sales strategy primarily focuses on worldwide suppliers of high speed communications and communications oriented equipment 
+these customers include telecommunications  data communications  wireless and wire line equipment  internet access  customer premises  computing  process control  and defense equipment vendors 
+in addition  we target emerging technology leaders that are developing next generation solutions for the telecommunications and data communications markets 
+we also market our interoperable connectivity solutions to consumer electronics companies and other semiconductor companies that serve these markets 
+we identify and address sales opportunities through our worldwide direct sales force and our worldwide network of independent distributors and sales representatives 
+our worldwide direct sales force  technical support personnel and design engineers work together in teams to support our customers 
+we have technical support capabilities located in key locations throughout the world as well as a technical support team at our headquarters as a backup to the field applications engineers 
+we have established foreign distributors and sales representative relationships in australia  belgium  brazil  canada  china  germany  india  ireland  israel  italy  japan  korea  mexico  the scandinavian countries  spain  switzerland  taiwan  turkey and the united kingdom 
+we also sell our products through domestic distributors and a network of domestic sales representatives 
+we have regional sales and technical support capabilities in fremont  california  paris  france  rome  italy  berkshire  england  hilversum  netherlands  brussels  belgium  new delhi and bangalore  india  shanghai and shenzhen  prc  seoul  korea  tokyo  japan  and taipei  taiwan  as well as at our headquarters facility in shelton  connecticut 
+item a below describes the risks attendant to the foreign operations 
+customers we have sold our products and services to over customers since shipping our first product in our customers include public network systems oems that incorporate our products into telecommunications systems  wan and lan equipment oems  internet oriented oems  communications test and performance measurement equipment oems and government  university and private laboratories that use our products in advanced public network  and wan and lan developments 
+in addition  we have licensed hdmi  displayport  ethernet and other ip cores to firms such as intel  samsung  texas instruments  analog devices  philips nxp  ibm and nec 
+historically  a small number of our customers have accounted for a substantial portion of our net revenues 
+in  of our net revenues were from three customers 
+note of the notes to consolidated financial statements provides data on major customers for the last three years 
+research and development we believe that the continued introduction of new products in our target markets is essential to our growth 
+as of december   we had full time employees engaged in research and product development efforts 
+we employ engineers who have the necessary vlsi  high speed mixed signal  firmware  software  hardware  physical design  verification  and validation expertise and development experience 
+these engineers are responsible for delivering vlsi and evaluation and demonstration products for telecommunications and data communications applications 
+research and development expenditures were million in  million in  and million in all products are developed and delivered using documented design processes product life cycle operating under a quality management system certified to meet the iso international standard 
+our design tools and development environment are continuously reviewed and updated to improve design  verification  fabrication and validation methodology  design flow and processes of our product life cycle 
+from time to time  we subcontract design services and acquire products from third parties to enhance our product lines 
+our internal research and development organization thoroughly reviews the external development processes and the design of these products as part of our quality assurance process 
+patents and licenses we currently have united states patents with an additional patents pending in the united states 
+of that number two patents are co assigned 
+for one or more of our united states patents  we have coverage in canada  china  taiwan  israel  japan  france  germany  united kingdom  belgium  italy  sweden  spain  and hong kong 
+internationally  there are patents pending either in specific countries or in the european patent office epo or under the patent cooperative treaty pct 
+in addition we have lifetime licenses to use over additional united states patents and their foreign derivatives 
+we cannot guarantee that our patents will not be challenged or circumvented by our competitors  and we cannot be sure that pending patent applications will ultimately be issued as patents 
+under current law  patent applications in the united states filed before november  are maintained in secrecy until they are issued  but applications filed after november  and foreign applications are generally published months after their priority date  which is generally the filing date 
+the right to a patent in the united states is attributable to the first to invent  while in most other jurisdictions the right to a patent is obtained by the first to file the patent application 
+we cannot be sure that our products or technologies do not infringe patents that may be granted in the future based upon currently pending non published patent applications or that our products do not infringe any patents or proprietary rights of third parties 
+from time to time  we receive communications from third parties alleging patent infringement 
+if any relevant claims of third party patents are upheld as valid and enforceable  we could be prevented from selling our products or could be required to obtain licenses from the owners of such patents or be required to redesign our products to avoid infringement 
+we cannot be assured that such licenses would be available or  if available  would be on terms acceptable to us or that we would be successful in any attempts to redesign our products or processes to avoid infringement 
+our failure to obtain these licenses or to redesign our products could have a material adverse effect on our business 
+we also have been granted registration of presently maintained trade or service marks in the united states and we have one more trademark registration awaiting approval 
+we have also obtained presently maintained trademark registrations under the european community trademark ect procedure and have two pending trademarks awaiting approval in canada and the ect 
+our ability to compete depends to some extent upon our ability to protect our proprietary information through various means  including ownership of patents  copyrights  mask work registrations and trademarks 
+while no intellectual property right of ours has been invalidated or declared unenforceable  we cannot be assured that such rights will be upheld in the future 
+we believe that  in view of the rapid pace of technological changes in the communication semiconductor industry  the technical experience and creative skills of our engineers and other personnel are the most important factors in determining our future technological success 
+we have entered into various license agreements for products or technology exchange 
+the purpose of these licenses has  in general  been to obtain second sources for standard products or to convey or receive rights to certain proprietary or patented cores  cells or other technology 
+we sell our products for applications in the telecommunications and data communications industries  which require our products to conform to various standards that are agreed upon by recognized industry standards committees 
+where applicable  we design our products to be in conformity with these standards 
+we have received and expect to continue to receive  in the normal course of business  communications from third parties stating that if certain of our products meet a particular standard  these products may infringe one or more patents of that third party 
+we review the circumstances of each communication  and  in our discretion and upon the advice of legal counsel  have taken or may take in the future one of the following courses of action we may negotiate payment for a license under the patent or patents that may be infringed  we may use our technology and or patents to negotiate a cross license with the third party or we may decline to obtain a license on the basis that we do not infringe the claimant s patent or patents  or that such patents are not valid  or other bases 
+we cannot be sure that licenses for any such patents will be available to us on reasonable terms or that we would prevail in any litigation seeking damages or expenses from us or to enjoin us from selling our products on the bases of any of the alleged infringements 
+manufacturing and design services we produce a variety of integrated circuit ic devices utilizing the fabless semiconductor model 
+this means that we do not own or operate any of the foundries used in the production of our devices 
+rather  we contract with established independent foundries to manufacture all of our devices including silicon wafer production  package assembly and testing 
+in most cases  we maintain a fully functional test environment for the purpose of production test development  low volume production testing  and product certification 
+once the device reaches production volume  the test is transferred to a high volume  lower cost test facility 
+in some cases  the test development is done at the subcontractor site 
+this approach permits us to focus on our design strengths  minimize fixed costs and capital expenditures and access the most advanced manufacturing technologies 
+it also allows us to maintain an effective and flexible supply chain which is managed using a fully integrated erp system 
+quality assurance and customer service activities are all performed at our shelton  connecticut and fremont  california facilities 
+finished goods inventory  packing and shipping are performed either in our shelton  connecticut facility or managed at our subcontractors 
+our shelton  connecticut facility is registered to iso by tuv rheinland of north america  inc we use only iso certified suppliers in the manufacture of our products 
+our manufacturing objectives and emphasis are focused in the following areas maximizing the reliability and quality of our products utilizing world class foundry partners  leveraging the most advanced semiconductor manufacturing technologies available  maintaining a flexible supply chain to meet our customers demand and delivering on time  minimizing capital and other resource requirements by subcontracting capital intensive manufacturing  and achieving a gross margin commensurate with the value of our products 
+our products and services can be categorized as follows ic devices this category covers the majority of our products 
+we purchase and own the unique mask sets tools required for the production of our silicon wafers 
+we then purchase the wafers from the foundry as needed which are shipped directly to one of our wafer sort or assembly partners 
+they are then stored until we issue an assembly or test release based on demand 
+we use a variety of assembly and test suppliers to complete the production process including taiwan semiconductor tsmc  global foundries and ibm for wafers and amkor and stats chippac for assembly and test 
+in  we entered into an agreement with esilicon corporation to provide us with turnkey manufacturing services 
+such services include  among other things  quality and product cost management  capacity scheduling  wafer procurement  assembly  packaging  test and delivery scheduling 
+intellectual property cores we have several arrangements with foundries like tsmc and semiconductor manufacturing international corporation smic for example  where we make our intellectual property cores available to our customers for design in their products 
+the use of these cores is strictly controlled at the foundry and we receive license fees or royalties when they are used 
+services we offer design and manufacturing services to our customers 
+in these cases  we can utilize any of our established supply chain partners or use suppliers specified by our customer 
+acquisitions while some of the next generation products we introduce are based on technologies that we develop ourselves  we have filled some of our technology and skills needs through acquisitions 
+the following is a table that summarizes technology and skills we obtained through acquisitions of stand alone companies during the years through 
+spacer 
+gif 
+
+spacer 
+gif 
+
+spacer 
+gif 
+acquired company date acquired technology skill acquired centillium communications  inc october voip and optical transport asic design center division of data jce  ltd 
+january custom asic development and logistics mysticom  ltd 
+january analog mixed signal design resources investments in non publicly traded companies and venture capital funds we have made investments in early stage venture backed companies that develop technologies that are complementary to our product roadmap 
+in all cases  when investing in other semiconductor companies  we have also entered into commercial agreements giving us the rights to resell products developed by these companies 
+when determining the accounting method for these investments  we consider both direct ownership and indirect ownership 
+we also consider other factors  such as our influence over the financial  technology and operating policies of these companies 
+we have invested in venture capital funds as it provides us access to new technologies and relationships integral for maintaining technological advantages in the development of advanced semiconductor products 
+competition the fabless semiconductor industry is intensely competitive and is characterized by rapid technological changes in electronic design automation tools  wafer manufacturing technologies  process tools and alternate networking technologies  rapidly changing requirements  manufacturing yield problems  heightened international competition in many markets  and price erosion 
+our principal competitors in the communications industry are applied micro circuits corporation  broadcom corporation  exar corporation  infineon technologies  lsi corporation  mindspeed technologies  inc  pmc sierra inc  texas instruments inc  and vitesse semiconductor corporation 
+in addition  there are several field programmable gate array fpga providers such as altera corporation and xilinx  inc which compete with us by supplying programmable products to oems 
+our principal competitors in the consumer interconnect product line are silicon image  inc  analog devices  inc  and nxp semiconductors  nv 
+other domestic and international vendors have either entered this market or announced plans to do so 
+employees at december   we had full time employees  including in research and development  in marketing and sales  in operations and quality assurance  and in administration 
+we have no collective bargaining agreements 
+we have never experienced any work stoppage and we believe our employee relations are good 
+executive officers of the registrant our executive officers are as follows 
+spacer 
+gif 
+
+spacer 
+gif 
+dr 
+m 
+ali khatibzadeh president  chief executive officer and director mr 
+robert a 
+bosi vice president and chief financial officer mr 
+amir bar niv senior vice president gm of the high speed interconnect business unit mr 
+theodore chung vice president of business development and worldwide sales mr 
+haim moshe senior vice president gm of transwitch israel mr 
+kris shankar senior vice president gm of the telecom business unit there are no family relationships as defined in item of regulation s k between any of the officers named above and there is no arrangement or understanding between any of the officers named above and any other person pursuant to which he or she was selected as an officer 
+each of the officers named above was elected by the board of directors to hold office until the next annual election of officers and until his or her successor is elected and qualified or until his or her earlier resignation or removal 
+the board of directors elects the officers immediately following each annual meeting of the stockholders and may appoint other officers between annual meetings 
+dr 
+m 
+ali khatibzadeh was named president and chief executive officer of the company in december prior to his appointment  he was senior vice president and general manager of the rf products business unit of anadigics nasdaq anad from april to october he also served anadigics as senior vice president and general manager of the wireless business unit from august to april and as vice president of the wireless business unit from june to august mr 
+robert a 
+bosi was named vice president and chief financial officer in january he has been a partner in tatum llc since mr 
+amir bar niv was named senior vice president gm in october and held the position of vice president systems applications since november mr 
+theodore chung was named vice president of business development and worldwide sales in october and held the position of vice president business development since october he also served as interim chief financial officer and treasurer from january through january mr 
+haim moshe was named senior vice president gm in october and held the position of vice president gm since december mr 
+kris shankar was named senior vice president gm in october and held the position of senior vice president worldwide sales since july and vice president worldwide sales since october prior to joining the company  he was the vice president worldwide sales and customer support of centillium communications inc available information our annual report on form k  quarterly reports on form q  current reports on form k  and all amendments to those reports are made available free of charge through the investor relations section of our internet website http www 
+transwitch 
+com as soon as practicable after such material is electronically filed with  or furnished to  the securities and exchange commission 
+our executive offices are located at three enterprise drive  shelton  ct you may read and copy any document we file at the sec s public reference room located at headquarters office  f street ne  room  washington  dc  on official business days during the hours of am to pm 
+you can obtain information on the operation of the public reference room and request copies of these documents by writing to the public reference section of the sec  f street ne  washington  dc or by calling the sec at sec our sec filings are also available at the sec s website at http www 
+sec 
+gov 
+this website address is included in this document as an inactive textual reference only 
+item a 
+risk factors from time to time  information provided by us  statements made by our employees or information included in our filings with the securities and exchange commission including this form k may contain statements that are not historical facts  so called forward looking statements  which involve risks and uncertainties 
+such forward looking statements are made pursuant to the safe harbor provisions of section e of the securities exchange act of  as amended 
+in some cases  you can identify forward looking statements by terminology such as may  should  could  will  expect  intend  plans  predict  anticipate  estimate  continue  believe or the negative of these terms or other similar words 
+these statements discuss future expectations  contain projections of results of operations or of financial condition or state other forward looking information 
+when considering forward looking statements  you should keep in mind the risk factors and other cautionary statements in this form k 
+our actual future results may differ significantly from those stated in any forward looking statements 
+factors that may cause such differences include  but are not limited to  the factors discussed below 
+each of these factors  and others  are discussed from time to time in our filings with the securities and exchange commission 
+our strategic direction has changed 
+the company has gone from primarily providing vlsi infrastructure products to more customer premise licensing ip cores and voip based products 
+as a result  we are suffering through a period of larger losses  including from operations as well as from write downs of goodwill and other intangibles assets 
+our total revenue has decreased from million in to million in product revenue has decreased from million in to million in as our business model changes there can be no assurances that the move to these new product lines will produce acceptable results 
+moreover  any other future changes to our business may not prove successful in the short or long term due to a variety of factors  including competition  customer acceptance  demand for our products and other factors 
+this may cause a material negative impact on our financial results 
+we are using our available cash and cash equivalents each quarter to fund our operations  investments and financing activities 
+we have incurred significant losses in prior periods 
+our revenues and operating results have fluctuated in the past and may fluctuate in the future and we may incur losses and negative cash flows in future periods 
+these fluctuations are due to a number of factors  many of which are beyond our control 
+these factors include  among others the effects of competitive pricing pressures  including decreases in average selling prices of our products  market acceptance of our products and our customers products  our customers product to market launch schedules  our ability to develop  introduce  market and support new products and technologies on a timely basis  availability and cost of products from our suppliers  intellectual property disputes  the timing of receipt  reduction or cancellation of significant orders by customers  the effects of our competitors new product and technology introductions  fluctuations in the levels of component inventories held by our customers and distributors and changes in our customers and distributors inventory management practices  shifts in our product mix and the effect of maturing products  the timing and extent of product development costs  new product and technology introductions by us or our competitors  fluctuations in manufacturing yields  and significant warranty claims  including those not covered by our suppliers 
+the foregoing factors are difficult to forecast  and these  as well as other factors  could materially and adversely affect our quarterly or annual operating results 
+our operating results may fluctuate because of a number of factors  many of which are beyond our control 
+if our operating results are below the expectations of public market analysts or investors  then the market price of our common stock could decline 
+our net revenues may decrease 
+due to current economic conditions and slowdowns in purchases of vlsi semiconductor devices  it has become increasingly difficult for us to predict the purchasing activities of our telecom customers and we expect that our net revenues may decrease further 
+our business is characterized by short term orders and shipment schedules  and customer orders typically can be cancelled or rescheduled without significant penalty to our customers 
+because we do not have substantial non cancelable backlog  we typically plan our production and inventory levels based on internal forecasts of customer demand  which are highly unpredictable and can fluctuate substantially 
+future fluctuations to our operating results may also be caused by a number of factors  many of which are beyond our control 
+in response to anticipated long lead times to obtain inventory and materials from our foundries  we may order inventory and materials in advance of anticipated customer demand  which might result in excess inventory levels if the expected orders fail to materialize 
+as a result  we cannot predict the timing and amount of shipments to our customers  and any significant downturn in customer demand for our products would reduce our quarterly and annual operating results 
+if we seek to secure additional financing we may not be able to do so 
+if we are able to secure additional financing our stockholders may experience dilution of their ownership interest or we may be subject to limitations on our operations 
+if we are unable to generate sufficient cash flows from operations to meet our anticipated needs for working capital and capital expenditures  we may need to raise additional funds 
+however  events in the future may require us to seek additional capital and  if so required  that capital may not be available on terms favorable or acceptable to us  if at all 
+if we raise additional funds through the issuance of equity securities  our stockholders may experience dilution of their ownership interest  and the newly issued securities may have rights superior to those of our common stock 
+on october   we filed a shelf registration statement on form s file no 
+the shelf registration statement which was declared effective by the securities and exchange commission on october   to sell up to  of our securities 
+during and  we issued shares for proceeds to the company in an amount of  worth of common stock under the shelf registration statement 
+accordingly  we have a value of  of shares of our common stock  which could still be issued under this arrangement 
+on february   we entered into an at market issuance sales agreement with mlv co 
+llc mlv  pursuant to which we may issue and sell shares of our common stock having an aggregate offering price of up to  from time to time through mlv 
+our stock price is volatile 
+the market for securities for communication semiconductor companies  including our company  has been highly volatile 
+the daily closing price of our common stock has fluctuated between a low of and a high of share price is reflective of the november  for reverse stock split during the period from january  to december  it is likely that the price of our common stock will continue to fluctuate widely in the future 
+factors affecting the trading price of our common stock include responses to quarter to quarter variations in operating results  announcements of technological innovations or new products by us or our competitors  current market conditions in our served markets  and changes in earnings estimates by analysts 
+we may have to further restructure our business 
+we may have to make further restructuring changes if we do not sustain the current level of quarterly revenues 
+our restructurings could result in management distractions  operational disruptions  and other difficulties 
+over the past several years  we have initiated several restructuring activities in an effort to reduce operating costs 
+our most recent restructuring was announced on october  employees whose positions were eliminated in connection with these restructuring activities may seek employment with our customers or competitors 
+although each of our employees is required to sign a confidentiality agreement with us at the time of hire  we cannot guarantee that the confidential nature of our proprietary information will be maintained in the course of such future employment 
+additionally  we cannot guarantee that we will not undertake additional restructuring activities and that our restructuring efforts will be successful  or that we will be able to realize the cost savings and other anticipated benefits from our previous restructuring plans 
+also  if we continue to reduce our workforce  it may adversely impact our ability to respond rapidly to new growth opportunities 
+we anticipate that shipments of our products to relatively few customers will continue to account for a significant portion of our total net revenues 
+historically  a relatively small number of customers have accounted for a significant portion of our total net revenues in any particular period 
+for the years ended december  and  shipments to our top five customers  including sales through distributors  accounted for approximately and of our total net revenues  respectively 
+we expect that a limited number of customers may account for a substantial portion of our total net revenues for the foreseeable future 
+some of the following may reduce our total net revenues or adversely affect our business reduction  delay or cancellation of orders from one or more of our significant customers  development by one or more of our significant customers of other sources of supply for current or future products  loss of one or more of our current customers or a disruption in our sales and distribution channels  and failure of one or more of our significant customers to make timely payment of our invoices 
+we cannot be certain that our current customers will continue to place orders with us  that orders by existing customers will return to the levels of previous periods or that we will be able to obtain orders from new customers 
+we have no long term volume purchase commitments from any of our significant customers 
+the cyclical nature of the communication semiconductor industry affects our business 
+communication service providers  internet service providers  regional operating companies and inter exchange carriers continue to closely monitor their capital expenditures 
+spending on voice only equipment remains slow while spending on equipment providing the efficient transport of data services on existing infrastructure appears to be slowly recovering 
+demand for new  high bandwidth applications such as video conferencing  broadband audio and telephone is placing an increased burden on existing public network infrastructure 
+we cannot be certain that the market for our products will not decline in the future 
+because of our lack of diversity in geographic sources of revenues  economic factors specific to certain countries may adversely affect our business and operating results 
+during  a substantial amount of our revenue was from china  japan  korea  taiwan  italy  israel and other foreign countries 
+we expect revenues in will be substantially concentrated in foreign markets 
+all of our sales have been historically denominated in us dollars and major fluctuations in currency exchange rates could materially affect our customers demand  thereby causing them to reduce their orders  which could adversely affect our operating results 
+while part of our strategy is to diversify the geographic sources of our revenues  failure to further penetrate other markets could harm our business and results of operations and subject us to increased currency risk 
+if foreign exchange rates fluctuate significantly  our profitability may decline 
+we are exposed to foreign currency rate fluctuations because we incur a significant portion of our operating expenses in currencies other than us dollars mainly indian rupees  israeli shekels and euros 
+the us dollar has fluctuated significantly in the past couple of years and this trend may continue 
+our international business operations expose us to a variety of business risks 
+foreign markets are a significant part of our net product revenues 
+for the years ended december  and  foreign shipments accounted for approximately and  respectively of our total net product and services revenues 
+we expect foreign markets to continue to account for a significant percentage of our total net revenues 
+a significant portion of our total net revenues will  therefore  be subject to risks associated with foreign markets  including the following unexpected changes in legal and regulatory requirements and policy changes affecting the telecommunications and data communications markets  changes in tariffs  exchange rates  currency controls and other barriers  political and economic instability  risk of terrorism or war  difficulties in accounts receivable collection  difficulties in managing distributors and representatives  difficulties in staffing and managing foreign operations  difficulties in protecting our intellectual property overseas  natural disasters  seasonality of customer buying patterns  and potentially adverse tax consequences 
+although substantially all of our total net revenues to date have been denominated in us dollars  the value of the us dollar in relation to foreign currencies also may reduce our total net revenues from foreign customers 
+a substantial amount of our costs are denominated in israeli shekels and the indian rupees 
+to the extent that we further expand our international operations or change our pricing practices to denominate prices in foreign currencies  we will expose our margins to increased risks of currency fluctuations 
+our net product revenues depend on the success of our customers products  and our design wins do not necessarily generate revenues in a timely fashion 
+our customers generally incorporate our new products into their products or systems at the design stage 
+however  customer decisions to use our products design wins  which can often require significant expenditures by us without any assurance of success  often precede the generation of production revenues  if any  by a year or more 
+some customer projects are canceled  and thus will not generate revenues for our products 
+in addition  even after we achieve a design win  a customer may require further design changes 
+implementing these design changes can require significant expenditures of time and expense by us in the development and pre production process 
+moreover  the value of any design win will largely depend upon the commercial success of the customer s product and on the extent to which the design of the customer s systems accommodates components manufactured by our competitors 
+we cannot ensure that we will continue to achieve design wins in customer products that achieve market acceptance 
+further  most revenue generating design wins take several years to translate into meaningful revenues 
+we must successfully transition to new process technologies to remain competitive 
+our future success depends upon our ability to develop products that utilize new process technologies 
+semiconductor design and process methodologies are subject to rapid technological change and require large expenditures for research and development 
+we currently manufacture our products using  and nanometer complementary metal oxide semiconductor cmos processes 
+we continuously evaluate the benefits  on a product by product basis  of migrating to smaller geometry process technologies 
+other companies in the industry have experienced difficulty in transitioning to new manufacturing processes and  consequently  have suffered increased costs  reduced yields or delays in product deliveries 
+we believe that transitioning our products to smaller geometry process technologies will be important for us to remain competitive 
+we cannot be certain that we can make such a transition successfully  if at all  without delay or inefficiencies 
+our success depends on the timely development of new products  and we face risks of product development delays 
+our success depends upon our ability to develop new devices and software for existing and new markets 
+the development of these new devices and software is highly complex  and from time to time we have experienced delays in completing the development of new products 
+successful product development and introduction depends on a number of factors  including the following accurate new product definition  timely completion and introduction of new product designs  availability of foundry capacity  achievement of manufacturing yields  and market acceptance of our products and our customers products 
+our success also depends upon our ability to do the following build products to applicable standards or customer specifications  develop products that meet customer requirements  adjust to changing market conditions as quickly and cost effectively as necessary to compete successfully  introduce new products that achieve market acceptance  and develop reliable software to meet our customers application needs in a timely fashion 
+in addition  we cannot ensure that the systems manufactured by our customers will be introduced in a timely manner or that such systems will achieve market acceptance 
+we sell a range of products that each has a different gross profit 
+our total gross profits will be adversely affected if most of our shipments are of products with low gross profits 
+we currently sell more than product families 
+some of our products have a high gross profit while others do not 
+if our customers decide to buy more of our products with low gross profits and fewer of our products with high gross profits  our total gross profits could be adversely affected 
+we plan our mix of products based on our internal forecasts of customer demand  which are highly unpredictable and can fluctuate substantially 
+the price of our products tends to decrease over the lives of our products 
+historically  average selling prices in the communication semiconductor industry have decreased over the life of a product  and  as a result  the average selling prices of our products may decrease in the future 
+decreases in the price of our products would adversely affect our operating results 
+as global competition increases  our customers are increasingly more focused on price 
+we may have to decrease our prices to remain competitive in some situations  which may negatively impact our gross margins 
+our success depends on the rate of growth of the global communications infrastructure 
+we currently derive most of our net revenues from products for telecommunications  data and video communications applications 
+these markets are characterized by the following susceptibility to seasonality of customer buying patterns  subject to general business cycles  intense competition  rapid technological change  and short product life cycles 
+we anticipate that these markets will continue to experience significant volatility and reduced demand in the near future 
+our products must successfully include industry standards to remain competitive 
+products for telecommunications and data communications applications are based on industry standards  which are continually evolving 
+our future success will depend  in part  upon our ability to successfully develop and introduce new products based on emerging industry standards  which could render our existing products unmarketable or obsolete 
+if the telecommunications or data communications markets evolve to new standards  we cannot be certain that we will be able to successfully design and manufacture new products that address the needs of our customers and include the new standards or that such new products will meet with substantial market acceptance 
+our business has been and may continue to be significantly impacted by the deterioration in worldwide economic conditions  and the current uncertainty in the outlook for the global economy makes it more likely that our actual results will differ materially from expectations 
+global credit and financial markets continue to experience disruptions  including diminished liquidity and credit availability  declines in consumer confidence  declines in economic growth  increases in unemployment rates  and continued uncertainty about economic stability 
+despite signs of improvement  there can be no assurance that there will not be renewed deterioration in credit and financial markets and confidence in economic conditions 
+these economic uncertainties affect businesses such as ours in a number of ways  making it difficult to accurately forecast and plan our future business activities 
+the continued or further tightening of credit in financial markets may lead consumers and businesses to postpone spending  which may cause our customers to cancel  decrease or delay their existing and future orders with us 
+in addition  financial difficulties experienced by our suppliers or distributors could result in product delays  increased accounts receivable defaults and inventory challenges 
+the volatility in the credit markets has severely diminished liquidity and capital availability 
+the licensing component of our business strategy increases business risk and volatility 
+part of our business strategy is to license ip through agreements with companies whereby companies incorporate our ip into their respective technologies that address certain markets 
+there can be no assurance that additional companies will be interested in licensing our technology on commercially favorable terms or at all 
+we also cannot ensure that companies who license our technology will introduce and sell products incorporating our technology  will accurately report royalties owed to us  will pay agreed upon royalties  will honor agreed upon market restrictions  will not infringe upon or misappropriate our intellectual property and will maintain the confidentiality of our proprietary information 
+the ip agreements are complex and depend upon many factors including completion of milestones  allocation of values to delivered items and customer acceptances 
+many of these factors require significant judgments 
+licensing revenue could fluctuate significantly from period to period because it is heavily dependent on a few key deals being completed in a particular period  the timing of which is difficult to predict and may not match our expectations 
+because of its high margin content  the licensing mix of our revenue can have a disproportionate impact on gross profit and profitability 
+also  generating revenue from these arrangements is a lengthy and complex process that may last beyond the period in which efforts begin and once an agreement is in place  the timing of revenue recognition may be dependent on customer acceptance of deliverables  achievement of milestones  our ability to track and report progress on contracts  customer commercialization of the licensed technology and other factors 
+licensing that occurs in connection with actual or contemplated litigation is subject to risk that the adversarial nature of the transaction will induce non compliance or non payment 
+the accounting rules associated with recognizing revenue from these transactions are increasingly complex and subject to interpretation 
+due to these factors  the amount of license revenue recognized in any period may differ significantly from our expectations 
+our intellectual property indemnification practices may adversely impact our business 
+we have historically agreed to indemnify our customers for certain costs and damages of intellectual property rights in circumstances where one of our products is the factor creating the customer s infringement exposure 
+this practice may subject us to significant indemnification claims by our customers 
+in some instances  our products are designed for use in devices manufactured by our customers that comply with international standards 
+these international standards are often covered by patent rights held by third parties  which may include our competitors 
+the costs of obtaining licenses from holders of patent rights essential to such international standards could be high 
+the cost of not obtaining such licenses could also be high if a holder of such patent rights brings a claim for patent infringement 
+we are not aware of any claimed violations on our part 
+however  we cannot assure you that claims for indemnification will not be made or that if made  such claims would not have a material adverse effect on our business  results of operations or financial condition 
+we continue to expense our new product process development costs when incurred 
+in the past  we have incurred significant new product and process development costs because our policy is to expense these costs  including tooling  fabrication and pre production expenses  at the time that they are incurred 
+we may continue to incur these types of expenses in the future 
+these additional expenses will have a material and adverse effect on our operating results in future periods 
+we face intense competition in the semiconductor market 
+the communication semiconductor industry is intensely competitive and is characterized by the following rapid technological change  subject to general business cycles  price erosion  limited access to fabrication capacity  unforeseen manufacturing yield problems  and heightened international competition in many markets 
+these factors are likely to result in pricing pressures on our products  thus potentially affecting our operating results 
+our ability to compete successfully in the rapidly evolving area of high performance integrated circuit technology depends on factors both within and outside our control  including success in designing and subcontracting the manufacture of new products that implement new technologies  protection of our products by effective use of intellectual property laws  product quality  reliability  price  efficiency of production  failure to find alternative manufacturing sources to produce our products with acceptable manufacturing yields  the pace at which customers incorporate our products into their products  success of competitors products  and general economic conditions 
+the markets that we serve are intensely competitive 
+a number of our customers have internal semiconductor design or manufacturing capability with which we also compete in addition to our other competitors 
+any failure by us to compete successfully in these target markets  would have a material adverse effect on our business  financial condition and results of operations 
+we rely on outside fabrication facilities  and our business could be hurt if our relationships with our foundry suppliers are damaged 
+we do not own or operate a vlsi circuit fabrication facility 
+a few foundries currently supply us with all of our semiconductor device requirements 
+while we have had good relations with these foundries  we cannot be certain that we will be able to renew or maintain contracts with them or negotiate new contracts to replace those that expire 
+in addition  we cannot be certain that renewed or new contracts will contain terms as favorable as our current terms 
+there are other significant risks associated with our reliance on outside foundries  including the following the lack of assured semiconductor wafer supply and control over delivery schedules  the unavailability of  or delays in obtaining access to  key process technologies  and limited control over quality assurance  manufacturing yields and production costs 
+reliance on third party fabrication facilities limits our ability to control the manufacturing process 
+manufacturing integrated circuits is a highly complex and technology intensive process 
+we work closely with our foundries to minimize the likelihood of reduced manufacturing yields  however  our foundries occasionally experience lower than anticipated manufacturing yields  particularly in connection with the introduction of new products and the installation and start up of new process technologies 
+such reduced manufacturing yields have at times reduced our operating results 
+a manufacturing disruption at one or more of our outside foundries  including  without limitation  those that may result from natural disasters  accidents  acts of terrorism or political instability or other natural occurrences  could impact production for an extended period of time 
+our dependence on a small number of fabrication facilities exposes us to risks of interruptions in deliveries of semiconductor devices 
+we purchase semiconductor devices from outside foundries pursuant to purchase orders  and we do not have a guaranteed level of production capacity at any of our foundries 
+we provide the foundries with forecasts of our production requirements 
+however  the ability of each foundry to provide wafers to us is limited by the foundry s available capacity and the availability of raw materials 
+therefore  our foundry suppliers could choose to prioritize capacity and raw materials for other customers or reduce or eliminate deliveries to us on short notice 
+accordingly  we cannot be certain that our foundries will allocate sufficient capacity to satisfy our requirements 
+we have been  and expect in the future to be  particularly dependent upon a limited number of foundries for our vlsi device requirements 
+in  one outside wafer foundry supplied a substantial amount of our total semiconductor wafer requirements 
+the time required to qualify alternative manufacturing sources for existing or new products could be substantial and we might not be able to find alternative manufacturing sources able to produce our vlsi devices with acceptable manufacturing yields 
+as a result  we expect that we could experience substantial delays or interruptions in the shipment of our products if there was a sudden increase in demand or if our foundry suppliers were to cease operations or limit our capacity 
+we are subject to risks arising from our use of subcontractors to assemble our products 
+contract assembly houses in asia assemble all of our semiconductor products 
+raw material shortages  natural disasters  political and social instability  service disruptions  labor disputes  rising wages  currency fluctuations  or other circumstances in the region could force us to seek additional or alternative sources of supply or assembly 
+this could lead to supply constraints or product delivery delays 
+our failure to protect our proprietary rights  or the costs of protecting these rights  may harm our ability to compete 
+our success depends in part on our ability to obtain patents and licenses and to preserve other intellectual property rights covering our products and development and testing tools 
+to that end  we have obtained certain domestic and foreign patents and intend to continue to seek patents on our inventions when appropriate 
+the process of seeking patent protection can be time consuming and expensive 
+we cannot ensure the following that patents will be issued from currently pending or future applications  that our existing patents or any new patents will be sufficient in scope or strength to provide meaningful protection or any commercial advantage to us  that foreign intellectual property laws will protect our foreign intellectual property rights  and that others will not independently develop similar products  duplicate our products or design around any patents issued to us 
+intellectual property rights are uncertain and adjudication of such rights involves complex legal and factual questions 
+we may be unknowingly infringing on the proprietary rights of others and may be liable for that infringement  which could result in significant liability for us 
+we occasionally receive correspondence from third parties alleging infringement of their intellectual property rights 
+if we are found to infringe the proprietary rights of others  we could be forced to either seek a license to the intellectual property rights of others or alter our products so that they no longer infringe the proprietary rights of others 
+a license could be very expensive to obtain or may not be available at all 
+similarly  changing our products or processes to avoid infringing the rights of others may be costly or impractical 
+we are responsible for any patent litigation costs 
+if we were to become involved in a dispute regarding intellectual property  whether ours or that of another company  we may have to participate in legal proceedings in the united states patent and trademark office or in the united states or foreign courts to determine any or all of the following issues patent validity  patent infringement  patent ownership or inventorship 
+these types of proceedings may be costly and time consuming for us  even if we eventually prevail 
+if we do not prevail  we might be forced to pay significant damages  obtain a license  if available  or stop making a certain product 
+from time to time  we may prosecute patent litigation against others and as part of such litigation  other parties may allege that our patents are not infringed  are invalid and are unenforceable 
+we also rely on trade secrets  proprietary know how and confidentiality provisions in agreements with employees and consultants to protect our intellectual property 
+such parties may not comply with the terms of their agreements with us  and we may not be able to adequately enforce our rights against these parties 
+we may not be able to pay our debt and other obligations 
+if our cash  cash equivalents and operating cash flows are inadequate to meet our obligations  we could face substantial liquidity problems 
+if we are unable to generate sufficient cash flow or otherwise obtain funds necessary to make required payments on the amended and restated business financing agreement between us and bridge bank  na or our other obligations  we would be in default under their respective terms 
+any such default or cross default would have a material adverse effect on our business  prospects  financial condition and operating results 
+the loss of key management could affect our ability to run our business 
+our success depends largely upon the continued service of our executive officers and technical personnel and on our ability to continue to attract  retain and motivate other qualified personnel 
+as the source of our technological and product innovations  our key technical personnel represent a significant asset 
+the competition for such personnel can be intense in the semiconductor industry 
+we may also have a particularly hard time attracting and retaining key personnel during periods of poor performance and during this period following our most recent restructuring 
+we may engage in acquisitions that may harm our operating results  dilute our stockholders and cause us to incur debt or assume contingent liabilities 
+we may pursue acquisitions from time to time that could provide new technologies  skills  products or service offerings 
+future acquisitions by us may involve the following use of significant amounts of cash and cash equivalents  potentially dilutive issuances of equity securities  and incurrence of debt or amortization expenses related to intangible assets with definitive lives 
+in addition  acquisitions involve numerous other risks  including diversion of management s attention from other business concerns  risks of entering markets in which we have no or limited prior experience  and unanticipated expenses and operational disruptions while acquiring and integrating new acquisitions 
+from time to time  we have engaged in discussions with third parties concerning potential acquisitions of product lines  technologies and businesses 
+we currently have no commitments or agreements with respect to any such acquisition 
+if such an acquisition does occur  we cannot be certain that our business  operating results and financial condition will not be materially adversely affected or that we will realize the anticipated benefits of the acquisition 
+our business could be harmed if we fail to integrate future acquisitions adequately 
+during the past five years  we have acquired three companies  one based in the united states and two in israel 
+our management must devote time and resources to the integration of the operations of any future acquisitions 
+the process of integrating research and development initiatives  computer and accounting systems and other aspects of the operations of any future acquisitions presents a significant challenge to our management 
+this is compounded by the challenge of simultaneously managing a larger and more geographically dispersed entity 
+future acquisitions could present a number of additional difficulties of integration  including difficulties in integrating personnel with disparate business backgrounds and cultures  difficulties in defining and executing a comprehensive product strategy  and difficulties in minimizing the loss of key employees of the acquired company 
+if we delay integrating or fail to integrate operations or experience other unforeseen difficulties  the integration process may require a disproportionate amount of our management s attention and financial and other resources 
+our failure to address these difficulties adequately could harm our business or financial results  and we could fail to realize the anticipated benefits of the transaction 
+we have  in the past  as a result of industry conditions  discontinued or abandoned certain product lines acquired through acquisitions 
+we could be subject to class action litigation due to stock price volatility  which if it occurs  will distract our management and could result in substantial costs or large judgments against us 
+in the past  securities and class action litigation has often been brought against companies following periods of volatility in the market prices of their securities 
+we may be the target of similar litigation in the future 
+securities litigation could result in substantial costs and divert our management s attention and resources  which could cause serious harm to our business  operating results and financial condition or dilution to our stockholders 
+provisions of our certificate of incorporation  by laws  rights agreement and delaware law may discourage takeover offers and may limit the price investors would be willing to pay for our common stock 
+delaware corporate law contains  and our certificate of incorporation and by laws and rights agreement contain  certain provisions that could have the effect of delaying  deferring or preventing a change in control of our company even if a change of control would be beneficial to our stockholders 
+these provisions could limit the price that certain investors might be willing to pay in the future for shares of our common stock 
+certain of these provisions authorize the issuance of blank check preferred stock preferred stock which our board of directors can create and issue without prior stockholder approval with rights senior to those of common stock  prohibit stockholder action by written consent  establish advance notice requirements for submitting nominations for election to the board of directors and for proposing matters that can be acted upon by stockholders at a meeting  and dilute stockholders who acquire more than of our common stock 
+natural disasters or acts of terrorism affecting our locations  or those of our suppliers  in the united states or internationally may negatively impact our business 
+we operate our businesses in the united states and internationally  including the operation of a design center in india  and sales  design and engineering operations in israel 
+some of the countries in which we operate or in which our customers are located have in the past been subject to terrorist acts and could continue to be subject to acts of terrorism 
+in addition  some of these areas may be subject to natural disasters  such as earthquakes or floods 
+if our facilities  or those of our suppliers or customers  are affected by a natural disaster or terrorist act  our employees could be injured and those facilities damaged  which could lead to loss of skill sets and affect the development or fabrication of our products  which could lead to lower short and long term revenues 
+in addition  natural disasters or terrorist acts in the areas in which we operate or in which our customers or suppliers operate could lead to delays or loss of business opportunities  as well as changes in security and operations at those locations  which could increase our operating costs 
+our ability to sublease excess office space may adversely affect our future cash outflows 
+we have outstanding operating lease commitments of approximately million  payable over the next six years 
+some of these commitments are for space that is not being utilized and  for which  we recorded restructuring charges in prior periods 
+we currently have subleases for the majority of our excess space but our sublease income generated will not offset the entire future commitment 
+as of december   we have sublease agreements totaling approximately million to rent portions of our excess facilities over the next six years 
+we currently believe that we can fund these lease commitments in the future  however  there can be no assurances that we will not be required to seek additional capital or provide additional guarantees or collateral on these obligations 
+of the office space being leased in our shelton  connecticut location  as of december   approximately  square feet is considered excess  the majority of which we have taken restructuring charges for in prior years 
+substantially all of this space is currently being sublet  but not for the full amount of our lease obligation 
+if we are unable to collect our sub lease rents  our future cash outflows would be adversely affected 
+item b 
+unresolved staff comments not applicable 
+item properties our headquarters is located in a suburban office park in shelton  connecticut 
+we have additional sales offices and design centers located throughout the world 
+the following is a summary of our material offices and locations for which we have lease commitments 
+spacer 
+gif 
+
+spacer 
+gif 
+
+spacer 
+gif 
+
+spacer 
+gif 
+location business use square footage lease expiration dates shelton  connecticut corporation headquarters  product development  operations  sales  marketing and administration  less than year herzeliya  israel product development  sales service  less than year new delhi  india product development  january fremont  california product development  sales  marketing and administration  january  bangalore  india product development  february excess property shelton  connecticut subleased or available for lease  november april 
+line 
+gif 
+ square feet of excess space is currently subject to subleases and  square feet is available for lease 
+internationally  we also lease space in japan  china  taiwan  france and south korea for sales offices 
+our current facilities are adequate for our needs 
+refer to note commitments and contingencies of our consolidated financial statements for additional disclosures regarding our commitments under lease obligations 
+also  refer to note restructuring charges of our consolidated financial statements regarding our restructuring charges during fiscal years through as we have recorded charges for future rent payments relating to excess office space 
+item legal proceedings we are not party to any material litigation proceedings 
+from time to time  we may be subject to legal proceedings and claims in the ordinary course of business 
+we are not currently aware of any such proceedings or claims that we believe will have  individually or in the aggregate  a material adverse effect on the business  financial condition or results of our operations 
+item mine safety disclosures not applicable 
+part ii item market for registrant s common equity  related stockholder matters and issuer purchases of equity securities our common stock is traded under the symbol txcc on the nasdaq capital market 
+the following table sets forth  for the periods indicated  the range of high and low closing prices for our common stock 
+the closing prices indicated reflect the for reverse stock split that was effected on november  
+spacer 
+gif 
+
+spacer 
+gif 
+
+spacer 
+gif 
+high low quarter to date first quarter through march  year ended december  first quarter second quarter third quarter fourth quarter year ended december  first quarter second quarter third quarter fourth quarter as of march   there were approximately holders of record and approximately  beneficial shareholders of our common stock 
+we have never paid cash dividends on our common stock 
+we currently do not anticipate paying any cash dividend in the foreseeable future 
+any future declaration and payment of dividends will be subject to the discretion of our board of directors  will be subject to applicable law and will depend upon our results of operations  earnings  financial condition  contractual limitations  cash requirements  future prospects and any other factors deemed relevant by our board of directors 
+we also have securities authorized for issuance under equity compensation plans 
+the following table provides information as of december  with respect to shares of our common stock that may be issued under our existing equity compensation plans  including our third amended and restated stock plan the plan  stock option plan the plan  equity incentive plan the plan  and employee stock purchase plan the purchase plan 
+no shares are available for future grants under the plan or plan 
+
+spacer 
+gif 
+
+spacer 
+gif 
+
+spacer 
+gif 
+
+spacer 
+gif 
+plan category number of securities to be issued upon exercise of outstanding options  warrants and rights weighted average exercise price of outstanding options  warrants and rights number of securities remaining available for future issuance under equity compensation plans excluding securities reflected in column a a b c equity compensation plans approved by stockholders  equity compensation plans not approved by stockholders  total   
+line 
+gif 
+consists of the plan  the plan  and the purchase plan 
+consists of the plan 
+excludes purchase rights accruing under the purchase plan which has a stockholder approved reserve of  shares 
+under the purchase plan  each eligible employee is able to purchase up to  shares of our common stock at semi annual intervals each year at a purchase price per share equal to of the lower of the fair market value of our common stock on the first or last trading day of a purchase period 
+includes restricted stock units of  these awards have no strike price and are issued from our plan 
+equity compensation plans not approved by stockholders stock option plan 
+the purpose of the plan adopted by our board of directors on july  and amended on december   was to promote our long term success  by providing financial incentives to employees and consultants of the company who are in positions to make significant contributions toward such success  except that no member of our board of directors or officer of the company appointed by the board of directors was eligible for grants of options under the plan 
+the plan was designed to attract individuals of outstanding ability to become or to continue as employees or consultants  to enable such individuals to acquire or increase their proprietary interest in the company through the ownership of shares of our common stock  and to incentivize such individuals to render superior performance during their associations with us  by providing opportunities to participate in the ownership of our future growth through the granting of nqsos 
+the plan was administered by our board of directors or  at its option  a committee appointed by our board of directors 
+a total of  shares of common stock were reserved for issuance under the plan 
+in april  our board of directors determined that no further awards would be made under this plan and that all remaining  shares available for issuance under the plan that were not subject to outstanding stock option awards would be eligible for issuance under the equity incentive plan 
+issuer purchases of equity securities on february   we announced that our board of directors authorized a stock repurchase program under which we could repurchase up to million of our outstanding common stock 
+the share repurchase program authorized the repurchase of shares through february  from time to time  through transactions in the open market or in privately negotiated transactions 
+during the years ended december  and  we did not repurchase any shares 
+item selected financial data the following selected consolidated financial data should be read in conjunction with the consolidated financial statements and related notes thereto and management s discussion and analysis of financial condition and results of operations appearing in item of this form k 
+the selected consolidated statements of operations data as well as the selected consolidated balance sheets data presented below are derived from our consolidated financial statements 
+
+spacer 
+gif 
+
+spacer 
+gif 
+
+spacer 
+gif 
+
+spacer 
+gif 
+
+spacer 
+gif 
+
+spacer 
+gif 
+years ended december  amounts presented in thousands  except per share amounts selected consolidated statements of operations data net revenues     gross profit     operating loss     net loss     basic and diluted net loss per common share shares used in calculation of basic and diluted net loss per common share      
+spacer 
+gif 
+
+spacer 
+gif 
+
+spacer 
+gif 
+
+spacer 
+gif 
+
+spacer 
+gif 
+
+spacer 
+gif 
+december  selected consolidated balance sheets data cash  cash equivalents  restricted cash and short term investments total current assets     working capital     total non current assets    total assets     convertible notes due within one year   total current liabilities    convertible notes due  long term   convertible notes due  long term  total non current liabilities    total stockholders equity    
+line 
+gif 
+the reported net loss for    and reflects stock based compensation expenses of million  million  million  million and million  respectively 
+item management s discussion and analysis of financial condition and results of operations management s discussion and analysis of financial conditions and results of operations md a is provided to supplement the accompanying consolidated financial statements and notes in item to help provide an understanding of our financial condition  changes in our financial condition and results of operations 
+md a is organized as follows caution concerning forward looking statements 
+this section discusses how certain forward looking statements made by us throughout the md a are based on management s present expectations about future events and are inherently susceptible to uncertainty and changes in circumstances 
+overview 
+this section provides a general description of our business 
+critical accounting policies and use of estimates 
+this section discusses those accounting policies that are both considered important to our financial condition and operating results and require significant judgment and estimates on the part of management in their application 
+results of operations 
+this section provides an analysis of our results of operations for the years ended december   and in addition  a brief description is provided of transactions and events that impact the comparability of the results 
+liquidity and capital resources 
+this section provides an analysis of our cash position and cash flows  as well as a discussion of our financing arrangements 
+in this section  we also summarize related party transactions and recent accounting pronouncements not yet adopted by us 
+caution concerning forward looking statements management s discussion and analysis of financial condition and results of operations contain forward looking statements that involve risks and uncertainties 
+when used in this report  the words  intend  anticipate  believe  estimate  plan  expect and similar expressions as they relate to us are included to identify forward looking statements 
+our actual results could differ materially from those anticipated in these forward looking statements as a result of factors  including those set forth under item a 
+risk factors and elsewhere in this report 
+you should read this discussion in conjunction with the consolidated financial statements and the notes thereto included in this report 
+overview transwitch designs  develops and supplies innovative integrated circuit ic and intellectual property ip solutions that provide core functionality for voice  data and video communications equipment for network  enterprise and customer premises applications 
+we provide integrated multi core network processor system on a chip soc solutions and software solutions for fixed  g and g mobile  voip and multimedia infrastructures 
+for the customer premises market  we offer a family of communications processors that provide best in class performance for a range of applications and also provide interoperable connectivity solutions that provide a bridge between hdmi and displayport and enable the distribution and presentation of high definition hd content for consumer electronic  and personal computer markets 
+overall  we have over active customers  including the leading global telecom equipment providers  semiconductor and consumer product companies 
+transwitch corporation is a delaware corporation incorporated on april  our principal executive offices are located at enterprise drive  shelton ct  and our telephone number at that location is our internet address is www 
+transwitch 
+com 
+our common stock trades on the nasdaq capital market under the symbol txcc 
+our telecom products are sold to original equipment manufacturers oems for use in a variety of communications network equipment  including network infrastructure processing multi media processing engines to address multiple carrier segments such as wireline and wireless gateways  session border controllers sbc  media resource functions mrf  multi service access nodes msan  passive optical network multi dwelling units pon mdus and translation gateways 
+enterprise applications include voip private branch exchanges 
+communication network premises equipment ip multimedia subsystem ims and voice over lte volte capable g lte fixed wireless gateways  residential gateway routers  small office home office soho routers and secure voip private branch exchanges pbxs 
+our interoperable connectivity solutions are sold to oems for use in consumer electronics and personal computers 
+our revenues were million in  million in and million in as a result of decreased revenues over the past couple of years  we have taken strict cost control measures including the implementation of restructuring plans during and also  during  we paid in full our convertible notes due september  notes and as such there was no outstanding balance as of december  as compared to notes payable of million as of december  during the year ended december   we raised approximately million in net proceeds from the sale of  shares of our common stock see note of the notes to the consolidated financial statements 
+we also entered into an amended and restated business financing agreement the amended financing agreement with bridge bank na bridge bank on april  which amended and restated our existing credit facility 
+the amended financing agreement provides us a credit facility of up to million which bears interest at the higher of i the prime rate plus or ii percent  plus the payment of certain fees and expenses the facility 
+the facility is secured by substantially all of our personal property  including our accounts receivable and intellectual property 
+subject to the terms of the amended financing agreement  availability under the facility is based on a formula pursuant to which bridge bank would advance an amount equal to the lower of million or of our eligible accounts receivable  with account eligibility and advance rates determined by bridge bank in its sole discretion 
+the term of the facility is two years and at the expiration of such term  all loan advances under the facility will become immediately due and payable 
+at december   we had no outstanding borrowings under this facility 
+on february   we entered into an at market issuance sales agreement with mlv co 
+llc mlv  pursuant to which we may issue and sell shares of our common stock  par value per share  having an aggregate offering price of up to  from time to time through mlv the offering 
+also on february   we filed a prospectus supplement with the securities and exchange commission in connection with the offering 
+critical accounting policies and use of estimates our consolidated financial statements and related disclosures  which are prepared to conform with accounting principles generally accepted in the united states of america us gaap  require us to make estimates and assumptions that affect the reported amounts of assets  liabilities  revenues and expenses during the period reported 
+we are also required to disclose amounts of contingent assets and liabilities at the date of the consolidated financial statements 
+our actual results in future periods could differ from those estimates and assumptions 
+estimates and assumptions are reviewed periodically  and the effects of revisions are reflected in the consolidated financial statements in the period they are determined to be necessary 
+we consider the most critical accounting policies and uses of estimates in our consolidated financial statements to be those relating to recognizing net revenues  cost of revenues and gross profit  estimating allowances for doubtful accounts  estimating assumptions used in the calculation of stock based compensation  estimating values for intangibles and long lived assets  estimating values used for the goodwill impairment analysis  estimating excess inventories  estimating restructuring liabilities  and estimating values of investments in non publicly traded companies 
+these accounting policies  the bases for these estimates and their potential impact to our consolidated financial statements  should any of these estimates change  are further described as follows net revenues  cost of revenues and gross profit 
+net revenues are primarily comprised of product shipments  principally to domestic and international telecommunications and data communications oems and to distributors 
+net revenues from product sales to oems are recognized at the time of product shipment when the following criteria are met persuasive evidence of an arrangement exists  title and risk of loss transfers to the customer  the selling price is fixed or determinable  and collectability is reasonably assured 
+revenues from our distributors can be recognized when the prices are fixed at the date of shipment from our facilities  payment is not contractually or otherwise excused until the product is resold  we do not have any obligations for future performance relating to the resale of the product  and the amount of future returns  allowances  refunds and costs to be incurred can be reasonably estimated and are accrued at the time of shipment 
+agreements with certain distributors provide price protection and return and allowance rights 
+service revenues are recognized when the following criteria are met persuasive evidence of an arrangement exists  we have performed a service in accordance with our contractual obligations  the fee is fixed or determinable  and collectability is reasonably assured 
+at the time of shipment  we record a reduction to revenue with a related liability to accrue for future price protection 
+this liability is established based on historical experience  contractually agreed to provisions and future shipment forecasts 
+such accruals have been insignificant for the last three years 
+we also accrue  at the time of shipment  a reduction to revenue with a related liability and an inventory asset against product cost of revenues in order to establish a provision for the gross margin related to future returns under our distributor stock rotation program 
+such accruals related to reductions of revenue were million  million and million at december   and  respectively 
+the accruals related to inventory assets are insignificant to our financial position and results of operations for all periods presented 
+should our actual experience differ from our estimated liabilities  there could be adjustments either favorable or unfavorable to our net revenues  cost of revenues and gross profits 
+we warranty our products for up to one year from the date of shipment 
+warranty expense is insignificant to all periods presented 
+we license connectivity solutions  including hdmi  displayport and ethernet ip cores 
+revenues from licensing arrangements generally consist of multiple elements such as license  implementation and maintenance services 
+the items deliverables included in the arrangements are evaluated to determine whether they represent separate units of accounting 
+we perform this evaluation at the inception of an arrangement and as we deliver each item in the arrangement 
+generally  we account for a deliverable or a group of deliverables separately if the delivered item s has standalone value to the customer  there is objective and reliable evidence of the fair value of the undelivered items included in the arrangement  and if we have given the customer a general right of return relative to the delivered items  delivery or performance of the undelivered items or services are probable and substantially in our control 
+we also recognize revenue from royalties upon notification of sale by our licensees 
+the terms of the royalty agreements generally require licensees to give us notification and to pay royalties within days of the end of the quarter during which the sales by the licensees take place 
+estimated allowances for doubtful accounts 
+we record allowances for doubtful accounts for estimated losses based upon specifically identified amounts that we believe to be uncollectible along with our assessment of the general financial condition of our customer base 
+if our actual collections experience changes  revisions to our allowances may be required 
+we have a limited number of customers with individually large amounts due at any given balance sheet date 
+any unanticipated change in the creditworthiness of such a customer or other matters affecting the collectability of amounts due from such customers could have a material effect on our results of operations in the period in which such changes or events occur 
+stock based compensation 
+determining the amount of stock based compensation for awards granted includes selecting an appropriate model to calculate fair value at the grant date 
+we have used the black scholes option valuation model to value employee stock option awards 
+certain inputs to this valuation model require considerable judgment 
+these inputs include estimating the volatility of our stock  the expected life of the option awarded and the forfeiture rate 
+we have estimated volatility  the expected life and the forfeiture rate based on historical data 
+volatility is estimated over a term that approximates the expected life of the option awarded 
+intangibles and long lived assets including goodwill 
+we review long lived and intangible assets including goodwill for impairment at least annually  or whenever events or changes in circumstances indicate that the carrying amount of such assets may not be recoverable 
+when factors indicate that a long lived asset should be evaluated for possible impairment  an estimate of the related asset s undiscounted future cash flows over the remaining life of the asset is made to measure whether the carrying value is recoverable 
+any impairment is measured based upon the excess of the carrying value of the asset over its estimated fair value which is generally based on an estimate of future discounted cash flows 
+a significant amount of management judgment is used in estimating future discounted cash flows 
+during the fourth quarter of  impairment testing for certain purchased customer relationships and developed technology was performed by us and indicated that the undiscounted future cash flows of these intangible assets were less than its corresponding carrying amount 
+as a result of the analyses performed  we measured and recorded an impairment of these intangible assets of million in the impaired purchased customer relationships and developed technology related to a business acquisition in we did not record any impairment changes on any other intangibles or long lived assets in our impairment review of goodwill was performed using a fair value method and discounted cash flow models with estimated cash flows based on internal forecasts which included terminal values based on current market valuation metrics 
+the fair value represents the amount at which a reporting unit could be bought or sold in a current transaction between willing parties on an arms length basis 
+in estimating fair value  we used our common stock s market price to determine fair value and other valuation metrics 
+in addition  we performed discounted cash flow analysis on the reporting units to determine fair value 
+during the fourth quarter of  impairment testing performed by us indicated that the estimated fair value of the reporting unit tested was less than its corresponding carrying amount 
+as a result of the analyses performed  we recorded goodwill impairment charges of million in the impaired goodwill related to a business acquisition in we did not record any goodwill impairment charges in during the fourth quarter of  impairment testing we performed indicated that the estimated fair values of two reporting units tested were less than their corresponding carrying amounts 
+as a result of the analyses performed  we recorded a goodwill impairment charge of million in the impaired goodwill related to business acquisitions in and a considerable amount of management judgment and assumptions are required in performing impairment tests 
+while we believe that our judgments and assumptions were reasonable  different assumptions could change the estimated fair values and  therefore  additional impairment charges could be required 
+estimated excess inventories 
+we periodically review our inventory levels to determine if inventory is stated at the lower of cost or net realizable value 
+the telecommunications and data communications industries have experienced a significant downturn during the past few years and  as a result  we have had to evaluate our inventory position based on known backlog of orders  projected sales and marketing forecasts  shipment activity and inventory held at our significant distributors 
+we recorded charges for excess and obsolete inventories totaling approximately million in  million in and million in during  and  we recorded net product revenues of approximately million  million and million  respectively  on shipments of excess and obsolete inventory that had previously been written down to their estimated net realizable value of zero 
+this resulted in almost gross margin on these product revenues 
+had these products been sold at our historical average cost basis  gross margin on these revenues would have been  and in  and respectively 
+we currently do not anticipate that a significant amount of the excess and obsolete inventories subject to the write downs described above will be used in the future based upon our current demand forecast 
+should our actual future demand exceed the estimates that we used in writing down our excess and obsolete inventories  we will recognize a favorable impact to cost of revenues and gross profits 
+should demand fall below our current expectations  we may record additional inventory write downs which will result in a negative impact to cost of revenues and gross profits 
+estimated restructuring liabilities 
+during  we recorded a net restructuring benefit of million 
+on december   we entered into an amendment the amendment to a sublease agreement the sublease with an unaffiliated party to sublease  square feet of our office space in shelton  connecticut 
+as a result of the sublease  we reversed approximately million of previously accrued restructuring liabilities 
+this amendment extends the sublease through may this benefit was partially offset by approximately million of charges for workforce reductions implemented during in the third quarter of  we implemented a restructuring plan that included a workforce reduction of approximately positions primarily in our shelton  connecticut  fremont  california  new delhi  india and bangalore  india locations 
+we also implemented a restructuring plan in the first quarter of that included a workforce reduction of approximately positions primarily in our fremont  california  new delhi  india and bangalore  india locations 
+the restructuring charges are primarily for employee termination benefits 
+during  we recorded a net restructuring charge of approximately million 
+we implemented a restructuring plan in the first quarter of that included a workforce reduction of approximately positions in our shelton  connecticut  fremont  california  new delhi  india and bangalore  india locations 
+the restructuring charges were primarily for employee termination benefits 
+all of the related cash expenditures were paid during during  we recorded a net restructuring benefit of million related to new sublease agreements we entered into during for unused space in our shelton  connecticut location which were partially offset by charges related to workforce reductions and other restructuring adjustments 
+at december  and  the restructuring liabilities were million and million  respectively  on our consolidated balance sheets 
+restructuring liabilities at december  include approximately million of liabilities for facility lease costs and approximately million for employee termination benefits refer to note restructuring charges of the notes to consolidated financial statements 
+these facility operating leases expire in the future cash outlays for all of our operating lease commitments are discussed in note of the notes to consolidated financial statements 
+certain assumptions are used by us to derive this estimate  including future maintenance costs  price escalation and sublease income derived from these facilities 
+should we negotiate additional sublease rental income agreements or reach a settlement with our lessors to be released from our existing obligations  we could realize a favorable benefit to our results of future operations 
+should future lease  maintenance or other costs related to these facilities exceed our estimates  we could incur additional expenses in future periods 
+valuation of investments in non publicly traded companies 
+we have been making strategic equity investments in non publicly traded companies that develop technologies that are complementary to our product road map 
+depending on our level of ownership and whether or not we have the ability to exercise significant influence  we account for these investments on either the cost or equity method  and review such investments periodically for impairment 
+the appropriate reductions in carrying values are recorded when  and if  necessary 
+the process of assessing whether a particular investment s net realizable value is less than its carrying cost requires a significant amount of judgment 
+in making this judgment  we carefully consider the investee s cash position  projected cash flows both short and long term  financing needs  most recent valuation data  the current investing environment  management ownership changes  and competition 
+this evaluation process is based on information that we request from these privately held companies 
+this information is not subject to the same disclosure and audit requirements as the reports required of united states public companies  and as such  the reliability and accuracy of the data may vary 
+based on our evaluations  we recorded impairment charges related to our investments in non publicly traded companies of zero  zero  and less than million during  and  respectively 
+also  during the first quarter of  we sold our investment in opulan technologies corp 
+opulan for million 
+the carrying value of this investment in opulan was also million and accordingly no gain or loss was recorded on this transaction 
+the total investment in non public companies was million and million as of december  and  respectively 
+for further discussion  please refer to note investments in non publicly traded companies and venture capital funds in our consolidated financial statements 
+we used the modified equity method of accounting to determine the impairment loss for certain investments  as it was determined that no better current evidence of the value of our cost method investments existed and we believe that this gives us the best basis for our estimate given the historic negative cash flows of these companies 
+the modified equity method of accounting results in recording an impairment loss on a cost method investment equal to the investor s proportionate share of the investee s losses as its contributed capital is consumed to fund operating losses of the investee from the inception of the investor s investment 
+results of operations the results of operations that follow should be read in conjunction with our critical accounting policies and estimates summarized above as well as our consolidated financial statements and notes thereto contained in item of this report 
+the following table sets forth certain consolidated statements of operations data as a percentage of net revenues for the periods indicated 
+
+spacer 
+gif 
+
+spacer 
+gif 
+
+spacer 
+gif 
+
+spacer 
+gif 
+years ended december  net revenues product revenues service revenues total net revenues cost of revenues product cost of revenues provision for excess and obsolete inventories service cost of revenues total cost of revenues gross profit operating expenses research and development marketing and sales general and administrative restructuring credits charges  net impairment of goodwill and other intangibles reversal of accrued royalties  net total operating expenses operating loss comparison of fiscal years and net revenues 
+we have two product line categories network infrastructure and customer premises equipment cpe 
+our network infrastructure product lines include our optical transport  carrier ethernet and media gateway voip and broadband access product lines 
+the optical transport products are incorporated into oem systems that improve the efficiency of fiber optic networks for packetized data traffic  thereby increasing the overall network capacity 
+our media gateway voip products provide voice over ip and other packet processing functionality in a variety of equipment types deployed in wireless and wire line carrier networks as well as in enterprise networks 
+these equipment types include large capacity media gateways in the core of the network  small medium capacity access gateways in the last mile section of the network and customer premise equipment for business and residential subscribers 
+the broadband access product line is incorporated into equipment that provides high speed connections to subscribers using fiber fttx or dsl technology  enabling telecommunications service providers to support next generation voice  data and video services 
+the carrier ethernet product line facilitates the transition of existing networks based legacy voice oriented technologies to ethernet technology which is more suitable and efficient for supporting next generation converged video  data and voice services 
+our cpe product line category includes our high speed interface product line hdmi  displayport and ethernet ip cores which has been incorporated into a number of consumer electronics and pc appliances and multi service communications processors used in broadband modems or to be added as part of a small office  home office  or soho  network 
+our network infrastructure and multi service communications processor product lines continue to show a decline year over year  which may affect our impairment analysis of goodwill in the future 
+the following table summarizes our net revenue mix by product line category 
+spacer 
+gif 
+
+spacer 
+gif 
+
+spacer 
+gif 
+
+spacer 
+gif 
+
+spacer 
+gif 
+
+spacer 
+gif 
+year ended december  year ended december  percentage increase decrease in revenues tabular dollars in thousands revenues percent of total revenues revenues percent of total revenues network infrastructure   customer premises equipment   total   total net revenues in were million as compared to million in  a decrease of million or 
+our network infrastructure revenues decrease of approximately was a result of lower sales of optical transport and voip products due to reduced telecom infrastructure capital expenditures and reduced sales of our asic products 
+our cpe revenues decrease of approximately was attributable to the ramping down of our mustang gigabit ethernet passive optical product line towards the end of and reduced sales of our communications processor products 
+this reduction was partially offset by increased service revenues which include ip licensing of our high speed interface technology 
+for and  international net revenues were approximately and  respectively  of net revenues 
+as of december   our backlog was million  as compared to million as of december  backlog represents firm orders anticipated to be shipped  and service revenue expected to be billed under existing contracts  during the next months 
+our business and  to a large extent  that of the entire communication semiconductor industry  is characterized by short term order and shipment schedules 
+since orders constituting our current backlog are subject to changes in delivery schedules or to cancellation at the option of the purchaser without significant penalty  backlog is not necessarily indicative of future revenues 
+gross profit 
+gross profit was million and million for the years ended december  and  respectively  a decrease of approximately million for as compared to the decrease in gross profit was primarily the result of a decrease in net product revenues which was partially offset by higher gross margins on product revenues in the product gross profit was as a percentage of product revenue in as compared to in the total gross profit as a percentage of total revenue was and for and  respectively 
+the changes in gross margin percentage are mostly attributable to changes in product mix  especially a larger portion of royalties and higher margin ip licensing revenues 
+during the years ended december  and  gross profit was affected favorably in the amount of million and million  respectively  from the sales of products that had previously been written down to a cost basis of zero 
+also during the years ended december  and  we recorded provisions for excess and obsolete inventories in the amount of million and million  respectively 
+these charges had a negative impact on our gross profit 
+we anticipate that gross profit will continue to be impacted by fluctuations in the volume and mix of our product shipments as well as material costs  yield and the fixed cost absorption of our production operations 
+research and development 
+research and development expenses consist primarily of salaries and related costs of employees engaged in research  design and development activities  costs related to electronic design automation tools  subcontracting and fabrication costs  depreciation and amortization and facilities expenses 
+research and development expenses for were million which increased million  or as compared to the prior year 
+this was a result of increased spending in labor  subcontracting and fabrication costs for our high speed interface product line 
+marketing and sales 
+marketing and sales expenses consist primarily of personnel related expenses  trade shows  travel expenses and facilities expenses 
+marketing and sales expenses for were million which decreased million  or as compared to the prior year 
+this decrease was a result of lower salaries and employee related expenses due to cost cutting measures that were implemented in these decreases were partially offset by increased sales costs related to our high speed interface product line general and administrative 
+general and administrative g a expenses consist primarily of personnel related expenses  professional and legal fees  and facilities expenses 
+g a expenses remained flat at million in as compared to million in restructuring credits charges  net 
+during the years ended december  and  we recorded net restructuring credits of million and net restructuring charges of million  respectively 
+information on restructuring credits and charges for each of the last two years is located in note of the notes to consolidated financial statements 
+impairment of goodwill and other intangibles 
+for and  we recorded goodwill and other intangible impairment charges of million and zero  respectively 
+information on the impairment of goodwill and other intangibles recorded during is located in note and note of the notes to consolidated financial statements 
+interest expense net 
+interest expense  net was approximately million in  a decrease of million as compared to interest expense decreased from million in to million in due to lower debt balances resulting from the principal payments made on our notes 
+the interest payments on our debt balances were million and million for the years ended december  and  respectively 
+our notes were paid in full as of september  and as such there will be no interest payments on this debt after that date 
+interest income was million in both years ended december  and interest income may fluctuate in the future as a result of changes in market yields due to interest rate fluctuations and changes in our cash and investment balances 
+at december  and  the effective interest rates on our interest bearing securities were approximately and  respectively 
+other income expense 
+for the years ended december  and  we had other income of approximately million and million  respectively 
+the other income for was primarily due to both realized and unrealized exchange rate gains and losses which are recorded for the translation of our intercompany loan balances with our wholly owned subsidiaries 
+in  we determined that our intercompany loan balances with our foreign subsidiaries are classified as long term 
+as such  we recorded exchange gains and losses in the translation of these balances as other comprehensive income or loss for the year ended december  income tax expense 
+our income tax expense of million in and million in is applicable to the operating results of certain of our foreign subsidiaries  principally india 
+we have incurred significant taxable losses for united states federal and state purposes 
+we have not recognized any income tax benefits on those losses because their realization is uncertain 
+comparison of fiscal years and net revenues 
+we have two product line categories network infrastructure and customer premises equipment cpe 
+our network infrastructure product lines include our optical transport  carrier ethernet and media gateway using voip technology and broadband access product lines 
+the optical transport products are incorporated into oem systems that improve the efficiency of fiber optic networks for packetized data traffic  thereby increasing the overall network capacity 
+our media gateway voip products provide voice over ip and other packet processing functionality in a variety of equipment types deployed in wireless and wire line carrier networks as well as in enterprise networks 
+these equipment types include large capacity media gateways in the core of the network  small medium capacity access gateways in the last mile section of the network and customer premise equipment for business and residential subscribers 
+the broadband access product line is incorporated into equipment that provides high speed connections to subscribers using fiber fttx or dsl technology  enabling telecommunications service providers to support next generation voice  data and video services 
+the carrier ethernet product line facilitates the transition of existing networks based legacy voice oriented technologies to ethernet technology which is more suitable and efficient for supporting next generation converged video  data and voice services 
+our cpe product line category includes our high speed interface product line hdmi  displayport and ethernet ip cores which has been incorporated into a number of consumer electronics and pc appliances and multi service communications processors used in broadband modems or to be added as part of a small office  home office  or soho  network 
+our network infrastructure and multi service communications processor product lines continue to show a decline year over year 
+the following table summarizes our net revenue mix by product line category 
+spacer 
+gif 
+
+spacer 
+gif 
+
+spacer 
+gif 
+
+spacer 
+gif 
+
+spacer 
+gif 
+
+spacer 
+gif 
+year ended december  year ended december  percentage increase decrease in revenues tabular dollars in thousands revenues percent of total revenues revenues percent of total revenues network infrastructure   customer premises equipment   total   total net revenues in were million as compared to million in  a decrease of million or 
+our network infrastructure revenues decrease of approximately was a result of lower sales of our lm  cubit d  temx  aspen express and entropia products due to reduced telecom infrastructure capital expenditures in the second half of this was partially offset by increased sales of our ethermap carrier ethernet products  envoy ce and our asic families of products 
+our cpe revenues decrease of approximately was attributable to decreased sales of our atlanta products voip communication processors and the ramping down of our mustang gigabit ethernet passive optical product line 
+this reduction was partially offset by increased sales from our hdmi products along with increased service revenues which include ip licensing of our high speed interface technology 
+for and  international net revenues were approximately and  respectively  of net revenues 
+as of december   our backlog was million  as compared to million as of december  backlog represents firm orders anticipated to be shipped  and service revenue expected to be billed under existing contracts  during the next months 
+our business and  to a large extent  that of the entire communication semiconductor industry  is characterized by short term order and shipment schedules 
+since orders constituting our current backlog are subject to changes in delivery schedules or to cancellation at the option of the purchaser without significant penalty  backlog is not necessarily indicative of future revenues 
+gross profit 
+gross profit was million and million for the years ended december  and  respectively 
+gross profit decreased by approximately million for as compared to while the gross profit as a percentage of revenue was the same in as it was in the decrease in gross profit is the result of decreased product sales partially offset by increased service revenues 
+during the years ended december  and  gross profit was affected favorably in the amount of million and million  respectively  from the sales of products that had previously been written down to a cost basis of zero 
+also during the years ended december  and  we recorded provisions for excess and obsolete inventories in the amount of million and million  respectively 
+these charges had a negative impact on our gross profit 
+we anticipate that gross profit will continue to be impacted by fluctuations in the volume and mix of our product shipments as well as material costs  yield and the fixed cost absorption of our production operations 
+research and development 
+research and development expenses consist primarily of salaries and related costs of employees engaged in research  design and development activities  costs related to electronic design automation tools  subcontracting and fabrication costs  depreciation and amortization and facilities expenses 
+research and development expenses for were million which decreased million  or as compared to the prior year 
+this decrease was a result of decreased fabrication costs  decreased depreciation  decreased software tool costs and decreases in salaries and employee related costs as a result of workforce reductions  salary reductions and other cost cutting measures that were implemented in and the first quarter of during  expenses were also reduced by approximately million for the reversal of a sales tax accrual for a long outstanding tax issue which was recently adjudicated in our favor 
+the matter related to a manufacturing exemption from sales tax which we claimed 
+all of these expense reductions were partially offset by increased subcontracting costs as a result of our investment in our high speed interface product line 
+marketing and sales 
+marketing and sales expenses consist primarily of personnel related expenses  trade shows  travel expenses and facilities expenses 
+marketing and sales expenses for were million which decreased million  or as compared to the prior year 
+this decrease was a result of lower salaries and employee related expenses associated with the cost cutting measures that were implemented in and the first quarter of and lower commissions due to a decrease in revenues 
+general and administrative 
+general and administrative g a expenses consist primarily of personnel related expenses  professional and legal fees  and facilities expenses 
+g a expenses were million in  a decrease of approximately million or compared to the prior year 
+this decrease was a result of lower employee related expenses  salary reductions and decreased professional fees associated with the cost cutting measures that were implemented in and the first quarter of partially offset by increased stock compensation expenses 
+restructuring charges credits  net 
+during the years ended december  and  we recorded net restructuring charges of approximately million and net restructuring credits of million  respectively 
+information on restructuring charges and credits for and is located in note of the notes to consolidated financial statements 
+impairment of goodwill 
+for and  we recorded goodwill impairment charges of zero and million  respectively 
+information on the impairment of goodwill recorded during is located in note and note of the notes to consolidated financial statements 
+interest expense net 
+interest expense  net was approximately million in  a decrease of million as compared to interest expense decreased from million in to million in due to lower debt balances resulting from the principal payments made on our notes 
+the interest payments on our debt balances were million and million for the years ended december  and  respectively 
+interest income was million in both years ended december  and interest income may fluctuate in the future as a result of changes in market yields due to interest rate fluctuations and changes in our cash and investment balances 
+at december  and  the effective interest rates on our interest bearing securities were approximately and  respectively 
+other income expense 
+for the years ended december  and  we had other income of million and other expense of million  respectively 
+the other income and expense was primarily due to both realized and unrealized exchange rate gains and losses which are recorded for the translation of our intercompany loan balances with our wholly owned subsidiaries 
+income tax expense 
+our income tax expense of million in and million in is applicable to the operating results of certain of our foreign subsidiaries  principally india 
+we have incurred significant taxable losses for united states federal and state purposes 
+we have not recognized any income tax benefits on those losses because their realization is uncertain 
+liquidity and capital resources as of december   we had cash  cash equivalents  restricted cash and short term investments of approximately million compared to million as of december  further  our working capital was million as of december  compared to a negative million as of december  our primary source of liquidity is cash  cash equivalents  restricted cash  short term investments  a credit facility agreement and sales of our common stock 
+we have used cash in our operating activities in each of the last three years  including million in  million in and million in during  we reduced our notes payable from million as of december  to zero as of december  our notes were paid in full as of september  during the year ended december   we completed an offering of shares of common stock that resulted in the sale of  shares  with net proceeds to us of approximately million see note of the notes to the consolidated financial statements 
+we also entered into an amended and restated business financing agreement the amended financing agreement with bridge bank na bridge bank on april  which amended and restated our existing credit facility 
+the amended financing agreement provides us a credit facility of up to million which bears interest at the higher of i the prime rate plus or ii percent  plus the payment of certain fees and expenses the facility 
+the facility is secured by substantially all of our personal property  including our accounts receivable and intellectual property 
+subject to the terms of the amended financing agreement  availability under the facility is based on a formula pursuant to which bridge bank would advance an amount equal to the lower of million or of our eligible accounts receivable  with account eligibility and advance rates determined by bridge bank in its sole discretion 
+the term of the facility is two years and at the expiration of such term  all loan advances under the facility will become immediately due and payable 
+at december   we had no outstanding borrowings under this facility 
+on february   we entered into an at market issuance sales agreement with mlv co 
+llc mlv  pursuant to which we may issue and sell shares of our common stock  par value per share  having an aggregate offering price of up to  from time to time through mlv the offering 
+also on february   we filed a prospectus supplement with the securities and exchange commission in connection with the offering 
+we have taken cost cutting measures through restructuring plans we implemented during and we currently believe that with our anticipated gross profit margins and operating expenses we can break even on an operating income basis  excluding stock compensation costs and amortization of purchased intangibles  at the rate of sales of million per quarter 
+also  we intend to continue to assess our cost structure in relationship to our revenue levels and to make appropriate adjustments to expense levels as required 
+nonetheless  we believe that our existing cash and cash equivalents  investments  amended financing agreement and at market issuance sales agreement will be sufficient to fund operating activities and capital expenditures  and provide adequate working capital at least through the next twelve months 
+if our existing resources  including our amended financing agreement  and cash generated from operations are insufficient to satisfy liquidity requirements  we may seek to raise additional funds through public or private debt or equity financings 
+the sale of equity or debt securities could result in additional dilution to our stockholders  could require us to pledge our intellectual property or other assets to secure the financing  or could impose restrictive covenants on us 
+we cannot be certain that additional financing will be available in amounts or on terms acceptable to us  or at all 
+if we are unable to obtain this additional financing  we may be required to reduce the scope of our planned product development and sales and marketing efforts  which could harm our business  financial condition and operating results  and or cause us to sell assets or otherwise restructure our business to remain viable 
+commitments and significant contractual obligations we have outstanding operating lease commitments of million  payable over the next six years 
+some of these commitments are for space that is not being utilized and  for which we recorded restructuring charges in prior years for excess facilities 
+we currently have subleases for the majority of our excess space but our sublease income generated will not offset the entire future commitment 
+as of december   we have approximately million in anticipated sub lease income over the next six years relating to portions of our excess facilities 
+we currently believe that we can fund these lease commitments in the future 
+however  there can be no assurances that we will not be required to seek additional capital or provide additional guarantees or collateral on these obligations 
+a summary of our significant future contractual obligations and their payments follows in thousands 
+spacer 
+gif 
+
+spacer 
+gif 
+
+spacer 
+gif 
+
+spacer 
+gif 
+
+spacer 
+gif 
+
+spacer 
+gif 
+
+spacer 
+gif 
+
+spacer 
+gif 
+payments due by period contractual obligations total thereafter operating lease obligations    purchase obligations   we also have pledged approximately million as collateral for stand by letters of credit that guarantee certain long term property lease obligations and to support customer credit requirements 
+this million is in our bank accounts and is included in our restricted cash as of december  off balance sheet arrangements as of december   we had no material off balance sheet financing arrangements 
+recent accounting pronouncements newly issued accounting pronouncements that potentially impact our financial statements are disclosed in the notes to consolidated financial statements of this form k 
+item a 
+quantitative and qualitative disclosures about market risk interest rate risk 
+we have investments in money market accounts that earn interest income that is a function of the market rates 
+as a result  we have exposure to changes in interest rates 
+for example  if interest rates were to decrease by one half percentage point from their current levels  our potential interest income for  assuming a constant cash balance  would decrease by less than million 
+foreign currency exchange risk 
+as substantially all of our net revenues are currently made or denominated in us dollars  a strengthening of the dollar could make our products less competitive in foreign markets 
+although we recognize our revenues in us dollars  we incur expenses in currencies other than us dollars 
+in  operating expenses incurred in foreign currencies  excluding impairment of goodwill and other intangibles  were approximately of our total operating expenses 
+although we have not experienced significant foreign exchange rate losses to date  we may in the future  especially to the extent that we do not engage in hedging 
+we do not enter into derivative financial instruments for trading or speculative purposes 
+the economic impact of currency exchange rate movements on our operating results is complex because such changes are often linked to variability in real growth  inflation  interest rates  governmental actions and other factors 
+these changes  if material  may cause us to adjust our financing and operating strategies 
+consequently  isolating the effect of changes in currency does not incorporate these other important economic factors 
+fair market value of financial instruments 
+our notes were paid in full as of september  and as such we have no exposure relating to these notes as of december  

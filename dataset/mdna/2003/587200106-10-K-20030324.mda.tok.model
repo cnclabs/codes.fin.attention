@@ -1,0 +1,640 @@
+item management s discussion and analysis of results of operations and financial condition general mentor graphics corporation the company is a technology leader in electronic design automation eda  providing software and hardware based design and verification tools that enable companies to deliver better electronic products to market faster and more cost effectively 
+the company manufactures  markets and supports eda products and provides related services  which together are used by engineers to design  analyze  simulate  model  implement and verify the components of electronic systems 
+the company markets its products and services worldwide  primarily to large companies in the communications  computer  consumer electronics  semiconductor  aerospace  networking  multimedia and transportation industries 
+customers use the company s products in the design of semiconductors such as microprocessors  field programmable gate arrays fpgas and memory and application specific integrated circuits  as well a diverse set of electronic products  including automotive electronics  video game consoles  telephone switching systems  cellular handsets  computer network hubs and routers  signal processors  personal computers  video conferencing equipment  d graphics boards  digital audio broadcast radios  smart cards  and products enabled with the bluetooth short range wireless radio technology and wireless networking technology 
+the company licenses its products through its direct sales force and an affiliated channel of distributors and sales representatives 
+the company was incorporated in oregon in and its common stock is traded on the nasdaq national market under the symbol ment 
+the company s executive offices are located at sw boeckman road  wilsonville  oregon the telephone number at that address is the company website address is www 
+mentor 
+com 
+electronic copies of reports filed by the company with the securities and exchange commission sec are available through the company s website promptly after such reports are filed with the sec 
+products the company offers products that help engineers overcome the increasingly complex challenges they face in the design of electronic systems 
+the company s products are intended to make design engineers more productive  enable designs not otherwise possible  improve the accuracy of complex designs and shrink time to market schedules 
+electrical engineers begin the electronic design process by describing the architectural  behavioral  functional and structural characteristics of an integrated circuit ic  a printed circuit board board or an electronic system 
+in this process the engineer describes the overall product system architecture  implements it by creating a design description  simulates the design to reveal defects and reiterates the description until it meets the previously determined design specifications 
+engineers use the company s products to specify the components of the ic  board or system  determine the interconnections among the components and define the components associated physical properties 
+engineers also use the company s simulation products throughout the design process to identify design errors and test design alternatives before the design is manufactured 
+engineers use the company s verification products to identify functionality and performance issues while the cost to correct is still low 
+the company s test products are used by engineers to produce test sets to identify defective parts during the manufacturing process 
+systems design the company s board design software products support the printed circuit design process from schematic entry  where the electronic circuit is defined by engineers  through physical layout of the board  to providing digital output data for manufacturing  assembly and test 
+most types of designs  including analog  radio frequency rf  high speed digital and mixed signal  are supported by board design tools 
+the company has specific integrated products for process management  component library creation  simulation and verification of the board design 
+the board station and expedition tm series are the two main board design families of products used typically by large enterprise customers 
+through its acquisition of innoveda  inc in may  the company added the ready to use pads personal automated design systems product line which provides a lower cost windows based board design and layout solution 
+the autoactive products  with next generation place and route technology on unix and windows nt  are replacing the older generation routers in board design flows from the company  cadence design systems  inc and others 
+the autoactive technology  which is incorporated into both the board station and expedition product lines  enables improved design quality  design cycles and manufacturability through increased productivity  reduced interactive and automatic routing times and shorter learning curves 
+the company s icx tm high speed design technology tools address signal integrity and timing challenges of complex  high speed board designs to help make simulation more efficient and accurate 
+
+table of contents in the cabling area  the company s harness systems business unit provides specialized software for design  analysis  manufacture and data management of complex wire harness systems used by automotive  aerospace  shipbuilding  home appliance and other industries 
+fpga design the company offers a broad suite of fpga design tools  including products for design creation  documentation  verification  co verification  embedded software  intellectual property and fpga on board 
+hardware description languages hdls supported by these products include verilog  vhdl and mixed hdl 
+the hdl designer series addresses high end hdl design creation and management processes with a family of hdl capture  analysis  documentation and management tools 
+modelsim is a leading mixed language simulator that is heavily used for fpga design verification 
+for synthesis  the company s precision tm synthesis product family is a next generation synthesis platform created to maximize the performance of both existing fpga and multi million gate field programmable system on chip devices 
+the company s fpga advantage offering combines features of the hdl designer series  modelsim and precision synthesis products to provide a complete design flow and a unified solution for fpga design within a single tool 
+physical verification and analysis the calibre product line is specifically engineered for physical verification and manufacturability of leading edge submicron circuit designs and  according to a gartner dataquest october report  is the market leader 
+the calibre tool integrates physical verification with subwavelength design resolution enhancement and mask data preparation 
+the calibre physical verification tool suite  calibre drc tm and calibre lvs tm  helps ensure that ic physical designs conform to foundry manufacturing rules and match the intended functionality of the chip 
+for subwavelength designs  the calibre product line leverages its verification engine to provide a tool suite to add  model and verify layouts for all four resolution enhancement technology ret techniques optical and process correction opc  phase shift mask psm  scattering bars sb  and off axis illumination 
+with the addition of mask data preparation mdp capability  the calibre tool has extended this flow to mask manufacturing 
+the calibre xrc tm product  a full chip  transistor level parasitic extraction tool  addresses the distinct requirements for parasitic extraction  a process to extract resistances and capacitances 
+the calibre solution is the standard for the majority of the world s largest integrated device manufacturers  foundries and leading edge submicron library providers 
+along with the modelsim digital simulator  the company s mach ta tm simulator  eldo tm analog mixed signal simulator and eldo rf steady state and modulated steady state simulator address the unique challenges of analog mixed signal and leading edge submicron designs 
+these products allow circuit designers to verify the functionality and performance of very large and complex designs quickly and accurately and also help avoid long verification cycles  excessive iterations and expensive silicon turns 
+the mach ta tool provides fast  accurate  dynamic timing analysis and detailed transistor level circuit simulation with spice like accuracy for memory and processor ic designs 
+the eldo analog and rf system simulator software products are primarily used for the design and verification of complex analog and rf effects in digital and mixed signal circuits 
+the advance ms tm tool combines modelsim  eldo  mach ta and eldo rf simulator technology into a single  integrated tool 
+system on chip design and test the company provides its customers critical tools for solving the increasingly complicated problems of verifying that today s complex chip designs actually function as intended 
+the company s system on chip soc solution consists of two major categories design reuse and soc verification 
+the company provides pre verified  reusable standards based intellectual property through its intellectual property division 
+for quick assembly of soc designs using pre existing intellectual property  the company introduced platform express tm 
+soc verification products include the seamless hardware software co verification software product family  emulation products of the emulation division and embedded systems of the embedded systems division 
+the seamless product family enables simultaneous simulation of the hardware and software components of a system design 
+these tools verify the software hardware interface by running the software against simulated models of the hardware 
+seamless tools allow designers to verify software much earlier in the system design process instead of waiting until the hardware design has been completed  verified and manufactured into a prototype 
+early verification of the system identifies functionality and performance issues while the cost to correct them is smaller and reduces the overall design cycle 
+the company s meta systems sarl subsidiary  provider of celaro tm emulation hardware systems  was combined with ikos systems  inc  supplier of the popular vstation tm family of hardware emulator products  which was acquired in march to form the company s mentor emulation division med 
+med is the market leader in emulation hardware systems worldwide according to a gartner dataquest october report 
+the company s embedded systems division provides tools and technology to developers of embedded software 
+embedded software controls the function of hardware components dedicated to specialized tasks of such common consumer products as cellular telephones and set top boxes 
+the company s software development tools include the code lab tm embedded developer suite  which contains the microtec c and c compilers and the xray debugger tool 
+these tools can be used individually or together with commercial and proprietary real time operating systems to develop dedicated applications 
+the company also provides the nucleus tm real time operating system to embedded systems developers in source code form 
+
+table of contents the company s suite of integrated design for test dft solutions for testing an asic or ic design s logic and memories includes scan insertion  automatic test pattern generation atpg  logic and memory built in self test bist  boundary scan and embedded deterministic test edt 
+as part of the atpg solution  the dftadvisor tm  fastscan tm and flextest tm tools provide scan insertion  automatic test pattern generation and diagnostics for production and yield improvements 
+the company s bist solution includes mbistarchitect tm  a flexible tool for testing a design s embedded memories and lbistarchitect tm  a dft solution for analysis  insertion and simulation of logic bist  which is used in board and system designs 
+bsdarchitect tm provides boundary scan insertion and chip level test control 
+in addition  the company s patented embedded deterministic test edt tm technology compresses test data volume and time while maintaining test quality  resulting in increased quantity and quality of semiconductor testing 
+recent experience shows that new types of defects in semiconductor processes at and below the nanometer threshold will require times the amount of test patterns currently used 
+the company s edt product  testkompress tm  allows semiconductor manufacturers to reduce the automatic test equipment memory and time requirements for testing asic  ic and soc designs by up to times 
+platforms the company s software products are available on unix  windows nt and linux platforms in a broad range of price and performance levels 
+customers purchase platforms primarily from hewlett packard company  international business machines corporation  sun microsystems inc and leading personal computer suppliers 
+these computer manufacturers have a substantial installed base and make frequent introductions of new products 
+marketing and customers the company s marketing emphasizes a direct sales force and large corporate account penetration in the communications  computer  consumer electronics  semiconductor  aerospace  networking  multimedia and transportation industries 
+the company licenses its products through its direct sales force and sales representatives in north america and a direct sales force and distributors in the rest of the world 
+during the years ending december   and  sales outside of the americas accounted for  and of total sales  respectively 
+the company enters into foreign currency forward and option contracts in an effort to help mitigate the impact of foreign currency fluctuations 
+these contracts do not eliminate all potential impact of foreign currency fluctuations 
+significant exchange rate movements may have a material adverse impact on the company s results 
+see pages  factors that may affect future results and financial condition  for a discussion of the effect foreign currency fluctuation may have on the company s business and operating results 
+no material portion of the company s business is dependent on a single customer 
+the company has traditionally experienced some seasonal fluctuations of orders  which are typically stronger in the second and fourth quarters of the year 
+due to the complexity of the company s products  the selling cycle can be three to six months or longer 
+during the selling cycle the company s account managers  application engineers and technical specialists make technical presentations and product demonstrations to the customer 
+at some point during the selling cycle  the company s products may also be loaned to customers for on site evaluation 
+as is typical of many other companies in the electronics industry  the company generally ships its products to customers within days after receipt of an order and a substantial portion of quarterly shipments tend to be made in the last month of each quarter 
+the company licenses its products and some third party products pursuant to purchase and license agreements 
+the company generally schedules deliveries after receipt of purchase orders under these agreements 
+backlog the company s backlog of firm orders was approximately million on december  as compared to million on december  this backlog includes products requested for delivery within six months and unfulfilled professional services and training requested for delivery within one year 
+the company does not track backlog for support services 
+support services are typically delivered under annual contracts that are accounted for on a pro rata basis over the twelve month term of each contract 
+substantially all the december  backlog of orders is expected to ship during manufacturing operations the company s manufacturing operations primarily consist of reproduction of the company s software and documentation 
+in the americas  manufacturing is substantially outsourced  with distribution to western hemisphere customers occurring from major west coast sites in the united states 
+the company s line of emulation products  which is primarily comprised of hardware  is manufactured in the united states and france 
+mentor graphics ireland limited manufactures and distributes the company s products to markets outside the americas through the company s established sales channels 
+
+table of contents product development the company s research and development is focused on continued improvement of its existing products and the development of new products 
+during the years ended december   and  the company expensed million  million and million  respectively  related to product research and development 
+the company also seeks to expand existing product offerings and pursue new lines of business through acquisitions 
+in  the company recorded purchased technology from acquisitions of million 
+the company s future success depends on its ability to develop or acquire competitive new products that satisfy customer requirements 
+customer support and consulting the company has a worldwide organization to meet its customers needs for software and hardware support 
+the company offers support contracts providing software updates and software and hardware support for emulation products 
+most of the company s customers have entered into software or hardware support contracts 
+the company has won five software technical assistance recognition star awards from the software support professionals association for superior service in the complex support category 
+this category acknowledges companies that consistently provide a superior level of support for software used in high end  mission critical applications in fields such as engineering science  telecommunications and other technical environments 
+mentor consulting  the company s professional services division  is comprised of a worldwide team of consulting professionals 
+the company s professional services group was established in the services provided to customers are grouped into four key design areas known as knowledge centers high performance printed circuit board systems  design reuse  system verification and system on chip 
+mentor consulting s model for delivering services  knowledge sourcing sm  focuses on solving a customer s immediate design challenge while giving the organization the knowledge it needs to solve similar challenges in the future 
+competition the markets for the company s products are competitive and are characterized by price reductions  rapid technological advances in application software  operating systems and hardware and new market entrants 
+the eda industry tends to be labor intensive rather than capital intensive 
+this means that the number of actual and potential competitors is significant 
+while many competitors are large companies with extensive capital and marketing resources  the company also competes with small companies with little capital but innovative ideas 
+the company believes the main competitive factors affecting its business are breadth and quality of application software  product integration  ability to respond to technological change  quality of a company s sales force  price  size of the installed base  level of customer support and professional services 
+the company believes that it generally competes favorably in these areas 
+the company can give no assurance  however  that it will have financial resources  marketing  distribution and service capability  depth of key personnel or technological knowledge to compete successfully in its markets 
+the company s principal competitors are cadence design systems  inc  synopsys  inc and numerous small companies 
+employees the company and its subsidiaries employed approximately  people full time as of december  the company s success will depend in part on its ability to attract and retain employees 
+the company continues to enjoy satisfactory employee relations 
+patents and licenses the company holds united states and foreign patents on various technologies 
+in  the company was granted patents 
+while the company believes the patent applications it has pending relate to patentable technology  there can be no assurance that any patent will be issued or that any patent can be successfully defended 
+although the company believes that patents are less significant to the success of its business than technical competence  management ability  marketing capability and customer support  the company believes that patents are becoming increasingly important in the eda industry 
+the company regards its products as proprietary and protects all products with copyrights  trade secret laws and internal non disclosure safeguards  as well as patents  when appropriate  as noted above 
+the company typically includes restrictions on disclosure  use and transferability in its agreements with customers and other third parties 
+
+table of contents item properties the company owns six buildings on acres of land in wilsonville  oregon 
+the company occupies  square feet  in five of those buildings  as its corporate headquarters 
+the company leases the remaining building to a third party 
+the company also owns an additional acres of undeveloped land adjacent to its headquarters 
+all corporate functions and a substantial amount of the company s domestic research and development operations are located at the wilsonville site 
+the company leases additional space in san jose  california  longmont  colorado  huntsville and mobile  alabama and marlboro and waltham  massachusetts where some of its domestic research and development takes place  and in various locations throughout the united states and in other countries  primarily for sales and customer service operations 
+additional research and development is done in locations outside the united states including locations in france  germany  india  egypt  pakistan  japan and the uk 
+the company believes that it will be able to renew or replace its existing leases as they expire and that its current facilities will be adequate through at least item legal proceedings in october  quickturn  a competitor  filed an action against the company s german subsidiary in a german district court alleging infringement by the company s simexpress emulation product of a european patent ep 
+the company was unable to challenge the validity of ep under an assignor estoppel theory and the german court ruled in april that the german subsidiary s sales of simexpress violated ep and awarded unspecified damages 
+in february  in unrelated litigation  the federal patent court in germany ruled that ep is null and void in germany 
+the german district court  in response to the nullification of the quickturn patent  suspended its april judgment of infringement against simexpress 
+the company has appealed the court s application of assignor estoppel 
+quickturn has appealed the invalidation of ep the german supreme court is expected to hear both appeals 
+in october  quickturn filed an action against meta and the company in france alleging infringement by simexpress and celaro  the company s second generation emulation product  of ep there have been no rulings by the french court regarding the merits of this case to date 
+in  the company filed suit against cadence and quickturn quickturn became a cadence subsidiary in in france claiming misappropriation of patent rights 
+this case alleges that quickturn misappropriated meta trade secrets during quickturn s evaluation of meta s technology in connection with a possible acquisition of meta in and and filed one or more patent applications claiming rights to inventions quickturn learned from meta 
+the company had two consolidated lawsuits pending against quickturn and cadence in united states district court for the northern district of california alleging that quickturn s mercury or mercuryplus products infringe six company owned patents and alleging a misappropriation of trade secrets 
+in february  the jury in this case returned a verdict in favor of quickturn and cadence on all counts 
+a subsidiary of the company  ikos systems  inc  currently has pending against quickturn and cadence a patent infringement lawsuit against the parties palladium product 
+quickturn and cadence currently have pending against the company a patent infringement lawsuit against the company s vstation product 
+there has been no substantive activity in either lawsuit 
+in addition to the above litigation  from time to time the company is involved in various disputes and litigation matters that arise from the ordinary course of business 
+these include disputes and lawsuits relating to intellectual property rights  licensing  contracts and employee relation matters 
+
+table of contents item submission of matters to a vote of security holders no matters were submitted to a vote of the security holders of the company during the fourth quarter of the fiscal year ended december  executive officers of registrant the following are the executive officers of the company name position age walden c 
+rhines chairman of the board and chief executive officer gregory k 
+hinckley president and director l 
+don maulsby senior vice president  world trade dean freed vice president  general counsel and secretary robert hum vice president and general manager design verification and test dvt division henry potts vice president and general manager system design division sdd jue hsien chern vice president and general manager deep submicron dsm division brian derrick vice president  corporate marketing anthony b 
+adrian vice president  corporate controller dennis weldon treasurer the executive officers are elected by the board of directors of the company at its annual meeting 
+officers hold their positions until they resign  are terminated or their successors are elected 
+there are no arrangements or understandings between the officers or any other person pursuant to which officers were elected and none of the officers are related 
+dr 
+rhines has served as chairman of the board and chief executive officer since november dr 
+rhines served as director  president and chief executive officer of the company from october to october dr 
+rhines is currently a director of cirrus logic  inc and triquint semiconductor  inc  both semiconductor manufacturers 
+mr 
+hinckley has served as president since november mr 
+hinckley served as executive vice president  chief operating officer and chief financial officer of the company from january to october from november until december  he held the position of senior vice president with vlsi technology  inc  a manufacturer of complex asics 
+mr 
+hinckley is a director of amkor technology  inc  an ic packaging  assembly and test services company 
+mr 
+maulsby has served as senior vice president  world trade since october from june to october  he was president of tri tech and associates  a manufacturer s representative firm 
+from june to june  he was vice president of world wide sales and marketing for interphase corporation  a manufacturer of high performance network and mass storage products 
+from april to december  he was employed by vlsi technology  inc where his duties included vice president worldwide sales and vice president and general manager of its computing division 
+mr 
+freed has served as vice president  general counsel and secretary of the company since july mr 
+freed served as deputy general counsel and assistant secretary of the company from april to july he has been employed by the company since january mr 
+hum has served as vice president and general manager of the design verification and test division since from to  mr 
+hum served as chief operating officer and vice president of engineering of ikos systems 
+mr 
+potts has served as vice president and general manager of the systems design division sdd since joining the company in april from to  mr 
+potts was vice president of engineering for hitachi micro systems  a semiconductor research and development company 
+from to  he was employed by motorola semiconductor where his duties included leading the development activities for advanced signal processor silicon and software products 
+
+table of contents dr 
+chern has served as vice president and general manager of the company s deep submicron dsm division since joining the company in january from to  dr 
+chern served as vice president and chief technology officer for technology modeling associates 
+in technology modeling associates merged with avant corporation and dr 
+chern became head of avant s dsm business unit 
+from august to december  dr 
+chern was president of ultima corporation 
+mr 
+derrick has served as vice president  corporate marketing since january from november to december he was vice president and general manager of the company s physical verification pvx division 
+from march to november  he was the director of the company s calibre and velocity strategic business unit 
+from january to march  he was marketing manager for the company s calibre business unit 
+mr 
+derrick was employed by allied signal corporation from to  where his duties included marketing manager 
+he has been with the company since mr 
+adrian has served as vice president  corporate controller since joining the company in january from august to december of  he held the position of vice president and acting controller for wickland oil company  a petroleum marketing and distribution company 
+from january to august  mr 
+adrian served as managing director of wickland terminals in australia 
+from november to january  mr 
+adrian served as vice president and controller of wickland oil 
+mr 
+weldon has served as treasurer and director of corporate business development since february mr 
+weldon served as director of business development from june to january mr 
+weldon has been employed by the company since july 
+table of contents part ii item market for the registrant s common equity and related stockholder matters the company s common stock trades on the nasdaq national market under the symbol ment 
+the following table sets forth for the periods indicated the high and low sales prices for the company s common stock  as reported by the nasdaq national market quarter ended march june september december high low high low as of december   the company had stockholders of record 
+no dividends were paid in or the company s credit facility prohibits the payment of dividends 
+item selected consolidated financial data in thousands  except per share data and percentages year ended december  statement of operations data total revenues research and development operating income loss net income loss gross margin percent operating income loss as a percent of revenues per share data net income loss per share basic net income loss per share diluted weighted average number of shares outstanding basic weighted average number of shares outstanding diluted balance sheet data cash and investments  short term working capital deficit property  plant and equipment  net total assets short term borrowings notes payable and other long term liabilities stockholders equity 
+table of contents item management s discussion and analysis of financial condition and results of operations all numerical references in thousands  except percentages  per share data and number of employees nature of operations the company is a supplier of eda systems advanced computer software  emulation hardware systems and intellectual property designs and databases used to automate the design  analysis and testing of electronic hardware and embedded systems software in electronic systems and components 
+the company markets its products and services worldwide  primarily to large companies in the communications  computer  consumer electronics  semiconductor  aerospace  networking  multimedia and transportation industries 
+the company sells and licenses its products through its direct sales force and an affiliated channel of distributors and sales representatives 
+in addition to its corporate offices in wilsonville  oregon  the company has sales  support  software development and professional service offices worldwide 
+critical accounting policies the company s discussion and analysis of its financial condition and results of operations are based upon the company s consolidated financial statements  which have been prepared in accordance with accounting principles generally accepted in the united states of america 
+the preparation of these financial statements requires the company to make estimates and judgments that affect the reported amounts of assets  liabilities and contingencies as of the date of the financial statements and the reported amounts of revenues and expenses during the reporting periods 
+the company evaluates its estimates on an on going basis 
+the company bases its estimates on historical experience and on various other assumptions that are believed to be reasonable under the circumstances  the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources 
+actual results may differ from these estimates under different assumptions or conditions 
+the company believes the following critical accounting policies affect its more significant judgments and estimates used in the preparation of its consolidated financial statements 
+the company s critical accounting policies are as follows revenue recognition the company generally records product revenue from fixed term installment license agreements upon shipment and start of the license term 
+in addition  support revenue is recognized over the license term and is allocated based on vendor specific objective evidence of the fair value of support  as established by the price charged when such support is sold separately 
+these installment license agreements are typically for three years 
+the company uses these agreements as a standard business practice and has a history of successfully collecting under the original payment terms without making concessions on payments  products or services 
+the agreements are with the company s top rated customers 
+if the company no longer had a history of collecting without providing concessions on term agreements  then revenue would be required to be recognized as the payments become due over the license term 
+this change would have a material impact on the company s results 
+additionally  if customers fail to make the contractual payments under the installment license agreements  the company would have to recognize a bad debt charge 
+the company maintains allowances for doubtful accounts for estimated losses resulting from the inability of its customers to make required payments 
+if the financial condition of the company s customers were to deteriorate  resulting in an impairment of their ability to make payments  additional allowances might be required  which would result in an additional selling expense in the period such determination was made 
+valuation of trade accounts receivable the company evaluates the collectibility of its trade accounts receivable based on a combination of factors 
+the company regularly analyzes its customer accounts and when it becomes aware of a specific customer s inability to meet its financial obligations  such as in the case of bankruptcy or deterioration in the customer s operating results or financial position  a specific reserve for bad debt is recorded to reduce the related receivable to the amount believed to be collectible 
+the company also records reserves for bad debt for all other customers based on a variety of factors including length of time the receivables are past due  the financial health of the customers  the current business environment and historical experience 
+if circumstances related to specific customers change  estimates of the recoverability of receivables would be adjusted resulting in either additional selling expense or a reduction in selling expense in the period such determination was made 
+valuation of deferred tax assets deferred tax assets are recognized for deductible temporary differences  net operating loss carryforwards and credit carryforwards if it is more likely than not that the tax benefits will be realized 
+the company has considered future taxable income and ongoing prudent and feasible tax planning strategies in assessing the need for valuation allowances 
+the company has recorded a valuation allowance to reduce its deferred tax assets to the amount that is more likely than not to be realized 
+in the event the company was to determine that it would be able to realize its deferred tax assets in the future in excess of its net recorded amount  an adjustment to the deferred tax asset would increase either income or contributed capital in the period such determination was made 
+also  if the company was to determine that it would not be able to realize all or part of its net deferred tax asset in the future  an adjustment to the deferred tax asset would be charged to either expense or contributed capital in the period such determination was made 
+
+table of contents goodwill  intangible assets and long lived assets the company reviews long lived assets and the related intangible assets for impairment whenever events or changes in circumstances indicate the carrying amount of such assets may not be recoverable 
+recoverability of an asset is determined by comparing its carrying amount  including any associated intangible assets  to the forecasted undiscounted net cash flows of the operation to which the asset relates 
+if the operation is determined to be unable to recover the carrying amount of its assets  then intangible assets are written down first  followed by the other long lived assets of the operation  to fair value 
+fair value is determined based on discounted cash flows or appraised values  depending upon the nature of the assets 
+goodwill and intangible assets with indefinite lives are tested for impairment annually and whenever there is an impairment indicator using a fair value approach 
+in the event that  in the future  it is determined that the company s intangible assets have been impaired  an adjustment would be made that would result in a charge for the write down in the period that determination was made 
+inventory the company purchases and commits to purchase inventory based upon forecasted shipments of its emulation hardware systems 
+the company evaluates  on a quarterly basis  the need for inventory reserves based on projections of systems expected to ship within six months 
+reserves for excess and obsolete inventory are established to account for the differences between forecasted shipments and the amount of purchased and committed inventory 
+restructuring charges the company has recorded restructuring charges in connection with its plans to better align the cost structure with projected operations in the future 
+these restructuring charges  which reflect management s commitment to a termination or exit plan that will be completed within twelve months  are based on estimates of the expected costs associated with severance benefits 
+if the actual cost incurred exceeds the estimated cost  an additional charge to earnings will result 
+if the actual cost is less than the estimated cost  a benefit to special charges will be recognized 
+the company has also recorded restructuring charges in connection with excess leased facilities to offset future rent  net of sublease income  of the abandoned office space and to write off leasehold improvements on abandoned office space 
+the company worked with external real estate experts in each of the markets where properties are located to obtain assumptions used to determine the best estimate of the accrual 
+however  if the real estate markets worsen and the company is not able to sublease the properties as expected  additional adjustments to the accrual may be required  which would result in an additional charge to earnings in the period such determination was made 
+likewise  if the real estate market strengthens and the company is able to sublease the properties earlier or at more favorable rates than projected  a benefit to special charges will be recognized 
+recent acquisitions in february  the company acquired accelerated technology  inc ati  a provider of embedded software based in mobile  alabama 
+the acquisition was an investment aimed at expanding the company s product offering and driving revenue growth which supported the premium paid over the fair market value of the individual assets 
+the total purchase price including acquisition costs was  which included the fair value of a warrant issued of the excess of liabilities assumed over tangible assets acquired was  the cost of the acquisition was allocated on the basis of the estimated fair value of assets and liabilities assumed 
+the purchase accounting allocations resulted in a charge for in process research and development r d of  goodwill of  technology of  other identified intangible assets of  net of related deferred tax liability of  the technology will be amortized to cost of goods sold over five years 
+of the other identified intangible assets  was determined to have an indefinite life at the time of acquisition and is not being amortized 
+the company will continue to evaluate whether this asset s useful life can be determined and  if so  will amortize the asset accordingly 
+the remaining will be amortized  primarily over five years  to operating expenses 
+in march  the company acquired ikos systems  inc ikos  a provider of electronic design automation tools for the verification of integrated circuit designs 
+the acquisition was an investment aimed at expanding the company s product offering and driving revenue growth which supported the premium paid over the fair market value of the individual assets 
+the total purchase price including acquisition costs was  which included the fair value of options assumed totaling  in addition  the company recorded severance costs related to ikos employees of  and costs of vacating certain leased facilities of ikos of  these costs will result in cash expenditures of  with the remainder being non cash write offs of leasehold improvements 
+severance costs affected employees across all employee groups 
+this reduction was due to the overlap of employee skill sets as a result of the acquisition 
+the excess of tangible assets acquired over liabilities assumed was  the cost of the acquisition was allocated on the basis of the estimated fair value of assets and liabilities assumed 
+the preliminary purchase accounting allocations resulted in a charge for in process r d of  goodwill of  technology of  deferred compensation relating to assumed unvested employee stock options of  other identified intangible assets of  net of related deferred tax liability of  the technology will be amortized to cost of goods sold over five years 
+deferred compensation will be amortized over ten quarters to operating expenses and other identified intangible assets will be amortized over one year to operating expenses 
+
+table of contents in may  the company acquired innoveda  inc innoveda  a worldwide leader in electronic design automation technology  software and services for businesses in the consumer electronics  computer  telecommunications  automotive and aerospace industries 
+the acquisition was an investment aimed at expanding the company s product offering and driving revenue growth which supported the premium paid over the fair market value of the individual assets 
+the total purchase price including acquisition costs was  which included the fair value of options assumed totaling  in addition  the company recorded severance costs related to innoveda employees of  and costs of vacating certain leased facilities of innoveda of  all of these costs will result in cash expenditures 
+severance costs affected employees across all employee groups 
+this reduction was due to the overlap of employee skill sets as a result of the acquisition 
+the excess of liabilities assumed over tangible assets acquired was  the cost of the acquisition was allocated on the basis of the estimated fair value of assets and liabilities assumed 
+the preliminary purchase accounting allocations resulted in a charge for in process r d of  goodwill of  technology of  deferred compensation relating to assumed unvested employee stock options of  and other identified intangible assets of  net of related deferred tax liability of  the technology will be amortized to cost of goods sold over five years 
+deferred compensation will be amortized over three years to operating expenses 
+of the  other identified intangible assets   was determined to have an indefinite life at the time of acquisition and is not being amortized 
+the company will continue to evaluate whether this asset s useful life can be determined and  if so  will amortize the asset accordingly 
+the remaining  will be amortized primarily over three years to operating expenses 
+subsequent to the acquisitions in  the company reversed of unamortized deferred compensation to common stock as a result of forfeitures of unvested stock options assumed in the acquisitions due to attrition and workforce reduction 
+results of operations revenues and gross margins year ended december  change change system and software revenues system and software gross margins gross margin percent service and support revenues service and support gross margins gross margin percent total revenues total gross margins gross margin percent system and software system and software revenues are derived from the sale of licenses of software products and emulation hardware systems 
+ikos product revenues for the period from march to december  of  have been included in the company s revenues 
+additionally  innoveda product revenues for the period from may to december  of  have been included in the company s revenues 
+excluding the impact of ikos and innoveda revenues  the decrease in system and software revenues for was attributable to a decrease in both software product sales and emulation hardware system sales 
+system and software sales declined as a result of the general downturn in the economy and more specifically due to ongoing financial difficulties experienced by customers in the telecommunications market 
+for  the net decrease in system and software revenues was attributable to a decline in emulation hardware system sales  partially offset by increased software product sales 
+emulation hardware system sales declined in due to the downturn in the semiconductor and telecommunications industries 
+for  the increase in software product sales was primarily due to continued strength in the physical verification and analysis and deep submicron product lines 
+for  this increase in software product revenue occurred despite weakening of the japanese yen versus the united states dollar which negatively impacted revenues 
+see geographic revenues information for further discussion 
+system and software gross margins were lower for compared to primarily due to a  write down of emulation system inventory in the second quarter to reduce the inventory to the amount that was expected to ship within six months on the assumption that any excess would be obsolete 
+gross margin was also impacted by an increase in amortization of purchased technology to cost of revenues attributable to the acquisitions that occurred in system and software gross margins were higher for compared to due to greater mix of higher margin software product revenue versus lower margin emulation hardware system revenue and to a lesser extent lower product sales for which royalties were paid 
+amortization of purchased technology costs to system and software cost of revenues was   and  for  and  respectively 
+the increase in was primarily attributable to the acquisitions of ati  ikos and innoveda during the increase in amortization in was primarily attributable to the recognition of a full year of amortization related to five acquisitions during purchased technology costs are amortized over three to five years to system and software cost of revenues 
+exclusive of future acquisitions  amortization of purchased technology will increase in primarily as a result of a full year of amortization on purchased technology related to three acquisitions during 
+table of contents service and support service and support revenues consist of revenues from annual support contracts and professional services  which includes consulting services  training services  custom design services and other services 
+ikos support revenues for the period from march to december  of  have been included in the company s revenues 
+additionally  innoveda service and support revenues for the period from may to december  of  have been included in the company s revenues 
+these increases were partially offset by a decrease in consulting revenue as a result of cuts in spending by the company s customers 
+for compared to  the increase was due to a increase in software support revenues  partially offset by a decrease in consulting revenues 
+for  growth in software support revenues was attributable to software revenue growth and continued success of software product offerings resulting in a higher rate of contract renewals 
+professional service revenues totaled approximately   and  in  and  respectively 
+the decreases in and were attributable to cuts in spending by the company s customers as a result of the downturn in the economy 
+service and support gross margins increased in primarily due to cuts in professional service costs as a result of workforce rebalances by the company and due to a decrease in variable compensation due to the decrease in revenue  excluding the impact of acquisitions 
+service and support gross margins increased in as a result of higher software support revenue over a relatively constant cost structure partially offset by lower professional service utilization 
+geographic revenues information year ended december  change change americas europe japan pac rim total revenues increased in the americas in primarily as a result of the acquisitions that occurred in the first half of this increase was partially offset by declines in both base product sales and consulting revenues 
+revenues outside the americas represented of total revenues in  of revenues in and of revenues in the effects of exchange rate differences from the european currencies to the united states dollar positively impacted european revenues by approximately in and negatively impacted revenues by approximately in exclusive of currency effects  lower revenues in europe for were primarily a result of declines in the company s base product sales and consulting revenues 
+the effects of exchange rate differences from the japanese yen to the united states dollar negatively impacted japanese revenues by approximately and in and  respectively 
+exclusive of currency effects  lower revenues in japan for were primarily attributable to a decline in the company s base product sales  while higher revenues in japan for were attributable to growth in support sales 
+higher revenues in pac rim were attributable to growth in both product and support sales 
+since the company generates approximately half of its revenues outside of the united states and expects this to continue in the future  revenue results should continue to be impacted by the effects of future foreign currency fluctuations 
+operating expenses year ended december  change change research and development percent of total revenues marketing and selling percent of total revenues general and administration percent of total revenues amortization of intangible assets percent of total revenues special charges percent of total revenues merger and acquisition related charges percent of total revenues 
+table of contents research and development as a percent of revenues  r d costs increased from to and from to for compared to  the increase in absolute dollars was primarily attributable to acquisitions in  resulting in higher headcount 
+for compared to  the increase in r d spending was primarily attributable to acquisitions in the fourth quarter of marketing and selling as a percent of revenues  marketing and selling costs increased from to and decreased from to for compared to  the increase in absolute dollars was primarily attributable to acquisitions in  resulting in higher headcount 
+for compared to  the increase in absolute dollars was primarily attributable to an increase in variable compensation due to growth in revenues 
+general and administration as a percent of revenues  general and administration costs increased from to and remained flat from to for compared to  the increase in absolute dollars was primarily attributable to acquisitions in  resulting in higher headcount  and a net increase in non quickturn related legal costs 
+these increases were partially offset by a decrease in variable compensation due to the decrease in operating income 
+for compared to  the decrease in absolute dollars was primarily attributable to lower legal costs associated with the ongoing patent litigation with quickturn  which totaled  in  compared to  in this decrease was partially offset by expense in of  for unvested k contributions previously classified as prepaid expense 
+during  market circumstances were such that employee turnover declined significantly resulting in the company changing its estimate of expense for k contributions 
+general and administration expenses include costs of the ongoing quickturn litigation of   and  for  and  respectively 
+see part i item legal proceedings for further discussion on the company s current legal proceedings 
+amortization of intangible assets as a percent of revenues and in absolute dollars  amortization of intangible assets decreased from to and increased from to for compared to  the decrease was primarily attributable to the termination of goodwill amortization in as a result of the adoption of statement of financial accounting standard no 
+ goodwill and other intangibles  partially offset by the amortization related to additional intangible assets acquired through acquisitions in the first half of for compared to  the increase in amortization of intangible assets was attributable to acquisitions in the fourth quarter of amortization of intangible assets is expected to increase in as a result of a full year of amortization on the intangible assets acquired through the acquisitions in special charges during  the company recorded special charges of  the charges primarily consist of costs incurred for employee terminations  partially offset by a net benefit from reduction of accrued excess leased facility costs 
+additionally  a benefit for the reversal of excess accruals related to acquisitions that occurred in prior years is included in special charges 
+in addition to acquisition related terminations of  the company rebalanced the workforce by employees during this reduction primarily impacted the sales organization  research and development organization and  to a lesser extent  the consulting division 
+employee severance costs of  included severance benefits  notice pay and outplacement services 
+termination benefits were communicated to the affected employees prior to year end 
+the majority of these costs will be expended in the first half of there have been no significant modifications to the amount of these charges 
+the company recorded excess leased facility costs for leases of facilities in north america and europe in the fourth quarter of based on the presumption that such facilities would be permanently abandoned 
+during  the company determined that a facility in north america was to be re occupied as a result of requirements following recent acquisitions 
+at that time  the remaining accrual for  was reversed 
+in addition  the company reduced its accrual for lease termination fees by as a result of changes in assumptions regarding lease payments for an abandoned facility in europe 
+in  the company also recorded  related to non cancelable lease payments  net of sublease income  and a write off of assets and leasehold improvements for leases of facilities in north america  europe and japan that will be permanently abandoned in the majority of the non cancelable lease payments on these excess leased facilities will be expended within the next twelve months 
+during  the company recorded a benefit to special charges of  as a result of a reversal of a hold back liability recorded as a part of the acquisition of the ecad division of cadix incorporated in cadix incorporated relinquished its right to the hold back amount in exchange for the company s withdrawal of its filing of damage claims 
+in an unrelated matter  this benefit was partially offset by the company s payment of  related to the settlement of disputed royalties 
+these settlements resulted in a net benefit to special charges of 
+table of contents during  the company recorded special charges of  the charges primarily consisted of impairment in value of certain goodwill and purchased technology  an accrual for excess leased facility costs and costs incurred for employee terminations 
+the goodwill and purchased technology impairment charge was due to performance of acquired businesses not meeting initial estimates 
+this charge was determined by comparing the forecasted undiscounted net cash flows of the operations to which the intangible assets related  to the carrying amount including associated intangible assets of such operations 
+the operations were determined to be unable to recover the carrying amount of their assets  resulting in a write down to fair value 
+excess leased facility costs consisted of non cancelable lease payments of  and write off of leasehold improvements of for leases of four facilities in north america and europe 
+these facilities were permanently abandoned and costs are net of estimated sublease income 
+non cancelable lease payments on excess leased facilities should be expended over years  with the majority to be expended over years 
+the company rebalanced the workforce by employees in june and december this reduction primarily impacted the sales organization and to a lesser extent the consulting division 
+employee severance costs of  included severance benefits  notice pay and outplacement services 
+termination benefits were communicated to the affected employees prior to year end 
+the majority of these costs were expended in and the remaining amount was primarily expended in the first half of there have been no significant modifications to the amount of these charges 
+during  the company recorded special charges of  the charges consisted of impairment in value of certain goodwill and purchased technology and costs for employee terminations due to the acquisition of escalade corp 
+in may substantially all of these costs were expended in and the remaining amount was primarily expended in the first half of there have been no significant modifications to the amount of the charges 
+merger and acquisition related charges in  the company incurred merger and acquisition related charges of  for in process r d related to three acquisitions during the year 
+in  the company incurred no merger and acquisition related charges 
+in  the company incurred merger and acquisition related charges of  for in process r d related to four of the five business combinations accounted for as purchases 
+the company uses an independent third party valuation firm to determine the value of the in process r d acquired in its business acquisitions 
+the value assigned to in process r d for the charges incurred in and related to research projects for which technological feasibility had not been established 
+the value was determined by estimating the net cash flows from the sale of products resulting from the completion of such projects and discounting the net cash flows back to their present value 
+the rate used to discount the net cash flows was based on the weighted average cost of capital 
+other factors considered were the inherent uncertainties in future revenue estimates from technology investments including the uncertainty surrounding the successful development of the acquired in process technology  the useful life of the technology  the profitability levels of the technology and the stage of completion of the technology 
+the stage of completion of the products at the date of the acquisition were estimated based on r d costs that had been expended as of the date of acquisition as compared to total r d costs expected at completion 
+the percentages derived from this calculation were then applied to the net present value of future cash flows to determine the in process charge 
+the nature of the efforts to develop the in process technology into commercially viable products principally related to the completion of all planning  designing  prototyping  verification and testing activities that are necessary to establish that the product can be produced to meet its design specification  including function  features and technical performance requirements 
+the estimated net cash flows from these products were based on estimates of related revenues  cost of sales  r d costs  selling  general and administrative costs and income taxes 
+these estimates are subject to change  given the uncertainties of the development process  and no assurance can be given that deviations from these estimates will not occur or that the company will realize any anticipated benefits of the acquisition 
+the risks associated with acquired r d are considered high and no assurance can be made that these products will generate any benefit or meet market expectations 
+the in process r d charge related to the ati acquisition was  at the date of the ati acquisition  the r d efforts were focused on the development of the nucleus and code lab products 
+the in process r d charge related to each of those projects was  and  respectively 
+for purposes of valuing the in process r d in accordance with the methodology discussed above  the following estimates were used revenue growth ranging from beginning in year two to a revenue decline of in year eight  cost of revenues of approximately of revenue in each year  selling  general and administrative expenses ranging from of revenue in year one to of revenue in year eight and maintenance of of revenue in each year 
+the rate used to discount the net cash flows from the purchased in process technology was 
+the in process r d charge related to the ikos acquisition was  at the date of the ikos acquisition  the r d efforts were focused on the development of the next generation vstation product  including the additional functionalities of a co modeling tool  more capacity and an fpga compiler 
+for purposes of valuing the in process r d in accordance with the methodology discussed above  the following estimates were used revenue growth ranging from beginning in year two to in year six  cost of revenues of of revenue in each year  selling  general and administrative expenses ranging from of revenue in year one to of revenue in year six and maintenance of of revenue in each year 
+the rate used to discount the net cash flows from the purchased in process technology was 
+
+table of contents the in process r d charge related to the innoveda acquisition was  at the date of the innoveda acquisition  the r d efforts were focused on the development of the following products integrated pcb  quiet tm expert and transdesign v the in process r d charge related to each of those projects was  and  respectively 
+for purposes of valuing the in process r d in accordance with the methodology discussed above  the following estimates were used revenue growth ranging from for certain products beginning in year two to a revenue decline of in year six  cost of revenues of of revenue in each year  selling  general and administrative expenses of of revenue in each year and maintenance ranging from to of revenue in each year 
+the rate used to discount the net cash flows from the purchased in process technology was for integrated pcb and for quiet expert and transdesign v other income  net year ended december  other income  net interest income was   and  in  and  respectively 
+the decrease from to was primarily a result of lower cash balances in due to three acquisitions during the year 
+foreign currency loss was in compared to gains of and in and  respectively  due to fluctuations in currency rates 
+the company recorded income relating to the time value of foreign currency contracts of   and in  and  respectively 
+minority interest expense was  and  in  and  respectively 
+in addition  other income  net was favorably impacted by a gain on sale of investment of  and in and  respectively 
+interest expense interest expense was   and  in  and  respectively 
+interest expense increased in primarily as a result of the issuance of the company s convertible subordinated notes in june in addition  interest expense increased as a result of  in loan fees  for the amortization of convertible subordinated notes fees 
+the company recorded interest expense relating to the time value of foreign currency contracts of  and in  and  respectively 
+interest expense was previously included in other income  net  but has been reclassified for all periods presented in this report 
+provision for income taxes the provision for income taxes was a benefit of  in and an expense of  and  in and  respectively 
+the net tax provision benefit in all periods is the result of the mix of profits losses earned by the company and its subsidiaries in tax jurisdictions with a broad range of income tax rates 
+the provision for income taxes differs from tax computed at the federal statutory income tax rate due to the impact of nondeductible charges mostly related to acquisitions  offset by the realized benefit of net operating loss carryforwards  foreign tax credits and earnings permanently reinvested in foreign operations 
+the company provides for united states income taxes on the earnings of foreign subsidiaries unless they are considered permanently invested outside of the united states 
+at december   the cumulative amount of earnings upon which united states income taxes have not been provided are approximately  upon repatriation  some of these earnings would generate foreign tax credits which may reduce the federal tax liability associated with any future foreign dividend 
+as of december   the company  for federal income tax purposes  had net operating loss carryforwards of approximately  foreign tax credits of  alternative minimum tax credit of and research and experimentation credit carryforwards of  as of december   the company  for state income tax purposes  had net operating loss carryforwards totaling  from multiple jurisdictions and research and experimentation credits of  as of december   the company also had net operating losses in multiple foreign jurisdictions of  if not used by the company to reduce income taxes payable in future periods  net operating loss carryforwards will expire between and  the foreign tax credits will expire between and and research and experimentation credit carryforwards between and in  the company transferred certain technology rights acquired in the ati  ikos and innoveda acquisitions to one of its wholly owned foreign subsidiaries in a transaction that will generate approximately  of taxable gain for federal and state income tax purposes over the next three years  with approximately  recognized in due to the intercompany nature of the transfer  the associated income tax expense is being recorded over a three year period with  of expense recorded in the remaining federal and state income tax expense of  is recorded as a deferred tax charge included in other assets  net on the company s balance sheet as of december  and is to be amortized to the book provision for income taxes over the remaining years 
+the recognition of a taxable gain in the united states allowed the company to utilize domestic deferred tax assets for which a valuation allowance had previously been taken 
+accordingly  primarily as a result of the intercompany sale  the valuation allowance for deferred tax assets decreased by  in  with  of the related benefit being applied directly to contributed capital as tax benefit of stock option exercises and the remainder contributing to the income tax benefit 
+
+table of contents under sfas no 
+ accounting for income taxes  deferred tax assets and liabilities are determined based on differences between financial reporting and tax bases of assets and liabilities and are measured using the enacted tax rates and laws that will be in effect when the differences are expected to reverse 
+sfas no 
+provides for the recognition of deferred tax assets if realization of such assets is more likely than not 
+based on the weight of available evidence  the company has provided a valuation allowance against certain deferred tax assets 
+the portion of the valuation allowance for deferred tax assets related to the difference between financial and tax reporting of employee stock option exercises  for which subsequently recognized tax benefits will be applied directly to contributed capital  will be maintained until such benefits are actually realized on the company s income tax returns 
+the remainder of the valuation allowance was based on the historical earnings patterns within individual taxing jurisdictions that make it uncertain that the company will have sufficient income in the appropriate jurisdictions to realize the full value of the assets 
+the company will continue to evaluate the realizability of the deferred tax assets on a quarterly basis 
+effects of foreign currency fluctuations approximately half of the company s revenues are generated outside of the united states 
+for  and  approximately one half to two thirds of european and all japanese revenues were subject to exchange rate fluctuations as they were booked in local currencies 
+the effects of these fluctuations were substantially offset by local currency cost of revenues and operating expenses  which resulted in an immaterial net effect on the company s results of operations 
+foreign currency translation adjustment  a component of accumulated other comprehensive income reported in the stockholders equity section of the consolidated balance sheets  increased to  at december  from  at december  this reflects the increase in the value of net assets denominated in foreign currencies since year end as a result of a weaker united states dollar at the close of versus new accounting pronouncements in june  the financial accounting standards board fasb issued sfas no 
+ accounting for asset retirement obligations 
+this statement addresses financial accounting and reporting for obligations associated with the retirement of tangible long lived assets and the associated asset retirement costs 
+the company is required to implement sfas no 
+on january  the company does not expect this statement to have a material impact on its consolidated financial position or results of operations 
+in june  the fasb issued sfas no 
+ accounting for costs associated with exit or disposal activities 
+this statement nullifies emerging issues task force issue no 
+eitf  liability recognition for certain employee termination benefits and other costs to exit an activity including certain costs incurred in a restructuring 
+sfas no 
+requires that a liability for a cost associated with an exit or disposal activity is recognized when the liability is incurred 
+under eitf  a liability for an exit cost as defined in eitf was recognized at the date of an entity s commitment to an exit plan 
+the provisions of sfas no 
+are effective for exit or disposal activities that are initiated after december  sfas no 
+will be adopted on a prospective basis and therefore did not have an impact as of december  in november  the emerging issues task force reached a consensus on issue no 
+eitf  revenue arrangements with multiple deliverables 
+eitf addresses certain aspects of the accounting by a vendor for arrangements under which the vendor will perform multiple revenue generating activities 
+eitf will be effective for interim periods beginning after june  the company does not expect this issue to have a material impact on its consolidated financial position and results of operations 
+in november  the fasb issued fasb interpretation fin no 
+ guarantor s accounting and disclosure requirements for guarantees  including indirect guarantees of indebtedness of others 
+fin no 
+requires that upon issuance of a guarantee  a guarantor must recognize a liability for the fair value of an obligation assumed under a guarantee 
+fin no 
+also requires additional disclosures by a guarantor in its financial statements about the obligations associated with guarantees issued 
+the initial recognition and measurement provisions of fin no 
+are applicable on a prospective basis to guarantees issued or modified after december  the disclosure requirements of fin no 
+are effective for financial statements issued after december  the company does not expect this interpretation to have a material impact on its consolidated financial position and results of operations 
+in december  the fasb issued sfas no 
+ accounting for stock based compensation  transition and disclosure 
+sfas no 
+provides alternative methods of transition for a voluntary change to the fair value based method of accounting for stock based employee compensation 
+in addition  sfas no 
+amends the disclosure requirements of sfas no 
+ accounting for stock based compensation  to require prominent disclosures in both annual and interim financial statements about the method of accounting for stock based employee compensation and the effect of the method used on reported results 
+
+table of contents as allowed under sfas no 
+ the company will continue to account for stock based compensation according to apb opinion no 
+the company adopted the disclosure provisions of sfas no 
+effective december  liquidity and capital resources year ended december  current assets cash and investments  short term cash provided by used in operating activities cash used by investing activities  excluding short term investments cash provided by used in financing activities cash  cash equivalents and short term investments cash  cash equivalents and short term investments were  at december   a decrease of  or  from  at december  cash used in operating activities was  in compared to cash provided by operating activities of  in the decrease in cash flows from operating activities was primarily due to higher operating and interest expenses in cash used in investing activities  excluding short term investments  was  in compared to  in the increase of  in in cash used in investing activities was primarily due to cash paid for acquisitions of  in compared to  paid in related to acquisitions completed during cash used in investing activities also included capital expenditures of  and  in and  respectively 
+cash provided by financing activities was  in compared to  used in financing activities in the increase of  in in cash provided by financing activities was due to proceeds of  primarily from the issuance of convertible subordinated notes 
+financing cash flows were positively impacted by proceeds from the issuance of common stock upon exercise of stock options and employee stock plan purchases of  and  in and  respectively 
+cash used in financing activities in included a repurchase of  shares of common stock for  trade accounts receivable trade accounts receivable increased to  at december  from  at december  excluding the current portion of term receivables of  and  average days sales outstanding were days and days at december  and  respectively 
+average days sales outstanding in total accounts receivable increased from days at the end of to days at the end of the increase in total accounts receivable days sales outstanding was primarily due to fewer extended term generally three year contract sales in the fourth quarter of compared to the fourth quarter of  partially offset by the factoring of short term accounts receivable in the fourth quarter of in quarters where term contract revenue is recorded  only about one third  or twelve months  of the receivable is reflected in current trade accounts receivable 
+in the following quarters  the same amount is reflected in current trade accounts receivable without the corresponding revenue 
+the company sold short term accounts receivable of  to a financing institution on a non recourse basis in the fourth quarter of compared to no sales of short term accounts receivable in the fourth quarter of the company records a sale when it is considered to have surrendered control of such receivables under the provisions of sfas no 
+ accounting for transfers and servicing of financial assets and extinguishments of liabilities 
+inventory  net inventory decreased to  at december  from  at december  inventory increased in the first quarter of as a result of the ikos acquisition and subsequently decreased primarily due to a  write down of emulation hardware inventory in the second quarter  including a portion of the ikos inventory  to reduce inventory to the amount that was expected to ship within six months on the assumption that any excess would be obsolete 
+this write down was partially offset by an increase in inventory in the fourth quarter due to purchases based on forecasted shipments of next generation emulation hardware products 
+prepaid expenses and other prepaid expenses and other increased to  at december  from  at december  the increase is primarily due to deferred loan fees related to the convertible subordinated notes issued in deferred loan fees are amortized to interest expense over the terms of their respective debt instruments 
+
+table of contents term receivables  long term term receivables  long term increased to  at december  compared to  at december  the balances were attributable to multi year  multi element term license sales agreements principally from the company s top rated credit customers 
+balances under term agreements that are due within one year are included in trade accounts receivable and balances that are due in more than one year are included in term receivables  long term 
+the company uses term agreements as a standard business practice and has a history of successfully collecting under the original payment terms without making concessions on payments  products or services 
+the increase was primarily attributable to growth in the number of term agreements beginning during and  which were included in term receivables  long term at december  accrued payroll and related liabilities accrued payroll and related liabilities increased  to  from december  to december  the increase was primarily due to growth in the company s headcount 
+accrued liabilities accrued liabilities increased  to  from december  to december  the increase was primarily due to accrued liabilities related to acquisitions  excess leased facility costs and accrued termination benefits 
+deferred revenue deferred revenue consists primarily of prepaid annual software support contracts 
+deferred revenue increased  to  from december  to december  primarily due to the acquisitions of ati  ikos and innoveda 
+capital resources expenditures for property and equipment increased to  for compared to  for expenditures in and did not include any individually significant projects 
+in  the company completed three business acquisitions which resulted in net cash payments of  in  the company did not complete any business acquisitions 
+in june  the company issued  of convertible subordinated notes notes due in a private offering pursuant to sec rule a to fund the purchase of innoveda 
+the notes have been registered with the sec under the securities act of the company pays interest on the notes semi annually in june and december 
+the notes are convertible into the company s common stock at a conversion price of per share  for a total of  shares 
+some or all of the notes may be redeemed by the company for cash on or after june  the company anticipates that current cash balances  anticipated cash flows from operating activities and amounts available under existing credit facilities will be sufficient to meet its working capital needs on a short term and long term basis 
+the company does not have off balance sheet arrangements  financings or other relationships with unconsolidated entities or other persons  also known as special purpose entities 
+in the ordinary course of business  the company leases certain real properties  primarily field office facilities  and equipment 
+contractual obligations the company is contractually obligated to make the following payments as of december  payments due by period total less than year years years more than years convertible subordinated notes other long term notes payable other long term liabilities short term borrowings capital leases purchase obligations operating leases total contractual obligations 
+table of contents outlook for revenues for the year are expected in the range of  gross margin  excluding the amortization of purchased technology  is expected to average for the year 
+operating expenses  exclusive of special charges  merger and acquisition related charges and amortization of intangible assets are estimated to increase about over levels 
+the total of interest expense and other income  net is expected to be an expense of approximately  primarily due to interest on the convertible subordinated notes for the year 
+the tax rate is expected to be for the year 
+factors that may affect future results and financial condition the statements contained under outlook for above and other statements contained in this report that are not statements of historical fact  including without limitation  statements containing the words believes  expects  projections and words of similar import  constitute forward looking statements that involve a number of risks and uncertainties that are difficult to predict 
+moreover  from time to time  the company may issue other forward looking statements 
+forward looking statements regarding financial performance in future periods  including the statements above under outlook for  do not reflect potential impacts of mergers or acquisitions or other significant transactions or events that have not been announced as of the time the statements are made 
+actual outcomes and results may differ materially from what is expressed or forecast in forward looking statements 
+the company disclaims any obligation to update forward looking statements to reflect future events or revised expectations 
+the following discussion highlights factors that could cause actual results to differ materially from the results expressed or implied by the company s forward looking statements 
+forward looking statements should be considered in light of these factors 
+weakness in the united states and international economies may materially adversely affect the company 
+united states and international economies are experiencing an economic downturn which has had an adverse affect on the company s results of operations 
+continued weakness in these economies is likely to continue to adversely affect the timing and receipt of orders for the company s products and the company s results of operations 
+revenue levels are dependent on the level of technology capital spending  which include expenditures for electronic design automation  or eda  software and other consulting services  in the united states and abroad 
+a number of telecommunications companies have in the recent past filed for bankruptcy protection  and others have announced significant reductions and deferrals in capital spending 
+a significant portion of the company s revenues has historically come from businesses operating in this sector 
+in addition  demand for the company s products and services may be adversely affected by mergers and company restructurings in the electronics industry worldwide which could result in decreased or delayed capital spending patterns 
+the company is subject to the cyclical nature of the integrated circuit and electronics systems industries  and the current downturn has  and any future downturns may  materially adversely affect the company 
+purchases of the company s products and services are highly dependent upon new design projects initiated by integrated circuit manufacturers and electronics systems companies 
+the integrated circuit industry is highly cyclical and is subject to constant and rapid technological change  rapid product obsolescence  price erosion  evolving standards  short product life cycles and wide fluctuations in product supply and demand 
+the integrated circuit and electronics systems industries have experienced significant downturns  often connected with  or in anticipation of  maturing product cycles of both companies in these industries and their customers products and a decline in general economic conditions 
+these downturns have caused diminished product demand  production overcapacity  high inventory levels and accelerated erosion of average selling prices 
+certain integrated circuit manufacturers and electronics systems companies announced a slowdown of demand and production in  which continued in during downturns such as the current one  the number of new design projects decreases 
+the current slowdown has reduced  and any future downturns are likely to further reduce  the company s revenue and could materially adversely affect the company 
+fluctuations in quarterly results of operations due to the timing of significant orders and the mix of licenses used to sell the company s products could hurt the company s business and the market price of the company s common stock 
+the company has experienced  and may continue to experience  varied quarterly operating results 
+various factors affect the company s quarterly operating results and some of these are not within the company s control  including the timing of significant orders and the mix of licenses used to sell the company s products 
+the company receives a material amount of its software product revenue from current quarter order performance  of which a substantial amount is usually booked in the last few weeks of each quarter 
+a portion of the company s revenue often comes from multi million dollar contracts  the timing of the completion of and the terms of delivery of which can have a material impact on revenue recognition for a given quarter 
+if the company fails to receive expected orders in a particular quarter  particularly large orders  the company s revenues for that quarter could be adversely affected and the company could fail to meet analysts expectations which could adversely affect the company s stock price 
+the company uses fixed term installment sales agreements as a standard business practice 
+these multi year  multi element term license agreements are typically three years in length and are used with larger customers that the company believes are credit worthy 
+these agreements increase the risk associated with collectibility from customers that can arise for a variety of reasons including ability to pay  product dissatisfaction  disagreements and disputes 
+if the company is unable to collect under any of these multi million dollar agreements  the company s results of operations could be adversely affected 
+
+table of contents the company s revenue is also affected by the mix of licenses entered into in connection with the sale of software products 
+the company s software licenses fall into three general categories perpetual  fixed term and subscription 
+with perpetual and fixed term licenses  the company recognizes software product revenue at the beginning of the license period  while with subscription licenses the company recognizes software product revenue ratably over the license period 
+accordingly  a shift in the license mix toward increased subscription licenses would result in increased deferral of software product revenue to future periods and would decrease current revenue  possibly resulting in the company not meeting revenue expectations 
+the accounting rules governing software revenue recognition have been subject to authoritative interpretations that have generally made it more difficult to recognize software product revenue at the beginning of the license period 
+these new and revised standards and interpretations could adversely affect the company s ability to meet revenue projections and affect the company s stock price 
+the gross margin on the company s software products is greater than that for the company s hardware products  software support and professional services 
+therefore  the company s gross margin may vary as a result of the mix of products and services sold 
+additionally  the margin on software products varies year to year depending on the amount of third party royalties due to third parties for the mix of products sold 
+the company also has a significant amount of fixed or relatively fixed costs  such as professional service employee costs and purchased technology amortization  and variable costs which are committed in advance and can only be adjusted periodically 
+if anticipated revenue does not materialize as expected  the company s gross margins and operating results could be materially adversely affected 
+the lengthy sales cycle for the company s products and services and delay in customer consummation of projects makes the timing of the company s revenue difficult to predict 
+the company has a lengthy sales cycle that generally extends between three and six months 
+the complexity and expense associated with the company s products and services generally requires a lengthy customer evaluation and approval process 
+consequently  the company may incur substantial expenses and devote significant management effort and expense to develop potential relationships that do not result in agreements or revenue and may prevent the company from pursuing other opportunities 
+in addition  sales of the company s products and services may be delayed if customers delay approval or commencement of projects because of customers budgetary constraints  internal acceptance review procedures  timing of budget cycles or timing of competitive evaluation processes 
+intense competition in the eda industry could materially adversely affect the company 
+competition in the eda industry is intense  which can lead to  among other things  price reductions  longer selling cycles  lower product margins  loss of market share and additional working capital requirements 
+the company s success depends upon the company s ability to acquire or develop and market products and services that are innovative and cost competitive and that meet customer expectations 
+the company currently competes primarily with two large companies cadence design systems  inc and synopsys  inc 
+in june  synopsys completed its acquisition of avant corporation and the combined company could improve its competitive position with respect to the company 
+the company also competes with numerous smaller companies  a number of which have combined with other eda companies 
+the company also competes with manufacturers of electronic devices that have developed  or have the capability to develop  their own eda products internally 
+risks of international operations and the effects of foreign currency fluctuations can adversely impact the company s business and operating results 
+the company realized approximately half of the company s revenue from customers outside the united states for each of the years ended december   and to hedge against the impact of foreign currency fluctuations  the company enters into foreign currency forward and option contracts 
+however  significant changes in exchange rates may have a material adverse impact on the company 
+in addition  international operations subject the company to other risks including  but not limited to  longer receivables collection periods  changes in a specific country s or region s economic or political conditions  trade protection measures  import or export licensing requirements  loss or modification of exemptions for taxes and tariffs  limitations on repatriation of earnings and difficulties with licensing and protecting the company s intellectual property rights 
+delay in production of components or the ordering of excess components for the company s mentor emulation division hardware products could materially adversely affect the company 
+the success of the company s mentor emulation division depends on the company s ability to procure hardware components on a timely basis from a limited number of suppliers  
+table of contents assemble and ship systems on a timely basis with appropriate quality control  develop distribution and shipment processes  manage inventory and related obsolescence issues  and develop processes to deliver customer support for hardware 
+the company s inability to be successful in any of the foregoing could materially adversely affect the company 
+the company occasionally commits to purchase component parts from suppliers based on sales forecasts of the company s mentor emulation division s products 
+if the company cannot change or be released from these non cancelable purchase commitments  or if orders for the company s products do not materialize as anticipated  the company could incur significant costs related to the purchase of excess components which could become obsolete before the company can use them 
+additionally  a delay in production of the components could materially adversely affect the company s operating results 
+current litigation with quickturn  a subsidiary of cadence design systems  inc  over certain patents could affect the company s ability to sell the company s emulation products 
+the company has been sued by quickturn  which alleges that the company and certain of the company s emulation hardware products have infringed certain quickturn patents 
+this litigation could adversely affect the company s ability to sell the company s emulation hardware products in various jurisdictions worldwide and may decrease demand for the company s emulation hardware products worldwide 
+such litigation could also result in lower sales of emulation hardware products  increase the risk of inventory obsolescence and have a material adverse effect on the company 
+the company s failure to obtain software or other intellectual property licenses or adequately protect the company s proprietary rights could materially adversely affect the company 
+the company s success depends  in part  upon the company s proprietary technology 
+many of the company s products include software or other intellectual property licensed from third parties  and the company may have to seek new licenses or renew existing licenses for software and other intellectual property in the future 
+the company s failure to obtain software or other intellectual property licenses or rights on favorable terms  or the need to engage in litigation over these licenses or rights  could materially adversely affect the company 
+the company generally relies on patents  copyrights  trademarks  trade secret laws  licenses and restrictive agreements to establish and protect the company s proprietary rights in technology and products 
+despite precautions the company may take to protect the company s intellectual property  the company cannot assure that third parties will not try to challenge  invalidate or circumvent these safeguards 
+the company also cannot assure that the rights granted under the company s patents will provide it with any competitive advantages  that patents will be issued on any of the company s pending applications or that future patents will be sufficiently broad to protect the company s technology 
+furthermore  the laws of foreign countries may not protect the company s proprietary rights in those countries to the same extent as united states law protects these rights in the united states 
+the company cannot assure you that the company s reliance on licenses from or to  or restrictive agreements with  third parties  or that patent  copyright  trademark and trade secret protections  will be sufficient for success and profitability in the industries in which it competes 
+intellectual property infringement by or against us could materially adversely affect the company 
+there are numerous patents held by the company and the company s competitors in the eda industry  and new patents are being issued at a rapid rate 
+it is not always economically practicable or possible to determine in advance whether a product or any of its components infringes the patent rights of others 
+as a result  from time to time  the company may be forced to respond to  or prosecute  intellectual property infringement claims to protect the company s rights or defend a customer s rights 
+these claims  regardless of merit  could consume valuable management time  result in costly litigation and cause product shipment delays  all of which could materially adversely affect the company 
+in settling these claims  the company may be required to enter into royalty or licensing agreements with the third parties claiming infringement 
+these royalty or licensing agreements  if available  may not have terms acceptable to the company 
+any potential intellectual property litigation could force the company to do one or more of the following pay damages to the party claiming infringement  stop licensing  or providing services that use  the challenged intellectual property  obtain a license from the owner of the infringed intellectual property to sell or use the relevant technology  which license may not be available on reasonable terms  or 
+table of contents redesign the challenged technology  which could be time consuming and costly 
+if the company were forced to take any of these actions  the company s business could be materially adversely affected 
+future litigation proceedings may materially adversely affect the company 
+the company cannot assure that future litigation matters will not have a material adverse effect on the company 
+any future litigation may result in injunctions against future product sales and substantial unanticipated legal costs and divert the efforts of management personnel  any and all of which could materially adversely affect the company 
+errors or defects in the company s products and services could expose us to liability and harm the company s reputation 
+the company s customers use the company s products and services in designing and developing products that involve a high degree of technological complexity and have unique specifications 
+because of the complexity of the systems and products with which the company works  some of the company s products and designs can be adequately tested only when put to full use in the marketplace 
+as a result  the company s customers or their end users may discover errors or defects in the company s software or the systems we design  or the products or systems incorporating the company s designs and intellectual property may not operate as expected 
+errors or defects could result in loss of current customers and loss of  or delay in  revenue and loss of market share  failure to attract new customers or achieve market acceptance  diversion of development resources to resolve the problems resulting from errors or defects  increased service costs  and liability for damages 
+the company may acquire other companies and may not successfully integrate them or the companies the company has recently acquired 
+the company has acquired numerous businesses before and may acquire other businesses in the future 
+while the company expects to carefully analyze all potential transactions before committing to them  the company cannot assure that any transaction that is completed will result in long term benefits to the company or the company s shareholders or that the company s management will be able to manage the acquired businesses effectively 
+in addition  growth through acquisition involves a number of risks 
+if any of the following events occurs after the company acquires another business  it could materially adversely affect the company difficulties in combining previously separate businesses into a single unit  the substantial diversion of management s attention from day to day business when evaluating and negotiating acquisition transactions and then integrating the acquired business  the discovery after the acquisition has been completed of liabilities assumed with the acquired business  the failure to realize anticipated benefits  such as cost savings and revenue enhancements  the failure to retain key personnel of the acquired business  difficulties related to assimilating the products of an acquired business in  for example  distribution  engineering and customer support areas  unanticipated costs  adverse effects on existing relationships with suppliers and customers  and failure to understand and compete effectively in markets in which the company has limited previous experience 
+
+table of contents acquired businesses may not perform as projected which could result in impairment of acquisition related intangible assets 
+additional challenges include integration of sales channels  training and education of the sales force for new product offerings  integration of product development efforts  integration of systems of internal controls and integration of information systems 
+accordingly  in any acquisition there will be uncertainty as to the achievement and timing of projected synergies  cost savings and sales levels for acquired products 
+all of these factors can impair the company s ability to forecast  meet revenue and earnings targets and manage effectively the business for long term growth 
+the company cannot assure that it can effectively meet these challenges 
+the company s failure to attract and retain key employees may harm the company 
+the company depends on the efforts and abilities of the company s senior management  the company s research and development staff and a number of other key management  sales  support  technical and services personnel 
+competition for experienced  high quality personnel is intense  and the company cannot assure that it can continue to recruit and retain such personnel 
+the failure by the company to hire and retain such personnel would impair the company s ability to develop new products and manage the company s business effectively 
+terrorist attacks  such as the attacks that occurred on september   and other acts of violence or war may materially adversely affect the markets on which the company s securities trade  the markets in which the company operates  the company s operations and the company s profitability 
+terrorist attacks may negatively affect the company s operations and investment in the company s business 
+these attacks or armed conflicts may directly impact the company s physical facilities or those of the company s suppliers or customers 
+furthermore  these attacks may make travel and the transportation of the company s products more difficult and more expensive and ultimately affect the company s sales 
+any armed conflict entered into by the united states could have an impact on the company s sales and the company s ability to deliver products to the company s customers 
+political and economic instability in some regions of the world may also result from an armed conflict and could negatively impact the company s business 
+the consequences of any armed conflict is unpredictable  and the company may not be able to foresee events that could have an adverse effect on the company s business 
+more generally  any of these events could cause consumer confidence and spending to decrease or result in increased volatility in the united states and worldwide financial markets and economy 
+they also could result in or exacerbate economic recession in the united states or abroad 
+any of these occurrences could have a significant impact on the company s operating results  revenues and costs and may result in volatility of the market price for the company s securities 
+the company s articles of incorporation  oregon law and the company s shareholder rights plan may have anti takeover effects 
+the company s board of directors has the authority  without action by the shareholders  to designate and issue up to  shares of incentive stock in one or more series and to designate the rights  preferences and privileges of each series without any further vote or action by the shareholders 
+additionally  the oregon control share act and the business combination act limit the ability of parties who acquire a significant amount of voting stock to exercise control over the company 
+these provisions may have the effect of lengthening the time required for a person to acquire control of the company through a proxy contest or the election of a majority of the board of directors 
+in february  the company adopted a shareholder rights plan which has the effect of making it more difficult for a person to acquire control of the company in a transaction not approved by the company s board of directors 
+the potential issuance of incentive stock  the provisions of the oregon control share act and the business combination act and the company s shareholder rights plan may have the effect of delaying  deferring or preventing a change of control of the company  may discourage bids for the company s common stock at a premium over the market price of the company s common stock and may adversely affect the market price of  and the voting and other rights of the holders of  the company s common stock 
+
+table of contents item a 
+quantitative and qualitative disclosures about market risk all numerical references in thousands  except rate data interest rate risk the company is exposed to interest rate risk primarily through its investment portfolio  short term borrowings and long term notes payable 
+the company does not use derivative financial instruments for speculative or trading purposes 
+the company places its investments in instruments that meet high credit quality standards  as specified in the company s investment policy 
+the policy also limits the amount of credit exposure to any one issuer and type of instrument 
+the company does not expect any material loss with respect to its investment portfolio 
+the table below presents the carrying value and related weighted average fixed interest rates for the company s investment portfolio 
+the carrying value approximates fair value at december  in accordance with the company s investment policy  all investments mature in twelve months or less 
+principal notional amounts in united states dollars carrying value average fixed interest rate in thousands  except interest rates cash equivalents fixed rate short term investments fixed rate total fixed rate interest bearing instruments the company had convertible subordinated notes of  outstanding with a fixed interest rate of at december  for fixed rate debt  interest rate changes affect the fair value of the notes but do not affect earnings or cash flow 
+on january   the company entered into a syndicated  senior  unsecured credit facility that allows the company to borrow up to  this facility is a three year revolving credit facility  which terminates on january  under this facility  the company has the option to pay interest based on libor plus a spread of between and or prime plus a spread of between and  based on a pricing grid tied to a financial covenant 
+as a result  the company s interest expense associated with borrowings under this credit facility will vary with market interest rates 
+in addition  commitment fees are payable on the unused portion of the credit facility at rates between and based on a pricing grid tied to a financial covenant 
+a utilization fee of is payable on amounts borrowed under the credit facility when borrowings exceed of the total facility amount 
+the weighted average interest rate for was 
+the facility contains certain financial and other covenants  including financial covenants requiring the maintenance of specified liquidity ratios  leverage ratios and minimum tangible net worth 
+the company had short term borrowings against the credit facility of  at december  the company had other long term notes payable of  and short term borrowings  including borrowings under the credit facility  of  outstanding at december  with variable rates based on market indexes 
+for variable rate debt  interest rate changes generally do not affect the fair market value  but do affect future earnings or cash flow 
+if the interest rates on the variable rate borrowings were to increase or decrease by for the year and the level of borrowings outstanding remained constant  annual interest expense would increase or decrease by approximately foreign currency risk the company transacts business in various foreign currencies and has established a foreign currency hedging program to hedge certain foreign currency forecasted transactions and exposures from existing assets and liabilities 
+derivative instruments held by the company consist of foreign currency forward and option contracts 
+the company enters into contracts with counterparties who are major financial institutions and believes the risk related to default is remote 
+the company does not hold or issue derivative financial instruments for trading purposes 
+the company enters into foreign currency option contracts for forecasted sales and commission transactions between its foreign subsidiaries 
+these instruments provide the company the right to sell purchase foreign currencies to from third parties at future dates with fixed exchange rates 
+as of december   the company had options outstanding to sell japanese yen with contract values totaling approximately  at a weighted average contract rate of and has options outstanding to buy the euro with contract values totaling  at a weighted average contract rate of 
+the company enters into foreign currency forward contracts to protect against currency exchange risk associated with expected future cash flows and existing assets and liabilities 
+the company s practice is to hedge a majority of its existing material foreign currency transaction exposures 
+
+table of contents from time to time  the company enters into foreign currency forward contracts to offset the translation and economic exposure on a portion of the company s net investment in its japanese subsidiary 
+differences between the contracted currency rate and the currency rate at each balance sheet date will impact accumulated translation adjustment which is a component of accumulated other comprehensive income in the stockholders equity section of the consolidated balance sheet 
+the result is a partial offset of the effect of japanese currency changes on stockholders equity during the contract term 
+as of december   the company had no forward contracts outstanding to protect the net investment in its japanese subsidiary 
+the table provides information as of december  about the company s foreign currency forward contracts 
+the information provided is in united states dollar equivalent amounts 
+the table presents the notional amounts  at contract exchange rates  and the weighted average contractual foreign currency exchange rates 
+these forward contracts mature in january notional amount weighted average contract rate forward contracts japanese yen euro swedish krona british pound sterling korean won danish krona other total 
+table of contents 

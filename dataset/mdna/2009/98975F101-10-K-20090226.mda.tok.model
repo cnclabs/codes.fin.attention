@@ -1,0 +1,967 @@
+item management s discussion and analysis of financial condition and results of operations 
+forward looking statements provide current expectations of future events based on certain assumptions and include any statement that does not directly relate to any historical or current fact 
+forward looking statements can also be identified by words such as anticipates  believes  estimates  expects  intends  plans  predicts  and similar terms 
+forward looking statements are not guarantees of future performance and the company s actual results may differ significantly from the results discussed in the forward looking statements 
+factors that might cause such differences include  but are not limited to  those discussed in item a risk factors of this annual report on form k 
+the company assumes no obligation to revise or update any forward looking statements for any reason  except as required by law 
+part i item business company overview zoran corporation is a leading provider of digital solutions in the digital entertainment and digital imaging market 
+zoran has pioneered high performance digital audio and video  imaging applications  and connect share entertain technologies for the digital home 
+our products consist of integrated circuits and related products used in dvd players  movie and home theater systems  digital cameras and video editing systems 
+we provide integrated circuits  software and platforms for digital television applications that enable the delivery and display of digital video content through a set top box or television as well as digital imaging products consisting of semiconductor hardware and software that enable users to print  scan  process and transmit documents to computer peripherals that perform printing functions 
+we also provide high performance  low power application processors  technology and products for the multimedia mobile phone market 
+we sell our products to original equipment manufacturers  or oems that incorporate them into products for consumer and commercial applications 
+we were incorporated in california in december and reincorporated in delaware in november our corporate headquarters are located at kifer road  sunnyvale  california  and our telephone number is our website can be found at www 
+zoran 
+com 
+our annual reports on form k  quarterly reports on form q  current reports on form k  and any amendments to those reports  are available free of charge on our website under investors sec filings as soon as reasonably practicable after they are filed with the securities and exchange commission 
+additionally  these filings may be obtained by visiting the public reference room of the sec at f street  ne  washington  dc or by calling the sec at sec  by sending an electronic message to the sec at publicinfo sec 
+gov or by sending a fax to the sec at in addition  the sec maintains a website www 
+sec 
+gov that contains reports  proxy and information statements  and other information regarding issuers that file electronically 
+industry background until the mid s  video images and audio soundtracks were transmitted  edited and stored almost exclusively using analog formats 
+since then  advances in technology have allowed audio and video to be processed and stored in digital form 
+unlike analog formats  which are inherently unstable and difficult to edit and enhance  digital formats permit the manipulation of audio and video signals through digital signal processing and offer a number of fundamental advantages over analog technologies 
+through complex digital signal 
+table of contents processing operations  digital audio and video signals may be compressed  providing significant storage and transmission efficiencies 
+they also may be filtered  allowing for noise reduction  and they may be transmitted and reproduced without perceptible image or sound degradation 
+digital formats provide users with additional benefits  including higher quality audio and video  random access to data and superior editing capabilities 
+enhanced security features such as protection against unauthorized copying and controlled and secure access also encourage content owners to release their content in digital forms 
+one of the most significant barriers to the widespread adoption of digital technology had been the huge amount of data required to represent images and sounds in a digital format  making cost effective storage or transmission impractical 
+through digital compression techniques  a substantial number of the redundancies inherent in audio and video data can be identified and eliminated  significantly reducing the overall amount of data which needs to be retained 
+compression techniques introduced in the early s allowed a two hour movie to be compressed and stored on only two video cds with video resolution comparable to that of a standard vhs tape 
+more recent techniques allow the storage of a full length movie of more than three hours on a single dvd  with substantially improved audio and video quality and the incorporation of additional data  such as additional languages  scenes and director and actor commentary 
+even more recently  further advancements in compression technology now allow  for example  a complete high definition movie to be stored in the same space 
+additionally  digital compression of video data allows previously unmanageable amounts of data to be stored in the memory of a disk drive  thereby permitting the data to be accessed and edited easily 
+it also allows for easier transmission of sharper resolution pictures through a standard definition or high definition television or set top box 
+digital audio compression allows efficient storage and delivery of multi channel audio  making possible high quality special effects such as multi channel surround sound  virtual surround sound and wireless audio delivery via two speakers or headphones 
+in the field of still photography  digital compression allows hundreds or even thousands of digital pictures to be stored on a single memory card  depending on the resolution desired 
+to drive the implementation and speed the adoption of products based on digital formats  industry participants organized committees to define international compression standards 
+the principal standards in use today include the following the joint photographic experts group  or jpeg  standard for the high quality compression of still images and the real time  low cost compression and decompression of moving images  the mpeg standard  adopted by the moving pictures experts group  or mpeg  for the compression of both audio and video data at the high compression ratios necessary for the limited storage capacity of the cd rom format  the mpeg standard  subsequently adopted by the motion pictures experts group  for the compression of both audio and video data  designed to provide improved quality in broadcast and video playback applications  the mpeg standard  which is an extension of mpeg and mpeg that provides the ability to view  access and manipulate objects rather than pixels  which is especially significant in video streaming  digital television  mobile multimedia and video game applications 
+mpeg part standard  also known as advanced video codec avc or h  is an addition to the mpeg standard  offering significantly improved compression efficiencies  xvid  divx and mp file formats  which are based on the mpeg standard  are used encoding high quality digital video and audio at low bit rates 
+these files can be viewed on the pc with a software player  on select dvd players and portable media  windows media  microsoft s standard digital media software platform for developing digital media products and services  and dolby digital  developed by dolby laboratories  an industry standard for the compression of audio for use in multi channel digital surround sound systems 
+
+table of contents these industry standards have enabled the growth in the following digital multimedia markets dvd players and recorders dvd players and recorders primarily use mpeg video compression and dolby digital audio technology to provide significantly higher quality playback or recording than is possible with vcr or video cd technology 
+standard definition and high definition televisions and set top boxes digital televisions receive digital content and process it to display a picture which has far greater resolution and sharper  more clearly defined images than televisions based on the older analog technology 
+standard definition televisions generally contain lines with pixels per line 
+high definition television  or hdtv  sets contain to pixels per line and up to lines 
+the aspect ratio of standard definition sets is  compared to for hdtv 
+the lines may be displayed using different techniques  often referred to as interlacing or alternatively progressive scan 
+the capability to receive and process digital television signals can be contained in a set top box  which then drives a television that is capable of displaying digital content 
+alternatively  this functionality can be integrated into a digital television that does not require a set top box 
+digital content is broadcast via satellite  cable networks or over the air terrestrial broadcast in multiple regions throughout the world 
+mobile products digital cameras use jpeg compression technology to capture high resolution still images that can be viewed  edited and stored on a computer system  on a recordable dvd  and or transmitted over telephone lines and computer networks 
+some digital cameras are capable of capturing and playing back quality video  using the mpeg algorithm 
+products and markets are developed based on established compression standards and additional compression technologies such as meridian lossless pcm  or mlp  a newer standard for dvd audio  super audio  or sacd  microsoft windows media audio  or wma  advanced audio codec aac used in conjunction with the mpeg video standard and mp  a compression standard for the download of audio recordings from the internet 
+these established and emerging compression standards specify data formats which enable products from different vendors to interact and permit the capture  transmission  storage and display of audio and video data in digital format 
+these standards do not specify the compression methodologies to be employed or additional functionality that may be used to enhance or manipulate digital signals 
+these standards  therefore  do not determine image or sound quality or compression efficiency 
+for example  data compression may comply with relevant standards despite being poorly processed and containing artifacts that result in image degradation in video applications or poor sound quality in audio applications 
+as a result  there can be significant differences in overall image or sound quality between two solutions based on the same standard 
+therefore  integrated circuit manufacturers can differentiate their products on the basis of the quality of their compression solution 
+historically  as system vendors sought compression solutions  the cost  complexity and time required to compress and decompress data imposed significant limitations on the use of digital compression 
+over the last several years  as cost effective compression solutions have emerged  product manufacturers have increasingly sought to design and market lower cost digital audio and video systems and products to address an increasing number of high volume consumer applications 
+in addition  product manufacturers are facing competitive pressure to introduce their products more rapidly 
+to address these issues  oems continually seek to integrate more and more functions on individual chips in order to reduce their costs  time to market and power consumption 
+they also seek solutions that can easily be integrated into their commercial and consumer products 
+the challenge to manufacturers of compression integrated circuits is  therefore  to provide product manufacturers with high quality  cost effective  standards based solutions that enable flexible control  image enhancement  audio effects and other functions in addition to high quality compression solutions 
+we provide feature rich  cost effective  standards based solutions for a broad range of digital video  audio and imaging applications 
+we were a pioneer in the development of high performance digital signal processor 
+table of contents dsp products  and have developed expertise in integrated mixed signal circuit design  mathematical algorithms and software development  as well as proprietary digital signal processing  and video and audio compression technologies 
+we apply our multi disciplinary expertise and proprietary technologies to the development of fully integrated solutions for high growth multimedia markets 
+the key elements of our solutions include standards plus methodology we leverage our multi disciplinary expertise and proprietary digital signal processing and compression technologies to develop what we refer to as standards plus solutions 
+we enable oems to improve image and sound quality and deliver superior products to end users by adding more features around compression standards  such as more efficient use of memory  processing and communication resources  as well as audio and image enhancement algorithms 
+we also provide oems the ability to include oem programmable effects and features  as well as variable compression ratios for video 
+these standards plus features allow our customers to differentiate their products from those of their competitors 
+expandable and programmable architectures we design our integrated circuits to enable easy adaptation for a broad range of specific applications 
+we can vary the architecture of our chips by adding or deleting modules  and we can also modify the software embedded in the chips themselves to address specific applications 
+we also license ready to manufacture cores building blocks of integrated circuits that can be integrated into our customers chips 
+combined with the enhanced functionality of our standards plus technology  our expandable and programmable architecture facilitates product design  upgrades and customization  substantially accelerating our customers time to market with differentiated products 
+integrated system solutions we help our customers meet their total system requirements by providing integrated products that combine hardware and software to address required system functions and features on a single integrated circuit or chip set  reducing the number of integrated circuits  and in some cases providing a complete solution on a single chip 
+as a result  our customers total system cost is reduced and they can concentrate on differentiating their products from those of their competitors 
+for example  our coach ic includes most of the electronics of a digital camera on a single chip 
+cost effective products we focus on reducing the size  power requirements and number of integrated circuits necessary to perform required system functions  including compression 
+this reduces our customers manufacturing costs for products which incorporate our integrated circuits  and also reduces the costs of operating those products so that our products can be used in a broader range of high volume applications 
+the modular nature of our architecture reduces our new product development costs  and enables our design engineers to meet our customers new product specifications and cost parameters 
+near production ready system reference designs we provide our customers with a broad range of engineering reference boards and products complete with device driver software  embedded software and detailed schematics 
+these products substantially shorten our customers product design time 
+strategy key elements of our strategy include the following focus on growth and high volume applications our strategy is to focus on providing cost effective  high performance digital video  television  imaging and mobile solutions for consumer electronics and printing applications 
+the markets we currently target include dvd players  digital cameras  digital televisions and set top boxes  multimedia mobile phones  and multifunction printing devices 
+in these markets we strive to introduce increasingly feature rich products with reduced costs for our customers 
+leverage existing technology and expertise we intend to identify and actively pursue adjacent markets that we believe have high growth potential for our products 
+our proprietary digital signal processing and compression technologies can be used in many emerging markets where there is demand for high quality digital video products 
+
+table of contents further penetrate key international markets we have offices in canada  china  england  france  india  israel  japan  korea and taiwan and the us at the end of  we had over  full time  part time and contract employees working in various office locations near our customers 
+we believe that by having a presence in foreign regions near our customers we are better able to provide local application support that helps our customers deliver new consumer electronics products to market more quickly 
+extend technological leadership our years of experience in the fields of digital signal processing  integrated circuit design  algorithms and software development have enabled us to become a leader in the development of digital audio  video  and imaging solutions 
+using our multi disciplinary expertise  we have developed new technologies for compression of digital audio  video and imaging formats 
+we acquired important technologies for extending our capabilities into the growing multimedia mobile phone market and the global high definition television market 
+we intend to continue to invest in research and development  and to evaluate opportunities to acquire additional technologies when needed to maintain and extend our technological leadership 
+expand strategic partnerships we work closely in the product development process with leading manufacturers of products that incorporate our integrated circuits 
+we also work closely with key customers and provide them early access to our technologies 
+potential products are designed to meet customer driven product requirements defined by us with our partners providing technological input and  in selected cases  a portion of the development funding 
+this strategy has enabled us to develop products with financial and other assistance while retaining ownership of the technology and ensuring an established customer for the product once development is completed 
+in some cases  our strategic partners also provide sales and marketing support 
+we have also established long term relationships with strategic partners that provide manufacturing capacity and we continually seek to develop additional strategic relationships with manufacturers 
+markets and applications our products are currently used in a variety of consumer electronic devices  including the following consumer video playback systems red laser dvd players primarily use mpeg video compression and dolby digital or similar audio technology to provide significantly higher quality playback than earlier generation products such as vcrs  video cd or super video cd players 
+digital television the digital television market represents the most significant technological shift in the consumer electronics market since color televisions were introduced in the late s 
+today  digital content providers broadcast programming via satellite  cable or terrestrial over the air networks 
+the mix of broadcast networks varies by geographic region 
+for example  most digital television content in japan and korea is broadcast via terrestrial networks  while cable networks currently predominate in the united states 
+satellite networks offer an alternative source of content to consumers and are continuing to grow in various regions such as india 
+each geographic market is subject to regulations that require compliance with different governmental standards applicable to broadcast technology and content format 
+in each region  individual broadcasters also have developed their own proprietary standards for content  security and conditional access 
+this market requires television products  set top boxes  personal video recorders and other digital consumer appliances to include sophisticated integrated circuits and embedded software that address the emerging requirements of multiple broadcast networks throughout the world 
+the requirement by the us federal communications commission  or fcc  that all new televisions contain a built in digital receiver  has accelerated the growth of the digital television market in the us 
+table of contents mobile products digital cameras enable consumers to capture high resolution images  view  edit and store them on a computer system and transmit over telephone lines and computer networks 
+high quality copies of these images can be printed using color printers 
+digital cameras have added audio video capture and compression capabilities enabling them to function as digital video camcorders 
+digital cameras can be connected directly to a pc for downloading of pictures or movies and to a television for display 
+many mobile phones now incorporate digital still camera and camcorder functionality 
+photos and video clip files can be immediately sent to another mobile phone or pc via email  downloaded to a printer or pc for printing or storing via wired or wireless technology 
+with the spread of new technology and decreased manufacturing costs  mobile phones are including high resolution digital camera capabilities at increasingly lower price points 
+digital imaging print products the home and office market for printers is shifting to multi function devices that print  copy  scan and fax 
+in the enterprise and business segments the use of color  as opposed to monochrome  laser printers and copiers is now commonplace 
+the market for embedded software for page description languages  or pdls  is more mature than other areas of the imaging market 
+it is characterized by a small number of suppliers selling to very large oem customers for print devices designed to be connected to a network  typically in an enterprise 
+the pdl enables printers to receive a file from a pc and translate it into a set of instructions that the printer can understand and lay down on paper 
+in general  applications are designed to send jobs to printers using one or all of a number of protocols or language families 
+print control language  or pcl  originated as a hewlett packard developed protocol for page printers and has become an industry standard in office environments 
+both pcl and pcl xl  or pcl  are supported in office printers today 
+the application may also use the postscript language originally developed by adobe  which tends to be focused more on graphic arts and apple operating system environments 
+more recently  printers have also offered support for portable digital document formats that are designed to be widely viewed and shared  such as pdf  originally developed by adobe 
+xml paper specification  or xps  a new format  introduced by microsoft in windows vista  is also being deployed as a format in printers 
+products we offer products in four principal product families dvd products high performance integrated system on a chip solutions  including video and audio compression and decompression products based on mpeg  dolby digital and other audio video standards for use in red laser dvd players and related products 
+dtv products high performance  highly integrated asics and system on a chip solutions for standard and high definition digital television products including televisions  set top boxes  atsc converter boxes  personal video recorders  digital video recorders  as well as platforms  drivers and software stacks for a variety of operating systems required for digital television applications that support regional standards emerging around the world 
+mobile products highly integrated digital camera processors and multimedia mobile phone processors including image signal processing  image and video compression and decompression products based on jpeg  mpeg  h 
+and other technologies for the digital camera and multimedia mobile phone markets 
+digital imaging products ic based controller products and pdl software for both consumer and enterprise printers 
+
+table of contents the following table lists our principal integrated circuits currently in production  as well as the most recent versions of our printer software products product family principal products principal applications dvd vaddis integrated dvd processors dvd players and related products hdxtreme multimedia upscaler dvd players and related products dtv supratv integrated sd processors set top boxes and atsc converter boxes suprahd integrated processors high definition lcd televisions mobile coach digital camera processors digital cameras and camcorders approach multimedia application coprocessor cellular multimedia camera phones digital imaging quatro digital printing processors all in one inkjet  laser printers  color laser multi function printers and high speed scanners ips printing software print devices connected to microsoft operating systems and to networks zoran  the zoran logo  approach  hdxtreme  quatro  suprahd  supratv and vaddis are trademarks or registered trademarks of zoran corporation and its subsidiaries in the united states and other countries 
+all other names and brands may be claimed as property of others 
+dvd our vaddis processors performs all the audio and video decoding and display requirements of the dvd specifications  including mpeg audio and video decoding  dolby digital  divx and mlp audio decoding  on screen display  decryption required for copyright protection and presentation of graphic information 
+the hdxtreme technology allows dvd playback and viewing of jpeg pictures on an hdtv with an hdmi interface in a resolution of up to p 
+we also provide dvd player reference designs based on our vaddis product family that help our customers accelerate time to market for their products 
+dtv our dtv division offers integrated circuit products for both high definition and standard definition formats for digital televisions  set top boxes and related applications  including personal video recorders 
+our system on a chip products utilize advanced cpus or advanced design resulting in higher performance with lower power consumption and our highly integrated suprahd product line addresses the mainstream market segment as well as high end and entry level segments of the digital television and analog to digital broadcast transition markets 
+in the set top box domain we are shipping our products to the china cable and europe free to air market 
+mobile our coach processors are integrated system on a chip solutions that include most of the electronics of a digital camera  which can be connected directly to a high resolution ccd or cmos sensor 
+the coach ic processes the video information in real time  compresses the captured image in real time  while interfacing to an lcd  tv or micro display and to all types of flash memory 
+among the unique capabilities of the coach product is the ability to transfer in real time  over a usb bus  high quality video to the pc and function as a pc video camera 
+the coach products also allow for direct connection to a printer  including color correction and special effects  for the non pc consumer environment 
+the coach product is supplemented by digital camera reference designs  camon and cammini  products which shorten the time to market for zoran s customers 
+the newest coach processors utilize mpeg and h 
+codecs to incorporate basic digital camcorder capabilities for displaying video clips on a pc or tv 
+our mobile products division also offers mobile multimedia camera phone products 
+our approach media processors support a variety of multimedia functions  including best in class isp image quality  enhanced video play and record capabilities  multi standard end to end mobile tv decoding  integrated tv out  and high speed usb digital imaging our quatro products address both the consumer market for personal printers and the business market for a laser printers and multi function printers 
+the quatro product is a programmable soc 
+table of contents solution for imaging and printing appliances  including multifunction color inkjet and laser devices that feature print  copy  scan and fax 
+quatro asics are designed for mid range and entry level inkjet printers  as well as business oriented laser printers for the networked enterprise 
+ips modular  scalable embedded software products provide processing and control functions for document imaging peripheral devices supporting all common page description languages 
+customers our customers consist primarily of original equipment manufacturers oems  original design manufacturers odms  and resellers in both domestic and international markets 
+because we leverage our technologies across different markets  certain of our integrated circuits may be incorporated into equipment used in several markets 
+odms provide design and or manufacturing services to branded and private label resellers and oems 
+our sales and marketing teams work closely with our customers to define product features  performance and timing of new products so that the products we are developing meet the needs of our customers 
+we also employ application engineers to assist our customers in designing  testing and qualifying system designs that incorporate our products in order to assist in optimizing product compatibility 
+we believe that our commitment to customer service and design support improves our customers time to market and fosters relationships that encourage customers to use the next generation of our products 
+in three customers accounted for  and of our total revenues  respectively 
+research and development we believe that our future success depends on our ability to continue to enhance our existing products and to develop new products that maintain technological competitiveness and compliance with new standards in rapidly evolving consumer oriented digital audio and video markets 
+we attempt to leverage our expertise in the fields of digital signal processing  integrated circuit design  algorithms and software development to maintain our position as a leader in the development of digital audio  video and imaging solutions 
+accordingly  we devote a significant portion of our resources to maintaining and upgrading our products to reduce integrated circuit cost  feature size  power consumption and the number of integrated circuits required to perform compression and other functions necessary for the evolving digital audio  video and imaging application markets 
+in addition  we seek to design integrated circuits and cores  as well as near production ready reference designs which reduce the time needed by manufacturers to integrate our ics into their own products 
+we have historically generated a portion of our revenues from development contracts with our strategic partners 
+these development contracts provide that we will receive payments upon reaching certain development milestones and that we will retain ownership of the intellectual property developed 
+development contracts have enabled us to fund portions of our product development efforts  to respond to the feature requirements of our customers  to accelerate the incorporation of our products into our customers products and to accelerate the time to market of our customers products 
+we anticipate  however  that in the future  development contracts with strategic partners will fund a smaller portion of our development efforts than in the past 
+we are a party to research and development agreements with the chief scientist in israel s ministry of industry and trade and the israel united states bi national industrial research and development foundation 
+these organizations fund up to of incurred costs for approved projects up to contract maximums 
+the agreements require us to use our best efforts to achieve specified results and to pay royalties at rates of to of resulting product sales and up to of resulting license revenues  up to a maximum of to of the total funding received 
+reported research and development expenses are net of these grants  which fluctuate from period to period 
+the amounts received in and were immaterial 
+there were no grant receipts in the terms of israeli government funding include restrictions on the location of research and development activities  and the terms of the grants from the chief scientist prohibit the transfer of technology developed pursuant to these grants to any person without the prior written consent of the chief scientist 
+
+table of contents sales and marketing our sales and marketing strategy is to focus on providing solutions to manufacturers seeking to design audio  video and imaging products for existing and emerging high volume consumer applications 
+in cooperation with leading manufacturers of audio  video and imaging equipment in the commercial and consumer markets  we attempt to identify market segments which have the potential for substantial growth 
+to implement our strategy  we have established a worldwide direct sales force in offices located near our key customers and strategic partners  and a worldwide network of independent sales representatives and resellers 
+in some cases  our strategic partners also provide sales and marketing support 
+our sales are generally made pursuant to purchase orders received between one and six months prior to the scheduled delivery date 
+we sell our products primarily through our direct sales staff  field application engineers  and customer service staff located in the united states and internationally 
+our united states sales staff is primarily responsible for sales in north america  europe and south america 
+sales management and sales operations staff also reside in the united states 
+our sales and field application engineers in china  japan  korea and taiwan are responsible for marketing and technical support in their respective regions 
+in addition  we sell our products indirectly through selected resellers and commissioned sales representatives 
+to date  we have not experienced material product returns or warranty expense 
+we have offices in shenzhen  china as part of our effort to capture a leadership position in the chinese digital audio and video markets and offices in taipei and hsinchu  taiwan in an effort to better address the video  imaging and digital camera market 
+in addition  we operate sales support offices in hong kong  india  korea and taiwan that provide sales  applications and customer support 
+we distribute our products in japan primarily through resellers 
+we operate an office in tokyo to help promote our products in japan  to assist with the marketing of products not sold through resellers  such as integrated circuit cores and certain digital camera  digital video  digital television  and imaging products  and to provide applications support to some of our customers 
+backlog sales of our products are made pursuant to firm purchase orders 
+however  sometimes we allow customers to cancel or reschedule deliveries 
+in addition  purchase orders are subject to price renegotiations and to changes in quantities of products ordered as a result of changes in customers requirements and manufacturing availability 
+our ability to order products can carry lead times of between four and sixteen weeks  however  most of our business is characterized by short lead times and quick delivery schedules 
+as a result of these factors  we do not believe that backlog at any given time is a meaningful indicator of future sales 
+manufacturing we contract our wafer fabrication  assembly and testing to independent foundries and contractors  which enables us to focus on our design strengths  minimize fixed costs and capital expenditures and gain access to advanced manufacturing facilities 
+our engineers work closely with our foundry partners and subcontractors to increase yields  lower manufacturing costs and assure quality 
+most of our devices are currently fabricated using standard complementary metal oxide semiconductor process technology with micron to micron feature sizes 
+our primary foundry is taiwan semiconductor manufacturing company  or tsmc  which has manufactured integrated circuits for us since tsmc and tower semiconductor ltd 
+are currently manufacturing our dvd  dtv  imaging and mobile products 
+lsi corporation is providing turn key manufacturing for one high end laser printer product 
+our independent foundries fabricate products for other companies and may also produce products of their own design 
+most of our semiconductor products are currently being assembled by one of two independent contractors and tested by those contractors or other independent contractors 
+our primary services company for assembly and testing is advanced semiconductor engineering inc 
+table of contents we currently purchase products from all of our foundries under individually negotiated purchase orders 
+we do not currently have a long term supply contract with tsmc  and therefore tsmc is not obligated to manufacture products for us for any specific period  in any specific quantity or at any specified price  except as may be provided in a particular purchase order 
+competition our existing and potential competitors include many large domestic and international companies that have substantially greater finance  manufacturing  technology  marketing and distribution resources than we have 
+some of these competitors also have broader product lines and longer standing relationships with customers than we do 
+some of our principal competitors maintain their own semiconductor foundries and may therefore benefit from capacity  cost and technical advantages 
+our principal competitors in the integrated audio and video devices for dvd applications include mediatek inc and sunplus technology co 
+ltd 
+in the markets for digital cameras  our principal competitors are in house solutions developed and used by major japanese oems  as well as products sold by ambarella  fujitsu  mediatek inc  novatech  sunplus and texas instruments  inc in the market for multimedia acceleration for mobile phones  our principal competitors include amd  broadcom corp  corelogic  mtekvision co 
+ltd  nvidia and telechips inc our principal competitors for digital semiconductor devices in the digital television market include broadcom corp  m star  mediatek inc and st microelectronics 
+others who also participate in this market are micronas  nxp and trident microsystems  inc competitors in the printer and multifunction peripheral space include adobe  conexant systems  inc  global graphics  marvell semiconductor  inc 
+and in house captive suppliers 
+we believe that our ability to compete successfully in the rapidly evolving markets for high performance audio  video and imaging technology depends on a number of factors  including the following quality  performance  features and price of our products  the timing and success of new product introductions by zoran  our customers and our competitors  the emergence of new industry standards  ability to obtain adequate foundry capacity  the number and nature of our competitors in a given market  and general market and economic conditions 
+the markets in which we compete are intensely competitive and are characterized by rapid technological change  declining average unit selling prices and rapid product obsolescence 
+we expect competition to increase in the future from existing competitors and from other companies that may enter our existing or future markets with solutions which may be less costly or provide higher performance or more desirable features than our products 
+historically  average unit selling prices asps in the semiconductor industry in general  and for our products in particular  have decreased over the life of a particular product 
+we expect that the asps of our products will continue to be subject to significant pricing pressures 
+in order to offset expected declines in the asps of our products  we seek to continually reduce the cost of our products and continue to integrate additional functions into our ics 
+we intend to accomplish this by implementing design changes that integrate additional functionality  lower the cost of manufacturing  assembly and testing  by negotiating reduced charges at our foundries as  and if  volumes increase  and by successfully managing our manufacturing and subcontracting relationships 
+since we do not operate our own manufacturing  assembly or testing facilities  we may not be able to reduce our costs as rapidly as companies that operate their own facilities 
+if we fail to introduce lower cost versions of our products in a timely manner or to successfully manage our manufacturing  assembly and testing relationships  our business would be harmed 
+
+table of contents proprietary rights and licenses our ability to compete successfully is dependent in part upon our ability to protect our proprietary technology and information 
+although we rely on a combination of patents  copyrights  trademarks  trade secret laws and licensing arrangements to protect some of our intellectual property  we believe that factors such as the technological and creative skills of our personnel and the success of our ongoing product development efforts are more important in maintaining our competitive position 
+we generally enter into confidentiality or license agreements with our employees  resellers  customers and potential customers and limit access to our proprietary information 
+we currently hold issued patents worldwide  and have additional patent applications pending 
+our intellectual property rights  if challenged  may not be upheld as valid  may not be adequate to prevent misappropriation of our technology  or may not prevent the development of competitive products 
+additionally  we may not be able to obtain patents or other intellectual property protection in the future 
+in particular  the existence of several consortiums or standards bodies that license patents relating to various standards for consumer electronics and digital technology have created uncertainty with respect to the use and enforceability of patents implementing those standards 
+furthermore  the laws of certain foreign countries in which our products are or may be developed  manufactured or sold  including various countries in asia  may not protect our products or intellectual property rights to the same extent as do the laws of the united states and  thus  make the possibility of piracy of our technology and products more likely in these countries 
+the semiconductor industry is characterized by vigorous protection and pursuit of intellectual property rights  which have resulted in significant and often protracted and expensive litigation 
+we or our customers from time to time are notified of claims that we may be infringing patents or other intellectual property rights owned by third parties 
+we have been subject to intellectual property claims and litigation in the past 
+see item legal proceedings 
+we may be subject to additional claims and litigation in the future 
+in particular  given the uncertainty discussed above regarding patents relating to the consumer electronics or digital technology standards  it is difficult for us to assess the possibility that our activities in these fields may give rise to future patent infringement claims 
+litigation by or against us relating to patent infringement or other intellectual property matters could result in significant expense to us and divert the efforts of our technical and management personnel  whether or not such litigation results in a determination favorable to us 
+in the event of an adverse result in any such litigation  we could be required to pay substantial damages  cease the manufacture  use and sale of infringing products  expend significant resources to develop non infringing technology  discontinue the use of certain processes or obtain licenses to the infringing technology 
+licenses may not be offered on fair or reasonable terms or the terms of any offered licenses may not be acceptable to us 
+if we fail to obtain a license from a third party for technology that it uses  we could incur substantial liabilities and be forced to suspend the manufacture of products  or the use by our foundries of certain processes 
+we have non exclusive licenses from various third parties 
+some of the licenses are for technologies that are required to develop our products while others allow us to sell our products enabled with the third parties respective technologies 
+the majority of these agreements do not require us to pay royalties 
+under most of our agreements  we may sell such third party enabled products only to customers who are licensees of such third parties 
+we rely on our customers to enter into license agreements directly with the third parties pursuant to which they pay royalties and or license fees 
+the failure or refusal of potential customers to enter into license agreement with such third parties in the future could harm our sales 
+employees as of december   we had  employees  including employees primarily involved in research and development activities  in marketing and sales  in finance  human resources  information systems  legal and administration  and in manufacturing control and quality assurance 
+we had employees based in israel  primarily involved in engineering and research and development  employees at our facility in sunnyvale  california and employees at our facility in burlington massachusetts 
+we have employees in our china office 
+other employees are located in our international offices in canada  england  france  india  japan  korea and taiwan 
+we believe that our future success depends in large part on our ability to attract and retain highly skilled  engineering  managerial  sales and marketing personnel 
+competition for such personnel is intense 
+our employees are not represented by any collective bargaining unit  and we have never experienced a work stoppage 
+we believe that our employee relations are good 
+
+table of contents item a risk factors our future business  operating results and financial condition are subject to various risks and uncertainties  including those described below 
+our annual revenues and operating results fluctuate due to a variety of factors  which may result in volatility or a decline in the prices of our common stock 
+our historical operating results have varied significantly from period to period due to a number of factors  including fluctuation in demand for our products including reduced demand resulting from economic slowdowns and general business conditions  the timing of new product introductions or enhancements by us and our competitors  the level of market acceptance of new and enhanced versions of our products and our customers products  the timing or cancellation of large customer orders  the length and variability of the sales cycle for our products  pricing policy changes by us and by our competitors and suppliers  the cyclical nature of the semiconductor industry  the availability of development funding and the timing of development revenue  changes in the mix of products sold  seasonality in demand for our products  increased competition in product lines  and competitive pricing pressures  and the evolving and unpredictable nature of the markets for products incorporating our integrated circuits and embedded software 
+we expect that our operating results will continue to fluctuate in the future as a result of these factors and a variety of other factors  including the cost and availability of adequate foundry capacity  fluctuations in manufacturing yields  changes in or the emergence of new industry standards  failure to anticipate changing customer product requirements  the loss or gain of important customers  product obsolescence  and the amount of research and development expenses associated with new product introductions 
+our operating results could also be harmed by economic conditions generally or in various geographic areas where we or our customers do business  financial instability as a result of problems with mortgage related securities  liquidity of financial institutions  and credit market problems  terrorism and international conflicts or other crises  
+table of contents other conditions affecting the timing of customer orders  changes in governmental regulations that could affect our products  a downturn in the markets for our customers products  particularly the consumer electronics market  disruption in commercial activities associated with heightened security concerns affecting international travel and commerce  reduced demand for consumer electronic products due to an economic slowdown  an inability to hold our auction rate securities for a sufficient time to allow the market activity to recover  tightened immigration controls that may adversely affect the residence status of key non us managers and technical employees in our non us facilities or our ability to hire new non us employees in such facilities  or further worsening or expansion of armed conflict in the middle east which could adversely affect our operations in israel 
+these factors are difficult or impossible to forecast 
+we place orders with independent foundries several months in advance of the scheduled delivery date  often in advance of receiving non cancelable orders from our customers 
+this limits our ability to react to fluctuations in demand for their products 
+if anticipated shipments in any quarter are canceled or do not occur as quickly as expected  or if we fail to foresee a technology change that could render a product obsolete  expense and inventory levels could be disproportionately high 
+if anticipated license revenues in any quarter are canceled or do not occur  gross margins may be reduced 
+a significant portion of our expenses are relatively fixed  and the timing of increases in expenses is based in large part on our forecast of future revenues 
+as a result  if revenues do not meet our expectations  we may be unable to quickly adjust expenses to levels appropriate to actual revenues  which could harm our operating results 
+our customers experience fluctuating product cycles and seasonality  which causes their sales to fluctuate 
+because the markets that our customers serve are characterized by numerous new product introductions and rapid product enhancements  our operating results may vary significantly from quarter to quarter 
+during the final production of a mature product  our customers typically exhaust their existing inventories of our products 
+consequently  orders for our products may decline in those circumstances  even if the products are incorporated into both mature products and replacement products 
+a delay in a customer s transition to commercial production of a replacement product would delay our ability to recover the lost sales from the discontinuation of the related mature product 
+our customers also experience significant seasonality in the sales of their consumer products  which affects their orders of our products 
+typically  the second half of the calendar year represents a disproportionate percentage of sales for our customers due to the holiday shopping period for consumer electronics products  and therefore  a disproportionate percentage of our sales 
+we expect these seasonal sales fluctuations to continue for the foreseeable future and an economic slowdown could increase the seasonal decline in sales that we typically see in the first half of the calendar year 
+our ability to match production mix with the product mix needed to fill current orders and orders to be delivered in the given quarter may affect our ability to meet that quarter s revenue forecast 
+in addition  when responding to customers requests for shorter shipment lead times  we manufacture products based on forecasts of customers demands 
+these forecasts are based on multiple assumptions 
+if we inaccurately forecast customer demand  we may hold inadequate  excess or obsolete inventory that would reduce our profit margins and adversely affect our results of operations and financial condition 
+
+table of contents the worldwide economic downturn and other adverse economic factors would be likely to reduce our sales and revenues  increase our expenses and hurt our profitability  results of operations and financial condition 
+the current worldwide economic downturn has reduced and is likely to further reduce consumer spending on products made by our customers 
+other factors  such as unemployment levels  inflation  deflation  fuel and energy costs  consumer debt levels  interest rates and tax rates  may also reduce overall consumer spending or shift consumer spending to products other than those made by our customers 
+reduced sales by our customers could hurt our business by reducing demand for our products 
+moreover  if customers are not successful in generating sufficient revenue or are precluded from securing financing  they may not be able to pay  or may delay payment of  accounts receivable that are owed to us 
+lower net sales of our products and reduced payment capacity of our customers would reduce our immediate and future revenues 
+in addition  our expenses could rise due to  among others  fluctuations of the value of united states dollar  changes in interest and tax rates  decreased inventory turnover  increases in vendor prices  and reduced vendor output 
+such reduction of our revenues and increase of our expenses would hurt our profitability and adversely affect our results of operations and financial condition 
+in preparing our financial statements  we are required to make estimates and assumptions that affect amounts reported in the financial statements and accompanying notes  and some of those estimates are based on our forecasts of future results 
+the current volatility in the worldwide economy increases the risk that our actual results will differ materially from our forecasts  requiring adjustments in future filings 
+trends in global credit markets could result in insolvency of our key suppliers or customers  and customer inability to finance purchases of our products 
+furthermore  the credit market crisis including uncertainties with respect to financial institutions and the global capital markets and other macro economic challenges currently affecting the economy of the united states and other parts of the world may adversely affect our customers and suppliers 
+as a result of these conditions  our customers may experience cash flow problems and may modify  delay or cancel plans to purchase our products 
+if our customers are unable to finance purchases of our products  our sales will be adversely affected 
+similarly  current economic and credit conditions may cause our suppliers to increase their prices or reduce their output  which could increase our expenses or impair our sales 
+moreover  if one of our key suppliers were to become insolvent  we may not be able to find a suitable substitute in a timely manner and our cost of production may increase 
+if economic and credit conditions in the united states and other key markets deteriorate further or do not show improvement  our business and operating results may be adversely affected 
+our products are characterized by average selling prices that typically decline over relatively short time periods  if we are unable to reduce our costs or introduce new products with higher average selling prices  our financial results will suffer 
+average selling prices for our products typically decline over relatively short time periods  while many of our manufacturing costs are fixed 
+when our average selling prices decline  our revenues decline unless we are able to sell more units and our gross margins decline unless we are able to reduce our manufacturing costs by a commensurate amount 
+our operating results suffer when gross margins decline 
+we have experienced these problems  and we expect to continue to experience them in the future  although we cannot predict when they may occur or how severe they will be 
+our operating results may be harmed by cyclical and volatile conditions in the markets we address 
+as a result  our business  financial condition and results of operations could be materially and adversely affected 
+we operate in the semiconductor industry  which is cyclical and from time to time has experienced significant downturns 
+downturns in the industry often occur in connection with  or anticipation of  maturing 
+table of contents product cycles for semiconductor companies and their customers  and declines in general economic conditions 
+these downturns can cause abrupt fluctuations in product demand  production over capacity and accelerated decline of average selling prices 
+the recent emergence of a number of negative economic factors and the downturn in our industry could harm our revenue and our results of operations 
+any downturn in the semiconductor industry may be severe and prolonged 
+the semiconductor industry also periodically experiences increased demand and production capacity constraints  which may affect our revenue if we are unable to ship products to meet customer requirements 
+the recent worldwide economic downturn makes it extremely difficult for our customers  our vendors and us to accurately forecast and plan future business activities 
+this downturn could delay and or lengthen sales cycles by causing us and foreign businesses to slow or postpone spending on our products and services 
+we cannot predict the timing  strength or duration of any economic slowdown or subsequent economic recovery  worldwide  or in the semiconductor industry 
+the combination of our lengthy sales cycle coupled with challenging macroeconomic conditions could have a synergistic negative impact on the results of our operations 
+our success for the foreseeable future will depend on our ability to develop and market new products in the digital markets 
+in recent years  we have derived a majority of our product revenues from the sale of integrated circuits for dvd and digital camera applications 
+we expect that sales of our products for these applications will account for a smaller portion of our revenues in the foreseeable future 
+our future financial performance will depend on our ability to successfully develop and market new products in the digital television  hdtv and digital imaging markets 
+if the markets for these products and applications decline or fail to develop as expected  or we are not successful in our efforts to market and sell our products to manufacturers who incorporate integrated circuits into these products  our financial results will be harmed 
+our financial performance is highly dependent on the timely and successful introduction of new and enhanced products 
+our financial performance depends in large part on our ability to successfully develop and market next generation and new products in a rapidly changing technological environment 
+if we fail to successfully identify new product opportunities and timely develop and introduce new products that achieve market acceptance  we may lose our market share and our future revenues and earnings may suffer 
+in the consumer electronics market  our performance has been dependent on our successful development and timely introduction of integrated circuits for dvd players  digital cameras  multimedia accelerators for mobile phones  digital televisions  set top boxes and digital imaging products 
+these markets are characterized by the incorporation of a steadily increasing level of integration and numbers of features on a chip at the same or lower system cost  enabling original equipment manufacturers  or oems  to continually improve the features or reduce the prices of the systems they sell 
+if we are unable to continually develop and introduce integrated circuits with increasing levels of integration and new features at competitive prices  our operating results will suffer 
+in the imaging market  our performance has been dependent on our successful development and timely introduction of integrated circuits for printers and multi function peripherals 
+these markets are characterized by the incorporation of a steadily increasing level of integration and higher speeds on a chip at the same or lower system cost  enabling oems to improve the performance and features or reduce the prices of the systems they sell 
+if we are unable to develop and introduce integrated circuits with increasing levels of integration  performance and new features at competitive prices  our operating results will suffer 
+the performance of our software licensing business is dependent on our ability to develop and introduce new releases of our software  which incorporate new or enhanced printing standards  as well as performance enhancements required by our oem customers 
+if we are unable to develop and release versions of our software supporting required standards and offering enhanced performance  our operating results will suffer 
+
+table of contents we face competition or potential competition from companies with greater resources than ours  and if we are unable to compete effectively with these companies  our market share may decline and our business could be harmed 
+the markets in which we compete are intensely competitive and are characterized by rapid technological change  declining average unit selling prices and rapid product obsolescence 
+we expect competition to increase in the future from existing competitors and from other companies that may enter our existing or future markets with solutions which may be less costly or provide higher performance or more desirable features than our products 
+competition typically occurs at the design stage  when customers evaluate alternative design approaches requiring integrated circuits 
+because of short product life cycles  there are frequent design win competitions for next generation systems 
+our existing and potential competitors include many large domestic and international companies that have substantially greater financial  manufacturing  technological  market  distribution and other resources 
+these competitors may also have broader product lines and longer standing relationships with customers and suppliers than we have 
+some of our principal competitors maintain their own semiconductor foundries and may therefore benefit from capacity  cost and technical advantages 
+our principal competitors in the integrated audio and video devices for dvd applications include mediatek inc and sunplus technology co 
+ltd 
+in the markets for digital cameras  our principal competitors are in house solutions developed and used by major japanese oems  as well as products sold by ambarella  fujitsu  mediatek inc  novatech  sunplus and texas instruments  inc in the market for multimedia acceleration for mobile phones  our principal competitors include amd  broadcom corp  corelogic  mtekvision co 
+ltd  nvidia and telechips inc our principal competitors for digital semiconductor devices in the digital television market include broadcom corp  m star  mediatek inc and st microelectronics 
+others who also participate in this market are micronas  nxp and trident microsystems  inc competitors in the printer and multifunction peripheral space include adobe  conexant systems  inc  global graphics  marvell semiconductor  inc and in house captive suppliers 
+the dvd player market has slowed  and continued competition will lead to further price reductions and reduced profit margins 
+we also face significant competition in the digital imaging and digital camera markets 
+the future growth of both markets is highly dependent on oems continuing to outsource an increasing portion of their product development work 
+many of our existing competitors  as well as oem customers that are expected to compete with us in the future  have substantially greater financial  manufacturing  technical  marketing  distribution and other resources  broader product lines and longer standing relationships with customers than we have 
+in addition  much of our future success is dependent on the success of our oem customers 
+if we or our oem customers are unable to compete successfully against current and future competitors  we could experience price reductions  order cancellations and reduced gross margins  any one of which could harm our business 
+we must keep pace with rapid technological changes and evolving industry standards to remain competitive 
+our future success will depend on our ability to anticipate and adapt to changes in technology and industry standards and our customers changing demands 
+the consumer electronics market  in particular  is characterized by rapidly changing technology  evolving industry standards  frequent new product introductions  short product life cycles and increasing demand for higher levels of integration 
+our ability to adapt to these changes and to anticipate future standards  and the rate of adoption and acceptance of those standards  will be a significant factor in maintaining or improving our competitive position and prospects for growth 
+if new industry standards emerge  our products or the products of our customers could become unmarketable or obsolete  and we could lose market share or be required to incur substantial unanticipated costs to comply with these new standards 
+our success will also depend on the successful development of new markets and the application and acceptance of new technologies and products in those new markets 
+for example  our success will depend on the ability of our customers to develop new products and enhance existing products in the digital television and 
+table of contents set top box markets and to introduce and promote those products successfully 
+these markets may not continue to develop to the extent or in the time periods that we currently anticipate due to factors outside our control 
+if new markets do not develop as we anticipate  or if our products do not gain widespread acceptance in these markets  our business  financial condition and results of operations could be harmed 
+the emergence of new markets for our products is also dependent in part upon third parties developing and marketing content in a format compatible with commercial and consumer products that incorporate our products 
+if this content is not available  manufacturers may not be able to sell products incorporating our products  and our sales would suffer 
+our new frame rate conversion technology remains unproven  and if it is not accepted by our customers  our financial results and ability to compete could be harmed 
+through our acquisition of let it wave in june  we acquired a frame rate conversion technology that is currently under development 
+we plan to continue to invest in developing this technology and to make it available for customer integration in the future 
+there is no assurance  however  that this new technology will be accepted by our customers 
+in addition  our competitors may develop a superior performance image processing technology and introduce it in the market before us 
+if we cannot successfully market and sell our new frame rate conversion technology  we will not be able to recoup our costs of acquiring let it wave and further development costs for this technology  and our financial results and ability to compete could be adversely affected 
+we rely on independent foundries and contractors for the manufacture  assembly and testing of our integrated circuits and other hardware products  and the failure of any of these third parties to deliver products or otherwise perform as requested could damage our relationships with our customers and harm our sales and financial results 
+we do not operate any manufacturing facilities  and we rely on independent foundries to manufacture substantially all of our products 
+these independent foundries fabricate products for other companies and may also produce products of their own design 
+from time to time  there are manufacturing capacity shortages in the semiconductor industry 
+we do not have long term supply contracts with any of our suppliers  including our principal supplier taiwan semiconductor manufacturing company  or tsmc  and our principal assembly houses 
+therefore  tsmc and our other suppliers are not obligated to manufacture products for us for any specific period  in any specific quantity or at any specified price  except as may be provided in a particular purchase order 
+our reliance on independent foundries involves a number of risks  including the inability to obtain adequate manufacturing capacity  the unavailability of or interruption of access to certain process technologies necessary for manufacture of our products  lack of control over delivery schedules  lack of control over quality assurance  lack of control over manufacturing yields and cost  and potential misappropriation of our intellectual property 
+in addition  tsmc and some of our other foundries are located in areas of the world that are subject to natural disasters such as earthquakes 
+while the earthquake in taiwan did not have a material impact on our independent foundries  a similar event centered near tsmc s facility could severely reduce tsmc s ability to manufacture our integrated circuits 
+the loss of any of our manufacturers as a supplier  our inability to expand the supply of their products in response to increased demand  or our inability to obtain timely and adequate deliveries from our current or future suppliers due to a natural disaster or any other reason could delay or reduce shipments of our products 
+any of these circumstances could damage our relationships with current and prospective customers and harm our sales and financial results 
+
+table of contents we also rely on a limited number of independent contractors for the assembly and testing of our products 
+our reliance on independent assembly and testing houses limits our control over delivery schedules  quality assurance and product cost 
+disruptions in the services provided by our assembly or testing houses or other circumstances that would require them to seek alternative sources of assembly or testing could lead to supply constraints or delays in the delivery of our products 
+these constraints or delays could damage our relationships with current and prospective customers and harm our financial results 
+because foundry capacity is limited from time to time  we may be required to enter into costly long term supply arrangements to secure foundry capacity 
+if we are not able to obtain additional foundry capacity as required  our relationships with our customers would be harmed and our sales would likely be reduced 
+in order to secure additional foundry capacity  we have considered  and may in the future need to consider  various arrangements with suppliers  which could include  among others option payments or other prepayments to a foundry  nonrefundable deposits with or loans to foundries in exchange for capacity commitments  contracts that commit us to purchase specified quantities of silicon wafers over extended periods  issuance of our equity securities to a foundry  investment in a foundry  joint ventures  or other partnership relationships with foundries 
+we may not be able to make any such arrangement in a timely fashion or at all  and such arrangements  if any  may not be on terms favorable to us 
+moreover  if we are able to secure foundry capacity  we may be obligated to utilize all of that capacity or incur penalties 
+such penalties may be expensive and could harm our financial results 
+if our independent foundries do not achieve satisfactory yields  our relationships with our customers may be harmed 
+the fabrication of silicon wafers is a complex process 
+minute levels of contaminants in the manufacturing environment  defects in photo masks used to print circuits on a wafer  difficulties in the fabrication process or other factors can cause a substantial portion of the integrated circuits on a wafer to be non functional 
+many of these problems are difficult to detect at an early stage of the manufacturing process and may be time consuming and expensive to correct 
+as a result  foundries often experience problems achieving acceptable yields  which are represented by the number of good integrated circuits as a proportion of the number of total integrated circuits on any particular wafer 
+poor yields from our independent foundries would reduce our ability to deliver our products to customers  harm our relationships with our customers and harm our business 
+we are dependent upon our international sales and operations  economic  political or military events in a country where we make significant sales or have significant operations could interfere with our success or operations there and harm our business 
+during  of our total revenues were derived outside of north america 
+we anticipate that international sales will continue to account for a substantial majority of our total revenues for the foreseeable future 
+substantially all of our semiconductor products are manufactured  assembled and tested outside of the united states by independent foundries and subcontractors 
+
+table of contents we are subject to a variety of risks inherent in doing business internationally  including operating in new countries where we have limited or no experience  unexpected changes in regulatory requirements  fluctuations in exchange rates  political and economic instability  armed conflicts or other crises  imposition of tariffs and other barriers and restrictions  the burdens of complying with a variety of foreign laws  and health risks in a particular region 
+a material amount of our research and development personnel and facilities and a portion of our sales and marketing personnel are located in israel 
+political  economic and military conditions in israel directly affect our operations 
+for example  increased violence or armed conflict in israel or the palestinian territories may disrupt travel and communications in the region  harming our operations there 
+furthermore  some of our employees in israel are obligated to perform up to days of military reserve duty annually and may be called to active duty in a time of crisis 
+the absence of these employees for significant periods during the work week may cause us to operate inefficiently during these periods 
+our operations in china are subject to the economic and political uncertainties affecting that country 
+for example  the chinese economy has experienced significant growth in the past decade  but such growth has been uneven across geographic and economic sectors 
+this growth may decrease and any slowdown may have a negative effect on our business 
+we also maintain offices in canada  england  france  india  japan  korea and taiwan  and our operations are subject to the economic and political uncertainties affecting these countries as well 
+the significant concentration of our manufacturing activities with third party foundries in taiwan exposes us to the risk of political instability in taiwan  including the potential for conflict between taiwan and china 
+we have several significant oem customers in japan  korea and other parts of asia 
+adverse economic circumstances in asia could affect these customers willingness or ability to do business with us in the future or their success in developing and launching devices containing our products 
+the complexity of our international operations may increase our operating expenses and disrupt our revenues and business 
+we transact business and have operations worldwide 
+for example  international transactions form a substantial majority of our sales  our semiconductor products are manufactured  assembled and tested outside of the united states  and in june we acquired a foreign corporation 
+our global operations involve significant complexity and difficulties  including monitoring and complying with applicable laws and regulatory requirements  staffing and managing global operations  complying with statutory equity requirements  and managing tax consequences 
+if we are unable to manage the complexity of our global operations successfully  our financial performance and operating results could suffer 
+
+table of contents the prices of our products may become less competitive due to foreign exchange fluctuations 
+foreign currency fluctuations may affect the prices of our products 
+prices for our products are currently denominated in us dollars for sales to our customers throughout the world 
+if there is a significant devaluation of the currency in a specific country  the prices of our products will increase relative to that country s currency  our products may be less competitive in that country and our revenues may be adversely affected 
+also  we cannot be sure that our international customers will continue to be willing to place orders denominated in us dollars 
+if they do not  our revenue and operating results will be subject to foreign exchange fluctuations 
+because we have significant operations in israel  our business and future operating results could be harmed by terrorist activity or military conflict 
+we conduct a significant portion of our research and development and engineering activities at our design center in haifa  israel  a  square foot facility where we employ approximately people 
+we also conduct a portion of our sales and marketing operations at our haifa facility 
+we have an additional  square foot facility in kfar netter  israel  where we conduct research and development activities 
+any armed conflict affecting israel could greatly disrupt our israeli operations locally and as a result hinder our business generally by delaying product development or interfering with global sales and marketing efforts 
+for example  as a result of the heightened military operations in gaza some of our employees were conscripted for several weeks ending in january additional employees may also be called to active duty in the future 
+extended absences could disrupt our operations and delay product development cycles 
+in addition  military conflict in the middle east or terrorist activities there or elsewhere in the world could harm our business as a result of a disruption in commercial activity affecting international commerce or a general economic slowdown and reduced demand for consumer electronic products 
+changes in  or interpretations of  tax rules and regulations may adversely affect our effective tax rates 
+unanticipated changes in our tax rates could affect our future results of operations 
+our future effective tax rates could be unfavorably affected by changes in tax laws or the interpretation of tax laws  by unanticipated decreases in the amount of revenue or earnings in countries with low statutory tax rates  by changes in the geography of our income or losses  or by changes in the valuation of our deferred tax assets and liabilities 
+the ultimate outcomes of any future tax audits are uncertain  and we can give no assurance as to whether an adverse result from one or more of them will have a material effect on our operating results and financial position 
+the inflation in foreign countries or the decline in the value of united states dollar compared to those foreign currencies may negatively impact our costs 
+a portion of the cost of our operations  relating mainly to our personnel and facilities is incurred in foreign currencies 
+as a result  we bear the risk that the rate of inflation in those foreign countries or the decline in the value of united states dollar compared to those foreign currencies will increase our costs as expressed in united states dollars 
+to date  we have not engaged in hedging transactions 
+in the future  we may enter into currency hedging transactions to decrease the risk of financial exposure from fluctuations in the exchange rate of the united states dollar against foreign currencies 
+these measures may not adequately protect us from the impact of inflation in foreign countries 
+we derive most of our revenue from sales to a small number of large customers  and if we are not able to retain these customers  or they reschedule  reduce or cancel orders  our revenues would be reduced and our financial results would suffer 
+our largest customers have accounted for a substantial percentage of our revenues 
+in  three customers accounted for  and of our total revenues  respectively  while sales to our ten largest customers accounted for of our total revenues 
+in  one customer accounted for of our total revenues  and 
+table of contents sales to our ten largest customers accounted for of our total revenues 
+sales to these large customers have varied significantly from year to year and will continue to fluctuate in the future 
+these sales also may fluctuate significantly from quarter to quarter 
+we may not be able to retain our key customers  or these customers may cancel purchase orders or reschedule or decrease their level of purchases from us 
+any substantial decrease or delay in sales to one or more of our key customers could harm our sales and financial results 
+in addition  any difficulty in collecting amounts due from one or more key customers could harm our financial results 
+as of december  four customers accounted for approximately   and of the net accounts receivable balance  respectively 
+our products generally have long sales cycles and implementation periods  which increases our costs in obtaining orders and reduces the predictability of our operating results 
+our products are technologically complex 
+prospective customers generally must make a significant commitment of resources to test and evaluate our products and to integrate them into larger systems 
+as a result  our sales processes are often subject to delays associated with lengthy approval processes that typically accompany the design and testing of new products 
+the sales cycles of our products often last for many months 
+longer sales cycles require us to invest significant resources in attempting to make sales and delay the generation of revenue 
+long sales cycles also subject us to other risks  including customers budgetary constraints or insolvency  internal acceptance reviews and cancellations 
+in addition  orders expected in one quarter could shift to another because of the timing of customers purchase decisions 
+the time required for our customers to incorporate our products into their own can vary significantly with the needs of our customers and generally exceeds several months  which further complicates our planning processes and reduces the predictability of our operating results 
+we are not protected by long term contracts with our customers 
+we generally do not enter into long term purchase contracts with our customers  and we cannot be certain as to future order levels from our customers 
+customers generally purchase our products subject to cancelable short term purchase orders 
+we cannot predict whether our current customers will continue to place orders  whether existing orders will be canceled  or whether customers who have ordered products will pay invoices for delivered products 
+when we do enter into a long term contract  the contract is generally terminable at the convenience of the customer 
+early termination by one of our major customers would harm our financial results 
+our products could contain defects  which could reduce sales of those products or result in claims against us 
+we develop complex and evolving products 
+despite testing by us and our customers  errors may be found in existing or new products 
+this could result in  among other things  a delay in recognition or loss of revenues  loss of market share or failure to achieve market acceptance 
+these defects may cause us to incur significant warranty  support and repair costs  divert the attention of our engineering personnel from our product development efforts and harm our relationships with customers 
+the occurrence of these problems could result in the delay or loss of market acceptance of our products and would likely harm our business 
+defects  integration issues or other performance problems in our products could result in financial or other damages to customers or could damage market acceptance of such products 
+our customers could also seek damages from us for their losses 
+a product liability claim brought against us  even if unsuccessful  would likely be time consuming and costly to defend 
+regulation of our customers products may slow the process of introducing new products and could impair our ability to compete 
+the federal communications commission  or fcc  has broad jurisdiction over our target markets in the digital television business 
+various international entities or organizations may also regulate aspects of our 
+table of contents business or the business of our customers 
+although our products are not directly subject to regulation by any agency  the transmission pipes  as well as much of the equipment into which our products are incorporated  are subject to direct government regulation 
+for example  before they can be sold in the united states  advanced televisions and emerging interactive displays must be tested and certified by underwriters laboratories and meet fcc regulations 
+accordingly  the effects of regulation on our customers or the industries in which our customers operate may in turn harm our business 
+fcc regulatory policies affecting the ability of cable operators or telephone companies to offer certain services and other terms on which these companies conduct their business may impede sales of our products 
+in addition  our digital television business may also be adversely affected by the imposition of tariffs  duties and other import restrictions on our suppliers or by the imposition of export restrictions on products that we sell internationally 
+changes in current laws or regulations or the imposition of new laws or regulations in the united states or elsewhere could harm our business 
+our ability to compete could be jeopardized if we are unable to protect our intellectual property rights 
+our success and ability to compete depend in large part upon protection of our proprietary technology 
+we rely on a combination of patent  trade secret  copyright and trademark laws  non disclosure and other contractual agreements and technical measures to protect our proprietary rights 
+these agreements and measures may not be sufficient to protect our technology from third party infringement  or to protect us from the claims of others 
+monitoring unauthorized use of our products is difficult  and we cannot be certain that the steps we have taken will prevent unauthorized use of our technology  particularly in foreign countries where the laws may not protect our proprietary rights as fully as in the united states 
+the laws of certain foreign countries in which our products are or may be developed  manufactured or sold  including various countries in asia  may not protect our products or intellectual property rights to the same extent as do the laws of the united states and thus make the possibility of piracy of our technology and products more likely in these countries 
+if competitors are able to use our technology  our ability to compete effectively could be harmed 
+the protection offered by patents is subject to numerous uncertainties 
+for example  our competitors may be able to effectively design around our patents  or the patents may be challenged  invalidated or circumvented 
+those competitors may also independently develop technologies that are substantially equivalent or superior to our technology 
+moreover  while we hold  or have applied for  patents relating to the design of our products  some of our products are based in part on standards  for which we do not hold patents or other intellectual property rights 
+we have generally limited access to and distribution of the source and object code of our software and other proprietary information 
+with respect to our page description language software  system on a chip platform firmware and drivers for the digital office market and in limited circumstances with respect to firmware and platforms for our dtv products  we grant licenses that give our customers access to and restricted use of the source code of our software 
+this access increases the likelihood of misappropriation or misuse of our technology 
+claims and litigation regarding intellectual property rights and breach of contract claims could seriously harm our business and require us to incur significant costs 
+in recent years  there has been significant litigation in the united states involving patents and other intellectual property rights 
+in the past  we have been subject to claims and litigation regarding alleged infringement of other parties intellectual property rights  and we have been parties to a number of patent related lawsuits  both as plaintiff and defendant 
+we could become subject to additional litigation in the future  either to protect our intellectual property or as a result of allegations that we infringe others intellectual property rights or have breached our contractual obligations to others 
+claims that our products infringe proprietary rights or that we have breached contractual obligations would force us to defend ourselves and possibly our customers or manufacturers against the alleged infringement or breach 
+future litigation against us  if successful  could subject us to significant liability for damages or invalidation of our proprietary rights 
+these lawsuits  regardless of their 
+table of contents success  are time consuming and expensive to resolve and require significant management time and attention 
+future intellectual property and breach of contract litigation could force us to do one or more of the following stop selling products that incorporate the challenged intellectual property  obtain from the owner of the infringed intellectual property right a license to sell or use the relevant technology  which license may not be available on reasonable terms or at all  pay damages  or redesign those products that use such technology 
+although patent disputes in the semiconductor industry have often been settled through cross licensing arrangements  we may not be able in any or every instance to settle an alleged patent infringement claim through a cross licensing arrangement 
+we have a more limited patent portfolio than many of our competitors 
+if a successful claim is made against us or any of our customers and a license is not made available to us on commercially reasonable terms or we are required to pay substantial damages or awards  our business  financial condition and results of operations would be materially adversely affected 
+if necessary licenses of third party technology are not available to us or are very expensive  our products could become obsolete 
+from time to time  we may be required to license technology from third parties to develop new products or product enhancements 
+third party licenses may not be available on commercially reasonable terms  if at all 
+if we are unable to obtain any third party license required to develop new products and product enhancements  we may have to obtain substitute technology of lower quality or performance standards or at greater cost  either of which could seriously harm the competitiveness of our products 
+we rely on licenses to use various technologies that are material to our products 
+we do not own the patents that underlie these licenses 
+our rights to use these technologies and employ the inventions claimed in the licensed patents are subject to our abiding by the terms of the licenses 
+under the license agreements we must fulfill confidentiality obligations and pay royalties 
+if we fail to abide by the terms of the license  we would be unable to sell and market the products under license 
+in addition  we do not control the prosecution of the patents subject to this license or the strategy for determining when such patents should be enforced 
+as a result  we are dependent upon our licensor to determine the appropriate strategy for prosecuting and enforcing those patents 
+if we are not able to apply our net operating losses against taxable income in future periods  our financial results will be harmed 
+our future net income and cash flow will be affected by our ability to apply our net operating loss carryforwards  or nols  against taxable income in future periods 
+our nols totaled approximately million for federal  million for state and million for foreign tax reporting purposes as of december  the internal revenue code contains a number of provisions that limit the use of nols under certain circumstances 
+changes in tax laws in the united states may further limit our ability to utilize these nols 
+any further limitation on our ability to utilize these respective nols could harm our financial condition 
+any acquisitions we make could disrupt our business and severely harm our financial condition 
+we have made investments in  and acquisitions of other complementary companies  products and technologies  and we may acquire additional businesses  products or technologies in the future 
+in the event of any future acquisitions  we could issue stock that would dilute its current stockholders percentage ownership  incur debt  
+table of contents use a significant amount of our cash  assume liabilities  incur expenses related to the future impairment of goodwill and the amortization of intangible assets  or incur other large write offs immediately or in the future 
+our operation of acquired business will also involve numerous risks  including problems combining the purchased operations  technologies or products  acquisition of unproven technologies under development  unanticipated costs  diversion of management s attention from our core business  adverse effects on existing business relationships with customers  risks associated with entering markets in which we have no or limited prior experience  and potential loss of key employees  particularly those of the purchased organizations 
+in june we acquired let it wave  a french company  and its frame rate conversion technology  which is still in development 
+there is no assurance that we will be able to complete the development of this technology and bring it to market 
+we may not be able to successfully complete the integration of acquired in process products  technologies or personnel and any failure to do so could disrupt our business and seriously harm our financial condition 
+if our goodwill or amortizable intangible assets become impaired we may be required to record a significant charge to earnings 
+we review our goodwill and intangible assets for impairment  no less often than annually  when changes in circumstances indicate the carrying value may not be recoverable 
+a change in circumstances may be indicated  and the carrying value of our goodwill or intangible assets may be impaired not be recoverable  where there are declines in our stock price and market capitalization  declines in expected future cash flows  or slower growth rates in our industry 
+when we performed our annual impairment test in  we determined that goodwill and intangible assets related to our reporting units in the consumer business segment were impaired and therefore recorded a charge of million in the current year for impairment of goodwill and intangible assets 
+if our future financial performance or other events indicate that the value of our recorded goodwill or intangibles is impaired  we may record additional impairment charges that could adversely affect our financial results 
+in addition  our impairment analysis involves determining the fair value of our business using a projected discounted cash flow analysis that is based on significant estimates  such as our projections of future sales volume and timing  margins and operating costs  and the discount rate we use to calculate present value of future cash flow 
+changes to these estimates may cause us to recognize an impairment loss that could be material to our financial results 
+if we fail to manage our future growth  if any  our business would be harmed 
+we anticipate that our future growth  if any  will require us to recruit and hire a substantial number of new engineering  managerial  sales and marketing personnel 
+our ability to manage growth successfully will also require us to expand and improve administrative  operational  management and financial systems and controls 
+many of our key operations  including a material portion of our research and development operations and a significant portion of our sales and administrative operations are located in israel 
+a majority of our sales and 
+table of contents marketing and certain of our research and development and administrative personnel  including our president and chief executive officer and other officers  are based in the united states 
+the geographic separation of these operations places additional strain on our resources and our ability to manage growth effectively 
+if we are unable to manage growth effectively  our business will be harmed 
+we are exposed to fluctuations in the market values of our portfolio investments and in interest rates 
+at the end of december  we had million in cash  cash equivalents and short term and long term investments 
+we invest our cash in a variety of financial instruments  consisting principally of investments in commercial paper  money market funds  auction rate securities and highly liquid debt securities of corporations  municipalities and the united states government and its agencies 
+these investments are denominated in us dollars 
+at december  we held auction rate securities ars with a par value of million 
+historically  our ars were highly liquid  using a dutch auction process that resets the applicable interest rate at predetermined intervals  typically every days  to provide liquidity at par 
+however  as a result of liquidity issues in the global credit and capital markets  the auctions for all of our ars failed beginning in the first quarter of  when sell orders exceeded buy orders 
+there can be no assurance that we will be able to dispose of our ars at favorable pricing 
+investments in both fixed rate and floating rate interest earning instruments carry a degree of interest rate risk 
+fixed rate debt securities may have their market value adversely impacted due to a rise in interest rates  while floating rate securities may produce less income than expected if interest rates fall 
+due in part to these factors  our future investment income may fall short of expectations due to changes in interest rates or if the decline in fair value of our publicly traded equity investments and debt instruments is judged to be other than temporary 
+we may suffer losses in principal if we are forced to sell securities that decline in market value due to changes in interest rates 
+however  because any debt securities we hold are classified as available for sale  generally no gains or losses are recognized due to changes in interest rates unless such securities are sold prior to maturity 
+recent events in the subprime mortgage market and with ars could negatively impact our return on investment for these debt securities and thereby reduce the amount of cash and cash equivalents and long term investments on our balance sheet 
+we rely on the services of our executive officers and other key personnel  whose knowledge of our business and industry would be extremely difficult to replace 
+our success depends to a significant degree upon the continuing contributions of our senior management 
+management and other employees may voluntarily terminate their employment with us at any time upon short notice 
+the loss of key personnel could delay product development cycles or otherwise harm our business 
+we believe that our future success will also depend in large part on our ability to attract  integrate and retain highly skilled engineering  managerial  sales and marketing personnel  located in the united states and overseas 
+competition for such personnel is intense  and we may not be successful in attracting  integrating and retaining such personnel 
+failure to attract  integrate and retain key personnel could harm our ability to carry out our business strategy and compete with other companies 
+provisions in our charter documents and delaware law could prevent or delay a change in control of zoran 
+our certificate of incorporation and bylaws and delaware law contain provisions that could make it more difficult for a third party to acquire us  even if doing so would be beneficial to our stockholders 
+these include provisions prohibiting a merger with a party that has acquired control of or more of our outstanding common stock  such as a party that has completed a successful tender offer  until three years after that party acquired control of of our outstanding common stock  
+table of contents authorizing the issuance of up to  shares of blank check preferred stock  eliminating stockholders rights to call a special meeting of stockholders  and requiring advance notice of any stockholder nominations of candidates for election to our board of directors 
+our stock price has fluctuated and may continue to fluctuate widely 
+the market price of our common stock has fluctuated significantly since our initial public offering in between january  and december   the sale prices of our common stock  as reported on the nasdaq stock market  ranged from a low of to a high of 
+the market price of our common stock is subject to significant fluctuations in the future in response to a variety of factors  including announcements concerning our business or that of our competitors or customers  annual and quarterly variations in our operating results  changes in analysts earnings estimates  announcements of technological innovations  the introduction of new products or changes in product pricing policies by zoran or its competitors  loss of key personnel  proprietary rights or other litigation  general conditions in the semiconductor industry  and developments in the financial markets 
+from time to time the stock market experiences extreme price and volume fluctuations that have particularly affected the market prices for semiconductor companies or technology companies generally and which have been unrelated to the operating performance of the affected companies 
+broad market fluctuations of this type may reduce the future market price of our common stock 
+item b unresolved staff comments none item properties our executive offices and principal marketing  sales and product development operations are located in approximately  square feet of leased space in sunnyvale  california  under a lease that expires in september a significant portion of our research and development and engineering facilities and our administration operations are currently located in approximately  square feet of leased space in an industrial park in haifa  israel under a lease expiring in november we also lease facilities  primarily for sales  product development  and technical support  in burlington  massachusetts  manchester  england  paris  france  tokyo  japan  seoul  korea  taipei  taiwan and shenzhen  shanghai and hong kong  china 
+we believe that our current facilities are adequate for our needs for the foreseeable future and that  should it be needed  suitable additional space in each of the locations where we operate will be available to accommodate expansion of our operations on commercially reasonable terms 
+item legal proceedings zoran corporation v 
+dts  inc on october   the company filed a complaint against dts  inc in the us district court for the northern district of california  alleging violations of section of the sherman act 
+table of contents and patent misuse the antitrust case 
+the complaint alleges that dts wrongfully acquired and maintained monopoly power in the relevant markets in the manner in which it caused its patented high definition audio decompression technology to be adopted as part of the blu ray disc standard 
+the complaint further alleges that  having wrongfully acquired monopoly power in the relevant markets  dts has refused to license its technology to the company and others on fair  reasonable and nondiscriminatory  or frand  terms as required by its membership in the blu ray disc association the bda 
+the complaint seeks treble damages  in an amount to be determined  an order enjoining dts from monopolizing and attempting to monopolize the united states markets for blu ray disc technology and an order declaring that dts s relevant patents are unenforceable by reason of misuse 
+on october   the company also filed a notice of arbitration with the international center for dispute resolution under the bda by laws making allegations similar to those in the antitrust case and seeking an order granting the company a license to dts s blu ray technology and requiring dts to provide the company with necessary dts blu ray materials or their equivalent on frand terms and a finding that dts materially breached the blu ray disc association by laws the arbitration proceeding 
+on november   dts filed its statement of defense and counterclaim in the arbitration proceeding in which dts raised defenses to the company s claims and asserted that the company had breached the bda bylaws by filing the antitrust case 
+on december   the company filed its response denying the allegations made by dts in its statement of defense and counterclaim 
+the arbitration hearing is currently scheduled to begin on april  on october   dts filed a motion seeking an order referring the company s claims in the antitrust case to arbitration and dismissing the complaint in its entirety or  in the alternative  staying the district court action pending the outcome of the arbitration 
+on january   the court ordered all essentially frand based issues referred to arbitration  denied the motion with respect to all non arbitrable issues  and stayed the antitrust case pending the arbitrator s decision on the frand issues 
+on february   dts filed a notice of appeal of the court s order with the us court of appeals for the ninth circuit 
+on november   dts filed a complaint against the company in the superior court for the state of california  county of los angeles  northwest district the state court case 
+in the state court case  dts alleges fraud  breach of contract and unfair competition claims against the company 
+on december   in response to dts s complaint  the company filed a general denial and asserted affirmative defenses against dts 
+the company also filed a cross complaint against dts seeking declaratory relief 
+on january   dts filed a general denial and asserted affirmative defenses in response to the company s cross complaint 
+by letter dated february   dts counsel asserted a further claim that the company has violated federal law  including section a of the lanham act and section b of the securities exchange act of  as well as unspecified state laws  by making false and misleading statements implying that it has  or shortly will have  a license to the blu ray technology  and that dts has been damaged by such statements 
+the letter threatens further legal action by dts 
+the company denies these additional allegations 
+the company intends to vigorously pursue all rights and remedies it may have against dts and defend itself against allegations made by dts in the currently pending proceedings as well as any additional proceedings that dts may initiate 
+zoran corporation v 
+macrovision solutions  inc and macrovision  inc collectively  macrovision 
+on december   macrovision sent the company a letter in which macrovision alleged that the company had breached a component supplier non assertion and technical services agreement with macrovision  demanded that the company cure certain alleged breaches of the agreement and purported to terminate the agreement 
+on december   the company sent macrovision a letter stating  among other things  that the company had not breached the agreement and refuting macrovision s purported termination of the agreement 
+the company further advised macrovision that it is the company s position that the agreement remains in full force and effect 
+the company and macrovision were unable to resolve this dispute through subsequent communications 
+
+table of contents accordingly  on january   the company filed a demand for arbitration with the american arbitration association seeking an order declaring that it has not breached its agreement with macrovision and that the agreement has not been terminated 
+on february   macrovision filed an answering statement and counterdemand in which it denies that the company is entitled to any relief and asserts various affirmative defenses 
+in its counterdemand  macrovision seeks an order declaring that it terminated the agreement and also alleges breaches of the agreement by the company for which it seeks unspecified damages  costs and permanent injunctive relief 
+the company intends to vigorously pursue all rights and remedies it may have against macrovision and defend itself against allegations made by macrovision in these proceedings 
+indemnification obligations 
+subject to certain limitations  the company is obligated to indemnify its current and former directors  officers and employees in connection with the investigation of the company s historical stock option practices and related government inquiries and litigation which concluded during these obligations arise under the terms of the company s certificate of incorporation  its bylaws  applicable contracts  and delaware and california law 
+the obligation to indemnify generally means that the company is required to pay or reimburse the individuals reasonable legal expenses and possibly damages and other liabilities incurred in connection with these matters 
+the company is currently paying or reimbursing legal expenses incurred in connection with these matters by a number of its current and former directors  officers and employees 
+other legal matters 
+the company is named from time to time as a party to lawsuits in the normal course of its business 
+litigation in general  and intellectual property and securities litigation in particular  can be expensive and disruptive to normal business operations 
+moreover  the results of legal proceedings are difficult to predict 
+item submission of matters to a vote of security holders we did not submit any matters to a vote of our security holders during the fourth quarter of the fiscal year ended december  
+table of contents part ii item market for registrant s common equity  related stockholder matters and issuer purchases of equity securities our common stock is traded on the nasdaq stock market under the symbol zran 
+the following table sets forth the high and low sales prices of our common stock as reported on the nasdaq global select market for the periods indicated high low first quarter second quarter third quarter fourth quarter first quarter second quarter third quarter fourth quarter as of december   there were holders of record of our common stock 
+we have never paid cash dividends on our capital stock 
+it is our present policy to retain earnings to finance the growth and development of our business and  therefore  we do not anticipate paying any cash dividends in the foreseeable future 
+purchases of equity securities by the issuer and affiliated purchasers neither we nor any affiliated purchaser repurchased any of our equity securities in the fourth quarter of 
+table of contents item selected financial data the following selected consolidated financial data should be read in conjunction with the consolidated financial statements and the notes thereto included elsewhere herein 
+year ended december  in thousands  except per share data statement of operations data total revenues gross profit operating income loss net income loss basic net income loss per share diluted net income loss per share shares used in diluted per share calculations as of december  in thousands balance sheet data cash  cash equivalents and short term investments see note working capital total assets accumulated deficit total stockholders equity 
+table of contents item management s discussion and analysis of financial condition and results of operations this section and other parts of this annual report on form k contain forward looking statements that involve risks and uncertainties 
+forward looking statements can also be identified by words such as anticipates  expects  believes  plans  predicts  and similar terms 
+forward looking statements are not guarantees of future performance and the company s actual results may differ significantly from the results discussed in the forward looking statements 
+factors that might cause such differences include  but are not limited to  those discussed in item a risk factors above 
+the following discussion should be read in conjunction with the consolidated financial statements and notes thereto included in item of this report 
+the company assumes no obligation to revise or update any forward looking statements for any reason  except as required by law 
+overview our products include integrated circuits and related products used in dvd players  movie and home theater systems  digital cameras and video editing systems  standard and high definition digital televisions  and set top boxes 
+we also provide high performance  low power application processors  technology and products for the multimedia mobile phone market  and digital imaging semiconductor products and software that enable users to print  scan  process and transmit documents 
+we sell our products to original equipment manufacturers oems that incorporate them into products for consumer and commercial applications  and to resellers 
+although we experienced significant revenue growth in the dtv and mobile phone processor product lines  some of our other product lines saw considerable revenue declines based on lower demand as a result of the global economic slowdown in in response to the challenging economic environment we are taking steps to control costs while maintaining a strong balance sheet 
+revenues we derive most of our revenues from the sale of our integrated circuit and system on a chip products 
+historically  average selling prices for our products  consistent with average selling prices for products in the semiconductor industry generally  have decreased over time 
+average selling prices for our products have fluctuated substantially from period to period  reflecting changes in our mix of sales to oem customers versus resellers and transitions from low volume to high volume production 
+in the past  we have periodically reduced the prices of some of our products in order to better penetrate the consumer market 
+we believe that  as our product lines continue to mature and competitive markets evolve  we are likely to experience further declines in the average selling prices of our products  although we cannot predict the timing and amount of such future changes with any certainty 
+we also derive revenues from licensing our software and other intellectual property 
+licensing revenues include one time license fees and royalties based on the number of units distributed by the licensee 
+quarterly licensing revenues can be significantly affected by the timing of a small number of licensing transactions  each accounting for substantial revenues 
+accordingly  licensing revenues have fluctuated  and will continue to fluctuate  on a quarterly basis 
+our software license agreements typically include obligations to provide maintenance and other support over a fixed term and allow for renewal of maintenance services on an annual basis 
+we determine the fair value of our maintenance obligations with reference to substantive renewal rates within the agreement or objective evidence of fair value as required under statement of position sop  software revenue recognition 
+we recognize maintenance and support revenue ratably over the term of the arrangement 
+we also receive royalty revenues based on per unit shipments of products that include our software  which we recognize upon receipt of a royalty report from the customer  typically one quarter in arrears 
+we also generate a portion of our revenues from development contracts  primarily with key customers 
+revenue from development contracts are generally recognized as the services are performed based on the 
+table of contents specific deliverables outlined in each contract 
+amounts received in advance of performance under contracts are recorded as deferred revenue and are generally recognized within one year from receipt 
+cost of hardware product revenues our cost of hardware product revenues consist primarily of fabrication costs  assembly and test costs  and the cost of materials and overhead from operations 
+if we are unable to reduce our cost of hardware product revenues to offset anticipated decreases in average selling prices  our product gross margins will decrease 
+we expect both product and customer mix to continue to fluctuate in future periods  causing fluctuations in margins 
+research and development our research and development expenses consist of salaries and related costs of employees engaged in ongoing research  design and development activities and costs of engineering materials and supplies 
+we believe that significant investments in research and development are required for us to remain competitive  and we expect to continue to devote significant resources to product development  although such expenses as a percentage of total revenues may fluctuate 
+from time to time  we enter into non refundable joint development projects in which our customers reimburse us for a portion of our development costs 
+we record such reimbursement of development costs as an offset to research and development expenses as we retain ownership of the intellectual property developed by us under these development arrangements 
+selling  general and administrative our selling  general and administrative expenses consist primarily of employee related expenses  sales commissions  product promotion and other professional services 
+we expect that selling  general and administrative expenses will continue to increase to support our anticipated growth 
+income taxes our effective tax rate is highly dependent upon the geographic distribution of our worldwide earnings or losses 
+our current tax expense reflects taxes expected to be owed in our profitable jurisdictions 
+in addition  due to economic changes in the global economy during  we have identified material foreign jurisdictions where it is no longer more likely than not that we will fully utilize our deferred tax assets  and have recorded a full valuation allowance on those assets 
+our israel based subsidiary is an approved enterprise under israeli law  which provides a ten year tax holiday for income attributable to a portion of our operations in israel 
+our us federal net operating losses expire at various times between and  and the benefits from our subsidiary s approved enterprise status expire at various times beginning in we are currently under a tax audit in israel for tax years through we believe that we have adequately provided for any potential assessments associated with this audit 
+it is possible that the amount of our liability for unrecognized income tax benefits may change within the next months 
+in addition  our income tax expense could be affected as other events occur  income tax audits conclude or statutes of limitations expire 
+we cannot estimate at this time the range of possible variations in our tax expense 
+the calculation of our tax liabilities involves dealing with uncertainties in the application of complex tax regulations 
+we record liabilities for anticipated tax audit issues based on our estimate of whether  and the extent to which  additional taxes may be due 
+actual tax liabilities may be different than the recorded estimates and could result in an additional charge or benefit to the tax provision in the period when the ultimate tax assessment is determined 
+
+table of contents acquisition on june   we completed the acquisition of let it wave  a fabless development stage semiconductor company based in paris  france 
+under the terms of the acquisition agreement  we acquired let it wave in an all cash transaction valued at million including approximately  of transaction costs 
+we also agreed to make contingent payments of up to million in additional consideration  contingent upon completion of certain milestones  a portion of which was subject to continuous employment and was to be expensed as incurred 
+the milestones were not achieved and thus there were no payments in relation to the milestones 
+the payments of  related to continuous employment will continue to be expensed as incurred through we recorded an in process research and development expense of million in connection with the acquisition 
+let it wave is at least six months from completing the development of its motion compensated frame rate conversion mcfrc product and currently has no other products  revenues or a customer base 
+we expect that the in process technology will be successfully completed by the second quarter of  with an estimated cost to complete of approximately million 
+we accounted for this transaction as an asset acquisition in accordance with statement of financial accounting standards no 
+sfas  goodwill and other intangible assets and emerging issues task force no 
+eitf  determining whether a nonmonetary transaction involves receipt of productive assets or of a business 
+following the completion of the acquisition  the results of operations of let it wave have been included in our condensed consolidated financial statements 
+accordingly  our results of operations for the year ended december  include let it wave s operations from the acquisition date 
+segments our products consist of application specific integrated circuits  or asics  and system on a chip  or soc  products 
+we also license certain software and other intellectual property 
+we operate in two operating segments consumer and imaging 
+the consumer group provides products for use in dvd players  recordable dvd players  standard and high definition digital television products  digital cameras and multimedia mobile phones 
+the imaging group provides products used in digital copiers  laser and inkjet printers  and multifunction peripherals 
+critical accounting policies and estimates this discussion and analysis of our financial condition and results of operations are based upon our consolidated financial statements  which have been prepared in accordance with accounting principles generally accepted in the united states of america 
+the preparation of these financial statements requires us to make estimates and judgments that affect the reported amounts of assets  liabilities  revenues and expenses  and related disclosure of contingent assets and liabilities 
+on an on going basis  we evaluate our estimates  including bad debt  inventories  investments  intangible assets and income taxes 
+we base these estimates on historical experience and on various other assumptions that we believe to be reasonable under the circumstances 
+the results of these estimates form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources 
+actual results may differ from these estimates under different assumptions or conditions 
+we believe the following critical accounting policies require our most significant judgments and estimates used in the preparation of our consolidated financial statements we generally recognize product sales to distributors at the time of shipment 
+however  in some cases we grant rights of return or provide price protection arrangements 
+we establish a reserve for the 
+table of contents estimated allowances and recognize the balance of the product revenue associated with that arrangement upon shipment 
+the deferred revenue balance from these arrangements at the end of each accounting period was not material 
+revenue from development contracts is generally recognized as the services are performed based on the specific deliverables outlined in each contract 
+amounts received in advance of performance under contracts are recorded as deferred revenue and are generally recognized within one year from receipt 
+inventories are recorded at the lower of standard cost  which approximates actual cost on a first in first out basis  or market value 
+we write down inventories to net realizable value based on forecasted demand and market conditions 
+inventory write downs are not reversed and permanently reduce the cost basis of the affected inventory until such inventory is sold or scrapped 
+we assess the valuation of our inventory in each reporting period 
+although we attempt to forecast future inventory demand  given the competitive pressures and cyclical nature of the semiconductor industry  there may be significant unanticipated changes in demand or technological developments that could have a significant impact on the value of our inventories and reported operating results 
+inventory write downs inherently involve judgments as to assumptions about expected future demand and the impact of market conditions on those assumptions 
+although we believe that the assumptions we used in estimating inventory write downs are reasonable  significant changes in any one of the assumptions in the future could produce a significantly different result 
+actual demand and market conditions may be different from those projected by our management 
+there can be no assurances that future events and changing market conditions will not result in significant increases in inventory write downs 
+this could have a material effect on our operating results and financial position 
+we maintain allowances for doubtful accounts for estimated losses resulting from the delays or inability of certain customers to make required payments 
+these allowances are estimated based on specific identification of facts and circumstances with respect to each doubtful account 
+if the financial condition of our customers were to deteriorate  resulting in an impairment of their ability to make payments  additional allowances may be required 
+we assess the impairment of goodwill annually  or more frequently if events or changes in circumstances indicate that the carrying value of such assets exceeds their fair value 
+we assess the carrying value of our long lived assets if events or circumstances indicate the carrying value of the assets exceeds the future undiscounted cash flows attributable to such assets 
+with respect to both goodwill and long lived assets  factors that could trigger an impairment review include significant negative industry or economic trends  exiting an activity in conjunction with a restructuring of operations  current  historical or projected losses that demonstrate continuing losses associated with an asset or a significant decline in our market capitalization for an extended period of time  relative to net book value 
+impairment evaluations involve management estimates of asset useful lives and future cash flows 
+these estimates include assumptions about future conditions such as future revenues  gross margins  operating expenses  control premiums  the fair values of certain assets based on appraisals  and industry trends 
+actual useful lives and cash flows could be different from those estimated by our management 
+this could have a material effect on our net income loss 
+we have accounted for stock based compensation under statement of financial accounting standards sfas r revised  share based payment sfas r and sec staff accounting bulletin sab which requires the use of option pricing models that were not developed for use in valuing employee stock options 
+the black scholes option pricing model that we use was developed for use in estimating the fair value of short lived exchange traded options that have no vesting restrictions and are fully transferable 
+in addition  option pricing models require the input of highly subjective assumptions  including the option s expected life and the price volatility of underlying stock 
+our expected stock price volatility assumption was determined using the historical volatility of our common stock 
+we determined that historical volatility reflects market conditions and is a good indicator of future volatility 
+our expected term represents the period that our stock based awards are 
+table of contents expected to be outstanding and was determined based on our historical experience with similar awards  giving consideration to the contractual terms of the stock based awards and vesting schedules 
+see notes and to consolidated financial statements for a detailed description 
+we are subject to the possibility of losses from various contingencies 
+considerable judgment is necessary to estimate the probability and amount of any loss from such contingencies 
+an accrual is made when it is probable that a liability has been incurred or an asset has been impaired and the amount of loss can be reasonably estimated 
+we accrue a liability and charge operations for the estimated costs expected to be incurred over the next twelve months of adjudication or settlement of asserted and unasserted claims existing as of the balance sheet date 
+see note to consolidated financial statements  commitments and contingencies  for a detailed description 
+we follow the liability method of accounting for income taxes which requires recognition of deferred tax liabilities and assets for the expected future tax consequence of temporary differences between the financial statement carrying amounts and the tax basis of assets and liabilities 
+realization of deferred tax assets is based on our ability to generate sufficient future taxable income 
+the release of our valuation allowance in was determined in accordance with the provisions of sfas  accounting for income taxes sfas which requires an assessment of both positive and negative evidence when determining whether it is more likely than not that deferred tax assets are recoverable  such assessment is required on a jurisdiction by jurisdiction basis 
+recent operating results and continuing uncertainty about projected income represent sufficient negative evidence that we now believe that it is no longer more likely than not that some of our deferred tax assets will be realized and accordingly  a valuation allowance was recorded in the fourth quarter of in certain material foreign jurisdictions 
+we adopted the provisions of fasb interpretation no 
+accounting for uncertainty in income taxes fin no 
+an interpretation of fasb statement no 
+ as of january  prior to adoption  our policy was to establish reserves that reflected the best estimate of known tax contingencies 
+fin no 
+requires application of a more likely than not threshold to the recognition and derecognition of uncertain tax positions 
+fin no 
+requires us to recognize the amount of tax benefit that has a greater than percent likelihood of success upon settlement 
+the calculation of our tax liabilities involves dealing with uncertainties in the application of complex tax law and related regulations 
+accordingly  we report a liability for unrecognized tax benefits resulting from uncertain tax positions taken or expected to be taken in a tax return 
+we recognize interest and penalties  if any  related to unrecognized tax benefits in income tax expense 
+with respect to mergers and acquisitions  we assess the technological feasibility of in process research and development projects and determine the number of alternative future uses for the technology being developed 
+to the extent there are no alternative future uses we allocate a portion of the purchase price to in process research and development expense 
+this expense is generally estimated based upon the projected fair value of the technology  as determined by a discounted future cash flow reduced by the cost to complete 
+this analysis includes certain estimates and assumptions made by management 
+for larger acquisitions  we have historically engaged an external appraiser to assist with the assumptions and models used in this analysis 
+effective january   we adopted sfas no 
+ fair value measurements sfas 
+in february  the fasb issued fasb staff position no 
+fas  effective date of fasb statement no  which provides a one year deferral of the effective date of sfas for non financial assets and non financial liabilities  except those that are recognized or disclosed in the financial statements at fair value at least annually 
+therefore  we have adopted the provisions of sfas with respect to our financial assets and liabilities only 
+sfas defines fair value  establishes a framework for measuring fair value under generally accepted accounting principles and enhances disclosures about fair value measurements 
+fair value is defined under sfas as the exchange price that would be received for an asset or paid to transfer a liability an exit price in the principal or most advantageous market for the asset or liability in an orderly transaction between market participants on 
+table of contents the measurement date 
+valuation techniques used to measure fair value under sfas must maximize the use of observable inputs and minimize the use of unobservable inputs 
+the standard describes a fair value hierarchy based on three levels of inputs  that may be used to measure fair value  of which the first two are considered observable and the last unobservable level quoted prices in active markets for identical assets or liabilities 
+level inputs other than level that are observable  either directly or indirectly  such as quoted prices for similar assets or liabilities  quoted prices in markets that are not active  or other inputs that are observable or can be corroborated by observable market data for substantially the full term of the assets or liabilities 
+level unobservable inputs that are supported by little or no market activity and that are significant to the fair value of the assets or liabilities 
+securities classified as level instruments consist of auction rate securities with an auction reset feature auction rate securities or ars whose underlying assets primarily consists of student loans which are substantially backed by the federal government 
+these ars securities represent approximately of our total investment portfolio 
+in february  auctions began to fail for these securities and each auction since then has failed 
+consequently  the investments are not currently liquid 
+typically  the fair value of ars investments approximates par value due to the frequent interest rate resets associated with the auction process 
+as a result of the auction market cessation  we continue to earn interest on our ars investments at the contractual rate 
+due to the current economic environment in which there is a lack of market activity for ars  we have been unable to obtain quoted prices or market prices for identical assets as of the measurement date resulting in significant unobservable inputs used in determining the fair value 
+we estimated the fair value of these ars using the income approach based on the following i the underlying structure and contractual provisions of each security  ii the present value of future principal and interest payments discounted at rates considered to reflect current market conditions  and iii consideration of the probabilities of default  auction failure  or repurchase at par for each period 
+these estimated fair values could change significantly based on future market conditions  which could result in recognizing an other than temporary impairment loss 
+based on this level valuation  we valued the ars investments at million  which represents a decline in value of million from par 
+we also accepted an offer from one of our investment managers that entitle us to sell our ars to them at par starting june in october  we also received communications from wachovia securities indicating that wachovia securities expected to launch an offer to purchase ars held by us beginning no later than june  and ending no later than june   at par value 
+the fair value of the ars with wachovia approximates the par value 
+we valued the ars rights using a discounted cash flow approach including estimates of  based on data available as of december   interest rates  timing and amount of cash flow  adjusted for any bearer risk associated with financial ability of one of our investment managers to repurchase the ars beginning june these assumptions are volatile and subject to change as the underlying sources of these assumptions and market conditions change 
+the adoption of this statement did not have a material impact on our consolidated results of operations and financial condition 
+in october the fasb issued fasb staff position no 
+fas  determining the fair value of a financial asset when the market for that asset is not active fsp  to clarify the application of the provisions of sfas in an inactive market and how an entity would determine fair value in an inactive market 
+fsp became effective october the application of the provision of fsp did not affect our results of operations or financial condition as of and for the year ended december  effective january   we adopted sfas no 
+the fair value option for financial assets and financial liabilities sfas 
+sfas allows an entity the irrevocable option to elect fair value for the initial and subsequent measurement for specified financial assets and liabilities on a 
+table of contents contract by contract basis 
+we adopted the fair value option under this statement for our ars rights 
+the enforceability of the ars rights results in a put option and should be recognized as a free standing asset separate from the ars 
+as of december   we recorded million as the fair value of the ars rights with a corresponding credit to interest income 
+after determining the fair value of our available for sales debt instruments  gains or losses on these securities are recorded to other comprehensive income  until either the security is sold or we determine that the decline in value is other than temporary 
+the primary differentiating factors considered by us to classify our impairments between temporary and other than temporary impairments are our intent and ability to retain our investment in the issuer for a period of time sufficient to allow for any anticipated recovery in market value  the length of the time and the extent to which the market value of the investment has been less than cost  the financial condition and near term prospects of the issuer 
+given the current market conditions  these judgments could prove to be wrong  and companies with relatively high credit ratings and solid financial conditions may not be able to fulfill their obligations 
+no impairment charges were recorded during the years ended december   and as of december  and  our cumulative unrealized gains losses  net of tax benefit  related to our investments classified as available for sale was approximately million and million  respectively 
+these unrecognized losses could be recognized in the future if our other than temporary assessment changes 
+we conducted our annual impairment test of goodwill as of september  in accordance with statement of financial accounting standard sfas  goodwill and other intangible assets and sfas  accounting for the impairment or disposal of long lived assets 
+impairment is tested at the reporting unit level which is one level below the reportable segments 
+the consumer segment has two reporting units home entertainment and mobile  and the imaging segment has one reporting unit 
+potential goodwill impairment is measured based upon a two step process 
+in the first step  we compare the fair value of a reporting unit with its carrying amount including goodwill 
+if the fair value of a reporting unit exceeds its carrying amount  goodwill of the reporting unit is considered not impaired  thus the second step of the impairment test is unnecessary 
+if the carrying amount of a reporting unit exceeds its fair value  the second step of the goodwill impairment test is performed to measure the amount of an impairment loss 
+the fair values of the reporting units were estimated using the expected present value of future cash flows 
+the total of all reporting unit fair values was also compared to our market capitalization plus a control premium for reasonableness 
+we assumed a cash flow period of years  long term annual growth rate of to  discount rates of to and terminal value growth rates of 
+the discount rates are higher than the ones used in previous annual impairment tests due to the increase in the inherent risks in the markets in which we serve as a result of the current economic crisis 
+as a result of this test  we determined that the carrying amounts of our consumer segment reporting units exceeded their fair values and recorded a goodwill impairment charge of approximately million and an impairment charge for purchased technology  customer base  tradename and other intangibles of million in the current year 
+the impairment charge was primarily due to a decrease in valuation based on a decline in our business forecasts as a result of the current economic downturn as well as a significant decline in our stock value over the last two quarters due to the current global financial crisis 
+
+table of contents results of operations the following table sets forth certain consolidated statement of operations data as a percentage of total revenues for the periods indicated years ended december  revenues hardware product revenues software and other revenues license revenues related to litigation settlement total revenues cost and expenses cost of hardware product revenues research and development selling  general and administrative amortization of intangible assets impairment of goodwill and intangible assets in process research and development total costs and expenses operating income loss interest and other income expense  net income loss before income taxes provision benefit for income taxes net income loss supplemental operating data product gross margin 
+table of contents the following table summarizes selected consolidated statement of operations data and changes from the period to period dollars in thousands  except for percentages year ended december  change revenues hardware product revenues software and other revenues total revenues cost and expenses cost of hardware product revenues research and development selling  general and administrative amortization of intangible assets impairment of goodwill and intangible assets in process research and development total costs and expenses operating income loss interest and other income expense  net provision benefit for income taxes net income loss supplemental operating data cost of hardware product as of hardware product revenues not meaningful year ended december  change revenues hardware product revenues software and other revenues license revenues related to litigation settlement total revenues cost and expenses cost of hardware product revenues research and development selling  general and administrative amortization of intangible assets total costs and expenses operating income loss interest and other income expense  net provision benefit for income taxes net income loss supplemental operating data cost of hardware product as of hardware product revenues not meaningful 
+table of contents year ended december  compared to year ended december  revenues total revenues decreased by million  or  to million in from million in consumer segment revenues decreased by million while imaging segment revenues decreased by million 
+within the consumer segment  revenues from dvd and mobile products were down by million and million  respectively 
+partially offsetting the decrease in dvd and mobile products revenue was an increase in dtv products revenue of million 
+the decrease in imaging segment revenues was due to a reduction in imaging hardware product revenues of million and a decrease in imaging software and other revenues of million 
+we believe that the recent worldwide economic downturn has adversely affected the markets that our customers serve  and we expect this impact may continue to reduce sales of our products until the economy begins to recover 
+hardware product revenues decreased by million  or  to million in from million in hardware product revenues decreased million in the consumer segment and million in the imaging segment 
+within the consumer segment  hardware product revenues for dvd products decreased by million primarily as a result of lower unit shipments and hardware product revenues for mobile products decreased by million  primarily due to lower average selling prices 
+partially offsetting the reduced hardware product revenues for dvd and mobile products was an increase of million for dtv products due primarily to increased unit shipments 
+the decrease in imaging hardware product revenues was primarily due to reduced unit shipments 
+software and other revenues decreased by million  or  to million in from million in the changes in software and other revenues were primarily due to decrease in royalty revenues from customers in the imaging segment due to decrease in unit shipments of products that include our software and the timing of new agreements 
+cost of hardware product revenues cost of hardware product revenues were million in compared to million in and of hardware product revenues  respectively 
+the increase in hardware product costs as a percentage of hardware product revenues in versus was primarily a result of product mix products with a higher percent of cost per revenue represented a greater proportion of products sold 
+in addition  in the first half of  we experienced initial cost challenges related to ramp in volume of certain new products 
+cost of hardware product revenues as a percentage of product revenue was also impacted by declines in average selling prices  particularly for our mobile and dvd products 
+research and development research and development expenses increased to million in from million in  an increase of million or 
+the increase in was primarily due to a million increase as a result of the inclusion of the operations of let it wave which we acquired in june  an increase from fluctuations based on the timing of tape outs which include mask sets and engineering wafers and continued investments in research and development in the consumer segment 
+selling  general and administrative selling  general and administrative sg a expenses decreased to million in from million in  representing a decrease 
+this fluctuation in spending was primarily due to higher legal and accounting expenses in which was reduced in as a result of the completion of our investigation and derivative lawsuit related to our historical stock option granting practices 
+in addition  stock based compensation expenses were lower in compared to 
+table of contents amortization of intangible assets amortization expense decreased to million in from million in  a decrease of million or as a portion of our intangible assets became fully amortized during the current year 
+at december   we had approximately million in net intangible assets acquired through the let it wave acquisition  which we will continue to amortize on a straight line basis through impairment of goodwill and intangible assets during the current year  as a result of our annual impairment test  we determined that the carrying amount of certain reporting units exceeded their fair value resulting in an impairment charge of million related to goodwill recorded in our consumer business segment and million related to intangible assets in our consumer business segment 
+refer to note to consolidated financial statements for additional discussion on the impairments 
+in process research and development in  we recorded an in process research and development expense of million as part of the june acquisition of let it wave 
+the in process research and development has not yet reached technological feasibility and has no alternative future use 
+accordingly the amount allocated to in process research and development was immediately expensed upon the acquisition date 
+the value of in process research and development was determined using the multi period excess earnings method by estimating the expected net cash flows from the projects once commercially viable  discounting the net cash flows back to their present value using a discount rate of 
+this rate was based on the industry segment for the technology  nature of the products to be developed  relative risk of successful development  time value of money  length of time to complete the project and overall maturity and history of the development team 
+revenues for the incremental core technology are expected to commence in revenue projections were based on estimates of market size and growth  expected trends in technology and the expected timing of new product introductions 
+as of december   there have been no material variations from the underlying assumptions that were used in the original computation of the value of the acquired entity 
+there were no charges recorded for in process research and development in interest and other income expense interest and other income expense was million in compared to million in interest income was million in compared to million in the decrease in interest income in was primarily due to lower average interest earned on our cash and short term investment balances due to declines in the interest rate 
+interest and other income  net during the year ended december  included a gain of million from rights offered by ubs  largely offset by the losses recorded on the auction rate securities from ubs due to a reclassification of these securities from available for sale to trading 
+other expense was million in compared to million in the changes in other expense in compared to was primarily due to foreign currency remeasurement losses as a result of the decline in the value of the us dollar in comparison to currencies in countries in which we operate and fluctuations in realized gains due to timing of sale of investments 
+other expense in included a write down of a long term equity investment in a private company by million 
+provision benefit for income taxes we recorded a tax provision of million in compared to a tax benefit of million in the provision is primarily for the accrual of taxes we expect to owe in our profitable jurisdictions and an expense of million associated with a valuation allowance in foreign jurisdictions where it is no longer more likely than not that we will fully utilize our deferred tax assets 
+in addition  due to statute of limitations lapses in 
+table of contents various jurisdictions  there was a release of approximately million of our fin no 
+liability 
+the tax benefit for the year ended december  of million included a benefit of million  net of provision  from the release of the valuation allowance at december  the income tax provision benefit for these periods was affected by the geographic distribution of our worldwide earnings and losses  the impacts of recording or removing the valuation allowance relating to deferred tax assets  non deductible expenses such as sfas r stock based compensation expense  as well as the accrual of liabilities associated with unrecognized tax benefits 
+our israel based subsidiary is an approved enterprise under israeli law  which provides a ten year tax holiday for income attributable to a portion of our operations in israel 
+year ended december  compared to year ended december  revenues total revenues increased by million  or  to million in from million in total revenues for the year ended december  included million in revenues related to the litigation settlement that did not recur 
+excluding the litigation settlement revenues  revenues for increased by million compared to the same period in this increase was a result of a million increase in the consumer segment revenues and an million increase in the imaging segment revenues 
+the increase in consumer segment revenues in was driven by an increase in revenues for mobile products of million or offset by decreases in revenues of million and million for dvd and dtv products respectively 
+the increase in imaging segment revenues in of million or was due to an increase in hardware product revenues of million and an increase in software and other revenues of million 
+hardware product revenues increased by million  or  to million in from million in reflecting increases of million in the consumer segment and million in the imaging segment 
+the increase in both the consumer and imaging segment revenues were primarily driven by increased unit shipments 
+within the consumer segment  hardware product revenues increased million for mobile products and million for dtv products  partially offset by a decrease of million for dvd products 
+the increase in hardware product revenues for mobile and dtv products was driven by increased unit shipments while the decrease in hardware product revenues for dvd products was due to a decrease in average selling prices 
+software and other revenues increased by million  or  to million in from million in primarily due to a million increase in imaging segment revenues driven by a million increase in royalty revenue 
+cost of hardware product revenues cost of hardware product revenues were million in compared to million in the increase in costs was primarily a result of the corresponding increase in hardware product revenues 
+as a percentage of hardware product revenues  hardware product costs were in compared to in the decrease in hardware product costs as a percentage of hardware product revenues in versus was associated with lower per unit product costs and a change in product mix as revenues from the lower margin dvd product line represented a smaller proportion of total hardware product revenue with a relative increase in revenue from the higher margin mobile and imaging product lines 
+research and development research and development expenses increased to million in from million in  an increase of million or 
+the increase in was primarily due to an increase from fluctuations based on the timing of tape outs which include mask sets and engineering wafers and continued investments in research and development across all our segments 
+
+table of contents selling  general and administrative selling  general and administrative sg a expenses increased to million in from million in  representing a increase 
+this increase was primarily due to an increase in legal fees by million incurred in connection with the ongoing stock option review and other litigation matters and continued increases in marketing and field application support expenses to support revenue growth in our asia pacific markets 
+sg a expenses in included a million provision for doubtful accounts to cover slow paying accounts 
+amortization of intangible assets amortization expense decreased to million in from million in  a decrease of million or as a portion of our intangible assets became fully amortized during the current year 
+at december   we had approximately million in net intangible assets 
+interest and other income expense the increase in interest and other income expense in compared to reflect higher average cash and investment balances 
+other income expense in included foreign currency remeasurement losses as a result of the decline in the value of the us dollar in comparison to currencies in countries in which we operate as well as a write down of a long term equity investment in a private company by million 
+provision benefit for income taxes the tax benefit for the year ended december  of million reflects a provision of million and a benefit of million from the release of the valuation allowance at december  at the time  we believed that it was more likely than not that our deferred tax assets would be fully utilized in the future  and accordingly  we released the valuation allowance on those assets at year end 
+in the fourth quarter of  we determined that the relative weight of positive and negative evidence supported the conclusion that it was more likely than not that our deferred tax assets would be realized 
+as a result  the balance sheet at december  reflected million of deferred tax assets 
+the offsetting benefit was allocated million to decrease goodwill and million to previously unbenefitted withholding taxes and million to deferred tax benefit 
+the current provision of million is primarily due to federal and foreign accrued liabilities 
+the tax provision for the year ended december  of million included a one time charge of million for tax expense related to litigation settlement 
+the remaining tax expense is related to the utilization of previously unbenefitted purchased nols which when utilized reduce goodwill and not tax expense along with statutory taxes in our non us subsidiaries 
+our effective income tax rate has benefited from the availability of previously unbenefitted nols which we have utilized to reduce tax expense for us federal income tax purposes and by our israel based subsidiary s status as an approved enterprise under israeli law  which provides a ten year tax holiday for income attributable to a portion of our operations in israel 
+our us federal nols expire at various times between and  and the benefits from our subsidiary s approved enterprise status expire at various times beginning in liquidity and capital resources at december   we had million of cash and cash equivalents and million of short term investments 
+at december   we had million of working capital 
+our operating activities generated cash of million during while we recorded a net loss of million  this loss included non cash items such as impairment of goodwill and intangible assets of million  amortization of intangible assets of million  depreciation of million  in process research and 
+table of contents development expense of million  stock based compensation expense of million and deferred income taxes of million resulting in our net income adjusted for non cash items totaling million 
+cash flow from changes in assets and liabilities was insignificant and was due to decreases in accounts receivable by million due to the timing of collections  inventory by million due to lower levels based on reduced demand and prepaid expenses  other current assets and other assets by million 
+these changes were partially offset by a decrease in accounts payable  accrued expenses and other liabilities totaling million due to timing of payments 
+cash used in investing activities was million during proceeds from sales and maturities of investments  net of purchases  of million was offset by million used for the acquisition of let it wave and million used for purchases of property and equipment 
+cash used in financing activities during was million 
+repurchases of common stock of million under our stock repurchase program was offset by million of proceeds received from issuances of common stock through exercises of stock options and proceeds from the sale of stock under our employee stock purchase plan 
+our operating activities generated cash of million during  primarily due to net income of million and non cash items such as amortization of million  depreciation of million  stock based compensation expense of million and deferred tax benefit of million due to the release of the deferred tax valuation allowance 
+cash provided by operations also increased due to a million increase in accounts payable  million increase in accrued expenses and other liabilities due to timing of payments 
+these increases were partially offset by an increase in accounts receivable by million due to increase in revenues  an increase in inventories by million to meet the increasing demand for our products and an increase in prepaid expenses and other assets by million 
+cash used in investing activities was million during  principally reflecting the net purchase of investments of million 
+in addition we spent million for the purchases of property and equipment 
+cash provided by financing activities was million during and consisted of proceeds received from issuances of common stock through exercises of employee stock options and proceeds from the sale of stock under our employee stock purchase plan 
+at december  and  we did not have any relationships with unconsolidated entities or financial partnerships  such as entities often referred to as structured finance or special purpose entities  established for the purpose of facilitating off balance sheet arrangements or other contractually narrow or limited purposes 
+accordingly  we are not exposed to the type of financing  liquidity  market or credit risk that could arise if we had engaged in such relationships 
+we believe that our current balances of cash  cash equivalents and short term investments  and anticipated cash flows from operations  will satisfy our anticipated working capital and capital expenditure requirements at least through the next months 
+nonetheless  our future capital requirements may vary materially from those now planned and will depend on many factors including  but not limited to the levels at which we maintain inventories and accounts receivable  the market acceptance of our products  the levels of promotion and advertising required to launch our new products or to enter markets and attain a competitive position in the marketplace  our business  product  capital expenditure and research and development plans and technology roadmap  volume pricing concessions  
+table of contents capital improvements  technological advances  the response of competitors to our products  and our relationships with suppliers and customers 
+in addition  we may require an increase in the level of working capital to accommodate planned growth  hiring and infrastructure needs 
+additional capital may also be required for additional acquisitions of businesses  products or technologies 
+to the extent that our existing resources and cash generated from operations are insufficient to fund our future activities  we may need to raise additional funds through public or private financings or borrowings 
+if additional funds are raised through the issuance of debt securities  these securities could have rights  preferences and privileges senior to holders of common stock  and the terms of this debt could impose restrictions on our operations 
+the sale of additional equity or convertible debt securities could result in additional dilution to our stockholders 
+we cannot be certain that additional financing will be available in amounts or on terms acceptable to us  if at all 
+if we are unable to obtain this additional financing  we may be required to reduce the scope of our planned product development and sales and marketing efforts  which could harm our business  financial condition and operating results 
+at december  we held ars with a par value of million and a fair value of million 
+during the year ended december   we sold million of our ars at par value 
+our ars are high grade long term debt instruments backed by student loans which are guaranteed by the united states government 
+all of our ars have credit ratings of aaa or aa  and none are mortgage backed debt obligations 
+historically  our ars were highly liquid  using a dutch auction process that resets the applicable interest rate at predetermined intervals  typically every days  to provide liquidity at par 
+however  as a result of liquidity issues in the global credit and capital markets  the auctions for most of our ars failed beginning in the first quarter of when sell orders exceeded buy orders 
+the failures of these auctions do not affect the value of the collateral underlying the ars  and we continue to earn and receive interest on our ars at a pre determined formula with spreads tied to particular interest rate indexes 
+see note to the consolidated financial statements 
+our investment policy focuses on three objectives to preserve capital  to meet liquidity requirements and to maximize total return 
+our investment policy establishes minimum ratings for each classification of investment and investment concentration is limited in order to minimize risk  and the policy also limits the final maturity on any investment and the overall duration of the portfolio 
+given the overall market conditions  we regularly review our investment portfolio to ensure adherence to our investment policy and to monitor individual investments for risk analysis and proper valuation 
+we hold our marketable securities as trading and available for sale and mark them to market 
+we expect to realize the full value of our marketable securities upon maturity or sale  as we have the intent and believe we have the ability to hold the securities until the full value is realized 
+however  we cannot provide any assurance that our invested cash  cash equivalents and marketable securities will not be impacted by adverse conditions in the financial markets  which may require us to record an impairment charge that could adversely impact our financial results 
+contractual obligations the following is a summary of fixed payments related to certain contractual obligations in thousands contractual obligation total thereafter operating leases and license commitments purchase commitments total 
+table of contents other commitments effective january   we adopted the provisions of fin no 
+the above table does not reflect our december  unrecognized tax benefits of million 
+if none of the unrecognized tax benefits are realized  our potential cash outflow is estimated to be million 
+the timing of the cash outflow cannot be determined  however  it is possible that some of the cash payments may occur in the next twelve months 
+refer to note to the consolidated financial statements for additional discussion on unrecognized tax benefits 
+item a quantitative and qualitative disclosures about market risk we are exposed to financial market risks  including changes in interest rates and foreign currency exchange rates 
+interest rate risk we invest in a variety of financial instruments  consisting principally of investments in commercial paper  money market funds  auction rate securities and highly liquid debt securities of corporations  municipalities and the united states government and its agencies 
+these investments are denominated in united states dollars 
+we do not maintain derivative financial instruments 
+we place our investments in instruments that meet high credit quality standards  as specified in our investment policy guidelines 
+we account for our investment instruments in accordance with sfas  accounting for certain investments in debt and equity securities sfas 
+all of the cash equivalents and marketable securities except for ars held by ubs are treated as available for sale under sfas investments in both fixed rate and floating rate interest earning instruments carry a degree of interest rate risk 
+fixed rate securities may have their market value adversely impacted due to a rise in interest rates  while floating rate securities may produce less income than expected if interest rates fall 
+due in part to these factors  our future investment income may fall short of expectations due to changes in interest rates or we may suffer losses in principal if we are forced to sell securities that decline in market value due to changes in interest rates 
+however  because we classify our debt securities as available for sale no gains or losses are recognized due to changes in interest rates unless such securities are sold prior to maturity or declines in fair value are determined to be other than temporary 
+these securities are reported at fair value with the related unrealized gains and losses included in accumulated other comprehensive income  a component of stockholders equity  net of tax 
+due mainly to the short term nature of the major portion of our investment portfolio  the fair value of our investment portfolio or related income would not be significantly impacted by either a increase or decrease in interest rates 
+exchange rate risk currently  sales and arrangements with third party manufacturers provide for pricing and payment in us dollars  and  therefore  are not subject to exchange rate fluctuations 
+increases in the value of the united states dollar relative to other currencies would make our products more expensive  which could negatively impact our ability to compete 
+conversely  decreases in the value of the us dollar relative to other currencies could result in our suppliers raising their prices in order to continue doing business with us 
+a portion of the cost of our operations  relating mainly to our personnel and facilities in israel  asia and europe  are transacted in foreign currencies 
+to date  we have not engaged in any currency hedging activities  although we may do so in the future 
+significant fluctuations in currency exchange rates could impact our business in the future 
+
+table of contents 

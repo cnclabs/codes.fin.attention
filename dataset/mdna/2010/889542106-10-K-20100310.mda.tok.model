@@ -1,0 +1,802 @@
+item  management s discussion and analysis of financial condition and results of operations  along with statements contained in other reports that we have filed with the securities and exchange commission the sec  external documents and oral presentations  which are not historical facts are considered to be forward looking statements within the meaning of section a of the securities act of  as amended  and section e of the securities exchange act of  as amended 
+these statements  which may be expressed in a variety of ways  including the use of forward looking terminology such as believe  expect  intend  may  will  should  could  potential  continue  estimate  plan  or anticipate  or the negatives thereof  other variations thereon or compatible terminology  relate to  among other things  the effect of the current economic recession on our customers and our ability to reposition the company with a greater focus on our service assurance testing offerings to the telecommunications market  the effect of unfavorable exchange rate fluctuations  possible delays in or the inability to extend  complete  negotiate and execute purchase  service and maintenance agreements with new or existing customers  changes in exchange rates of foreign currencies in which we transact business relative to the us dollar  the ability of the company to realize the benefits of its strategic revenue and cost initiatives due to unforeseen delays  changes in its markets or other factors  and the risk that these initiatives will not promote revenue growth or restore profitability in the timeframe anticipated by the company  new product initiatives will not realize revenues or be market accepted such as stratum  our new test management operating support system  and our lighthouse products targeted at the electric utility market  the ability to complete sales  project delays or cancellations  political instability  inability to obtain proper acceptances or other unforeseen obstacles or delays  projected cash flows which are used in the valuation of intangible assets  our ability to utilize current deferred and refundable tax assets  service opportunities offered to customers  the potential loss of certain customers  the timing of orders from customers  including the timing of international sales  the effect of consolidations in the markets to which tollgrade sells  the effects of the economic slowdown in the telecommunications industry specifically and the us market and the jurisdictions where we generally transact business  the possibility of future provisions for slow moving inventory  the effect on earnings and cash flows or changes in interest rates  and changes in technology that have impacted our customers product needs and spending 
+we do not undertake any obligation to publicly update any forward looking statements 
+these forward looking statements  and any forward looking statements contained in other public disclosures of the company which make reference to the cautionary factors contained in this form k  are based on assumptions that involve risks and uncertainties and are subject to change based on the considerations described below 
+we discuss many of these risks and uncertainties in greater detail in item a of this annual report on form k under the heading risk factors 
+these and other risks and uncertainties may cause our actual results  performance or achievements to differ materially from anticipated future results  performance or achievements expressed or implied by such forward looking statements 
+the following discussion should be read in conjunction with our management s discussion and analysis of financial condition and results of operations  and our financial statements and related notes contained in this annual report on form k 
+item business 
+tollgrade designs  engineers  markets and supports test system and status monitoring hardware and software products for the telecommunications industry in the united states and international markets 
+our products enable telecommunications service providers to remotely diagnose problems in digital subscriber lines dsl and plain old telephone service pots lines in public switched telephone network pstn  and broadband and internet protocol ip networks 
+by coupling our hardware and software offerings together  we provide proactive  centralized test solutions for our customers 
+our primary product offerings include the digitest and ldu measurement hardware and loopcare and tel centralized test software 
+these products enable local exchange carriers to conduct a full range of measurement and fault diagnosis for efficient dispatch of field staff to maintain and repair pots and or dsl services  along with the ability to pre qualify and provide broadband dsl services offerings 
+we also sell and support proprietary test access products  such as the mcu  which extends line test capabilities to remote sites that are connected by fiber from the central office 
+our services and managed services business includes software maintenance and support for our operating systems  along with hardware maintenance for our test probes  and our professional services  which are designed to ensure that all of the components of our customers test systems operate properly 
+in addition  in  we expanded our service capabilities to include managed services  offering those services to both our traditional telecommunications service provider customers and our telecommunications network 
+table of contents equipment provider customers 
+in april  we secured a managed services project with ericsson  inc ericsson  a large global network equipment provider  to provide customer support and engineering services 
+we also provide managed services capabilities as part of a number of our software maintenance contracts to our telecommunications customers 
+since  we have made several acquisitions allowing us to consolidate our positions in the telecommunications line test markets 
+these acquisitions included the loopcare product line from lucent technologies  inc in  our n x test product line and other assets associated with the line test business of emerson network power energy systems  north america  inc in  and the assets of the broadband test division btd of teradyne  inc  including the tel  celerity and ldu products in most recently  in april  we acquired certain assets from ericsson in connection with entering into our managed services agreement 
+through these acquisitions  we significantly expanded our product and service offerings along with our customer base  particularly our international customer base through the teradyne and emerson product line acquisitions 
+during  we sold our cable product line now shown as discontinued operations  consistent with our focus on our core telecommunications markets and customers and our refocused growth strategy 
+we were incorporated in pennsylvania in  and began operations in our principal offices are located at nixon road  cheswick  pennsylvania and our telephone number is we make available free of charge on our internet website www 
+tollgrade 
+com our annual reports on form k  quarterly reports on form q  current reports on form k  and all amendments to those reports filed or furnished pursuant to section a or d of the securities exchange act of  as amended  as soon as reasonably practicable after we electronically file such material with  or otherwise furnish it to  the sec 
+you may read and copy any materials that we file with the sec at the sec s public reference room at f street  ne  washington  dc you may obtain information on the operation of the public reference room by calling the sec at sec the sec also maintains an internet site that contains our reports  proxy  information statements and other information that we file with the sec www 
+sec 
+gov 
+copies of our filings are available free of charge to any shareholder of record upon written request to the secretary  tollgrade communications  inc  nixon road  cheswick  pennsylvania products and services telecommunications test and measurement products our proprietary telecommunications test and measurement products  which include our systems test and mcu products  enable telephone companies to qualify and troubleshoot broadband dsl and ip services and remotely diagnose problems in pots lines 
+most dsl lines today provide broadband internet access for residential and business customers  fed from a central or remote office digital subscriber line access multiplexer dslam or multi service access node msan 
+our systems can be used to qualify loops for dsl service as well as ongoing maintenance and repair of the access lines 
+as telecommunications service providers move to all ip networks and services voice  video and data  we have introduced products over time to enable ip services testing 
+at the end of  we introduced additional products to test and monitor voice over ip voip  video over ip iptv  and mobile voice services through third party original equipment manufacturer oem agreements 
+an important aspect of efficiently maintaining a telecommunications network is the ability to remotely test  diagnose and locate any service affecting problems within that network 
+our systems test products are made up of a centralized test operating system integrated into the customers repair handling database systems  and test hardware located at telephone companies central and remote offices 
+these systems enable a full range of fault diagnostics in the access network  the portion of the telephone network that connects end users to the central office or remote cabinet 
+in addition  line test systems provide the capability to remotely qualify  deploy and maintain dsl services which are carried over copper lines 
+these test systems reduce the time needed to identify and resolve problems  eliminating or reducing the costs of dispatching a technician to the problem site 
+most line test systems  however  were designed only for use over copper lines  as a result  traditional test systems could not access local loops in which fiber optic technology had been introduced 
+our mcu product line  which is used primarily by large domestic carriers  solved this problem by extending line test capabilities from the central office to the fiber fed remote digital loop carrier dlc lines by mimicking a digital bypass pair  which is essentially a telephone circuit that connects central test and measurement devices to the copper circuits close to the customer 
+
+table of contents systems test products our systems test products include the digitest product family  which includes our loopcare software and digitest ice  digitest edge and digitest hub hardware 
+our test products perform physical and logical measurements to verify the connection performance of lines and circuits and reports those measurements to our loopcare operating support systems oss 
+loopcare  in turn  analyzes that measurement data and creates an easy to understand fault description 
+at the same time  loopcare can automatically dispatch a technician to a work center in order to fix the problem 
+loopcare and the digitest hardware are also used to pre qualify  verify installation  and remotely isolate troubles for various dsl services  including testing the logical layers to verify modem synchronization in to the dslam or out to the customer 
+the digitest product family can also serve as a replacement for aging loop test system lts equipment deployed in current domestic networks 
+digitest ice  our latest ip service assurance test probe  is aimed at testing triple play voice  video and data services over emerging fiber to the curb or cabinet broadband access networks 
+because these remote sites have a lower line count  they require cost optimized test probes and greater ip test capabilities to fulfill the requirements of triple play testing 
+digitest ice provides both metallic and multi layered testing to help service providers install and maintain triple play services 
+with digitest ice  the customer will be able to quickly isolate voip  iptv and high speed internet access issues  verify their network performance  and synch with broadband equipment to validate connectivity and throughput 
+coupled with our centralized software platforms  digitest ice provides a comprehensive broadband test and dispatch solution 
+our systems test products also include tel and celerity software products working with ldu hardware test probes 
+these products perform similar line test functions and test measurements as our other systems test products  but have been optimized for operation in the international markets  and have extensive deployment in europe  covering over million access lines 
+the tel and ldu products have also been deployed on a more targeted basis in north america  as well as in international markets outside of europe 
+during  we began to reposition ourselves with a greater focus on our service assurance product offerings 
+we are building upon the strength of our systems test products  which are at the center of our service assurance offerings  but with a greater emphasis on expanding our service assurance software solutions 
+our systems test product software offerings include loopcare  tel  celerity  and ltsc oss 
+each of our oss has an established installed base of customers 
+in september  we introduced our new test management oss  stratum 
+stratum s initial features are based on both existing customer requests for enhanced features and our view of the trends in the marketplace 
+we plan to leverage our incumbent position with our installed base of customers and extend testing coverage to next generation network architectures with stratum 
+stratum includes several new software test and probe capabilities that we believe will enhance the benefits of our solutions for existing and new customers 
+based on international telecommunication union itu standards  stratum has software to drive metallic tests on embedded subscriber line interface circuits slic in remote dslams for next generation networks 
+stratum incorporates interfaces to capture management information base mib status and alarms from deployed access network elements from multiple network equipment vendors  and provides backwards compatibility with our loopcare and tel systems 
+stratum aggregates the data from the different sources and provides an integrated analysis of the data in fault location  including a more accurate identification and dispatch recommendation than the individual results alone 
+we have oem software licensing and technology licensing agreements in place for offerings in our telecommunications product portfolio 
+more recently  we signed an oem agreement with mariner partners  inc in december to customize a version of their xvu iptv quality of experience product line which will be incorporated into stratum 
+in october  we signed an agreement with accanto systems  srl to provide mobile and voip protocol analyzers under the tollgrade brand name 
+the agreement enables us to sell the accanto protocol analyzer probes  and oss platforms with exclusivity in certain territories 
+the protocol probes monitor signaling protocols and network traffic  allowing rapid resolution of difficult network and equipment problems 
+we purchased a card for our digitest edge product and an access device for the digitest product line through oem agreements 
+we are also a party to a number of third party software license agreements that allow us to incorporate third party software products and features into our loopcare  tel and celerity software 
+we have licensing arrangements with aware  inc for certain technology related to our digitest products 
+we have also entered into a license agreement with green hills software  inc for certain technology related to our digitest ice product 
+we market and sell our systems test products primarily through our direct sales force as well as through certain reseller and distributor agreements 
+sales of the digitest product line including related software sales accounted for approximately  and of our total revenues for the years ended december   and  respectively 
+
+table of contents mcu our mcu products plug into dlc systems  the large network transmission systems used by telephone companies to link the copper and fiber optic portions of the local loop 
+mcu products allow our customers to extend their line testing capabilities to all of their pots lines served by a dlc system regardless of whether the system is fed by a copper or fiber optic link 
+dlc systems  which are located at telephone companies central offices and at remote sites within local user areas  effectively multiplex the services of a single fiber optic line into multiple copper lines 
+in many instances  several dlc systems are located at a single remote site to create multiple local loops that serve several thousand different end user homes and businesses 
+generally  for every dlc remote site  customers will deploy at least two mcu line testing products 
+we market and sell our mcu products directly to customers as well as through certain oem agreements 
+we have certain royalty based license agreements in place to enable us to maintain capability with specific dlc systems 
+we paid royalties under these agreements in the amounts of million  million and million during the years ended december   and  respectively 
+sales of mcu products and related hardware accounted for approximately  and of our revenue for the years ended december   and  respectively 
+services and managed services our service offerings include three primary areas  including software maintenance and support for our oss offerings and hardware maintenance for the test probes  professional services  and managed services 
+our software and hardware support services are designed to ensure that all of the components of our customers test systems operate properly 
+the primary customers for our software and hardware support services are the large domestic and international service providers 
+we also offer professional services  such as installation  commissioning  and training to these same customers 
+most of our support services are provided through yearly or multi year service agreements  and can cover both software and hardware maintenance for our products 
+including software maintenance and support  services revenue accounted for approximately  and of our total revenues for the years ended december   and  respectively 
+historically  our services business was comprised of the more traditional pots based testability services  and the revenue stream was largely project based and as such  difficult to predict 
+during the last few years  our services business has moved toward more contract based software maintenance services  the revenue from which is more predictable 
+we expect our service business to continue to comprise a large percentage of our revenue in the future 
+on april   we entered into a multi year managed services agreement with ericsson  pursuant to which we will provide customer support and engineering services 
+we entered into this four year agreement as part of our continued strategic focus to grow our services business 
+in  revenues from this contract were approximately million or approximately of our total revenues 
+managed services are an area of potential growth for us 
+we are focused on expanding our managed services business with both our telecommunications customers as well as larger network equipment and managed service providers 
+electric utility monitoring products in  we launched a new product development effort  our lighthouse product line  which is designed to provide power grid monitoring capabilities to the electric utility market 
+research and investment  which began in and continued into  enabled the general availability of the first release of the product line during the first quarter of the test system solution currently consists of line mounted sensors  aggregators  and centralized software providing an end to end solution for power providers to efficiently monitor their overhead distribution circuits in real time 
+the system is designed to improve the overall efficiency of energy delivery  improve customer satisfaction and improve the financial performance of the electric power utilities 
+the market for power grid monitoring has been slower to evolve than we originally projected and to date  our efforts in the monitoring segment of the market have not produced the results we anticipated 
+as a result  we reviewed the strategic alternatives for our lighthouse product activities in late and early after this review  we determined that the best course of action was to continue our efforts and focus on an expanded trial we have with a major us utility company 
+operating segment we have determined that our business has one operating segment  test assurance 
+all product and service sales relate to the business of testing infrastructure and networks for the telecommunications industry 
+our products have similar production processes  and are sold through comparable distribution channels and means to similar types and classes of customers already in  or entering into  the 
+table of contents telecommunications businesses 
+operating results are regularly reviewed by our chief operating decision maker regarding decisions about the allocation of resources and to assess performance 
+research and development our research and development activities are focused on improving our existing telecommunications product lines  investing in growth opportunities in the telecommunications service assurance market  and leveraging our technology strengths in test and measurement into the utility industry 
+we have made improvements to certain of our existing line test product lines  including enhanced measurement techniques that deliver more accurate service repair dispatches for our customers 
+additionally  we have augmented these product lines with customer specified features  enhancing the usability  scalability  security  and resiliency of our current product lines 
+we enhanced the functionality of our products to be able to interface with third party equipment  thereby enabling migration with the evolving next generation networks 
+we continue to stay current with the latest standards for broadband forum and itu standard bodies 
+our service assurance product activities provide our customers an expanded reach of test technologies  utilizing our existing line test technology and augmenting the network analysis with next generation test technologies 
+this provides our customers more comprehensive results and analysis with which to resolve trouble points in the network 
+in addition  we continue to enhance our portfolio of test technologies working with semiconductor companies and equipment providers in order implement the emerging itu glt standards 
+leveraging our traditional strength in system test and our core competency in complex measurements and analytics  we have entered the utility smart grid market with a focus on measurements and faults in the distribution network 
+our research and development activities in this market to date have focused on emerging standards  interoperability with complementary communication systems  and refining customer market requirements 
+as of december   we had an engineering staff of employees  representing of our total employee workforce 
+as of december  and  we had an engineering support staff of and employees which comprised and of our total workforce  respectively 
+our engineering staff is primarily located in three locations  cheswick  pennsylvania  piscataway  new jersey  and bracknell  united kingdom 
+during the years ended december    and  research and development expenses charged to operations were million  million and million  respectively 
+in addition  because some of our contractual agreements require us to provide engineering development or repair services to our customers  a portion of our total engineering costs has been allocated to cost of sales 
+the amount allocated to cost of sales for the years ended december    and are million  million and million respectively 
+in  we expect that we will continue to invest in organic growth opportunities to help support our customers ongoing needs and to help them solve their business problems 
+sales and marketing in our telecommunications business  our primary sales and marketing strategy is a direct approach to tier one and tier two service provider customers 
+we utilize our direct sales  marketing and service resources in north america and europe to develop sales opportunities with our current customer base  as well as new customers 
+in territories outside north america and europe  our primary route to market is through a network of value added reseller partners and distributors who provide in country capabilities to complement our capabilities 
+we have sales and service offices in cheswick  pennsylvania and piscataway  new jersey in the united states and bracknell  united kingdom  antwerp  belgium and wuppertal  germany in europe 
+as of december   we had a sales and marketing staff of employees 
+as of december  and  we had a marketing and sales staff of and people  representing and of our total workforce  respectively 
+competition the market for telecommunications testing equipment is highly competitive 
+primary competitive factors in our market include price  product features  performance  reliability  service and support  breadth of product line  technical documentation  prompt delivery and availability of alternative technologies 
+the competitors for our traditional pots telecommunications products and our broadband technologies and applications solution offerings include jds uniphase  exfo electro optical engineering inc  spirent communications plc  huawei technologies co  ltd  fluke networks and nortel 
+historically  we have positioned ourselves against competitors offerings by leveraging our patented technologies  partnering with network equipment providers  and investing in next generation research and development 
+we also 
+table of contents leverage our incumbent position with existing customers and core competencies to test broadband next generation networks to position ourselves against our competitors on the basis of lower deployment costs and long term operational cost efficiencies 
+we also face competition as a growing number of network equipment providers offer testing technology embedded into their products 
+where testing was once only available in the form of multi chip  circuit board based designs like those found in our remote test system hardware products  integrated testing technology is now available in low cost chipsets embedded into the products of these network equipment providers 
+referred to as selt and delt single ended line test and double ended line test  the testing technology available in this form has limited functionality and only provides partial views of faults in the network 
+a new slic chipset is expected to be offered by the network equipment providers in and to provide melt metallic line test that will provide a subset of our test capabilities available in our remote test system products 
+in response to the industry and competitive trends  our stratum platform includes software drivers for the melt tests 
+we will continue to face competition and downward pricing pressure as a result of the availability of these less expensive  less robust alternatives possibly resulting in decreased sales of our system products to certain of our customers 
+another area of competition is from software solution providers and the internal information technology it departments of our own carrier customers 
+in the past  we offered solutions consisting of hardware probes  coupled with a centralized software platform that analyzed the data pulled from the probes and determined the appropriate dispatch statement or issue identification statement 
+as the capabilities of new infrastructure equipment increases  test and monitoring software platforms are increasingly taking advantage of the available data from the infrastructure equipment 
+the new software platforms offer customers a lower upfront cost  but offer less robust capabilities as compared to solutions built with hardware and software combinations 
+several network equipment providers alcatel lucent  huawei  adtran have included test software platforms as part of the element management systems 
+at the same time  many of our larger customers have captive development capabilities in their own it organizations 
+these it teams can develop software systems that compete with our offerings 
+because of our intimate knowledge of many carrier customers  we believe we have a strategic advantage over these internal groups based on our industry knowledge and the efficiency of our development resources in comparison to internal customer resources 
+as with the telecommunications products  the extension of our ip service assurance and mobile and voip products to address ip and mobile test applications expands our list of traditional competitors to now include empirix inc  jds uniphase  tektronix canada inc  exfo as successor to brix networks  inc  agilent technologies inc  and ineoquest 
+our customers our customers include the top telecommunications providers and numerous independent telecommunications and broadband providers around the world 
+our primary customers for our telecommunications products and services are large domestic and european telecommunications service providers 
+we track our telecommunications sales by two large groups  the first of which includes at t  verizon  and qwest referred to herein as the large domestic carriers  and the second of which includes certain large international telephone service providers in europe  namely british telecom  royal kpn nv  belgacom nv  deutsche telecom ag t com and telefonica o czech republic  as collectively referred to herein as the european telcos 
+for the year ended december   sales to the large domestic carriers accounted for approximately of our total revenue  compared to approximately and of our total revenue for the same and period  respectively 
+we had sales to our largest customer  at t  which was comprised of approximately of our total revenue for  compared to and for the same and periods  respectively 
+for the year ended december   sales to the european telcos accounted for approximately of our total revenue  compared to approximately and of our total revenue for the same and period  respectively 
+in addition  in april  we entered into a multi year managed services agreement with ericsson to provide customer support and engineering services 
+we entered into this agreement as part of our continued strategic focus to grow our services business 
+in  revenues from this contract were approximately million or of our total revenue 
+because of our continued dependency on certain large domestic and international carriers  as well as on ericsson  the potential loss of one or more of these customers  or the reduction of orders for our products by one or more of these customers  could materially and adversely affect our results 
+manufacturing and quality control throughout  we began to outsource our in house manufacturing and production capabilities to express manufacturing inc express manufacturing  a global provider of subcontracting services 
+express manufacturing fulfills our manufacturing requirements in santa ana  california including the direct shipment of products to our end customers 
+express manufacturing has an 
+table of contents additional offshore site at which our requirements may also be fulfilled 
+we believe that the outsourcing of our manufacturing enables us to conserve our working capital  adjust better to fluctuations in demand and ensure a more timely delivery to our customers 
+we are iso registered with the british standards institution  inc iso is a harmonized set of standards that define quality assurance management 
+written by the international organization for standardization iso  iso is recognized throughout the united states  canada  the european union and japan 
+we continue to develop and maintain internal documentation and processes to support the production of quality products to ensure customer satisfaction and have been iso compliant since proprietary rights we have registered trademarks in the names tollgrade  mcu  digitest  edge  telaccord  mits  clearview  micro bank  the names and logos for tel  celerity and netflare 
+we have common law trademarks in the names loopcare  mlt  ice  clear  the clear logo  early warning  reportcard  circuitview  network assurance simplified  minutes mean millions  n x test  n x dsl  ltsc  and hyfi  and in the lighthouse name and logo as applicable to our new power grid monitoring products  and our corporate logo 
+team tollgrade sm is a common law service mark of the company 
+we have three united states patents on mcu products with expiration dates ranging from to we have forty nine patents in the united states  eight patents in belgium  eleven patents in canada  eight patents in europe  four patents in france  eight patents in germany  eight patents in the netherlands  eight patents in the united kingdom and three patents in canada on other telecommunications technology with expiration dates ranging from to in addition  we have seven united states  five european  one german  one united kingdom and two international  patent applications pending on our products  some of which relate to our new stratum and lighthouse products 
+we will apply for additional patents from time to time related to our research and development activities 
+we protect our trademarks  patents  inventions  trade secrets  and other proprietary rights by contract  trademark  copyright and patent registration  and internal security 
+although we believe that these patents  when aggregated  are an important element of our business  we do not believe that our business  as a whole  is materially dependent on any one patent 
+backlog our order backlog for firm customer purchase orders and signed software maintenance contracts was million at december   compared to backlog of million at december  the backlog at december  and december  includes approximately million and million  respectively  related to software maintenance contracts 
+in  we expect to realize revenues related to the entire backlog at december  in our reported backlog  we have adopted a policy to include a maximum of twelve months revenue from multi year software maintenance agreements 
+software maintenance revenue is deemed to be earned and recognized as income on a straight line basis over the terms of the underlying agreements 
+periodic fluctuations in customer orders and backlog result from a variety of factors  including but not limited to the timing of significant orders and shipments 
+although these fluctuations could impact short term results  they are not necessarily indicative of long term trends in sales of our products 
+employees as of december   we had full time employees  of whom were located in the united states and of whom were located in europe 
+as of december  and  we had and full time employees  of which and where located in the united states and and were located in europe  respectively 
+as of february   we had employees of which were located in the united states and were located in europe 
+none of our employees are represented by a collective bargaining agreement  and we believe that our relations with our employees are good 
+
+table of contents executive officers of the company the executive officers of the company as of february  and their biographical information are set forth below 
+joseph a 
+ferrara chief executive officer  president and board member of tollgrade since november  serving as chairman of the board of directors since may  senior vice president  sales and marketing of tollgrade from august until november  prior thereto general manager data networks division of ericsson from january until july following ericsson s acquisition of marconi corporation plc s marconi product divisions  chief executive officer of marconi s north american operations from june until january  vice president of business operations of marconi s data networks division from february until june and july until april  and vice president of marketing of marconi s data networks division from april until february age michael d 
+bornak chief financial officer of the company since november  served as the company s interim chief financial officer from september to november  prior thereto served as chief financial officer of solar power industries  inc from june until july  chief financial officer for mhf logistical solutions  inc from february to june  vice president of finance and chief financial officer of portec rail products  inc from january to february mr 
+bornak is also a certified public accountant 
+age david l 
+blakeney vice president  research and development of the company since october  prior thereto consultant to the company in the same capacity from march until october  vice president  engineering  for altrix logic from december until october  prior thereto  vice president of engineering for the data networks division of ericsson from april to october age jennifer m 
+reinke general counsel of the company since november and secretary of the company since december  assistant general counsel of the company from february to november  corporate attorney for the company from march to february  served as the company s assistant secretary from march to december  prior thereto  associate attorney with reed smith llp  from august to march age robert h 
+king vice president  global sales and marketing of the company since february  executive director  business development of the company from december until february  prior thereto president and general manager of the broadband products group at sunrise telecom incorporated sunrise from april until june  vice president  sales at sunrise from january until april age joseph g 
+o brien vice president  human resources of the company since october  director of employee development of the company from april until october  prior thereto  coordinator  elderberry junction  goodwill industries  a charitable organization  from may until april age kenneth j 
+shebek vice president  operations of the company since october  prior thereto  vice president of supply and logistics for the data networks division of ericsson from january  until october  vice president of supply chain for marconi and its vice president of north american operations from january to december age 
+table of contents item a 
+risk factors we wish to caution each reader of this form k to consider the following factors and other factors discussed herein and in other past reports  including but not limited to prior year form k and quarterly form q reports filed with the sec 
+our business and results of operations could be materially affected by any of the following risks 
+the factors discussed herein are not exhaustive 
+therefore  the factors contained herein should be read together with other reports and documents that we file with the sec from time to time  which may supplement  modify  supersede or update the factors listed in this document 
+revenue from product sales may be subject to further declines due to the mature nature of many of our product lines and from customers transitioning their access network service assurance solutions 
+our legacy products are primarily oriented towards pots lines 
+as many customers implement next generation network improvements  such as fiber to the premises fttp  our continuing ability to sell our legacy technology or to maintain historic pricing levels for these products will likely be adversely affected 
+in particular  sales of our mcu products  which have historically represented a meaningful portion of our product sales  are declining 
+mcu sales largely depend upon the rate of deployment of new  and the retrofitting of existing  dlc systems in the united states 
+installation and replacement of dlc systems are  in turn  driven by a number of factors  including the availability of capital resources and the demand for new or better pots 
+next generation network improvements such as fttp do not require the use of our mcu products as does the present hybrid pots network 
+if our major customers fail to continue to build out their dsl networks and other projects requiring dlc deployments  or if we otherwise satisfy the domestic telecommunications market s demand for mcus  our mcu sales will continue to decline and our future results would be materially and adversely affected 
+certain of our larger customers are in the process of upgrading their access networks  as well as  their service assurance solutions for these networks 
+this has and may continue to adversely impact revenues from our testing products 
+further  these customers may decide not to adopt our technologies for their service assurance needs  which would have a significant adverse affect on revenues for those products 
+our product sales have experienced continual declines over the past five years  with sales from continuing operations of million for  million in and million for our mcu product line  which historically has represented a larger portion of our sales  has declined by and as a percentage of continuing operation product sales  over the and periods  respectively 
+in addition  we also have experienced year over year declines in our digitest  loopcare and ldu product lines 
+if we are unable to continue to derive sales of these products to our existing customers due to their lower demand  capital constraints and a move towards other technologies  this could have a materially adverse impact on our future financial results 
+our ability to maintain or increase revenues will be dependent on our ability to expand our customer base  increase unit sales volumes of our existing products and to successfully  develop  introduce and sell new products 
+our service business may be negatively affected by a trend of reduced capital spending and by delays in our ability  or by our inability  to secure and extend long term maintenance contracts with our existing or new customers  and by customer initiatives to consolidate services purchases with a single supplier 
+our services business  which includes software maintenance and professional services  as well as our managed services offerings  is sensitive to the decline in our large carrier customers capital investment in their traditional voice services 
+this decline may lead to a decreasing demand for our professional services 
+in addition  if we are unsuccessful in renewing our software maintenance agreements  or if we experience delays in the extension or renewal of certain of the more significant software maintenance agreements  our revenues may be negatively affected 
+in particular  in december  we were advised that verizon  a major customer for our loopcare post warranty software maintenance services  would not renew its contract for those services after the expiration of that contract on december   and would instead seek to purchase post warranty maintenance services for our loopcare products through a larger supplier  requiring us to negotiate a new contract with that supplier 
+in addition  another significant maintenance contract that was scheduled for expiration on december  was extended through march pending negotiation of that contract renewal 
+if the negotiations for these or any other significant maintenance contract that becomes subject to renewal are not successful  the agreements may not be reached at all or may be reached on terms that are not as favorable to us as the former or extended arrangements  and as a result our revenues may be adversely affected 
+in addition  to the extent more of our customers seek to consolidate services purchases through a large vendor  and in so doing seek to purchase maintenance for our software products through a third party vendor  we will likely experience significant downward pricing pressure for these services 
+we are also experiencing intense pricing pressure from many of our other larger software maintenance customers  as they continue to attempt to reduce their own internal costs to substantiate the value of our long term service contracts 
+we believe that our services and our software systems provide significant value to our customers  however  each time a contract is scheduled for renewal  we must 
+table of contents show our customers the value of the entire system and the costs saved by maintaining and even extending the system capabilities 
+to date  apart from the customer noted above  we have been able to renegotiate or have had contract extensions to most of our major contracts as they become subject to renewal 
+we have  however  had to reduce our pricing in some instances 
+accordingly  our ability to maintain historical levels from traditional sources or increase levels of services revenues cannot be assured  and in fact  such levels may decrease 
+the expiration of the verizon contract in december  as well as the pricing pressure on many of our other services contracts and our increasing difficulty in securing extensions on major customer contracts  triggered our evaluation of the carrying value and the remaining useful lives of our intangible asset associated with our loopcare post warranty software maintenance agreements 
+based on this evaluation  we recorded a significant impairment charge of million in the fourth quarter of  and reduced the remaining finite useful life of this asset from approximately forty six years to fifteen years 
+further declines in our post warranty maintenance services may result in future impairment charges as well as having a materially adverse impact on our financial results and cash flow 
+our future growth depends to a large extent upon our success in developing and selling new products and service offerings 
+we have focused our growth efforts and are managing our investments 
+if we are unable to drive sales of new products and services to counter the expected declines in our legacy product lines  this could have a materially adverse impact on our future financial results 
+we are actively selling and developing new product and service offerings 
+our long term growth is dependent upon the success of these products and additional new products to be developed in the future 
+in the telecommunications market  our new products include hardware solutions  including enhanced ldu and digitest ice offerings  a new software platform  stratum  our managed services offering  and oem product offerings 
+in the power utility market  we offer a new solution consisting of hardware sensors  aggregation nodes  and a centralized software platform 
+we continue to believe that there is a significant market opportunity for these products 
+however  there can be no assurance that these product offerings will be commercially successful in the near term or at all 
+we continue to pursue product development initiatives to supplement our new offerings described above 
+there can be no assurance that we will be successful in marketing and selling our new product and services offerings or that the new offerings will result in the benefits and opportunities that we expect 
+the development of new solutions is an uncertain and potentially expensive process and requires that we accurately anticipate technological and market trends so that we can deliver products in a timely manner 
+we may not be successful in delivering the required product features to achieve success  or if we do so  we may not be able to commercialize the product in a timely manner or achieve market acceptance 
+if we fail to set appropriate prices for our products  our profitability could be adversely affected 
+in addition  the potential market growth rate may not be as significant as we expect or could develop in unforeseen directions 
+for example  the commercial availability of competing products may affect the extent or timing of market acceptance of our solutions 
+furthermore  we may not be successful in forming the strategic alliances contemplated by our new strategy 
+we may not identify the right partners or our partners could fail to perform their obligations and the commercial relationship may fail to develop as expected 
+as a result of these and other factors  we may not be able to implement our strategy and our ability to exploit our incumbent position in the manner contemplated by our strategic planning and we would be materially and adversely affected 
+our restructuring efforts and cost reduction plans may be ineffective or may limit our ability to compete 
+during  we restructured our business operations through three different restructuring initiatives 
+during the first quarter of  we announced a restructuring initiative  which included the realignment of existing resources to new projects  reductions in our field services and sales staffing  as well as other reduction activities  and on july   we announced a restructuring initiative which included reductions in our production staffing 
+in october of  we eliminated twenty eight positions across all levels of the organization 
+previously  during  we implemented a series of initiatives designed to increase efficiency and reduce costs and to focus our core business on our test and measurement expertise 
+these initiatives included reductions of staff  alignment of investments and a completion of the integration plans from prior acquisitions 
+although we have experienced some cost savings from these restructuring and cost reduction programs and initiatives and we believe that these actions will continue to reduce costs  they may not be sufficient to achieve the required operational efficiencies that will enable us to respond more quickly to changes in the market or result in the improvements in our business that we anticipate or be sufficient to offset a decline in our revenue 
+in such event  we may be forced to take additional cost reducing initiatives  which may negatively impact quarterly earnings and profitability as we account for severance and other related costs 
+in addition  there is the risk that such measures could have long term effects on our business by reducing our pool of talent  decreasing or slowing improvements in our products  making it more difficult for us to respond to customers  limiting our ability to increase production quickly if and when the demand for our products increases and limiting our ability to hire and retain key personnel 
+these circumstances could cause our earnings to be lower than they otherwise might be 
+
+table of contents failure to achieve the maximum revenues under our managed services contract could have an adverse effect on our revenues and results of operations 
+during the second quarter of  we entered into a multi year  managed services contract with ericsson  a leading global network equipment provider  pursuant to which we provide customer support and engineering services capabilities 
+in connection with the agreement  we hired twenty one employees 
+the inability to successfully integrate and or retain the hired employees and to integrate the tools and resources acquired as part of the agreement into our services business would have an adverse impact on our ability to realize the potential revenue opportunities under the agreement 
+in addition  under the terms of the managed services contract  we may not achieve the full revenue potential of the contract in the event that i we fail to meet certain specified service level requirements in the contract  and subsequently  service level credits reducing payments to us are applied  ii the network equipment provider terminates the contract for our failure to perform in accordance with its terms  and iii fees payable to us are reduced due to revenues from the network equipment provider s customer agreements declining more rapidly than anticipated 
+additionally  our overall profitability may be negatively impacted in the event we are required to incur unanticipated expenses to satisfy obligations assumed under the managed services agreement 
+a continuing downturn in the global economy may adversely affect our revenues  results of operations and financial condition 
+demand for our products and services are increasingly dependent upon the rate of growth in the global economy 
+if current economic conditions continue  customer demand for our products and services could be even more adversely affected than experienced to date  which in turn could adversely affect our revenues  results of operations and financial condition 
+many factors could continue to adversely affect regional or global economic growth 
+some of these factors include poor availability of credit  continued recession in the united states economy and other countries that we serve  fluctuation in the value of the us dollar relative to foreign currencies in jurisdictions where we transact business  significant act of terrorism which disrupts global trade or consumer confidence  geopolitical tensions including war and civil unrest  and reduced levels of economic activity or disruption of domestic or international transportation 
+the recent challenging economic conditions also may impair the ability of our customers to pay for products and services they have purchased or otherwise constrict our customers spending on our products and services 
+as a result  revenues may decline and reserves for doubtful accounts and write offs of accounts receivable may increase 
+we had to take such action in the third quarter of as we wrote off a significant receivable from an international customer that we have been unable to collect  and have been forced to bring court action in a foreign jurisdiction in an attempt to enforce payment 
+although we believe that the merits of the claim are in our favor  there can be no assurance of success in any litigation  and we may incur additional expenses in connection with the litigation and other collection efforts that we would be unable to recover 
+in addition  certain of our contracts are paid  in part or whole  in foreign currencies 
+a decrease in the exchange rate of the us dollar relative to these currencies could further reduce our revenues  and such impact could be material 
+we maintain an investment portfolio  consisting of cash  cash equivalents and investments in individual municipal bonds  and corporate and government bonds 
+these investments are subject to general credit  liquidity  market  and interest rate risks 
+if the global credit market continues to deteriorate  our investment portfolio may be impacted and potentially creating an other than temporary decline in fair value  which would result in an impairment charge adversely impacting our financial results 
+we are dependent upon our ability to attract  retain and motivate our key personnel 
+our success depends on our ability to attract  retain and motivate our key management personnel  including the company s ceo  cfo  senior management team members  and key engineers  necessary to implement our business plan and to grow our business 
+despite the adverse economic conditions of the past several years  competition for certain specific technical and management skill sets is intense 
+if we are unable to identify and hire the personnel that we need to succeed  or if one or more of our key employees were to cease to be associated with the company  our future results could be adversely affected 
+furthermore  since we have experienced a number of changes in our senior management positions  both as part of the restructuring initiatives and otherwise 
+although we believe we have taken appropriate measures to address the impact of these changes  such changes could impact our business  and or negatively affect operating results 
+
+table of contents we depend upon a few major customers for a majority of our revenues  and the loss of any of these customers  or the substantial reduction in the products or services that they purchase from us  would significantly reduce our revenues and net income 
+we currently depend upon a few major customers for a significant portion of our revenues and we expect to continue to derive a significant portion of our revenues from a limited number of customers in the future 
+the loss of any of these customers or a substantial reduction in the products or services that they purchase from us or our inability to renew services agreements with customers and to do so upon terms at least as favorable to our current agreements would significantly reduce our revenues and net income 
+furthermore  diversions in the capital spending of certain of these customers to new network elements have and could continue to lead to their reduced demand for our products  which could in turn have a material adverse affect on our business and results of operation 
+the capital spending of our large domestic carrier customers  as well as many of our other customers and potential customers  are dictated by a number of factors  most of which are beyond our control  including conditions of the telecommunications market and the weakening economy in general  subscriber line loss and related reduced demand for wireline telecommunications services  changes or shifts in the technology utilized in the networks  labor disputes between our customers and their collective bargaining units  failure of our customers to meet established purchase forecasts and growth projections  competition among the large domestic carriers  competitive exchange carriers and wireless telecommunications and cable providers  and reorganizations  including management changes  at one or more of our customers or potential customers 
+if the financial condition of one or more of our major customers should deteriorate  or if they have difficulty acquiring investment capital or reduce their capital expenditures due to any of these or other factors  a substantial decrease in our revenues would likely result 
+our operating results may vary from quarter to quarter  causing our stock price to fluctuate 
+our operating results have in the past been subject to quarter to quarter fluctuations  and we expect that these fluctuations may continue in future periods 
+demand for our products is driven by many factors  including the availability of funding for our products in customers capital budgets 
+some of our customers place large orders near the end of a quarter or fiscal year  in part to spend remaining available capital budget funds 
+seasonal fluctuations in customer demand for our products driven by budgetary and other reasons can create corresponding fluctuations in period to period revenues  and we therefore cannot assure you that our results in one period are necessarily indicative of our revenues in any future period 
+in addition  the number and timing of large individual sales and the ability to obtain acceptances of those sales  where applicable  has been difficult for us to predict  and large individual sales have  in some cases  occurred in quarters subsequent to those we anticipated  or have not occurred at all 
+the loss or deferral of one or more significant sales in a quarter could harm our operating results 
+it is possible that in some quarters our operating results will be below the expectations of investors 
+in such events  or in the event adverse conditions prevail  the market price of our common stock may decline significantly 
+we have completed  and may pursue additional acquisitions  which could result in the disruption of our current business  difficulties related to the integration of acquired businesses  and substantial expenditures 
+we have completed  and we may pursue additional acquisitions of companies  product lines and technologies as part of our strategic efforts to realign our resources around growth opportunities in current  adjacent and new markets  to enhance our existing products  to introduce new products and to fulfill changing customer requirements 
+the consideration for any such acquisition may be cash or stock  or a combination thereof  and the payment of such consideration may result in a reduction in our cash balance and or the issuance of additional shares which may dilute the interest of our existing shareholders 
+acquisitions involve numerous risks  including the disruption of our business  exposure to assumed or unknown liabilities of the acquired target  and the failure to integrate successfully the operations and products of acquired businesses 
+international acquisitions provide specific challenges due to the unique topology of international telecommunications networks  as well as requirements of doing business in particular countries 
+further  our ability to sell certain products internationally depends upon our ability to maintain certain key manufacturing relationships and we may not be able to continue those relationships 
+goodwill and acquired intangible assets arising from acquisitions may result in significant impairment charges against our operating results in one or more future periods 
+furthermore  we may never achieve the anticipated results or benefits of an acquisition  such as increased market share or the successful development and sales of a new product 
+the effects of any of these risks could materially harm our business and reduce our future results of operations and cause our stock price to decline 
+
+table of contents the failure of acquired assets to meet expectations  or a decline in our fair value determined by market prices of our stock  could indicate impairment of our intangible assets and result in impairment charges 
+accounting guidance for the impairment or disposal of long lived assets addresses financial accounting and reporting for the impairment or disposal of long lived assets and requires that these assets be measured for impairment whenever events or changes in circumstances indicate that its carrying amount may not be recoverable 
+during  and  based on our assessment that triggering events had occurred  we performed the required recoverability tests and determined that certain long lived assets were impaired 
+the occurrence of further triggering events could result in additional impairments 
+the sale of our products is dependent upon our ability to satisfy the proprietary requirements of our customers 
+we depend upon a relatively narrow range of products for the majority of our revenue 
+our success in marketing our products is dependent upon their continued acceptance by our customers 
+in some cases  our customers require that our products meet their own proprietary requirements 
+if we are unable to satisfy such requirements  or forecast and adapt to changes in such requirements  our business could be materially harmed 
+in addition  we have recently introduced new products  including the digitest ice and the first version of the lighthouse products in  and our stratum software platform in as of the end of  we had very limited sales of our lighthouse product line and our trial with a major utility is still ongoing and is expected to continue into mid we have not yet seen the customer acceptance of our stratum platform that we had expected 
+in addition  there can be no assurance that our trial with a major utility will be successful or  even if successful  will result in the orders for our lighthouse product line that we anticipate 
+the rate of acceptance of these new products could be further delayed by  or may not be achieved at all as a result of  among other factors  extended testing or acceptance periods or requests for custom or modified engineering of such products to conform to customer requirements 
+the sale of our products is dependent on our ability to respond to rapid technological change and may be adversely affected by the development  and acceptance by our customers  of new technologies which may compete with or reduce the demand for our products 
+changes in network architecture experienced by our customers in the telephony market have and may continue to negatively affect our ability to sell products in these markets 
+although we are addressing these changes with modifications to our existing products  if customers do not accept this new product technology  our revenues could be adversely affected 
+further  we are experiencing competition from the internal information technology it departments of our own carrier customers 
+in the past  we offered solutions consisting of hardware probes  coupled with a centralized software platform that analyzed the data pulled from the probes and determined the appropriate dispatch statement or issue identification statement 
+as the capabilities of new infrastructure equipment increases  test and monitoring software platforms are increasingly taking advantage of the available data from the infrastructure equipment 
+at the same time  many of our larger customers have captive development capabilities in their own it organizations 
+these it teams can develop competing software systems to our offerings  which could adversely affect our ability to sell our products to those customers  which could negatively impact overall revenues from such products 
+furthermore  the development of new technologies which compete with or reduce the demand for our products  and the adoption of such technologies by our customers  could adversely affect sales of our products 
+for example  as our products generally serve the wireline marketplace  to the extent wireline customers migrate to wireless technologies  there may be reduced demand for our products 
+in addition  we face new competition as testing functions that were once only available with purpose built test systems are now available as integrated components of network elements 
+to the extent our customers adopt such new technology in place of our telecommunications products  the sales of our telecommunications products may be adversely affected 
+such competition may also increase pricing pressure for our telecommunications products and adversely affect the revenues from such products 
+we depend on a single contract manufacturer to produce more than of our hardware customer product requirements 
+changes to this relationship may result in delays or disruptions that could harm our business 
+we depend on one independent contract manufacturer to manufacture  test and ship our products 
+we rely on purchase orders with our contract manufacturer to fulfill our product demands 
+our contract manufacturer is not obligated to supply products to us for any specific period  quantity or price 
+it is time consuming and costly to qualify and implement a contract manufacturer relationship 
+therefore  if our contract manufacturer suffers an interruption in its business  or experiences delays  disruptions or quality control problems in its manufacturing operations  or we have to change or add additional contract manufacturers  our ability to ship products to our customers would be delayed and our business  operating results and financial condition would be adversely affected 
+
+table of contents we depend on single source component parts for certain product designs  and our reliance on third parties to manufacture certain aspects of our products involves risks  including delays in product shipments and reduced control over product quality 
+generally  our products use industry standard components 
+in addition  some parts  such as asics  are custom made to our specifications 
+while there are multiple sources for most of the component parts of our products  some components are sourced from single sources or from a limited number of outside suppliers 
+we typically do not have a written agreement with any of these component manufacturers to guarantee the supply of the key components used in our products  and we do not require our contract manufacturer to have written agreements with these component manufacturers 
+we regularly monitor the supply of the component parts and the availability of alternative sources 
+we provide forecasts to our contract manufacturer so that it can source the key components in advance of their anticipated use  with the objective of maintaining an adequate supply for use in the manufacture of our products 
+our reliance upon third party contractors involve several risks  including reduced control over manufacturing costs  delivery times  reliability and quality of components 
+if we were to encounter a shortage of key manufacturing components from limited sources of supply  or experience manufacturing delays caused by reduced manufacturing capacity  inability of our contract manufacturers to procure raw materials  the loss of key assembly subcontractors  or other factors  we could experience lost revenues  increased costs  delays in  cancellations or rescheduling of orders or shipments  any of which would materially harm our business 
+if we fail to accurately predict our manufacturing requirements  we could incur additional costs or experience manufacturing delays that could harm our business 
+we provide demand forecasts to our contract manufacturer 
+if we overestimate our requirements  our contract manufacturer may assess charges or we may have liabilities for excess inventory  each of which could negatively affect our gross margins 
+conversely  because lead times for required materials and components vary significantly and depend on factors such as the specific supplier  contract terms and the demand for each component at a given time  if we underestimate our requirements  our contract manufacturer may have inadequate materials and components required to produce our products  which could interrupt manufacturing of our products and result in delays in shipments and deferral or loss of revenues 
+our future sales in international markets are subject to numerous risks and uncertainties 
+our business is becoming more dependent upon international markets 
+our future sales in international markets are subject to numerous risks and uncertainties  including local economic and labor conditions  political instability including terrorism and other acts of war or hostility  unexpected changes in the regulatory environment  trade protection measures  tax laws  our ability to market current or develop new products suitable for international markets  difficulties with deployments and acceptances of products  obtaining and maintaining successful distribution and resale channels  changes in tariffs and foreign currency exchange rates  and longer payment cycles 
+these specific risks  or an overall reduction in the demand for or the sales of our products in international markets  could adversely affect future results 
+we face intense competition  which could result in our losing market share or experiencing a decline in our gross margins 
+the markets for some of our products are very competitive 
+some of our competitors have greater technological  financial  manufacturing  sales and marketing  and personnel resources than we have 
+as a result  these competitors may have an advantage in responding more rapidly or effectively to changes in industry standards or technologies 
+we are facing competition with our ip based testing solutions  and many competitive technologies  encompassing both hardware and software  are available in these markets 
+moreover  better financed competitors may be better able to withstand the pricing pressures that increased competition may bring 
+if our introduction of improved products or services is not timely or well received  or if our competitors reduce their prices for products that are comparable to ours  demand for our products and services could be adversely affected 
+competition from certain network element providers offering chip based testing functionality may also intensify the pricing pressure for our telecommunications products and adversely affect future revenues from such products 
+we also face increasing pressure from certain of our large domestic carrier customers on software maintenance agreements  as they continue to divert spending from legacy networks to next generation network elements 
+we may also compete directly with our customers 
+generally  we sell our products either directly or indirectly through oem channels and other means to end user telecommunications service providers 
+it is possible that our customers  as the result of bankruptcy or other rationales for dismantling network equipment  could attempt to resell our products 
+the successful development of such a secondary market for our products by a third party could negatively affect demand for our products  reducing our future revenues 
+
+table of contents our future results are dependent on our ability to establish  maintain and expand our distribution channels and our existing third party distributors 
+we market and sell certain of our products  including our digitest and ldu products  through domestic and international oem relationships 
+our future results are dependent on our ability to establish  maintain and expand third party relationships with oem as well as other marketing and sales distribution channels 
+if  however  the third parties with whom we have entered into such oem and other arrangements should fail to meet their contractual obligations  cease doing  or reduce the amount of their business with us or otherwise fail to meet their own performance objectives  customer demand for our products could be adversely affected  which would have an adverse effect on our revenues 
+the sales cycle for our system products is long  and the delay or failure to complete one or more large transactions in a quarter could cause our operating results to fall below our expectations 
+the sales cycle for our system products is highly customer specific and can vary from a few weeks to many months 
+the system requirements of customers is highly dependent on many factors  including but not limited to their projections of business growth  capital budgets and anticipated cost savings from implementation of the system 
+our delay or failure to complete one or more large transactions in a quarter could harm our operating results 
+our systems involve significant capital commitments by customers 
+potential customers generally commit significant resources to an evaluation of available enterprise software and system testing solutions and require us to expend substantial time  effort and money educating them about the value of our solutions 
+system sales often require an extensive sales effort throughout a customer s organization because decisions to acquire software licenses and associated system hardware involve the evaluation of the products by a significant number of customer personnel in various functional and geographic areas  each often having specific and conflicting requirements 
+a variety of factors  including actions by competitors and other factors over which we have little or no control  may cause potential customers to favor a particular supplier or to delay or forego a purchase 
+many of our products must comply with significant governmental and industry based regulations  certifications  standards and protocols  some of which evolve as new technologies are deployed 
+compliance with such regulations  certifications  standards and protocols may prove costly and time consuming for us  and we cannot provide assurance that its products will continue to meet these standards in the future 
+in addition  regulatory compliance may present barriers to entry in particular markets or reduce the profitability of our product offerings 
+such regulations  certifications  standards and protocols may also adversely affect the industries in which we compete  limit the number of potential customers for our products and services or otherwise have a material adverse effect on its business  financial condition and results of operations 
+failure to comply  or delays in compliance  with such regulations  standards and protocols or delays in receipt of such certifications could delay the introduction of new products or cause our existing products to become obsolete 
+the continued adoption of industry wide standards in the telecommunications market could have a material adverse effect on our profitability 
+we are actively engaged in research to improve and expand our product offerings  including research and development to reduce product costs while providing enhancements  however  with the rise of industry wide standards  among other factors  a number of our products have faced increased pricing pressure  driving lower margins 
+if sales of our network assurance and testing solutions do not increase  decrease rapidly  or are not accepted in the marketplace  or if our research and development activities do not produce marketable products that are both competitive and accepted by our customers  our overall revenues and profitability will be adversely affected 
+the presence of available open source software could adversely affect our ability to maximize revenue from software products 
+an emerging risk to our software development efforts is the presence of available open source software  which can allow our competitors and or our customers to piece together a non proprietary software solution relatively quickly 
+to the extent they are successful in developing software that meets their feature and benefit needs  revenue from our proprietary software could be adversely affected 
+further  to the extent we incorporate open source into our software products  our ability to maximize revenue from our software products could be adversely impacted 
+our customers are subject to an evolving governmental regulatory environment that could significantly reduce the demand for our products or increase our costs of doing business 
+our domestic customers have historically been subject to a number of governmental regulations  many of which have been repealed or amended as a result of the passage of the telecommunications act of deregulatory efforts have affected and likely will continue to affect our customers in several ways  including the introduction of competitive forces into the local telephone markets and 
+table of contents the imposition or removal of controls on the pricing of services 
+these and other regulatory changes may limit the scope of our customers deployments of future services and budgets for capital expenditures  which could significantly reduce the demand for our products 
+moreover  as the fcc adopts new and amends existing regulations  and as the courts analyze the fcc s authority to do so  our customers cannot accurately predict the rules which will regulate their conduct in their respective markets 
+changes in the telecommunications regulatory environment could  among other results  increase our costs of doing business  require our customers to share assets with competitors or prevent the company or our customers from engaging in business activities they may wish to conduct  which could adversely affect our future results 
+similarly  our international customers are subject to a number of governmental regulations 
+regulatory changes affect our customers in several ways  including the introduction of competitive forces  controls or removal of controls  and new rules and limits 
+these and other regulatory changes may limit our customers  their service offerings  of spending  which could significantly reduce the demand for our products 
+our limited ability to protect our proprietary information and technology may adversely affect our ability to compete  and our products could infringe upon the intellectual property rights of others  resulting in claims against us the results of which could be costly 
+many of our products consist entirely or partly of proprietary technology owned by us 
+although we seek to protect our technology through a combination of copyrights  trade secret laws  contractual obligations and patents  these protections may not be sufficient to prevent the wrongful appropriation of our intellectual property  nor will they prevent our competitors from independently developing technologies that are substantially equivalent or superior to our proprietary technology 
+in addition  the laws of some foreign countries do not protect our proprietary rights to the same extent as the laws of the united states 
+in order to defend our proprietary rights in the technology utilized in our products from third party infringement  we may be required to institute legal proceedings 
+if we are unable to successfully assert and defend our proprietary rights in the technology utilized in our products  our future results could be adversely affected 
+although we attempt to avoid infringing known proprietary rights of third parties in our product development efforts  we may become subject to legal proceedings and claims for alleged infringement from time to time in the ordinary course of business 
+any claims relating to the infringement of third party proprietary rights  even if not meritorious  could result in costly litigation  divert management s attention and resources  require us to reengineer or cease sales of our products or require us to enter into royalty or license agreements which are not advantageous to us 
+in addition  parties making claims may be able to obtain an injunction  which could prevent us from selling our products in the united states or abroad 
+in addition  the loss of patent protection for any of our products might allow competition  which  if successful  could cause our revenues from affected products to be materially adversely affected 
+in particular  our three patents for our mcu products will expire between and the success of some of our products is dependent on our ability to maintain licenses to technology from the manufacturers of systems with which our products must be compatible 
+some of our products require that we license technology from manufacturers of systems with which our products must be compatible 
+the success of our proprietary mcu products  in particular  rely upon our ability to acquire and maintain licensing arrangements with the various manufacturers of dlc systems for the proprietary design integrated circuits pdics unique to each 
+although most of our pdic licensing agreements have perpetual renewal terms  all of them can be terminated by either party 
+if we are unable to obtain the pdics necessary for our mcu products to be compatible with a particular dlc system  we may be unable to satisfy the needs of our customers 
+furthermore  future pdic license agreements may contain terms comparable to  or materially different than  the terms of existing agreements  as dictated by competitive or other conditions 
+the loss of these pdic license agreements  or our inability to maintain an adequate supply of pdics on acceptable terms  could have a material adverse effect on our business 
+if we are unable to satisfy our customers specific product quality  certification or network requirements  our business could be disrupted and our financial condition could be harmed 
+our customers demand that our products meet stringent quality  performance and reliability standards 
+we have  from time to time  experienced problems in satisfying such standards 
+defects or failures have in the past  and may in the future occur relating to our product quality  performance and reliability 
+from time to time  our customers also require us to implement specific changes to our products to allow these products to operate within their specific network configurations 
+if we are unable to remedy these failures or 
+table of contents defects or if we cannot affect such required product modifications  we could experience lost revenues  increased costs  including inventory write offs  warranty expense and costs associated with customer support  delays in or cancellations or rescheduling of orders or shipments and product returns or discounts  any of which would harm our business 
+if our accounting controls and procedures are circumvented or otherwise fail to achieve their intended purposes  our business could be seriously harmed 
+we evaluate our disclosure controls and procedures as of the end of each fiscal quarter  and are annually reviewing and evaluating our internal controls over financial reporting in order to comply with sec rules relating to internal control over financial reporting adopted pursuant to the sarbanes oxley act of because of its inherent limitations  internal control over financial reporting may not prevent or detect misstatements 
+also  projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions  or that the degree of compliance with the policies or procedures may deteriorate 
+if we ship products that contain defects  the market acceptance of our products and our reputation will be harmed and our customers could seek to recover their damages from us 
+our products  are complex  and despite extensive testing  may contain defects or undetected errors or failures that may become apparent only after our products have been shipped to our customers and installed in their network or after product features or new versions are released 
+any such defect  error or failure could result in failure of market acceptance of our products or damage to our reputation or relations with our customers  resulting in substantial costs for us and for our customers as well as the cancellation of orders  warranty costs and product returns 
+in addition  any defects  errors  misuse of our products or other potential problems within or out of our control that may arise from the use of our products could result in financial or other damages to our customers 
+our customers could seek to have us pay for these losses 
+although we maintain product liability insurance  it may not be adequate 
+compliance with environmental regulations could be costly  and noncompliance could have a material adverse effect on our results of operations  expenses and financial condition 
+failure to comply with environmental regulations in the jurisdictions in which we do business could result in penalties and damage to our reputation 
+in effect in the european union are the directive on the restriction of the use of certain hazardous substances in electrical and electronic equipment the rohs directive and the directive on waste electrical and electronic equipment the weee directive 
+both the rohs directive and the weee directive impact the form and manner in which electronic equipment is imported  sold and handled in the european union 
+other jurisdictions  such as china  have followed the european union s lead in enacting legislation with respect to hazardous substances and waste removal 
+although we have concluded that our test and measurement products fall outside the scope of the rohs directive  we have voluntarily undertaken to cause our next generation products to comply with its requirements 
+ensuring compliance with the rohs directive  the weee directive and similar legislation in other jurisdictions  and integrating compliance activities with our suppliers and customers could result in additional costs and disruption to operations and logistics and thus  could have a negative impact on our business  operations and financial condition 
+in addition  based on our conclusion that our test and measurement products do not fall within the scope of these directives  we have determined not to take these compliance measures with respect to certain of our older  legacy products 
+should our conclusions with respect to the applicability of the rohs directive to these products be challenged and fail to prevail  we may be subject to monetary and non monetary penalties  and could suffer harm to our reputation or further decline in the sales of our legacy products 
+we are subject to governmental export and import controls that could subject us to liability or impair our ability to compete in international markets 
+our products are subject to united states import and export controls 
+changes in our products or changes in export and import regulations may create delays in the introduction of our products in international markets  prevent our customers with international operations from deploying our products throughout their networks or  in some cases  prevent the export or import of our products to certain countries altogether 
+any change in export or import laws and regulations  shifts in approach to the enforcement or scope of existing laws and regulations  or change in the countries  persons or technologies targeted by such regulations  could result in decreased use of our products by  or in our decreased ability to import  export or sell our products to existing or potential customers with international operations 
+any limitation on our ability to import  export or sell our products would likely adversely affect our business  operating results and financial condition 
+consolidations in  or a continued slowdown in  the telecommunications industry could harm our business 
+we have derived a substantial amount of our revenues from sales of products and related services to the telecommunications industry 
+in recent quarters  capital spending in the telecommunications industry has decreased and may continue to decrease in the future as a result of the challenging general economic conditions prevailing in domestic and international markets 
+in particular  large carrier 
+table of contents customers have been adversely affected by subscriber line losses as well as by competition from cable and wireless carriers and other carriers entering the local telephone service market 
+certain emerging carriers also continue to be hampered by financial instability caused in large part by a lack of access to capital 
+in the event of continued or further significant decreases in capital spending of the telecommunications industry  our business would be adversely affected 
+furthermore  as a result of industry consolidation  there may be fewer potential customers requiring our software in the future 
+larger  consolidated telecommunications companies may also use their purchasing power to create pressure on the prices and the margins we could realize 
+we cannot be certain that consolidations in  or a slowdown in the growth of  the telecommunication industry will not harm our business 
+our expenses are relatively fixed in the short term  and we may be unable to adjust spending to compensate for unexpected revenue shortfalls 
+we base our expense levels in part on forecasts of future orders and sales  which are extremely difficult to predict 
+a substantial portion of our operating expenses is related to personnel expense  facilities and public company costs 
+the level of spending for such expenses cannot be adjusted quickly and is  therefore  relatively fixed in the short term 
+accordingly  our operating results will be harmed if revenues fall below our expectations in a particular quarter 
+we rely on software that we license from third party developers to perform key functions in our products 
+we rely on software that we license from third parties  including software that is integrated with internally developed software and used in our products to perform key functions 
+we could lose the right to use this software or it could be made available to us only on commercially unreasonable terms 
+although we believe that  in most cases  alternative software is available from other third party suppliers or internal developments  the loss of or inability to maintain any of these software licenses or the inability of the third parties to enhance in a timely and cost effective manner their products in response to changing customer needs  industry standards or technological developments could delay or reduce our product shipments until equivalent software could be developed internally or identified  licensed and integrated  which would harm our business 
+our common stock price may be extremely volatile 
+our common stock price has been and is likely to continue to be highly volatile 
+the market price may vary in response to many factors  some of which are outside our control  including general market and economic conditions  changes in the telecommunications industry  actual or anticipated variations in operating results  announcements of technological innovations  new products or new services by us or by our competitors or customers  lack of research coverage by sell side market analysts  announcements by us or our competitors of significant acquisitions  strategic partnerships  joint ventures  capital commitments or other strategic announcements  announcements by our customers regarding end market conditions and the status of existing and future infrastructure network deployments  additions or departures of key personnel  and future equity or debt offerings or our announcements of these offerings 
+in addition  in recent years  the stock market in general  and the nasdaq global select market and the securities of technology companies in particular  have experienced extreme price and volume fluctuations 
+these fluctuations have often been unrelated or disproportionate to the operating performance of individual companies 
+these broad market fluctuations have in the past and may in the future materially and adversely affect our stock price  regardless of our operating results 
+in the past  following periods of volatility in the market price of a company s securities  securities class action litigation has often been initiated against such company 
+such litigation could result in substantial costs and a diversion of our management s attention and resources that could harm our business regardless of the outcome of such litigation 
+we may be subject from time to time to legal proceedings  and any adverse determinations in these proceedings could materially harm our business 
+we may from time to time be involved in various lawsuits and legal proceedings  which arise in the ordinary course of business 
+litigation matters are inherently unpredictable  and we cannot predict the outcome of any such matters 
+if we ultimately lose or settle a case  we may be liable for monetary damages and other costs of litigation 
+even if we are entirely successful in a lawsuit  we may incur significant legal expenses and our management may expend significant time in the defense 
+an adverse resolution of a lawsuit or legal proceeding could negatively impact our financial position and results of operations 
+
+table of contents item b 
+unresolved staff comments 
+none 
+item properties 
+our headquarters and principal administrative  engineering  manufacturing  warehouse and maintenance operations are located in cheswick  pennsylvania 
+we occupy an  square foot facility  which is under a lease that has been extended to march  with the possibility to extend to march we had acquired certain land parcels that surround this facility for possible expansion that we began to sell during  however  we completed the sale of the remaining parcels during we are also a party to a lease agreement for  square feet of space in piscataway  new jersey  which lease commenced on march  and expires april  the piscataway facility provides workspace for the administrative  engineering and services personnel 
+we lease office space in three locations in europe  the largest of which is in bracknell  united kingdom 
+at that location  we lease  square feet of space  primarily for engineers who support our european customer base and customer support personnel 
+this lease expires on december  we also lease  square feet of space in kontich  belgium  under a lease agreement with an initial term that ends on april   which is used primarily by customer support and administrative personnel  however  we expect to terminate this lease in early and are currently working with the landlord to exit this facility 
+lastly  we lease  square feet of space in wuppertal  germany  under a lease which expires on january  this facility is used primarily by sales and customer support personnel 
+item legal proceedings 
+there are currently no outstanding or pending material legal proceedings to which the company or any of its subsidiaries is a party or of which any of their property is the subject 
+item reserved 
+part ii item market for the registrant s common stock  related stockholder matters and issuer purchases of equity securities 
+our common stock is traded on the nasdaq global select market under the symbol tlgd 
+the following table sets forth  by quarter  the high and low sales prices for our common stock for the years ended december  and december  high low high low first quarter second quarter third quarter fourth quarter on february   there were holders of record and  million shares outstanding of the company s common stock 
+we have never paid any dividends on our common stock and do not expect to pay dividends in the foreseeable future 
+
+table of contents during the quarter ended december   the company repurchased the following shares of its common stock d maximum number or approximate c total number of dollar value of shares purchased as part shares that may yet a total number of b average price paid of publicly announced be purchased under period shares purchased per share plans or programs the plans or programs november december on october   the board of directors approved a share repurchase program  pursuant to which the company could repurchase common stock with an aggregate share value of up to million with no expiration date 
+such purchases could be made through open market transactions and privately negotiated transactions at the company s discretion  subject to market conditions and other factors 
+the repurchase program does not obligate the company to acquire any particular amount of common stock and  at the board s discretion  may be suspended  discontinued or modified at any time 
+as of december  and  the company had acquired  and  shares pursuant to this program at a total cost of approximately million and million  respectively 
+the shares that were repurchased are being held for later resale or to be utilized under certain employee benefit programs and are not considered cancelled or retired shares 
+
+table of contents stock performance graph set forth below is a performance graph comparing the cumulative total returns assuming reinvestment of dividends for the five fiscal years ended december  of invested on december  in tollgrade s common stock  the standard poor s composite index and the nasdaq telecomm ixut 
+the performance graph shall not be deemed filed for purposes of section of the securities exchange act of  as amended the exchange act or otherwise subject to the liabilities under that section and shall not be deemed to be incorporated by reference into any of our other filings under the securities act of  as amended or the exchange act 
+performance graph december december december december december december tollgrade nasdaq telecomm ixut s p 
+table of contents item selected financial data 
+the following selected consolidated financial data of the company has been derived from our audited consolidated financial statements 
+the following selected consolidated financial data may not be representative of our future financial performance and should be read in conjunction with the consolidated financial statements  the notes to the consolidated financial statements  and management s discussion and analysis of financial condition and results of operations  which are included elsewhere in this report 
+in thousands  except per share data and number of employees for the years ended december revenues products services total revenue cost of sales products services amortization of intangible assets inventory write down impairment of long lived assets severance total cost of sales gross margin operating expenses selling and marketing general and administrative research and development restructuring severance impairment of long lived assets and goodwill total operating expenses loss income from operations other income  net loss income before income taxes benefit provision for income taxes loss income from continuing operations loss from discontinued operations net loss income weighted average shares of common stock equivalents basic diluted earnings per share information net loss income per common share basic diluted earnings per share information net loss income per common share from continuing operations basic diluted 
+table of contents for the years ended december earnings per share information net loss income per common share from discontinued operations basic diluted balance sheet data working capital total assets pension obligation shareholders equity other data unaudited number of full time employees at year end item item management s discussion and analysis md a of financial condition and results of operations 
+the following discussion should be read in conjunction with the other sections of this annual report on form k  including item business  item selected financial data and item financial statements 
+unless otherwise specified  any reference to a year is to a year ended december additionally  when used in this form k  unless the context requires otherwise  the terms we  our  us and the company refer to tollgrade communications  inc and its subsidiaries 
+certain statements contained in this md a and elsewhere in this report are forward looking statements within the meaning of section a of the securities act of  as amended  and section e of the securities exchange act of  as amended that involve risks and uncertainties 
+these statements relate to future events or our future financial performance 
+in some cases  forward looking statements can be identified by terminology such as believe  expect  intend  may  will  should  could  potential  continue  estimate  plan  or anticipate  or the negatives thereof  other variations thereon or compatible terminology 
+these statements involve a number of risks and uncertainties 
+actual events or results may differ materially from any forward looking statement as a result of various factors  including those described in item a above under risk factors 
+cable product line on may   we completed the sale of our cable product line for consideration of approximately million  subject to adjustment for certain items pursuant to the terms of the sale agreement 
+the cable product line no longer supported our refocused growth strategy and this divesture allows us to continue to focus on our core telecommunications markets and customers 
+unless otherwise indicated  references to revenues and earnings throughout this md a and elsewhere in this form k refer to revenues and earnings from continuing operations and do not include revenue and earnings from the discontinued cable product line 
+similarly  discussion of other matters in our consolidated financial statements refers to continuing operations unless otherwise indicated 
+the results from this divested product line are reported in discontinued operations 
+this divestiture eliminated an unprofitable product line and is expected to result in significant improvements to our future statements of operations and cash flows as we focus on our core markets and customers 
+overview tollgrade communications  inc is a leading provider of centralized test and measurement systems and service offerings to the telecommunications market 
+our products enable service providers to remotely diagnose and proactively address problems in their networks 
+our services and managed services include offerings that complement our product solutions as well as provide customer support and engineering services 
+industry and market trends our traditional product lines and the markets in which we compete faced continued pressure throughout this pressure came through a variety of sources  including shifting customer spending and the economic slowdown  which has impacted capital expense spending and competitive market conditions 
+our traditional customer base continues to minimize spending on legacy areas of their networks 
+this trend has resulted in reduced demand for a number of our copper based products throughout since the end of  the general economic environment has challenged many companies  including our customers 
+service provider spending continues to be focused on next generation networks and services  with voip  iptv  and mobile data at the forefront 
+spending in test and measurement is equally focused in 
+table of contents these areas with reduced spending on legacy networks 
+in the downturn  our customers  the service providers  have delayed capital expense decisions while they wait for the economy to recover and their own businesses to stabilize 
+competitively  our solutions have historically consisted of hardware and software combinations 
+over the past years  competitors have introduced low cost hardware solutions  software only solutions  as well as integrated test capabilities within infrastructure products 
+we have also seen consolidation in the test and measurement market with the ixia purchase of catapult communications and jds uniphase corporation s announced purchase of the telecommunications test and measurement division of agilent technologies  inc these transactions increase the competitive pressure in the market as they sell a broader portfolio of products 
+there is also a trend in the telecommunications market to outsource functions to companies that specialize in different areas to attain cost reductions and  in some cases  improve service 
+our customers have approached this in two ways 
+first  a small number have outsourced their entire network operations to large managed services providers 
+second  certain of the larger service providers are beginning to consolidate vendor relationships to a select group of vendors and feed smaller suppliers through the larger vendor relationships 
+this trend affected us in december when verizon  a major customer  decided not to renew its direct contract with us for post warranty maintenance service  but instead  consolidated several vendor relationships through a single large global network equipment manufacturer 
+in addition  we have certain other customers that now purchase their maintenance through contracts with larger  third party suppliers 
+this practice can create additional pricing pressure as the intermediary vendor looks to make a profit by managing the complexity for the service provider 
+our responses to these industry trends in response to these conditions and trends  we have taken decisive action to reinforce our position with our customers while also exploring new markets for growth 
+we have focused on improving our already strong customer relationships while aggressively containing costs 
+we continue to provide excellent customer support and enhanced capabilities to our customers and are focused on retaining and extending our software support and maintenance contracts 
+while the service providers actively manage their own capital expense budgets  we have reduced our cost structure to ensure that the impacts to our financial results are minimized 
+we continue to focus on managing and growing our cash and short term investment balance to enable future investment options 
+we have also redirected our spending activities toward new growth initiatives versus maintenance efforts 
+some of these growth areas include new hardware  software and services offerings for the telecommunications service assurance market 
+our new offerings recently launched and under development include a software platform  stratum  that can be sold stand alone or as part of a service assurance system solution  hardware products that integrate into our service assurance solutions  and oem products that will be sold and supported under the tollgrade brand name 
+in the power utility market  we see a convergence of thought toward a smart network architecture that can help limit the negative impacts of expanding power production while offering additional control and capabilities to customers and utilities to manage their networks  homes and businesses 
+this smart grid architecture is rapidly evolving through the efforts of forward looking utilities coupled with companies offering innovative new products to enable the utility infrastructure revolution that seems to be required 
+more than billion of stimulus funding was awarded by the us department of energy to more than recipients for investment in smart grid projects with over billion of public and private investment projected 
+our focus in this market is on our current customer trial activity with a large us power utility 
+lastly  we have created a new area of opportunity through our managed services contract with ericsson 
+we now have the expertise to provide a new suite of managed services not only to our service provider customers  but also to additional network equipment manufacturers  thus expanding our target market 
+we believe this new platform will provide new growth opportunities and enable us to effectively respond to our customers trend in an area that builds upon our expertise and experience in test and measurement 
+in the short term  we are leveraging strategic oem relationships 
+our oem arrangements allow us to expand our system solutions into adjacent market segments with the tollgrade name  while reducing our investment and time to market 
+in  we entered into an oem arrangement with mariner partners  inc  whereby we will market and sell a customized version of their xvu offering  a real time quality of experience test solution for iptv services  which will be integrated into our stratum platform 
+we also signed an oem agreement with accanto systems  whereby we will be able to market and sell their suite of products under our brand name on an exclusive basis in certain territories 
+for  our primary focus has turned to strengthening our business and delivering improved results 
+in building our plan for  we had three guiding principles first and foremost  ensure profitability  second  minimize resources and spending on legacy products to allow for focused investments  and third  align the business around growth initiatives and focus our resources on near term opportunities 
+our near term growth opportunities include the new customer projects  managed services  lighthouse  stratum and software application projects  our oem offerings and exploring strategic acquisitions 
+
+table of contents results of operations for the year ended december  compared to the year ended december  revenue change system test products mcu other total products services total revenues our total revenues for the year ended december  were million  a decrease of million  or  compared to our total revenues of million for the year ended december  for the full year  our total product revenues amounted to million compared to million for the same period  a decrease of million or 
+however  our full year service revenues increased to million  a million or a increase over the same prior period 
+the decline in our product line revenue of million is primarily due to a decline in most of our legacy test product lines and our mcu products 
+our systems test products include the product families of digitest  ldu and n x test and associated software applications and license fees 
+revenues for system test products in  were million  a decrease of approximately million  or from the same prior year period 
+our systems test product line revenues decreased in primarily as a result of the conclusion of certain international projects involving digitest products in the systems test product line revenue accounted for of total revenues compared to of total revenues 
+in addition  sales of our mcu product line in were million  compared to million in the previous year  which represents a decrease of approximately million  or 
+although our mcu product line still provided a meaningful contribution to revenue in  this is a very mature product line whose future sales are hard to predict due to the large domestic carriers limiting capital spending in their traditional pots networks  and the evolution of the transmission network toward end to end fiber 
+our mcu product line accounted for approximately of our total revenues compared to of our total revenues 
+lastly  our other revenue for is comprised of approximately million in revenue from oem and lighthouse sales as we had no sales in either of these product lines in our product revenues accounted for of our total revenues for compared to of our total revenues for our services revenue consists primarily of software maintenance for tel and celerity ltsc  and loopcare  project management fees  repair work and managed services 
+in  our full year service revenue was approximately million compared to million in the same period 
+the increase in is primarily due to our new managed services contract with ericsson that closed in april of and added million of new revenues which was offset by lower service revenues related to loopcare 
+services revenues accounted for approximately of our total revenues for compared to of total revenues 
+gross margin our gross margin was a negative million compared to million for the same period  a decrease of approximately million 
+our gross margin decrease of million is primarily related to long lived asset impairments of million  which included the fourth quarter write down of our loopcare intangible asset that amount to approximately million  a third quarter inventory write down of approximately million that primarily related to slow moving and obsolete legacy product inventory  and severance costs that amounted to approximately million 
+selling and marketing expenses change employee costs travel expenses professional fees other total our selling and marketing expenses consist primarily of employee costs  which include salaries  benefits and commission expenses  consulting fees and travel expenses of direct sales and marketing personnel and other expenses which individually are not material 
+our selling and marketing expenses of million for and were flat year over year 
+the increase in employee costs in 
+table of contents is primarily due to the addition of sales and business development employees in the fourth quarter of to bolster our sales efforts in certain markets and in recently announced product offerings 
+the decrease in travel costs and professional fees of approximately million and million is primarily related to our overall cost reduction efforts that occurred throughout general and administrative expenses change employee costs professional fees bad debt stock compensation other total our general and administrative expenses consist primarily of employee costs  professional services  bad debt expenses  stock compensation expenses and other expenses which individually are not material 
+for the full year ended december   our general and administrative expenses were million  or a million increase over the same period 
+the million increase is primarily attributable to a million bad debt expense recorded in the third quarter of related to one of our large international contracts whose collectability was deemed to be uncertain  additional legal expenses and professional service fees of approximately million in connection with the contested election of directors and fees related to potential acquisition candidates that were not pursued beyond the due diligence stage  and million in additional stock compensation expenses due primarily to restricted stock awards granted our non employee directors in the fourth quarter of pursuant to the non employee director compensation program adopted by the board in october these non employee director awards offset substantial reductions in director cash compensation and meeting fees going forward 
+research and development expenses change employee costs professional services depreciation other total our research and development expenses consist primarily of employee costs  professional service expenses  depreciation expense and other costs associated with the development of new product initiatives  such as our lighthouse and stratum initiatives  along with maintaining and upgrading our current product lines which individually are not material 
+our research and development expenses for the full year ended december  were million  or a million decrease  over the same period 
+the decrease in our research and development expenses for is primarily related to reductions in the work force  reduced consulting and professional fees and lower depreciation expenses due to reduced capital spending 
+severance expense severance expense primarily consists of wages  benefits and outplacement costs at a time when an employee is terminated 
+in  we had three instances where we reduced and re aligned our work force to reduce costs and to further streamline and improve our business 
+during the third quarter of  we developed a plan to significantly reduce and restructure our workforce across all levels of the organization in an effort to reduce costs and to better align our human resources to match ongoing revenue streams 
+the total severance associated with this action was million of which million was recorded to cost of sales while million was recorded as an operating expense 
+in addition  in the third quarter of  we also incurred a million charge related to the departure of our former chief financial officer 
+during the first and second quarters of  we implemented certain initiatives aimed at increasing efficiency and decreasing costs  which included reductions in our professional services  operations and marketing staff 
+severance expense associated with these actions was million 
+cash payments related to the aforementioned actions were million in as of december   we had million accrued on our balance sheet related to this action  which was paid in early during the first quarter of  we reduced our engineering and senior management staff  made changes to our field service and sales staffing  and realigned existing resources to new projects 
+the severance costs associated with this program amounted to approximately million 
+in addition  we incurred severance costs in the fourth quarter related to the separation of two senior executives and one other executive that amounted to approximately million 
+all cash payments related to this action have been paid in and no further expense is expected 
+
+table of contents long lived asset impairments we perform impairment reviews on our long lived assets upon a change in business conditions or upon the occurrence of a triggering event 
+in mid december  we learned that verizon  a major customer of our loopcare post warranty software maintenance services  would not renew its direct contract with us for those services following the contract s expiration date on december   but would instead consolidate its purchase of maintenance services including loopcare and tel post warranty services through a single large supplier 
+we are currently in discussions with the supplier for the continuing provision of the loopcare post warranty maintenance services to verizon 
+however  based on this triggering event we evaluated the carrying value of the intangible asset related to our loopcare post warranty intangible asset using an undiscounted cash flow model  and determined the asset to be impaired 
+we then performed a valuation on this asset to determine its fair value 
+through this valuation process  we determined that the fair value of this asset approximated million compared to its current carrying value of million and  as such  took an impairment charge of approximately million in the fourth quarter of in addition  through this valuation process  we determined that a fifteen year life  instead of life of approximately forty six years  on this asset is more indicative of current market and technological conditions  as well as the anticipated future ability to extend existing maintenance agreements 
+earlier in the year  we also recorded a million charge for impairments in various other long lived assets 
+in we determined that certain long lived assets  primarily related to assets acquired as part of our emerson acquisition  were impaired and an impairment loss of million was recorded to reflect these assets at their fair market value 
+other income  net other income  which consists primarily of interest income  was million for  compared to million for the million decrease in other income is due primarily to lower interest yields on our investment balances due to the overall decline in economic market conditions 
+benefit provisions for income taxes for the year ended december   we recorded a total income tax benefit of approximately million 
+the primary reason for this income tax benefit was the million benefit associated with the impairment of our loopcare intangible asset  whereby we reduced a deferred tax liability on our balance sheet 
+this benefit was offset by income tax expenses primarily related to foreign income tax obligations generated by profitable operations in certain foreign jurisdictions 
+this compares to the same period whereby we recorded million of income tax expenses primarily related to foreign tax obligations generated by our profitable foreign jurisdictions  as well as adjustments to reserves for uncertain tax positions in all jurisdictions 
+additionally  we continued to record a valuation allowance against us federal  certain foreign and certain state net operating losses incurred in as the tax benefit was deemed more than likely not to be realizable in future periods 
+loss from continuing operations and loss per share from continuing operations for the year ended december   our net loss from continuing operations was approximately million compared to a net loss of million from continuing operations for the year ended december  for the reasons stated above 
+our basic and diluted loss from continuing operations per common share was for versus a loss of for diluted weighted average shares of common stock and equivalents outstanding were million and million in and  respectively 
+
+table of contents results of operations for the year ended december  compared to the year ended december  revenue change system test products mcu total products services total revenue our total revenues for the year ended december  were million  a decrease of million  or  compared to our total revenues of million for the year ended december  for the full year  our total product revenues amounted to million compared to million for the same period  a decrease of million or  however  our full year service revenue increased by million to million from million in the same period 
+the decline in our product line revenues of million is primarily due to the decrease in our legacy test product lines as well as our mcu product lines 
+our systems test product revenues for  which include the product families of digitest  ldu and n x test and associated software applications and license fees  were million  a decrease of approximately million  or from the prior year 
+our systems test product line revenue decreased in primarily as a result of significant revenue from certain international projects involving digitest products at the end of this decline was offset  in part  by increased sales of ldu products and software applications in both international and domestic markets and our first domestic sale of the digitest ice product in the systems test product line revenue accounted for of revenue compared to of revenue 
+during  we continued to experience lower sales to independent carriers than those experienced in due to changes in network deployment architecture 
+sales of our mcu product line in were million  compared to million in the previous year  which represents a decrease of approximately million  or 
+while the mcu is a mature product  it continued to provide meaningful contribution to revenue in the decline in mcu revenue was primarily due to the non recurrence of a large project in one of our major domestic carriers  as well as lower capital spending by our customers in traditional pots networks 
+the mcu product line accounted for approximately of revenue compared to of our revenue 
+our services revenue consists of installation oversight and product management services provided to customers and fees from software maintenance agreements 
+services revenue was approximately million in compared to million in the increase in is largely due to the inclusion of a full year s revenue contribution from contracts acquired from the btd acquisition 
+services revenue accounted for approximately of revenue  compared to of revenue 
+gross margin our gross margin for was million compared to million for  a decrease of approximately million  or  from the previous year 
+gross profit as a percentage of revenue decreased to for from for the decrease in gross profit was due primarily to the approximate decline in revenue and a change in the product sales mix 
+additionally  gross profit for included charges related to impairments of certain intangible assets as well as inventory obsolescence charges associated with our move to two new contract manufacturers from a former contract manufacturer 
+both of these charges totaled approximately million 
+selling and marketing expenses change employee costs travel expenses professional fees other total our selling and marketing expenses consist primarily of employee costs  which include salaries  benefits  and commission expenses  travel expenses of direct sales and marketing personnel  and professional fees and other expenses which individually are not material 
+our overall  selling and marketing expenses for were million  or of revenue  compared to million  or of revenue for the decrease in selling and marketing expenses is primarily due to reductions in the work force which occurred in 
+table of contents early and declines in travel related expenses  consulting fees and stock compensation expenses  which is included in other expenses 
+general and administrative expenses change employee costs professional fees stock compensation other total our general and administrative expenses consist primarily of employee costs  which include salaries and benefits for finance  administrative and general management personnel  professional fees which consist primarily of accounting  legal and insurance expenses  stock compensation expenses and other expenses which individually are not material 
+for the year ended december   our general and administrative expenses for were million  or approximately of total revenue compared to million  or of total revenue for the decrease of million in our general and administrative expenses is primarily attributable to the reversal of stock compensation expense in related to forfeiture of performance based restricted shares that were granted to certain members of management in partially offset by the increase in professional fees of million 
+research and development expenses change employee costs professional services depreciation other total our research and development expenses consist primarily of employee costs  professional services  depreciation expense and other costs associated with the development of new product initiatives  such as our lighthouse product line along with maintaining and upgrading our existing product lines  which individually are not material 
+our research and development expenses were comparable for and as our expenses in this area were million and million  respectively 
+severance expense during  we reduced our engineering and senior management staff  made changes to our field service and sales staffing  and realigned existing resources to new projects 
+the severance costs associated with this program amounted to approximately million 
+all cash payments related to this action have been paid in and no further expense is expected 
+during the fourth quarter of  our former chief executive officer and president and two other senior executives terminated employment with us 
+the costs associated with these separations amounted to approximately million 
+an additional cost of million was recorded for employee severance costs in relation to other restructuring activity 
+all cash payments related to this action have been paid in and no further expense is expected 
+long lived asset impairments due to a decline in the trading price of our shares during the fourth quarter of along with lower projected revenues for  we reviewed our goodwill carrying balance at the end of and found the entire remaining carrying balance to be impaired and thus recorded a non cash charge of approximately million in the fourth quarter of in addition  certain other indefinite lived assets were reviewed and also found to be impaired  thus we incurred additional an impairment charge of approximately million in the fourth quarter of 
+table of contents other income  net other income  which consists primarily of interest income  was million for as compared to million for the million decrease in other incomes is primarily a result of lower interest yields on our investment balances due to the overall decline in economic conditions in provisions for income taxes for the years ended december  and  our income taxes provision was approximately million and million  respectively 
+during and  the provision for income taxes was primarily related to foreign income tax obligations generated by profitable operations in certain of our foreign jurisdictions  as well as adjustments to reserves for uncertain tax positions in all jurisdictions 
+additionally  we continued to record a valuation allowance against us federal  certain foreign and certain state net operating losses incurred in and as the tax benefit was deemed more likely than not to be unrealizable in future periods 
+loss from continuing operations and loss per share from continuing operations for the year ended december   our loss from continuing operations was approximately million compared to a net loss of million from continuing operations the year ended december  for the reasons stated above 
+our basic and diluted loss from continuing operations per common share was for versus a loss of for diluted weighted average shares of common stock and equivalents outstanding were million and million in and  respectively 
+liquidity and capital resources we have historically met our working capital and capital spending requirements  including the funding for expansion of operations  product developments and acquisitions  through net cash flows provided by operating activities 
+our principle source of liquidity is our operating cash flows and cash on our balance sheet 
+our cash  cash equivalents and short term investments are unrestricted and available for corporate purposes  including acquisitions  research and development and other general working capital requirements 
+in addition  there are no material restrictions on our ability to transfer and remit funds among our international affiliated companies 
+our cash and cash equivalents and short term investments increased to million at december  from million at december  the increase in cash and cash equivalents and short term investments from december  is largely attributable to positive cash flow from operations and proceeds received from the divesture of our cable product line which were offset by capital expenditures and the repurchase of our common shares under our board approved stock repurchase plan 
+we believe we have sufficient cash balances to meet our cash flow requirements and growth objectives over the next twelve months 
+excluding discontinued operations  we had working capital of million as of december   a decrease of million  or  from the million of working capital as of december  overall  we generated cash from operating activities of million in compared to million in the million decrease in cash flow from operating activates is primarily attributable to the overall reduction in net working capital 
+in  we generated cash from operating activities of million compared to million in the decrease in cash flow is attributable to payments in related to certain inventory components  warranty items and royalty obligations that had grown in excluding discontinued operations  cash provided by investing activities in was approximately million and included approximately million in proceeds and note repayments received from the divestiture of our cable product line  redemptions of short term investments in the amount of million offset by million in acquired assets along with capital expenditures of million 
+this compares to the same period in which we had cash used for investing activities of approximately million  whereby we purchased net short term investments of million and incurred capital expenditures of approximately million 
+capital expenditures  including capitalized software  were million  million and million in the years ended december   and  respectively 
+planned capital expenditures for are in the range of million to million 
+we were party to a three year million unsecured revolving credit facility  which expired in december we believe that our cash balances are sufficient to meet our obligations in the near future and  on that basis  decided not to renew the credit facility when it expired 
+the decline in global economic conditions that began in had an adverse effect on the performance due to lower yields on our investment portfolio 
+interest income for the year ended december  was million compared to million and million for the years ended december  and  respectively 
+on october   our board of directors approved a share repurchase program  pursuant to which the company could repurchase common stock with an aggregate share value of up to million with no expiration date 
+such purchases could be made through 
+table of contents open market transactions and privately negotiated transactions at the discretion of executive management  subject to market conditions and other factors 
+the repurchase program does not obligate us to acquire any particular amount of common stock and  at the board s discretion  may be suspended  discontinued or modified at any time 
+during the fourth quarter of the years ended december  and  we have acquired  and  shares pursuant to this program at a total cost of million and million  respectively 
+the impact of inflation on both the company s financial position and the results of operations have been minimal and did not adversely affect our  and results nor is it expected to adversely affect our results 
+off balance sheet arrangements as a matter of policy  we do not engage in transactions or arrangements with unconsolidated or other special purpose entities 
+commitments and contractual obligations we lease office space and equipment under agreements which are accounted for as operating leases 
+the office lease for our cheswick  pennsylvania facility was extended on september  until march  the lease for our piscataway  new jersey office expires on april  we also have office leases in bracknell  united kingdom  kontich  belgium  and wuppertal  germany  which expire on december   april   and january   respectively 
+in the fourth quarter of  we notified the landlord of our kontich  belgium office that we planned on terminating our lease in early in accordance with the provisions of the lease agreement 
+we are also involved in various month to month leases for research and development and office equipment at all three european locations 
+in addition  all three of the european office leases include provisions for possible adjustments in annual future rental commitments relating to excess taxes  excess maintenance costs that may occur and increases in rent based on the consumer price index and based on increases in our annual lease commitments 
+none of these commitments are material 
+included in the commitment schedule below are certain purchase obligations primarily arising from non cancelable  non returnable agreements with materials vendors 
+additionally  we have arrangements with certain manufacturing subcontractors under which we are contingently obligated to purchase million of raw material parts in the event they would not be consumed by the manufacturing process in the normal course of business 
+this liability has been recorded in the consolidated balance sheet as we have a legal obligation to purchase this inventory as of december  the recording of this obligation in the financial statements did not result in a charge to the consolidated statements of operations as we fully expect to utilize this inventory during the normal course of business 
+minimum annual future commitments as of december  are in thousands payments due by period more than total less than year years years years operating lease obligations purchase obligations uncertain tax obligations pension obligations total our lease expense was million in  million in and million in in addition  we are  from time to time  party to various legal claims and disputes  either asserted or unasserted  which arise in the ordinary course of business 
+while the final resolution of these matters cannot be predicted with certainty  we do not believe that the outcome of any of these claims will have a material adverse effect on the company s consolidated financial position  or annual results of operations or cash flow 
+
+table of contents critical accounting policies our financial statements are prepared in conformity with accounting principles generally accepted in the united states of america 
+the application of certain of these accounting principles is more critical than others in gaining an understanding of the basis upon which our financial statements have been prepared 
+we consider the following accounting policies to involve critical accounting estimates 
+revenue recognition we market and sell test system hardware and related software to the telecommunications industry 
+we follow the revenue recognition accounting guidance for recognizing hardware and software sales 
+this guidance requires  among other things  that revenue should be recognized only when title has transferred and risk of loss has passed to a customer with the capability to pay  and that there are no significant remaining obligations related to the sale 
+the bulk of our hardware sales are made to the former large domestic carriers and european telecommunication and other large customers 
+delivery terms of hardware sales are predominantly fob origin 
+revenue is recognized for these customers upon shipment against a valid purchase order 
+where title and risk of loss do not pass to the customer until the product reaches the customer s delivery site  revenue is deferred unless we can objectively determine delivery occurred before the end of the applicable reporting period 
+we reduce collection risk by requiring letters of credit or other payment guarantees for significant sales to new customers  certain international customers and customers in weak financial condition 
+for perpetual software license fee and maintenance revenue  we follow the accounting guidance for software revenue recognition  which requires that software license fee revenue be recorded only when evidence of a sales arrangement exists  the software has been delivered  and a customer with the capacity to pay has accepted the software  leaving no significant obligations on our part to perform 
+we require a customer purchase order or other written agreement to document the terms of a software order and written  unqualified acceptance from the customer prior to revenue recognition 
+in certain limited cases  however  agreements provide for automatic customer acceptance after the passage of time from a pre determined event and we have relied on these provisions for an indication of the timing of revenue recognition 
+in certain cases for orders of custom software  or orders that require significant software customization  we employ contract accounting using the percentage of completion method  whereby revenue is recognized based on costs incurred to date compared to total estimated contract cost in accordance with the accounting guidance for construction type and certain production type contracts 
+the revenue for orders with multiple deliverables such as hardware  software and or installation or other services may be separated into stand alone fair values if not already documented in the purchase order or agreement and where list prices or other objective evidence of fair value exists to support such allocation  in accordance with the accounting for revenue arrangements with multiple deliverables 
+revenue will not be recognized for any single element until all elements considered essential to the functionality of the delivered elements under the contract are delivered and accepted 
+the recognition of revenue requires certain judgment by management 
+if any undelivered elements  which can include hardware  software or services  are essential to the functionality of the system as defined in the contract  revenue will not be recorded until all of the items considered essential are delivered as one unit of accounting 
+although infrequent  in some situations contingencies will be noted by the customer on the written acceptance 
+in these situations  management will use judgment to determine the importance of such contingencies for recognizing revenue related to the sale 
+our general practice is to defer revenue recognition unless these contingencies are inconsequential 
+our software customers usually enter into separate agreements for software maintenance upon expiration of the stated software warranty period 
+maintenance agreements include software upgrades and bug fixes as they become available  however  newly developed features must be purchased separately 
+post warranty maintenance for new features is either included under the current maintenance agreement without additional charge  and is considered in the maintenance agreement fees  or is separately charged upon expiration of the warranty 
+depending upon the timing of the new feature purchase and the length of the maintenance agreement  we must evaluate whether or not a portion of a perpetual right to use fee should be treated as post contract support to be deferred and recognized over the remaining life of the maintenance agreement 
+software maintenance revenue is recognized on a straight line basis over the period the respective arrangements are in effect 
+revenue recognition  especially for software products  involves critical judgments and decisions that can result in material effects to reported net income 
+intangible assets and goodwill at december   we had net intangible assets of million resulting from the acquisitions of the loopcare product line in september  the test business of emerson in february and the broadband test division of teradyne  inc in august in connection with these acquisitions  we utilized the accounting guidance associated with business combinations  and goodwill and other intangible assets 
+this guidance requires that the purchase method of accounting be used for all business combinations and that goodwill  as well as any indefinite lived intangible assets  not be amortized for financial reporting purposes 
+finite lived intangible assets are amortized on a straight line basis or an accelerated method  whichever better reflects the pattern in which the economic benefits of the asset are consumed or otherwise used 
+software related intangible assets are amortized based on the greater of the 
+table of contents amount computed using the ratio that current gross revenues bear to the total of current and anticipated future gross revenues for that product or the straight line method over the remaining estimated economic life 
+we review our finite lived intangible assets or fixed assets and their related useful lives whenever events or changes in circumstances indicate that the carrying amounts may not be recoverable  including a change in the competitive landscape  any internal decisions to pursue new or different technology strategies  a loss of a significant customer  or a significant change in the market place including changes in the prices paid for our products or changes in the size of the market for our products 
+an impairment results if the carrying value of the asset exceeds the sum of the future undiscounted cash flows expected to result from the use and disposition of the asset or the period of economic benefit has changed 
+if impairment were indicated  the amount of the impairment would be determined by comparing the carrying value of the asset group to the fair value of the asset group 
+fair value is generally determined by calculating the present value of the estimated future cash flows using an appropriate discount rate 
+the projection of the future cash flows and the selection of a discount rate require significant management judgment 
+the key assumptions that management must estimate include sales volume  prices  inflation  product costs  capital expenditures and sales and marketing costs 
+for developed technology  we also must estimate the likelihood of both pursuing a particular strategy and the level of expected market adoption 
+in  we had a significant impairment to one of our intangible assets related to the loopcare product line that was acquired from lucent in at the time of the acquisition  the intangible asset was valued at million  with an indefinite life 
+in  we determined that facts and circumstances which had supported the assignment of an indefinite life to this asset had changed  and we then determined the intangible asset to have a finite useful life of fifty years 
+in the fourth quarter  facts and circumstances relating to the company s loopcare post warranty maintenance service agreements again led us to evaluate the life assigned to this intangible asset  as well as its valuation 
+specifically  in mid december of  we learned that verizon  a major customer of our loopcare post warranty software maintenance services  was not going to renew its direct contract with tollgrade that was due to expire on december  verizon consolidated several vendor relationships through a single large global network equipment manufacturer  including both our loopcare and tel maintenance contracts 
+the loss of the direct contract with verizon was a triggering event for us to evaluate the fair market value of the loopcare intangible asset 
+through our overall evaluation process  which included a valuation  we determined that not only the useful life estimate  but the value of the asset itself  was no longer supported 
+we ultimately determined that the loopcare intangible asset had a fair value of million coupled with a remaining life of fifteen years  versus its remaining carrying value of million dollars and a forty six year remaining life 
+we feel this current fair value and useful life is more indicative of current market and technological conditions and the life of the existing maintenance agreements 
+in we determined that certain long lived assets  primarily related to assets acquired as part of our emerson acquisition  were impaired and an impairment loss of million was recorded to reflect these assets at their fair market value 
+due to a decline in the trading price of our shares during the fourth quarter of along with lower projected revenues for  we reviewed our goodwill carrying balance at the end of and found the entire remaining carrying balance to be impaired and thus recorded a non cash charge of approximately million in the fourth quarter of in addition  certain other indefinite lived assets were reviewed and also found to be impaired  thus we incurred additional an impairment charge of approximately million in the fourth quarter of inventory valuation we utilize a standard cost system that approximates first in  first out costing of our products 
+standards are monitored regularly and changes are made on individual parts if warranted  otherwise standard costs  which include material  labor and overhead  are updated annually  generally in the fourth quarter 
+excess capacity is not included in the standard cost of inventory 
+this standard cost update was performed in and  however  as we transitioned virtually of our in house manufacturing to a third party sub contractor as of december   our inventory cost in will be primarily valued at the purchase price that we will pay the contractor to manufacture our products 
+we evaluate our inventories on a monthly basis for slow moving  excess and obsolete stock on hand 
+the carrying value of such inventory that is determined not to be realizable is reduced  in whole or in part  by a charge to cost of sales and reduction of the inventory value in the financial statements 
+the evaluation process relies in large part on a review of inventory items that have not been sold  purchased or used in production within a one year period 
+management also reviews  where appropriate  inventory products that do not meet this threshold but which may be unrealizable due to discontinuance of products  evolving technologies  loss of certain customers or other known factors 
+as a result of this comprehensive review process  an adjustment to the reserve for slow moving and obsolete inventory is normally made monthly 
+inventory identified as obsolete is also discarded from time to time when circumstances warrant 
+as part of our review process  in and  we wrote down approximately million and million  respectively  primarily related to slow moving and obsolete inventory 
+inventory valuation is considered a critical accounting estimate since it relies in large part on management judgments as to future events and differing judgments could materially affect reported net income 
+
+table of contents allowance for doubtful accounts the allowance for doubtful accounts is based on our assessment of the collectability of customer accounts 
+we regularly review the allowance by considering factors such as historical experience  credit quality  age of the accounts receivable balances  and current economic conditions that may affect a customers ability to pay 
+we recorded a million bad debt reserve in the third quarter of related to one of our large international contracts whose collectability was deemed to be uncertain 
+if a major customer s creditworthiness deteriorates  or if actual defaults are higher than our historical experience  or if other circumstances arise  our estimates of the recoverability of amounts due to us could be overstated  and an additional allowance could be required  which could have a negative impact on our earnings and cash flow 
+income taxes we follow the accounting guidance for income taxes  in reporting the effects of income taxes in our consolidated financial statements 
+deferred tax assets and liabilities are determined based on the temporary differences between the financial statement carrying amounts and the tax basis of assets and liabilities using enacted tax rates in effect in the years in which the differences are expected to reverse 
+we evaluate all remaining deferred tax assets based on our current outlook  and  as of december   all us and certain foreign net operating losses and net deferred tax assets have been eliminated through the recording of a valuation allowance 
+we recognize interest and penalties related to uncertain tax positions in income tax expense 
+on january   we adopted accounting for uncertainty in income taxes 
+the adoption of this interpretation required no material cumulative effect adjustment to be recorded 
+warranty we record estimated warranty costs on the accrual basis of accounting 
+these warranty reserves are recorded by applying the five year historical returns percentage to the current level of product shipments within the agreed upon warranty period 
+the costs associated with servicing these warranties are updated at least annually 
+pension benefits we sponsor defined benefit pension plans for three employees based in germany  one employee based in belgium and two employees based in netherlands in addition to three former employees that were part of our belgium plan 
+accounting for the cost of these plans requires the estimation of the cost of the benefits to be provided well into the future and attributing that cost over the expected work life of employees participating in these plans 
+this estimation requires our judgment about the discount rate used to determine these obligations  rate of future compensation increases  withdrawal and mortality rates and participant retirement age 
+differences between our estimates and actual results may significantly affect the cost of our obligations under these plans 
+in the valuation of this pension benefit liability  management utilizes various assumptions 
+we determine our discount rate based on an investment grade bond yield curve with a duration that approximates the benefit payment timing of each plan 
+this rate can fluctuate based on changes in investment grade bond yields 
+future compensation rates  withdrawal rates and participant retirement age are determined based on historical information 
+these assumptions are not expected to significantly change 
+mortality rates are determined based on a review of published mortality tables 
+stock based compensation we recognize stock based compensation expense for all stock options and restricted stock awards over the period from the date of grant to the date when the award is no longer contingent on the employee providing additional service substantive vesting period 
+we utilize the black scholes valuation method to establish fair value of all awards 
+the black scholes valuation method requires that we make certain assumptions regarding estimated forfeiture rates  expected holding period and stock price volatility 
+foreign currency translation assets and liabilities of our international operations are translated into us dollars using month end or year end exchange rates  while revenues and expenses are translated at average exchange rates throughout the year 
+the resulting net translation adjustments are recorded as a component of accumulated other comprehensive income loss 
+the local currency is the functional currency for all of our locations 
+these areas involving critical accounting estimates are periodically reviewed and discussed with the audit committee of our board of directors 
+
+table of contents recent accounting pronouncements for reference purposes  we list recent accounting pronouncements in 

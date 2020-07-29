@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.7/semantic.min.css">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
+    integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+<link rel="stylesheet" href="static/css/main.css">
+<link rel="stylesheet" href="css/inverted.css">
+
+
+<head>
+    <title>Financial Dataset for Researchers</title>
+    <link rel='icon' href='https://www.iconninja.com/files/303/190/562/business-ratings-icon.png' type="image/png">
+    <style>
+        .pointer {
+            cursor: pointer;
+        }
+    </style>
+</head>
+
+<body style="background-color:#ffffff; ">
+    <nav class="navbar navbar-dark" style="background-color:#2B5BF4;">
+        <a href="/" style="color:white; margin-left: 5vw;">
+            <img src="/media/logo.svg" style="display:block;height:5vh;" />
+        </a>
+
+    </nav>
+    <div class="container">
+        <div class="row" style="margin-top:3vh;">
+            <div class="col-sm-4">
+                <div class="row">
+                    <h2>{{name}}</h2>
+                </div>
+
+                <div class="row">
+                    <h5>Sentence Risk</h5>
+
+                    <div data-tooltip="Low Risk">
+                        <svg width="1.5vw" height="3vh">
+                            <circle cx="10" cy="10" r="5" fill="#fef9ca" />
+                        </svg>
+                    </div>
+                    <div data-tooltip="Meiumd Risk">
+                        <svg width="1.5vw" height="3vh">
+                            <circle cx="10" cy="10" r="5" fill="#ffe795" />
+                        </svg>
+                    </div>
+                    <div data-tooltip="High Risk">
+                        <svg width="1.5vw" height="3vh">
+                            <circle cx="10" cy="10" r="5" fill="#fdcf2d" />
+                        </svg>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <h5>Word Risk</h5>
+                    <div data-tooltip="Low Risk">
+                        <svg width="1.5vw" height="3vh">
+                            <circle cx="10" cy="10" r="5" fill="#FF9494" />
+                        </svg>
+                    </div>
+                    <div data-tooltip="Meiumd Risk">
+                        <svg width="1.5vw" height="3vh">
+                            <circle cx="10" cy="10" r="5" fill="#FF6464" />
+                        </svg>
+                    </div>
+                    <div data-tooltip="High Risk">
+                        <svg width="1.5vw" height="3vh">
+                            <circle cx="10" cy="10" r="5" fill="#FF4848" />
+                        </svg>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-8" style="right:0; overflow-y: scroll; height:100%; ">
+                <div class="table-wrapper-scroll-y my-custom-scrollbar">
+                <table class="ui very basic collapsing celled table", id="dtDynamicVerticalScroll", cellspacing="0"
+                width="100%">
+                    <thead>
+                        <tr>
+                            <th>Risk</th>
+                            <th>Financial Report</th>
+                        </tr>
+                    </thead>
+                    <div class="if/else" style="margin-top:3vh;">
+                        {% for sent_risk, sent in report.items %}
+                        <tr onclick="getinfo(this)">
+                            <td>{{sent_risk}}</td>
+                            <td>
+                            {% if sent_risk > 0.8 %}
+                                <span style="background-color: #fdcf2d">
+                                {% for s,v in sent.items%}
+                                {{s}}
+                                {% endfor %}
+                                </span>
+                            {% elif sent_risk > 0.6 %}
+                                <span style="background-color: #ffe795">
+                                    {% for s,v in sent.items%}
+                                    {{s}}   
+                                    {% endfor %}
+                                </span>
+                            {% elif sent_risk > 0.4 %}
+                                <span style="background-color: #fef9ca">
+                                    {% for s,v in sent.items%}
+                                    {{s}}  
+                                    {% endfor %}
+                                </span>
+                            {% else %}
+                                {% for s,v in sent.items%}
+                                {{s}}
+                                {% endfor %}
+                            {% endif %} 
+                            </td> 
+                        </tr>
+                        {% endfor %}
+                    </div>
+                </tbody>   
+                </table>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.7/semantic.js"></script>
+
+
+    <div class="ui  modal" id="line" style="text-align: center; height:70vh;">
+        <div class="header">Event Unit Setting</div>
+        <div class="content">
+            <div class="modal-body" id='txt_item'></div>
+        </div>
+    </div>
+</body>
+
+<script>
+var index_report = "{{ index_report }}";
+var sent = 0;
+function getinfo(x) {
+    var idx = x.rowIndex;
+    var s = "{% for s,v in input_report.items%}"
+    s +="{% if v > 0.8 %} {{s}}"
+    s +="{% elif v > 0.6 %} {{s}}"
+    s +="{% elif v > 0.4 %} {{s}}"
+    s +="{% else %} {{s}}"
+    s +="{% endif %}"    
+    s +="{% endfor %}"
+    $("#txt_item").val(s);
+    $('#line').modal('show');
+    
+}
+</script>
+<style>
+    .my-custom-scrollbar {
+        position: relative;
+        height: 650px;
+        overflow: auto;
+    }
+    .table-wrapper-scroll-y {
+        display: block;
+    }
+</style>

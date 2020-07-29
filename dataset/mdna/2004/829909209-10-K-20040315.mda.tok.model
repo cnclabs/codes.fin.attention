@@ -1,0 +1,799 @@
+item management s discussion and analysis of financial condition and results of operations in this document 
+the terms sipex  the company  we  us  its and our as used in this annual report on form k refer to sipex corporation and its subsidiaries and its predecessors as a combined entity  except where the context requires otherwise 
+availability of reports and other information our internet website is www 
+sipex 
+com 
+on this web site  the public can access our annual  quarterly and current reports free of charge through a hyperlink to the securities and exchange commission website as soon as reasonably practicable after we electronically file such material with  or furnish such material to  the securities and exchange commission 
+sipex intends to satisfy the disclosure requirements under item of form k regarding amendment to  or waiver from  our code of ethics by posting such information on our website at www 
+sipex 
+com  provided such method of disclosure is then in compliance with the rules of the nasdaq national market and the rules of the securities and exchange commission 
+company overview sipex was incorporated in may under the laws of the state of massachusetts 
+effective october  we changed our state of incorporation from massachusetts to delaware 
+sipex designs  manufactures and markets  high performance  analog integrated circuits ics that are used primarily by original equipment manufacturers  or oems  operating in the computing  consumer electronics  communications and networking infrastructure markets 
+some of the end product applications that contain our ics are cellular phones  base stations  computers  dvd players  and digital cameras 
+while advances in digital technology have fueled the demand for digital integrated circuits  they have also created a demand for more precise  faster and more power efficient analog ics 
+we possess a broad portfolio of analog ics  organized into three product families power management  serial interface and optical storage 
+our wafer fabrication facility in milpitas  california along with a number of third party contractors fabricate  package and test our ics 
+our products are sold either directly or through a global network of manufacturers representatives and distributors 
+semiconductor industry background integrated circuits  the essential building blocks of today s electronic products  are classified as either digital or analog ics 
+digital ics eg memory products  microprocessors and digital signal processors  or 
+table of contents dsps  process binary signals composed of strings of s and s 
+often they are constrained by market based standards and depend on a company s ability to design and manufacture very large scale circuits  using expensive  state of the art process technologies that minimize device size 
+analog ics act as the bridge between the digital world and physical world 
+they transform signals derived from the physical environment  such as heat  pressure  sound and light  or monitor and condition analog signals derived from external electronic inputs 
+by contrast with digital ics  analog ics are most often designed and optimized for specialized applications in niche markets 
+their development and successful market adoption require close customer contact and the deployment of small  tightly coordinated teams of experienced and highly skilled engineers who understand the complexities of the ic and understand the interrelationships with its layout  process technology  packaging and end application 
+analog and digital ic manufacturers often share the characteristics of the semiconductor industry including cyclical market demands  capacity limitations  oversupply conditions  manufacturing variation  accelerated product life cycles  price erosion  global competition  requirement for capital equipment expenditures and rapid technology changes 
+product life cycles in the analog ic market  with some exceptions  tend to be longer and customer pricing less volatile because competition  particularly foreign competition  is more limited and customers avoid major changes in the analog portions of their products due to the design complexities involved and the volume of the product used in a typical application 
+the capital expenditures for analog ic manufacturers are typically lower because analog ics usually consume less silicon area and their fabrication processes are focused on device matching and careful layout and do not require frequent and expensive equipment upgrades or replacements to remain competitive 
+sipex s business strategy we supply our customers in target markets with an array of standard product choices as well as custom products  which compete on the basis of features  performance and competitive pricing 
+sipex maintains close working relationships with strategic customers 
+we believe that our relationships enable us to create and follow future directed product and technology roadmaps  and shorten our customers product development cycles 
+in addition  we have restructured our operations during and to reduce costs and improve quality 
+sipex markets  applications and products we sell products into a variety of applications and markets including networking and communications  computer and peripherals  industrial controls and instrumentation  and consumer products 
+the customer end products in these markets are driven basically by the same requirements higher operating efficiency  higher accuracy  more power at lower voltages  faster data transfer and higher bandwidth 
+these requirements provide opportunities for sipex to develop power management  serial interface and optical storage ics with features designed for applications  ranging from power modules in routers to pick up heads in cd dvd systems 
+we currently support approximately one thousand ics in three product categories 
+these products  whether custom or proprietary  are designed for specific end applications that require unique feature sets  specific electrical performance criteria speed  precision  power  etc  and or additional system level integration 
+we focus on developing these products as standard analog ics in order to serve larger markets and reduce the risk of dependency on single customer requirements 
+power management products these ics regulate  control  monitor or provide the reference voltage for a system or portion of a system 
+dc dc regulators and pulse width modulation pulse frequency modulation controllers convert voltage up or down within a system and provide a controlled level of power to the system  independent of normal operating load  line and temperature fluctuations 
+supervisory ics monitor power levels and notify controller ics of out of range power conditions 
+voltage references establish benchmark voltages within a system and provide constant outputs independent of temperature and other operating variations 
+within this product category  sipex develops white light emitting diode led drivers needed in virtually every consumer portable device 
+this product family is replacing the electroluminescent lamp driver family  
+table of contents which developed high voltage alternating current ac signals from low voltage battery sources that provides backlighting for liquid crystal displays lcds 
+the power management product portfolio continued to expand in with proprietary ics including white led drivers  dc dc regulators and controllers 
+these new products deliver improved power efficiency  increased miniaturization and more power at lower voltage levels to portable power and distributed power applications 
+interface products interface products facilitate the transfer of digital signals between or within electronic systems and ensure reliable connectivity between networks  computers and the rapidly expanding mix of digital peripherals and consumer portable devices that connect to them 
+the single protocol rs and rs transceivers comply with international standards in delivering multi channel digital signals between two systems 
+the multi protocol transceivers enable network equipment to communicate with a large population of peripherals that use a diverse set of serial protocol standards without the added burden of multiple add on boards and cables 
+the focus on lower voltage to conserve energy has made our low voltage  serial interface ics popular in a variety of digital peripherals including data cables for pdas  cellular phones and digital cameras 
+multi protocol ics continue to be used in networking and telecommunications equipment 
+optical storage products the optical storage product family  a recent addition to the sipex product portfolio  started shipping in volume during the second quarter of this product family provides complete electronic solutions for pick up heads used in optical storage systems  such as cd and dvd devices 
+optical storage products tend to have shorter design cycles  time to volume and product lives than interface and power management products 
+optical storage products consist of photo detector ics  advanced power control ics and laser diode drivers 
+the photo detector ics capture a portion of the light reflected from the optical storage medium  convert it to a set of electronic digital signals and forward them to the chipset for processing 
+the reflected light contains both data and tracking information 
+the advanced power control ics capture a portion of the optical power coming from the laser and feed it back into a control system that regulates laser intensity 
+this control function is used to prevent damage to the laser diode and extend the life of the system 
+for both of these functions  we have developed technology that permits the photo detection functions to be incorporated with their signal conditioning circuitry 
+this functional integration enables faster read speeds and smaller footprints in dvd r w  dvd ram and cd r w systems 
+sipex has developed a family of laser diode drivers that control the laser diode in the pick up head 
+our devices are designed to drive two lasers at high speed 
+this will allow the customer to build a nm and nm system on one pick up head for combo cd dvd devices 
+we introduced our first product in this product family during sales  distribution and marketing sipex sells its products to oem customers primarily through our distributor network  as well as through a direct sales force and a network of independent sales representatives 
+the direct sales force consists of regional sales managers and field applications engineers who support our sales representatives  distributors and customers with technical support services 
+our sales staff and field application engineers also manage  train and support our network of distributors and representatives 
+the sales and field applications staff are located in our billerica  massachusetts and milpitas  california facilities and in field offices in china  france  germany  japan  korea  taiwan and the united kingdom see note for segment export sales and major customers 
+most of our sales are generated through the worldwide distributor network 
+most of our design win activity is generated through our wide network of independent representatives and through our direct sales force 
+design wins are decisions by customers to include our products as a component of the designs for their own future products 
+
+table of contents future electronics inc future  a related party  is our exclusive distributor for north america and europe 
+it is also our largest distributor worldwide  and accounted for  and of total net sales  for the years ended december   and  respectively 
+before adjustment for the charge related to the fair value of debt conversion rights  discussed in note to the consolidated financial statements  future represented of total net sales for see item for a discussion of non gaap measures 
+we have a distributor agreement that provides for future to act as our sole distributor for certain products within north america and europe 
+sales to this distributor are made under an agreement that provides protection against price reduction for its inventory of our products 
+we maintain a separate price list for products sold to future  which is generally different from the prices charged to customers in direct sales transactions 
+on a quarterly basis  this distributor is permitted to return for credit up to of its total purchases during the most recent three month period 
+we recognize revenue on sales to future under the distribution agreement when it sells the products through to the end customer 
+for sales to all other distributors and end customers we recognize revenue upon shipment 
+as of december   affiliates of future held approximately million shares of our common stock  or approximately  of our outstanding common stock 
+during february  the affiliates of future exercised the conversion rights to convert their notes into an additional million shares of our common stock  bringing the total ownership to million shares see note for related parties  or approximately of our outstanding capital stock as of march  in asia  we sell products through a number of distributors 
+distributor sales to this region in  and were approximately million  million and million  respectively  representing  and  respectively  before adjustment for the charge related to the fair value of debt conversion rights  as discussed in item all sales to these international locations are denominated in us dollars 
+we maintain separate price lists for products sold to distributors  which typically reflect discounts from the prices charged to customers in direct sales transactions  but generally do not provide price protection to these distributors on items that are included in their inventory 
+during on a semi annual basis  these asia distributors except japan were permitted to return for credit against product purchases of an equivalent dollar value  up to of their total purchases during the most recent six month period 
+our distributors in japan may return up to of their total purchases on a quarterly basis 
+effective in the first quarter of  all distributors may return products on a three month cycle 
+we are subject to normal semiconductor market seasonality and are subject to the normal risks of conducting business internationally  including exchange rate fluctuations 
+to date  we have not hedged the risks associated with fluctuations in exchange rates but may undertake such transactions in the future 
+our marketing team develops long term product and technology roadmaps based on first hand market knowledge  close customer relationships  industry experience  and a variety of public and private market data 
+detailed technical information in the form of data sheets  application notes and tutorials is posted on our website and a variety of technical and sales materials are published and distributed to customers  sales representative and distributors 
+sipex engages in print advertising to raise market awareness of our products and services 
+customers our customer base is comprised of industrial distributors  original equipment manufacturers oems  original design manufacturers odms  and electronic manufacturing services companies ems 
+industrial distributors provide logistical and supply chain services to their customers 
+the oems and odms use our products as components in their equipment and systems 
+in certain cases  we sell our products to ems companies who buy our products and use them in the systems and subsystems they manufacture for oems and odms 
+the end users of our products include cisco systems  dell computer  hewlett packard  ibm  nortel networks  siemens ag and toshiba 
+see also our disclosure regarding future  our exclusive distributor for north america and europe under sales  distribution and marketing above 
+
+table of contents backlog our product backlog was approximately million at december  compared to million at december  the decrease in sipex s backlog as of december  was primarily due to the phase out of legacy products  such as hybrid and electroluminescent display driver el 
+we generally include in backlog all orders scheduled for delivery within one year 
+however  our business  and to a large extent the entire semiconductor industry  is characterized by short term orders and shipment schedules 
+sipex generally permits orders to be canceled or rescheduled without significant penalty to customers 
+as a result  the quantities of our products to be delivered and their delivery schedules may be revised by customers to reflect changes in their needs 
+since backlog can be canceled or rescheduled  our backlog at any time is not necessarily indicative of future revenues 
+in addition  due to the high percentage of our sales going through the distributors channel  our backlog may be affected by inventory levels at our distributors 
+manufacturing sipex has a wafer fabrication facility in milpitas  california which supplies most of our product needs except for the optical storage products and certain power products requiring more advanced process technologies 
+this wafer fabrication facility commenced manufacturing operations in the second half of  and was used to produce both four inch and six inch diameter wafers 
+the lease for the four inch wafer facility  located in san jose  california  was assumed by an unrelated third party in early as a part of sipex s restructuring initiative 
+at the end of december of  we ceased all test operations in billerica  massachusetts and transferred those operations to the subcontractors in asia 
+our manufacturing capabilities are broadened by using third party foundries to produce complementary metal oxide semiconductor cmos processed wafers and bicmos processed wafers 
+the use of third party foundries enables us to minimize fixed costs and capital expenditures while providing access to diverse manufacturing technologies without bearing the full risk of obsolescence 
+all of these foundries have been certified as iso compliant 
+production by third party foundries represented approximately   and of sipex shipments in  and  respectively 
+in  we entered into an exclusive sourcing arrangement with polarfab on certain products in return for favorable pricing  delivery and engineering support 
+we did not experience parts shortage conditions in sipex tests integrated circuits or die on the wafers produced internally and by its foundries for compliance with performance specifications before assembly 
+our commercial products are assembled and tested by a variety of subcontractors in asia which have been certified as iso  tl compliant 
+following testing  the packaged units are shipped directly from our subcontractors to our customers worldwide 
+product quality assurance and reliability sipex is committed to customer satisfaction and continuous improvement in all aspects of its business 
+this is accomplished through a comprehensive quality and reliability system founded on documented procedures 
+quality tools such as statistical process control  cross functional teaming and advanced statistical analysis are used in qualification  production processes and quality improvement activities 
+we maintain close relationships with our subcontractors and routinely qualify suppliers to established standards 
+sipex is iso certified and has continuously maintained its iso certification since patents  licenses and trademarks we seek to protect our proprietary technology through patents and trade secret protection 
+currently  we hold a number of patents expiring between now and and have additional united states patent applications pending  although there can be no assurance that any patents will result from these applications 
+while we intend to continue to seek patent coverage for our products and manufacturing technology where appropriate  we believe that our success depends more heavily on the technical expertise and innovative abilities of our personnel than on our patent position 
+accordingly  we also rely on trade secrets and confidential technological know how in the conduct of our business 
+there can be no assurance that our 
+table of contents patents or applicable trade secret laws will provide adequate protection for our technology against competitors who may develop or patent similar technology or reverse engineer our products 
+in addition  the laws of certain territories in which our products are or may be developed  manufactured or sold  including asia  europe and latin america  may not protect our products and intellectual property rights to the same extent as the laws of the united states of america 
+pursuant to license agreements  sipex pays a royalty to maxim integrated products and analog devices for certain interface product sales 
+we also paid a royalty to timex corporation for certain electroluminescent product sales through september when the contract ended 
+in addition  during we paid lemelson medical  education and research foundation and syndia corporation for certain cmos and bicmos processes 
+research and development sipex believes that continued introduction of new products in target markets is essential to growth 
+as performance demands and complexity of analog circuits have increased  the design and development process has become a multi disciplinary effort  requiring diverse competencies to achieve customers desired performance 
+in addition to our staff of design engineers  we have an infrastructure of product and test engineers who perform various support functions 
+we spent approximately million in and million in and on research and development  representing  and of net sales for these periods  respectively 
+we expect to focus more on the productivity of our research and development investment through better product definition  consistent strategy and improved tools 
+overall expenditures in support of research and development activity are likely to increase slightly in absolute dollars in the near future 
+our ability to compete depends in part upon continued introduction of technologically innovative products on a timely basis 
+research and development efforts are directed primarily at designing and introducing new products and technologies 
+we seek to continually upgrade our internal technology while also working with foundries to develop new technologies for new generations of products 
+in addition  we seek to continually refine our manufacturing practices and technology to improve product yields 
+competition we compete in multiple segments of the analog integrated circuit market 
+this market is intensely competitive and many major semiconductor companies presently compete or could compete with sipex in the same applications or products 
+sipex s current primary competitors include analog devices  intersil  linear technology  maxim integrated products  micrel semiconductor  national semiconductor  on semiconductor  pioneer  semtech  sharp  sony and texas instruments among others 
+our primary competitors have substantially greater financial  technical  manufacturing  marketing  distribution  other resources and broader product lines than we do 
+in addition  there are foreign semiconductor makers that compete primarily on a price basis 
+although foreign companies  active in the semiconductor market  have not traditionally focused on the high performance analog market  with the exception of the optical marketplace  many foreign companies have the financial and other resources to participate successfully in these markets and may become formidable competitors in the future 
+we believe that product innovation  quality  reliability  performance and the ability to introduce products rapidly are important competitive factors in our target markets  because we compete primarily during the customer s design in stage of product development 
+we further believe that cost competitiveness is paramount in every segment of the semiconductor industry 
+employees at december   we had full time employees  as compared with employees in the prior year 
+during the fourth quarter of and the first quarter of  as part of our restructuring initiative  we 
+table of contents outsourced back end test operations to asia  reducing headcount by staff 
+this reduction in headcount was partially offset by hiring in engineering and other critical functions 
+during the later part of  we implemented a restructuring program that included discontinuing the billerica  massachusetts manufacturing activities  discontinuing the four inch wafer fabrication in san jose  california  the reorganization of the company into functional groups and the full conversion to six inch wafer fabrication facility in milpitas  california 
+these actions in resulted in a significant reduction of the company s headcount compared to our headcount at the end of which was employees 
+we believe that our future success will depend  in part  on our ability to attract and retain qualified technical and manufacturing personnel 
+this is particularly important in the areas of product design and development  where competition for skilled personnel is intense 
+none of our employees are subject to a collective bargaining agreement and we have never experienced a work stoppage 
+item properties sipex s corporate office is located in milpitas  california 
+information regarding our principal plants and properties appears below approximate facility size lease location description square feet owned leased expiration date milpitas  ca manufacturing design center general office  owned billerica  ma design center general office  leased munich  germany general office  leased tokyo  japan general office  leased zaventem  belgium design center general office  leased shenzhen  china general office  leased taipei  taiwan general office  leased ipoh  perak  malaysia warehouse  leased month notice we believe that our existing facilities adequately serve our current needs 
+we are seeking to sublease the unused portion of the facility located in billerica  massachusetts and have established a restructuring reserve of million in october item legal proceedings as of march   there were no material pending legal proceedings to which we or our subsidiaries are a party 
+sipex may become involved in various legal actions arising in the ordinary course of business  including securities class actions and other actions 
+in february  sipex filed a lawsuit against maxim integrated products  inc maxim with the us district court for the district of massachusetts seeking a declaratory judgment that three of sipex s products did not infringe maxim patents 
+maxim filed counterclaims alleging certain products sold by sipex infringe a maxim patent 
+the counterclaims sought injunctive relief and unspecified damages 
+during the second quarter of  a settlement was reached whereby maxim granted sipex a license covering auto online functionality used in some serial interface products 
+in addition  both companies dismissed all pending legal claims in all jurisdictions 
+item submission of matters to a vote of security holders no matters were submitted to a vote of sipex s security holders during the fourth quarter ended december  
+table of contents executive officers of sipex information relating to the executive officers of sipex is set forth below 
+all officers held office as of december  name  age position business experience walid maghribi age chief executive officer  president and director mr 
+maghribi joined sipex in august as chief executive officer and president 
+in addition  mr 
+maghribi serves as a member of the board of directors 
+mr 
+maghribi was senior vice president of advanced micro devices  inc  or amd  a semiconductor manufacturer  and president of the memory group 
+mr 
+maghribi was at amd for years where he served in various other management and executive positions  including vice chairman of the board of fujitsu amd semiconductor ltd 
+prior to joining amd  mr 
+maghribi served in various technical and management positions at seeq  an ethernet data communications products company  national semiconductor  a semiconductor manufacturer  and intel  a semiconductor chip maker 
+mr 
+maghribi earned a bsee from san jose state university and a ms in computer science from the university of santa clara 
+phillip a 
+kagel age senior vice president  finance  chief financial officer and treasurer mr 
+kagel joined sipex in february as senior vice president  finance  chief financial officer and treasurer 
+from to  mr 
+kagel was vice president  corporate controller and vice president  global tax at solectron corp  an electronic manufacturing services company 
+prior to solectron  mr 
+kagel was chief financial officer over a twelve year period at akashic memories corp  a privately held developer and manufacturer of disk drive media and at sigmatron nova  inc  a publicly held flat panel display company 
+mr 
+kagel holds a bs in mathematics from brigham young university and an mba from the university of missouri 
+joseph t 
+rauschmayer age senior vice president  operations mr 
+rauschmayer joined sipex in september as senior vice president of operations 
+from to  mr 
+rauschmayer held various management positions in manufacturing and product line management at advanced micro devices  inc  or amd  a semiconductor manufacturer  most recently as vice president of product line engineering for amd s memory group 
+prior to his tenure at amd  mr 
+rauschmayer held engineering management positions at the solid state electronics division of honeywell  a diversified technology and manufacturing company  and at the solid state division of rca  a consumer electronics company 
+mr 
+rauschmayer earned a bsee from wilkes university and a msee from ohio university 
+kevin plouse age senior vice president  business development mr 
+plouse joined sipex in september as senior vice president  marketing and business development 
+from to  he held various positions in marketing  engineering  and manufacturing at advanced micro devices  inc  or amd  a semiconductor manufacturer  most recently as vice president of marketing and business development for amd s memory group 
+mr 
+plouse earned a bsee from the university of the pacific 
+
+table of contents part ii item market for the company s common equity and related shareholder matters since april   the date of our initial public offering  our common stock has been available for quotation on the nasdaq national market under the symbol sipx 
+the following table sets forth  for the period indicated  the high and low closing sale prices per share as reported on the nasdaq national market quarterly stock market data fiscal dec 
+ sept 
+ june  march  stock price range per share high low fiscal dec 
+ sept 
+ june  march  stock price range per share high low on december   there were shareholders of record 
+we believe that the number of beneficial holders of common stock exceeds  the last reported sale price of the common stock on march  was per share 
+we have never declared or paid a cash dividend on our capital stock 
+we currently intend to retain all of our earnings to finance future growth and  therefore  do not anticipate paying any cash dividends on our common stock in the foreseeable future 
+the disclosure required by item d of regulation s k is included in item of this annual report on form k 
+as of december   affiliates of future  our largest distributor  held approximately million shares of our common stock  or approximately  of our outstanding common stock 
+during february  the affiliates of future exercised the conversion rights to convert their notes into our common stock for million shares which have not been registered with the securities and exchange commission 
+as of march   the affiliates of future held million shares  or of our outstanding capital stock 
+item selected financial data selected financial data for the last five years appear below in thousands  except per share data years ended december  operating results net sales gross profit loss as a of net sales depreciation and amortization research development expenses income loss from operations income loss before income taxes net income loss as a of net sales net income loss per common share basic net income loss per common share diluted 
+table of contents years ended december  balance sheet and financial data cash and cash equivalents short term investment securities restricted cash equivalents and securities total assets long term debt working capital current ratio capital expenditures shareholders equity the financial data has been adjusted to reflect the combined operations of sipex corporation and calogic as a result of the november  merger which was recorded as a pooling of interests 
+in june  sipex purchased the land  building and equipment of its milpitas  california  manufacturing facility for million which was formerly under lease 
+proceeds for the buyout were provided through the liquidation of million of restricted cash that had previously secured the lease of the facility and equipment 
+the decrease in total assets was mainly due to the establishment of a valuation allowance of million for deferred tax assets  the disposition of machinery and equipment with a net book value of million and million write off of goodwill 
+item management s discussion and analysis of financial condition and results of operations the following discussion should be read together with our financial statements and the related notes contained elsewhere in this annual report on form k 
+to supplement our consolidated financial statements presented in accordance with gaap  we are presenting non gaap measures of net sales  which are adjusted from results based on gaap  to present net sales before considering the impact of the million non cash charge related to the fair value of debt conversion rights to a related party  which is described below 
+this non gaap adjustment is provided to enhance the overall understanding of our net sales compared to the gaap results of the prior year periods 
+specifically  we believe that the non gaap results provide useful information to both management and investors by excluding this non cash charge that we believe is not indicative of our core operating performance 
+when such comparisons are made below  the inclusion or exclusion of the charge is clearly disclosed 
+the presentation of this additional information is not intended to be considered in isolation or as a substitute for results prepared in accordance with accounting principles generally accepted in the united states  and is not necessarily comparable to non gaap results published by other companies 
+overview we design  manufacture and market  high performance  analog integrated circuits  or ics  that are used primarily by original equipment manufacturers  or oems  operating in the computing  consumer  communications and networking infrastructure markets 
+some of the end product applications that contain our ics are cellular phones  base stations  computers  dvd players  and digital cameras 
+our products fall into three major product families power management  interface  and optical storage 
+economic conditions in the analog semiconductor industry began to improve in following a prolonged downturn during and capacity utilization for the nation s semiconductor makers reached in november  which was the first time it had exceeded since december for sipex  demand in the first half of continued to be soft  while in the second half of the year there were signs of increased end user demand 
+as with other semiconductor manufacturers  we are affected by overall 
+table of contents market demand trends  however  we believe during our sales performance was more dependent on execution of our internal initiatives than on overall market conditions 
+we focus on several key areas to drive operating and financial performance  including product mix  new product introductions  capacity utilization  cost reductions and productivity 
+all of these key areas are interrelated and important in achieving improved gross margin 
+product mix between our three product families and the sale of new products within each of our product families can significantly impact overall gross margin 
+power management product gross margins have a wide range depending on the mix of sales within this product family 
+the very high volume commodity products sold into the asian market  such as power regulators  have generally lower margin 
+by contrast  our advanced power management product offerings  such as white led drivers  are new products  and contribute higher margins 
+interface products generally bring higher margins than power management products  because they are manufactured in our internal fab 
+optical storage product gross margins are generally above the company average  as all the products are new and proprietary 
+capacity utilization of our wafer fab in milpitas  california is also an important factor in driving gross margin improvement 
+a large portion of our fab cost structure is fixed  such as depreciation and payroll expenses for process engineering and manufacturing support  which can be leveraged over an increasing volume of completed wafers 
+we build wafers for certain power management and all interface products in our fab 
+we outsource all optical storage products 
+cost reductions and productivity improvements are required in order to remain competitive in our marketplace 
+cost reductions are achieved in several ways  such as re designing the products to shrink the size of the die  providing more individual products per wafer produced 
+this generates increased output without adding significant incremental cost 
+other cost reductions and productivity improvements come through product back end yield improvement and test time reduction 
+during we continued the transformation of our product mix  eliminating legacy products  such as hybrid and el  while focusing on existing products and increasing the sale of new products introduced in our three core product families 
+net sales attributed to legacy products decreased from million in to million in net sales of our three core product families increased from million in to million in excluding the impact of the million charge for the fair value of debt conversion rights  or 
+new products introduced in optical storage enabled sales in this product family to grow compared to we also introduced several new products in the interface and power management product families 
+our wafer fab operation in milpitas produced approximately of our wafer requirements 
+in we produced more wafers than in  leveraging our fab cost structure  which contributed to our improved gross margin 
+in addition  we reduced cost in the back end test operations by outsourcing more of the test operations to contract manufacturers in asia 
+these cost reductions resulted from some of our restructuring initiatives in in the second half of  we converted certain of our high volume interface products to two micron geometry from five micron  thereby increasing the number of circuits per wafer  and increasing the end product sales value per wafer significantly with relatively minor increase in wafer cost 
+as a result of the sales product mix transformation and the manufacturing improvements  our gross margin improved from an million loss in to a million loss in the gross loss of million in included a non cash charge of million reflecting the impact of the fair value of debt conversion rights with future  related party see note for related parties 
+our net cash used from operations improved from a million net use of cash in to a million net use of cash in relationship with future future electronics inc future  is our exclusive distributor for north america and europe 
+it is also our largest distributor worldwide  and accounted for  and of total net sales for the years ended december   and  respectively 
+during  future increased its ownership of the company and became a related party 
+we anticipate that sales of its products to future will continue to 
+table of contents account for a significant portion of our revenues 
+we have a distributor agreement that provides for future to act as our sole distributor for certain products within these territories 
+sales to this distributor are made under an agreement that provides protection against price reduction for its inventory of our products 
+we recognize revenue on sales to future under the distribution agreement when it sells the products through to the end customer 
+on september   sipex sold a convertible secured note the first note with an attached warrant to an affiliate of future for an aggregate cash amount of million 
+the private placement was convertible into million common shares at per share and included a warrant to purchase  shares of sipex common stock exercisable for a two year period beginning on the one year anniversary of the date of issuance 
+the exercise price for the warrant is 
+the first note was secured by a deed of trust on the company s land and building at milpitas  california 
+in june  we received million in cash as part of a convertible note the second note financing from an affiliate of future 
+in december  we entered into an agreement with the affiliates of future to amend certain terms of the first note and the second note 
+the agreement  among other things  amended the second note to provide for full acceleration and vesting of the holder s conversion rights under the second note 
+in addition  the agreement provided that  upon expiration or termination of the hart scott rodino antitrust improvements act of  as amended the hsr act  regulatory waiting period  the holder would convert the second note into million shares of our common stock at the original stated conversion price of per share 
+in exchange for the full acceleration of the conversion rights under the second note  the holder paid us an additional million in cash  forgave  in currently accrued interest and agreed to eliminate our future interest obligations under the second note 
+the agreement also provided that  upon the expiration or termination of the hsr act waiting period  the holder would convert the first note into million shares of our common stock at the original stated conversion price of per share 
+in addition  the holder agreed to immediately eliminate our future interest obligations under the first note 
+the agreement also provided that  upon obtaining the required hsr act clearance  the holders would cancel and otherwise release all security interests these entities may have on any of our assets 
+in february  the us federal trade commission granted early termination of the waiting period under the hsr act and the holders converted the first note and the second note into an aggregate of million shares of our common stock 
+in connection with the second note  we recorded a million non cash charge for the fair value of debt conversion rights  which were accelerated 
+this charge will not recur in the future 
+ownership by affiliates of future is limited to of total sipex stock on a fully diluted basis 
+affiliates of future are required to disgorge of any profits through sale of this stock if more than of aggregate peak beneficial ownership of the company s voting stock is sold on or before june   or more than is sole on or before june   or more than of is sold on or before june  affiliates of future are not currently represented on sipex s board of directors and do not have contractual rights to such representation or to any participation in the corporate governance or management of the company 
+sipex s board of directors have been granted proxy to vote all million shares of common stock converted pursuant to the second note 
+critical accounting policies and estimates the discussion and analysis of our financial condition and results of operations are based on our consolidated financial statements  which have been prepared in accordance with accounting principles generally accepted in the united states of america 
+the preparation of these financial statements requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the consolidated financial statements and the reported amounts of revenues and expenses during the reporting period 
+on an ongoing basis  we evaluate our estimates  including those significant estimates that are particularly susceptible to change  which include 
+table of contents revenue recognition  sales returns  inventory valuation  restructuring and impairment  and income taxes 
+we base our estimates on historical experience and on various other assumptions that are believed to be reasonable under the circumstances 
+there can be no assurance that actual results will not differ from those estimates 
+we have identified the accounting policies below as the policies most critical to our business operations and the understanding of our results of operations 
+the impact and any associated risks related to these policies on our business operations is discussed throughout management s discussion and analysis of financial condition and results of operations where such policies affect our reported and expected financial results 
+revenue recognition 
+we recognize revenue when persuasive evidence of an arrangement exists  delivery has occurred  the price is fixed or determinable and collectibility is reasonable assured 
+future electronics inc future  a related party  is our exclusive distributor for north america and europe 
+sales to this distributor are made under an agreement that provides protection against price reduction for future s inventory of our products 
+in addition  future has stock rotation rights 
+pursuant to these stock rotation rights  future is permitted on a quarterly basis to return for credit up to of its total purchases during the most recent three month period 
+as the price of products sold to future is not fixed or determinable until resold by future to the end customer  we recognize revenue on sales to future when future sells the products through to the end customer 
+accounts receivable are recognized and inventory is relieved upon shipment as title to inventories generally transfers upon shipment at which point the company has a legally enforceable right to collection under normal terms 
+for all other sales  revenue is recognized upon title transfer and shipment because these distributors customers have no price protection and have limited return rights 
+distributors are permitted to return products limited to a percentage of their purchases over a specified period of time 
+we are able to estimate and establish appropriate reserves for future returns from these distributors 
+for product sales recognized at the time of shipment  we accrue for estimated sales returns upon shipment based upon historical trends as well as any known pending sales returns 
+we account for the fair value of the debt conversion rights of a convertible note payable to our related party distributor as a charge against net sales in accordance with emerging issues task force eitf  accounting for a convertible instrument granted or issued to a nonemployee for goods or services or a combination of goods or services and cash 
+however  this accounting treatment was discontinued on december  when sipex entered into an agreement with the affiliates of future to terminate the convertible debt pending termination of the waiting period under the hsr act 
+during february  following early termination of the hsr act waiting period  the affiliates of future exercised the conversion rights to convert their notes into our common stock for million shares see note for related parties 
+sales returns 
+to estimate reserves for future sales returns  we regularly review our history of actual returns for each major product line 
+we also communicate monthly with our channel partners to gather information about sell through activity  end user satisfaction and to determine the volume of inventory in the channel 
+we use the results of this analysis to estimate the reserves for sales returns 
+we adjust our reserves for future returns as necessary  based on returns experience  returns expectations and our communications with our channel partners 
+in estimating reserves  we also consider unusual events and market conditions 
+it is possible that future events such as the introduction of a competitive product  product obsolescence  price competition  weakness in the semiconductor industry and distributors desire to decrease levels of inventory in the distribution channel could result in significant changes in customer demand and cause future returns to increase beyond historical levels 
+management believes that it is able to estimate returns  and establish appropriate reserves for returns from customers for which sipex recognizes revenue as of shipment  using the process described above 
+however  since reserves for estimated sales returns are recorded as a reduction in revenues  any significant difference between our estimated and actual returns experience  or changes in our estimate of reserves for future returns  would be reflected in our reported revenues in the period we determine that difference  and 
+table of contents could have a material impact on our future results of operations 
+historically  our actual returns have been materially within our expectations 
+inventory valuation 
+we write down inventory for estimated excess quantities  obsolescence or unmarketability 
+in addition  we write down inventory costs to the lower of cost or market 
+excess and obsolete inventory is determined by comparing current inventory to current backlog  anticipated future demand and shipment history 
+lower of cost or market adjustments are determined by reviewing shipments during the quarter as well as quarter beginning backlog and comparing standard cost to anticipated market pricing 
+inventories are written down to the lower of cost or market which becomes the cost basis 
+in estimating anticipated market pricing  we also consider current market conditions  industry performance  distributor inventory levels and sales to end users and all other relevant factors 
+if actual market conditions are less favorable than those projected by management  additional inventory write downs may be required 
+reviews of the valuation of inventory are performed on a quarterly basis 
+in  we recorded a million write down for excess and slow moving inventory 
+also  inventory with an adjusted zero cost basis that was included in the million provision in was sold for million during restructuring and impairment 
+the determination of the estimated restructuring accrual and impairment requires significant management judgment 
+to estimate the restructuring accrual  we prepare a plan that includes the number of employees to be terminated and the related severance cost  the amount of impairment for certain fixed assets and inventory  the termination costs of certain leases and the related actions required to execute the plan 
+it is possible that future events such as voluntary employee terminations  sublease agreements or a shift in the timing of the execution of the plan could result in significant changes to the original estimate 
+restructuring costs recorded in were subsequently adjusted for a reduction of  in we accounted for restructuring charges beginning january  in accordance with statement of financial accounting standards sfas no 
+ accounting for costs associated with exit or disposal activities 
+sfas no 
+requires companies to recognize costs associated with exit or disposal activities when they are incurred rather than at the date of commitment to an exit or disposal plan 
+prior to january   we accounted for restructuring in accordance with emerging issues task force issue no 
+eitf  liability recognition for certain employee termination benefits and other costs to exit an activity including certain costs incurred in a restructuring and sec staff accounting bulletin no 
+sab  restructuring and impairment charges 
+during the fourth quarter of we established a million restructuring reserve for our facility in billerica  massachusetts 
+this followed our restructuring initiative in which we transferred our back end test operations to asia in the first quarter of and began to integrate other support activities to milpitas  california 
+by the fourth quarter of we had vacated and segregated approximately of the billerica  massachusetts facility and are seeking a lessee for this unoccupied space 
+the restructuring reserve represents the present value of future lease payments subsequent to abandonment less any estimated sublease income net of associated costs 
+to estimate future sublease income  we worked with an independent broker to estimate the length of time to sublease the facility and the total amount to be received 
+however  our estimates of expected sublease income could change in the future based on factors that affect our ability to sublease this facility such as general economic conditions and the real estate market  among others 
+we review long lived assets and certain identifiable intangibles for impairment whenever events or changes in circumstances indicate that the carrying amount of an asset may not be recoverable 
+recoverability of assets to be held and used is measured by a comparison of the carrying amount of an asset to future net undiscounted cash flows expected to be generated by the asset 
+if an impairment is indicated  the impairment to be recognized is measured by the amount by which the carrying amount of the asset exceeds the fair value of the asset 
+assets to be disposed of are reported at the lower of the carrying amount or fair value less cost to sell 
+in estimating future net cash flows  management makes certain assumptions including future sales levels  gross profit margins and expense levels and proceeds from disposition 
+the future net cash flows can vary from management estimates due to unforeseen circumstances that may result in additional impairment charges required to be recognized in the income statement 
+
+table of contents income taxes 
+in assessing the net realizable value of deferred tax assets  management considers whether it is more likely than not that some portion or all of the deferred tax assets will not be realized 
+the ultimate realization of deferred tax assets is dependent upon the generation of future taxable income during the periods in which those temporary differences become taxable 
+management considers the scheduled reversals of deferred tax liabilities  projected future taxable income  and tax planning strategies in making this assessment 
+based upon the level of historical taxable income and projections for future taxable income over the periods in which the deferred tax assets are deductible  management assessed that it is not more likely than not that the deferred tax assets at december  will be realized in the future 
+we therefore established a full valuation allowance and incurred a tax charge for the full amount of deferred income tax asset of million for the year our deferred tax assets at december  continue to have a full valuation allowance 
+results of operations for the periods indicated  the following table sets forth the percentage of net sales represented by the respective line items in our consolidated statements of operations 
+years ended december  net sales cost of sales gross loss operating expenses research and development marketing and selling general and administrative restructuring impairment of fixed assets amortization impairment of goodwill total operating expenses loss from operations other expense  net loss before income taxes fiscal year ended december  compared to fiscal year ended december  net sales 
+net sales decreased to million for the year ended december   as compared to million for the year ended december  the decrease in net sales included a non cash charge of million reflecting the fair value of conversion rights related to the convertible note to future see note for related parties 
+before considering the impact of this charge  net sales for the year were million  or a decrease compared to this decrease was attributable to our strategy to exit legacy product lines  hybrid and el for which net sales reduced by million  which was partially offset by a million increase in our core product families including interface  power management and optical storage 
+the increases in compared to for all three product families were the following interface was million or  power management was  or  and optical storage was million or 
+these increases were primarily due to several factors  including the introduction of several new products in all three families  cost reductions in interface and power management products allowing the company to compete in commodity pricing market conditions  and increased focus in managing the representative and distribution network to increase design wins for interface and power management products 
+all of the increase in optical storage products was due to new products introduced in in the 
+table of contents third quarter of  we sold the hybrid product family to satcon electronics inc  which resulted in no net sales for this product line in in addition  we discontinued producing the el product family by the first quarter of geographically  during international net sales were flat year over year  however domestic sales decreased million 
+sales in japan grew by million or compared to the ramping of optical storage products in accounted for this increase as all our optics sales were generated in japan 
+in asia other than in japan  net sales were slightly down as the mix shifted from legacy products to power management products 
+net sales in europe and the rest of the world decreased million due to the discontinuance of the legacy product lines  partially offset by increases in both interface and power management products 
+gross profit loss 
+gross loss of million for the year ended december  included a non cash charge to sales reflecting the fair value of debt conversion rights of million see note for related parties 
+the impact of this charge was to reduce gross profit from of net sales to a gross loss of 
+compared to  gross loss decreased by million 
+this improvement comprised the following product mix  manufacturing yield and process improvements of million  cost reductions related to restructuring initiatives of million  lower inventory write downs of million due to completion of our legacy product line exit initiative in  restructuring costs of million in  and million of revenue from the sale of the inventory in that was written off in these were partially offset by the million non cash charge for the fair value of debt conversion rights 
+manufacturing yield and process improvements were the result of our continued effort primarily in standardized manufacturing processes and improved design for manufacturability 
+during the second half of we converted a portion of our capacity to two micron geometry from five micron geometry that resulted in increasing the number of circuits per wafer  and increasing the end product sales value per wafer significantly with relatively minor increase in wafer cost 
+this also contributed to our improved cost and yield performance 
+in addition  we increased our wafer output while reducing direct labor hours in compared to research and development 
+research and development expenses in were million compared to million in during we added several designers resulting in million of expense and obsoleted certain mask sets totaling million 
+these increases were partially offset by reduced occupancy costs 
+as a percentage of net sales  research and development costs were compared to in the prior year 
+this was primarily due to the reduction in net sales  which resulted from a non cash charge reflecting the fair value of debt conversion rights see note for related parties 
+we anticipate that research and development spending will increase in marketing and selling 
+marketing and selling expenses of million in were lower compared to by million due to reduced occupancy costs  marketing communications and travel  partially offset by increased spending and headcount in our japan and taiwan sales offices and increased sales representative commissions due to increased sales in our core product families 
+sales and marketing expenses were of net sales in compared to of net sales in this increase in percentage of net sales in was primarily due to the non cash charge for the fair value of debt conversion rights see note for related parties 
+the increase was also attributable to the reduction in net sales before the non cash charge  partially offset by the reduced spending 
+general and administrative 
+general and administrative expenses were million in compared to million in or a reduction of million 
+this decrease was largely due to lower severance costs of million and lower legal costs of million in compared to  partially offset by higher insurance costs  filing fees and other expenses 
+restructuring and fixed asset impairment 
+in we transferred our back end test operations to asia and completed the move of our headquarters and major operations to milpitas  california 
+during   was reversed from the accrual for management reorganization charges and employee severance costs 
+in december of  we established a restructuring reserve of million for our billerica  
+table of contents massachusetts facility which includes a design center occupying approximately one fourth of the space 
+we are seeking a lessee for the unused portion of the building 
+accrued restructuring costs for the present value of future lease payments net of sublease income and associated costs as of december  for this facility included short term portion of  and long term portion of  respectively 
+restructuring impairment costs costs inventory costs accrual balance incurred charges utilized adjustments to accrual accrual balance incurred charges utilized adjustments to accrual accrual balance other income expense  net 
+other income expense  net was  in compared to  in the prior year 
+the increase in expense was attributable to the interest expense associated with the two convertible notes with future see note for related parties 
+during we incurred interest on the first note in the fourth quarter only 
+during we incurred interest on the first note until december  and incurred interest on the second note from june  until december  as of december  all future interest expense had been forgiven 
+both convertible notes were extinguished and converted into million of our common shares as of february  income tax expense 
+income tax expense in was  based on the expected tax liability from our off shore operations  primarily belgium 
+notwithstanding our net operating losses  we did not record a tax benefit as we believed that it was not more likely than not  considering the level of historical taxable income and expectations for future taxable income  that the operating loss would be utilized in the future to offset taxable income 
+fiscal year ended december  compared to fiscal year ended december  net sales 
+net sales decreased to million for the year ended december   as compared to million for the year ended december  the decrease in net sales was primarily attributable to the continued global slowdown in the semiconductor technology end markets resulting in lower average selling prices 
+the decreases were primarily in the hybrid  analog display and legacy product families 
+these decreases were partially offset by increased sales in the power and optical storage product families 
+net sales for were also unfavorably affected by million in the first quarter of  which was related to a change in the timing of revenue recognition on sales to our largest distributor 
+effective october   we began to recognize revenue on sales to our largest distributor when the distributor sells our products to end users sell through  rather than upon shipment of the product to the distributor 
+as of december   there was approximately million of inventory shipped to this distributor for which we had recognized revenue prior to october  accordingly  our net sales for the fiscal year ended were impacted by that amount 
+our net sales were also impacted by million of sales in the fourth quarter to our largest distributor on a discounted  non cancelable and non returnable basis  which were recorded as revenue upon shipment 
+international net sales  excluding canada  increased and domestic net sales decreased for the year ended december   as compared to international sales represented and of net sales for and  respectively 
+the increase in the percentage of international sales in compared to was due to a decrease of million in domestic sales for  combined with a million increase in international sales 
+geographically  sipex experienced sales growth of in asia other than japan and 
+table of contents in japan  which was driven by our power and optical storage product families  while sales declined in europe and the rest of the world and in north america in gross profit loss 
+gross loss was million or of net sales in  as compared to a gross loss of million or of net sales in the million deterioration resulted from the effect of decreased revenue due to lower average selling prices and increased inventory write offs  and was partially offset by lower manufacturing costs 
+the gross loss in included million of inventory charges of which million was a fourth quarter cost adjustment and million was for excess and slow moving inventory  which included a million charge relating to product lines sold or discontinued as part of our third quarter restructuring plan and a  charge resulting from physical inventory adjustments 
+of the million provision in  million was recorded in the fourth quarter 
+the deterioration in gross margin was partially offset by improved yields in the second half of in  our wafer fabrication facility experienced lower capacity utilization and lower wafer fabrication yields 
+in addition  we recorded provisions for slow moving and obsolete material of million  which included an inventory charge of million due to the sudden and significant decrease in forecasted revenue in our business experienced in the second quarter of research and development 
+research and development expenses were million for both and  or and of net sales  respectively 
+research and development expenses for included increased expenses for optical storage product startup costs in  offset by reduced process development expenses in the wafer fabrication facility 
+the increase in research and development as a percentage of net sales in was primarily due to the decreased sales 
+marketing and selling 
+marketing and selling expenses were million and million for and  respectively  or and of net sales  respectively 
+the absolute dollar decrease in marketing and selling expenses in  as compared to  was due to decreased sales representative commissions on lower net sales and the continued effect of cost savings measures implemented in the fourth quarter of the decrease as a percentage of net sales in was attributable to decreased sales representative commissions and continued cost savings measures  which were partially offset by the decrease in sales 
+general and administrative 
+general and administrative expenses were million and million in and  respectively  or and of net sales  respectively 
+the million increase in general and administrative expenses was primarily due to severance costs of approximately  paid in the second quarter of to the company s former chief executive officer 
+the increase as a percentage of net sales in was due to these costs and the decrease in sales 
+amortization impairment of goodwill 
+the company adopted sfas goodwill and other intangible assets effective january   thereby discontinuing annual goodwill amortization of approximately  upon adoption of sfas  the company performed a goodwill impairment test and concluded that there was no indication of impairment and recorded no impairment charges as of january  in the second quarter of  the company experienced a significant reduction in the fair value of its common stock 
+the fair value decrease was primarily related to the financial impact to sipex of the global slowdown in the semiconductor industry 
+as a result  the company performed a goodwill impairment test in accordance with sfas the results of this impairment test indicated that the full amount of the company s goodwill of million was not recoverable and was written off 
+during the company recorded goodwill amortization of 
+table of contents the pro forma effects of the adoption of sfas on net loss and net loss per share for the company for the year ended december  are as follows in thousands net loss as reported goodwill amortization expense pro forma net loss basic net loss per share  as reported add back goodwill amortization expense pro forma basic net loss per share diluted net loss per share  as reported add back goodwill amortization expense pro forma diluted net loss per share restructuring  fixed asset impairment and inventory costs 
+in september  sipex announced a plan to close the company s four inch wafer fabrication facility in san jose  california and change to a modified five day per week work schedule from the seven day per week schedule in the six inch wafer fabrication facility in milpitas  california 
+these actions were taken to reduce the company s cost structure as a result of the slowdown in the semiconductor industry and to align the structure with our current business plan  which included the sale and discontinuance of the hybrid product line at the end of the third quarter and the discontinuance of the analog display product line which was completed toward the end of the first quarter of these product families accounted for approximately million of net sales in the third quarter of these actions allow us to consolidate our operations and focus on our three core product families consisting of interface  power management and optical storage 
+below is a summary of the activity related to restructuring costs for fiscal years and in thousands restructuring impairment inventory costs costs costs accrual balance incurred charges utilized adjustments to accrual accrual balance incurred charges utilized adjustments to accrual accrual balance general during  we recorded restructuring charges of million  million of fixed asset impairment charges and million of inventory write downs 
+gross restructuring charges consisted of employee severance costs of  management reorganization charges of approximately million and accrued lease expenses of  for the company s san jose  california facility 
+these gross restructuring charges were reduced in the fourth quarter of for a  reversal in accrued lease costs for the company s san jose  california facility due to the assumption of the lease by a third party in the first quarter of and a  decrease in employee termination costs 
+fixed asset impairment charges for consisted of million to write down the value of the machinery and equipment in the san jose  california facility to its 
+table of contents fair value  as a result of the closure of the san jose fabrication facility in the first quarter of  and million of fabrication equipment at the milpitas  california  fabrication facility 
+the million inventory write down  which was recorded in cost of sales  was established to properly value the discontinued analog display and hybrid product families 
+in the fourth quarter of  the company recognized a gain of  due to the sale of a portion of the inventory 
+restructuring the third quarter restructuring charges for the above actions were million  which consisted of  of severance costs related to a reduction in force of approximately employees at both manufacturing facilities  million of severance and related costs to six former management employees related to the company s plan to reorganize into six functional groups and facility costs of  consisting mainly of the remaining lease payments at the san jose fabrication facility 
+in the fourth quarter of  sipex incurred restructuring costs related to the transfer of the company s back end test operations from the billerica  massachusetts  facility to subcontractors in malaysia 
+the restructuring costs consisted of  of employee severance related costs for the workforce reduction of approximately employees and freight charges of  related to the million sale of the billerica test related machinery and equipment with a net book value of million 
+accrued severance costs as of december  were subsequently reduced by  which was originated from million of management reorganization charges and  of employee severance costs estimated in the remaining accrual was paid primarily during the first half of impairment third quarter fixed asset impairment charges totaled million  consisting of million of fabrication equipment on the company s four inch and six inch manufacturing product lines at the milpitas  california fabrication facility and million for the write down to fair value of the machinery and equipment at the san jose  california fabrication facility which had been scheduled to be closed by the end of the first quarter of in the first quarter of  the san jose  california fabrication machinery and equipment were sold to an unrelated third party 
+the gain on the sale of the san jose  california fabrication machinery and equipment has been and will be recorded upon collection of the cash due to the length of time and related uncertainties affecting their ultimate receipt 
+during sipex recorded net restructuring charges of  consisting of  for severance payments related to the reduction of our workforce  partially offset by a reduction of  in the restructuring accrual  which was established in the fourth quarter of the reduction in was due to the sale of the calogic fabrication facility  which had been planned for closure in as a result of the sale  we reduced both the facility exit related and employee termination portions of the accrual due to the assumptions of the facility by the new owners who retained many of the employees to whom we had planned to pay severance costs 
+other income expense  net 
+other income expense  net was  and  in and  respectively 
+the decrease in other income in was due primarily to decreased interest income as a result of the decrease in restricted cash in the second quarter of the restricted cash was used to purchase the land  building and equipment of the milpitas  california wafer fabrication facility 
+income tax expense 
+we recorded an income tax charge of million for  as compared to an income tax benefit of million for in the second quarter of  the company established a full valuation allowance for its deferred tax assets  which included significant net operating loss and tax credit carryforwards 
+the valuation allowance was established  as the company no longer believed that it is more likely than not that the net operating loss and tax credit carryforwards would be realized during the carryforward period 
+this change in estimate during the second quarter of was based on updated evaluations considering historical taxable income levels and expectations of future taxable income 
+for the year ended december   the company recorded an income tax benefit at a effective rate 
+the company recorded the tax benefit for the period and the related increase in deferred tax assets  as it 
+table of contents believed it was more likely than not  considering the level of historical taxable income and expectations for future taxable income  that the operating loss would be utilized in the future to offset taxable income 
+financial condition  liquidity and capital resources as of december   we had available funds of million consisting of cash  cash equivalents and short term investments  as compared to million at december  the increase of million was primarily due to million of capital which came through the private placement of million of convertible debt with an affiliate of future  a distributor for the company and related party  an additional million of proceeds from future for acceleration of debt conversion rights in december when an agreement was reached to terminate the two convertible notes with future see note for related parties and million for the issuance of common stock under employee stock plans 
+this was partially offset by a use of million in operating activities and million in capital expenditures 
+in  available cash increased from million to million 
+proceeds from a private placement of common stock and a private placement of a convertible note to future  a related party  contributed million and million  respectively 
+net cash used in operating activities was million 
+this was net of a million net loss  of which million was non cash related  partially offset by a million decrease in accounts receivable  a million decrease in inventories and a million increase in accounts payable 
+included in the million non cash charge were a million valuation allowance for the full amount of our deferred income tax assets  million of depreciation  a provision of million for excess and obsolete inventory  a million charge for impairment of fixed assets  a million charge for goodwill impairment  and a provision of million for uncollectible receivables and returns and allowances 
+net cash used in operating activities was million  million  and million in   and  respectively 
+net cash used in operating activities in resulted primarily from a million net loss  of which approximately million was non cash related  partially offset by a million net increase in working capital 
+the million primarily comprised of a million non cash charge to sales for the fair value of debt conversion rights see note for related parties  depreciation of million   loss on disposal of capital assets and  net provision for restructuring 
+the change in short term assets and liabilities included a million increase in deferred income associated with shipments to our largest distributor  where revenue is recognized on a sell through basis  increase in accounts payable of million and decrease in prepaid expenses and other current assets of million  partially offset by increases in accounts receivable of million and inventory of million 
+we anticipate that cash used in operating activities will be further reduced through our efforts to improve our operating results 
+the company will continue to depend upon its cash and cash equivalents to fund its operations until such time that the company generates cash from operating activities 
+the increase of million in deferred income resulted from shipments to future  our largest distributor and related party  in anticipation of higher sell through activity 
+during  we shipped million of product to future  and recognized million of sales through future 
+accounts payable was million and million in december  and  respectively 
+accounts receivable was million and million as of december  and  respectively 
+the increases in accounts payable and accounts receivable are reflective of higher volume of manufacturing and shipping activity in december compared to the prior year 
+reserves for accounts receivable decreased from  in to  in primarily due to a reduction in the sales returns reserve as the company experienced a reduction of products returned associated in part with the company s revised product line focus 
+inventory grew to million as of december  from million as of due to a million increase in finished goods in anticipation of first quarter sales  partially offset by a reduction in raw materials 
+net cash provided by investing activities was million in proceeds from maturity of short term investments were million compared to million of purchases of short term securities 
+capital expenditures were million during  primarily consisting of million of wafer fabrication equipment and million of computer and other equipment 
+during  net cash used in investing 
+table of contents activities was million 
+proceeds from maturity of short term investments were million compared to million of purchases of short term securities 
+additions to property  plant and equipment were million  partially offset by million of proceeds from sale of test equipment to our subcontractors in asia as part of our outsourcing initiative 
+the million capital spending in was primarily composed of million of wafer fabrication equipment  million of test equipment and million of mask sets 
+we expect our capital spending in absolute dollars will be in the range of million to million  similar to and net cash provided by financing activities in was million 
+in the second quarter of we received cash of million through the private placement of a convertible note with an affiliate of future  a related party 
+in december  we entered into an agreement to terminate this note and accelerate the associated conversion rights 
+as part of this agreement  we received million in cash for this note and forgiveness of  interest charges on both outstanding notes 
+also  during  employee stock option exercises added million 
+in the second quarter of we received cash of million net of placement agency fees and other costs  through the private placement of million shares of sipex common stock 
+on september  we sold a convertible secured note the first note with an attached warrant to an affiliate of future  a related party  for an aggregate cash amount of million 
+the first note was recorded at million and the attached warrant was recorded at million recorded to additional paid in capital based on their fair values at the date of issuance using the black scholes option pricing model 
+the first note paid a coupon and was convertible after one year into million shares of sipex common stock at a conversion price of per share 
+the private placement also included a warrant to purchase  shares of sipex common stock exercisable for a two year period beginning on the one year anniversary of the date of the issuance 
+the exercise price for the warrant is equal to of the average closing price for the five days preceding the closing or 
+on june  we issued a convertible secured note  second note  to an affiliate of future  a related party  for an aggregate cash amount of million 
+the second note paid a coupon and was convertible over a four year period into million shares of sipex common stock at  contingent upon future s attainment of certain sales of our product 
+in december  we entered into an agreement with the affiliates of future to amend certain terms of the first note and the second note 
+the agreement  among other things  amended the second note to provide for full acceleration and vesting of the holder s conversion rights under the second note 
+in addition  the agreement provided that  upon expiration or termination of the hart scott rodino antitrust improvements act of  as amended the hsr act  regulatory waiting period  the holder would convert the second note into million shares of our common stock at the original stated conversion price of per share 
+in exchange for the full acceleration of the conversion rights under the second note  the holder paid us an additional million in cash  forgave  in currently accrued interest and agreed to eliminate our future interest obligations under the second note 
+the agreement also provided that  upon the expiration or termination of the hsr act waiting period  the holder would convert the first note into million shares of our common stock at the original stated conversion price of per share 
+in addition  the holder agreed to immediately eliminate our future interest obligations under the first note 
+the agreement also provided that  upon obtaining the required hsr act clearance  the holders would cancel and otherwise release all security interests these entities may have on any of our assets 
+in february  the us federal trade commission granted early termination of the waiting period under the hsr act and the holders converted the first note and the second note into an aggregate of million shares of our common stock 
+our associated long term debt obligations were extinguished and recorded as equity 
+management believes that our existing cash and cash equivalents are adequate to fund operations  capital expenditures and research and development efforts for the next twelve months  however in the event that we need to arrange additional funds for operations  there is no guarantee that financing will be available or that it 
+table of contents will be on terms that we will accept 
+in the long term  management believes that the results of its recent years restructuring activities  cost control actions and revised product line focus will eventually result in a return to positive cash flow from operations at which time it anticipates that additional equity or debt financing would become available for financing working capital requirements and capital expenditure plans 
+however  there is no guarantee that the company will return to positive cash flow from operations or that financing  if required  will be available or that it will be on terms that we will accept 
+sipex s contractual obligations are as follows in thousands less than more than contractual obligations total year years years years long term debt restructuring liability operating leases purchase commitment purchase commitment total contractual obligations represents future payments if the convertible notes are not converted but no payment was required since the debt was subsequently converted to our common stock in february represents the net present value of estimated future lease payments less sublease income for our unused portion of billerica  massachusetts facility 
+excludes the lease payments related to restructuring facility at billerica  massachusetts 
+minimum purchase commitments to polarfab based on quarterly rolling forecasts extending out for one year 
+fixed payment obligation for license to use software tool for circuit design 
+effect of recent accounting pronouncements in june  the fasb issued sfas no 
+ accounting for costs associated with exit or disposal activities 
+sfas no 
+requires companies to recognize costs associated with exit or disposal activities when they are incurred rather than at the date of commitment to an exit or disposal plan 
+this statement is effective for exit or disposal activities initiated after december  on january   we adopted sfas no 
+and at the time of adoption  there was no material impact on our consolidated financial position or results of operations 
+in november  the fasb issued fasb interpretation no 
+ guarantor s accounting and disclosure requirements for guarantees  including indirect guarantees of indebtedness of others fin 
+fin requires that upon issuance of a guarantee  a guarantor must recognize a liability for the fair value of a stand ready to perform obligation assumed under a guarantee 
+additionally  a guarantor must recognize a contingent obligation to make future payments when such obligation becomes probable and estimable 
+fin also requires additional disclosures by a guarantor in its interim and annual financial statements about the obligations associated with guarantees issued 
+the recognition provisions of fin will be effective for any guarantees that are issued or modified after december  the adoption of fin did not have a material impact on our consolidated financial position or results of operations or cash flows 
+in january  the fasb issued fasb interpretation no 
+ consolidation of variable interest entities fin 
+this interpretation provides guidance on the identification of entities controlled through means other than voting rights 
+fin specifies how a business enterprise should evaluate its interests in a variable interest entity to determine whether to consolidate that entity 
+a variable interest entity must be consolidated by its primary beneficiary if the entity does not effectively disperse risks among the parties involved 
+in december the fasb issued fin r which defers the implementation date for the company to the first quarter of as the company does not have an interest in a variable interest entity  it does not expect the adoption to have a material impact on the company s financial position  results of operations or cash flows 
+
+table of contents in april  the fasb issued sfas no 
+ amendment of statement on derivative instruments and hedging activities sfas 
+sfas amends and clarifies financial accounting and reporting for derivative instruments  including certain derivative instruments embedded in other contracts and for hedging activities under sfas no 
+ accounting for derivative instruments and hedging activities 
+sfas will be effective for contracts entered into or modified after june  our adoption of sfas did not have a material impact on our consolidated financial position  results of operations or cash flows 
+on may   the fasb issued sfas no 
+ accounting for certain financial instruments with characteristics of both liabilities and equity sfas 
+sfas requires issuers to classify as liabilities or assets in some circumstance three classes of freestanding financial instruments that embody obligations for the issuer 
+generally  sfas is effective for financial instruments entered into or modified after may  and is otherwise effective at the beginning of the first interim period beginning after june  we adopted the provisions of sfas on june   and the adoption did not have an effect on our consolidated financial position  results of operations or cash flows 
+in december  the sec issued staff accounting bulletin sab no 
+ revenue recognition sab no 
+ which codifies  revises and rescinds certain sections of sab no 
+ revenue recognition  in order to make this interpretive guidance consistent with current authoritative accounting and auditing guidance and sec rules and regulations 
+the changes noted in sab no 
+did not have a material effect on our consolidated results of operations  consolidated financial position or consolidated cash flows 
+factors affecting future results our quarterly and annual operating results are volatile and difficult to predict and may cause our stock price to fluctuate 
+our quarterly and annual operating results are affected by a wide variety of factors that could materially and adversely affect net sales and profitability from period to period  including the cyclical nature of the semiconductor industry  competitive pressures on selling prices  the timing and cancellation of customer orders  the availability of foundry capacity  raw materials and assembly and test capacity  fluctuations in yields  changes in product mix  our ability to introduce new products and technologies on a timely basis  the introduction of products and technologies by our competitors  market acceptance of our products and our customers products  the level of orders received that can be shipped in a quarter  delays in shipments from our fabrication plant to assembly houses  our ability to manufacture in the correct mix to respond to orders on hand and new orders received in the future  the timing of investments in research and development  including tooling expenses associated with product development  process improvements and production  the level of future product returns  and the overall economic conditions in the united states and abroad 
+
+table of contents due to the absence of substantial non cancelable backlog  we typically plan our production and inventory levels based on internal forecasts of customer demand  which are highly unpredictable and can fluctuate substantially 
+our expense levels are based  in part  on expectations of future revenues and are  to a large extent  fixed in the short term 
+for example  we have a minimum purchase arrangement with one of our suppliers based on requirements forecasted one year in advance 
+our future revenues are difficult to predict and at times in the past we have failed to achieve revenue expectations 
+we may be unable to adjust spending in a timely manner to compensate for any unexpected revenue shortfall 
+if revenue levels are below expectations for any reason  operating results are likely to be unfavorably affected 
+we may also take steps to adjust our strategic product families and change our cost structure  which may result in our incurring additional restructuring  reorganization and other charges 
+based on forecasts  we may increase our operating expenses for personnel and new product development and for inventory in anticipation of increasing sales levels  therefore  operating results would be worsened if increased sales are not achieved 
+in addition  we are limited in our ability to reduce costs quickly in response to any revenue shortfalls 
+in addition  our quarterly and annual operating results may continue to be affected by non cash charges against our net sales such as the fair value of conversion rights associated with the note issued to an affiliate of future  our largest distributor 
+in this regard  non cash charges of million for the quarter ended september  and million for the quarter ended december  which reduced our net sales by such amounts and increased our net loss by the same amounts  adversely impacting our net loss per share 
+the note associated with these non cash charges has been extinguished  and we will not incur additional non cash charges to sales from the second note 
+from through  the semiconductor industry experienced a prolonged and severe downturn that adversely affected our results of operations 
+our net sales before the non cash charge for the fair value of debt conversion rights for the year ended december  decreased from the corresponding prior year period 
+our business depends on market demand for products using analog semiconductors 
+prolonged downturns in the semiconductor industry lead to decreases in net sales levels and may cause continued losses and cash flow shortages 
+as a result of the foregoing and other factors  we may experience material fluctuations in future operating results on a quarterly or annual basis  which could substantially negatively affect our business  financial condition and operating results 
+our auditors have informed our audit committee of the existence of reportable conditions in our internal control as part of the communications by our independent auditors  deloitte touche llp  or d t  to our audit committee with respect to d t s audit for the year ended december   d t informed the audit committee that they had identified the following reportable conditions in our internal control deficiencies in our process for deferring costs related to deferred sales to our largest distributor  future  and deficiencies in our accounting department and related reliance on manual reconciliations and analysis 
+the reportable conditions noted above  if not addressed  could result in accounting errors such as those underlying the restatements of our consolidated financial statements more fully discussed in note to our consolidated financial statements 
+our failure to fully address these reportable conditions could have a material adverse effect on our business  results of operations and financial condition 
+please see item a controls and procedures below 
+
+table of contents if we are unable to promptly and effectively implement adequate controls  systems and procedures  we may continue to experience weaknesses in our internal controls and operations that could call into question the accuracy of our financial results and we may be unable to achieve section certification as mandated under the sarbanes oxley act 
+as a result of the december  audit of the consolidated financial statements  our former auditors noted certain matters involving internal control and its operation that they considered to be material weaknesses under standards established by the american institute of certified public accountants 
+material weaknesses are significant deficiencies in the design or operation of internal control that could adversely affect our ability to record  process  summarize and report financial data consistent with the assertions of management in the financial statements 
+by definition  material weaknesses do not reduce to a relatively low level the risk that errors or fraud  in amounts that would be material in relation to the financial statements being audited  may occur and may not be detected within a timely period by employees in the normal course of performing their assigned functions 
+the material weaknesses noted during the audit resulted from the deficiencies in the systems and processes used in the preparation of the financial statements and the lack of proper management review and account analysis in certain areas 
+although other areas were impacted by the material weaknesses  the most significant issues arising from the material weaknesses included inappropriate process and systems tracking of inventory  including significant manual reconciliations  as well as inappropriate and insufficient analysis performed in evaluating inventory costs capitalized and inventory excess and obsolete reserves established 
+to ensure appropriate analysis  we must systemize processes by establishing appropriate guidelines that will reduce the level of manual reconciliations  as well as improve the account analysis methodologies and increase the level of supervisory and management review 
+our ability to implement our business plan successfully in a volatile market requires effective management systems and a system of financial processes and controls 
+in that regard  we are in the process of implementing a new enterprise requirements planning system 
+if we are unable to maintain an adequate level of processes and controls and improve our systems  we may not be able to accurately report our financial performance on a timely basis and our business and stock price would be adversely affected 
+in addition  we may be unable to achieve section certification as mandated by the sarbanes oxley act 
+we may experience difficulties in developing and introducing new or enhanced products necessitated by technological advances 
+our future success will depend  in part  upon our ability to anticipate changes in market demand and evolving technologies 
+to remain competitive  we must enhance our current products and develop and introduce new products that keep pace with technological advancements and address the increasingly sophisticated needs of our customers 
+our products may be rendered obsolete if we fail to anticipate or react to change  and  as a result  our revenues and cash flow may be negatively impacted 
+our success depends on our ability to develop new semiconductor devices for existing and new markets  to introduce these products in a timely manner and to have these products selected for design into new products of our customers 
+the development of these new devices is highly complex and from time to time we have experienced delays in completing the development of new products 
+successful product development and introduction depends on a number of factors  including accurate new product definition  timely completion and introduction of new product designs  availability of foundry capacity  achievement of manufacturing yields  and market acceptance of our products and our customers products 
+our success also depends upon our ability to accurately specify and certify the conformance of our products to applicable standards and to develop our products in accordance with customer requirements 
+there can be no assurance that we will be able to adjust to changing market conditions as quickly and cost 
+table of contents effectively as necessary to compete successfully 
+there can be no assurance that we will be able to introduce new products in a timely and cost effective manner or in sufficient quantities to meet customer demand or that these products will achieve market acceptance 
+furthermore  there can be no assurance that our customers products will achieve market acceptance 
+we depend on distributors who sell directly to oems 
+approximately of our net sales for the twelve months ended december  are from shipments of our product to distributors who sell directly to oems 
+our agreements with distributors contain limited provisions for return of our product  including stock rotations whereby distributors may return a percentage of their product based upon a percentage of their most recent three or six months shipments 
+effective in the first quarter of  all distributors may return products on a three month cycle 
+in addition  in certain circumstances upon termination of the distributor relationship distributors may return a percentage of purchases 
+the loss of business from any of our significant distributors or the delay of significant orders from any of them  even if only temporary  could significantly reduce our income  delay recognition of revenue and impact our ability to accurately predict cash flow 
+we estimate the amount of future returns and have established reserves for estimated returns based upon information including sales during the period into the distribution channel  reported sell through by distributors to oems  distributor inventory levels and the specific terms of the distributor agreements as well as historical returns experience 
+we defer revenue on shipments to future until the product is resold by the distributor to the end user sell through 
+these provisions  as well as the significant share ownership by future  cause management to conclude that reasonable estimates of price concessions and returns cannot be made at the time of shipment to future 
+we derive a substantial portion of our revenues from future  a related party  and our revenues would likely decline significantly if future elects not to make  cancels  reduces or defers purchases of our products 
+future has historically accounted for a significant portion of our revenues 
+it is our largest distributor worldwide  and accounted for of total net sales before taking into account non cash charges for the fair value of debt conversion rights for the twelve months ended december   and and of total net sales for the years ended december  and  respectively 
+we anticipate that sales of our products to future will continue to account for a significant portion of our revenues 
+the loss of future as a distributor  or a significant reduction in orders from future would materially and adversely affect our operating results  our business  our financial condition and our stock price 
+we have a distributor agreement with future that provides for future to act as our sole distributor for certain products within north america and europe 
+sales to this distributor are made under an agreement that provides protection against price reduction for their inventory of sipex products 
+sipex maintains a separate price list for products sold to future  which may be different from the prices charged to customers in direct sales transactions 
+our distributor agreement with future does not contain minimum purchase commitments 
+as a result  future could cease purchasing our products with short notice to us 
+in addition  future may defer or cancel orders without penalty  which would likely cause our revenues  our business  our financial condition and our stock price to decline 
+we may not successfully expand our sales and distribution channels 
+an integral part of our strategy is to expand our sales and distribution channels 
+we are increasing resources dedicated to developing and expanding these channels but we may not be successful doing so 
+if we are successful in increasing our sales through indirect sales channels  we expect that those sales will be at lower per unit prices than sales through direct channels  and revenues we receive for each sale will be less than if we had sold the same product to the customer directly 
+selling through indirect channels may also limit our contact with our customers 
+as a result  our ability to accurately forecast sales  evaluate customer satisfaction and recognize emerging customer requirements may be hindered 
+even if we successfully expand our distribution channels  any new distributors may not have the technical expertise required to market and support our products successfully 
+if parties do not provide adequate levels of services and technical support  
+table of contents our customers could become dissatisfied  we could be required to devote additional resources for customer support and our brand name and reputation could be negatively impacted 
+our strategy of marketing products directly to our customers and indirectly through distributors may result in distribution channel conflicts 
+affiliates of future  our largest distributor  beneficially own a significant percentage of our common stock  which will allow them to significantly influence matters requiring shareholder approval and could discourage potential acquisitions of our company 
+as of december   affiliates of future  our largest distributor  held approximately million shares of our common stock  or approximately  of our outstanding common stock 
+during february  the affiliates of future exercised the conversion rights to convert their notes into our common stock for an additional million shares  bringing their ownership up to million shares of our outstanding capital stock 
+the affiliates of future also continue to hold a warrant to purchase  shares of our common stock 
+affiliates of future are not currently represented on our board of directors and do not have contractual rights to such representation or to any participation in the corporate governance of sipex management 
+due to their ownership of a significant percentage of our common stock  these security holders will be able to exert significant influence over actions requiring the approval of our shareholders  including many types of change of control transactions and amendments to our charter documents 
+the significant ownership percentage of these security holders could have the effect of delaying or preventing a change of control sipex or otherwise discouraging a potential acquirer from obtaining control of sipex 
+we may face significant risks related to our international operations 
+we derive a significant portion of our net sales from international sales  including asia  which are subject to certain risks  including unexpected changes in legal and regulatory requirements  changes in tariffs  exchange rates and other barriers  political and economic instability  difficulties in accounts receivable collection  difficulties in managing distributors or representatives  difficulties in staffing and managing international operations  difficulties in protecting our intellectual property overseas  the seasonality of sales  and potentially adverse tax consequences 
+our international sales  excluding canada  in the twelve months period ended december  were million or of total net sales before fair value of debt conversion rights and million and million for the years ended and  respectively  or and of total net sales  respectively 
+there can be no assurance that economic and geopolitical troubles in any area of the world will not have a material adverse effect on our business  results of operations and financial condition 
+our inability to meet any increase in demand could reduce our market share 
+demand shifts in the semiconductor industry are rapid and difficult to predict  and we may not be able to respond quickly enough to an increase in demand  if any 
+our ability to increase sales of our products depends  in part  upon our ability to optimize the use of our manufacturing capacity in a timely manner and  if necessary  expand our manufacturing capacity 
+if we are unable to respond to rapid increases in demand  if 
+table of contents any  for our products on a timely basis or to manage any corresponding expansion of our manufacturing capacity effectively  our customers could increase their purchases from our competitors  which would reduce our market share 
+our financial results may be adversely affected due to the highly volatile optical storage market 
+a significant component of our growth strategy depends on increasing shipments in the optical storage market 
+during and  we derived all of our optical storage sales from a limited number of customers in japan 
+local suppliers in japan may have a competitive advantage over sipex  which could adversely affect our ability to grow sales or continue to compete in japan or other regions of the world 
+any failure to increase our shipments in the optical storage market could limit our ability to grow our business and could adversely affect our operating results 
+if we are unable to compete effectively with existing or new competitors  we will experience fewer customer orders  reduced revenues  reduced gross margins and lost market share 
+we compete in markets that are intensely competitive  and which are subject to both rapid technological change and continued price erosion 
+our competitors include many large domestic and foreign companies that have substantially greater financial  technical and management resources than we have 
+loss of competitive position could result in price reductions  fewer customer orders  reduced revenues  reduced gross margins and loss of market share  any of which would affect our operating results and financial condition 
+to remain competitive  we continue to evaluate our manufacturing operations  looking for additional cost savings and technological improvements 
+if we are not able to successfully implement new process technologies and to achieve volume production of new products at acceptable yields  our operating results and financial condition may be affected 
+in addition  if competitors in asia reduce prices on commodity products  it would adversely affect our ability to compete effectively in that region 
+our future competitive performance depends on a number of factors  including our ability to accurately identify emerging technological trends and demand for product features and performance characteristics  develop and maintain competitive products  enhance our products by adding innovative features that differentiate our products from those of our competitors  bring products to market on a timely basis at competitive prices  respond effectively to new technological changes or new product announcements by others  increase device performance and improve manufacturing yields  adapt products and processes to technological changes  and adopt and or set emerging industry standards 
+there can be no assurance that our design  development and introduction schedules for new products or enhancements to our existing and future products will be met 
+in addition  there can be no assurance that these products or enhancements will achieve market acceptance  or that we will be able to sell these products at prices that are favorable 
+we have only limited protection for our proprietary technology 
+the semiconductor industry is characterized by frequent litigation regarding patent and other intellectual property rights 
+although we are not aware of any pending or threatened patent litigation that we consider material  there can be no assurance that third parties will not assert claims against us with respect to existing or future products or technologies and we have been subject to such claims in the past 
+in litigation to determine the validity of any third party claims  such litigation  whether or not determined in our favor could result in significant expense to us and divert the efforts of our management personnel from productive tasks 
+in 
+table of contents the event of an adverse ruling in such litigation  we may be required to discontinue the use of certain processes  cease the manufacture  use and sale of infringing products  and expend significant resources to develop non infringing technology or obtain licenses to the infringing technology 
+there can be no assurance that licenses will be available on acceptable terms  or at all  with respect to disputed third party technology 
+in the event of a successful claim against us and our failure to develop or license a substitute technology at a reasonable cost  our business  financial condition and results of operations would be materially and adversely affected 
+there can be no assurance that foreign intellectual property laws will protect our intellectual property rights 
+furthermore  there can be no assurance that others will not independently develop similar products  duplicate our products or design around any of our patents 
+we may be subject to  or may initiate  interference proceedings in the us patent office  which can demand significant financial and management resources 
+our future success depends on retaining our key personnel and attracting and retaining additional highly qualified employees 
+our success depends upon the continued service of our executive officers and other key management and technical personnel  and on our ability to continue to attract  retain and motivate qualified personnel  such as experienced analog circuit designers 
+the competition for these employees is intense 
+our employee s are employees at will  which means that they can terminate their employment at any time 
+there can be no assurance that we will be able to retain our design engineers  executive officers and other key personnel 
+the loss of the services of one or more of our design engineers  executive officers or other key personnel or our inability to recruit replacements for these personnel or to otherwise attract  retain and motivate qualified personnel could seriously impede our success 
+we have recently experienced significant changes in senior management and our corporate organization 
+our senior vice president of finance and chief financial officer  senior vice president of sales and vice president of engineering joined our company in in particular  our chief financial officer  phillip kagel  joined sipex in february  after the audit of our financial statements for the year ended december  was substantially complete 
+changes in management may be disruptive to our business and may result in the departure of existing employees and or customers 
+our manufacturing processes are very complex  which may result in manufacturing difficulties 
+our manufacturing processes are highly complex and are continuously being modified in an effort to improve yields and product performance 
+process changes can result in interruptions in production or significantly reduced yields causing product introduction or delivery delays 
+in addition  yields can be adversely affected by minute impurities in the environment or other problems that occur in the complex manufacturing process 
+many of these problems are difficult to diagnose and are time consuming or expensive to remedy 
+from time to time we have experienced unfavorable yield variances 
+in particular  new process technologies or new products can be subject to especially wide variations in manufacturing yields and efficiency 
+there can be no assurance that our foundries will not experience unfavorable yield variances or other manufacturing problems that result in delayed product introduction or delivery delays 
+we rely on outside foundries to supply certain of our wafers and those foundries may not produce at acceptable levels 
+we rely on outside foundries to supply certain of our fully processed semiconductor wafers 
+this reliance on outside foundries presents the following potential risks lack of adequate wafer supply  limited control over delivery schedules  unavailability of or delays in obtaining access to key process technologies  and limited control over quality assurance  manufacturing yields and production costs 
+
+table of contents additionally  the manufacture of integrated circuits is a highly complex and technologically demanding process 
+our third party foundries have  from time to time  experienced lower than anticipated manufacturing yields  particularly in connection with the introduction of new products and the installation and start up of new process technologies 
+there can be no assurance that our outside foundries will not experience lower than expected manufacturing yields in the future 
+additionally  we do not have a guaranteed level of production capacity at any of these foundries with the exception of one of our foundries for whom we provide minimum purchase commitments in accordance with our supply agreement announced on august  see note for commitments and contingencies 
+the ability of each foundry to provide wafers to us is limited by the foundry s available capacity  and the foundry s allocation of its available capacity among multiple customers 
+there can be no assurance that our third party foundries will allocate sufficient capacity to satisfy our requirements 
+we have experienced decreased allocations of wafer supplies from our suppliers in the past  which reduced our capacity to ship products  and  thus  recognize revenues 
+additionally  any sudden reduction or elimination of any primary source or sources of fully processed wafers could result in a material delay in the shipment of our products 
+if any other delays or shortages occur in the future  our business and operating results will be negatively impacted 
+our wafer fabrication facility and the facilities of certain of our significant customers and third party wafer suppliers are located in areas susceptible to earthquakes 
+our in house fabrication facility and the facilities of certain of our significant customers and third party wafer suppliers are located in areas that are susceptible to earthquakes 
+damage caused by earthquakes may result in shortages in water or electricity or transportation  which could limit the production capacity of our wafer facility and or the ability of certain of our subcontractors to provide needed products 
+any reduction in production capacity or the ability to obtain fully processed semiconductor wafers could cause delays or shortages in our product supply  which would negatively impact our business 
+if our facilities or the facilities of our customers are damaged by future earthquakes  it could have a materially adverse effect on our business 
+we rely on outside suppliers to assemble  test and ship product to our customers 
+we rely on outside assembly houses to assemble  test and ship our product to end customers 
+there can be no assurance that our third party suppliers will allocate sufficient capacity to us to meet our requirements 
+any sudden reduction or elimination of a primary source could result in material delay in the shipment of our product and could have a material adverse affect on our business and operating results 
+we have limited control over quality assurance  manufacturing yields and production costs 
+we have in the past experienced yield issues and delays 
+we could experience delays or yield issues in the future due to the transfer of products from development to production  which could negatively impact our business and operating results 
+we must comply with significant environmental regulations  which is difficult and expensive 
+we are subject to a variety of federal  state and local governmental regulations related to the use  storage  discharge and disposal of toxic  volatile or otherwise hazardous chemicals used in our manufacturing processes 
+although we believe that our activities conform to presently applicable environmental regulations  the failure to comply with present or future regulations could result in fines being imposed on us  suspension of production or a cessation of operations 
+any failure by us to control the use of  or adequately restrict the discharge of  hazardous substances  or otherwise comply with environmental regulations  could subject us to significant future liabilities 
+in addition  there can be no assurance that we have not violated laws or regulations in the past  which violations could result in remediation or other significant liabilities  or that past use or disposal of environmentally sensitive materials in conformity with then existing environmental laws and regulations will not result in remediation or other significant liabilities under current or future environmental laws or regulations 
+
+table of contents it would be difficult for us to adjust our spending significantly if we experience any revenue shortfalls 
+our future revenues are difficult to predict and at times in the past we have failed to achieve our revenue expectations 
+our expense levels are based in part  on our expectations of future revenues  and expense levels are  to a large extent  fixed in the short term 
+since the fourth quarter of  we have adjusted our spending levels as a result of decreased revenues and continue to focus on controlling costs 
+we may  however  be unable to adjust spending in a timely manner to compensate for any unexpected revenue shortfall 
+if revenue levels are below expectations for any reason our operating results will be negatively impacted 
+due to the absence of substantial non cancelable backlog  we typically plan our production and inventory levels based on internal forecasts of customer demand  which are highly unpredictable and often fluctuate substantially 
+in the future  if we believe that demand is increasing  our operating expenses for personnel  new product development and for inventory would correspondingly increase as needed in anticipation of increasing sales levels 
+our operating results would be negatively impacted if increased sales were not achieved 
+in addition  we are limited in our ability to reduce costs quickly in response to any revenue shortfalls 
+we may have capital requirements to maintain and grow our business and we may not be able to secure adequate capital on acceptable terms 
+in order to remain competitive  we must continue to make investments in our facilities and capital equipment 
+we obtained additional funding through the private placement of million shares of sipex common stock on april   which provided million  net of placement agent fees and other costs of issuance  and through the private placement of a convertible secured note and related warrant on september   which provided approximately million  net of costs of issuance 
+we obtained funding from the private placement of a convertible secured note on june  which provided approximately million  net of costs of issuance 
+in december  we entered into an agreement to amend both outstanding convertible notes and accelerated the associated conversion rights 
+in connection with this agreement  we received million in cash 
+during february  the note holders converted their notes into our common stock  resulting in dilution to our shareholders 
+if we require additional financing  it may not be available or available on terms acceptable to us  and could result in additional dilution to existing shareholders 
+our stock price has been volatile and could continue to remain volatile 
+the trading price of our common stock is subject to wide fluctuations in response to quarter to quarter variations in operating results  announcements of technological innovations or new products by us or our competitors  general conditions in the semiconductor manufacturing and electronic markets  changes in earnings estimates by analysts  or other events or factors 
+in addition  the public stock markets have experienced extreme price and trading volume volatility in recent months 
+in the fourth quarter of  our stock closing price ranged from a high of to a low of 
+in the fourth quarter of  our stock closing price ranged from a high of to a low of 
+this volatility has significantly affected the market prices of securities of many technology companies for reasons frequently unrelated to the operating performance of the specific companies 
+these broad market fluctuations may adversely affect the market price of our common stock 
+we could face securities litigation if our stock price remains highly volatile 
+in the past  securities class action litigation has often followed periods of volatility in the market price of a company s securities 
+in the past  we were named in two virtually identical securities class action lawsuits 
+the complaints and unspecified damages alleged  among other things  that our financial statements for the second and third quarters of fiscal year contained incorrect statements 
+on april   the us district court dismissed both suits with prejudice 
+the litigation process is inherently uncertain and unpredictable  however  and there can be no guarantee that we will not become subject to such suits in the future 
+moreover  there can be no guarantee that if we do become subject to such suits  that the ultimate outcome will be similar to the cases noted above 
+any litigation 
+table of contents could result in substantial costs and a diversion of management s attention and resources  which could negatively impact our business 
+changes in laws  regulations and financial accounting standards may affect our reported results of operations 
+the recently enacted sarbanes oxley act of and related regulations may result in changes in accounting standards or accepted practices within our industry 
+new pronouncements and varying interpretations of pronouncements have occurred in the past and are likely to occur in the future as a result of recent congressional and regulatory actions 
+new laws  regulations  and accounting standards  as well as the questioning of  or changes to  currently accepted accounting practices in the technology industry may adversely affect our reported financial results  which could have an adverse effect on our stock price 
+proposals have been made concerning the expensing of stock options which could result in rules or laws that may adversely affect our reported financial results and have an adverse effect on our stock price 
+we are incurring additional costs and devoting more management resources to comply with increasing regulation of corporate governance and disclosure 
+we are spending an increased amount of management time and external resources to understand and comply with changing laws  regulations and standards relating to corporate governance and public disclosure  including the sarbanes oxley act of  new sec regulations and nasdaq stock market rules listing requirements 
+devoting the necessary resources to comply with evolving corporate governance and public disclosure standards may result in increased general and administrative expenses and a diversion of management time and attention to these compliance activities 
+the implementation of a new management information system may disrupt our business 
+we are implementing a new enterprise resource planning and financial accounting and planning system starting in the first quarter of  and integrating this new system with our customer relationship management system and our product management system 
+implementation of the new management information system  including the integration with other systems  is a very complex process that requires significant financial resources and personnel time  as well as unifying operating policies and procedures to ensure that the total system operates efficiently and effectively 
+delays or errors in the implementation could result in additional costs and cause disruptions to our business  which could adversely affect our ability to accurately report our financial results on a timely basis and could have a material adverse effect on our business  financial condition and operating results 
+item a 
+quantitative and qualitative disclosures about market risk market risk we invest excess cash in financial investments that are sensitive to market risks as part of our investment strategy 
+none of these market sensitive instruments are held for trading purposes 
+we do not own derivative financial instruments in our portfolio 
+the investment portfolio contains instruments that are subject to the risk of a decline in interest rates 
+as required by our investment policy  available funds are invested in a manner that assures maximum safety and liquidity and  secondarily  maximizes yield within such constraints 
+interest rate risk our financial investments consist primarily of high quality commercial paper and money market funds 
+we do not believe that it has a material exposure to interest rate risk 
+our exposure to market risk for changes in interest rates relates primarily to the increase or decrease in the amount of interest income we can earn on our investment portfolio 
+the two debt instruments that we entered into had fixed interest rates 
+we do not use derivative financial instruments or engage in hedging activities in our investment portfolio 
+we ensure the safety and preservation of our invested principal funds by 
+table of contents limiting default risks  market risk and reinvestment risk 
+we mitigate default risk by investing in safe and high credit quality securities 
+at december  we had short term investments of million 
+our short term investments consisted of highly liquid investments with original maturities at the date of purchase of between day and days 
+these investments are subject to interest rate risk and will fall in value if market interest rates increase 
+the company believes a hypothetical increase in market interest rates by from levels at december   would cause the fair value of these short term investments to fall by an immaterial amount 
+since we are not required to sell these investments before maturity  we have the ability to avoid realizing losses on these investments due to a sudden change in market interest rates 
+on the other hand  declines in the interest rates over time will reduce our interest income 
+we had two outstanding convertible notes for million  at december  these instruments had a fixed interest rate of and per annum 
+because the interest rates of these instruments were fixed  a hypothetical increase in interest rates will not have a material effect on our financials 
+interest rate increases  however  will increase interest expense associated with future borrowings by us  if any 
+we do not hedge against interest rate fluctuations 
+also  these two convertible notes were subsequently converted to our common stock in february foreign currency exchange risk the majority of our sales  expense  and capital purchasing activities are transacted in us dollars 
+however  since a portion of our operations consists of sales activities outside of the us  we enter into transactions in other currencies 
+we are primarily exposed to changes in exchange rates for the euro  japanese yen  and british pound 
+currently  we have no plan to enter into any foreign currency hedging program since the amounts involved have not been material 
+foreign currency fluctuations did not have a material impact on our consolidated financial position  results of operations or cash flows in fiscal  and 

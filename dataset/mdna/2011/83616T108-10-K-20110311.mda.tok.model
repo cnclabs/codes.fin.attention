@@ -1,0 +1,854 @@
+item management s discussion and analysis of financial condition and results of operations 
+we operate in an industry in which it is difficult to obtain precise industry and market information 
+although we have obtained some industry data from outside sources that we believe to be reliable  in certain cases we have based statements contained in this annual report regarding our industry and our position in the industry on our estimates concerning  among other things  our customers and competitors 
+these estimates are based on our experience in the industry  conversations with our principal suppliers and customers and our own investigations of market conditions 
+the statistical data contained in this annual report regarding the cybersecurity industry are our statements  which are based on data we obtained from industry sources 
+sourcefire  sourcefire ips tm  razorback tm  snort  the sourcefire logo  the snort and pig logo  security for the real world tm  sourcefire defense center  sourcefire d  rna  rua tm  daemonlogger tm  clamav  immunet tm and certain other trademarks and logos are trademarks or registered trademarks of sourcefire  inc in the united states and other countries 
+this annual report also refers to the products or services of other companies or persons by the trademarks and trade names used and owned by those companies or persons 
+part i item business overview we are a leading provider of intelligent cybersecurity solutions for information technology  or it  environments of commercial enterprises  including healthcare  financial services  manufacturing  energy  education  retail and telecommunications companies  and federal  state and local government organizations worldwide 
+our solutions are comprised of multiple hardware  software and cloud based product and service offerings  enabling comprehensive  intelligent protection before  during and after an attack 
+since our founding in  we have been a staunch advocate for open source security solutions 
+over the years  this has developed into a key competitive distinction 
+we manage the security industry s leading open source initiative  snort  which was first published in by sourcefire founder and chief technology officer  martin roesch  and has become the de facto standard for intrusion detection and prevention 
+with over  registered users  an increase of more than over  and nearly million downloads  more organizations use snort than any other intrusion prevention system  or ips  engine in the world 
+we also manage the clamav and razorback tm open source initiatives 
+sourcefire embraces open source security as a foundation  but extends that foundation by including enterprise class features  manageability  scalability  and performance in our commercial products 
+many sourcefire customers start out using open source snort  but upgrade to our commercial offerings to gain more efficient and effective security capabilities 
+by incorporating open source security as a foundation in our commercial product offerings  sourcefire can seed the market with high quality  low cost security solutions while providing a migration path for customers that require enterprise class features  manageability  scalability and performance  ensure product quality with the help of the open source community  as well as sourcefire s internal developers  to inspect the open code base that forms the foundation for our commercial product offerings  maximize protection  as snort rules are provided by sourcefire and a variety of third party sources  allowing customers to create their own custom rules and signatures  and embrace a community of open source evangelists willing to contribute time and effort in inspecting  evaluating  and ultimately using sourcefire s open source security solutions 
+we sell our solutions to a diverse customer base that includes global companies  global enterprises  us and international government agencies  small and mid size businesses  and through our acquisition of immunet corporation  consumers 
+for the years ended december   and  we generated approximately  and of our revenue from customers in the united states and  and from customers outside of the united states  respectively 
+we increased our total revenue from million in to million in  representing an annual growth rate of 
+for the year ended december   product revenue and services revenue represented and of our total revenue  respectively 
+we manage our operations on a consolidated basis for purposes of assessing performance and making operating decisions 
+accordingly  we do not have reportable segments of our business 
+our industry according to gartner  inc  an independent it market research firm  enterprise security infrastructure is forecasted to be a billion market in gartner also estimates that the core intrusion prevention market was approximately billion in and is projected to grow to billion in  representing a compound annual growth rate of approximately 
+we expect that demand for security solutions will continue to rise as organizations seek to address various growing and evolving security challenges  including greater sophistication  severity and frequency of attacks 
+the nature of computing is changing and so are the attack vectors being used to compromise systems and networks 
+in contrast to the hobbyist hackers of the past  today s attackers are motivated by financial gain 
+these motivated attackers are employing much more sophisticated tools and techniques to generate profits for themselves and their well organized and well financed sponsors 
+their attacks are increasingly difficult to detect and their tools often establish footholds on compromised network assets with little or no discernible effect  facilitating future access to the assets  the data  and the networks on which they reside 
+diverse demands on security administrators 
+the proliferation of targeted security solutions such as firewalls  intrusion prevention systems  url filters  spam filters and anti malware solutions  while critical to enhancing security  create significant administrative burdens on personnel who must manage numerous disparate technologies that are seldom integrated and often difficult to use 
+most security products require manual  labor intensive incident response and investigation by security administrators  especially when false positive results are generated 
+compounding these resource constraint issues  many organizations are increasingly challenged by the loss of key personnel as the demand for security experts has risen dramatically in traditional corporate settings  government agencies and a growing number of start up security companies 
+heightened government and industry regulation 
+rapidly growing government regulation mandates compliance with increased security requirements  escalating demand for solutions that both meet compliance requirements and reduce the burden of compliance reporting and enforcement 
+these regulations include the payment card industry data security standard  or pci dss  the health insurance portability and accountability act of  or hipaa  as well as the sarbanes oxley act of for risk management and the federal information security management act  or fisma  which is designed to protect national defense initiatives 
+our products sourcefire s intelligent cybersecurity product and technology portfolio is comprised of hardware with embedded software  software and cloud based solutions 
+our network protection products sourcefire intrusion detection and prevention sensors with processing speeds ranging from megabytes per second  or mbps  to gigabytes per second  or gbps  sourcefire sensors are highly scalable  fault tolerant appliances responsible for detecting  blocking and analyzing network traffic 
+the sensors are available as a hardware appliance and as a virtual appliance to meet the security needs of almost any organization 
+sourcefire ips intrusion prevention system built on the foundation of snort  sourcefire ips uses a rules based language a powerful combination of signature  protocol  and vulnerability based inspection methods to examine network packets for threats 
+sourcefire ips allows users to create  edit  and view detection rules  and full packet payloads are logged for every event so users can see exactly what threatening traffic has been detected 
+sourcefire sensors equipped with sourcefire ips software can be placed in passive intrusion detection  or ids  mode to notify users of network traffic or in inline ips mode to block threats 
+sourcefire ngips next generation intrusion prevention system sourcefire s ngips adds additional network intelligence to our standard ips protection 
+at the heart of our ngips is real time persistent visibility into the composition  behavior  topology the relationship of network components  and risk profile of the network  as well as the correlation of security and network events with specific users 
+network intelligence feeds the sourcefire defense center automated decision making and network policy enforcement to resolve security and compliance events more quickly and easily 
+the ability to continuously discover characteristics and vulnerabilities of practically any computing device communicating on a network enables sourcefire ngips to more precisely identify and block threatening traffic and to more efficiently classify threatening and or suspicious behavior 
+in addition  sourcefire ngips can aggregate netflow data from cisco routers and switches  extending the reach of sourcefire s network behavior analysis 
+sourcefire ngfw next generation firewall announced in october and targeted for release in the fourth quarter of  sourcefire s ngfw will add application control and traditional firewall functionality to our ngips capabilities 
+sourcefire ssl appliance the sourcefire ssl appliance decrypts ssl traffic for inspection by network security appliances  allowing security teams to monitor ssl traffic for embedded attacks and data leakage 
+we believe the ssl appliance is the highest performing product in the market with the most comprehensive feature set 
+it requires minimal configuration changes and is designed to work with all security devices 
+sourcefire defense center the defense center unifies the critical security functions of the sourcefire product portfolio  combining event monitoring  correlation  and prioritization with network and user intelligence for forensic analysis  trends analysis  reporting and alerting 
+using defense center  customers can control multiple sourcefire sensors from a single management console while aggregating and analyzing security and compliance events from across the organization 
+defense center is highly scalable and extensible  providing application programming interfaces  or apis  to interoperate with a variety of third party systems  such as firewalls  routers  log management  security information event management  or siems  trouble ticketing  patch management systems and other technologies 
+immunet acquisition endpoint protection products on december   we acquired immunet corporation 
+the total acquisition price of million consists of million in cash payable at closing  of which million was paid in and million was paid in an additional million will be paid on the twelve month anniversary of the acquisition date subject to working capital adjustments 
+the remaining million of the acquisition price is expected to be paid within months of the acquisition date to immunet common shareholders upon achievement of product delivery milestones related to the enterprise version of immunet s product 
+immunet tm immunet is an advanced  cloud based anti malware technology designed for use by consumers 
+it combines the collective intelligence of a growing user community  the speed of cloud computing  advanced data mining  and machine learning technologies to provide a groundbreaking approach to cybersecurity 
+immunet s collective immunity tm technology delivers a solution that is more scalable  faster to respond to threats  times smaller  and has significantly less impact on a user s system than traditional anti malware software 
+immunet is distributed in a freemium model basic functionality is provided for free and users can upgrade to a paid version that includes more advanced functionality 
+immunet protect announced in january and targeted for release in the fourth quarter of  the enterprise version of immunet protect is designed for use by enterprises and will add additional functionality to the immunet product including group policy  reporting  and configuration management through a centralized web based interface 
+our open source projects snort the traffic inspection engine used in our intrusion prevention system is the open source technology called snort 
+snort  which has become the de facto industry standard for intrusion prevention  has over  registered users and been downloaded nearly million times 
+we believe that most fortune companies and of the largest us government agencies use snort technology to monitor network traffic and that snort is the most widely deployed intrusion prevention technology worldwide 
+because of its wide availability  snort is also the standard intrusion technology used in colleges and universities worldwide to teach network security 
+clamav clamav is one of the most commonly used open source anti malware products in the world 
+more than million unique ip addresses download clamav updates daily from mirror servers located in countries 
+renowned for its speed and accuracy  clamav has been integrated within leading enterprise solutions to identify deeply embedded threats such as viruses  trojans  spyware and other forms of malware 
+razorback established in august  razorback is an innovative open source project that addresses advanced detection problems  including deep file inspection and defense coordination 
+this project is intended to provide enterprise defense teams with an open source framework for developing the kinds of detection necessary to combat advanced persistent threat  or apt and client side attacks in conjunction with their existing security technologies 
+our services in addition to our commercial product offerings and open source projects  we also offer the following services to aid our customers and partners with installing and supporting our solutions sourcefire customer support sourcefire s customer support is designed to ensure customer satisfaction with sourcefire products 
+sourcefire s comprehensive support services include online technical support  over the phone support  hardware repair and advanced replacement  and ongoing software updates to sourcefire products 
+sourcefire professional services sourcefire offers a variety of professional services solutions to provide customers and partners with best practices for planning  installing  configuring and managing all components of the sourcefire product portfolio 
+the sourcefire professional services team provides individualized  highly concentrated attention that gives organizations a running start and lasting knowledge transfer 
+sourcefire education certification sourcefire offers a variety of training programs to help security professionals using sourcefire commercial or open source security solutions get the most out of their investment 
+sourcefire training includes instructor led and custom classes delivered at various locations around the world  onsite at customer premises  and online 
+security professionals can achieve certifications for proprietary sourcefire products as well as open source snort 
+our competitive strengths we are a leading provider of intelligence driven  open source security solutions that enable our customers to protect their it environments in an effective  efficient and highly automated manner 
+our competitive strengths include advanced protection 
+sourcefire s innovative and industry leading technologies have been demonstrated  through third party tests  to provide the best protection available against both client side and server side attacks 
+in a world with dynamically evolving threats  targeted attacks  and advanced persistent threats  the ability to customize protection is also required 
+based on the flexibility of snort  customers can create their own custom rules and signatures to protect their unique environments 
+comprehensive network and user intelligence 
+sourcefire s awareness technology provides real time persistent visibility into the composition  behavior  topology the relationship of network components  and risk profile of the network  as well as the correlation of security and network events with specific users 
+the ability to continuously discover characteristics and vulnerabilities of practically any computing device communicating on a network enables sourcefire ips to more precisely identify and block threatening traffic and to more efficiently classify threatening or suspicious behavior 
+correlation and context provide automatic decision making and automated policy enforcement and tuning to resolve security and compliance events more quickly and easily 
+real time approach to security 
+our approach to security enables our customers to secure their networks and endpoints by providing real time defense against both known and unknown threats 
+our solutions are designed to support a continuum of security functions that span pre attack hardening of assets  high fidelity attack identification and disruption and real time compromise detection and incident response 
+leading edge performance 
+our solutions are built to maintain high performance across the network while also providing high levels of network security 
+specifically  our high end solutions have the ability to process up to gbps of traffic with latency in the microseconds 
+our ips technology incorporates advanced traffic processing functionality  including packet acquisition  protocol normalization and target based traffic inspection  which yields increased inspection precision and efficiency and enables more granular inspection of network traffic 
+the open source community 
+we believe that the combined user communities of snort  clamav and razorback provide us with significant benefits  including a broad threat intelligence network  significant research and development leverage  and a large pool of security experts that are skilled in the use of our technologies 
+these communities enable us to more cost effectively test new algorithms and concepts on a vast number of diverse networks and significantly expedite the process of product innovation 
+we believe that the broad acceptance of snort and clamav makes us one of the most trusted sources of security solutions 
+security industry intelligence 
+the sourcefire vrt is a group of leading edge network security experts who proactively discover  assess and respond to the latest trends in hacking activities  intrusion attempts and vulnerabilities 
+some of the most renowned security professionals in the industry  including the authors of several standard security reference books  are members of the sourcefire vrt 
+this team is also supported by the vast resources of the open source snort and clamav communities  making it the largest group dedicated to advances in the network security industry 
+the vrt s research and insights into network security are published on http vrt sourcefire 
+blogspot 
+com 
+our growth strategy our goal is to become the preeminent provider of commercial and open source cybersecurity solutions on a global basis by expanding the breadth of  and our leadership in  security solutions 
+sourcefire is expanding our product and service portfolio by creating purpose built solutions to address specific market and user problems 
+in we announced our entry into two adjacent markets next generation firewalls and endpoint anti malware protection 
+this is expected to increase our addressable market from approximately billion to more than billion over the next years 
+over time we expect to penetrate these and additional markets with innovative products and technologies 
+by leveraging the intelligence from the open source community  we believe that we have more visibility into threats worldwide  and that we will be able to continue our leadership position in providing users access to the latest information on current threats and ways to protect their organizations against them 
+growing our international presence 
+international expansion is a key initiative and we continue to increase our international head count to support our expansion into new territories  to manage our growing network of channel partners and to meet the growing demand for our solutions 
+expanding relationships with partners  resellers  distributors  mssps and government integrators 
+we intend to expand our indirect sales channel  both internationally and domestically  to create a more leveraged sales model 
+we have established our global security alliance channel program to strengthen channel reseller relationships and support them through meaningful programs  including higher margin participation  training  and marketing activities 
+we are making investments in our partners and our objective is to continue to increase the percentage of channel influenced revenue 
+continuing to develop innovative network security technology  evaluating selective adjacent market technologies for partnering or potential acquisition 
+we intend to maintain and enhance our technological leadership position in network  endpoint  and cloud based security 
+we will continue to invest significantly in internal development and product enhancements and to recruit  train  develop and retain experienced security professionals to broaden our proprietary knowledge base 
+awards and certifications we have received numerous industry awards and certifications since january   including gartner magic quadrant 
+sourcefire was recognized by gartner  inc as being a leader in the december magic quadrant for network intrusion prevention system appliances report 
+best ids ips product by sc magazine  february sourcefire was honored with the reader trust award for best in class intrusion detection and prevention 
+best secure virtualization solution by sc magazine europe  april snort was honored with the reader trust award for best in class intrusion detection and prevention 
+top recommend rating and best overall detection in network intrusion prevention system comparative test report  nss labs inc december immunet achieved detection in malware research group pua analysis infection prevention report  january immunet was the only anti malware product to achieve a perfect test result 
+five star rating by everything channel partner program guide  april the sole winner in the security category  the sourcefire channel program was recognized for its global security alliance program 
+common criteria certification by the national information assurance partnership  november sourcefire s full ips product line was evaluated and certified using the common methodology for it security evaluation for conformance to the common criteria 
+network ips testing by icsa labs 
+sourcefire s full ips product line was certified by icsa labs  reaffirming sourcefire s commitment to providing best in class protection against today s most menacing threats 
+innovators hall of fame  by sc magazine  december customers we provide products and services to a broad spectrum of customers and organizations within diverse industry sectors  including some of the world s largest financial institutions  defense contractors  health care providers  it companies  telecommunication companies and retailers  as well as us and other national  state and local government agencies 
+we view our primary customers as enterprises generally having annual revenue exceeding million  though we are increasingly pursuing the sale of our solutions to smaller enterprises by targeting organizations with annual revenue ranging from million 
+for the year ended december   two customers  a distributor of our products to the us government  immixtechnology  and a distributor of our products  fishnet security  accounted for and  respectively  of total revenue 
+for the years ended december  and  a distributor of our products to the us government  immixtechnology  accounted for and  respectively  of total revenue 
+sales and marketing we market and sell our appliances  software and services directly to our customers through our direct sales organization and indirectly through our global network of resellers  distributors  mssps  government integrators and other partners 
+sales 
+our sales organization is organized into two geographic regions the americas and international 
+we maintain sales offices in north america  europe and asia 
+our sales personnel are responsible for market development  including managing our relationships with resellers and distributors  assisting them in winning and supporting key customer accounts and acting as liaisons between the end customers and our marketing and product development organizations 
+we employ dedicated  regional channel managers to support partner sales and activities 
+we are also investing in the capacity of our international sales and channel personnel to provide expanded levels of support throughout europe  latin america  and the asia pacific region 
+each sales organization is supported by experienced security engineers who are responsible for providing pre sales technical support and technical training for the sales team and for our resellers  distributors and other partners 
+all of our sales personnel are responsible for lead follow up and account management 
+our sales personnel have quota requirements and are compensated with a combination of base salary and earned commissions 
+our indirect sales channel  comprised primarily of resellers and distributors  is supported by our sales force  including dedicated channel managers  with substantial experience in selling cybersecurity products to  and through  resellers and distributors 
+we maintain a global network of value added resellers and distributors 
+our arrangements with our resellers and distributors are non exclusive  generally cover all of our products and services  and provide for appropriate discounts based on a variety of factors  including their transaction volume 
+we also provide our resellers and distributors with marketing assistance  technical training and support 
+marketing 
+our marketing activities consist primarily of product marketing  product management and sales support programs 
+marketing also includes public relations  social media  advertising  our corporate website  trade shows  and direct marketing 
+our marketing program is designed to build the sourcefire brands  increase customer awareness  generate leads and communicate our product advantages 
+we also use our marketing program to support the sale of our products through new channels and to new markets 
+research and development our research and development efforts are focused both on improving and enhancing our existing network security products and on developing new products  features and functionality 
+we communicate with our customers and the open source community when considering product improvements and enhancements  and we regularly release new versions of our products incorporating these improvements and enhancements 
+research development team 
+our research and development team is comprised of highly skilled and experienced security and network experts 
+the team encompasses the full lifecycle of product concept  design  development  integration  quality assurance testing  deployment  maintenance and support 
+our development experts focus on the sourcefire security products  as well as manage the administration and testing of the open source snort  clam av and razorback initiatives 
+the development is performed in the united states and  for our immunet product  in the united states and canada 
+cloud technology group 
+the cloud technology group focuses on the research and development of next generation cloud based security technologies 
+this includes the development of cloud based anti malware technologies  cloud delivered security intelligence  and a broader cloud security platform 
+vulnerability research team 
+our vrt is comprised of leading security experts working to proactively discover  assess and respond to the latest network threats and security vulnerabilities 
+by gathering and analyzing this information  our vrt creates and updates snort rules  clamav signatures  and security tools that are designed to identify  characterize and defeat attacks 
+our vrt participates in extensive collaboration with hundreds of network security professionals in the open source snort community and other security authorities to learn of new vulnerabilities and exploits 
+because of the knowledge and experience of our vrt personnel  as well as its extensive coordination with the open source community  we believe that we have access to one of the largest and most sophisticated groups of it security experts researching vulnerability and threats on a real time basis 
+our research and development expense was million  million and million for the years ended december   and  respectively 
+manufacturing and suppliers we typically hold limited inventory  relying primarily on a just in time manufacturing philosophy 
+we utilize two principal contract equipment manufacturers to source components  assemble  integrate and test our appliances and to ship those appliances to our customers 
+in addition  we utilize a third contract manufacturer to design and integrate some of our software and hardware components for use in the high performance models of our appliances 
+our agreements with these contract manufacturers are non exclusive and subject to expiration at the end of terms ranging from one to three years 
+we would be faced with the burden  cost and delay of having to qualify and contract with a new supplier if any of these agreements expire or terminate for any reason 
+intellectual property to protect our intellectual property  both domestically and abroad  we rely primarily on patent  trademark  copyright and trade secret laws 
+we hold issued patents and have dozens of patent applications pending for examination in the us and foreign jurisdictions 
+the claims for which we have sought patent protection relate to methods and systems we have developed for intrusion detection and prevention and anti malware detection used in our solutions 
+in addition  we utilize contractual provisions  such as non disclosure and non compete agreements with our employees and consultants  and confidentiality procedures to strengthen our protection 
+despite our efforts to protect our intellectual property  unauthorized parties may attempt to copy aspects of our products or obtain and use information that we regard as proprietary 
+while we cannot determine the extent to which piracy of our software products occurs  we expect software piracy to be a persistent problem 
+in addition  the laws of some foreign countries do not protect our proprietary rights to as great an extent as do the laws of the united states  and many foreign countries do not enforce these laws as diligently as us government agencies and private parties 
+seasonality our business is subject to seasonal fluctuations 
+for a discussion of seasonality affecting our business  see management s discussion and analysis of financial condition and results of operations results of operations seasonality 
+competition the market for cybersecurity solutions is intensely competitive and we expect strong competition to continue in the future 
+network security 
+in the market for network security monitoring  detection  prevention and response solutions our chief competitors generally fall within the following categories large companies  including cisco systems  inc  ibm corporation  hp corporation  check point software technologies  ltd 
+and intel corporation as a result of its acquisition of mcafee  inc  that sell competitive products and offerings  software or hardware network infrastructure companies that could integrate features that are similar to our products into their own products  smaller software companies offering applications for network and internet security monitoring  detection  prevention or response  and small and large companies offering point solutions that compete with components of our product offerings 
+next generation firewall 
+with our planned introduction in of a next generation firewall product  we will compete directly with both new and traditional firewall vendors 
+as a result of the growing convergence of the next generation firewall and network security markets  we will also face competition in selling our next generation firewall from the same companies that we compete with in the network security market 
+anti malware and endpoint protection 
+in the consumer and enterprise anti malware and endpoint protection markets  our chief competitors are large  established market players and new entrants with both free and paid offerings 
+large companies may have advantages over us because of their longer operating histories  greater brand name recognition  larger customer bases or greater financial  technical and marketing resources 
+as a result  they may have greater resources to devote to the promotion and sale of their products 
+in addition  these companies have reduced and could continue to reduce  the price of their security monitoring  detection  prevention and response products and managed security services  which intensifies pricing pressures within our market 
+several companies currently sell security software products that our customers and potential customers have broadly adopted 
+some of these companies sell products that perform the same functions as some of our products 
+in addition  the vendors of operating system software or networking hardware may enhance their products to include functions similar to those that our products currently provide 
+we believe that the principal competitive factors affecting the market for information security solutions include security effectiveness  manageability  technical features  performance  ease of use  price  scope of product offerings  professional services capabilities  distribution relationships and customer service and support 
+we believe that our solutions generally compete favorably with respect to such factors 
+employees as of december   we had employees  of whom were engaged in product research and development and were engaged in sales and marketing 
+our current employees are not represented by a labor union and are not the subject of a collective bargaining agreement 
+we believe that we have good relations with our employees 
+corporate information we were incorporated in delaware in january we completed our initial public offering in march our executive offices are located at patuxent woods drive  columbia  maryland  and our main telephone number is available information our internet address is www 
+sourcefire 
+com 
+we provide free of charge on the investor relations page of our corporate web site access to our annual report on form k  quarterly reports on form q  current reports on form k and amendments to those reports filed or furnished pursuant to section a or d of the securities exchange act of  as amended  as soon as reasonably practicable after they are electronically filed with or furnished to the securities and exchange commission  or sec 
+information appearing on our website is not incorporated by reference in and is not a part of this annual report 
+item a 
+risk factors set forth below and elsewhere in this annual report on form k and in other documents we file with the sec are risks and uncertainties that could cause actual results to differ materially from the results contemplated by the forward looking statements contained in this annual report on form k 
+because of the following factors  as well as other variables affecting our operating results  past financial performance should not be considered as a reliable indicator of future performance  and investors should not use historical trends to anticipate results or trends in future periods 
+risks relating to our business  operations and industry adverse economic  market and political conditions may negatively affect our revenue and results of operations 
+our business depends significantly on a range of factors that are beyond our control 
+these include general economic and business conditions  the overall demand for network security products and services and other security products and services  and constraints on budgets and changes in spending priorities of corporations and government agencies 
+the us and global economies have experienced a period of prolonged economic weakness  including a reduction in business confidence and activity  reduced capital spending  a lack of availability of credit  high unemployment and disruptions in financial markets 
+these and other factors have affected  and in the future may affect  one or more of the industries to which we sell our products and services 
+our customers include  but are not limited to  financial institutions  defense contractors  health care providers  information technology companies  telecommunications companies and retailers 
+these customers may suffer from reduced operating budgets  which could cause them to defer or forego purchases of our products or services 
+in addition  negative effects on the financial condition of our resellers and distributors could affect their ability or willingness to market our product and service offerings  negative effects on the financial condition of our product manufacturers could affect their ability to manufacture our products  and declines in economic and market conditions could impair our short term investment portfolio 
+any of these developments could adversely affect our revenue and results of operations 
+federal and state governmental agencies have contributed to our revenue growth and have become important customers for us 
+if we cannot attract sufficient government agency customers  our revenue and competitive position will suffer 
+reduced spending levels by us government agencies have had a negative effect on our revenue and results of operations and may continue to have a negative effect in the future 
+federal and state governments have become important customers for us 
+there can be no assurance that we will maintain or grow our revenue from these customers 
+contracts with the us federal and state government agencies collectively accounted for  and of our total revenue for the year ended december   and  respectively 
+our reliance on government customers subjects us to a number of risks  including budgetary constraints and cycles 
+demand and payment for our products and services are impacted by public sector budgetary cycles and funding availability 
+reductions or delays in funding  including delays caused by the failure to pass a budget  continuing resolutions or other temporary funding arrangements  could adversely impact public sector demand for our products 
+as of the date of this annual report  the us federal government has not adopted a budget for its fiscal year ending september  and is operating under a continuing budget resolution  which has resulted in reduced spending levels by us government agencies 
+these reduced spending levels negatively affected our revenue and results of operations in the fourth quarter of  are expected to negatively affect our revenue and results of operations in the first quarter of and may negatively affect our revenue and results of operations in the future  procurement 
+contracting with public sector customers is highly competitive and can be expensive and time consuming  often requiring that we incur significant upfront time and expense without any assurance that we will win a contract  modification or cancellation of contracts 
+public sector customers often have contractual or other legal rights to terminate current contracts for convenience or due to a default 
+if a contract is cancelled for convenience  which can occur if the customer s product needs change  we may only be able to collect for products and services delivered prior to termination 
+if a contract is cancelled because of our default  we may only be able to collect for products and alternative products and services delivered to the customer  governmental audits 
+national governments and state and local agencies routinely investigate and audit government contractors administrative processes 
+they may audit our performance and pricing and review our compliance with applicable rules and regulations 
+if they find that we improperly allocated costs  they may require us to refund those costs or may refuse to pay us for outstanding balances related to the improper allocation 
+an unfavorable audit could result in a reduction of revenue  and may result in civil or criminal liability if the audit uncovers improper or illegal activities  and replacing existing products 
+many government agencies already have installed network security products of our competitors 
+it can be very difficult to convince government agencies or other prospective customers to replace their existing network security solutions with our products  even if we can demonstrate the superiority of our products 
+we face intense competition in our markets  especially from larger  better known companies  and we may lack sufficient financial or other resources to maintain or improve our competitive position 
+the market for our products and services is intensely competitive and we expect competition to increase in the future 
+we may not compete successfully against our current or potential competitors  especially those with significantly greater financial resources or brand name recognition 
+our chief competitors currently include large software companies  software or hardware network infrastructure companies  smaller software companies offering applications for network and internet security monitoring  detection  prevention or response  and small and large companies offering point solutions that compete with components of our product offerings 
+for example  cisco systems  inc  ibm corporation  hp corporation  intel corporation  as a result of its acquisition of mcafee  inc  and check point software technologies  ltd 
+have intrusion detection or prevention technologies that compete with our network security product offerings 
+similarly  several large and small companies have free or paid anti malware and endpoint protection products that compete with our immunet product 
+in addition  our planned next generation firewall product will compete with both new and traditional firewall vendors 
+large companies may have advantages over us because of their longer operating histories  greater brand name recognition  larger customer bases or greater financial  technical and marketing resources 
+as a result  they may be able to adapt more quickly to new or emerging technologies and changes in customer requirements 
+they also have greater resources to devote to the promotion and sale of their products than we have 
+in addition  in some cases our competitors have aggressively reduced  and could continue to reduce  the price of their security monitoring  detection  prevention and response products  managed security services  maintenance and support services  and other security services and products which intensifies pricing pressures within our market 
+several companies currently sell software products such as encryption  firewall  operating system security and virus detection software that our customers and potential customers have broadly adopted 
+some of these companies sell products that perform functions comparable to some of our products 
+in addition  the vendors of operating system software or networking hardware may enhance their products to include functions similar to those that our products provide 
+the widespread inclusion of features comparable to our software in operating system software or networking hardware could render our products less competitive or obsolete  particularly if such features are of a high quality 
+even if security functions integrated into operating system software or networking hardware are more limited than those of our products  a significant number of customers may accept more limited functionality to avoid purchasing additional products such as ours 
+one of the characteristics of open source software is that anyone can offer new software products for free under an open source licensing model in order to gain rapid and widespread market acceptance 
+such competition can develop without the degree of overhead and lead time required by traditional technology companies 
+it is possible for new competitors with greater resources than ours to develop their own open source security solutions  potentially reducing the demand for our solutions 
+we may not be able to compete successfully against current and future competitors 
+competitive pressure and or the availability of open source software may result in price reductions  reduced revenue  reduced operating margins and loss of market share  any one of which could seriously harm our business 
+new competitors could emerge and could impair our sales 
+new sources of competition for sales of our products could emerge 
+these include emerging companies as well as larger companies who have not previously entered the market for network security products  anti malware and endpoint protection products  or next generation firewall products  established companies that develop their own network intrusion detection and prevention products  anti malware and endpoint protection products  or next generation firewall products  established companies that acquire or establish product integration  distribution or other cooperative relationships with our current competitors  and new competitors or alliances among competitors that emerge and rapidly acquire significant market share due to factors such as greater brand name recognition  a larger installed customer base and significantly greater financial  technical  marketing and other resources and experience 
+our quarterly operating results are likely to vary significantly and be unpredictable  in part because of the purchasing and budget practices of our customers  which could cause the trading price of our stock to decline 
+our operating results have historically varied significantly from period to period  and we expect that they will continue to do so as a result of a number of factors  most of which are outside of our control  including the budgeting cycles  internal approval requirements and funding available to our existing and prospective customers for the purchase of network security products  reductions or delays in funding for projects by us federal and state government agencies  for example the reductions and delays in spending that have resulted  and may continue to result  from the failure of the us federal government to adopt a budget for its fiscal year ending september   the timing  size and contract terms of orders received  which have historically been highest in the third and fourth quarters  but may fluctuate seasonally in different ways  the effect of one or more large orders on our operating results for a particular quarter and the effect of such large order or orders on comparisons of operating results for subsequent quarters  the level of perceived threats to network security  which may fluctuate from period to period  the level of demand for products sold by resellers  distributors  mssps  government integrators and other partners  the market acceptance of open source software solutions  the announcement or introduction of new product offerings by us or our competitors  and the levels of anticipation and market acceptance of those products  price competition  general economic conditions  both domestically and in our foreign markets  the product mix of our sales  and the timing of revenue recognition for our sales 
+in particular  the network security technology procurement practices of many of our customers have had a measurable influence on the historical variability of our operating performance 
+our prospective customers usually exercise great care and invest substantial time in their network security technology purchasing decisions 
+as a result  our sales cycles are long  generally between six and twelve months or sometimes longer  which further impacts the variability of our results 
+additionally  many of our customers have historically finalized purchase decisions in the last weeks or days of a quarter 
+a delay in even one large order beyond the end of a particular quarter can substantially diminish our anticipated revenue for that quarter 
+in addition  many of our expenses must be incurred before we generate revenue 
+as a result  the negative impact on our operating results would increase if our revenue fails to meet expectations in any period 
+the cumulative effect of these factors may result in larger fluctuations and unpredictability in our quarterly operating results than in the operating results of many other software and technology companies 
+this variability and unpredictability could result in our failing to meet the revenue or operating results expectations of securities industry analysts or investors for a particular period 
+if we fail to meet or exceed such expectations for these or any other reasons  the market price of our shares could fall substantially  and we could face costly securities class action suits as a result 
+therefore  you should not rely on our operating results in any quarter as being indicative of our operating results for any future period  nor should you rely on other expectations  predictions or projections of our future revenue or other aspects of our results of operations 
+we achieved profitability on an annual basis for the first time in  which we may not be able to maintain 
+we incurred operating losses each year from our inception in through we achieved profitability on an annual basis for the first time in maintaining profitability will depend in large part on our ability to generate and sustain increased revenue levels in future periods 
+although our revenue has generally been increasing  there can be no assurances that we will maintain or increase our level of profitability 
+our operating expenses may continue to increase as we seek to expand our customer base  increase our sales and marketing efforts and continue to invest in research and development of our technologies and products 
+these efforts may be more costly than we expect and we may not be able to increase our revenue to offset our operating expenses 
+if we cannot increase our revenue at a greater rate than our expenses  we will not remain profitable 
+if we do not continue to establish and effectively manage our indirect distribution channels  or if our resellers  distributors and other partners fail to perform as expected  our revenue could suffer 
+our ability to sell our network security software and other products in new markets and to increase our share of existing markets will be impaired if we fail to manage or expand our indirect distribution channels 
+our sales strategy involves the establishment of multiple distribution channels domestically and internationally through strategic resellers  distributors  mssps  government integrators and other partners 
+we have agreements with third parties for the distribution of our products and we cannot predict the extent to which these companies will be successful in marketing or selling our products 
+there is a risk that our pace of entering into such agreements may slow 
+in addition  our agreements with these companies could be terminated on short notice  and the agreements do not prevent these companies from selling the network security software of other companies  including our competitors 
+any distributor of our products could give higher priority to other companies products or to their own products than they give to ours  which could cause our revenue to decline 
+there is also a risk that some or all of our resellers  distributors and other partners may be acquired  change their business models or go out of business  any of which could adversely affect our business 
+we are subject to risks of operating internationally that could impair our ability to grow our revenue abroad 
+we market and sell our products in the united states and internationally  and we plan to increase our international sales presence 
+therefore  we are subject to risks associated with having worldwide operations 
+sales to customers located outside of the united states accounted for  and of our total revenue for the years ended december   and  respectively 
+the expansion of our existing operations and entry into additional worldwide markets will require significant management attention and financial resources 
+we are also subject to a number of risks customary for international operations  including economic or political instability in foreign markets  greater difficulty in accounts receivable collection and longer collection periods  unexpected changes in regulatory requirements  difficulties and costs of staffing and managing foreign operations  import and export controls  the uncertainty of protection for intellectual property rights in some countries  costs of compliance with foreign laws and laws applicable to companies doing business in foreign jurisdictions  management communication and integration problems resulting from cultural differences and geographic dispersion  compliance with tax laws in multiple jurisdictions  and foreign currency exchange rate fluctuations 
+to date  a substantial portion of our sales have been denominated in us dollars  although the majority of our expenses that we incur in our international operations are denominated in local currencies 
+to date  we have not used risk management techniques or hedged the risks associated with fluctuations in foreign currency exchange rates 
+as a result  our results of operations are subject to losses from fluctuations in foreign currency exchange rates 
+the market for network security products is rapidly evolving  and the complex technology incorporated in our products makes them difficult to develop 
+if we do not accurately predict  prepare for and respond promptly to technological and market developments and changing customer needs  our competitive position and prospects could be harmed 
+the market for network security products is expected to continue to evolve rapidly 
+moreover  many customers operate in markets characterized by rapidly changing technologies and business plans  which require them to add numerous network access points and adapt increasingly complex enterprise networks  incorporating a variety of hardware  software applications  operating systems and networking protocols 
+in addition  computer hackers and others who try to attack networks employ increasingly sophisticated techniques to gain access to and attack systems and networks 
+customers look to our products to continue to protect their networks against these threats in this increasingly complex environment without sacrificing network efficiency or causing significant network downtime 
+the software in our products is especially complex because it needs to effectively identify and respond to new and increasingly sophisticated methods of attack  without impeding the high network performance demanded by our customers 
+although the market expects speedy introduction of software to respond to new threats  the development of these products is difficult and the timetable for commercial release of new products is uncertain 
+therefore  in the future we may experience delays in the introduction of new products or new versions  modifications or enhancements of existing products 
+if we do not quickly respond to the rapidly changing and rigorous needs of our customers by developing and introducing on a timely basis new and effective products  upgrades and services that can respond adequately to new security threats  our competitive position and business prospects will be harmed 
+if our new products and product enhancements do not achieve sufficient market acceptance  our results of operations and competitive position could suffer 
+we spend substantial amounts of time and money to research and develop new products and enhance versions of our open source and proprietary commercial products 
+we incorporate additional features  improve functionality or add other enhancements in order to meet our customers rapidly evolving demands for security in our highly competitive industry 
+when we develop a new product or an advanced version of an existing product  we typically expend significant money and effort upfront to market  promote and sell the new offering 
+therefore  when we develop and introduce new or enhanced products  they must achieve high levels of market acceptance in order to justify the amount of our investment in developing and bringing the products to market 
+our new products or enhancements could fail to attain sufficient market acceptance for many reasons  including delays in introducing new  enhanced or modified products  defects  errors or failures in any of our products  inability to operate effectively with the networks of our prospective customers  inability to protect against new types of attacks or techniques used by hackers  negative publicity about the performance or effectiveness of our network security products  reluctance of customers to purchase products based on open source software  and disruptions or delays in the availability and delivery of our products  including products from our contract manufacturers 
+if our new products or enhancements do not achieve adequate acceptance in the market  our competitive position could be impaired  our revenue will be diminished and the effect on our operating results may be particularly acute because of the significant research  development  marketing  sales and other expenses we incurred in connection with the new product 
+if existing customers do not make subsequent purchases from us or renew their support arrangements with us  or if our relationships with our largest customers are impaired  our revenue could decline 
+for the years ended december   and  existing customers that purchased additional products and services from us  whether for new locations or additional technology to protect existing networks and locations  generated a majority of our total revenue 
+part of our growth strategy is to sell additional products to our existing customers 
+we may not be effective in executing this or any other aspect of our growth strategy 
+our revenue could decline if our current customers do not continue to purchase additional products from us 
+in addition  as we deploy new versions of our existing products or introduce new products  our current customers may not require the functionality of these products and may not purchase them 
+we also depend on our installed customer base for future service revenue from annual maintenance fees 
+our maintenance and support agreements typically have durations of one year 
+if customers choose not to continue their maintenance service or seek to renegotiate the terms of maintenance and support agreements prior to renewing such agreements  our revenue may decline 
+defects  errors or vulnerabilities in our products could harm our reputation and business and divert our resources 
+because our products are complex  they may contain defects  errors or vulnerabilities that are not detected until after our commercial release and installation by our customers 
+we may not be able to correct any errors or defects or address vulnerabilities promptly  or at all 
+any defects  errors or vulnerabilities in our products could result in expenditure of significant financial and product development resources in efforts to analyze  correct and eliminate defects  to address and eliminate vulnerabilities or to create alternative solutions  loss of existing or potential customers  delayed or lost revenue  failure to timely attain or maintain market acceptance  increased service  warranty  product replacement and product liability insurance costs  and negative publicity  which could harm our reputation 
+in addition  because our products and services provide and monitor network security and may protect valuable information  we could face claims for product liability  tort or breach of warranty 
+anyone who circumvents our customers security measures using our products could misappropriate the confidential information or other valuable property of  or interrupt the operations of our customers 
+if that happens  affected customers or others could sue us 
+in addition  we may face liability for breaches of our product warranties or product failures 
+provisions in our contracts relating to warranty disclaimers and liability limitations may be deemed by a court to be unenforceable 
+some courts  for example  have found contractual limitations of liability in standard computer and software contracts to be unenforceable in some circumstances 
+defending a lawsuit  regardless of its merit  could be costly and divert management attention from the operation of our business 
+our business liability insurance coverage may be inadequate or future coverage may be unavailable on acceptable terms or at all 
+our networks  products and services may be targeted by hackers 
+like other companies  our websites  networks  information systems  products and services may be targets for sabotage  disruption or misappropriation by hackers 
+as a leading network security solutions company  we are a high profile target and our networks  products and services may be targeted by hackers 
+although we believe we have sufficient controls in place to prevent disruption and misappropriation  and to respond to such situations  we expect these efforts by hackers to continue 
+if these efforts are successful  our operations  reputation and sales could be adversely affected 
+we have acquired  and in the future may acquire  additional businesses  products or technologies as part of our long term growth strategy  and such acquisitions may not ultimately be successful or may not result in expected strategic benefits 
+in december  we acquired immunet corporation 
+we may seek to buy or make investments in additional complementary or competitive businesses  products or technologies as part of our long term growth strategy 
+we may not be successful in making these additional acquisitions 
+we may face competition for acquisition opportunities from other companies  including larger companies with greater financial resources 
+we may incur substantial expenses in identifying and negotiating acquisition opportunities  whether or not completed 
+acquisitions may not result in the expected strategic benefits  and completed acquisitions  including our recent acquisition of immunet corporation  could negatively affect our operating results and financial position because of the following and other factors the immunet acquisition is expected to be dilutive to our earnings per share for the year ending december  and any acquisitions we complete in the future may also be dilutive to our earnings  in connection with our acquisition of immunet corporation  we expect to recognize expenses for the amortization of intangible assets  employee retention payments and stock based compensation expense and other acquisitions may result in substantial accounting charges for restructuring and other expenses  write offs of in process research and development  amortization of intangible assets and stock based compensation expense  we may not effectively integrate an acquired business  product or technology into our existing business and operations  completing a potential acquisition and integrating an acquired business into our existing business could significantly divert management s time and resources from the operation of our business  acquired companies  particularly privately held and non us companies  may have internal controls  policies and procedures that do not meet the requirements of the sarbanes oxley act of and public company accounting standards  we may use a significant portion of our cash resources to fund acquisitions  and we may issue stock to fund acquisitions  which could dilute the interests of our existing stockholders 
+in the future  we may not be able to secure financing necessary to make acquisitions or to operate and grow our business as planned 
+in the future  we may need to raise additional funds to make acquisitions or to expand our sales and marketing and research and development efforts 
+additional equity or debt financing may not be available on favorable terms  or at all 
+if adequate funds are not available on acceptable terms  we may be unable to take advantage of acquisition or other opportunities or to fund the expansion of our sales and marketing and research and development efforts  which could seriously harm our business and operating results 
+if we issue debt  the debt holders could have rights senior to common stockholders to make claims on our assets and the terms of any debt could restrict our operations  including our ability to pay dividends on our common stock 
+furthermore  if we issue additional equity securities  stockholders would experience dilution  and the new equity securities could have rights senior to those of our common stock 
+if other parties claim commercial ownership rights to snort  razorback or clamav  our reputation  customer relations and results of operations could be harmed 
+while we created a majority of the current snort code base  razorback code base and clamav code base  a portion of the current code for each of snort  razorback and clamav was created  or in the future may be created  by the combined efforts of sourcefire and the open source software community  and a portion was created  or in the future may be created  solely by the open source community 
+we believe that the portions of the snort code base  razorback code base and clamav code base created by anyone other than us are required to be licensed by us pursuant to the gnu general public license  or gpl  which is how we currently license snort and clamav 
+there is a risk  however  that a third party could claim some ownership rights in snort  razorback or clamav  attempt to prevent us from commercially licensing snort  razorback or clamav in the future rather than pursuant to the gpl as currently licensed or claim a right to licensing royalties 
+any such claim  regardless of its merit or outcome  could be costly to defend  harm our reputation and customer relations or result in our having to pay substantial compensation to the party claiming ownership 
+we rely on software licensed from other parties  the loss of which could increase our costs and delay delivery of our products 
+we utilize various types of software licensed from unaffiliated third parties 
+for example  we license mysql database software that we use in our products 
+our agreement with oracle corporation permits us to distribute mysql software on our products to our customers worldwide until june  our agreement with oracle gives us the unlimited right to distribute mysql software in exchange for a one time lump sum payment 
+we believe that the mysql agreement is material to our business because we have spent a significant amount of development resources to allow the mysql software to function in our products 
+if we were forced to find replacement database software or replacements for any of the other software we license from others for our products  our business would be disrupted and we could be required to expend significant resources  and there would be no guarantee that we would be able to procure the replacement on the same or similar commercial terms and conditions  or at all 
+additionally  we would be required to either redesign our products to function with software available from other parties or develop these components ourselves  which could result in increased costs and could result in delays in our product shipments and the release of new product offerings 
+furthermore  we might be forced to limit the features available in our current or future products 
+if we fail to maintain or renegotiate any of these software licenses  we could face significant delays and diversion of resources in attempting to license and integrate a functional equivalent of the software 
+our inability to hire or retain key personnel  or to effectively manage headcount increases  could impair our intended growth 
+our business is dependent on our ability to hire  retain  motivate and manage highly qualified personnel  including senior management and sales and technical professionals 
+in particular  as part of our growth strategy  we intend to expand the size of our sales force domestically and internationally and to hire additional customer support and professional services personnel 
+however  competition for qualified services personnel is intense  and if we are unable to attract  train or retain the number of highly qualified sales and services personnel that our business needs  our reputation  customer satisfaction and potential revenue growth could be seriously harmed 
+to the extent that we hire personnel from competitors  we may also be subject to allegations that they have been improperly solicited or divulged proprietary or other confidential information 
+our intended future growth may also place a significant strain on our management  financial  personnel and other resources 
+in addition  our future success will depend to a significant extent on the continued services of our executive officers and senior personnel 
+although we have adopted retention plans applicable to certain of these officers  there can be no assurance that we will be able to retain their services 
+the loss of the services of one or more of these individuals could adversely affect our business and could divert other senior management time in searching for their replacements 
+our business is subject to corporate governance  public disclosure  accounting and tax requirements that have increased both our costs and the risk of noncompliance 
+because our common stock is publicly traded  we are subject to the rules and regulations of federal  state and financial market exchange entities  such as the public company accounting oversight board  the sec  and the nasdaq stock exchange  that are charged with the protection of investors and the oversight of companies whose securities are publicly traded 
+our efforts to comply with these rules and regulations have resulted in  and are likely to continue resulting in  increased general and administrative expenses and diversion of management time and attention from revenue generating activities to compliance activities 
+we completed our evaluation of our internal controls over financial reporting for the fiscal year ended december  as required by the sarbanes oxley act of although our assessment  testing and evaluation resulted in our conclusion that as of december   our internal controls over financial reporting were effective  we cannot predict the outcome of our testing in future periods 
+if our internal controls are ineffective in future periods  our business and reputation could be harmed 
+we may incur additional expenses and commitment of management s time in connection with further evaluations  either of which could materially increase our operating expenses 
+because new and modified laws  regulations and standards are subject to varying interpretations in many cases due to their lack of specificity  their application in practice may evolve over time as new guidance is provided by regulatory and governing bodies 
+this evolution may result in continuing uncertainty regarding compliance matters and additional costs necessitated by ongoing revisions to our disclosure and governance practices 
+any material disruption or problem with the operation of our information systems may adversely impact our business  operating processes and internal controls 
+the efficient operation of our business is dependent on the successful operation of our information systems 
+in particular  we rely on our information systems to process financial information  manage inventory and administer our sales transactions 
+in recent years  we have experienced a considerable growth in transaction volume and headcount  and we are increasingly relying upon international resources in our operations 
+our information systems need to be sufficiently scalable to support the continued growth of our operations and the efficient management of our business 
+in an effort to improve the efficiency of our operations  achieve greater automation and support the growth of our business  we have implemented an enterprise resource planning  or erp  system and a customer resource management  or crm  system 
+these information systems may not work as we currently intend 
+any material disruption or similar problems with the operation of our information systems could have a material negative effect on our business and results of operations 
+in addition  if our information system resources are inadequate  we may be required to undertake costly modifications and the growth of our business could be harmed 
+potential uncertainty resulting from unsolicited acquisition proposals and related matters may adversely affect our business 
+in the past we have received  and in the future we may receive  unsolicited proposals to acquire our company or our assets 
+the review and consideration of acquisition proposals and related matters could require the expenditure of significant management time and personnel resources 
+such proposals may also create uncertainty for our employees  customers and business partners 
+any such uncertainty could make it more difficult for us to retain key employees and hire new talent  and could cause our customers and business partners to not enter into new arrangements with us or to terminate existing arrangements 
+additionally  we and members of our board of directors could be subject to future lawsuits related to unsolicited proposals to acquire us 
+any such future lawsuits could become time consuming and expensive 
+these matters  alone or in combination  may harm our business 
+risks relating to our intellectual property and litigation our products contain open source software  and failure to comply with the terms of the underlying open source software licenses could restrict our ability to sell our products 
+like many other technology companies  we use and distribute open source software in order to expedite development of new products and features 
+open source software is generally licensed by its authors or other third parties under open source licenses  including  for example  the gnu general public license  or gpl  the gnu lesser public license  or lgpl  the bsd license and the apache license 
+this open source software includes  without limitation  snort  clamav  linux kernel  apache http server  openssl and perl 
+these license terms may be ambiguous  in many instances have not been interpreted by the courts and could be interpreted in a manner that results in unanticipated obligations regarding our products 
+depending upon how the open source software is deployed by our developers and the underlying licenses are interpreted by the courts  we could be required to offer our products that use the open source software for no cost  make available the source code for modifications or derivative works  or secure an additional license to the underlying patent rights 
+any of these obligations could have an adverse impact on our intellectual property rights and revenue from products incorporating the open source software 
+our use of open source software could also result in us developing and selling products that infringe third party intellectual property rights 
+it may be difficult for us to accurately determine the developers of the open source code and whether the code incorporates proprietary software or otherwise infringes another party s intellectual property rights including patent rights 
+we have processes and controls in place that are designed to address these risks and concerns  including a review process for screening requests from our development organizations for the use of open source software 
+however  we cannot be sure that all open source software is submitted for approval prior to use in our products 
+we also have processes and controls in place to review the use of open source software in the products developed by companies that we may acquire 
+even if we conduct due diligence prior to completing an acquisition  the acquired products or technologies may nonetheless include open source software that was not identified during the initial due diligence 
+our ability to commercialize products or technologies of any companies we may acquire that incorporate open source software or to otherwise fully realize the anticipated benefits of any such acquisition may be restricted in the same manner as if the open source software had been incorporated into our own products 
+our intellectual property rights may be difficult to enforce  which could enable others to compete with us or to copy or use aspects of our products without compensating us 
+we rely primarily on a combination of copyright  trademark  patent and trade secret laws  confidentiality procedures and contractual provisions to establish and protect our proprietary rights in our technology 
+however  the steps we have taken to protect our proprietary rights and technology may not deter its misuse  theft or misappropriation 
+competitors may independently develop technologies or products that are substantially equivalent or superior to our products or that inappropriately incorporate our proprietary technology into their products 
+our products incorporate open source snort software  which is readily available to the public 
+to the extent that our proprietary software is included by others in what are purported to be open source products  it may be difficult and expensive to enforce our intellectual property rights in such software 
+competitors also may hire our former employees who may misappropriate our proprietary technology 
+in addition  from time to time  we become aware that users of our security products may not have paid adequate license  technical support  or subscription fees to us 
+however  some jurisdictions may not provide an adequate legal infrastructure for effective protection or enforcement of our intellectual property rights 
+furthermore  changing legal interpretations of liability for unauthorized use of our software or lessened sensitivity by corporate  government or institutional users to refraining from intellectual property piracy or other infringements of intellectual property could also harm our business 
+in limited instances we have agreed to place  and in the future may agree to place  source code for our proprietary software in escrow 
+in most cases  the escrowed source code may be made available to certain of our customers and partners in the event that we were to file for bankruptcy or materially fail to support our products in the future 
+release of our source code upon any such event would increase the likelihood of misappropriation or other misuse of our software 
+we have rarely agreed to source code escrow arrangements in the past and usually only in connection with prospective customers considering a significant purchase of our products and services 
+if we acquire technology to include in our products from third parties  our exposure to infringement actions may increase because we must rely upon these third parties to verify the origin and ownership of such technology 
+similarly  we face exposure to infringement actions if we hire software engineers who were previously employed by competitors and those employees inadvertently or deliberately incorporate proprietary technology of our competitors into our products despite efforts by our competitors and us to prevent such infringement 
+efforts to assert intellectual property ownership rights in our products could impact our standing in the open source community  which could limit our product innovation capabilities 
+if we were to undertake actions to protect and maintain ownership and control over our intellectual property rights  our standing in the open source community could be diminished 
+this could in turn limit our ability to rely on this community as a resource to identify and defend against new viruses  threats and techniques to attack secure networks  explore new ideas and concepts and further our research and development efforts 
+claims that our products infringe the proprietary rights of others could harm our business and cause us to incur significant costs 
+if we are unable to protect our intellectual property rights in our technologies  we may find ourselves at a competitive disadvantage to others who need not incur the additional expense  time and effort required to create competitive technologies 
+as a result  litigation may be necessary to enforce and protect our intellectual property rights 
+similarly  the security technology industry has increasingly been subject to patent and other intellectual property rights litigation  particularly from special purpose entities that seek to monetize their intellectual property rights by asserting claims against others 
+we expect this trend to continue and accelerate and expect that we may from time to time be required to defend against this type of litigation 
+for example  as described under legal proceedings below  we and nine other network security companies have been named as defendants in a patent infringement lawsuit 
+third party asserted claims or initiated litigation can include claims against us or our customers  end users  manufacturers  suppliers  partners or distributors  alleging infringement of intellectual property rights with respect to our existing or future products or components of those products 
+the litigation process can be costly and is subject to inherent uncertainties  so we may not prevail in litigation matters regardless of the merits of our position 
+in addition to the expense and distraction associated with litigation  adverse determinations could cause us to lose our proprietary rights  prevent us from manufacturing or selling our products  require us to obtain licenses to patents or other intellectual property rights that our products are alleged to infringe  which licenses may not be available on reasonable commercial terms or at all  and subject us to significant liabilities including indemnities to our customers and others for losses resulting from such claims 
+future litigation could have a material adverse impact on our results of operations  financial condition and liquidity 
+from time to time we have been  and may be in the future  subject to litigation  including stockholder derivative actions 
+risks associated with legal liability are difficult to assess and quantify  and their existence and magnitude can remain unknown for significant periods of time 
+while we maintain director and officer insurance  the amount of insurance coverage may not be sufficient to cover a claim  and there can be no assurance as to the continued availability of this insurance 
+we may in the future be the target of additional proceedings  with or without merit  and these proceedings may result in substantial costs and divert management s attention and resources 
+risks relating to manufacturing we primarily utilize a just in time contract manufacturing and inventory process and depend on a limited number of manufacturers of our hardware products  which increases our vulnerability to supply disruption 
+we primarily utilize a just in time contract manufacturing and inventory process 
+therefore  our ability to meet our customers demand for our products depends upon obtaining adequate hardware platforms on a timely basis and integrating them with our software 
+we utilize two principal contract equipment manufacturers  patriot technologies  inc and premio  inc  to source components  assemble  integrate and test our appliances and to ship those appliances to our customers 
+in addition  we utilize a third contract manufacturer  netronome systems inc  to design and integrate some of our software and hardware components for use in the high performance models of our appliances 
+the unexpected termination of our relationship with any of these manufacturers would be disruptive to our business and our reputation  and could result in a material decline in our revenue as well as shipment delays and possible increased costs as we seek and implement production with an alternative manufacturer 
+in addition  we rely on our contract manufacturers to source the components for our hardware platforms and they in turn obtain materials from a limited number of suppliers 
+these suppliers may extend lead times  limit the supply to our manufacturers or increase prices due to capacity constraints or other factors 
+although we work closely with our manufacturers and suppliers to avoid shortages  we may encounter these problems in the future 
+our results of operations would be adversely affected if we were unable to obtain adequate supplies of hardware platforms in a timely manner or if there were significant increases in the costs of hardware platforms or problems with the quality of those hardware platforms 
+in some cases  we purchase products from contract manufacturers and hold them in inventory pending sale to our customers 
+if demand for these products does not meet our expectations  or if these products become obsolete as a result of our introduction of new products  we could be required to write down the value of our inventory  which could adversely affect our results of operations 
+although we primarily utilize a just in time contract manufacturing and inventory process  in some cases we purchase products from contract manufacturers based on our expectations of future demand 
+we then hold these products in inventory pending sale to our customers 
+demand for these products may not meet our expectations as a result of a number of factors  including weakness in general economic conditions  reductions in our customers purchasing budgets  discounting of prices on competitive products  defects or perceived defects in the products or the introduction by us or our competitors of new or enhanced products 
+in the past  we have recognized expenses related to inventory write offs and  in the future  if we reduce our estimate of future demand for our products held in inventory  or if our inventory becomes obsolete as a result of our introduction of new products  we may be required to record additional inventory write offs  which could negatively impact our gross margin and results of operations 
+risks relating to our common stock the price of our common stock may be subject to wide fluctuations 
+since the time of our initial public offering in march  the market price of our common stock has been subject to significant fluctuations  and we expect this volatility to continue for the foreseeable future 
+for example  during the year ended december   our stock traded between a high of per share and a low of per share 
+among the factors that could affect our common stock price are the risks described in this risk factors section and other factors  including quarterly variations in our operating results compared to market expectations  changes in expectations as to our future financial performance  including financial estimates or reports by securities analysts  changes in market valuations of similar companies or of our competitors  liquidity and activity in the market for our common stock  actual or expected sales of our common stock by our stockholders  strategic moves by us or our competitors  such as acquisitions or restructurings  general market conditions  and domestic and international economic  legal and regulatory factors unrelated to our performance 
+stock markets in general  and the stocks of technology companies in particular  have experienced extreme volatility that has often been unrelated to the operating performance of a particular company 
+these broad market fluctuations may adversely affect the trading price of our common stock  regardless of our operating performance 
+sales of substantial amounts of our common stock in the public markets  or the perception that they might occur  could reduce the price that our common stock might otherwise attain 
+as of march   we had  outstanding shares of common stock 
+this number includes shares held by institutional investors who own a significant majority of our common stock 
+this number also includes shares held by directors and officers who may sell such shares at their discretion  subject to volume limitations contained in federal securities laws 
+sales of substantial amounts of our common stock in the public market  or the perception that such sales could occur  could adversely affect the market price of our common stock and may make it more difficult for you to sell your common stock at a time and price that you deem appropriate 
+anti takeover provisions in our charter documents and under delaware law and our adoption of a stockholder rights plan could make an acquisition of our company  which may be beneficial to our stockholders  more difficult and may prevent attempts by our stockholders to replace or remove our current management 
+our certificate of incorporation and our bylaws contain provisions that may delay or prevent an acquisition of our company or a change in our management 
+these provisions include a classified board of directors  a prohibition on actions by written consent of our stockholders and our ability to issue preferred stock without stockholder approval 
+in addition  we have adopted a stockholder rights plan under which we would issue preferred stock rights upon specified events  which could substantially dilute the stock ownership of a person or group attempting to take us over without the approval of our board of directors 
+although we believe these provisions of our certificate of incorporation  bylaws  delaware corporate law and our stockholder rights plan collectively provide for an opportunity to receive higher bids by requiring potential acquirers to negotiate with us  they would apply even if stockholders consider the offer to be beneficial 
+in addition  these provisions may frustrate or prevent attempts by our stockholders to replace or remove our current management by making it more difficult for stockholders to replace members of our board of directors  which is responsible for appointing the members of our management 
+item b 
+unresolved staff comments none 
+item properties our corporate headquarters and principal executive offices are located in columbia  maryland under a lease that expires in may significant leased locations include offices in vienna  virginia  livonia  michigan  wokingham  united kingdom  tokyo  japan  and singapore 
+we also lease other sales offices in multiple locations worldwide 
+we believe that our facilities are generally suitable to meet our needs for the foreseeable future  however  we will continue to seek additional space as needed in accordance with our growth 
+item legal proceedings on may  and august   enhanced security research  llc  or esr  filed two nearly identical complaints in the united states district court for the district of delaware against defendants  including cisco systems  inc  international business machines corporation  check point software technologies  ltd  check point software technologies  inc  sonicwall  inc  com corporation  nokia corporation  nokia  inc  fortinet  inc  and us 
+the only significant difference between the first and second complaints is the addition of security research holdings llc as a plaintiff 
+the complaints allege  among other things  that our network security appliances and software infringe two us patents 
+plaintiffs seek unspecified damages  enhancement of those damages  an attorney s fee award and an injunction against further infringement 
+we believe that the patents in this case are invalid and that the allegations of infringement are without merit  and we intend to defend this case vigorously on these bases 
+both patents in this litigation are currently undergoing reexamination by the united states patent and trademark office uspto  and the uspto has rejected all claims of both patents as not patentable 
+in both reexaminations  the patent owner has filed responses arguing that the claims are patentable 
+in both cases  the uspto has issued subsequent communications maintaining the rejections of all claims 
+the uspto examiner has maintained the rejections in both patents and on december   esr filed a notice of appeal to the uspto board of patent appeals and interferences 
+no appeals briefs have been filed yet 
+on june   the district court dismissed the action filed may   for lack of standing 
+plaintiffs have appealed the dismissal to the us court of appeals for the federal circuit 
+also on june   the district court stayed the action filed august  pending conclusion of the reexaminations 
+given the inherent unpredictability of litigation and jury trials  we cannot at this early stage of the matter estimate the possible outcome of this litigation 
+because patent litigation is time consuming and costly to defend  we may incur significant costs related to this matter in future periods 
+in addition  an unfavorable outcome in this matter could have a material adverse effect on our future results of operations or cash flows 
+item reserved part ii item market for registrant s common equity  related stockholder matters and issuer purchases of equity securities market information our common stock is publicly traded on the nasdaq global select market under the symbol fire 
+the following table sets forth  for the periods indicated  the high and low sales prices of our common stock as reported by the nasdaq global select market 
+high low year ended december  first quarter second quarter third quarter fourth quarter year ended december  first quarter second quarter third quarter fourth quarter as of march   there were approximately holders of record of our common stock 
+the number of holders of record of our common stock does not reflect the number of beneficial holders whose shares are held by depositories  brokers or other nominees 
+dividend policy we have never declared or paid any cash dividends on our common stock 
+we currently intend to retain all available funds and any future earnings for use in the operation and expansion of our business and do not anticipate paying any cash dividends in the foreseeable future 
+stock performance graph the following graph illustrates a comparison of the total cumulative stockholder return on our common stock since march   the date our stock commenced public trading  through december  to two indices the russell index and the rdg software composite index 
+the graph assumes an initial investment of on march  in sourcefire common stock and on february  in each of the two indices 
+the comparisons in the graph are required by the securities and exchange commission and are not intended to forecast or be indicative of possible future performance of our common stock 
+comparison of month cumulative total return among sourcefire  inc  the russell index and the rdg software composite index performance graph invested on in stock in index including reinvestment of dividends 
+fiscal year ending december use of proceeds in march  we completed the initial public offering of shares of our common stock 
+our portion of the net proceeds from the initial public offering was approximately million after deducting underwriting discounts and commissions of million and million in offering expenses 
+we intend to use the net proceeds from the offering for working capital and other general corporate purposes  including financing our growth  developing new products and funding capital expenditures 
+pending such usage  we have invested the net proceeds primarily in short term  interest bearing investment grade securities 
+repurchases of equity securities during repurchases are made under the terms of our stock incentive plan 
+under this plan  we may award shares of restricted stock to our employees and directors 
+these shares of restricted stock typically are subject to a lapsing right of repurchase by us 
+we may exercise this right of repurchase in the event that a restricted stock recipient s service to us is terminated 
+if we exercise this right  we are required to repay the purchase price paid by or on behalf of the recipient for the repurchased restricted shares  which typically is the par value per share of 
+repurchased shares are returned to the stock incentive plan and are available for future awards under the terms of that plan 
+these were the only repurchases of equity securities made by us during the fiscal quarter ended december  we do not have a stock repurchase program 
+the following table provides information about purchases by us  by month  during the fiscal quarter ended december  of equity securities that are registered by us pursuant to section of the securities act 
+total number of maximum shares number of purchased shares that as part of may yet be total publicly purchased number of average announced under the shares price paid plans or plans or period purchased per share programs programs reflects the repurchase of restricted stock from employees and directors that was unvested at the time of termination of employment or service on our board of directors 
+the purchase price represents the original price paid for the shares by the employee or director  which is equal to the par value of our common stock 
+item selected financial data the consolidated statement of operations data for the three years ended december  and the consolidated balance sheet data as of december  and have been derived from our audited consolidated financial statements appearing elsewhere in this report 
+the consolidated statement of operations data for the years ended december  and and the consolidated balance sheet data as of december   and have been derived from our audited consolidated financial statements that do not appear in this report 
+the selected consolidated financial data set forth below should be read in conjunction with management s discussion and analysis of financial condition and results of operations set forth below and our consolidated financial statements and related notes included elsewhere in this report 
+the historical results are not necessarily indicative of the results to be expected in any future period 
+year ended december  in thousands  except share and per share data consolidated statement of operations data revenue products services total revenue cost of revenue products services total cost of revenue gross profit operating expenses research and development sales and marketing general and administrative depreciation and amortization in process research and development total operating expenses income loss from operations other income  net income loss before income taxes benefit from provision for income taxes net income loss accretion of preferred stock net income loss attributable to common stockholders net income loss attributable to common stockholders per common share basic diluted shares used in per common share calculations basic diluted consolidated balance sheet data as of december  in thousands cash and cash equivalents investments working capital total assets deferred revenue long term debt total liabilities total convertible preferred stock total stockholders equity deficit item management s discussion and analysis of financial condition and results of operations introduction management s discussion and analysis of financial condition  changes in financial condition and results of operations is provided as a supplement to the accompanying consolidated financial statements and notes to help provide an understanding of sourcefire  inc s financial condition and results of operations 
+this item of our annual report on form k is organized as follows overview 
+this section provides a general description of our business  the key financial metrics that we use in assessing our performance  and anticipated trends that we expect to affect our financial condition and results of operations 
+results of operations 
+this section provides an analysis of our results of operations for the years ended december   and non gaap financial measures 
+this section discusses non gaap financial results that we use in evaluating the operating performance of our business 
+these measures should be considered in addition to results prepared in accordance with united states generally accepted accounting principles  or gaap  but should not be considered a substitute for  or superior to  gaap results 
+the non gaap measures discussed have been reconciled to the nearest gaap measure in a table included in this section 
+liquidity and capital resources 
+this section provides an analysis of our cash flows for the years ended december   and and a discussion of our capital requirements and the resources available to us to meet those requirements 
+critical accounting policies and estimates 
+this section discusses accounting policies that are considered important to our financial condition and results of operations  require significant judgment or require estimates on our part in applying them 
+our significant accounting policies  including those considered to be critical accounting policies  are summarized in note to the accompanying consolidated financial statements 
+overview we are a leading provider of intelligent cybersecurity solutions for information technology  or it  environments of commercial enterprises  including healthcare  financial services  manufacturing  energy  education  retail and telecommunications companies  and federal  state and local government organizations worldwide 
+our solutions are comprised of multiple hardware  software and cloud based product and service offerings  enabling comprehensive  intelligent protection before  during and after an attack 
+we sell our solutions to a diverse customer base that includes global companies  global enterprises  us and international government agencies  small and mid size businesses  and through our acquisition of immunet corporation  consumers 
+we also manage the security industry s leading open source initiative  snort  as well as the clamav and razorback tm open source initiatives 
+recent developments immunet acquisition on december   we acquired all the outstanding securities of immunet corporation  or immunet  a leading provider of advanced cloud based anti malware technologies 
+the acquisition price of million consists of million in cash payable at closing  of which million was paid in and million was paid in an additional million will be paid on the twelve month anniversary of the acquisition date subject to working capital adjustments 
+the remaining million of the acquisition price is expected to be paid within months of the acquisition date to immunet common shareholders upon achievement of product delivery milestones related to the enterprise version of immunet s product 
+we expect the immunet acquisition to be dilutive to our net income for the year ending december  due to an incremental increase in cost of revenues of million for the amortization of the acquired technology and an incremental increase in research and development costs of million for the accrual of retention payments and approximately million for salaries  incentive compensation  benefits  stock based compensation  consulting and overhead costs  partially offset by minimal revenues 
+key financial metrics and trends contracts with us commercial and international customers accounted for  and of our total revenue for the years ended december   and  respectively 
+our revenues from us commercial customers increased by for the year ended december  as compared to the prior year 
+similarly  our revenues from international customers increased by for the year ended december  as compared to the prior year 
+we believe that the growth in our revenue from us commercial and international customers in  during a period in which the global macroeconomic environment negatively impacted many businesses  was primarily the result of the high quality of our product offerings and increased contributions from our indirect sales channel 
+we do not believe that this rate of growth necessarily represents a trend and we cannot predict at this time the effect that continued economic weakness may have on our results of operation and financial condition 
+contracts with the us federal and state government agencies collectively accounted for  and of our total revenue for the years ended december   and  respectively 
+our revenues from us federal and state government agencies increased by for the year ended december  as compared to the prior year 
+we expect sales to us federal and state government agencies to continue to account for a significant portion of our total revenue for the year ending december  however  we expect our federal sales to be negatively affected by reduced federal spending levels in the first quarter of  and potentially in subsequent periods  as a result of the failure of the us federal government to adopt a budget 
+a reduction in the amount of us government purchases of our products could have a material adverse effect on our results of operations and financial condition 
+we evaluate our performance on the basis of several key financial metrics  including revenue  cost of revenue  gross profit  and operating expenses 
+we compare these key performance indicators  on a quarterly basis  to both target amounts established by management and to our performance for prior periods 
+we also evaluate performance on the basis of adjusted income from operations  adjusted income from operations as a percentage of revenue  adjusted net income  adjusted net income per share and free cash flow  which are non gaap financial measures 
+information regarding our non gaap financial measures and a reconciliation of each to the nearest gaap measure is provided under non gaap financial measures below 
+revenue we currently derive revenue from product sales and services 
+product revenue is principally derived from the sale of our network security solutions 
+our network security solutions include a perpetual software license bundled with a third party hardware platform 
+services revenue is principally derived from technical support and professional services 
+we typically sell technical support to complement our network security product solutions 
+technical support entitles a customer to product updates and new rule releases on a when and if available basis and both telephone and web based assistance for using our products 
+our professional services revenue includes optional installation  configuration and tuning  which we refer to collectively as network security deployment services 
+these services typically occur on site after delivery has occurred 
+product sales are typically recognized as revenue upon shipment of the product to the customer 
+for sales through resellers and distributors  we recognize revenue upon the shipment of the product only if those resellers and distributors provide us  at the time of placing their order  with the identity of the end user customer to whom the product has been sold 
+we recognize revenue from services when the services are performed 
+for technical support services  we recognize revenue ratably over the term of the support arrangement  which is generally months 
+our support agreements generally provide for payment in advance 
+we sell our network security solutions globally 
+however   and of our revenue for the years ended december   and  respectively  was generated by sales to us based customers 
+we expect that our revenue from customers based outside of the united states will increase in absolute dollars and as a percentage of revenue as we strengthen our international presence 
+we continue to generate a majority of our product revenue through sales to existing customers  both for new locations and for additional technology to protect existing networks and locations 
+product sales to existing customers accounted for  and of total product revenue for the years ended december   and  respectively 
+we expect product sales to existing customers to continue to account for a significant portion of our product revenue in historically  our product revenue has been seasonal  with a significant portion of our total product revenue in recent fiscal years generated in the third and fourth quarters 
+revenue from our government customers has been influenced by the september th fiscal year end of the us federal government  which has historically resulted in our revenue from government customers being highest in the second half of the year 
+while we expect these historical trends to continue  they could be affected by a number of factors  including another decline in general economic conditions  changes in the timing or amounts of us government spending and our planned international expansion 
+notwithstanding these general seasonal patterns  our revenue within a particular quarter is often affected significantly by the unpredictable procurement patterns of our customers 
+our prospective customers usually spend a long time evaluating and making purchase decisions for network security solutions 
+historically  many of our customers have not finalized their purchasing decisions until the final weeks or days of a quarter 
+we expect these purchasing patterns to continue in the future 
+therefore  a delay in even one large order beyond the end of the quarter could materially reduce our anticipated revenue for a quarter 
+in addition  because we typically recognize revenue upon shipment  the timing of our quarter end and year end shipments could materially affect our reported product revenue for a given quarter or year 
+delayed orders could negatively impact our results of operations and cash flows for a particular period and could therefore cause us to fail to meet the financial performance expectations of financial and industry research analysts or investors 
+cost of revenue cost of product revenue includes the cost of the hardware platform  third party manufacturing costs  royalties for third party software  personnel costs associated with logistics and quality control  stock based compensation expense  supplies  warranty  shipping and handling costs  expense for inventory excess and obsolescence and depreciation in the instances where we lease our network security solutions to our customers 
+we allocate overhead costs  including facilities  supplies  communication and information systems and employee benefits  to the cost of product revenue 
+overhead costs are reflected in each cost of revenue and operating expense category 
+as our product volume increases  we anticipate incurring an increased amount of both direct and overhead expenses to supply and manage the increased volume 
+in addition  hardware unit costs or other costs of manufacturing could increase in the future 
+cost of services revenue includes the direct labor costs of our employees and outside consultants engaged to furnish those services  as well as their travel and associated direct material costs and stock based compensation expense 
+additionally  we include in cost of services revenue an allocation of overhead costs  as well as the cost of time and materials to service or repair the hardware component of our products covered under a renewed support arrangement beyond the manufacturer s warranty and the expense for advance replacement unit inventory excess and obsolescence 
+as our customer base continues to grow  we anticipate incurring an increasing amount of these service and repair costs  as well as costs for additional personnel to provide support and service to our customers 
+gross profit our gross profit is affected by a variety of factors  including competition  the mix and average selling prices of our products  our pricing policy  new product introductions  the cost of hardware platforms  expense for inventory excess and obsolescence  warranty expense  the cost of labor and materials and the mix of distribution channels through which our products are sold 
+our gross profit would be adversely affected by price declines or pricing discounts if we are unable to reduce costs on existing products and fail to introduce new products with higher margins 
+currently  product sales typically have a lower gross profit as a percentage of revenue than our services due to the cost of the hardware platform 
+our gross profit for any particular quarter could be adversely affected if we do not complete a sufficient level of sales of higher margin products by the end of the quarter 
+as discussed above  many of our customers do not finalize purchasing decisions until the final weeks or days of a quarter  so a delay in even one large order of a high margin product could significantly reduce our total gross profit percentage for that quarter 
+operating expenses research and development 
+research and development expenses consist primarily of salaries  incentive compensation and allocated overhead costs for our engineers  stock based compensation expense  costs for professional services to design  test and certify our products  and costs associated with data used by us in our product development 
+we have expanded our research and development capabilities and expect to continue to expand these capabilities in the future 
+we are committed to increasing the level of innovative design and development of new products as we strive to enhance our ability to serve our existing commercial and federal government markets as well as new markets for security solutions 
+to meet the changing requirements of our customers  we will need to fund investments in several development projects in parallel 
+accordingly  we anticipate that our research and development expenses will continue to increase in absolute dollars and increase modestly as a percentage of revenue for the year ending december  sales and marketing 
+sales and marketing expenses consist primarily of salaries  incentive compensation and allocated overhead costs for sales and marketing personnel  stock based compensation expense  trade show  advertising  marketing and other brand building costs  marketing consultants and other professional services  training  seminars and conferences  and travel and related costs 
+as we continue to focus on increasing our market penetration  expanding internationally  increasing our indirect sales channel and building brand awareness  we anticipate that selling and marketing expenses will continue to increase in absolute dollars and increase modestly as a percentage of revenue for the year ending december  general and administrative 
+general and administrative expenses consist primarily of salaries  incentive compensation and allocated overhead costs for executive  legal  finance  information technology  human resources and administrative personnel  stock based compensation expense  corporate development expenses and professional fees related to legal  audit  tax and regulatory compliance  travel and related costs  and corporate insurance 
+we anticipate that general and administrative expenses will increase in absolute dollars for the year ending december  stock based compensation 
+stock based compensation expense is based on the grant date fair value of stock awards granted or modified after january  using the prospective transition method 
+we use the black scholes option pricing model to estimate the fair value of stock options granted and employee stock purchases 
+for a prior option award that contained a market condition relating to our stock price achieving specified levels  we used a lattice option pricing model 
+the use of option valuation models requires the input of highly subjective assumptions  including the expected term and the expected stock price volatility 
+based on the estimated grant date fair value of stock based awards  we recognized aggregate stock based compensation expense of million  million and million for the years ended december   and  respectively 
+results of operations revenue 
+the following table shows products and technical support and professional services revenue in thousands year ended year ended december  variance december  variance products percentage of total revenue technical support and professional services percentage of total revenue total revenue the increase in our product revenue for the year ended december   as compared to the prior year  was primarily due to higher volume demand for our sensor products and increased sales of our software licenses 
+for the year ended december   sensor product revenue increased million and software license revenue increased million over the prior year 
+the increase in our services revenue for  as compared to the prior year  resulted from an increase in our installed customer base due to new product sales in which associated support was purchased  as well as technical support renewals by our existing customers 
+the increase in our product revenue for the year ended december   as compared to the prior year  was primarily due to higher volume demand for our sensor products 
+for  sensor product revenue increased million over the prior year 
+the increase in our services revenue for  as compared to the prior year  resulted from an increase in our installed customer base due to new product sales in which associated support was purchased  as well as technical support renewals by our existing customers 
+cost of revenue 
+the following table shows products and technical support and professional services cost of revenue in thousands year ended year ended december  variance december  variance products percentage of total revenue technical support and professional services percentage of total revenue total cost of revenue percentage of total revenue product cost of revenue for year ended december  increased over the prior year  primarily due to higher volume demand for our sensor products  for which we must procure and provide the hardware platform to our customers  partially offset by a decrease in inventory write downs related to excess and obsolete inventory 
+services cost of revenue for the year ended december  increased over the prior year  primarily due to our hiring of additional personnel to service our larger installed customer base  provide training to our resellers and customers  and provide professional services to our customers  partially offset by decreased hardware service expense we pay to our third party integrators to help maintain our install base 
+product cost of revenue for the year ended december  increased over the prior year  primarily due to higher volume demand for our sensor products  for which we must procure and provide the hardware platform to our customers  and a write down of million for excess and obsolete inventory as a result of the introduction of new products 
+services cost of revenue for the year ended december  increased over the prior year  primarily due to increased hardware service expense related to support renewal contracts and our hiring of additional personnel to both service our larger installed customer base and to provide training and professional services to our customers 
+gross profit 
+the following table shows products and technical support and professional services gross profit in thousands year ended year ended december  variance december  variance products product gross margin technical support and professional services technical support and professional services gross margin total gross profit total gross margin product gross margin for the year ended december  was consistent with the prior year as lower margins on our product revenue  primarily due to lower average selling prices resulting from our new channel initiatives  were offset by a decrease in inventory write downs of excess and obsolete inventory 
+technical support and professional services gross margin for the year ended december   as compared to the prior year  increased primarily due to service revenue increasing at a higher rate than service expense 
+product gross margin for the year ended december  increased compared to the prior year  as higher margins on product revenue  primarily due to the product mix sold favoring products with higher gross margins  were partially offset by a write down of million for excess and obsolete inventory as a result of the introduction of new products 
+technical support and professional services gross margin for  as compared to the prior year  remained flat 
+operating expenses 
+the following table shows our operating expenses in thousands year ended year ended december  variance december  variance research and development percentage of total revenue sales and marketing percentage of total revenue general and administrative percentage of total revenue depreciation and amortization percentage of total revenue total operating expenses percentage of total revenue research and development expenses for the year ended december  increased over the prior year  primarily due to an increase of million in salaries  incentive compensation  benefits and allocated overhead costs as a result of additional personnel and increased overhead costs  an increase of  in consulting and professional fees and an increase of  in stock based compensation expense 
+research and development expenses for the year ended december  increased over the prior year  primarily due to an increase of million in salaries  incentive compensation  benefits and allocated overhead costs as a result of additional personnel and increased overhead costs  an increase of million in consulting and professional fees and an increase of  in stock based compensation expense 
+sales and marketing expenses for the year ended december  increased over the prior year  primarily due to an increase of million in salaries  commissions and incentive compensation  benefits and allocated overhead costs as a result of additional sales and marketing personnel  increased revenue and increased overhead costs  an increase of million in stock based compensation expense  an increase of  in travel and travel related expenses and an increase of  in advertising  promotion  partner marketing programs and trade show expenses 
+sales and marketing expenses for the year ended december  increased over the prior year  primarily due to an increase of million in salaries  commissions and incentive compensation  benefits and allocated overhead costs as a result of additional sales and marketing personnel  increased revenue and increased overhead costs  an increase of  in consulting fees and an increase of  in stock based compensation expense  partially offset by a decrease of  in advertising  promotion  partner marketing programs and trade show expenses and a decrease of  in travel and travel related expenses 
+general and administrative expenses for the year ended december  increased from the prior year  primarily due to an increase of  in salaries  incentive compensation  benefits and allocated overhead costs for personnel hired in our accounting  information technology  human resources and legal departments and increased overhead costs  an increase of  in stock based compensation expense and a net increase of  in professional fees related to corporate development  legal  regulatory compliance  accounting  tax services  audit and information technology expenses 
+the increase in professional fees for included  in expense from the acquisition of immunet 
+general and administrative expenses for the year ended december  decreased from the prior year  primarily due to a decrease of million in professional fees related to legal  accounting  information technology  audit  tax services and regulatory compliance and corporate development expenses  a decrease of  for the one time charge in from the acceleration of vesting of equity awards granted to our former ceo  a decrease of  in director attendance  retainer and other board related fees and a decrease of  for a one time charge in associated with our ceo transition  partially offset by an increase of million in salaries  incentive compensation  benefits and allocated overhead costs for personnel hired in our accounting  information technology  human resources and legal departments and increased overhead costs  and an increase of million in stock based compensation expense  excluding the one time charge taken in for accelerated vesting resulting from our ceo transition 
+the increase in stock based compensation expense for included  in expense from the accelerated vesting of stock options due to the market price of our stock achieving specified levels in these stock options were issued in connection with the hiring of our new ceo in depreciation and amortization expense for the year ended december  decreased over the prior year  primarily due to the decrease in amortization expense associated with the write off in of our marketing related intangible asset 
+depreciation and amortization expense for the year ended december  increased over the prior year  primarily due to the depreciation associated with our new enterprise resource planning  or erp  system implemented in the second half of  as well as the depreciation of additional lab and testing equipment purchased for our engineering department and computers purchased for new personnel 
+in the fourth quarter of  we recorded an impairment charge of  to write off the carrying value of our marketing related intangible assets related to the clamav acquisition 
+other income  net 
+the following table shows our other income  net in thousands year ended year ended december  variance december  variance other income  net percentage of total revenue the decreases in other income  net for compared to and compared to were primarily attributable to a decrease in interest and investment income as a result of lower average interest rates on invested cash balances 
+the decrease in other income  net for compared to was also impacted by higher foreign exchange losses 
+benefit from provision for income taxes 
+the following table shows our benefit from provision for income taxes in thousands year ended year ended december  variance december  variance benefit from provision for income taxes   nm percentage of total revenue nm not meaningful our effective tax rate for the year ended december  resulted in a benefit of 
+our effective tax rate differs from the us federal statutory rate of primarily due to the reversal of the valuation allowance on our us deferred tax assets  state income taxes and foreign income taxed at different rates 
+the benefit from income taxes for the year ended december  consisted of a million us income tax benefit  partially offset by  of foreign income tax expense 
+the us income tax benefit is primarily related to the release of the valuation allowance recorded against our deferred tax assets in the us as of december   we had a full valuation allowance against our deferred tax assets in the us  consisting primarily of net operating loss carryforwards and temporary differences associated with deferred revenue and stock based compensation 
+based upon our operating results over recent years and through june   as well as an assessment of our expected future results of operations  during the second quarter of we determined that it had become more likely than not that we would ultimately realize the tax benefits of our deferred tax assets in the us as a result  during the second quarter  we released million of our valuation allowance  which was recorded as a one time tax benefit 
+our benefit from income taxes for the year ended december  also includes a million tax benefit from the release of the valuation allowance attributable to deferred tax assets primarily associated with our net operating loss carryforwards which we utilized during the year 
+our provision for income taxes for the year ended december  was  which resulted in an annual effective tax rate of 
+our effective tax rate differs from the us federal statutory rate of primarily due to the reversal of the valuation allowance on certain deferred tax assets due to the utilization of net operating loss carryforwards that had been fully reserved for  state income taxes and foreign income taxed at different rates 
+the provision for income taxes for the year ended december  consisted of  of us income tax expense and  of foreign income tax expense 
+our effective tax rate for the year ended december  resulted in a benefit of 
+our annual effective tax rate for the year ended december  differed from the us federal statutory rate of primarily due to the increase of the valuation allowance on certain deferred tax assets  state income taxes and the foreign income taxed at different rates 
+the provision for income taxes for the year ended december  consisted of approximately  of us income tax expense and approximately  of foreign income tax expense 
+our future effective tax rate may be materially impacted by the amount of income taxes associated with our foreign earnings  which are taxed at rates different from the us federal statutory rate  as well as the timing and extent of the realization of deferred tax assets and changes in the tax law 
+further  our effective tax rate may fluctuate within a fiscal year  including from quarter to quarter  due to items arising from discrete events  including the resolution or identification of tax position uncertainties and acquisitions of other companies 
+seasonality our product revenue has tended to be seasonal  with a significant portion generated in the third and fourth quarters 
+revenue from our government customers has been influenced by the september th fiscal year end of the us federal government  which has historically resulted in our revenue from government customers being highest in the second half of the year 
+in the fourth quarter  revenues have historically been strong due to purchases by north american enterprise customers  which operate on a calendar year budget and often wait until the fourth quarter to make their most significant capital equipment purchases 
+in addition  increased fourth quarter sales in europe have historically resulted in higher fourth quarter revenues following a decline in sales in the summer months due to vacation practices in europe and the resulting delay in capital purchase activities until the fall 
+while we expect these historical trends to continue  they could be affected by a number of factors  including another decline in general economic conditions  changes in the timing or amounts of us government spending  and our planned international expansion 
+the timing of transactions could materially affect our quarterly or annual product revenue 
+quarterly timing on a quarterly basis  we have usually generated the majority of our sales in the final month of the quarter 
+we believe this occurs for two reasons 
+first  many customers wait until the end of the quarter to extract favorable pricing terms from their vendors  including sourcefire 
+second  our sales personnel  who have a strong incentive to meet quarterly sales targets  have tended to increase their sales activity as the end of a quarter nears  while their participation in sales management review and planning activities is typically scheduled at the beginning of a quarter 
+the timing of our quarter end and year end shipments also affects our quarterly and annual product revenue  since we typically recognize revenue upon shipment of the product 
+non gaap financial measures adjusted net income  adjusted net income per share  adjusted income from operations and adjusted income from operations as a percentage of revenue in evaluating the operating performance of our business  we exclude certain charges and credits that are required by gaap 
+we believe these non gaap results provide useful information to both management and investors by excluding i stock based compensation  which does not involve the expenditure of cash  and ii items that we believe may not be indicative of our operating performance  because either they are unusual and we do not expect them to recur in the ordinary course of our business or they are unrelated to the ongoing operation of the business in the ordinary course 
+for all of we expect that non gaap results will continue to be adjusted to reflect the effect of an assumed tax rate of 
+we believe this adjustment provides useful information to both management and investors because it is expected to normalize and approximate our full year gaap tax rate 
+free cash flow we define free cash flow as net cash provided by operating activities minus capital expenditures 
+we consider free cash flow to be a liquidity measure that provides useful information to management and investors about the amount of cash generated by the business that  after the purchase of property and equipment  can be used for strategic opportunities  including investing in the business  making strategic acquisitions and strengthening the balance sheet 
+these measures should be considered in addition to results prepared in accordance with gaap  but should not be considered a substitute for  or superior to  gaap results 
+the following table shows a reconciliation of non gaap financial measures to the nearest gaap measure in thousands  except share and per share amounts year ended december  reconciliation to adjusted income from operations gaap income from operations stock based compensation expense stock based compensation expense related to ceo transition ceo transition costs acquisition related costs adjusted income loss from operations adjusted income loss from operations as a of revenue reconciliation to adjusted net income loss gaap net income loss stock based compensation expense stock based compensation expense related to ceo transition ceo transition costs acquisition related costs release of the valuation allowance income tax adjustment adjusted net income loss adjusted net income loss per share basic adjusted net income loss per share diluted weighted average number of shares basic weighted average number of shares diluted reconciliation to free cash flow gaap net cash provided by used in operating activities purchase of property and equipment free cash flow income tax adjustment is used to adjust the gaap provision for income taxes to a non gaap provision for income taxes utilizing an assumed tax rate of 
+liquidity and capital resources cash flows the following table summarizes our cash flow activities for the periods indicated in thousands year ended december  cash and cash equivalents provided by used in operating activities used in provided by investing activities provided by financing activities increase net cash at beginning of period net cash at end of period investments total cash  cash equivalents and investments operating activities 
+cash provided by operating activities for the year ended december  is the result of our net income of million adjusted for a net cash inflow of million of net non cash revenues and expenses  which includes million related to the release of the valuation allowance on our deferred tax assets  and a net cash inflow of million for changes in our operating assets and liabilities 
+cash provided by operating activities for the year ended december  is the result of our net income of million adjusted for a net cash inflow of million for net non cash revenues and expenses and a net cash inflow of million for changes in our operating assets and liabilities 
+cash used in operating activities for the year ended december  is the result of our net loss of million adjusted for a net cash inflow of million for net non cash revenues and expenses and a net cash outflow of million for changes in our operating assets and liabilities 
+investing activities 
+cash used in investing activities for the year ended december  was primarily the result of purchases of investments of million  million related to our acquisition of immunet and capital expenditures of million  partially offset by maturities of investments of million 
+cash used in investing activities for the year ended december  was primarily the result of purchases of investments of million and capital expenditures of million  offset by maturities of investments of million 
+cash provided by investing activities for the year ended december  was primarily the result of maturities and sales of investments of million  offset by purchases of investments of million and capital expenditures of million 
+capital expenditures in included million of capitalized costs associated with the implementation of our erp system 
+financing activities 
+cash provided by financing activities for the years ended december  was primarily related to proceeds from the issuance of common stock under our employee stock based plans  as well as the excess tax benefits relating to share based payments 
+cash provided by financing activities for the years ended december  and was primarily the result of proceeds from the issuance of common stock under our employee stock based plans 
+liquidity requirements we manufacture our products through contract manufacturers and other third parties 
+this approach provides us with the advantage of relatively low capital expenditure requirements and significant flexibility in scheduling production and managing inventory levels 
+the majority of our products are delivered to our customers directly from our contract manufacturers 
+accordingly  our contract manufacturers are responsible for purchasing and stocking the components required to produce our products  and they invoice us when the finished goods are shipped 
+by leasing our office facilities  we also minimize the cash needed for expansion 
+our capital spending is generally limited to leasehold improvements  computers  office furniture and lab and test equipment 
+our short term liquidity requirements through december  consist primarily of the funding of working capital requirements  capital expenditures and remaining payments related to our acquisition of immunet 
+we expect to meet these short term requirements primarily through cash flow from operations 
+to the extent that cash flow from operations is not sufficient to meet these requirements  we expect to fund these amounts through the use of existing cash and investment resources 
+as of december   we had cash  cash equivalents and investments of million and working capital of million 
+as described above  our product sales are  and are expected to continue to be  highly seasonal 
+we believe that our current cash reserves are sufficient for any short term needs arising from the seasonality of our business 
+our long term liquidity requirements consist primarily of obligations under our operating leases 
+we expect to meet these long term requirements primarily through cash flow from operations 
+in addition  we may utilize existing cash resources  equity financing or debt financing to fund acquisitions or investments in complementary businesses  technologies or product lines 
+contractual obligations the following table describes our commitments to settle contractual obligations in cash as of december  in thousands payments due by period less than total one year years years capital lease obligations operating lease obligations purchase commitments due to immunet shareholders we purchase components from a variety of suppliers and use contract manufacturers to provide manufacturing services for our products 
+during the normal course of business  in order to manage manufacturing lead times and help ensure adequate component supply  we enter into agreements with contract manufacturers and suppliers that allow them to procure inventory based upon information provided by us 
+in certain instances  these agreements allow us the option to cancel  reschedule  and adjust our requirements based on our business needs prior to firm orders being placed 
+consequently  a portion of our reported purchase commitments arising from these agreements are firm  non cancelable and unconditional commitments 
+as of december   we had total purchase commitments for inventory of approximately million 
+due to immunet shareholders does not include million of the acquisition price payable within the next months to immunet common shareholders upon achievement of product delivery milestones related to the enterprise version of immunet s product as this amount is not contractually certain to be paid at this time 
+critical accounting policies and estimates our consolidated financial statements are prepared in accordance with accounting principles generally accepted in the united states of america 
+the preparation of these consolidated financial statements requires us to make estimates and assumptions that affect the reported amounts of assets  liabilities  revenue  costs and expenses and related disclosures 
+we evaluate our estimates and assumptions on an ongoing basis 
+our actual results may differ from these estimates 
+we believe that  of our significant accounting policies  which are described in note to the consolidated financial statements contained in this report  the following accounting policies involve a greater degree of judgment and complexity 
+accordingly  we believe that the following accounting policies are the most critical to aid in fully understanding and evaluating our consolidated financial condition and results of operations 
+revenue recognition 
+we derive revenue from arrangements that include hardware products with embedded software  software licenses and royalties  technical support  and professional services 
+revenue from products in the accompanying consolidated statements of operations consists primarily of sales of software based appliances  but also includes fees and royalties for the license of our technology in a software only format and subscriptions to receive rules released by the vrt that are used to update the appliances for current exploits and vulnerabilities 
+technical support  which generally has a contractual term of months  includes telephone and web based support  software updates  and rights to software upgrades on a when and if available basis 
+professional services include training and consulting 
+see recent accounting pronouncements in the notes to the consolidated financial statements for a discussion of new revenue recognition standards that we will be required to adopt in the first quarter of for each arrangement  we recognize revenue when a persuasive evidence of an arrangement exists eg  a signed contract  b delivery of the product has occurred and there are no remaining obligations or substantive customer acceptance provisions  c the fee is fixed or determinable  and d collection of the fee is deemed probable 
+we allocate the total arrangement fee among each deliverable based on the fair value of each of the deliverables  determined based on vendor specific objective evidence  or vsoe 
+if vsoe of fair value does not exist for each of the deliverables  all revenue from the arrangement is deferred until the earlier of the point at which sufficient vsoe of fair value can be determined for any undelivered elements or all elements of the arrangement have been delivered 
+if the only undelivered elements are elements for which we currently have vsoe of fair value  we recognize revenue for the delivered elements based on the residual method 
+when vsoe of fair value does not exist for undelivered elements such as maintenance and support  the entire arrangement fee is recognized ratably over the performance period 
+we have established vsoe of fair value for substantially all of our technical support based upon actual renewals of each type of technical support that is offered and for each customer class 
+technical support and technical support renewals are currently priced based on a percentage of the list price of the respective product or software and historically have not varied from a narrow range of values in the substantial majority of our arrangements 
+revenue related to technical support is deferred and recognized ratably over the contractual period of the technical support arrangement  which is generally months 
+the vsoe of fair value of our other services is based on the price for these same services when they are sold separately 
+revenue for professional services that are sold either on a stand alone basis or included in multiple element arrangements is deferred and recognized as the services are performed 
+all amounts billed or received in excess of the revenue recognized are included in deferred revenue 
+in addition  we defer all direct costs associated with revenue that has been deferred 
+these amounts are included in either prepaid expenses and other current assets or inventory in the accompanying balance sheets  depending on the nature of the costs and the reason for the deferral 
+for sales through resellers and distributors  we recognize revenue upon the shipment of the product only if those resellers and distributors provide us  at the time of placing their order  with the identity of the end user customer to whom the product has been sold 
+to the extent that a reseller or distributor requests an inventory or stock of products  we defer revenue on that product until we receive notification that it has been sold through to an identified end user 
+changes in our judgments and estimates about these assumptions could materially impact the timing of our revenue recognition 
+accounting for stock based compensation 
+stock based awards granted include stock options  restricted stock awards  restricted stock units under our stock incentive plan  or plan  and stock purchased under our amended and restated employee stock purchase plan  or espp 
+stock based compensation expense is measured at the grant date  based on the fair value of the awards  and is recognized as expense ratably over the requisite service period  net of estimated forfeitures 
+we use the black scholes option pricing model for estimating the fair value of stock options granted under the plan and for employee stock purchases under the espp 
+for a prior option award that contained a market condition relating to our stock price achieving specified levels  we used a lattice option pricing model 
+the use of option valuation models requires the input of highly subjective assumptions  including the expected term and the expected stock price volatility 
+additionally  the recognition of expense requires the estimation of the number of options that will ultimately vest and the number of options that will ultimately be forfeited 
+the fair value of stock based awards is recognized as expense ratably over the requisite service period  net of estimated forfeitures 
+we rely on historical experience of employee turnover to estimate our expected forfeitures 
+the key assumptions used in the black scholes option valuation of stock options granted under the plan and the plan and espp grants include the following average risk free interest rate this is the average us treasury rate  with a term that most closely resembles the expected life of the option  as of the grant date 
+expected dividend yield we use an expected dividend yield of zero  as we have never declared or paid dividends on our common stock and do not anticipate paying dividends in the foreseeable future 
+expected life this is the period of time that the stock options granted under our equity incentive plans and espp grants are expected to remain outstanding 
+we have elected to use the simplified method of determining the expected term of stock options 
+this estimate is derived from the average midpoint between the weighted average vesting period and the contractual term 
+in future periods  we expect to begin to incorporate our own data in estimating the expected life as we develop appropriate historical experience of employee exercise and post vesting termination behavior considered in relation to the contractual life of the option 
+for espp grants  the expected life is the plan period 
+expected volatility volatility is a measure of the amount by which a financial variable such as a share price has fluctuated historical volatility or is expected to fluctuate expected volatility during a period 
+for stock options granted  since our historical stock data from our ipo in march is less than the expected life of the stock options  we have used a blended volatility to estimate expected volatility 
+the blended volatility includes a weighting of our historical volatility from the date of our ipo to the respective grant date and an average of our peer group historical volatility consistent with the expected life of the option 
+our peer group historical volatility includes the historical volatility of companies that are similar in revenue size  in the same industry or are competitors 
+we expect to continue to use a larger proportion of our historical volatility in future periods as we develop additional historical experience of our own stock price fluctuations considered in relation to the expected life of the option 
+for espp grants  we use our historical volatility since we have historical data available since our ipo  which is consistent with the expected life 
+if we were to employ different assumptions for estimating stock based compensation expense in future periods  or if we were to decide to use a different valuation model  the amount of expense recorded in future periods could differ significantly from what we have recorded in recent periods 
+the black scholes option pricing model was developed for use in estimating the fair value of traded options that have no vesting restrictions and are fully transferable  which are characteristics that are not present in our option grants 
+existing valuation models  including the black scholes and lattice models  may not provide reliable measures of the fair values of our stock based compensation awards 
+consequently  there is a risk that our estimates of the fair values of our stock based compensation awards on the grant dates may be significantly different than the actual values upon the exercise  expiration  early termination or forfeiture of those stock based payments in the future 
+certain stock based payments  such as employee stock options  may expire worthless or otherwise result in zero intrinsic value as compared to the fair values originally estimated on the grant date and reported in our financial statements 
+alternatively  values may be realized from these instruments that are significantly higher than the fair values originally estimated on the grant date and reported in our financial statements 
+the application of these principles may be subject to further interpretation and refinement over time 
+there are significant differences among valuation models  and there is a possibility that we will adopt different valuation models in the future 
+this may result in a lack of consistency between past and future periods and materially affect the fair value estimate of stock based payments 
+it may also result in a lack of comparability with other companies that use different models  methods  and assumptions 
+our stock awards are generally subject to service based vesting  however  in some instances  awards contain provisions for acceleration of vesting upon achievement of performance measures  change in control and in certain other circumstances 
+on a quarterly basis  we evaluate the probability of achieving performance measures and adjust stock based compensation expense accordingly 
+the stock based compensation expense is recognized ratably over the estimated vesting period 
+stock based compensation expense may fluctuate within a fiscal year  including from quarter to quarter  based on the probability of achieving those performance measures 
+accounting for income taxes 
+deferred tax assets and liabilities are determined based on temporary differences between financial reporting and tax bases of assets and liabilities and for tax carry forwards at enacted statutory tax rates in effect for the years in which the differences are expected to reverse 
+we assess the realizability of our deferred tax assets  which primarily consists of temporary differences associated with stock based compensation expense and deferred revenue 
+in assessing the realizability of these deferred tax assets  management considers whether it is more likely than not that some portion or all of the deferred tax assets will be realized 
+in assessing the need for a valuation allowance  we consider all available evidence  both positive and negative  including historical levels of income  expectations and risks associated with estimates of future taxable income and ongoing prudent and feasible tax planning strategies 
+as of december   we had a full valuation allowance against our deferred tax assets in the us  consisting primarily of net operating loss carryforwards and temporary differences associated with deferred revenue and stock based compensation 
+based upon our operating results over recent years and through june   as well as an assessment of our expected future results of operations  during the second quarter of we determined that it had become more likely than not that we will ultimately realize the tax benefits of our deferred tax assets in the us as a result  during the second quarter  we released million of our valuation allowance  which was recorded as a one time tax benefit 
+our benefit from income taxes for the year ended december  also includes a million tax benefit from the release of the valuation allowance attributable to deferred tax assets primarily associated with our net operating loss carryforwards which we utilized throughout the year 
+with respect to foreign earnings  it is our policy to invest the earnings of foreign subsidiaries indefinitely outside the us any excess tax benefit  above amounts previously recorded on stock based compensation expense  from the exercise of stock options is recorded in additional paid in capital in the consolidated balance sheets to the extent that cash taxes payable are reduced 
+we have determined that there are no material uncertain tax positions that would require a reserve as of december  we are undergoing a research and development credit study that is expected to be completed in the first six months of this may result in future tax benefits that would be recognized upon the completion of the study 
+because tax laws are complex and subject to different interpretations  significant judgment is required 
+as a result  we make certain estimates and assumptions in i calculating our provision for income taxes  deferred tax assets and deferred tax liabilities  ii determining any valuation allowance recorded against deferred tax assets and iii evaluating the amount of unrecognized tax benefits  if any  as well as the interest and penalties related to such uncertain tax positions 
+our estimates and assumptions may differ significantly from tax benefits ultimately realized 
+allowance for doubtful accounts and sales return allowance 
+we make estimates regarding the collectability of our accounts receivable 
+when we evaluate the adequacy of our allowance for doubtful accounts  we consider multiple factors  including historical write off experience  the need for specific customer reserves  the aging of our receivables  customer creditworthiness and changes in customer payment cycles 
+historically  our allowance for doubtful accounts has been adequate based on actual results 
+if any of the factors used to calculate the allowance for doubtful accounts change or if the allowance does not reflect our future ability to collect outstanding receivables  additional provisions for doubtful accounts may be needed  and our future results of operations could be materially affected 
+we also use our judgment to make estimates regarding potential future product returns related to reported product revenue in each period 
+we analyze factors such as our historical return experience  current product sales volumes  and changes in product warranty claims when evaluating the adequacy of the sales returns allowance 
+if any of the factors used to calculate the sales return allowance were to change  we may experience a material difference in the amount and timing of our product revenue for any given period 
+inventories 
+inventory consists of hardware and related component parts and is stated at the lower of cost on a first in  first out basis  or market  except for evaluation and advance replacement units which are stated at the lower of cost  on a specific identification basis  or market 
+evaluation units are used for customer testing and evaluation and are predominantly located at the customers premises 
+advance replacement units  which include fully functioning appliances and spare parts  are used to provide replacement units under technical support arrangements if a customer s unit is not functioning properly 
+we make estimates of forecasted demand for our products  and inventory that is obsolete or in excess of our estimated demand is written down to its estimated net realizable value based on historical usage  expected demand  the timing of new product introductions and age 
+it is reasonably possible that our estimate of future demand for our products could change in the near term and result in additional inventory write downs  which would negatively impact our gross margin 
+investments 
+we determine the appropriate classification of our investments at the time of purchase and reevaluate such classification as of each balance sheet date 
+our investments are comprised of money market funds  corporate debt investments  commercial paper  government sponsored enterprise securities  government securities and certificates of deposit 
+these investments have been classified as available for sale 
+available for sale investments are stated at fair value  with the unrealized gains and losses  net of tax  reported in accumulated other comprehensive income 
+the amortization of premiums and accretion of discounts to maturity are computed using the effective interest method 
+amortization is included in interest and investment income 
+interest on securities classified as available for sale is also included in interest and investment income we evaluate our investments on a regular basis to determine whether an other than temporary impairment in fair value has occurred 
+if an investment is in an unrealized loss position and we have the intent to sell the investment  or it is more likely than not that we will have to sell the investment before recovery of its amortized cost basis  the decline in value is deemed to be other than temporary and is charged against earnings for the period 
+for investments that we do not intend to sell or it is more likely than not that we will not have to sell the investment  but we expect that we will not fully recover the amortized cost basis  the credit component of the other than temporary impairment is charged against earnings for the applicable period and the non credit component of the other than temporary impairment is recognized in other comprehensive income on our statement of stockholders equity 
+unrealized losses entirely caused by non credit related factors related to investments for which we expect to fully recover the amortized cost basis are recorded in accumulated other comprehensive income 
+intangible assets 
+intangible assets that are not considered to have an indefinite life are amortized over their useful lives on a straight line basis 
+on a periodic basis  we evaluate the estimated remaining useful life of purchased intangible assets and whether events or changes in circumstances warrant a revision to the remaining period of amortization 
+the carrying amounts of these assets are periodically reviewed for impairment whenever events or changes in circumstances indicate that the carrying value of these assets may not be recoverable 
+recent accounting pronouncements in october  the fasb modified the accounting guidance for sales of tangible products containing both software and hardware elements and issued new guidance that amends the criteria for evaluating the individual items in a multiple deliverable revenue arrangement and how to allocate the consideration received to the individual items 
+the guidance is effective for revenue arrangements entered into or materially modified in fiscal years beginning on or after june   with early adoption permitted 
+we believe this literature is applicable to our revenue arrangements because the majority of our products are hardware appliances containing software components that operate together to provide the essential functionality of the product 
+we adopted this guidance on january  if we had adopted this guidance on january   our revenue would have increased by approximately million for the year ended december   primarily due to more deliverables being accounted for as separate units of accounting and the elimination of the use of the residual method and a requirement to allocate arrangement consideration using a selling price hierarchy 
+while we cannot predict the dollar impact of this revised guidance on future periods  as it depends on the nature of customer arrangements  we anticipate that for certain arrangements we will be able to account for more transaction consideration upon delivery than allowed under the prior guidance 
+in january  the fasb issued revised guidance intended to improve disclosures related to fair value measurements 
+this guidance requires new disclosures as well as clarifies certain existing disclosure requirements 
+new disclosures under this guidance require separate information about significant transfers in and out of level and level and the reason for such transfers  and also require purchases  sales  issuances  and settlements information for level measurement to be included in the rollforward of activity on a gross basis 
+the guidance also clarifies the requirement to determine the level of disaggregation for fair value measurement disclosures and the requirement to disclose valuation techniques and inputs used for both recurring and nonrecurring fair value measurements in either level or level this accounting guidance is effective for interim and annual reporting periods beginning after december   except for the disclosures about purchases  sales  issuances  and settlements in the rollforward of activity in level fair value measurements  which is effective for fiscal years beginning after december  and for interim periods within those fiscal years 
+the adoption of this guidance did not have an effect on our consolidated financial statements 
+off balance sheet arrangements we have no off balance sheet arrangements 
+item a 
+quantitative and qualitative disclosures about market risk foreign currency risk nearly all of our revenue is derived from transactions denominated in us dollars  even though we maintain sales and business operations in foreign countries 
+as a result  we have exposure to adverse changes in exchange rates  particularly the euro  british pound and japanese yen  associated with operating expenses of  and cash held in  our foreign operations 
+however  we believe this exposure is not material at this time 
+as we grow our international operations  our exposure to foreign currency risk could become more significant 
+we do not currently engage in currency hedging activities to limit the risk of exchange rate fluctuations 
+interest rate sensitivity we had cash  cash equivalents and investments totaling approximately million at december  the cash equivalents are held for working capital purposes while investments  made in accordance with our conservative investment policy  take advantage of higher interest income yields 
+in accordance with our investment policy  we do not enter into investments for trading or speculative purposes 
+some of the securities in which we invest  however  may be subject to market risk 
+this means that a change in prevailing interest rates may cause the fair value of the investment to fluctuate 
+to minimize this risk in the future  we intend to maintain our portfolio of cash equivalents  short and long term investments in a variety of securities  including commercial paper  money market funds  debt securities and certificates of deposit 
+due to the nature of these investments  we believe that we do not have any material exposure to changes in the fair value of our investment portfolio as a result of changes in interest rates 
+credit market risk we invest our cash in accordance with an established internal policy and our investments are comprised of money market funds  corporate debt investments  commercial paper  government sponsored enterprise securities  government securities and certificates of deposit  that historically have been highly liquid and have matured at their full par values 
+therefore  we believe our credit market risk is not material at this time 
+however  there is a risk that we may incur other than temporary impairment charges with respect to our investments as a result of volatility in financial markets or other factors 
+

@@ -1,0 +1,495 @@
+item management s discussion and analysis of financial condition and results of operations entitled factors affecting future results and elsewhere in this report 
+document sciences corporation the company develops  markets and supports a family of document automation software products and services used in high volume electronic publishing applications 
+document automation has become increasingly important as more companies realize the benefits of automating the high volume production of individually customized documents that require the precise layout of information such as financial data  marketing text and graphs 
+the company s document automation software  the autograph family of products  enables personalized and customized publishing solutions for many industries including insurance  managed healthcare  financial services  telecommunications  manufacturing distribution  government and commercial print services 
+the company s products facilitate an important form of communication between organizations and customers by employing enterprise database assets to produce high quality documents that are ready to print on demand and distribute in high volume 
+additionally  the company s core technology is being applied to provide electronic document automation solutions for the internet  intranets and commercial on line services 
+autograph is licensed to more than customers worldwide who are collectively producing an estimated one billion customized pages per month 
+the highly portable autograph software platform enables cost effective  just in time  on demand  high volume publishing that is fully automated  capable of quality document composition  and flexible for enduser customization 
+the company s products are used in a wide array of computing environments from client server to large computer systems 
+products the company s autograph family of products currently addresses three major functional areas document composition and assembly  document management  and document viewing  as described below 
+all of the company s software products can be complemented by the company s professional services organization 
+the list price for an initial license fee for compuset  the company s core product  is currently  for an initial mainframe installation and ranges down to  for an initial single pc  options currently range from  to  the company licenses its products for one year  after which an annual renewal fee  usually in an amount equal to of the initial license fee  is required for continued use 
+a typical new sale is currently about  for software licenses and approximately  for professional services 
+document composition and assembly composition and assembly 
+compuset  the company s flagship product  automates document composition and assembly using data and information in corporate databases 
+it is the company s core technology 
+compuset software consists of a rulebased language and a composition engine that provide high speed composition and assembly of complex documents with high typographic and aesthetic levels of quality 
+information content is marked with compuset tags which  in turn  are defined in logically separate style specifications 
+without requiring real time user interaction  the composition engine then transforms the tagged data and information into finished electronic documents that can be composed and assembled at rates in excess of pages per second  depending on computing configuration and complexity of the document 
+document construction facilities are extensive  including the full support of dynamic data driven graphics generation 
+compuset operates on a range of computers and operating systems including mainframes  workstations  network servers and personal computers 
+data capture and setup 
+data capture and setup products include compuprep and a number of importers  and prepare data and information for subsequent composition and assembly by compuset 
+compuprep is an optional tool that enables users to capture and tag raw data and information from a variety of sources  including corporate databases  for subsequent processing by compuset 
+it is a high level language that describes the data environment  related data processing and the tagging instructions for compuset 
+importers accept externally generated document objects  including text  static graphics and scanned images  and convert them into formats compatible with compuset 
+the importers support adobe postscript  xerox metacode and the tiff standard for scanned images 
+document output and merge 
+emitters transform compuset s output into a number of popular page description languages pdls for printing and viewing 
+the pdls provide instructions for rendering text  forms  bitmaps  and graphics into documents 
+the pdl formats currently supported are xerox metacode  ibm afpds  and adobe postscript 
+this part of the architecture is extensible and new emitters can be provided as required 
+application development tools 
+compuseries application development tools run on microsoft windows r and simplify document design and application prototyping 
+compuseries currently consists of several modules 
+compuspec is a tool for defining document formatting rules 
+formatting specifications which are selected from a menu are associated with tags which are referenced in the document data 
+the results of the selected formatting specifications are visually displayed in a preview window 
+compubuild uses a pc version of compuset  combined with an editor to manipulate the tagged document data 
+compubuild supports all the dynamic functions and features of the compuset production engine 
+compumerge is a tool used to specify the placement of variable data into fixed document components such as in form fill applications 
+compuview proof is a document proofing tool used to preview the document layout on the computer screen prior to printing 
+these tools were integrated into a single windows application  called compuseries ii 
+the company is in beta testing to oem jetform r corporation s jetform design product as well as the jetform production print drivers for metacode  postscript and afp printers  and will integrate it with compuseries ii 
+document management document management tools provide client server solutions for the creation  revision and management of document components used in the company s document automation solutions 
+they consist of the document library service dls and desktop document manager ddm 
+dls manages the document component creation process required by complex variable documents 
+in addition  dls can be used to define complex assembly rules required for interactive or fully automated document composition and assembly with compuset 
+dls uses a client server architecture for accessing data and files on a mainframe or network server 
+ddm is the client component of dls and manages text objects created with microsoft word r 
+text objects are tracked and managed in a multi author environment by providing access security  revision control and approval levels 
+ddm also provides a criteria based document object selection capability for customized or personalized documents 
+these criteria are then used by dls to generate a compuset ready tagged data file 
+the customized or personalized document assembly can be directed to occur in a high volume fashion on the server or in a just in time  on demand fashion on the local ddm pc 
+document viewing document viewing enables on line viewing and archiving of electronic documents produced by document automation applications 
+it consists of document viewing service dvs and compuview 
+dvs uses a client server architecture for the creation and access of electronic document files 
+dvs is available for a variety of mainframe  unix and pc platforms 
+the electronic document files are generated in a format called composite container format ccf  which is optimized for fast  memory efficient viewing  transport and storage 
+ccf files can then be viewed by compuview 
+ccf files consist of three major components a page description language pdl rendition of the pages for wysiwyg viewing  various indices for locating documents  and reusable document elements 
+ccf files can also be distributed  archived or printed through document distribution and archiving systems offered by third party software developers that have integrated compuview 
+compuview is a windows application for viewing ccf files 
+the view of the document is virtually identical to the printed document 
+compuview may also be integrated with third party document retrieval systems 
+the company introduced dvs in october and entered into several oem agreements in to have the program incorporated into archiving software distributed by other major vendors 
+the company is considering possible future internet extensions  some of which are not currently under active development 
+the company believes that its core technology can be extended to the internet  intranets and commercial online services and has recently begun initial development activity in this area  although there can be no assurance that such development activity will result in commercially successful products 
+see business research and development 
+professional services in addition to its software products  the company provides a comprehensive suite of services which can assist customers in the implementation of enterprise wide and mission critical document automation applications 
+professional services include on site software installation  customer training programs  telephone support programs and consulting services 
+consulting services are currently focusing on assisting in the sale of high margin initial software licenses by providing project management and application development 
+eventually  the company intends to expand professional services to include document design  systems design and integration 
+in addition to consulting services  the company currently offers introductory level customer education  which is included with compuset initial licenses 
+additional and advanced classes are provided for additional fees at the company s headquarters in san diego and at customer sites 
+the company offers advanced and specialized customer education in response to the unique needs of certain customers 
+the company believes that expanded professional services enables customers to deploy the company s document automation products more rapidly and effectively  and assist the company in the development of new products and provide recurring revenue 
+the professional services and support organizations employed a staff of as of december  sales and marketing the company s sales and marketing organization targets vertical industry markets that require document automation and high volume document personalization and customization 
+the company currently licenses its products using a combination of direct sales and alternate channels 
+in the united states  the company markets its products through a direct sales force 
+sales representatives are provided with pre sales technical support by regional application specialists 
+sales representatives and the regional application specialists are located in atlanta  chicago  cincinnati  dallas  minneapolis  new york city  pittsburgh  richmond  raleigh  sacramento  yorba linda  san antonio  san diego  seattle and washington  dc the company distributes its products through value added reseller var relationships with xerox canada  ltd 
+in canada  fuji xerox co  ltd 
+in australia  and xerox brazil  ltd 
+in brazil 
+the company s subsidiary  document sciences europe  markets and supports the company s products in europe  africa and the middle east by providing channel management  technical support  consulting and training services  and defining european market and product requirements 
+the company licenses its products in europe through vars and  to a lesser extent  direct sales 
+the vars are principally rank xerox ltd 
+and other xerox affiliates who remarket the company s products 
+the company s revenues from export transactions with xerox affiliates were million  million and million in  and  respectively 
+the sales  marketing  consulting and customer support organization employed a staff of as of december  the company intends to expand its sales and marketing organization to provide direct sales and support services throughout the world 
+such planned expansion will occur by first addressing the unique product requirements of a region followed by developing indirect sales channels to market in the region 
+as the company is able to increase its market presence  it may then augment its alternate channels with a direct sales capability 
+in addition  the company intends to increase both its product offerings and markets through marketing  sales and distribution  and development relationships with other companies 
+current relationships include formal and informal marketing and sales alliances with xerox  ibm  oce printing systems  computer associates  new dimension software  rsd  jetform corporation  systemware  and anacomp 
+these relationships provide sales leads for the company s products and have extended the company s sales coverage and networking capabilities 
+research and development in general  the company s strategy is to build products that augment and extend the document composition and assembly capabilities of its core products 
+initially  product development investments were primarily focused on completing the autograph family of products  which included delivering products for document viewing as well as adding support for additional print environments 
+in addition  there was a substantial investment in product maintenance and in software integration  testing  and documentation 
+the company supplements its product development efforts by reviewing customer feedback on existing products and working with customers and potential customers to anticipate future product needs 
+to date  the company s autograph family of products have been applied mainly to document automation applications producing paper based documents 
+the company believes that its core technology can be extended to provide electronic document automation for the internet  intranets  and commercial on line services 
+the short term strategy is to engage this emerging opportunity with two complementary initiatives 
+first  the company intends to work closely to define product requirements with existing customers  many of whom have expressed interest in using the internet in their document automation solutions 
+second  the company intends to develop incremental extensions to its autograph family of products which can be incorporated by current customers into existing document automation products provided by the company 
+the company believes that its core technology can be extended to the internet  intranets and commercial on line services  and has only recently begun initial development activity in this area 
+there can be no assurance that the company will be successful in developing  introducing and marketing new products on a timely and cost effective basis  if at all  or that new products will achieve market acceptance 
+the development organization is composed of self directed teams  in which representatives from various disciplines within the company collectively take responsibility for the development and delivery of each new feature or product 
+the development process includes early review of prototypes and demonstrations to incorporate customer feedback and provide an opportunity for management review 
+a formal sequence of project phases organizes the development and review process for each team 
+the company has a formal release planning process for an annual maintenance release  and delivers interim versions as needed to support its customers 
+the development organization maintains a database of all customer and internal requests which forms the basis for release planning 
+the company expects to continue to enhance its existing products and to develop new products  particularly as they relate to electronic publishing applications 
+research and development expenditures have grown substantially since the company s inception 
+such expenditures were million in  million in and million in these amounts do not include product support activities 
+the development organization has grown from in to in and in the company employs independent contractors as needed to supplement the permanent development staff 
+competition the market for the company s document automation products is intensely competitive  subject to rapid change  and significantly affected by new product introductions and other market activities of industry participants 
+the company s software products are targeted at document intensive organizations that require the ability to produce large quantities of customized and personalized documents in paper or electronic form 
+the company faces direct and indirect competition from a broad range of competitors who offer a variety of products and solutions to the company s current and potential customers 
+the company s principal competition currently comes from i systems developed in house by the internal mis departments of large organizations  ii direct competition in a number of its vertical markets  including docucorp  which is partially owned by xerox  in the insurance industry  m i data services  inc in banking and financial services  and group software  inc in commercial direct mailing  and iii direct competitors such as ibm s direct composition facility dcf and group s recently introduced doc product 
+the company faces market resistance from the large installed base of legacy systems because of the reluctance of these customers to commit the time and effort necessary to convert their document automation processes to the company s document automation software 
+several of the company s competitors have longer operating histories  significantly greater financial  technical  marketing and other resources than the company  greater name recognition and a larger installed base of customers 
+it is also possible that the company will face competition from new competitors 
+these include large independent software companies offering personal computer based application software solutions  such as microsoft corporation and adobe corporation  and from large corporations providing database management software solutions  such as oracle corporation 
+in addition  xerox  either directly or through affiliated entities  could compete with the company 
+moreover  as the market for document automation software develops  a number of these or other companies with significantly greater resources than the company could attempt to enter or increase their presence in the company s market either independently or by acquiring or forming strategic alliances with competitors of the company or to otherwise increase their focus on the industry 
+in addition  current and potential competitors have established or may establish cooperative relationships among themselves or with third parties to increase the ability of their products to address the needs of the company s current and prospective customers 
+it is possible that new competitors or alliances among competitors may emerge and rapidly acquire significant market share 
+increased competition may result in price reductions  reduced gross margins and loss of market share  any of which could have a material adverse effect on the company s business  operating results and financial condition 
+there can be no assurance that the company will be able to compete successfully against current or future competitors or that competitive pressures faced by the company will not materially adversely affect its business  operating results and financial condition 
+the company believes that the principal competitive factors affecting its market include product performance and functionality  ease of use  scalability  operation across multiple computer and operating system platforms  product and company reputation  client service and support  and price 
+although the company believes that it currently competes favorably with respect to such factors  there can be no assurance that the company will be able to maintain its competitive position against current and future competitors or that the company will be successful in the face of increasing competition from new products or solutions introduced by existing competitors or by new companies entering the market 
+further  there can be no assurance that the company can maintain its position against current and future competitors  especially those with greater financial  marketing  service  support  technical and other resources than the company 
+patents and proprietary rights the company s success is dependent  in part  on its ability to protect its proprietary technology 
+the company relies primarily on a combination of copyright and trademark laws  trade secrets  confidentiality procedures and contractual provisions to protect its proprietary rights 
+the company seeks to protect its software  documentation and other written materials under trade secret and copyright laws  which afford only limited protection 
+the company presently has no patents or patent applications pending 
+despite the company s efforts to protect its proprietary rights  unauthorized parties may attempt to copy aspects of the company s products or to obtain and use information that the company regards as proprietary 
+policing unauthorized use of the company s products is difficult  and while the company is unable to determine the extent to which piracy of its software products exists  software piracy can be expected to be a persistent problem 
+in addition  the laws of some foreign countries do not protect the company s proprietary rights to as great an extent as do the laws of the united states 
+there can be no assurance that the company s means of protecting its proprietary rights will be adequate or that the company s competitors will not independently develop similar technology 
+the company is not aware that any of its products infringes upon the proprietary rights of third parties 
+there can be no assurance  however  that third parties will not claim infringement by the company with respect to current or future products 
+the company expects that software product developers will increasingly be subject to infringement claims as the number of products and competitors in the company s industry segment grows and the functionality of products in different industry segments overlaps 
+any such claims  with or without merit  could be time consuming  result in costly litigation  cause product shipment delays or require the company to enter into royalty or licensing agreements 
+such royalty or licensing agreements  if required  may not be available on terms acceptable to the company or at all  which could have a material adverse effect upon the company s business  operating results and financial condition 
+in addition  the company also relies on certain software that it licenses from third parties  including software that is integrated with internally developed software and used in the company s products to perform key functions 
+there can be no assurances that such firms will remain in business  that they will continue to support their products or that their products will otherwise continue to be available to the company on commercially reasonable terms 
+the loss or inability to maintain any of these software licenses could result in delays or reductions in product shipments until equivalent software can be developed  identified  licensed and integrated  which would adversely affect the company s business  operating results and financial condition 
+employees as of december   the company had employees including in sales  marketing  consulting and customer support  in research and development  and in finance and administration 
+none of the company s employees are represented by a labor union 
+the company has experienced no work stoppages and believes its relationship with its employees is good 
+competition for qualified personnel in the industry in which the company competes is intensive 
+the company believes that its future success will depend in part on its continued ability to attract  hire  and retain qualified personnel 
+certain additional business risks the company s business  financial condition and operating results may be impacted by a number of factors  including but not limited to those set forth below  any one of which could cause the company s actual results to vary materially from recent results or from the company s anticipated future results 
+limited operating history 
+the company was incorporated in october as a wholly owned subsidiary of xerox  and xerox currently owns approximately of the company s outstanding shares of common stock 
+the company s limited operating history makes the prediction of future operating results difficult  and the company s operating history during prior periods cannot necessarily be regarded as indicative of the company s prospects as an independent company  especially in light of the company s investments in sales  marketing  professional services and development infrastructure 
+accordingly  although the company has experienced revenue growth in recent years  there can be no assurance that the company will sustain such growth in revenues  if any  or that the company will remain profitable on a quarterly or annual basis 
+uncertainty of future operating results  fluctuations in quarterly operating results 
+the company s total revenues and operating results can vary  sometimes substantially  from quarter to quarter and are expected to vary significantly in the future 
+the company s revenues and operating results are difficult to forecast 
+future results will depend upon many factors  including the demand for the company s products  the level of product and price competition  the length of the company s sales cycle  the size and timing of individual license transactions  the delay or deferral of customer implementations  the budget cycles of the company s customers  the level of commissions on the sale of xerox printers under the strategic marketing alliance between the company and xerox  the company s success in expanding its direct sales force and indirect distribution channels  the timing of new product introductions and product enhancements by the company and its competitors  the mix of products and services sold  levels of international sales  activities of and acquisitions by competitors  the timing of new hires  changes in foreign currency exchange rates  the ability of the company to develop and market new products and control costs and general domestic and international economic conditions 
+in addition  the company s sales generally reflect relatively high revenue per order  and the loss or delay of individual orders  therefore  could have a significant impact on the revenues and quarterly operating results of the company 
+moreover  the timing of license revenue is difficult to predict because of the length of the company s sales cycle  which is typically three to twelve months from the initial customer contact 
+the company s initial software license products generally are shipped as orders are received 
+as a result  initial license fee revenues are substantially dependent on orders booked and shipped in that quarter 
+because the company s operating expenses are based on anticipated revenue levels and because a high percentage of the company s expenses are relatively fixed  a delay in the recognition of revenue from a limited number of license transactions could cause significant variations in operating results from quarter to quarter and could result in losses 
+to the extent such expenses precede increased revenues  the company s operating results would be materially adversely affected 
+the company s business has experienced and is expected to continue to experience seasonality  in part due to customer purchasing patterns and the company s expense patterns 
+the company believes that fourth quarter revenues are positively impacted by year end capital purchases by large corporate customers and strong fourth quarter sales of printers by xerox which may generate sales of the company s products  as well as the company s sales compensation plans 
+as reflected in the fourth quarter of  these seasonal factors have historically resulted in fourth quarter revenues being substantially higher than revenues in the preceding three quarters  as well as being higher than revenues in each of the first two quarters of the next year 
+in addition  a significant amount of the company s revenues occur predominantly in the third month of each fiscal quarter and tend to be concentrated in the latter half of the third month 
+as a result of these factors  revenues for any quarter are subject to significant variation  and the company believes that period to period comparisons of its results of operations are not necessarily meaningful and should not be relied upon as indications of future performance 
+furthermore  due to all of the foregoing factors  it is likely that in some future quarter the company s operating results will be below the expectations of public market analysts and investors 
+in such event  the price of the company s common stock would likely be materially adversely affected 
+see expansion of sales and distribution channels below  and management s discussion and analysis of financial condition and results of operations 
+control by xerox 
+xerox owns approximately of the outstanding shares of common stock of the company 
+consequently  xerox controls the company  is able to elect the entire board of directors of the company and continues to have significant input into the company s operations 
+in addition  xerox is able to determine the outcome of all corporate actions requiring stockholder approval  including potential mergers  acquisitions  consolidations and sales of all or substantially all of the assets of the company 
+the voting power of xerox could have the effect of delaying or preventing a change in control of the company  and may prevent or discourage tender offers for the company s common stock at a premium price by another person or entity 
+at present  xerox affiliates hold three of the five seats on the company s board of directors 
+see reliance on relationships with xerox  lack of independent sales and marketing channels below 
+reliance on relationships with xerox  lack of independent sales and marketing channels 
+the company currently has a variety of contractual and informal relationships with xerox and affiliates of xerox  including a cooperative marketing agreement  a transfer and license agreement and various distribution agreements 
+the company relies on these relationships and agreements for a significant portion of its total revenues 
+in  and  total revenues derived from relationships with xerox and affiliates of xerox accounted for approximately million  million and million  representing  and of the company s total revenues  respectively 
+further  the commissions received by the company from sales of xerox printers under the strategic marketing alliance  which were  million  and  in  and  respectively  have little or no associated costs  have contributed a substantial portion of the company s income from operations and net income for certain prior operating periods  have had a high degree of inconsistency from quarter to quarter and are difficult to estimate 
+failure to continue to receive such commissions would have a material adverse effect on the company s business  operating results and financial condition 
+although neither xerox nor its affiliated entities has expressed to the company any intention to terminate their respective agreements with the company  these agreements generally may be terminated on no more than days notice 
+accordingly  there can be no assurance that xerox or its affiliates will continue these relationships or  if they do  that they will be on terms favorable to the company 
+furthermore  there can be no assurance that existing and potential customers will not be deterred by the existence of these relationships or by the historical ties between the company and xerox and its affiliates 
+though the company intends to continue its existing relationships with xerox  the company s strategy is to lessen its dependence on xerox 
+however  there can be no assurance that the company will be able to do so and  because of the company s current level of dependence on xerox  there can be no assurance that the company s transition to a more independent company will not adversely affect its business  financial condition or results of operations 
+the failure by the company to maintain these relationships  particularly with xerox and its affiliates  or to establish new relationships in the future  could have a material adverse effect on the company s business  operating results and financial condition 
+see management s discussion and analysis of financial condition and results of operations  and expansion of sales and distribution channels below 
+xerox has strategic alliances and other business relationships with other companies who supply software and services used in high volume electronic publishing applications and who now or in the future may be a competitor of the company 
+xerox could in the future expand these relationships or enter into additional ones  and as a result the company s business could be materially adversely affected 
+there can be no assurance that xerox or one of its affiliated companies will not engage in business directly competitive with the company 
+in addition  xerox has on going internal development activities which could in the future lead to products that compete with the company 
+expansion of sales and distribution channels 
+the company has substantially increased expenditures in support of its strategy to expand its global marketing  sales and customer support infrastructure in order to expand the market for the company s products by providing direct sales and support services and increased channel distribution throughout the major markets of the world 
+through this expansion  the company hopes to lessen its dependence on xerox and certain xerox affiliates 
+in addition  the company intends to increase both its product offerings and markets through marketing  sales and distribution and development relationships with other companies 
+the company intends to increase the number of these strategic relationships as well as form alliances with system integrators and consultants 
+whether the company can successfully generate its own sales leads  introduce new products and enter into new markets will depend on its ability to expand its direct sales and support services  expand its indirect channel distribution  and increase its relationships and alliances with other companies 
+as a result of its planned expansion  the company has and will continue to incur significant costs to build such corporate infrastructure ahead of anticipated revenues  and any failure to achieve growth in revenues in excess of increased expenses would have a material adverse affect on the company s business  operating results and financial condition 
+there can be no assurance that the company will be able to successfully expand its direct sales and support services force  expand its indirect channel distribution  or establish or maintain successful third party relationships 
+any failure to do so will have a material adverse effect on the company s business  operating results and financial condition 
+see management s discussion and analysis of financial condition and results of operations 
+dependence on success of new products and expansion of professional services 
+the company s autograph family of products have been applied mainly to document automation applications producing paper based documents 
+the company believes its core technology can be extended to address applications requiring the delivery of customized and personalized electronic documents over electronic networks such as the internet  intranets or commercial on line services 
+the company began shipping document viewing service dvs  an optional on line viewer for electronic documents produced by document automation application in october document library services dls  an optional document management tool  was released for general availability in september prior to september  dls was in a limited release  with certain configurations still in beta testing 
+revenues for dvs were million in and  in revenues for dls were million in and million in revenues for dvs and dls were insignificant in in addition  the company is increasing its focus on the consulting services component of its professional services to assist customers in the planning and implementation of enterprise wide  mission critical document automation applications 
+the company has directed a significant amount of its product development expenditures to the on going development of dvs and dls and plans to devote a significant amount of future sales and marketing resources to the full commercial introduction of dvs and dls 
+the company believes that the long term growth of license and service revenue will be dependent  in part  upon the success of dvs  dls and the expansion of professional services 
+the company has limited experience in developing new products 
+because of such limited experience  there can be no assurance that dvs and dls will not require substantial software enhancements or modifications to satisfy performance requirements of clients or to correct design defects 
+further  there can be no assurance that the company will be successful in expanding its consulting services as part of its professional services 
+if clients experience significant problems with implementation of the software or are otherwise dissatisfied with the functionality or performance of dvs and dls  or if dvs or dls fails to achieve market acceptance for any reason  or if the company fails to successfully expand its professional services  the company s business  operating results and financial condition will be materially adversely affected 
+lengthy sales and implementation cycles 
+the license of the company s software products is often an enterprise wide decision by prospective customers and generally requires the company to engage in a lengthy sales cycle  typically between three and twelve months  to provide a significant level of education to prospective customers regarding the use and benefits of the company s products 
+in addition  the implementation of the company s products by customers involves a significant commitment of resources by such customers over an extended period of time  and is commonly associated with substantial customer business process reengineering efforts 
+for these and other reasons  the sales and customer implementation cycles are subject to a number of significant delays over which the company has little or no control 
+delay in the sale or customer implementation of a limited number of license transactions could have a material adverse effect on the company s business and results of operations and cause the company s operating results to vary significantly from quarter to quarter 
+see management s discussion and analysis of financial condition and results of operations 
+product concentration 
+the company derived of its initial license revenues from licenses of compuset and related compuset option products in initial license fees from dvs and dls comprised and  respectively  in as a result  factors adversely affecting the pricing of or demand for compuset and related products  such as competition from other products  negative publicity or obsolesce of the hardware or software environments in which the company s products run  could have a material adverse effect on the company s business  operating results and financial condition 
+the company s financial performance will continue to depend  in significant part  on the successful development  introduction and customer acceptance of new and enhanced versions of the compuset software and related products 
+there can be no assurance that the company will continue to be successful in developing and marketing compuset products and related services 
+see management s discussion and analysis of financial condition and results of operations 
+industry concentration 
+licenses to end users in the insurance and commercial print services industries for  and accounted for  and respectively  of total revenues 
+the future success of the company will depend on its ability to continue to successfully market its products in such industries  and to successfully market its products in other industries 
+the failure of the company to do so would have a material adverse effect on the company s business  financial condition and results of operations 
+see management s discussion and analysis of financial condition and results of operations 
+dependence on new products and product enhancements 
+the company s future business  operating results and financial condition will continue to depend upon its ability to develop new products that address the future needs of its target markets and to respond to emerging industry standards and practices 
+the company believes that its core technology can be extended to the internet  intranets and commercial on line services  and has begun initial development activity in this area 
+there can be no assurance that the company will be successful in developing  introducing and marketing new products or product enhancements  including new products or the extension of existing products for the internet  intranets and commercial on line services  on a timely and cost effective basis  if at all  or that its new products and product enhancements will adequately meet the requirements of the marketplace or achieve market acceptance 
+delays in the commencement of commercial shipments of new products or enhancements  including dvs and dls  may result in client dissatisfaction and delay or loss of product revenues 
+if the company is unable  for technological or other reasons  to develop and introduce new products or enhancements of existing products in a timely manner in response to changing market conditions or client requirements  or if new products or new versions of existing products do not achieve market acceptance  the company s business  operating results and financial condition will be materially adversely affected 
+in order to provide its customers with integrated product solutions  the company s future success will also depend in part upon its ability to maintain and enhance relationships with its technology partners  such as computer associates  jetform corporation  anacomp and new dimension software 
+see management s discussion and analysis of financial condition and results of operations 
+international operations 
+revenues from export sales  including sales through its foreign subsidiary accounted for  and of the company s total revenues in  and  respectively 
+the company s wholly owned subsidiary  document sciences europe  markets and supports the company s products in europe 
+the company licenses its products in europe through value added resellers vars and to a lesser extent  direct sales 
+the vars are principally xerox affiliates who re market the company s products 
+in australia  canada and brazil the company distributes its products through fuji xerox co  ltd  xerox canada  ltd  and xerox brazil  ltd  respectively 
+revenues generated by these xerox affiliates were million  million and million in  and the  respectively 
+in  a substantial portion of the company s revenues from export sales were generated through entities affiliated with xerox 
+in order to successfully expand export sales  the company must establish additional foreign operations  hire additional personnel and develop relationships with additional international resellers 
+to the extent that the company is unable to do so in a timely manner  the company s growth  if any  in international export sales will be limited  and the company s business  operating results and financial condition could be materially adversely affected 
+in addition  there can be no assurance that the company will be able to maintain or increase international market demand for its products 
+additional risks inherent in the company s international business activities generally include currency fluctuations  unexpected changes in regulatory requirements  tariffs and other trade barriers  costs of and the company s limited experience in localizing products for foreign countries  lack of acceptance of localized products in foreign countries  longer accounts receivable payment cycles  difficulties in managing international operations  potentially adverse tax consequences including restrictions on the repatriation of earnings  and the burdens of complying with a wide variety of foreign laws 
+a portion of the company s business is conducted in currencies other than the us dollar  primarily the french franc 
+although to date exchange rate fluctuations have not had a significant impact on the company  fluctuations in the value of the currencies in which the company conducts its business relative to the us dollar could cause currency transaction gains and losses in future periods 
+the company does not currently engage in currency hedging transactions  and there can be no assurance that fluctuations in the currency exchange rates in the future will not have a material adverse impact on international revenues and thus the company s business  operating results or financial condition 
+there can be no assurance that such factors will not have a material adverse effect on the company s future international operations and  consequently  the company s results of operations 
+see control by xerox above and management s discussion and analysis of financial condition and results of operations 
+dependence on emerging markets for document automation software 
+the market for document automation software is relatively new  intensely competitive  highly fragmented  underdeveloped and subject to rapid change 
+marketing and sales techniques in the document automation software marketplace  as well as the bases for competition  are not well established 
+there can be no assurance that the market for document automation software will develop or that  if it does develop  organizations will adopt the company s products 
+the company has spent  and intends to continue to spend  significant resources educating potential customers about the benefits of its products 
+however  there can be no assurance that such expenditures will enable the company s products to achieve further market acceptance  and if the document automation software market fails to develop or develops more slowly than the company currently anticipates  the company s business  operating results and financial condition would be materially adversely affected 
+see management s discussion and analysis of financial condition and results of operations 
+in addition  the commercial market for document automation of electronic documents designed for use with the internet  intranets and commercial on line services has only recently begun to develop  and the success of the company s products designed for this market will depend  in part  on their compatibility with such services 
+it is difficult to predict with any assurance whether the internet  intranets and commercial on line services will prove to be a viable commercial marketplace or whether the demand for related products and services will increase or decrease in the future 
+since the increased commercial use of the internet  intranets and commercial on line services could require substantial modification and customization of certain of the company s products and services and the introduction of new products and services  there can be no assurance that the company will be able to effectively or successfully compete in this emerging market 
+management of change  dependence upon key personnel 
+the company has recently experienced a period of growth in total revenues 
+the company s ability to compete effectively and to manage future change will require the company to continue to improve its financial and management controls  reporting systems and procedures on a timely basis and to expand  train and manage its employee work force 
+there can be no assurance that the company will be able to do so successfully 
+the company s failure to do so could have a material adverse effect on the company s business  operating results and financial condition 
+the company s future performance depends in significant part upon the continued service of its key technical  sales and senior management personnel  none of whom are parties to employment agreements with the company 
+the loss of the services of one or more of the company s executive officers could have a material adverse effect on the company s business  operating results and financial condition 
+the company s future success also depends on its continuing ability to attract and retain highly qualified product development  sales and managerial personnel 
+competition for such personnel is intense  and there can be no assurance that the company will be able to retain its key employees or that it will be able to attract  assimilate or retain other highly qualified product development  sales and managerial personnel in the future 
+see control by xerox above 
+recent changes in senior management 
+on march   the company announced the retirement of tony n 
+domit from his positions as president and chief executive officer  and that a committee of the company s board of directors had been established to conduct a search for mr 
+domit s replacement 
+while the company intends to name a new president and chief executive officer as soon as practicable  there can be no assurance that the change in senior management and related uncertainties will not adversely affect the company s consolidated operating results and financial condition during the period until a new president and chief executive officer is hired and afterward 
+the company s failure to recruit  retain and assimilate new executives  or the failure of any such executive to perform effectively  or the loss of any such executive  could have a material adverse impact on the company s business  financial condition and results of operations 
+year compliance 
+many currently installed computer systems and software products are coded to accept only two digit entries in the date code field 
+beginning in the year  these date code fields will need to accept four digit entries to distinguish st century dates from th century dates 
+as a result  in fewer than two years  computer systems and or software used by many companies may need to be upgraded to comply with such year requirements 
+significant uncertainty exists concerning the potential effects associated with such compliance 
+any year compliance problem of any of the company  its customers  or its suppliers could result in a material adverse effect on the company s business  financial condition  and results of operations 
+see management s discussion and analysis of financial condition and results of operations 
+product liability 
+the company s license agreements with its customers typically contain provisions designed to limit the company s exposure to potential product liability claims 
+however  it is possible that the limitation of liability provisions contained in the company s license agreements may not be effective under the laws of certain jurisdictions 
+although the company has not experienced any product liability claims to date  the sale and support of products by the company may entail the risk of such claims  and there can be no assurance that the company will not be subject to such claims in the future 
+a successful product liability claim or claim arising as a result of professional services rendered by the company brought against the company could have a material adverse effect upon the company s business  operating results and financial condition 
+risk of product defects 
+software products as complex as those offered by the company  particularly the company s new dvs and dls products  may contain undetected defects or errors when first introduced or as new versions are released 
+as a result  the company could in the future lose or delay recognition of revenues as a result of software errors or defects 
+in addition  the company s products are typically intended for use in applications that may be critical to a customer s business 
+as a result  the company expects that its customers and potential customers have a greater sensitivity to product defects than the market for software products generally 
+although the company s business has not been adversely affected by any such errors to date  there can be no assurance that  despite testing by the company and by current and potential customers  errors will not be found in new products or releases after commencement of commercial shipments  resulting in loss of revenue or delay in market acceptance  diversion of development resources  damage to the company s reputation  or increased service and warranty costs  any of which would have a material adverse effect upon the company s business  operating results and financial condition 
+item properties 
+the company s principal administrative  sales  marketing  training  and research and development facilities occupy approximately  square feet in san diego  california  pursuant to a lease which expires on february  in addition  the company s subsidiary in france occupies approximately  square feet of office space with a renewable lease expiring in february sales representatives and field technical support personnel operate from their homes 
+item legal proceedings 
+the company is not a party  nor is its property subject  to any material pending legal proceedings 
+item submission of matters to a vote of security holders 
+no matters were submitted to a vote of security holders during the fourth quarter of fiscal year executive officers of the company the executive officers of the company and their ages  as of march  are as follows name age position alan h 
+lynchosky acting president and chief executive officer robert d 
+gerhart acting chief financial officer thomas anthony vice president  sales peter l 
+bradshaw vice president  development daniel j 
+fregeau vice president  business development robert j 
+pryor vice president  marketing alan h 
+lynchosky has served as acting president and chief executive officer since march and vice president  professional services since april prior to joining the company  mr 
+lynchosky served in a variety of executive and other positions at control data systems  inc over a twenty four year period 
+most recently serving as vice president  managed services division  where he created a new global business division focusing on outsourced electronic commerce services 
+other positions within control data included a variety of vice president and general manager roles managing several different business units both domestically and abroad 
+robert d 
+gerhart has served as acting chief financial officer since november and corporate controller since prior to joining the company  mr 
+gerhart served as chief financial officer and vice president of finance at software sorcery  a multimedia software publishing company from to from to  mr 
+gerhart served as managing partner at gerhart gerstein pc certified public accountants  a local certified public accounting firm 
+thomas anthony has served as vice president  sales since june prior to joining the company  mr 
+anthony was executive vice president  marketing and sales for innovatech  inc from to  acer america from to  sweda international from to  and frame technologies from to mr 
+anthony was vice president  sales for altos computer systems from to and vice president marketing and sales from to for onyx systems 
+prior to onyx  mr 
+anthony was with national semiconductor as a vice president and founder of the datachecker systems business unit 
+peter l 
+bradshaw has served as vice president of development since march prior to joining the company  mr 
+bradshaw was manager of the application software team at xerox from to  where he was responsible for integrating high volume printers with application software 
+from to  mr 
+bradshaw worked in xerox workstation business unit where he managed the development team responsible for the graphical user interface for the workstation 
+from to  mr 
+bradshaw was at bell telephone laboratories in system development 
+daniel j 
+fregeau has served as vice president  business development since from to mr 
+fregeau served as vice president  marketing and from to  he served as vice president  sales for the company 
+prior to joining the company  mr 
+fregeau was marketing manager for the networking division of sears business centers  san diego  from to mr 
+fregeau was a founder and principal of microage in san diego from to from to  mr 
+fregeau held several positions with xerox corporation s electronic publishing business unit including manager of systems engineering and integration  technical program manager  and project manager 
+while at xerox  mr 
+fregeau designed and directed the development of several publishing products and was a key contributor to the launch of the xics now compuset product in the us and canada 
+robert j 
+pryor has served as vice president  marketing since may prior to joining the company  mr 
+pryor served as a principal with web 
+in 
+sight  an internet consulting group from to  and was retained by document sciences corporation to help formulate the company s internet strategy 
+mr 
+pryor served as president and chief executive officer of design intent software  inc from to executive officers of the company are appointed by the board of directors and serve at the discretion of the board 
+there are no family relationships among any directors or executive officers of the company 
+part ii item market for registrant s common equity and related stockholder matters 
+the common stock of the company is traded on the nasdaq market under the symbol docx 
+the following table sets forth the range of high and low sales prices on the national market of the common stock for the periods indicated  as reported by nasdaq 
+such quotations represent inter dealer prices without retail markup  markdown or commission and may not necessarily represent actual transactions 
+high low fiscal september  through september  forth quarter ended december  fiscal first quarter ended march  second quarter ended june  third quarter ended september  fourth quarter ended december  item selected financial data 
+the following table presents selected financial data of document sciences corporation 
+this historical data should be read in conjunction with the consolidated financial statements and the related notes thereto in item and management s discussion and analysis of financial condition and results of operations in item years ended december  in thousands  except per share data statement of income net revenues      income loss from operations    net income   net income per share 
+
+
+
+
+shares used in per share calculations      balance sheet working capital    total assets      capital lease obligations  less current portion stockholders equity deficit   item management s discussion and analysis of financial condition and results of operations 
+in addition to historical information  this form k contains forward looking statements that involve risks and uncertainties 
+the company s actual results could differ materially from those discussed herein 
+factors that could cause or contribute to such differences include  but are not limited to  those discussed herein as well as those discussed in certain additional business risks on pages through readers are cautioned not to place undue reliance on these forward looking statements  and the company undertakes no obligation to publicly release the results of any revision to these forward looking statements which may be made to reflect events or circumstances after the date hereof or to reflect the occurrence of unanticipated events 
+overview document sciences corporation develops  markets and supports a family of document automation software and services used in high volume electronic publishing applications 
+the company was incorporated in delaware in october as a wholly owned subsidiary of xerox corporation xerox  and following the company s initial public offering of stock in september  xerox ownership was reduced to approximately 
+on may   the company purchased substantially all of the assets of data retrieval corporation of america data retrieval from the west group 
+included in the purchase were exclusive ownership of the textcomply  text dbms  textgen  textmigrate and textbook software products and the installed base of commercial accounts 
+the company has retained employees responsible for the development  product support and customer service of the software products 
+in addition  the company will continue to provide training and consulting support for existing and future customers 
+see note of notes to consolidated financial statements 
+results of operations for the years ended december   and revenues total revenues were million  million and million in  and  respectively  representing increases of from to and from to the company s revenues are divided into three categories based upon the sources from which they are derived initial license fees  annual renewal license and support fees  and services and other revenues 
+initial license fees are comprised principally of license fees for the first year of use of the company s products by end user customers 
+annual renewal license and support fees are comprised principally of mandatory fees paid by customers annually for continued use and support of the licensed products 
+services and other revenues are comprised principally of fees for consulting  application development and training services performed by the company as well as fees received from xerox in connection with the sale of certain xerox printer products 
+the company recognizes revenue in accordance with aicpa statement of position on software revenue recognition no 
+initial license revenue is recognized upon shipment of the product to customers if no significant company obligations remain and collection of the receivable is deemed probable 
+the portion of the initial license revenue which represents the software support for the first year is deferred and recognized ratably over the contract period 
+revenues from commissions paid by xerox in connection with the sale of xerox printer products are recognized upon installation of the printer products 
+revenues generated from consulting and training services are recognized as the related services are performed 
+the growth of total revenue in each year was due primarily to increased numbers of initial software license customers and growth in services and other revenue  and to the expansion of the company s sales force and product consultants 
+the company sells its products principally through a direct sales force domestically  and internationally principally through distributors and value added resellers vars and  to a lesser extent  through its direct sales force 
+revenues from export sales and sales through the company s foreign subsidiary were million  million and million in  and  respectively  representing increases of from to and from to revenue from export sales were  and of total revenue for the  and  respectively 
+the increase in total export revenue is due to the company s increased presence in foreign markets and the continued success of the foreign subsidiary in europe which was established in this growth has not paralleled the domestic growth since professional services have been generally performed by vars in these markets 
+the company and xerox maintain a strategic marketing alliance agreement under which the parties have agreed to pay each other fees on referrals that lead to the successful licensing or sales of each other s products 
+the company s revenues from the strategic marketing alliance  principally commissions from sales of xerox printers  were  million and  in  and  respectively 
+these commissions were of total revenue in  of total revenue in and of total revenue in failure to continue to receive such commissions would have a material adverse effect on the company s business  operating results and financial condition 
+the company has entered into distributorship agreements with various xerox foreign affiliates to remarket the company s products internationally 
+the company s revenues from such distributorship agreements relating to the licensing  maintenance and support of the company s products were million  million and million in  and  respectively 
+initial license fees 
+initial license fee revenues were million  million and million for  and  respectively  representing increases of from to and from to initial license revenues as a percentage of total revenue were  and in  and  respectively 
+initial license revenues have increased in absolute dollars in each period as a result of increased demand for professional services and have increased in due to an increase in annual renewal license and support fees associated with the data retrieval acquisition 
+annual renewal license and support fees 
+revenues from annual renewal licenses were million  million and million for  and  respectively  representing increases of from to and from to the increase in both periods was principally due to an increase in the installed base of users of the company s software products including the increase in the company s installed base of customers resulting from the data retrieval purchase 
+as a percentage of total revenue  annual renewal license and support fees were  and in  and  respectively 
+services and other 
+revenues from services and other were million  million and million in  and  respectively  representing increases of from to and from to the increase in each period was principally due to the increased number of new customer licenses of the company s software generating increased demand for services as well as the increasing scope of professional services offered 
+revenues from services and other were  and of total revenues in  and  respectively 
+cost of revenues and operating expenses cost of initial license fees 
+cost of initial license revenues were   and  in  and  respectively  representing  and of initial license revenues in  and  respectively 
+cost of initial licenses of software includes documentation  reproduction costs  product packaging  packaging design  product media  employment costs for training  installation and distribution personnel  the cost of third party software and amortization of previously capitalized software development costs 
+the decrease in the cost of initial licenses was primarily the result of decreased payments for third party software integrated into the company s dls products which technology was obtained in the purchase of data retrieval 
+cost of annual licenses renewals 
+cost of annual licenses renewals consists principally of the employment related costs for the company s technical support staff  which performs technical software support services 
+cost of annual licenses renewals revenues was   and  in  and  respectively  representing  and of annual licenses renewals revenues 
+this increase in absolute dollars is attributable to the additional technical support personnel necessary to support the customer base acquired from data retrieval as well as an increase in the installed base of users of the company s software products 
+cost of services and other 
+cost of services and other revenues were  million and million in  and  respectively  representing  and of services and other revenue 
+cost of services and other consists principally of the employment related costs for the company s staff of product consultants and trainers 
+the increase in cost of services and other revenues resulted principally from the additional staffing to perform the company s professional services 
+there are little or no costs related to commissions from the sale of xerox printers under the strategic marketing alliance 
+research and development 
+research and development expenses were million  million and million in  and  respectively  representing increases of from to and from to research and development expenses consist primarily of the employment related costs of personnel associated with developing new products  enhancing existing products  testing software products and developing product documentation 
+as a percentage of total revenue  research and development expenses were  and in  and  respectively 
+the company anticipates that it will continue to direct significant resources to development and enhancement of products 
+the company expenses all costs for research and development of new products until technological feasibility has been assured 
+thereafter  costs of production are capitalized until general release of the product 
+the capitalized costs of software production are amortized using the greater of the amount computed using the ratio of current product revenues to estimated total product revenues or the straight line method over the remaining estimated economic lives of the products 
+the company capitalized software development costs of   and  in  and  respectively 
+the increase in capitalized software development costs in compared to was principally due to the expansion of the engineering staff and increased costs due to the development of software that has reached technological feasibility as compared to prior periods when there were enhancements to existing products 
+selling and marketing 
+selling and marketing expenses were million  million and million in  and  respectively  representing increases of from to and from to selling and marketing expenses consist primarily of salaries  commissions  marketing programs and related costs for pre and post sales activity 
+the increase for both periods was the result of adding personnel to increase geographic coverage of the selling organization and  to a lesser extent  the higher commissions associated with increased revenues 
+the increase in compared to was also the result of adding employees to develop and deliver the professional services 
+the increase from to was due principally to increased sales  sales support and marketing personnel and the related costs and commissions associated with increased revenues 
+selling and marketing expenses were  and of total revenues in  and  respectively 
+general and administrative 
+general and administrative expenses consist of employment related costs for finance  administration and human resources  and general corporate management and services 
+general and administrative expenses were million in  million in and million in  representing  and of total revenue in  and  respectively 
+the increase in general and administrative expenses in absolute dollars was the result of growth in the finance and administrative operations to support the growth of the company and increased expenses associated with being a publicly traded company 
+interest income expense  net 
+interest income expense is primarily composed of interest income from cash and cash equivalents and short term investments offset by financing charges related to equipment leases 
+interest income expense  net was   and  in  and  respectively 
+the increase in dollar amount is primarily due to higher cash balances resulting from the infusion of cash from the company s initial public offering of common stock completed in september provision for income taxes 
+effective tax rates were approximately  and in  and  respectively 
+these rates differ from the federal statutory rate in primarily due to the benefits received from certain credits and to benefits received from tax exempt interest income 
+during the company recognized a benefit from a net operating loss carryforward from the company s foreign subsidiary 
+from its inception to september   the company s operating results were included in the consolidated tax returns of xerox corporation 
+subsequent to the company s initial public offering on september   the company was no longer included in the consolidated tax returns of xerox corporation 
+factors that may affect future operating results the company s total revenues and operating results can vary  sometimes substantially  from quarter to quarter and are expected to vary significantly in the future 
+the company s revenues and operating results are difficult to forecast 
+future results will depend upon many factors  including the demand for the company s products  the level of product and price competition  the length of the company s sales cycle  the size and timing of individual license transactions  the delay or deferral of customer implementations  the budget cycles of the company s customers  the company s success in expanding its direct sales force and indirect distribution channels  the timing of new product introductions and product enhancements by the company and its competitors  the mix of products and services sold  levels of international sales  activities of and acquisitions by competitors  the timing of new hires  changes in foreign currency exchange rates  the ability of the company to develop and market new products and control costs  and general domestic and international economic conditions 
+in addition  the company s sales generally reflect a relatively high amount of revenues per order  and  therefore  the loss or delay of individual orders could have a significant impact on revenues and quarterly operating results of the company 
+in addition  a significant amount of the company s revenues occur predominantly in the third month of each fiscal quarter and tend to be concentrated in the latter half of that third month 
+the company s software products generally are shipped as orders are received 
+as a result  initial license revenues in any quarter are substantially dependent on orders booked and shipped in that quarter 
+the timing of receipt of initial license revenue is difficult to predict because of the length of the company s sales cycle  which is typically three to twelve months from the initial contact 
+because the company s operating expenses are based on anticipated revenue trends and because a high percentage of the company s expenses are relatively fixed  a delay in the recognition of revenue from a limited number of initial license transactions could cause significant variations in operating results from quarter to quarter and could result in losses 
+to the extent such expenses precede  or are not subsequently followed by  increased revenues  the company s operating results would be materially adversely affected 
+due to the foregoing factors  revenues and operating results for any quarter are subject to significant variation  and the company believes that period to period comparisons of its results of operations are not necessarily meaningful and should not be relied upon as indications of future performance 
+liquidity and capital resources at december   the company had million in cash  cash equivalents and short term investments 
+net cash provided by operating activities was million and million in and  respectively 
+net cash used in operating activities was  in net cash used in investing activities was  and million in and  respectively 
+in net cash used in investing activities was primarily used for the purchase of fixed assets 
+in  net cash used in investing activities was primarily used for purchase of short term investments and to a lesser extent  for the purchase of fixed assets 
+net cash provided by investing activities was million in in net cash provided by financing activities was  primarily from issuance of the company s common stock pursuant to exercise of options granted under the employee stock option plan  offset by payments of capital lease obligations 
+net cash provided by financing activities in was million  primarily from net proceeds from the initial public offering of the company s common stock 
+net cash used in financing activities was  in  primarily from the purchase of treasury stock 
+the company believes that its existing cash balances and anticipated cash flows from operations will be sufficient to meet its anticipated cash needs for working capital and capital expenditures at least through the next twelve months 
+a portion of the company s cash could be used to acquire or invest in complementary businesses or products or obtain the right to use complementary technologies 
+the company is currently evaluating  in its ordinary course of business  potential investments such as businesses  products or technologies 
+the company has no current understandings  commitments or agreements with respect to any acquisition of other businesses  products or technologies 
+in september  the company completed an initial public offering of its common stock 
+in october  the underwriters of the offering exercised their over allotment option 
+the net proceeds received by the company from the offering were approximately million 
+the company thus far used the proceeds from the offering as follows i approximately  was used to pay income taxes to xerox corporation 
+ii approximately  was used to purchase certain assets of data retrieval corporation of america 
+iii approximately  is available for general working capital purposes 
+recently enacted accounting standards the financial accounting standards board recently approved the new american institute of certified public accountants statement of position  software revenue recognition sop 
+this statement provides guidance for recognizing revenue and related to sales by software vendors 
+sop will be effective for the company beginning in the first quarter of the company does not believe the adoption of sop will have a significant impact on its revenue recognition policy  its policy for capitalization of software development costs  or its results of operations or financial position 
+in june  the financial accounting standards board issued sfas no 
+ reporting comprehensive income and no 
+ disclosures about segments of an enterprise and related information 
+sfas no 
+establishes rules for reporting and displaying comprehensive income 
+sfas no 
+will require the company to use the management approach in disclosing segment information 
+both statements are effective for the company during the company does not believe that the adoption of either sfas no 
+or sfas no 
+will have a material impact on the company s results of operations  cash flows  or financial position 
+year compliance the company has determined that it will need to modify or replace significant portions of its software so that its computer systems will function properly with respect to dates in the year and beyond 
+the company also intends to initiate discussions with its significant suppliers  large customers and financial institutions to ensure that those parties have appropriate plans to remediate year issues where their systems interface with the company s systems or otherwise impact its operations 
+the company plans to assess the extent to which its operations are vulnerable should those organizations fail to remediate properly their computer systems 
+the company will verify that activities are designed to ensure that there is no adverse effect on the company s core business operations and that transactions with customers  suppliers and financial institutions are fully supported 
+the company expects to have all necessary changes implemented by while the company believes its planning efforts are adequate to address its year concerns  there can be no guarantee that the company s systems or the systems of other companies on which the company s systems and operations rely will be converted on a timely basis and will not have a material effect on the company 
+the cost of the year initiatives is not expected to be material to the company s results of operations or financial position 
+item a 
+quantitative and qualitative disclosures about market risk not applicable 

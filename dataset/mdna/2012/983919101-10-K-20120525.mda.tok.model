@@ -1,0 +1,87 @@
+item management s discussion and analysis of financial condition and results of operations for information about our revenues from our product families 
+nm product families the series devices that comprise our nm product families are fabricated on a high k metal gate  high performance  low power nm process technology 
+these devices are based on a scalable and optimized architecture  which enables design and ip portability and re use across all families as well as provides designers the ability to achieve the appropriate combination of i o support  performance  feature quantities  packaging and power consumption to address a wide range of applications 
+the series devices consist of the following three families virtex fpgas are optimized for applications requiring the highest capacity  performance  dsp and serial connectivity 
+target applications include g and g line cards  high performance computing and test and measurement applications 
+kintex fpgas represent xilinx s first mid range fpga family 
+these devices maximize price performance and performance per watt 
+target applications include wireless lte infrastructure  video display technology and medical imaging 
+artix fpgas offer the lowest power and system cost at higher performance than alternative high volume fpgas 
+these devices are targeted to high volume applications such as handheld portable ultrasound devices  multi function printers and software defined radio 
+the zynq family is the first family of xilinx epps 
+this new class of product combines an industry standard arm dual core cortex a mpcore processing system with xilinx nm architecture 
+there are four devices in the zynq epp family that allow designers to target cost sensitive as well as high performance applications from a single platform using industry standard tools 
+these devices are designed to enable incremental market opportunities in applications such as industrial motor control  driver assistance and smart surveillance systems 
+
+table of contents nm and nm product families the virtex fpga family consists of devices and is the sixth generation in the virtex series of fpgas 
+virtex fpgas are fabricated on a high performance  nm process technology 
+there are three virtex families  and each is optimized to deliver different feature mixes to address a variety of markets as follows virtex lxt fpgas optimized for applications that require high performance logic  dsp and serial connectivity with low power g serial transceivers 
+virtex sxt fpgas optimized for applications that require ultra high performance dsp and serial connectivity with low power g serial transceivers 
+virtex hxt fpgas optimized for communications applications that require the highest speed serial connectivity with up to g serial transceivers 
+the latest generation in the spartan fpga series  the spartan fpga family  is fabricated on a low power nm process technology 
+the spartan family is the pld industry s first nm high volume fpga family  consisting of devices in two product families spartan lx fpgas optimized for applications that require the lowest cost 
+spartan lxt fpgas optimized for applications that require lx features plus g serial transceivers 
+nm product families the virtex fpga family consists of devices in five product families virtex lx fpgas for logic intensive designs  virtex lxt fpgas for high performance logic with serial connectivity  virtex sxt fpgas for high performance dsp with serial connectivity  virtex fxt fpgas for embedded processing with serial connectivity and virtex txt fpgas for high bandwidth serial connectivity 
+other product families prior generation virtex families include virtex  virtex ii pro  virtex ii  virtex e and the original virtex family 
+spartan family fpgas include nm spartan fpgas  the spartan e family and the spartan a family 
+prior generation spartan families include spartan iie  spartan ii  spartan xl and the original spartan family 
+cplds operate on the lowest end of the programmable logic density spectrum 
+cplds are single chip  nonvolatile solutions characterized by instant on and universal interconnect 
+cplds combine the advantages of ultra low power consumption with the benefits of high performance and low cost 
+prior generations of cplds include the coolrunner tm and xc product families 
+easypath fpgas easypath fpgas offer customers a fast  simple method of cost reducing fpga designs 
+easypath fpgas use the same production masks and fabrication process as standard fpgas and are tested to a specific customer application to improve yield and lower costs 
+as a result  easypath fpgas provide customers with significant cost reduction when compared to the standard fpga devices without the conversion risk  engineering effort  or the additional time required to move to an asic 
+the latest generation of easypath fpgas and easypath fpgas provide lower total product cost of ownership for cost reducing high performance fpgas 
+design platforms and services programmable platforms we offer three types of programmable platforms that support our customers designs and reduce their development efforts the base platform is the delivery vehicle for all of our new silicon offerings used to develop and run customer specific software applications and hardware designs 
+released at launch  the base platform is comprised of fpga silicon  integrated software environment ise design suite design environment  integration support of optional third party synthesis  simulation  and signal integrity tools  reference designs  development boards and ip 
+the domain specific platform targets one of the three primary xilinx fpga user profiles the embedded processing developer  the dsp developer  or the logic connectivity developer 
+it accomplishes this by augmenting the base platform with a targeted set of integrated technologies  including higher level design methodologies and tools  domain specific ip including embedded  agile mixed signal  video  dsp and connectivity  domain specific development hardware and reference designs  and operating systems and software 
+
+table of contents the market specific platform enables software or hardware developers to quickly build and run their specific application or solution 
+built for specific markets such as automotive  consumer  aerospace and defense  communications  audio  video and broadcast  industrial  or scientific and medical  the market specific platform integrates both the base and domain specific platforms with higher targeted applications elements such as ip  reference designs and boards optimized for a particular market 
+design tools to accommodate the various design methodologies and design flows employed by the wide range of our customers user profiles such as system designers  algorithm designers  software coders and logic designers  we provide the appropriate design environment tailored to each user profile for design creation  design implementation and design verification 
+during april  xilinx introduced the next generation vivado design suite designed to improve developer productivity resulting in dramatically faster design integration and implementation 
+vivado hallmarks include an easy to use ip centric design flow and up to x improvement in run times 
+the standards based vivado tools include high level synthesis to provide a more direct flow in retargeting dsps and general purpose processors designs into our fpgas  ip integrator to rapidly stitch together cores at higher levels of abstraction  and a new analytical place and route engine which significantly improves run times 
+vivado supports xilinx series fpgas and zynq epps 
+the previous generation tool chain  ise design suite  features three domain specific categories embedded  dsp and logic connectivity 
+the ise design suite supports xilinx series fpgas  zynq epps and all previous generation fpgas  enabling customers to transition to the vivado design suite when the timing is right for their design needs 
+both the vivado design suite and ise design suite also interoperate with a wide range of third party electronic design automation eda software point tools offerings 
+intellectual property xilinx and various third parties offer hundreds of no charge and fee bearing ip core licenses covering ethernet  memory controllers interlaken and pcie interface  as well as an abundance of domain specific ip in the areas of embedded  dsp and connectivity  and market specific ip cores 
+in addition  our products and technology leverage industry standards such as arm amba axi interconnect technology  ip xact and ieee p encryption to facilitate plug and play fpga design and take advantage of the large ecosystem of arm ip developers 
+development boards  kits and configuration products in addition to the broad selection of legacy development boards presently offered  we have introduced a new unified board strategy that enables the creation of a standardized and coordinated set of base boards available both from xilinx and our ecosystem partners  all utilizing the industry standard extensions that enable customization for market specific applications 
+adopting this standard for all of our base boards enables the creation of a scalable and extensible delivery mechanism for all xilinx programmable platforms 
+we also offer comprehensive development kits including hardware  design tools  ip and reference designs that are designed to streamline and accelerate the development of domain specific and market specific applications 
+finally  xilinx offers a range of configuration products including one time programmable and in system programmable storage devices to configure xilinx fpgas 
+these prom programmable read only memory products support all of our fpga devices 
+third party alliances xilinx and certain third parties have developed and continue to offer a robust ecosystem of ip  boards  tools  services and support through the xilinx alliance program 
+xilinx also works with these third parties to promote our programmable platforms through third party tools  ip  software  boards and design services 
+engineering services xilinx engineering services provide customers with engineering resources to augment their design teams and to provide expert design specific advice 
+xilinx tailors its engineering services to the needs of its customers  ranging from hands on training to full design creation and implementation 
+
+table of contents research and development our research and development r d activities are primarily directed toward the design of new ics  the development of new software design automation tools for hardware and embedded software  the design of logic ip  the adoption of advanced semiconductor manufacturing processes for ongoing cost reductions  performance and signal integrity improvements and lowering pld power consumption 
+as a result of our r d efforts  we have introduced a number of new products during the past several years including the virtex  kintex  artix  zynq  virtex and spartan families 
+we have made enhancements to our ip core offerings and introduced vivado  the next generation software design suite 
+we extended our collaboration with our foundry suppliers in the development of nm  nm  nm and nm manufacturing technology  enabling us to be the first company in the pld industry to ship nm high volume as well as nm fpga devices 
+additionally  our investment in r d has allowed us to ship the industry s first nm pld with embedded arm technology as well as the industry s first stacked silicon d devices 
+our r d challenge is to continue to develop new products that create value added solutions for customers 
+in fiscal  and  our r d expenses were million  million and million  respectively 
+we believe technical leadership and innovation are essential to our future success and are committed to maintaining a significant level of r d investment 
+sales and distribution we sell our products to oems and to electronic components distributors who resell these products to oems or contract manufacturers 
+we use dedicated global sales and marketing organizations as well as independent sales representatives to generate sales 
+in general  we focus our direct demand creation efforts on a limited number of key accounts with independent sales representatives often serving those customers in defined territories 
+distributors create demand within the balance of our customer base 
+distributors also provide inventory  value added services and logistics for a wide range of our oem customers 
+whether xilinx  the independent sales representative  or the distributor identifies the sales opportunity  a local distributor will process and fulfill the majority of all customer orders 
+in such situations  distributors are the sellers of the products and as such they bear all legal and financial risks generally related to the sale of commercial goods  including such risks as credit loss  inventory shrinkage  theft and foreign currency fluctuations  but excluding indemnity and warranty liability 
+in accordance with our distribution agreements and industry practice  we have granted our authorized distributors the contractual right to return certain amounts of unsold product on a periodic basis and also receive price adjustments for unsold product in the case of a subsequent change in list prices 
+revenue recognition on shipments to distributors worldwide is deferred until the products are sold to the distributors end customers 
+avnet  inc avnet distributes the substantial majority of our products worldwide 
+as of march  and april   avnet accounted for and  respectively  of our total accounts receivable 
+resale of product through avnet accounted for  and of our worldwide net revenues in fiscal  and  respectively 
+we also use other regional distributors throughout the world 
+we believe distributors provide a cost effective means of reaching a broad range of customers while providing efficient logistics services 
+since plds are standard products  they do not present many of the inventory risks to distributors posed by asics  and they simplify the requirements for distributor technical support 
+from time to time  we may add or terminate distributors in specific geographies  or move customers to a direct support model as we deem appropriate given our strategies  the level of distributor business activity and distributor performance and financial condition 
+see note summary of significant accounting policies and concentrations of risk to our consolidated financial statements  included in 

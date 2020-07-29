@@ -1,0 +1,345 @@
+item  management s discussion and analysis of financial condition and results of operations and elsewhere in this annual report 
+we urge you to review and consider the various disclosures made by us in this report  and those detailed from time to time in our filings with the securities and exchange commission  that attempt to advise you of the risks and factors that may affect our future results 
+part i item business restatement of consolidated financial statements we have restated our financial statements for the years ended december  and  including the corresponding interim periods for and  and the interim periods ended march  june and september we have also revised our previously announced financial results for the fourth quarter and year ended december  except as otherwise stated  all financial information contained in this annual report on form k gives effect to this restatement and revision 
+for information concerning the background of these matters  the specific adjustments made and management s discussion and analysis of our results of operations for periods giving effect to the restated results  see management s discussion and analysis of financial condition and results of operations restatement of consolidated financial statements  financial statements and supplementary data selected quarterly results of operations  controls and procedures and note of the notes to consolidated financial statements 
+overview veritas software corporation is a leading independent supplier of storage and infrastructure software products and services 
+our software products operate across a variety of computing environments  from personal computers  or pcs  and workgroup servers to enterprise servers and networking platforms in corporate data centers to protect  archive and recover business critical data  provide high levels of application availability  enhance and tune system and application performance and enable recovery from disasters 
+our solutions enable businesses to reduce costs by efficiently and effectively managing their information technology  or it  infrastructure as they seek to maximize value from their it investments 
+we offer software products focused on three areas data protection products for ensuring the protection  retention and recovery of data using both disk and tape media 
+storage management products for optimizing storage hardware utilization  simplifying administration for environments with diverse computer hardware and software architectures and enabling high performance and continuous availability of mission critical applications 
+utility computing infrastructure products for managing it service levels for high availability  high performance and process automation 
+we develop and sell software products for the most widely used operating systems  including various versions of windows  unix and linux 
+we also develop and sell software products that support a wide 
+table of contents variety of servers  storage devices  databases  applications and network equipment 
+our customers include many leading global corporations and small and medium sized enterprises located around the world and operating in a wide variety of industries 
+in addition to our software products  we also provide a full range of services to assist customers in assessing  architecting  implementing  supporting and maintaining their storage and infrastructure software solutions 
+our product strategy is to meet the data storage  system availability and performance needs of our customers  while remaining at the forefront of innovation to support our customers long term requirements by providing the building blocks for utility computing 
+utility computing is a computing model that delivers it as a measurable service  aligned with business needs and capable of adapting to changing demands 
+we offer a building block approach that allows our customers to evolve to a utility computing model in an evolutionary and modular fashion while leveraging their existing it investments 
+in  we completed the acquisitions of precise software solutions ltd 
+and jareva technologies  inc these strategic acquisitions provided us with essential components for utility computing  including software that monitors  analyzes and improves the performance of application infrastructure  and automated server provisioning technology that allows businesses to automatically deploy additional servers without manual intervention 
+in january  we acquired ejasent  inc to add important application migration technology  which allows it personnel to move an application from one server to another without disrupting or terminating the application  to our growing utility computing portfolio 
+with revenue of billion in  veritas ranks among the top software companies in the world and  as of december   had  employees in countries 
+we were incorporated in delaware in october our predecessor company was originally incorporated in california in and reincorporated in delaware in our principal offices are located at ellis street  mountain view  california  and our telephone number at that location is our home page on the internet is at http www 
+veritas 
+com 
+products veritas offers a wide range of leading software products that are broadly categorized into data protection  storage management and utility computing infrastructure solutions 
+demand for our software products and services is driven by the ever increasing quantity of data being collected and the need for data to be protected and accessible at all times  particularly in the event of a disaster 
+other factors driving demand include the rapid increase in the number of internet users and companies doing business online  the continuous automation of business processes  increased pressures on companies to lower storage and server management costs and increase the utilization and performance of existing heterogeneous it assets and the increasing scrutiny on document retention and regulatory compliance 
+our products offer our customers scalability for managing the rapid growth of data and the increasing complexity and size of it environments 
+
+table of contents data protection we offer software products designed to protect  back up  archive and restore data across a broad range of computing environments from large corporate data centers to remote groups and pc clients  such as desktop and laptop computers 
+our data protection products protect and recover data on servers and for clients running most major operating systems and databases 
+these products integrate to provide solutions to manage data throughout its lifecycle from creation to disposal  both onsite and offsite  across all levels of the storage hierarchy including disk  tape and optical storage media 
+our data protection products include product set description veritas netbackup veritas netbackup tm software is designed to deliver enterprise class data protection for the most complex unix  windows  linux and netware environments  including corporate data centers  network attached storage and storage area network environments 
+it gives organizations the ability to manage all aspects of backup and recovery and allows consistent backup policies to be deployed across the enterprise 
+netbackup software provides application and database aware backup and recovery solutions for certain data intensive applications and all major databases 
+netbackup software incorporates many advanced capabilities including disk based data protection and multiple snapshot based technologies for rapid recovery and improved backup performance 
+the product is tiered to provide solutions for a range of customers  from global companies to medium sized businesses and remote offices 
+in addition to the base product  the netbackup product family includes options that provide advanced capabilities for disaster recovery  avoiding downtime during backups and restores  migrating data to cheaper storage media  protecting desktop and laptop pcs and monitoring and reporting from remote sites 
+veritas backup exec veritas backup exec tm software is designed to provide scheduled and automated data backup and restore functions for small to medium sized businesses or departments in larger corporations 
+veritas backup exec for windows servers supports windows server  windows storage server  windows small business server  windows nt  windows  windows xp and windows me 
+backup exec software has an array of options to provide disaster recovery and to protect data contained in applications such as microsoft exchange  microsoft sql and lotus domino 
+in addition to the base product  the backup exec family includes options that provide advanced data backup and restore capabilities 
+veritas backup exec for netware is designed to provide backup and restore functions for novell netware environments  including support for netware  and has an array of options to protect data contained on remote netware  windows nt  windows and windows servers 
+
+table of contents storage management we offer products for optimizing storage resource utilization  simplifying administration of heterogeneous environments and providing continuous availability of mission critical applications and data 
+these products are designed for most unix  linux and windows servers  and include replication and a storage resource management suite 
+they are offered in both standalone and application solutions  as agents and options  and are often combined with our utility computing infrastructure and data protection products to deliver high levels of availability and performance 
+our storage management products include product set description online storage management veritas online storage management solutions are based on veritas volume manager and veritas file system  which are the major components in veritas storage foundation tm product 
+veritas volume manager is a storage virtualization technology that provides online disk storage management for unix  linux and windows servers as well as storage network devices 
+by creating virtual storage devices from physical disks and disk arrays  veritas volume manager removes the physical limitations of disks so administrators can dynamically allocate resources where they are needed most 
+veritas file system provides superior performance  data integrity  online manageability and fast recovery from operating system failure or disruption for unix and linux servers 
+we offer integrated suites of these solutions  which improve performance  availability and manageability of databases and other mission critical business application environments like oracle  ibm db  sybase and microsoft sql server and exchange 
+replication veritas replication products ensure that enterprise class application data is consistently and continuously recoverable 
+veritas volume replicator is a robust  flexible and multi platform data replication tool designed for enterprise disaster recovery 
+veritas storage replicator for microsoft windows duplicates files or file systems at multiple locations for complete data protection or information distribution 
+it is used for centralizing branch office data to data centers for backup and disaster recovery and publishing file system content from one to many servers 
+we also supply various point in time copy features for application data on local disks 
+storage resource management veritas storage resource management solutions are focused on reducing storage management costs by optimizing storage resource utilization and simplifying administration 
+veritas sanpoint control tm software is a centralized management tool designed for enterprise class storage and storage area networks 
+it provides information on storage assets  centralized control of heterogeneous environments and automation of complex configuration tasks across multiple operating systems 
+veritas storage reporter is a centralized reporting tool that provides information on how storage assets are being used within a business and application context 
+veritas storagecentral tm software is a storage resource management tool that automatically controls windows storage 
+it increases control of windows server environments to ensure that only business appropriate files are being stored on corporate resources 
+
+table of contents utility computing infrastructure our utility computing infrastructure products include tools for managing application availability and performance service level agreements  maximizing server and storage utilization and automating it processes for enterprise data centers 
+these products include clustering high availability  application performance management and centralized service level management functionality 
+these products also include capabilities to measure and report costs incurred and standardized web based interfaces that reduce administrative costs 
+our utility computing infrastructure products include product set description clustering high availability clustering high availability products include veritas cluster server  veritas storage foundation ha  veritas database edition ha and veritas database edition advanced cluster for oracle irac  and provide high availability for heterogeneous servers 
+these products use clustering and application workload management technology to automate server failover in the event of planned or unplanned downtime  distribute application workload to maximize efficiency and performance and are designed to meet local area  campus or wide area it datacenter availability requirements 
+veritas global cluster manager adds an easy to use web based interface to manage failover scenarios across geographically distributed sites and centrally monitor application up time 
+using automated server provisioning  veritas opforce tm software automates server discovery and deployment  provisioning servers to meet varying workload demand and reduce administrative cost 
+these products are supported across multiple operating systems  database vendors and many major software applications 
+application performance management veritas i tm products optimize application performance by rapidly detecting  correlating  diagnosing and enabling correction of application performance problems 
+this software enables application managers to monitor transactions in real time as they traverse the it infrastructure 
+i software is available for all major application environments including jee  oracle applications  peoplesoft  sap  siebel and web based applications 
+i software also provides in depth database performance analysis tools for databases such as oracle  ibm db and microsoft sql server 
+service level management veritas commandcentral tm software is a centralized management web portal that enables service level management for it departments and their customers through a business measurement of it operations and process automation 
+commandcentral software enables customers to create service levels  map them to business units or departments  measure and report on it resource consumption by the department or business unit and allocate cost of resource usage  which are integral elements of utility computing 
+commandcentral service is integrated with veritas data protection  storage management and utility computing infrastructure products and can collect information from third party vendor products as well 
+for information regarding revenue and long lived assets by geographic areas  see note  segment information in the notes to consolidated financial statements 
+for information regarding the amount and percentage of our revenue contributed in each of our product categories  our practices regarding working capital requirements and our financial information  including information about geographic areas in which we operate  see item  management s discussion and analysis of financial condition and results of operations 
+
+table of contents services we provide a full range of services to assist our customers in assessing  architecting  implementing  supporting and maintaining their storage and infrastructure software solutions 
+our global services organization provides customers with maintenance and technical support  consulting and education services 
+maintenance and technical support we believe that providing a high level of customer service and technical support is critical to customer satisfaction and our success in increasing the adoption rate of our solutions 
+most of our customers have maintenance and technical support agreements with us that provide for fixed fee  renewable annual maintenance and technical support  consisting of technical and emergency support  bug fixes and product upgrades 
+our customers can choose from a variety of support packages to address their specific needs  ranging from one time incident charges to comprehensive support services with a dedicated single point of contact at veritas 
+we offer seven day a week  hour a day telephone support  as well as e mail customer support 
+in addition  through our business critical service  we provide our enterprise customers with support account management  emergency fly to site capability and specialized reporting 
+some of the value added resellers  system integrators and original equipment manufacturers that offer our products also provide customer technical support for our products through a frontline backline arrangement whereby the partner handles the initial customer contact  the frontline  and we provide secondary support and engineering assistance  the backline 
+consulting we offer our customers a full suite of consulting services  ranging from basic product selection and implementation engagements to more complex strategic and analytical services like business continuity readiness assessments and disaster recovery planning 
+these services help our customers plan for the management and control of enterprise computing in their specific computing environments  including storage area network environments 
+education services we have a worldwide customer education organization that offers structured training to our customers 
+the focus of this organization is aligned with our strategy to offer end to end software solutions by providing instruction from highly experienced education professionals either at the customer location or in one of our multi platform classrooms 
+the training helps our customers optimize their investments in technology and technical personnel through access to high quality  comprehensive instruction 
+marketing  sales and distribution we sell and market our products and related services both directly to end users and through a variety of indirect sales channels  which include value added resellers  or vars  distributors  systems integrators  or sis  and original equipment manufacturers  or oems 
+our customers include many leading global corporations and small and medium sized enterprises around the world operating in a wide variety of industries 
+direct sales to end users  and vars 
+one of our primary methods of distribution to end users is through our direct sales  services and technical support organizations that market our products and services throughout the world 
+many of our products involve a consultative  solution oriented sales model that uses the collaboration of technical and sales personnel to propose solutions to specific customer requirements  often in conjunction with hardware  software and managed services providers 
+we focus our initial sales efforts on senior executives and it department personnel who are responsible for a customer s business initiatives and data center management 
+we complement our direct sales efforts with indirect sales channels such as resellers  vars  distributors and sis 
+single and multiple tier distribution channels are important in our global expansion strategy and are the primary channels for addressing the small to medium sized enterprise market 
+we will continue to invest in programs that train and enable our channel partners to market our technologies and utility computing capabilities 
+we provide our software products to our channel partners and customers 
+table of contents under non exclusive license agreements  including shrink wrap or click wrap licenses for some products  without transferring title of our software products 
+other indirect channels 
+an important element of our sales and marketing strategy is to continue to expand our relationships with third parties  including our strategic partners  to increase market awareness  demand and acceptance of our products 
+our strategic partners generate and qualify sales leads  recommend our solutions which interoperate with their products or are related to their value added services  bring us into opportunities and complete transactions through distribution rights granted by us 
+we may enter into distribution arrangements for our products with our strategic partners  including granting rights to integrate or bundle our products with the partner s products and services 
+some of our strategic partner relationships include independent software vendors we collaborate with and license our software to independent software vendors  or isvs  including enterprise application software  database  infrastructure and other packaged application software vendors 
+some of our significant isv partners include amdocs  bea systems  inc  novell  oracle  sap and sybase  inc 
+application vendors can exert significant influence on our joint customers buying decisions  so we will continue to develop strong  market oriented relationships with certain isvs  including joining and investing in their partner programs and demonstrating customer value for our joint solutions 
+we build  maintain and promote certain application program interfaces within our products that allow interoperability between our products and the isvs products 
+we also market isv agents  options and extensions that are specifically built to allow interoperability with or optimal performance of our products and isv products 
+isvs may incorporate our product into their product  bundle our products with their products  serve as authorized resellers of our products or use veritas with their own products to provide hosted services 
+under these arrangements  isvs are not obligated to sell our products or services 
+system integrators and managed services providers we collaborate with system integrators  or sis  who may refer their customers to us  utilize us as a subcontractor in some situations  build standard and customized solutions with our products or use our products to deliver hosted services as well as outsourced services 
+sis use our products and services in conjunction with optimizing their client s investment in high end transactional applications and related hardware 
+some of our si relationships include ibm global services  accenture ltd  electronic data systems corporation  computer sciences corporation  cap gemini ernst young group and bearingpoint  inc some sis are authorized resellers of our products and some use our products and services to deliver consultative services or managed services 
+under these arrangements  sis and managed services providers are not obligated to use or sell our products or services 
+in general  we receive a fee for each sublicense of our products granted by our partners 
+in some cases  we grant rights to distribute promotional versions of our products  which have limited functionality or limited use periods  on a non fee basis 
+we enter into both object code only and  when appropriate  source code licenses of our products 
+we do not transfer title of our software products to our customers 
+original equipment manufacturers 
+another important element of our sales and marketing strategy involves our strategic relationships with oem partners 
+these oem partners may incorporate our product into their products  bundle our products with their products  endorse our products in the marketplace or serve as authorized resellers of our products 
+our oem partners with whom we generate the greatest distribution and sales of our products include dell products lp  hewlett packard company  international business machines corporation or ibm  microsoft corporation and sun microsystems  inc in addition  we have recently entered into strategic relationship with other oems  including cisco systems  inc  fujitsu ltd  hitachi ltd  intel corporation  network appliance  inc and unisys corporation 
+in order to reach new markets and extend the value of our oem partners  some of our partners may have additional rights to our products and services 
+these include using veritas in a hosted services environment  integrating our support services with their own support services  thereby providing combined services to our joint customers  or reselling our packaged as well as our custom consulting services 
+these licensing and services rights allow our partners customers to maximize their system availability  performance and utilization through optimal 
+table of contents configurations and reliable installations 
+in general  our oem partners are not obligated to sell our products or services under these arrangements and are not obligated to continue to include our products in future versions of their products 
+other important relationships 
+in addition to the channels of distribution and strategic relationships described above  we also maintain important relationships with various technology partners 
+over established and emerging companies  specializing in storage management  data protection or utility computing infrastructure  participate in our technology partner program and interoperability lab services  some gaining access to software development kits  special purpose testing programs and protocols  as well as development support services 
+by providing configuration guidance to the market  we help reduce customer s implementation time and the total cost of ownership of our products 
+we support a large and diverse number of hardware and software technology vendors  and  as a leader in storage and infrastructure software  we make significant contributions to industry standards and support them through our technology partner program  an approach consistent with our core strength in heterogeneous  open computing 
+some technology partners integrate and distribute our products under licensing arrangements as bundled solutions for vertical markets such as telecommunications  finance and healthcare 
+under these arrangements  technology partners are not obligated to sell our products 
+customers our software solutions are used by customers in a wide variety of industries  including many leading global corporations and small and medium sized enterprises around the world  as well as by various governmental entities 
+in  and  no end user customer accounted for more than of our net revenue 
+in and  no distributor accounted for more than of our net revenue 
+in  a distributor that sells our products and services through resellers accounted for approximately of our net revenue 
+competition the principal markets in which we compete are data protection  file system and volume management  clustering  replication  storage resource management  storage area network management  automated server provisioning  application performance management and centralized service level management 
+these markets are intensely competitive and rapidly changing 
+our future anticipated growth and success will depend on our ability to develop superior products more rapidly and less expensively than our competitors  to educate potential customers as to the benefits of licensing our products rather than relying on alternative products and technologies and to develop additional channels to market 
+many of our strategic partners  including emc corporation  hewlett packard  ibm  microsoft  oracle corporation and sun microsystems  offer software products that compete with our products or have announced their intention to focus on developing or acquiring their own storage and enterprise management software products 
+while we may compete with these companies for a share of the market  some also resell our products  and in some cases incorporate our technology into their products or solutions 
+we also may be involved with them in collaborative efforts to address interoperability issues and to set standards for evolving technology 
+in addition  we compete with hardware and software vendors that offer data protection products  file system and volume management products  clustering and replication products  storage area networking management solutions  automated server provisioning solutions and centralized service level management products 
+we compete with software vendors that offer application performance management solutions and systems management companies that are integrating storage resource management functions into their platforms 
+some of our products also compete with enterprise management vendors  including bmc software  inc  computer associates international  inc  mercury interactive corporation and quest software  inc the principal competitive factors in our industry include product functionality  product integration  platform coverage  price  ability to scale  worldwide sales and marketing infrastructure and global technical support 
+although some of our competitors have greater financial  technical  sales  marketing and other 
+table of contents resources than we do  as well as greater name recognition and a larger installed customer base  we believe we compete favorably on the basis of each of these competitive factors relative to our competitors 
+we believe that our unique position as an independent software provider  strategy for utility computing infrastructure  hardware independent solutions and proven data protection and storage software market leadership  give us an advantaged position in the market 
+our future anticipated growth and success will depend on our ability to continue to develop products more rapidly than and superior to those of our competitors  educate potential customers as to the benefits of licensing our products rather than purchasing or using competing technologies and develop additional channels to market 
+our future and existing competitors could introduce products with superior features  scalability and functionality at lower prices than our products  and could also bundle existing or new products with other more established products to compete with our products 
+our competitors could also gain market share by acquiring or forming strategic alliances with our other competitors 
+finally  because new distribution methods offered by the internet and electronic commerce have removed many of the barriers to entry historically faced by start up companies in the software industry  we may face additional competition from these companies in the future 
+increased competition may result in price reductions  reduced gross margins and loss of market share  any of which could adversely affect our business and operating results 
+seasonality as is typical for many large software companies  our business is seasonal 
+software license orders are generally higher in our fourth fiscal quarter and lower in our first fiscal quarter  with a significant decline in license orders in the first quarter of a fiscal year when compared to license orders in the fourth quarter of the prior fiscal year 
+in addition  we generally receive a higher volume of software license orders in the last month of a quarter  with orders concentrated in the later part of that month 
+we believe that this seasonality primarily reflects customer spending patterns and budget cycles  as well as the impact of compensation incentive plans for our sales personnel 
+software license revenues generally reflect similar seasonal patterns but to a lesser extent than license orders because not all orders received during a quarter are shipped during that quarter  and license revenue is not recognized until an order is shipped and other revenue recognition criteria are met 
+unfilled license orders and deferred revenue at the end of any quarter  we typically have unfilled license orders 
+because we generally ship our software products within days after acceptance of customer orders and revenues in a given quarter are generally dependent upon the amount of customer orders received during such quarter  we do not believe that unfilled license orders are a consistent or reliable indicator of future results 
+unfilled license orders represent cancelable and non cancelable license orders that have been received from our customers for the license of our software products but have not been shipped as of the end of the applicable fiscal period 
+our customers generally do not cancel orders for our software products 
+unfilled license orders  which represent an unaudited operating measure  were approximately million and million at december  and  respectively 
+deferred license revenue represents license orders for our software products that have been billed to and paid by the customer and for which revenue has not yet been earned  but is generally earned within the next year 
+deferred license revenue was approximately million and million at december  and  respectively 
+our unfilled license orders and quarterly license revenue will vary  depending primarily on the amount and timing of orders received and orders shipped 
+for additional information regarding factors that affect the timing of the recognition of software license revenue  see management s discussion and analysis of financial condition and results of operations critical accounting policies and estimates revenue recognition delivery of software products 
+total deferred revenue includes  in addition to deferred license revenue described above  deferred services revenue related to maintenance and technical support contracts and professional services training and 
+table of contents consulting contracts 
+deferred service revenue  which in the case of maintenance and technical support is generally recognized over the maintenance and support period of twelve months  or in the case of professional services  training or consulting services is generally recognized over the period the specific services are rendered  was approximately million and million at december  and  respectively 
+research and development our research and development efforts have been directed toward developing new products for unix  linux and windows  developing new features and functionality for existing products  integrating products across our existing product lines  porting new and existing products to different operating systems and expanding our product portfolio into new markets such as application performance management  server provisioning and centralized service level management 
+our major research and development initiatives include continued focus on operating system platform expansion 
+we have successfully ported the majority of our traditional storage software and enterprise data protection products to unix  windows and linux and are seeing increased acceptance of new platform offerings in the marketplace 
+in particular  we are increasing our investment in products for servers based on intel architecture that we believe will be important to future data center architectures 
+new utility computing infrastructure products  including server provisioning  clustering  application performance management and service level management 
+our current product offerings contain many best of class products that serve as building blocks that enable customers to adopt a utility computing model 
+these products are also unique in their level of heterogeneous platform  application and database support 
+future investment is focused on both creating new best in class building blocks as we better understand customer utility computing requirements and increasingly integrating these components to provide solution suites that automate it processes  enable dynamic reconfiguration of the data centers and define  measure and enforce service level agreements 
+replication  storage resource management embedded storage networking software and next generation virtualization technology 
+during  we saw increased acceptance of our replication and storage resource management solutions 
+our unique replication approach enables customers to implement data recovery solutions at a much lower cost than traditional array based approaches and we are increasingly integrating this function into our clustering and data protection technologies to simplify customer deployments 
+our focus in storage resource management is to develop  acquire and integrate technology into a single suite for both storage area network management and business level reporting for data centers  and to increase distribution of low end solutions for high volume servers in medium sized businesses and remote offices 
+we also have formal development partnerships with cisco systems  inc and brocade communications systems  inc 
+in which we are embedding our industry leading volume management and replication software in their networking devices 
+lastly  we are developing a new architecture for our volume manager that helps customers manage storage across a large number of servers 
+new data protection technologies for disk based data protection  regulatory compliance and disaster recovery 
+netbackup  released in the fourth quarter of  added significant new capabilities that enable customers to leverage increasingly inexpensive disk technology to protect their data as a complement to traditional tape based methodologies 
+we also announced an archiving product in the fourth quarter of  the data lifecycle management option  that helps existing netbackup and backup exec customers comply with corporate governance and industry regulations for long term data retention and reporting 
+the development for this product is complete and we commenced shipment of this product in the first quarter of both of these areas will continue to be priorities for new technology development and we will increasingly integrate these products and our storage management offerings into comprehensive solutions for data lifecycle management 
+
+table of contents local language support 
+we continue to focus on providing local language support for our traditional storage software and enterprise data protection products to increase the acceptance of these products in international markets 
+we had research and development expenses  exclusive of in process research and development associated with acquisitions  of million in  million in and million in we believe that technical leadership is essential to our success and we expect to continue to commit substantial resources to research and development 
+our future success will depend in large part on our ability to enhance existing products  respond to changing customer requirements and develop and introduce new products in a timely manner that keep pace with technological developments and emerging industry standards 
+we continue to make substantial investments in new products  which may or may not be successful 
+we may not complete these research and development efforts successfully and  therefore  future products may not be available on a timely basis or achieve market acceptance 
+intellectual property rights protective measures we regard some of the features of our internal operations  software and documentation as proprietary and rely on copyright  patent  trademark and trade secret laws  confidentiality procedures  contractual and other measures to protect our proprietary information 
+our intellectual property is an important and valuable asset that helps enable us to gain recognition for our products  services and technology and enhance our competitive position 
+as part of our confidentiality procedures  we generally enter into non disclosure agreements with our employees  distributors and corporate partners and license agreements with respect to our software  documentation and other proprietary information 
+these license agreements are generally non transferable and have a perpetual term 
+we also educate our employees on trade secret protection and employ measures to protect our facilities  equipment and networks 
+trademarks  patents and copyrights veritas and the veritas logo are trademarks or registered trademarks in the united states and other countries 
+in addition to veritas and the veritas logo  we have used  registered and or applied to register other specific trademarks and service marks to help distinguish our products  technologies and services from those of our competitors in the us and foreign countries and jurisdictions 
+we enforce our trademark  service mark and trade name rights in the us and abroad 
+the duration of our trademark registrations varies from country to country and in the us  we generally are able to maintain our trademark rights and renew any trademark registrations for as long as the trademarks are in use 
+we have a number of us and foreign issued patents and pending patent applications  including patents and rights to patent applications acquired through strategic transactions  which relate to various aspects of our products and technology 
+the duration of our patents is determined by the laws of the country of issuance and for the us is typically years from the date of issuance of the patent or years from the date of filing of the patent application resulting in the patent  which we believe is adequate relative to the expected lives of our products 
+our products are protected under us and international copyright laws and laws related to the protection of intellectual property and proprietary information 
+we generally take measures to label such products with the appropriate proprietary rights notices and actively are enforcing such rights in the us and abroad 
+however  these measures may not provide sufficient protection  and our intellectual property rights may not be of commercial benefit to us or the validity of these rights may be challenged 
+while we believe that our ability to maintain and protect our intellectual property rights is important to our success  we also believe that our business as a whole is not materially dependent on any particular patent  trademark  license or other intellectual property right 
+
+table of contents employees as of december   we had  employees  including  employees in research and development   in sales  marketing  consulting  customer support and strategic initiatives and in general and administrative services 
+we expect to hire additional employees in  particularly in research and development and in sales  marketing  consulting and customer support 
+we have not entered into any collective bargaining agreements with our employees and believe that our relations with our employees are good 
+we believe that our future success will depend in part upon the continued service of our key employees and on our continued ability to hire and retain qualified personnel 
+we may not be able to retain our key employees and may not be successful in attracting and retaining sufficient numbers of qualified personnel to conduct our business in the future 
+other information our internet website is located at http www 
+veritas 
+com 
+we make available free of charge on our website our annual report on form k  quarterly reports on form q  current reports on form k and amendments to those reports filed or furnished pursuant to section a or d of the exchange act  as soon as reasonably practicable after we electronically file such material with  or furnish it to  the securities and exchange commission  or sec 
+other than the information expressly set forth in this annual report  the information contained  or referred to  on our website is not incorporated into this annual report 
+the public may also read and copy any materials we file with the sec at the sec s public reference room at fifth street  nw  washington  dc the public may obtain information on the operation of the public reference room by calling the sec at sec the sec also maintains an internet website that contains reports  proxy and information statements and other information regarding issuers  such as veritas  that file electronically with the sec 
+the sec s internet site is located at http www 
+sec 
+gov 
+item properties our properties consist primarily of leased office facilities for sales  research and development  consulting and administrative personnel 
+our corporate headquarters consist of approximately  square feet located in mountain view  california 
+most of our facilities are occupied under leases that expire at various times through the table below shows the approximate square footage of the facilities that we leased as of december  in the us and abroad  excluding approximately executive suites in north america  in europe  in asia and one in south america 
+approximate total location square footage united states canada europe middle east africa asia australia south america total total square footage excludes approximately  square feet of space in the us and  square feet of space in europe that we sublease to third parties 
+we believe our existing and planned facilities will be suitable for our needs 
+see note  accrued acquisition and restructuring costs of the notes to consolidated financial statements for information regarding our facility restructuring plan approved in the fourth quarter of  note  long term debt of the notes to consolidated financial statements for information regarding our three build to suit lease agreements and note  commitments of the notes to consolidated financial statements for information regarding our operating lease obligations 
+
+table of contents item legal proceedings sec related matters sec investigation 
+as previously disclosed  since the third quarter of  we have received subpoenas issued by the securities exchange commission in the investigation entitled in the matter of aol time warner 
+the sec has requested information concerning the facts and circumstances surrounding our transactions with aol time warner  or aol  and related accounting and disclosure matters 
+our transactions with aol  entered into in september  involved a software and services purchase by aol at a stated value of million and the purchase by us of advertising services from aol at a stated value of million 
+in march  we restated our financial statements for and to reflect a reduction in revenues and expenses of million 
+the restatement included an additional reduction in revenues and expenses of million related to two other contemporaneous transactions with other parties entered into in that involved software licenses and the purchase of on line advertising services 
+in march  we announced our intention to restate our financial statements for and and revise our previously announced financial results for we voluntarily disclosed to the staff of the sec past accounting practices applicable to our and financial statements that we determined were not in compliance with gaap 
+for more information regarding the restatement of our financial statements for and  including the corresponding interim periods for and  and the interim periods ended march  june and september  and the revision of our previously announced financial results for  see management s discussion and analysis of financial condition and results of operations restatement of consolidated financial statements  financial statements and supplementary data selected quarterly results of operations and note of the notes to consolidated financial statements 
+we and our audit committee continue to cooperate with the sec in its review of these matters 
+at this time  we cannot predict the outcome of the sec s review 
+securities class actions 
+after we announced in january that we would restate our financial results as a result of transactions entered into with aol in september  numerous separate complaints purporting to be class actions were filed in the united states district court for the northern district of california alleging that we and some of our officers and directors violated provisions of the securities exchange act of the complaints contain varying allegations  including that we made materially false and misleading statements with respect to our  and financial results included in our filings with the sec  press releases and other public disclosures 
+on may   a lead plaintiff and lead counsel were appointed 
+a consolidated complaint was filed by the lead plaintiff on july  on december   the district court granted the defendants motion to dismiss the consolidated complaint  with leave to amend 
+on may   the district court granted the defendants motion to dismiss the plaintiffs first amended complaint  with leave to amend 
+in addition  in several complaints purporting to be derivative actions were filed in california state court against some of our directors and officers 
+these complaints are based on the same facts and circumstances as the class actions and generally allege that the named directors and officers breached their fiduciary duties by failing to oversee adequately our financial reporting 
+the state court complaints have been consolidated into the action in re veritas software corporation derivative litigation  which was filed on may  in the superior court of santa clara county and is currently pending 
+all of the complaints generally seek an unspecified amount of damages 
+the cases are still in the preliminary stages  and it is not possible for us to quantify the extent of our potential liability  if any 
+an unfavorable outcome in any of these matters could have a material adverse effect on our business  financial condition  results of operations and cash flow 
+in addition  defending any litigation may be costly and divert management s attention from the day to day operations of our business 
+
+table of contents other litigation on january   raytheon company sued veritas along with brocade communications systems  oracle corporation  overland storage inc  qualstar corp  qlogic corporation  ricoh corporation and spectra logic corporation in the united states district court for the eastern district of texas 
+raytheon alleged infringement of a patent entitled mass data storage library and sought damages and an injunction against all defendants 
+on february   a confidential settlement was agreed to by raytheon and veritas  and on march   the case was dismissed with prejudice pursuant to the settlement agreement 
+the settlement agreement did not have a material impact on our financial position or overall results of operations 
+on october   storage computer corporation sued veritas in the united states district court for the northern district of texas alleging infringement of one of storage computer corporation s patents 
+currently  storage computer corporation is alleging we infringed two of their us patents 
+we have denied all material allegations in the complaints  filed counterclaims for declaratory judgment of invalidity and non infringement of the patents in suit and alleged their infringement of one of our patents 
+storage computer corporation is seeking damages of approximately million  treble damages  costs of suit and attorneys fees and a permanent injunction from further alleged infringement 
+on march   the court granted veritas motions for summary judgment of non infringement of the two patents at issue  and denied storage computer s motion for partial summary judgment 
+the court did not address additional matters raised in veritas motion 
+storage computer corporation recently filed a notice of appeal 
+in addition to the legal proceedings listed above  we are also party to various other legal proceedings that have arisen in the ordinary course of our business 
+while we currently believe that the ultimate outcome of these proceedings  individually and in the aggregate  will not have a material adverse effect on our financial position or overall trends in results of operations  litigation is subject to inherent uncertainties 
+were an unfavorable ruling to occur  there exists the possibility of a material adverse impact on our results of operations and cash flows for the period in which the ruling occurs 
+the estimate of the potential impact on our financial position or overall results of operations for the above discussed legal proceedings could change in the future 
+item submission of matters to a vote of security holders during the fourth quarter of fiscal  there were no matters submitted to a vote of security holders  through the solicitation of proxies or otherwise 
+part ii item market for the registrant s common equity and related stockholder matters price range of common stock our common stock is listed on the nasdaq national market under the symbol vrtse 
+due to our inability to timely file this annual report on form k  nasdaq notified us on march  that our securities would be subject to delisting from the nasdaq national market and changed our trading symbol from vrts to vrtse 
+after a hearing before the nasdaq listing qualifications panel  or the panel  on april   we received a written determination from the panel that our common stock would continue to be listed on the nasdaq national market provided that  among other things  we file with the sec and nasdaq this form k and our quarterly report on form q for the quarter ended march  on or before june  the panel determination further stated that the trading symbol for our common stock would be changed back to vrts after nasdaq receives confirmation that we have remedied our filing delinquencies 
+
+table of contents the table below shows the range of high and low reported sale prices on the nasdaq national market for our common stock for the periods indicated 
+high low first quarter first quarter second quarter third quarter fourth quarter first quarter second quarter third quarter fourth quarter as of may   there were approximately  holders of record of our common stock 
+brokers and other institutions hold many of such shares on behalf of stockholders 
+we estimate the total number of stockholders represented by these record holders to be approximately  dividend policy we have never declared or paid any cash dividends on our capital stock 
+we currently anticipate that we will retain any future earnings to fund development and growth of our business and do not anticipate paying any cash dividends in the foreseeable future 
+recent sales of unregistered securities in august  we issued million of convertible subordinated notes due august   for which we received net proceeds of approximately million  to several initial purchasers in a private offering 
+for more information regarding the terms of the convertible subordinated notes due august   see management s discussion and analysis of financial condition and results of operations liquidity and capital resources convertible subordinated notes 
+the offer and sale of securities in the transaction described above was deemed to be exempt from registration under the securities act of in reliance upon section of the securities act and regulation d promulgated thereunder  as a transaction by an issuer not involving any public offering 
+the securities were resold by the initial purchasers upon reliance on rule a 
+each initial purchaser made representations that it was an accredited investor  as defined in rule promulgated under the securities act  and as to its compliance with rule a 
+
+table of contents item selected financial data the following selected consolidated financial data has been derived from our consolidated financial statements 
+all financial information set forth below reflect the restatement of our financial statements for fiscal years and  including the corresponding interim periods for and  and the interim periods ended march  june and september  and revisions to our previously announced financial information as of and for the fourth quarter and year ended december   as discussed below under management s discussion and analysis of financial condition and results of operations restatement of consolidated financial statements  financial statements and supplementary data selected quarterly results of operations and note of the notes to consolidated financial statements 
+the restatement also affects periods prior to and  accordingly  we have revised our selected consolidated financial data for fiscal years and on an unaudited basis 
+this data should be read in conjunction with the consolidated financial statements and notes thereto  and item  management s discussion and analysis of financial condition and results of operations 
+we have not amended our annual reports on form k or quarterly reports on form q for the quarterly periods affected by the restatement 
+the information that has been previously filed or otherwise reported for these periods is superseded by the information in this annual report  and the financial statements and related financial information contained in such reports should no longer be relied upon 
+years ended december  as as unaudited unaudited restated restated in thousands  except per share data consolidated statement of operations data total net revenue amortization of developed technology amortization of goodwill and other intangibles stock based compensation restructuring costs reversals in process research and development income loss from operations income loss before cumulative effect of change in accounting principle cumulative effect of change in accounting principle  net of tax net income loss income loss per share before cumulative effect of change in accounting principle basic income loss per share before cumulative effect of change in accounting principle diluted cumulative effect of change in accounting principle per share basic cumulative effect of change in accounting principle per share diluted net income loss per share basic net income loss per share diluted number of shares used in computing per share amounts basic number of shares used in computing per share amounts diluted 
+table of contents december  as as unaudited unaudited restated restated in thousands consolidated balance sheet data cash  cash equivalents and investments working capital total assets long term debt obligations accumulated deficit stockholders equity in  we acquired three companies which we accounted for using the purchase method of accounting  and accordingly we recorded developed technology  goodwill and other intangible assets of  million 
+until december   these assets were being amortized over their estimated useful life of four years  and resulted in amortization charges of approximately million per quarter 
+on january   upon adoption of newly issued statement of accounting standards  or sfas  no 
+ business combinations  and sfas no 
+ goodwill and other intangible assets  the total quarterly charges related to the amortization of goodwill and other intangibles decreased as we no longer amortize goodwill 
+in  we recorded million of stock based compensation primarily related to the january acquisition of jareva and the june acquisition of precise 
+in  we recorded a stock based compensation charge of million primarily related to the acceleration of certain stock options held by our former chief executive officer 
+in  we recorded a restructuring charge of approximately million related primarily to our facility restructuring plan to exit and consolidate certain of our worldwide facilities 
+in  we recorded a restructuring charge of million related primarily to costs for our duplicative facilities that we planned to vacate  of which million was reversed in as a result of lower actual exit costs than originally estimated with respect to our duplicative facilities 
+in and  we recorded non cash charges of million and million  respectively  related to the write off of in process research and development that related to two acquisitions in and one acquisition in in july  we adopted financial accounting standards board interpretation number  consolidation of variable interest entities  which required us to consolidate our variable interest entities into our financial statements 
+as a result of consolidating these entities in the third quarter of  we reported a cumulative effect of change in accounting principle in accordance with accounting principles board  or apb  opinion no 
+ accounting changes  with a charge of million which equals the amount of depreciation expense that would have been recorded had these variable interest entities been consolidated from the date the properties were available for occupancy  net of tax 
+in addition  on july   we recorded property and equipment  net of accumulated depreciation  equal to million  long term debt in the amount of million and non controlling interest of million for a total of million of long term debt included on the balance sheet 
+income before cumulative effect of change in accounting principle for the year ended december  includes an adjustment for an income tax benefit of million related to the march  settlement of certain tax audits associated with our acquisition of seagate technology 
+the unaudited selected consolidated financial data for and have been revised to reflect adjustments related to the restatement described below under management s discussion and analysis of financial condition and results of operations restatement of consolidated financial statements and note of the notes to consolidated financial statements 
+the adjustments increased revenue and decreased net loss for by million and million  respectively  and increased revenue and decreased net loss for by million and million  respectively 
+in the accompanying audited financial statements for the year ended december  these adjustments are reflected as opening adjustments to the consolidated statement of stockholders equity and comprehensive income loss 
+
+table of contents item management s discussion and analysis of financial condition and results of operations this annual report on form k contains forward looking statements within the meaning of the securities exchange act of and the securities act of that involve risks and uncertainties 
+these forward looking statements include statements about our revenue  revenue mix  gross margin  operating expense levels  financial outlook  commitments under existing leases  research and development initiatives  sales and marketing initiatives and competition 
+in some cases  forward looking statements are identified by words such as believe  anticipate  expect  intend  plan  will  may and similar expressions 
+you should not place undue reliance on these forward looking statements  which speak only as of the date of this annual report 
+all of these forward looking statements are based on information available to us at this time  and we assume no obligation to update any of these statements 
+actual results could differ from those projected in these forward looking statements as a result of many factors  including those identified in the section captioned factors that may affect future results below  and elsewhere in this annual report 
+we urge you to review and consider the various disclosures made by us in this report  and those detailed from time to time in our filings with the securities and exchange commission  that attempt to advise you of the risks and factors that may affect our future results 
+restatement of consolidated financial statements we have restated our financial statements for the years ended december  and  including the corresponding interim periods for and  and the interim periods ended march  june and september we have also revised our previously announced financial results for the fourth quarter and year ended december  in march  we announced our intention to restate our financial statements for and and revise our previously announced results for the decision resulted from the findings of an investigation into past accounting practices that concluded on march  the investigation resulted from concerns raised by an employee in late  which led to a detailed review of the matter in accordance with our corporate governance processes  including the reporting of the matter to the audit committee of our board of directors  and to kpmg llp  our independent registered public accounting firm 
+the audit committee retained independent counsel to investigate issues relating to past accounting practices  and the audit committee s counsel retained independent accountants to assist with the investigation 
+the independent investigation included the performance of a number of forensic accounting procedures  a review of internal documents and communications and interviews with both current and former employees 
+the independent investigation concluded on march  and identified certain accounting practices under the direction of former financial management that were determined not to be in compliance with generally accepted accounting principles  or gaap 
+these practices included the incorrect deferral of professional services revenue for and  the unsubstantiated accrual of certain expenses in periods prior to  and the overstatement of accounts receivable and deferred revenue by approximately million unaudited at june  upon conclusion of the investigation  we announced on march  our decision to restate our financial statements for and we also announced that our previously announced financial results for the year ended december  would be revised to reflect the impact of having made the corrections of the prior periods and to reflect the settlement finalized on march  of tax audits related to our acquisition of seagate technology 
+following the investigation and our determination to restate our financial statements  we performed additional procedures to ensure the accuracy of our financial information 
+these additional procedures included a further review of internal documents  tests of certain system controls  cut off procedures and a review of revenue transactions and other cost and expense accounts 
+as a result  we determined to correct additional errors made in and prior periods  including errors that were previously not recorded because in each such case and in aggregate we believed the amount of any such error was not material to our consolidated financial statements 
+we also made certain revenue  expense and balance sheet reclassifications 
+
+table of contents as a result of the foregoing  we have adjusted our financial results as follows for the year ended december   total net revenue decreased from billion to billion and net income increased from million to million  of which million related to the march  settlement of certain tax audits associated with our acquisition of seagate technology 
+diluted earnings per share for the year ended december   increased from to as a result of these adjustments 
+excluding the effect of the seagate settlement  net income would have decreased from million to million and diluted earnings per share would have decreased from to 
+for the year ended december   total net revenue decreased from billion to billion  net income increased from million to million and diluted earnings per share remained constant at 
+for the year ended december   total net revenue decreased from billion to billion  net loss decreased from million to million  and diluted loss per share decreased from to 
+the restatement also resulted in a million decrease to our accumulated deficit at december  the restatement adjustments did not materially affect our reported cash  cash equivalents and short term investments balance as of december  see item selected financial data for additional information regarding adjustments to our accumulated deficit at december  and december   

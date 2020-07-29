@@ -1,0 +1,882 @@
+item management s discussion and analysis of financial condition and results of operations in the sources of revenue section 
+additionally  we have distribution agreements covering our north american commercial and us federal government markets with arrow enterprise computing solutions  inc arrow  a subsidiary of arrow electronics  inc  and avnet technology solutions avnet  a subsidiary of avent inc pursuant to these distribution agreements  arrow s and avnet s primary role is to enable a more efficient and effective distribution channel for our products and services by managing our reseller partners and leveraging their own industry experience 
+service providers 
+we work with many service providers to ensure that customer data is protected  managed and stored securely while delivering rapid self service access by leveraging the modern data management capabilities in the single platform simpana software to deliver backup  archive  disaster recovery and ediscovery services 
+our significant premier partners include bluelock  cerner  illinicloud  kio networks  peak  presilient  rackspace  tenzing  terremark and ubistor 
+customers we sell simpana software applications and related services directly to large global enterprises  small and medium sized businesses and government agencies  and indirectly through value added resellers  systems integrators  corporate resellers and original equipment manufacturer partners 
+as of march   we had licensed our software applications to approximately  registered customers in a broad range of industries  including banking  insurance and financial services  government  healthcare  pharmaceuticals and medical services  technology  legal  manufacturing  utilities and energy 
+sales through our reseller agreement and original equipment manufacturer agreement with dell accounted for approximately of our total revenues for fiscal and for fiscal dell is an original equipment manufacturer and a reseller that purchases software from us for resale to its customers  but is not the end user of our software 
+sales generated through our distribution agreement with arrow accounted for approximately of our total revenue in fiscal and in fiscal revenue from sales to the us federal government accounted for less than of our total revenues in both fiscal and fiscal technology our common platform serves as a major differentiator versus our competitors data and information management software products 
+our common platform s unique indexing  cataloging  data movement  media 
+table of contents management and policy technologies are the source of the performance  scale  management  cost of ownership benefits and seamless interoperability inherent in all of our data and information management software applications 
+additional options enable content search  data encryption and auditing features to support data discovery and compliance requirements 
+each of these applications shares a common architecture consisting of three core components intelligent agent software  data movement software and command and control software 
+these components may be installed on a single host server  or each may be distributed over many servers in a global network 
+additionally  the modularity of our software provides deployment flexibility 
+the ability to share storage resources across multiple data and information management applications provides easier data and information management and lower total cost of ownership 
+we participate in industry standards groups and activities that we believe will have a direct bearing on the data and information management software market 
+our software architecture consists of integrated software components that are grouped together to form a commcell 
+components of a commcell are as follows one commserve one or more mediaagents one or more idataagents each highly scalable commcell may be configured to reflect a customer s geographic  organizational or application environment 
+multiple commcells can be aggregated into a single  centralized view for policy based management across a customer s local or global information technology environment 
+commserve 
+the commserve acts as the command and control center of the commcell and handles all requests for activity between mediaagent and idataagent components 
+the commserve contains the centralized event and job managers and the index catalog 
+this database includes information about where data resides  such as the library  media and content of data 
+the centralized event manager logs all events  providing unified notification of important events 
+the job manager automates and monitors all jobs across the commcell 
+mediaagent 
+the mediaagent is a media independent module that is responsible for managing the movement of data between the idataagents and the physical storage devices 
+our mediaagents communicate with a broad range of storage devices  generating an index for use by each of our software applications 
+the mediaagent software supports most storage devices  including automated magnetic tape libraries  tape stackers and loaders  standalone tape drives and magnetic storage devices  magneto optical libraries  virtual tape libraries  dvd ram and cd rw devices 
+idataagent 
+the idataagent is a software module that resides on the server or other computing device and controls the data being protected  replicated  migrated or archived  often referred to simply as the client software 
+idataagents communicate with most open and network file systems and enterprise relational databases and applications  such as microsoft exchange  microsoft sharepoint  notes domino server  groupwise  oracle  informix  sybase  db and sap  to generate application aware indexes pertinent to granular recovery of application objects 
+the agent software contains the logic necessary to extract or recover data and send it to or receive it from the mediaagent software 
+sales and marketing we sell our simpana data and information management software applications and related services to large global enterprises  small and medium sized businesses  and government agencies 
+we sell through our worldwide direct sales force and our global network of distributors  value added resellers  systems integrators  corporate resellers and original equipment manufacturer partners 
+as of march   we had employees in sales and marketing 
+these employees are primarily located in north america  europe  australia and asia 
+we have a variety of marketing programs designed to create brand awareness and market recognition for our product offerings and for sales lead generation 
+our marketing efforts include active participation at trade 
+table of contents shows  technical conferences and technology seminars  advertising  content development and distribution  public relations  social media  industry analyst relations  publication of technical and educational articles in industry journals  sales training  and preparation of competitive analyses 
+in addition  our strategic partners augment our marketing and sales campaigns through seminars  trade shows and joint public relations and advertising campaigns 
+our customers and strategic partners provide references and recommendations that we often feature in external marketing activities 
+research and development our research and development organization is responsible for the design  development  testing and certification of our data and information management software applications 
+as of march   we had employees in our research and development group  of which are located in our hyderabad and bangalore development centers in india 
+in april  we opened a new product development center in bangalore  india  which increased our existing presence in india 
+our engineering efforts support product development across all major operating systems  databases  applications and network storage devices 
+a substantial amount of our development effort goes into certification  integration and support of our applications to ensure interoperability with our strategic partners hardware and software products 
+we have also made substantial investments in the automation of our product test and quality assurance laboratories 
+we spent million on research and development activities in fiscal  million in fiscal and million in fiscal competition the data storage management market is intensely competitive  highly fragmented and characterized by rapidly changing technology and evolving standards 
+we currently compete with other providers of data and information management software as well as large storage hardware manufacturers that have developed or acquired their own data and information management software products 
+these manufacturers have the resources and capabilities to develop their own data and information management software applications  and many have been making acquisitions and broadening their efforts to include broader data and information management and storage products 
+these manufacturers and or our other current and potential competitors may establish cooperative relationships among themselves or with third parties  creating new competitors or alliances 
+large operating system and application vendors  including microsoft  have introduced products or functionality that includes some of the same functions offered by our software applications 
+in the future  further development by these vendors could cause some features of our software applications to become redundant 
+the following are our primary competitors in the data and information management software applications market  each of which has one or more products that compete with a part of or our entire software suite emc ibm symantec the principal competitive factors in our industry include product functionality  product performance  product integration  platform coverage  ability to scale  price  worldwide sales infrastructure  global technical support  name recognition and reputation 
+the ability of major system vendors to bundle hardware and software solutions is also a significant competitive factor in our industry 
+although many of our competitors have greater resources  a larger installed customer base and greater name recognition  we believe we compete favorably on the basis of these competitive factors 
+our unique product architecture is one of the primary reasons why we compete so successfully 
+whereas other competitive solutions in the market are based on multiple  disparate products  our modular offering is based 
+table of contents on a single  unified  underlying code base resulting in favorable efficiencies in functionality  integration  scalability and support 
+our focused approach to data and information management and our ability to respond to customer feedback also drives the functionality and features of our products  which we believe lead the industry in terms of performance and usability  as evidenced by numerous industry awards we have received in the past months such as the silver rising star award from the global technology distribution council gtdc in recognition of exceptional us sales growth over the past year through distribution partners and midsize enterprise summit east xcellence awards in the category of best midmarket solution  software 
+from a customer perspective  highly integrated products such as ours  which are based on a single  unified  underlying code base  are easier and less expensive to deploy  operate and manage 
+this flexibility  in turn  makes it significantly easier to scale our products over a customer s entire it environment 
+supporting and enhancing our products is made more efficient due to this single  unified  underlying code base  unlike our competitors who are required to support and enhance multiple  disparate products  most of which are based on differing underlying software codes 
+supporting multiple  disparate products places larger demands on our competitors internal human and operational capital 
+we believe that simpana software  because of its unique architecture  creates a compelling functional  integration  scalability and support advantage 
+we continue to expand our worldwide sales infrastructure and increase our distribution throughout the americas  europe  middle east africa  australia and asia to meet the needs of our business 
+some of our competitors have greater financial resources and may have the ability to offer their products at lower prices than ours 
+in addition  some of our competitors have greater name recognition than us  which could provide them a competitive advantage at some customers 
+some of our competitors also have longer operating histories  have substantially greater technical  sales  marketing and other global resources than we do  as well as a larger installed customer base and broader product offerings  including hardware 
+as a result  these competitors can devote greater resources to the development  promotion  sale and support of their products than we can 
+intellectual property and proprietary rights our success and ability to compete depend on our continued development and protection of our proprietary software and other technologies 
+we rely primarily on a combination of trade secret  patent  copyright and trademark laws  as well as contractual provisions  to establish and protect our intellectual property rights 
+we provide our software to customers pursuant to license agreements that impose restrictions on use 
+these license agreements are primarily in the form of shrink wrap or click wrap licenses  which are not negotiated with or signed by our end user customers 
+these measures may afford only limited protection of our intellectual property and proprietary rights associated with our software 
+we also enter into confidentiality agreements with employees and consultants involved in product development 
+we routinely require our employees  customers and potential business partners to enter into confidentiality agreements before we disclose any sensitive aspects of our software  technology or business plans 
+as of march   we had issued patents and pending patent applications in the united states  as well as issued patents in foreign countries and pending foreign patent applications 
+pending patent applications may receive unfavorable examination and are not guaranteed allowance as issued patents 
+we may elect to abandon or otherwise not pursue prosecution of certain pending patent applications due to patent examination results  economic considerations  strategic concerns or other factors 
+we will continue to assess appropriate occasions to seek patent and other intellectual property protection for innovative aspects of our technology that we believe provide us a significant competitive advantage 
+despite our efforts to protect our trade secrets and proprietary rights through patents and license and confidentiality agreements  unauthorized parties may still attempt to copy or otherwise obtain and use our software and technology 
+in addition  we intend to expand our international operations and effective patent  copyright  trademark and trade secret protection may not be available or may be limited in foreign countries 
+if 
+table of contents we fail to protect our intellectual property and other proprietary rights  our business could be negatively impacted 
+we currently resell certain software from microsoft  including microsoft sql server  used in conjunction with our software applications pursuant to an independent software vendor royalty license and distribution agreement that we have and plan to continue renewing annually 
+we also currently resell certain other software from microsoft  including windows pre installation environment software  used in conjunction with our software applications  pursuant to an agreement with microsoft that expires may  we have entered into and expect to enter into agreements with additional third parties to license their technology for use with our software applications 
+some of the products or technologies acquired  licensed or developed by us may incorporate so called open source software and we may incorporate open source software into other products in the future 
+the use of such open source software may ultimately subject some products to unintended conditions  which may negatively affect our business  financial condition  operating results  cash flow and ability to commercialize our products or technologies 
+from time to time  we are participants or members of various industry standard setting organizations or other industry technical organizations 
+our participation or membership in such organizations may  in some circumstances  require us to enter into royalty or licensing agreements with third parties regarding our intellectual property under terms established by those organizations  which we may find unfavorable 
+in the united states  we own federal registrations for or have common law trademark rights in the following marks commvault  cv logo commvault  the cv logo  commvault systems  solving forward  sim  singular information management  simpana  simpana logo  commvault galaxy  commvault edge unified data management  qinetix  quick recovery  qr  commnet  gridstor  vault tracker  innervault  quick snap  qsnap  intellisnap  simpana onepass  recovery director  commserve  commcell  roms  distinctly data and commvalue 
+we also have several other trademarks and have obtained or are actively pursuing trademark registrations in several foreign jurisdictions 
+employees as of march   we had  employees worldwide  including in sales and marketing  in research and development  in general and administration and in customer services and support 
+none of our employees are represented by a labor union 
+we have never experienced a work stoppage and believe our relationship with our employees is good 
+executive officers of the registrant the following table presents information with respect to our executive officers as of may  name age position n 
+robert hammer chairman  president and chief executive officer alan g 
+bunte executive vice president  chief operating officer brian carolan vice president  chief financial officer louis f 
+miceli senior vice president  finance ron miiller senior vice president of worldwide sales david west senior vice president  marketing and business development n 
+robert hammer has served as our chairman  president and chief executive officer since march mr 
+hammer was also a venture partner from until december of the sprout group  the venture capital 
+table of contents arm of credit suisse s asset management business 
+prior to joining the sprout group  mr 
+hammer served as the chairman  president and chief executive officer of norand corporation  a portable computer systems manufacturer  from until its acquisition by western atlas  inc in mr 
+hammer led norand following its leveraged buy out from pioneer hi bred international  inc and through its initial public offering in prior to joining norand  mr 
+hammer also served as chairman  president and chief executive officer of publicly held telequest corporation from until and of privately held material progress corporation from until prior to joining material progress corporation  mr 
+hammer spent years in various sales  marketing and management positions with celanese corporation  rising to the level of vice president and general manager of the structural composites materials business 
+mr 
+hammer obtained his bachelor s degree and master s degree in business administration from columbia university 
+alan g 
+bunte has served as our executive vice president and chief operating officer since october and served as our senior vice president from december until october since january  mr 
+bunte has also served as a director of commvault 
+prior to joining our company  mr 
+bunte was with norand corporation from to january  serving as its senior vice president of planning and business development from to january mr 
+bunte obtained his bachelor s and master s degrees in business administration from the university of iowa 
+brian carolan has served as our vice president  finance and chief financial officer since october prior to his current role  mr 
+carolan served as our vice president  finance and chief accounting officer from july until september he also held the position of controller from february until june prior to joining our company  mr 
+carolan was with ernst young llp in its technology  communications and entertainment audit practice from until january mr 
+carolan obtained his bachelor s degree in accounting from villanova university  his master s degree in business administration from new york university and is a certified public accountant in the state of new jersey 
+louis f 
+miceli has served as our senior vice president  finance since october prior to his current role  mr 
+miceli served as our senior vice president  finance and chief financial officer from april to october and our vice president and chief financial officer from april to march mr 
+miceli has over years of experience in various finance capacities for several high technology companies 
+prior to joining our company  mr 
+miceli served as chief financial officer of university hospital  part of the university of medicine and dentistry of new jersey umdnj  from until and as the corporate controller of umdnj from until prior to joining umdnj  mr 
+miceli served as the chief financial officer of syntrex  inc  a word processing software and hardware manufacturer  from until  and as its controller from until mr 
+miceli began his career as a staff auditor at ernst ernst llp currently ernst young llp  where he served five years 
+mr 
+miceli obtained his bachelor s degree  cum laude  in accounting from seton hall university and is a certified public accountant in the state of new jersey 
+ron miiller has served as our senior vice president of worldwide sales since april prior to his current role  mr 
+miiller served as our vice president of sales  americas from january to march and as our central region sales manager from march to december prior to joining our company  mr 
+miiller served as director  central region sales for softworks  inc  an emc company  from march through march  and prior to that mr 
+miiller was with moore corporation  a diversified print and electronic communications company from through march in various leadership roles 
+mr 
+miiller received his bachelor of science degree in marketing from ball state university in david west has served as our senior vice president  marketing and business development since april prior to his current role  mr 
+west served as vice president  marketing and business development from september to march and vice president  business development from august to september prior to joining our company  mr 
+west served as a director of strategic alliances from april to july and vice president of storage solutions in july at legato systems  inc  which was subsequently acquired by emc corporation 
+prior to joining legato systems  mr 
+west served as vice president of sales at 
+table of contents intelliguard software  inc  which was also subsequently acquired by emc corporation  from to april mr 
+west obtained his bachelor s degree in electrical engineering from villanova university 
+item a 
+risk factors you should consider each of the following factors as well as the other information in this annual report in evaluating our business and our prospects 
+the risks and uncertainties described below are not the only ones we face 
+additional risks and uncertainties not presently known to us or that we currently consider immaterial may also impair our business operations 
+if any of the following risks actually occurs  our business and financial results could be harmed 
+in that case  the trading price of our common stock could decline 
+you should also refer to the other information set forth in this annual report  including our financial statements and the related notes 
+risks related to our business our industry is intensely competitive  and most of our competitors have greater financial  technical and sales and marketing resources and larger installed customer bases than we do  which could enable them to compete more effectively than we do 
+the data and information management software market is intensely competitive  highly fragmented and characterized by rapidly changing technology and evolving standards  changing customer requirements and frequent new product introductions 
+competitors vary in size and in the scope and breadth of the products and services offered 
+our primary competitors include emc  ibm and symantec corporation 
+the principal competitive factors in our industry include product functionality  product integration  platform coverage  ability to scale  price  worldwide sales infrastructure  global technical support  name recognition and reputation 
+the ability of major system vendors to bundle hardware and software solutions is also a significant competitive factor in our industry 
+if we are unable to address these factors  our competitive position could weaken and we could experience a decline in revenues that could adversely affect our business 
+most of our current and potential competitors have longer operating histories and have substantially greater financial  technical  sales  marketing and other resources than we do  as well as larger installed customer bases  greater name recognition and broader product offerings  including hardware 
+these competitors can devote greater resources to the development  promotion  sale and support of their products than we can and have the ability to bundle their hardware and software products in a combined offering 
+as a result  these competitors may be able to respond more quickly to new or emerging technologies and changes in customer requirements 
+it is also costly and time consuming to change data and information management systems 
+most of our new customers have installed data and information management software  which gives an incumbent competitor an advantage in retaining a customer because it already understands the network infrastructure  user demands and information technology needs of the customer  and also because some customers are reluctant to invest the time and money necessary to change vendors 
+our current and potential competitors may establish cooperative relationships among themselves or with third parties 
+if so  new competitors or alliances that include our competitors may emerge that could acquire significant market share 
+in addition  large operating system and application vendors  as well as some hardware manufacturers  have introduced products or functionality that includes some of the same functions offered by our software applications 
+in the future  further development by these vendors could cause our software applications and services to become redundant  which could seriously harm our sales  results of operations and financial condition 
+new competitors entering our markets can have a negative impact on our competitive positioning 
+in addition  we expect to encounter new competitors as we enter new markets 
+furthermore  many of our existing 
+table of contents competitors are broadening their operating systems platform coverage 
+we also expect increased competition from original equipment manufacturers  including those we partner with  and from systems and network management companies  especially those that have historically focused on the mainframe computer market and have been making acquisitions and broadening their efforts to include data and information management and storage products 
+we expect that competition will increase as a result of future software industry consolidation 
+increased competition could harm our business by causing  among other things  price reductions of our products  reduced profitability and loss of market share 
+we rely on indirect sales channels  such as value added resellers  systems integrators  corporate resellers  distributors and original equipment manufacturers  for the distribution of our software applications  and the failure of these channels to effectively sell our software applications could have a material adverse effect on our revenues and results of operations 
+we rely significantly on our value added resellers  systems integrators and corporate resellers  which we collectively refer to as resellers  for the marketing and distribution of our software applications and services 
+resellers are our most significant distribution channel 
+however  our agreements with resellers are generally not exclusive  are generally renewable annually  typically do not contain minimum sales requirements and in many cases may be terminated by either party without cause 
+many of our resellers carry software applications that are competitive with ours 
+these resellers may give a higher priority to other software applications  including those of our competitors  or may not continue to carry our software applications at all 
+if a number of resellers were to discontinue or reduce the sales of our products  or were to promote our competitors products in lieu of our own  it would have a material adverse effect on our future revenues 
+events or occurrences of this nature could seriously harm our sales and results of operations 
+if we fail to manage our resellers successfully  there may be conflicts between resellers  or they could fail to perform as we anticipate  which could reduce our sales 
+in addition  we expect that a portion of our sales growth will depend upon our ability to identify and attract new reseller partners 
+our competitors also use reseller arrangements and may be more successful in attracting reseller partners and could enter into exclusive relationships with resellers that make it difficult to expand our reseller network 
+any failure on our part to maintain and or expand our network of resellers could impair our ability to grow revenues in the future 
+some of our resellers possess significant resources and advanced technical abilities 
+these resellers  particularly our corporate resellers  may  either independently or jointly with our competitors  develop and market products and related services that compete with our offerings 
+if this were to occur  these resellers might discontinue marketing and distributing our software applications and services 
+in addition  these resellers would have an advantage over us when marketing their competing products and related services because of their existing customer relationships 
+the occurrence of any of these events could have a material adverse effect on our revenues and results of operations 
+in addition  we have distribution agreements covering our north american commercial markets and our us federal government market with arrow enterprise computing solutions  inc arrow  a subsidiary of arrow electronics  inc  and avnet technology solutions avnet  a subsidiary of avnet  inc pursuant to these distribution agreements  these distributors primary role is to enable a more efficient and effective distribution channel for our products and services by managing our reseller partners and leveraging their own industry experience 
+many of our north american resellers have been transitioned to either arrow or avnet 
+sales through our distribution agreement with arrow accounted for approximately of our total revenues for fiscal and approximately for fiscal arrow accounted for a total of approximately of our accounts receivable balance as of march  as a result of our reseller agreement 
+if we were to see an impairment of our receivable balance from arrow  it could have a significant adverse effect on our results of operations 
+avnet s total revenue contribution was not material for fiscal and and its accounts receivable balance was not material as of march  if arrow or avnet were to discontinue or reduce the sales of our products or if our agreement with arrow or avnet was terminated  and if we were unable to take back the management of 
+table of contents our reseller channel or find another north american distributor to replace arrow or avnet  then it could have a material adverse effect on our future revenues 
+sales through dell as a result of our reseller agreement as well as our original equipment manufacturer agreement  which is discussed below  accounted for approximately of total revenues for fiscal and of total revenues for fiscal dell also accounted for a total of approximately of our accounts receivable balance as of march  in recent fiscal quarters  we have begun to shift most of our small and medium business segment transactions to non dell distribution partners as dell is now focused on this segment of the market with their own intellectual property 
+as a result  the majority of the revenue that is still transacted through dell comes from add on purchases from our existing install base and from new enterprise software transactions where our sales force is directly involved 
+we have also recently begun to take proactive steps to broaden our distribution related to enterprise software transactions 
+over time  we believe it is likely that these actions will result in a decline in the percentage of our total revenues transacted through dell 
+due to the timing of enterprise software transactions that are currently in our sales and marketing pipeline  there will likely be some fluctuations in the amount of revenue transacted through dell from quarter to quarter 
+if we are unable to find additional or existing partners to replace the revenues that were previously transacted through dell  it could have a material adverse effect on our future revenues and results of operations 
+in addition  if we were to see an impairment of our receivable balance from dell  it could have a significant adverse effect on our results of operations 
+our original equipment manufacturer agreements are primarily with dell  hitachi data systems and netapp 
+our original equipment manufacturers sell our software applications and in some cases incorporate our data and information management software into systems that they sell 
+a material portion of our revenues is generated through these arrangements 
+however  we have no control over the shipping dates or volumes of systems these original equipment manufacturers ship and they have no obligation to ship systems incorporating our software applications 
+they also have no obligation to recommend or offer our software applications exclusively or at all  and they have no minimum sales requirements and can terminate our relationship at any time 
+these original equipment manufacturers also could choose to develop their own data and information management software internally and incorporate those products into their systems instead of our software applications 
+the original equipment manufacturers that we do business with also compete with one another 
+if one of our original equipment manufacturer partners views our arrangement with another original equipment manufacturer as competing with its products  it may decide to stop doing business with us 
+any material decrease in the volume of sales generated by original equipment manufacturers we do business with  as a result of these factors or otherwise  could have a material adverse effect on our revenues and results of operations in future periods 
+sales through our original equipment manufacturer agreements accounted for approximately of our total revenues for fiscal and of our total revenues for fiscal we may not be able to respond to rapid technological changes with new software applications and services offerings  which could have a material adverse effect on our sales and profitability 
+the markets for our software applications are characterized by rapid technological changes  changing customer needs  frequent new product introductions and evolving industry standards 
+the introduction of software applications embodying new technologies and the emergence of new industry standards could make our existing and future software applications obsolete and unmarketable 
+as a result  we may not be able to accurately predict the lifecycle of our software applications  and they may become obsolete before we receive the amount of revenues that we anticipate from them 
+if any of the foregoing events were to occur  our ability to retain or increase market share in the data and information management software market could be materially adversely affected 
+we devote significant resources to the development of new products and the enhancement of existing products 
+to be successful  we need to anticipate  develop and introduce new software applications and services on a timely and cost effective basis that keep pace with technological developments and emerging industry 
+table of contents standards and that address the increasingly sophisticated needs of our customers 
+we may fail to develop and market software applications and services that respond to technological changes or evolving industry standards  experience difficulties that could delay or prevent the successful development  introduction and marketing of these applications and services or fail to develop applications and services that adequately meet the requirements of the marketplace or achieve market acceptance 
+our failure to develop and market such applications and services on a timely basis  or at all  could have a material adverse effect on our sales and profitability 
+volatility in the global economy could adversely impact our continued growth  results of operations and our ability to forecast future business 
+as our business has expanded globally  we have become increasingly subject to the risks arising from adverse changes in domestic and global economic and political conditions 
+uncertainty in the macroeconomic environment and associated global economic conditions have resulted in volatility in credit  equity  particularly with respect to the ongoing european sovereign debt crisis and potential ramifications of us debt issues and budget concerns 
+these global economic conditions can result in slower economic activity  decreased consumer confidence  reduced corporate profits and capital spending  adverse business conditions and liquidity concerns 
+there has also been increased volatility in foreign exchange markets 
+these factors make it difficult for our customers  our vendors and us to accurately forecast and plan future business activities 
+in addition  these factors could cause customers to slow or defer spending on our software and services products  which would delay and lengthen sales cycles and negatively affect our results of operations 
+if such conditions deteriorate or if the pace of economic recovery is slower or more uneven  our results of operations could be adversely affected  we may not be able to sustain the growth rates we have experienced recently  and we could fail to meet the expectations of stock analysts and investors  which could cause the price of our common stock to decline 
+we continue to invest in our business in the asia pacific and europe  middle east  and africa regions 
+there are significant risks with overseas investments and growth prospects in these regions 
+increased volatility or further declines in the european credit  equity and foreign currency markets could cause delays in or cancellations of european orders 
+deterioration of economic conditions in the countries in which we do business could also cause slower or impaired collections on accounts receivable 
+in addition  we could experience delays in the payment obligations of our worldwide resellers if they experience weakness in the end user market  which would increase our credit risk exposure and harm our financial condition 
+in periods of volatile economic conditions  our exposure to credit risk and payment delinquencies on our accounts receivable significantly increases 
+our outstanding accounts receivables are generally not secured 
+in addition  our standard terms and conditions permit payment within a specified number of days following the receipt of our product 
+due to the recent volatile economic conditions  certain of our customers and resellers have faced or may face liquidity concerns which could result in our customers or resellers not being able to satisfy their payment obligations to us  which would have a material adverse effect on our financial condition  operating results and cash flows 
+while we have procedures to monitor and limit exposure to credit risk on our receivables and have not suffered any material losses to date  there can be no assurance such procedures will continue to effectively limit our credit risk and avoid future losses 
+
+table of contents we may experience a decline in revenues or volatility in our quarterly operating results  which may adversely affect the market price of our common stock 
+we cannot predict our future quarterly revenues or operating results with certainty because of many factors outside of our control 
+a significant revenue or profit decline  lowered forecasts or volatility in our operating results could cause the market price of our common stock to decline substantially 
+factors that could affect our revenues and operating results include the following the unpredictability of the timing and magnitude of orders for our software applications  particularly software transactions greater than  in recent fiscal years  a majority of our quarterly revenues were earned and recorded near the end of each quarter  the possibility that our customers may cancel  defer or limit purchases as a result of reduced information technology budgets  the possibility that our customers may defer purchases of our software applications in anticipation of new software applications or updates from us or our competitors  the ability of our original equipment manufacturers and resellers to meet their sales objectives  market acceptance of our new applications and enhancements  our ability to control expenses  changes in our pricing and distribution terms or those of our competitors  and the demands on our management  sales force and services infrastructure as a result of the introduction of new software applications or updates 
+our expense levels are relatively fixed and are based  in part  on our expectations of future revenues 
+if revenue levels fall below our expectations and we are profitable at the time  our net income would decrease because only a small portion of our expenses varies with our revenues 
+therefore  any significant decline in revenues for any period could have an immediate adverse impact on our results of operations for that period 
+we believe that period to period comparisons of our results of operations should not be relied upon as an indication of future performance 
+in addition  our results of operations could be below expectations of public market analysts and investors in future periods  which would likely cause the market price of our common stock to decline 
+we encounter long sales and implementation cycles  particularly for our larger customers  which could have an adverse effect on the size  timing and predictability of our revenues 
+potential or existing customers  particularly larger enterprise customers  generally commit significant resources to an evaluation of available software and require us to expend substantial time  effort and money educating them as to the value of our software and services 
+sales of our core software products to these larger customers often require an extensive education and marketing effort 
+we could expend significant funds and resources during a sales cycle and ultimately fail to win the customer 
+our sales cycle for all of our products and services is subject to significant risks and delays over which we have little or no control  including our customers budgetary constraints  the timing of our customers budget cycles and approval processes  our customers willingness to replace their current software solutions  our need to educate potential customers about the uses and benefits of our products and services  and 
+table of contents the timing of the expiration of our customers current license agreements or outsourcing agreements for similar services 
+if our sales cycles lengthen unexpectedly  they could adversely affect the timing of our revenues or increase costs  which may cause fluctuations in our quarterly revenues and results of operations 
+finally  if we are unsuccessful in closing sales of our products after spending significant funds and management resources  our operating margins and results of operations could be adversely impacted  and the price of our common stock could decline 
+we depend on growth in the data and information management software market  and lack of growth or contraction in this market could have a material adverse effect on our sales and financial condition 
+demand for data and information management software is linked to growth in the amount of data generated and stored  demand for data retention and management whether as a result of regulatory requirements or otherwise and demand for and adoption of new storage devices and networking technologies 
+because our software applications are concentrated within the data and information management software market  if the demand for storage devices  storage software applications  storage capacity or storage networking devices declines  our sales  profitability and financial condition would be materially adversely affected 
+segments of the computer and software industry have in the past experienced significant economic downturns 
+the occurrence of any of these factors in the data and information management software market could materially adversely affect our sales  profitability and financial condition 
+furthermore  the data and information management software market is dynamic and evolving 
+our future financial performance will depend in large part on continued growth in the number of organizations adopting data and information management software for their computing environments 
+the market for data and information management software may not continue to grow at historic rates  or at all 
+if this market fails to grow or grows more slowly than we currently anticipate  our sales and profitability could be adversely affected 
+our software applications are complex and may contain undetected errors  which could adversely affect not only our software applications performance but also our reputation and the acceptance of our software applications in the market 
+software applications as complex as those we offer contain undetected errors or failures  especially when products are first introduced or new versions are released 
+despite extensive testing by us and by our customers  we have in the past discovered errors in our software applications and will do so in the future 
+as a result of past discovered errors  we experienced delays and lost revenues while we corrected those software applications 
+in addition  customers in the past have brought to our attention bugs in our software created by the customers unique operating environments  which are often characterized by a wide variety of both standard and non standard configurations that make pre release testing very difficult and time consuming 
+although we have been able to fix these software bugs in the past  we may not always be able to do so 
+our software products may also be subject to intentional attacks by viruses that seek to take advantage of these bugs  errors or other weaknesses 
+any of these events may result in the loss of  or delay in  market acceptance of our software applications and services  which would seriously harm our sales  results of operations and financial condition 
+furthermore  we believe that our reputation and name recognition are critical factors in our ability to compete and generate additional sales 
+promotion and enhancement of our name will depend largely on our success in continuing to provide effective software applications and services 
+the occurrence of errors in our software applications or the detection of bugs by our customers may damage our reputation in the market and our relationships with our existing customers  and as a result  we may be unable to attract or retain customers 
+in addition  because our software applications are used to manage data that is often critical to our customers  they may have a greater sensitivity to defects in our products than to defects in other  less critical  applications 
+
+table of contents as a result  the licensing and support of our software applications involve the risk of product liability claims 
+our license agreements with our customers typically contain provisions designed to limit our exposure to potential product liability claims 
+however  the limitation of liability provisions contained in our license agreements vary and may not be effective as a result of existing or future national  federal  state  or local laws or ordinances or unfavorable judicial decisions 
+although we have not experienced any material product liability claims to date  the sale and support of our products entail the risk of such claims  which could be substantial in light of the use of our products in enterprise wide environments 
+in addition  our insurance against product liability may not be adequate to cover all potential claims 
+if our customers do not renew their annual maintenance and support agreements for our products or if they do not renew them on terms that are favorable to us  our business might suffer 
+most of our maintenance agreements are for a one year term 
+as the end of the annual period approaches  we pursue the renewal of the agreement with the customer 
+historically  maintenance renewals have represented a significant portion of our total revenue 
+because of this characteristic of our business  if our customers choose not to renew their maintenance and support agreements with us on beneficial terms  or at all  our business  operating results and financial condition could be harmed 
+we develop software applications that interoperate with operating systems and hardware developed by others  and if the developers of those operating systems and hardware do not cooperate with us or we are unable to devote the necessary resources so that our applications interoperate with those systems  our software development efforts may be delayed or foreclosed and our business and results of operations may be adversely affected 
+our software applications operate primarily on the windows  unix  linux and novell netware operating systems and the hardware devices of numerous manufacturers 
+when new or updated versions of these operating systems and hardware devices are introduced  it is often necessary for us to develop updated versions of our software applications so that they interoperate properly with these systems and devices 
+we may not accomplish these development efforts quickly or cost effectively  and it is not clear what the relative growth rates of these operating systems and hardware will be 
+these development efforts require the cooperation of the developers of the operating systems and hardware  substantial capital investment and the devotion of substantial employee resources 
+for some operating systems  we must obtain some proprietary application program interfaces from the owner in order to develop software applications that interoperate with the operating system 
+operating system owners have no obligation to assist in these development efforts 
+if they do not provide us with assistance or the necessary proprietary application program interfaces on a timely basis  we may experience delays or be unable to expand our software applications into other areas 
+we may not receive significant revenues from our current research and development efforts for several years  if at all 
+developing software is expensive  and the investment in product development may involve a long payback cycle 
+our research and development expenses were million  or of our total revenues in fiscal  million  or of our total revenues in fiscal and million  or of our total revenues in fiscal our future plans include significant investments in software research and development and related product opportunities 
+we believe that we must continue to dedicate a significant amount of resources to our research and development efforts to maintain our competitive position 
+however  we may not recognize significant revenues from these investments for several years  if at all 
+the loss of key personnel or the failure to attract and retain highly qualified personnel could have an adverse effect on our business 
+our future performance depends on the continued service of our key technical  sales  services and management personnel 
+we rely on our executive officers and senior management to execute our existing 
+table of contents business operations and identify and pursue new growth opportunities 
+the loss of key employees could result in significant disruptions to our business  and the integration and training of replacement personnel could be time consuming  cause additional disruptions to our business and be unsuccessful 
+we do not carry key person life insurance covering any of our employees 
+our future success also depends on our continued ability to attract and retain highly qualified technical  sales  services and management personnel 
+competition for such personnel is intense  and we may fail to retain our key technical  sales  services and management employees or attract or retain other highly qualified technical  sales  services and management personnel in the future 
+furthermore  in the past  we have experienced higher levels of turnover in our sales force compared to other employee groups in our company 
+increases in the turnover rate of our sales force may affect our ability to generate license revenue growth 
+although we have hired replacements in our sales force and are continuing to hire additional sales personnel to grow our business  we sometimes experience lower productivity from newly hired sales personnel for a period up to twelve months 
+in addition  we periodically make adjustments to our sales organization in response to a variety of internal and external factors  such as market opportunities  competitive threats  product introductions or enhancements and sales performance 
+such adjustments could be temporarily disruptive and result in reduced productivity 
+the volatility of our stock price may from time to time adversely affect our ability to attract or retain employees 
+if we are unable to hire or retain qualified employees across our organization  or conversely  if we fail to manage employee performance or reduce staffing levels when required by market conditions  our personnel costs would be excessive and our business and profitability could be adversely affected 
+our international sales and operations are subject to factors that could have an adverse effect on our results of operations 
+we have significant sales and services operations outside the united states  and derive a substantial portion of our revenues from these operations 
+we also plan to continue to expand our international operations 
+we generated approximately of our revenues from outside the united states in fiscal and in fiscal accordingly  international sales increased in fiscal compared to fiscal expansion of our international operations will require a significant amount of attention from our management and substantial financial resources and might require us to add qualified management in these markets 
+in addition to facing risks similar to the risks faced by our domestic operations  our international operations are also subject to risks related to the differing legal  political  social and regulatory requirements and economic conditions of many countries  including difficulties in staffing and managing our international operations  foreign countries may impose additional withholding taxes or otherwise tax our foreign income  impose tariffs or adopt other restrictions on foreign trade or investment  including currency exchange controls  difficulties in coordinating the activities of our geographically dispersed and culturally diverse operations  general economic conditions in the countries in which we operate  including seasonal reductions in business activity in the summer months in europe and in other periods in other countries  could have an adverse effect on our earnings from operations in those countries  imposition of  or unexpected adverse changes in  foreign laws or regulatory requirements may occur  including those pertaining to export restrictions  privacy and data protection  trade and employment restrictions and intellectual property protections  longer payment cycles for sales in foreign countries and difficulties in collecting accounts receivable  
+table of contents competition from local suppliers  greater risk of a failure of our employees to comply with both us and foreign laws  including antitrust regulations  the us foreign corrupt practices act  the uk bribery act of  and any trade regulations ensuring fair trade practices  costs and delays associated with developing software in multiple languages  and political unrest  war or acts of terrorism 
+our business in emerging markets requires us to respond to rapid changes in market conditions in those markets 
+our overall success in international markets depends  in part  upon our ability to succeed in differing legal  regulatory  economic  social and political conditions 
+we may not continue to succeed in developing and implementing policies and strategies that will be effective in each location where we do business 
+furthermore  the occurrence of any of the foregoing factors may have a material adverse effect on our business and results of operations 
+we may experience fluctuations in foreign currency exchange rates that could adversely impact our results of operations 
+our international sales are generally denominated in foreign currencies  and this revenue could be materially affected by currency fluctuations 
+our primary exposures are to fluctuations in exchange rates for the us dollar versus the euro and  to a lesser extent  the australian dollar  british pound sterling  canadian dollar  chinese yuan  indian rupee  korean won and singapore dollar 
+changes in currency exchange rates could adversely affect our reported revenues and could require us to reduce our prices to remain competitive in foreign markets  which could also have a material adverse effect on our results of operations 
+an unfavorable change in the exchange rate of foreign currencies against the us dollar would result in lower revenues when translated into us dollars  although operating expenditures would be lower as well 
+historically  the effect of changes in foreign currency exchange rates on our revenues and operating expenses has not been material  although it may be in the future 
+in recent fiscal years  we have selectively hedged our exposure to changes in foreign currency exchange rates on the balance sheet 
+in the future  we may enter into additional foreign currency based hedging contracts to reduce our exposure to significant fluctuations in currency exchange rates on the balance sheet  although there can be no assurances that we will do so 
+however  as our international operations grow  or if dramatic fluctuations in foreign currency exchange rates continue or increase or if our hedging strategies become ineffective  the effect of changes in the foreign currency exchange rates could become material to revenue  operating expenses  and income 
+our ability to sell our software applications is highly dependent on the quality of our services offerings  and our failure to offer high quality support and professional services would have a material adverse effect on our sales of software applications and results of operations 
+our services include the assessment and design of solutions to meet our customers storage management requirements and the efficient installation and deployment of our software applications based on specified business objectives 
+further  once our software applications are deployed  our customers depend on us to resolve issues relating to our software applications 
+a high level of service is critical for the successful marketing and sale of our software 
+if we or our partners do not effectively install or deploy our applications  or succeed in helping our customers quickly resolve post deployment issues  it would adversely affect our ability to sell software products to existing customers and could harm our reputation with prospective customers 
+as a result  our failure to maintain high quality support and professional services would have a material adverse effect on our sales of software applications and results of operations 
+
+table of contents a portion of our revenue is generated by sales to government entities  which are subject to a number of challenges and risks 
+sales to us and foreign federal  state  and local governmental agency end customers have accounted for a portion of our revenue  and we may in the future increase sales to government entities 
+however  government entities have recently announced reductions in  or experienced increased pressure to reduce spending 
+in particular  such measures have adversely affected european public sector transactions  and the recent us debt issues and budget concerns may adversely impact future us public sector transactions 
+such budgetary constraints or shifts in spending priorities of government entities may adversely affect sales of our products and services to such entities 
+in addition  sales to government entities are subject to a number of risks 
+selling to government entities can be highly competitive  expensive and time consuming  often requiring significant upfront time and expense without any assurance that we will successfully sell our products to such governmental entity 
+government entities may require contract terms that differ from our standard arrangements 
+government contracts may require the maintenance of certain security clearances for facilities and employees which can entail administrative time and effort possibly resulting in additional costs and delays 
+in addition  government demand for our products may be more volatile as they are affected by public sector budgetary cycles  funding authorizations  and the potential for funding reductions or delays  making the time to close such transactions more difficult to predict 
+this risk is enhanced as the size of such sales to the government entities increases 
+if the use of our products expands to more sensitive  secure or mission critical uses by our government customers  we may be subject to increased scrutiny  potential reputational risk  or potential liability should our products fail to perform as expected or should we not comply with the terms of our government contracts or government contracting requirements 
+most of our sales to government entities have been made indirectly through providers that sell our products 
+government entities may have contractual or other legal rights to terminate contracts with our providers for convenience or due to a default  and any such termination may adversely impact our future results of operations 
+governments routinely audit and investigate government contractors  and we may be subject to such audits and investigations 
+if an audit or investigation uncovers improper or illegal activities  including any misuse of confidential or classified information by our employees  we may be subject to civil or criminal penalties and administrative sanctions 
+if we are unable to manage our growth  there could be a material adverse effect on our business  the quality of our products and services and our ability to retain key personnel 
+we have experienced periods of growth in recent years 
+our revenues increased for fiscal compared to fiscal and also increased for fiscal compared to fiscal the number of our customers increased significantly during these periods 
+our growth has placed increased demands on our management and other resources and will continue to do so in the future 
+we may not be able to maintain or accelerate our current growth rate  manage our expanding operations effectively or achieve planned growth on a timely or profitable basis 
+managing our growth effectively will involve  among other things continuing to retain  motivate and manage our existing employees and attract and integrate new employees  continuing to provide a high level of services to an increasing number of customers  maintaining the quality of product and services offerings while controlling our expenses  developing new sales channels that broaden the distribution of our software applications and services  and developing  implementing and improving our operational  financial  accounting and other internal systems and controls on a timely basis 
+if we are unable to manage our growth effectively  there could be a material adverse effect on our ability to maintain or increase revenues and profitability  the quality of our data and information management software  the 
+table of contents quality of our services offerings and our ability to retain key personnel 
+these factors could adversely affect our reputation in the market and our ability to generate future sales from new or existing customers 
+we may be subject to information technology system failures  network disruptions and breaches in data security 
+information technology system failures  network disruptions and breaches of data security could disrupt our operations by causing delays or cancellation of customer orders  impeding the shipment of software products  negatively affecting our service offerings  preventing the processing of transactions and reporting of financial results 
+information technology system failures  network disruptions and breaches of data security could also result in the unintentional disclosure of customer or our information as well as damage our reputation 
+while management has taken steps to address these concerns by implementing sophisticated network security  internal control measures and developed certain disaster recovery plans  there can be no assurance that a system failure  network disruption or data security breach will not have a material adverse effect on our financial condition and operating results 
+protection of our intellectual property is limited  and any misuse of our intellectual property by others could materially adversely affect our sales and results of operations 
+our success depends significantly upon proprietary technology in our software  documentation and other written materials 
+to protect our proprietary rights  we rely on a combination of patents  copyright and trademark laws  trade secrets  confidentiality procedures  and contractual provisions 
+these methods afford only limited protection 
+despite this limited protection  any issued patent may not provide us with any competitive advantages or may be challenged by third parties  and the patents of others may seriously impede our ability to conduct our business 
+further  our pending patent applications may not result in the issuance of patents  and any patents issued to us may not be timely or broad enough to protect our proprietary rights 
+we may also develop proprietary products or technologies that cannot be protected under patent law 
+we also seek to maintain certain intellectual property as trade secrets 
+the secrecy could be compromised by outside parties  or by our employees  which would cause us to lose the competitive advantage resulting from these trade secrets 
+despite our efforts to protect our proprietary rights  unauthorized parties may attempt to copy aspects of our software applications or to obtain and use information that we regard as proprietary 
+policing unauthorized use of our software applications is difficult  and we expect software piracy to continue to be a persistent problem 
+in licensing our software applications  we typically rely on shrink wrap or click wrap licenses that are not signed by licensees 
+we may have difficulty enforcing these licenses in some jurisdictions 
+in addition  the laws of some foreign countries do not protect our proprietary rights to as great an extent as do the laws of the united states 
+our attempts to protect our proprietary rights may not be adequate 
+our competitors may independently develop similar technology  duplicate our software applications or design around patents issued to us or other intellectual property rights of ours 
+litigation may be necessary in the future to enforce our intellectual property rights  protect our trade secrets or determine the validity and scope of the proprietary rights of others 
+litigation could result in substantial costs and diversion of resources and management attention 
+in addition  from time to time we are participants or members of various industry standard setting organizations or other industry technical organizations 
+our participation or membership in such organizations may  in some circumstances  require us to 
+table of contents enter into royalty or licensing agreements with third parties regarding our intellectual property under terms established by those organizations  which we may not find favorable 
+in addition  many of our agreements with our customers and partners require us to indemnify them for certain intellectual property infringement claims against them  which would increase our costs as a result of defending such claims  and may require that we pay significant damages if there were an adverse ruling in any such claims 
+furthermore  such customers and partners may discontinue the use of our products  services  and technologies  as a result of injunctions or otherwise  which could result in loss of revenues and adversely impact our business 
+claims that we misuse the intellectual property of others could subject us to significant liability and disrupt our business  which could have a material adverse effect on our results of operations and financial condition 
+due to the nature of our business  we may become subject to material claims of infringement by competitors and other third parties with respect to current or future software applications  trademarks or other proprietary rights 
+we expect that software developers will increasingly be subject to infringement claims as the number of software applications and competitors in our industry segment grows and the functionality of software applications in different industry segments overlaps 
+any such claims  whether meritorious or not  could be time consuming  result in costly litigation  cause shipment delays or require us to enter into royalty or licensing agreements with third parties  which may not be available on terms that we deem acceptable  if at all 
+in addition  we may decide to settle a claim or action against us  which settlement could be costly 
+we may also be liable for any past infringement 
+if there is an adverse ruling against us in an infringement lawsuit  an injunction could be issued barring production or sale of any infringing product 
+it could also result in a damage award equal to a reasonable royalty or lost profits or  if there is a finding of willful infringement  treble damages 
+any of these claims could disrupt our business and have a material adverse effect on our results of operations and financial condition 
+in addition  we license and use software from third parties in our business 
+these third party software licenses may not continue to be available to us on acceptable terms or at all  and may expose us to additional liability 
+this liability  or our inability to use any of this third party software  could result in shipment delays or other disruptions in our business that could materially and adversely affect our operating results 
+our use of open source software could negatively affect our business and subjects us to possible litigation 
+some of the products or technologies acquired  licensed or developed by us may incorporate so called open source software  and we may incorporate open source software into other products in the future 
+such open source software is generally licensed by its authors or other third parties under open source licenses  including  for example  the gnu general public license  the gnu lesser general public license  the common public license  apache style licenses  berkley software distribution or bsd style licenses and other open source licenses 
+we monitor our use of open source software to avoid subjecting our products to conditions we do not intend  but these efforts may not be successful 
+although we believe that we have complied with our obligations under the various applicable licenses for open source software that we use  there is little or no legal precedent governing the interpretation of many of the terms of certain of these licenses  and therefore the potential impact of these terms on our business is somewhat unknown and may result in unanticipated obligations regarding our products and technologies 
+the use of such open source software may ultimately subject some of our products to unintended conditions  which may negatively affect our business  financial condition  operating results  cash flow and ability to commercialize our products or technologies 
+some of these open source licenses may subject us to certain conditions  including requirements that we offer our products that use the open source software for no cost  that we make available source code for modifications or derivative works we create based upon  incorporating or using the open source software and or that we license such modifications or derivative works under the terms of the particular open source license 
+if an author or other third party that distributes such open source software were to allege that we had not complied with the conditions of one or more of these licenses  we could be required to incur significant legal expenses 
+table of contents defending against such allegations 
+if our defenses were not successful  we could be enjoined from the distribution of our products that contained the open source software and required to make the source code for the open source software available to others  to grant third parties certain rights of further use of our software or to remove the open source software from our products  which could disrupt the distribution and sale of some of our products 
+in addition  if we combine our proprietary software with open source software in a certain manner  under some open source licenses we could be required to release the source code of our proprietary software 
+if an author or other third party that distributes open source software were to obtain a judgment against us based on allegations that we had not complied with the terms of any such open source licenses  we could also be subject to liability for copyright infringement damages and breach of contract for our past distribution of such open source software 
+our effective tax rate is difficult to project  and changes in such tax rate or adverse results of tax examinations could adversely affect our operating results 
+we are a united states based multinational company subject to tax in multiple us and foreign tax jurisdictions 
+our results of operations would be adversely affected to the extent that our geographical mix of income becomes more weighted toward jurisdictions with higher tax rates and would be favorably affected to the extent the relative geographic mix shifts to lower tax jurisdictions 
+any change in our mix of earnings is dependent upon many factors and is therefore difficult to predict 
+the process of determining our anticipated tax liabilities involves many calculations and estimates that are inherently complex and make the ultimate tax obligation determination uncertain 
+as part of the process of preparing our consolidated financial statements  we are required to estimate our income taxes in each of the jurisdictions in which we operate prior to the completion and filing of tax returns for such periods 
+these estimates involve complex issues  require extended periods of time to resolve  and require us to make judgments  such as anticipating the outcomes of audits with tax authorities and the positions that we will take on tax returns prior to our actually preparing the returns 
+furthermore  our overall effective income tax rate and tax expenses may be affected by various factors in our business  including changes in our legal structure  changes in the geographic mix of income and expenses  changes in tax laws and applicable accounting pronouncements and variations in the estimated and actual level of annual profits before income tax 
+for example  our effective tax rate has benefited from an existing us research and development tax credit which extends through the end of the calendar year 
+if this tax credit is not renewed in the future  we would expect our effective tax rate to increase 
+we also determine the need to record deferred tax liabilities and the recoverability of deferred tax assets 
+a valuation allowance is established to the extent recovery of deferred tax assets is not likely based on our estimation of future taxable income and other factors in each jurisdiction 
+as of march   we had net deferred tax assets of approximately million  which were primarily related to federal and state research tax credit carryforwards  stock based compensation and foreign net operating loss carryforwards 
+consequently  our cash tax rate will be lower than our effective tax rate though fiscal and into fiscal however  we expect our cash taxes to continue to increase as our cash tax rate approaches our effective tax rate 
+our cash and cash equivalents could be adversely affected if the financial institutions in which we hold our cash and cash equivalents fail 
+our cash and cash equivalents are highly liquid investments with original maturities of three months or less at the time of purchase 
+we maintain the cash and cash equivalents with major financial institutions 
+deposits with these banks exceed the federal deposit insurance corporation fdic insurance limits or similar limits in foreign jurisdictions 
+while we monitor daily the cash balances in the operating accounts and adjust the balances as appropriate  these balances could be impacted if one or more of the financial institutions with which we deposit fails or is subject to other adverse conditions in the financial or credit markets 
+to date  we have 
+table of contents experienced no loss or lack of access to our invested cash or cash equivalents  however  we can provide no assurance that access to our invested cash and cash equivalents will not be impacted by adverse conditions in the financial and credit markets 
+we cannot predict our future capital needs and we may be unable to obtain additional financing  which could have a material adverse effect on our business  results of operations and financial condition 
+we may need to raise additional funds in the future in order to acquire complementary businesses  technologies  products or services 
+any required additional financing may not be available on terms acceptable to us  or at all 
+if we raise additional funds by issuing equity securities  you may experience significant dilution of your ownership interest  and the newly issued securities may have rights senior to those of the holders of our common stock 
+if we raise additional funds by obtaining loans from third parties  the terms of those financing arrangements may include negative covenants or other restrictions on our business that could impair our operational flexibility  and would also require us to fund additional interest expense 
+if additional financing is not available when required or is not available on acceptable terms  we may be unable to successfully develop or enhance our software and services through acquisitions in order to take advantage of business opportunities or respond to competitive pressures  which could have a material adverse effect on our software and services offerings  revenues  results of operations and financial condition 
+we have no plans  nor are we currently considering any proposals or arrangements  written or otherwise  to acquire a business  technology  product or service 
+we may become involved in litigation that may have a material adverse effect on our business 
+from time to time  we may become involved in various legal proceedings relating to matters incidental to the ordinary course of our business  including patent  commercial  product liability  employment  class action  whistleblower and other litigation and claims  and governmental and other regulatory investigations and proceedings 
+such matters can be time consuming  divert management s attention and resources and cause us to incur significant expenses 
+furthermore  because litigation is inherently unpredictable  there can be no assurance that the results of any of these actions will not have a material adverse effect on our business  results of operations or financial condition 
+we are subject to the risks of owning real property 
+during fiscal  we closed on a purchase of land located in tinton falls  new jersey for our future corporate campus headquarters to support the long term growth of our business 
+we have limited experience in the ownership and management of real property 
+in addition  we are subject to the risks of owning real property including the possible need for structural improvements in order to comply with zoning and other legal or regulatory requirements 
+furthermore  we are subject to adverse changes in the value of this property due to interest rate changes  changes in the market in which the property is located or other factors 
+our estimate for the planned construction of the campus headquarters may increase due to factors outside of our control and could increase the amount of cash committed to this project 
+also  if we decide to sell our real property in the future and are not able to recover all capitalized costs  it could have a material adverse effect on our financial condition and operating results 
+we are currently planning and designing information systems enhancements and problems with the design or implementation of these enhancements could interfere with our business and operations 
+we are currently in the process of significantly enhancing our information systems  including planning and designing a new enterprise resource planning system 
+the implementation of significant enhancements to information systems is frequently disruptive to the underlying business of an enterprise 
+any disruptions relating to our systems enhancements  particularly any disruptions impacting our operations during the design or implementation periods  could adversely affect our ability to process customer orders  ship products  bill and 
+table of contents track our customers  fulfill contractual obligations and otherwise run our business 
+if we are unable to successfully plan  design or implement these information systems enhancements  it could have a material adverse effect on our financial position  results of operations and cash flows 
+risks relating to ownership of our common stock the price of our common stock may be highly volatile and may decline regardless of our operating performance 
+the market price of our common stock could be subject to significant fluctuations in response to variations in our quarterly or annual operating results  changes in financial estimates  treatment of our tax assets or liabilities or investment recommendations by securities analysts following our business or our competitors  the public s response to our press releases  rumors  our other public announcements and our filings with the sec  changes in accounting standards  policies  guidance or interpretations or principles  sales of common stock by our directors  officers and significant stockholders  announcements of technological innovations or enhanced or new products by us or our competitors  our failure to achieve operating results consistent with securities analysts projections  the operating and stock price performance of other companies that investors may deem comparable to us  broad market and industry factors  and other events or factors  including those resulting from war  incidents of terrorism or responses to such events 
+the market prices of software companies have been extremely volatile 
+stock prices of many software companies have often fluctuated in a manner unrelated or disproportionate to the operating performance of such companies 
+in the past  following periods of market volatility  stockholders have often instituted securities class action litigation 
+if we were involved in securities litigation  it could have a substantial cost and divert resources and the attention of management from our business 
+future sales of our common stock  or the perception that such future sales may occur  may cause our stock price to decline and impair our ability to obtain capital through future stock offerings 
+a substantial number of shares of our common stock are available for sale into the public market 
+the occurrence of such sales  or the perception that such sales could occur  could materially and adversely affect our stock price and could impair our ability to obtain capital through an offering of equity securities 
+certain provisions in our charter documents and agreements and delaware law  as well as our stockholder rights plan  may inhibit potential acquisition bids for commvault and prevent changes in our management 
+our certificate of incorporation and bylaws contain provisions that could depress the trading price of our common stock by acting to discourage  delay or prevent a change of control of our company or changes in management that our stockholders might deem advantageous 
+specific provisions in our certificate of incorporation include our ability to issue preferred stock with terms that the board of directors may determine  without stockholder approval  
+table of contents a classified board in which only a third of the total board members will be elected at each annual stockholder meeting  advance notice requirements for stockholder proposals and nominations  and limitations on convening stockholder meetings 
+in addition to the provision described above  on november   our board of directors adopted a stockholders rights plan and declared a dividend distribution of one right for each outstanding share of our common stock to shareholders of record on november  each right  when exercisable  entitles the registered holder to purchase from us one one thousandth of a share of series a junior participating preferred stock  par value per share  at a purchase price of per one one thousandth of a share  subject to adjustment 
+the rights may discourage a third party from making an unsolicited proposal to acquire us  as exercise of the rights would cause substantial dilution to such third party attempting to acquire us 
+as a result of the provisions in our certificate of incorporation and our stockholder rights plan  the price investors may be willing to pay in the future for shares of our common stock may be limited 
+also  we are subject to section of the delaware general corporation law  which imposes certain restrictions on mergers and other business combinations between us and any holder of or more of our common stock 
+further  certain of our employment agreements and incentive plans provide for vesting of stock options and or payments to be made to the employees thereunder if their employment is terminated in connection with a change of control  which could discourage  delay or prevent a merger or acquisition at a premium price 
+we do not expect to pay any dividends in the foreseeable future 
+we do not anticipate paying any cash dividends to holders of our common stock in the foreseeable future 
+consequently  investors must rely on sales of their common stock after price appreciation  which may never occur  as the only way to realize any future gains on their investment 
+investors seeking cash dividends should not purchase our common stock 
+although we believe we currently have adequate internal control over financial reporting  we are required to assess our internal control over financial reporting on an annual basis  and any future adverse results from such assessment could result in a loss of investor confidence in our financial reports and have an adverse effect on our stock price 
+pursuant to section of the sarbanes oxley act of sox  and the rules and regulations promulgated by the sec to implement sox  we are required to furnish a report in our form k regarding the effectiveness of our internal control over financial reporting 
+the report s assessment of our internal control over financial reporting as of the end of our fiscal year must include disclosure of any material weaknesses in our internal control over financial reporting identified by management 
+management s assessment of internal control over financial reporting requires management to make subjective judgments and some of our judgments will be in areas that may be open to interpretation 
+although we currently believe our internal control over financial reporting is effective  the effectiveness of our internal controls in future periods is subject to the risk that our controls may become inadequate or may not operate effectively 
+in future years  if we fail to timely complete this assessment  or if our auditors cannot timely attest  there may be a loss of public confidence in our internal controls  the market price of our stock could decline and we could be subject to regulatory sanctions or investigations by the nasdaq stock market  the securities and exchange commission or other regulatory authorities  which would require additional financial and management resources 
+in addition  any failure to implement required new or improved controls  or difficulties encountered in their implementation  could harm our operating results or cause us to fail to timely meet our regulatory reporting obligations 
+
+table of contents during the past few years  our organizational structure has increased in complexity due to compliance with tax regulations and tax accounting requirements and other regulatory and compliance requirements  including compliance with anti corruption and anti bribery laws such as the us foreign corrupt practices act the fcpa and the uk bribery act of the uk bribery act 
+further  we have expanded our presence in the asia pacific region  where business practices can differ from those in other regions of the world and can create internal control risks 
+we provide business practices training to our employees worldwide 
+overall  the combination of increased structural complexity and the ever increasing regulatory complexity make it more critical for us to attract and retain qualified and technically competent employees 
+item b 
+unresolved staff comments none 
+item properties our principal administrative  sales  marketing  customer support and research and development facility is located at our headquarters in oceanport  new jersey 
+we currently occupy approximately  square feet of office space in the oceanport facility under the terms of an operating lease expiring in july we believe that our current facility is adequate to meet our needs for at least the next months 
+we believe that suitable additional facilities will be available as needed on commercially reasonable terms 
+in addition  we have offices in the united states in arizona  california  colorado  connecticut  florida  georgia  illinois  kansas  massachusetts  minnesota  new york  north carolina  ohio  oregon  tennessee  texas  virginia and washington  and outside the united states in kanata  ontario  toronto  ontario  calgary  alberta  montreal  quebec  vancouver  british columbia  reading  united kingdom  oberhausen  germany  utrecht  netherlands  milan  italy  stockholm  sweden  paris  france  madrid  spain  dubai  united arab emirates  moscow  russia  johannesburg  south africa  riyadh  saudi arabia  tel aviv  israel  beijing  china  shanghai  china  guangzhou  china  chengdu  china  hong kong  sydney  australia  melbourne  australia  canberra  australia  auckland  new zealand  tokyo  japan  singapore  mexico city  mexico  kuala lumpar  malaysia  bangkok  thailand  sao paulo  brazil  seoul  south korea  mumbai  india  new delhi  india  bangalore  india  and hyderabad  india 
+item legal proceedings from time to time  we are subject to claims in legal proceedings arising in the normal course of our business 
+we do not believe that we are currently party to any pending legal action that could reasonably be expected to have a material adverse effect on our business or operating results 
+item mine safety disclosures not applicable 
+table of contents part ii item market for registrant s common equity  related stockholder matters and issuer purchases of equity securities market for our common stock our common stock is listed and traded on the nasdaq global market under the symbol cvlt 
+the following table sets forth  for the periods indicated  the high and the low closing sales prices of our common stock  as reported on the nasdaq global market 
+common stock high low high low first quarter second quarter third quarter fourth quarter on april   the last reported sale price of our common stock as reported on the nasdaq global market was per share 
+stockholders as of april   there were approximately holders of our common stock 
+the number of record holders does not represent the actual number of beneficial owners of shares of our common stock because shares are frequently held in street name by securities dealers and others for the benefit of individual owners who have the right to vote their shares 
+dividend policy we have never paid cash dividends on our common stock  and we intend to retain our future earnings  if any  to fund the growth of our business 
+we therefore do not anticipate paying any cash dividends on our common stock in the foreseeable future 
+our future decisions concerning the payment of dividends on our common stock will depend upon our results of operations  financial condition and capital expenditure plans  as well as any other factors that the board of directors  in its sole discretion  may consider relevant 
+
+table of contents stock performance graph the graph set forth below compares the cumulative total stockholder return on our common stock between march  and march   with the cumulative total return of i the nasdaq computer index and ii the nasdaq composite index  over the same period 
+this graph assumes the investment of  on march  in our common stock  the nasdaq composite index and the nasdaq computer index  and assumes the reinvestment of dividends  if any 
+the graph assumes the initial value of our common stock on march  was the closing sales price of per share 
+the comparisons shown in the graph below are based upon historical data 
+the stock price performance shown in the graph below is not necessarily indicative of  nor is it intended to forecast  the future performance of our common stock 
+information used in the graph was obtained from nasdaq  a source we believe to be reliable  but we are not responsible for any errors or omissions in such information 
+the performance graph shall not be deemed filed for purposes of section of the exchange act or otherwise subject to the liabilities under that section  and shall not be deemed to be incorporated by reference into any filing of commvault under the securities act or the exchange act 
+logo commvault nasdaq composite index nasdaq computer index issuer purchases of equity securities there were no repurchases of our common stock during the three months ended march  as of march   we have repurchased million of common stock million shares out of the million in total that is authorized under our stock repurchase program 
+as a result  we may repurchase an additional million of our common stock under the current program through march  
+table of contents item selected financial data the following selected financial data should be read in conjunction with our financial statements and related notes  risk factors and management s discussion and analysis of financial condition and results of operations included elsewhere in this annual report on form k 
+the selected statements of operations and the selected balance sheet data are derived from our audited financial statements 
+the historical results presented below are not necessarily indicative of the results to be expected in any future period 
+year ended march  in thousands  except per share data statement of operations data revenues software services total revenues cost of revenues software services total cost of revenues gross margin operating expenses sales and marketing research and development general and administrative depreciation and amortization income from operations interest expense interest income income before income taxes income tax expense net income net income per common share basic diluted weighted average shares used in computing per share amounts basic diluted as of march  in thousands balance sheet data cash and cash equivalents short term investments working capital total assets total stockholders equity 
+table of contents item management s discussion and analysis of financial condition and results of operations you should read the following discussion and analysis along with our consolidated financial statements and the related notes included elsewhere in this annual report on form k 
+the statements in this discussion regarding our expectations of our future performance  liquidity and capital resources  and other non historical statements are forward looking statements 
+these forward looking statements are subject to numerous risks and uncertainties  including  but not limited to  the risks and uncertainties described under risk factors and elsewhere in this annual report on form k 
+our actual results may differ materially from those contained in or implied by any forward looking statements 
+overview we are a leading provider of data and information management software applications and related services in terms of product breadth and functionality and market penetration 
+we develop  market and sell a unified suite of data and information management software applications under the simpana brand 
+simpana software is built from the ground up on a single platform and unified code base for integrated data and information management 
+the simpana platform contains licensable modules that work together seamlessly  sharing a single code and common function set to deliver backup and recovery  archive  replication  search and analytic capabilities across physical  virtual and cloud environments 
+with a single platform approach  simpana software is specifically designed to protect  manage and access data throughout its lifecycle in less time  at lower cost and with fewer resources than alternative solutions 
+our product features and capabilities enable our customers to deploy solutions for data protection  business continuance  corporate compliance and centralized management and reporting 
+we also provide our customers with a broad range of professional services that are delivered by our worldwide support and field operations 
+as of march   we had licensed our software applications to approximately  registered customers 
+history and background in early  we launched commvault galaxy for backup and recovery  a storage industry award winner 
+in the years since  commvault has forged numerous alliances with top software application and hardware vendors  such as dell  hp  hitachi data systems  microsoft  network appliance  fujitsu  novell and oracle  to enhance capabilities and to create a premiere suite of data and information management solutions 
+in  we launched our single platform technology that provides the foundation of our information management approach to storing  managing  and accessing data 
+our simpana software suite is one product that contains the following licensable modules  all built on a single unified code base and platform to protect  manage and access data and information backup and recovery  archive  replication  search  and analyze 
+in addition to backup and recovery  the subsequent release of our other software application modules has substantially increased our addressable market 
+each application module can be used individually or in combination with other application modules from our single platform suite 
+in january  commvault simpana simpana was made available for public release 
+simpana included advances in recovery management  data reduction  virtual server protection and content organization 
+in addition  we believe that simpana met a broad spectrum of customer s discovery and recovery management requirements and eliminated the need for a myriad of point level products 
+in august  our commvault simpana software suite simpana was made available for public release 
+we believe that simpana  which built on and significantly expanded simpana  allows customers to deploy a modern data management solution to achieve gains in efficiency  cost optimization and scale 
+we believe that simpana solves real world it challenges with major technology advancements  including increased virtualization scalability and performance  integrated source and target data deduplication  automatic and transparent integration with hardware array based snapshots  as well as new tools that ease migration to our next generation simpana platform 
+
+table of contents in january  we released enhancements to our existing simpana software suite 
+these enhancements included new capabilities that converges backup  archive and reporting processes  additional snapprotect technology that delivers hardware snapshot integration  enhancements to virtual server protection  new innovations to protect data on laptops and desktops with embedded source deduplication for optimized efficiency  and new integration with microsoft sharepoint 
+in february  our commvault simpana software suite simpana was made available for public release 
+we believe simpana extends our data protection and archiving leadership to deliver secure  self service access from mobile devices  speed the adoption of cloud computing and extract value from big data 
+simpana includes major technology advancements such as enhanced intellisnap snapshot management  simpana onepass with exchange  tighter integration with microsoft hyper v  vmware vsphere and vcloud director  workflow automation  fourth generation parallel deduplication  and customizable web based reporting  dashboards and cloud based analytics 
+our simpana architecture efficiently stores all protected data in a virtual repository  called contentstore  and opens access to simplify the way end users search  analyze and repurpose data across an enterprise 
+our software licenses typically provide for a perpetual right to use our software and are sold on a capacity basis  on a per copy basis or as site licenses 
+during the fiscal year ended march   approximately of software license revenue was sold on a capacity basis 
+capacity based software licenses provide our customers with unlimited licenses of specified software products based on a defined level of terabytes of data under management 
+as a result  when we sell our platform through a capacity license  many of the various simpana functionalities are bundled into one capacity based price 
+we anticipate that capacity based licenses will continue to account for the majority of our software license revenue for the foreseeable future 
+the industry in which we currently operate continues to go through accelerating changes as the result of compounding data growth and the introduction of new technologies 
+we are continuing to pursue an aggressive product development program in both data and information management solutions 
+our data management solutions include not only traditional backup  but also new innovations in de duplication  data movement  virtualization  snap based backups and enterprise reporting 
+our information management innovations are primarily in the areas of archiving  ediscovery  records management  governance and compliance 
+we remain focused on both the data and information management trends in the marketplace and  in fact  a material portion of our existing research and development expenses are utilized toward the development of such new technologies discussed above 
+while we are confident in our ability to meet these changing industry demands with our simpana suite and potential future releases  the development  release and timing of any features or functionality remain at our sole discretion and our solutions or other technologies may not be widely adopted 
+the rapid growth of data  and the need to securely protect  manage and access this data is driving substantial opportunities for managed service providers msps to help organizations deploy and manage solutions that deliver data management capabilities 
+the result is reduced long term management costs with increased offerings to customers  which we believe represents a long term industry trend in the way that services are offered 
+given the nature of the industry in which we operate  our software applications are subject to obsolescence 
+as noted above  we continually develop and introduce updates to our existing software applications in order to keep pace with evolving industry technologies 
+in addition  we must address evolving industry standards  changing customer requirements and competitive software applications that may render our existing software applications obsolete 
+for each of our software applications  we provide full support for the current generally available release and one prior release 
+when we declare a product release obsolete  a customer notice is delivered twelve months prior to the effective date of obsolescence announcing continuation of full product support for the first six months 
+we provide an additional six months of extended assistance support in which we only provide existing workarounds or fixes that do not require additional development activity 
+we do not have existing plans to make any of our software products permanently obsolete 
+
+table of contents sources of revenues we derive a significant portion of our total revenues from sales of licenses of our software applications 
+we do not customize our software for a specific end user customer 
+we sell our software applications to end user customers both directly through our sales force and indirectly through our global network of value added reseller partners  systems integrators  corporate resellers and original equipment manufacturers 
+our software revenue was of our total revenues for fiscal  for fiscal and for fiscal in recent fiscal years  we have generated approximately two thirds of our software revenue from our existing customer base and approximately one third of our software revenue from new customers 
+in addition  our total software revenue in any particular period is  to a certain extent  dependent upon our ability to generate revenues from large customer software deals  which we refer to as enterprise software transactions 
+we expect the number of enterprise software transactions transactions greater than million and resulting software revenue to increase throughout fiscal  although the size and timing of any particular software transaction is more difficult to forecast 
+such software transactions represented approximately of our software revenue in fiscal  approximately of our software revenue in fiscal and approximately of our software revenue in fiscal software revenue generated through indirect distribution channels was of total software revenue in fiscal  in fiscal and in fiscal software revenue generated through direct distribution channels was of total software revenue in fiscal  in fiscal and in fiscal the dollar value of software revenue generated through indirect distribution channels increased approximately million  or  in fiscal compared to fiscal the dollar value of software revenue generated through direct distribution decreased million  or  in fiscal compared to fiscal the increase in the dollar value of software revenue growth generated through our indirect distribution channels compared to our direct sales force in fiscal is primarily the result of an increase in software revenue from our international operations  which is almost exclusively transacted through indirect distribution 
+the decrease in the dollar value of the software revenue generated through our direct sales channel is due to a lower value of direct enterprise transactions in the united states 
+deals initiated by our direct sales force are sometimes transacted through indirect channels based on end user customer requirements  which are not always in our control and can cause this overall percentage split to vary from fiscal year to fiscal year 
+as such  there may be fluctuations in the dollars and percentage of software revenue generated through our direct distribution channels from time to time 
+we believe that the growth of our software revenue  derived from both our indirect channel partners and direct sales force  are key attributes to our long term growth strategy 
+we will continue to invest in both our channel relationships and direct sales force in the future  but we continue to expect more revenue to be generated through indirect distribution channels over the long term 
+the failure of our indirect distribution channels or our direct sales force to effectively sell our software applications could have a material adverse effect on our revenues and results of operations 
+we have a worldwide reseller and an original equipment agreement with dell 
+our reseller agreement with dell provides them the right to market  resell and distribute certain of our products to their customers 
+our original equipment manufacturer agreement with dell is discussed more fully below 
+sales through our agreements with dell accounted for of our total revenues for fiscal  of our total revenues for fiscal and of our total revenues in fiscal in recent fiscal quarters  we have begun to shift most of our small and medium business segment transactions to non dell distribution partners as dell is now focused on this segment of the market with their own intellectual property 
+as a result  the majority of the revenue that is still transacted through dell comes from add on purchases from our existing install base and from new enterprise software transactions where our sales force is directly involved 
+we have also recently begun to take proactive steps to broaden our distribution related to enterprise software transactions 
+over time  we believe it is likely that these actions will result in a decline in the percentage of our total revenues transacted through dell 
+due to the timing of enterprise software transactions that are currently in our sales and marketing pipeline  there will likely be some fluctuations in the amount of revenue transacted through dell from quarter to quarter 
+
+table of contents in may  we entered into a global oem agreement with netapp under which netapp will integrate elements of our simpana software suite with netapp snapshot and replication technology  under the netapp snapprotect brand 
+during the fiscal years ended march  and march   we did not recognize a material amount of revenue under our oem agreement with netapp 
+overall  we have original equipment manufacturer agreements primarily with dell  hitachi data systems and netapp for them to market  sell and support our software applications and services on a stand alone basis and or incorporate our software applications into their own hardware products 
+dell  hitachi data systems and netapp have no obligation to recommend or offer our software applications exclusively or at all  and they have no minimum sales requirements and can terminate our relationship at any time 
+a material portion of our software revenue is sometimes generated through our original equipment manufacturer agreements 
+sales through our original equipment manufacturer agreements accounted for of our total revenues for fiscal  of our total revenues for fiscal and of our total revenues for fiscal we also have non exclusive distribution agreements covering our north american commercial markets and our us federal government market with arrow enterprise computing solutions  inc arrow  a subsidiary of arrow electronics  inc  and avnet technology solutions avnet  a subsidiary of avnet  inc pursuant to these distribution agreements  these distributors primary role is to enable a more efficient and effective distribution channel for our products and services by managing our reseller partners and leveraging their own industry experience 
+we generated approximately of our total revenues through arrow in fiscal  approximately of our total revenues in fiscal and approximately of our total revenues in fiscal avnet s total revenue contribution was not material in fiscal  or if arrow or avnet were to discontinue or reduce the sales of our products or if our agreement with arrow or avnet was terminated  and if we were unable to take back the management of our reseller channel or find another north american distributor to replace arrow or avnet  then it could have a material adverse effect on our future revenues 
+we also derive a significant portion of our total revenues from services revenue 
+our services revenue is made up of fees from the delivery of customer support and other professional services  which are typically sold in connection with the sale of our software applications 
+customer support agreements provide technical support and unspecified software updates on a when and if available basis for an annual fee based on licenses purchased and the level of service subscribed 
+other professional services include consulting  assessment and design services  implementation and post deployment services and training  all of which to date have predominantly been sold in connection with the sale of software applications 
+our services revenue was of our total revenues for fiscal  for fiscal and for fiscal the gross margin of our services revenue was for fiscal  for fiscal and for fiscal the decrease in the gross margin of our services revenue in the fiscal year ended march  compared to the fiscal year ended march  was primarily due to higher costs of services associated with the expansion of our worldwide customer support operations 
+overall  our services revenue has lower gross margins than our software revenue 
+the gross margin of our software revenue was for fiscal  for fiscal and for fiscal an increase in the percentage of total revenues represented by services revenue may adversely affect our overall gross margins 
+description of costs and expenses our cost of revenues is as follows cost of software revenue  consists primarily of third party royalties and other costs such as media  manuals  translation and distribution costs  and cost of services revenue  consists primarily of salary and employee benefit costs in providing customer support and other professional services 
+
+table of contents our operating expenses are as follows sales and marketing  consists primarily of salaries  commissions  employee benefits  stock based compensation and other direct and indirect business expenses  including travel and related expenses  sales promotion expenses  public relations expenses and costs for marketing materials and other marketing events such as trade shows and advertising  research and development  which is primarily the expense of developing new software applications and modifying existing software applications  consists principally of salaries  stock based compensation and benefits for research and development personnel and related expenses  contract labor expense and consulting fees as well as other expenses associated with the design  certification and testing of our software applications  and legal costs associated with the patent registration of such software applications  general and administrative  consists primarily of salaries  stock based compensation and benefits for our executive  accounting  human resources  legal  information systems and other administrative personnel 
+also included in this category are other general corporate expenses  such as outside legal and accounting services  compliance costs and insurance  and depreciation and amortization  consists of depreciation expense primarily for computer equipment we use for information services and in our development and test labs 
+we anticipate that each of the above categories of operating expenses will increase in dollar amounts  but will decline as a percentage of total revenues in the long term 
+foreign currency exchange rates impact on results of operations sales outside the united states were approximately of our total revenue for fiscal  for fiscal and for fiscal the income statements of our non us operations are translated into us dollars at the average exchange rates for each applicable month in a period 
+to the extent the us dollar weakens against foreign currencies  the translation of these foreign currency denominated transactions generally results in increased revenue  operating expenses and income from operations for our non us operations 
+similarly  our revenue  operating expenses and net income will generally decrease for our non us operations if the non us dollar strengthens against foreign currencies 
+using the average foreign currency exchange rates from the corresponding fiscal period  our total revenues  cost of revenues and operating expenses from non us operations for fiscal would have been higher by approximately million  million and million  respectively 
+using the average foreign currency exchange rates from the corresponding fiscal period  our total revenues  cost of revenues and operating expenses from non us operations for fiscal would have been lower by approximately million  million and million  respectively 
+in addition  we are exposed to risks of foreign currency fluctuation primarily from cash balances  accounts receivables and intercompany accounts denominated in foreign currencies and are subject to the resulting transaction gains and losses  which are recorded as a component of general and administrative expenses 
+we recognized net foreign currency transaction losses of million  million  and million in fiscal  and  respectively 
+critical accounting policies in presenting our consolidated financial statements in conformity with us generally accepted accounting principles  we are required to make estimates and judgments that affect the amounts reported therein 
+some of the estimates and assumptions we are required to make relate to matters that are inherently uncertain as they 
+table of contents pertain to future events 
+we base these estimates on historical experience and on various other assumptions that we believe to be reasonable and appropriate 
+actual results may differ significantly from these estimates 
+the following is a description of our accounting policies that we believe require subjective and complex judgments  which could potentially have a material effect on our reported financial condition or results of operations 
+revenue recognition our revenue recognition policy is based on complex rules that require us to make significant judgments and estimates 
+in applying our revenue recognition policy  we must determine which portions of our revenue are recognized currently generally software revenue and which portions must be deferred and recognized in future periods generally services revenue 
+we analyze various factors including  but not limited to  the sales of undelivered services when sold on a stand alone basis  our pricing policies  the credit worthiness of our customers and resellers  accounts receivable aging data and contractual terms and conditions in helping us to make such judgments about revenue recognition 
+changes in judgment on any of these factors could materially impact the timing and amount of revenue recognized in a given period 
+currently  we derive revenues from two primary sources software licenses and services 
+services include customer support  consulting  assessment and design services  installation services and training 
+a typical sales arrangement includes both of these sources 
+for sales arrangements involving multiple elements  we recognize revenue using the residual method 
+under the residual method  we allocate and defer revenue for the undelivered elements based on fair value and recognize the difference between the total arrangement fee and the amount deferred for the undelivered elements as revenue 
+the determination of fair value of the undelivered elements in multiple element arrangements is based on the price charged when such elements are sold separately  which is commonly referred to as vendor specific objective evidence vsoe 
+our software licenses typically provide for a perpetual right to use our software and are sold on a per copy basis  on a capacity basis or as site licenses 
+software licenses sold on a capacity basis provide the customer with unlimited licenses of specified software products based on a defined level of terabytes of data under management 
+site licenses give the customer the additional right to deploy the software on a limited basis during a specified term 
+we recognize software revenue through direct sales channels upon receipt of a purchase order or other persuasive evidence and when the other three basic revenue recognition criteria are met as described in the revenue recognition section in note of our notes to consolidated financial statements 
+we recognize software revenue through all indirect sales channels on a sell through model 
+a sell through model requires that we recognize revenue when the basic revenue recognition criteria are met and these channels complete the sale of our software products to the end user 
+revenue from software licenses sold through an original equipment manufacturer partner is recognized upon the receipt of a royalty report or purchase order from that original equipment manufacturer partner 
+services revenue includes revenue from customer support and other professional services 
+customer support includes software updates on a when and if available basis  telephone support  integrated web based support and bug fixes or patches 
+customer support revenue is recognized ratably over the term of the customer support agreement  which is typically one year 
+to determine the price for the customer support element when sold separately  we primarily use historical renewal rates 
+historical renewal rates are supported by a rolling month vsoe analysis in which we segregate our customer support renewal contracts into different classes based on specific criteria including  but not limited to  dollar amount of software purchased  level of customer support being provided and distribution channel 
+the purpose of such an analysis is to determine if the customer support element that is deferred at the time of a software sale is consistent with how it is sold on a stand alone renewal basis 
+
+table of contents our other professional services include consulting  implementation and post deployment services  and education services 
+other professional services provided by us are not mandatory and can also be performed by the customer or a third party 
+in addition to a signed purchase order  our consulting  assessment and design services and installation services are  in some cases  evidenced by a statement of work  which defines the specific scope of the services to be performed when sold and performed on a stand alone basis or included in multiple element sales arrangements 
+revenues from consulting  assessment and design services and installation services are based upon a daily  weekly or monthly rate and are recognized when the services are completed 
+training includes courses taught by our instructors or third party contractors either at one of our facilities or at the customer s site 
+training fees are recognized as revenue after the training course has been provided 
+based on our analysis of such other professional services transactions sold on a stand alone basis  we have concluded we have established vsoe for such other professional services when sold in connection with a multiple element sales arrangement 
+in summary  we have analyzed all of the undelivered elements included in our multiple element sales arrangements and determined that we have vsoe of fair value to allocate revenues to services 
+our analysis of the undelivered elements has provided us with results that are consistent with the estimates and assumptions used to determine the timing and amount of revenue recognized in our multiple element sales arrangements 
+accordingly  assuming all basic revenue recognition criteria are met  software revenue is recognized upon delivery of the software license using the residual method 
+we are not likely to materially change our pricing and discounting practices in the future 
+our sales arrangements generally do not include acceptance clauses 
+however  if an arrangement does include an acceptance clause  we defer the revenue for such an arrangement and recognize it upon acceptance 
+acceptance occurs upon the earliest of receipt of a written customer acceptance  waiver of customer acceptance or expiration of the acceptance period 
+stock based compensation as of march   we maintain two stock incentive plans  which are described more fully in note of our notes to consolidated financial statements 
+we account for our stock incentive plans based on the grant date fair value recognition provisions in accordance with asc we estimated the fair value of stock options granted using the black scholes formula 
+the fair value of restricted stock units awarded is determined based on the number of shares granted and the closing price of our common stock on the date of grant 
+compensation for all share based payment awards is recognized on a straight line basis over the requisite service period of the awards  which is generally the vesting period 
+forfeitures are estimated based on a historical analysis of our actual stock award forfeitures 
+we anticipate that future grants under our stock incentive plans will include both non qualified stock options and restricted stock units 
+the average expected life for fiscal was determined according to the simplified method  which is the mid point between the vesting date and the end of the contractual term 
+during fiscal  we began incorporating our historical data into the expected term calculation for stock options granted 
+we are now able to demonstrate significant stock option exercise activity for options granted subsequent to our initial public offering to provide a reasonable basis for incorporating historical data into our expected term of future stock option grants 
+as a result  for twelve months ended march   our calculation of expected term includes a combination of actual exercise data and an assumption on when the remaining outstanding options with similar characteristics will be exercised based on our historical data 
+in determining expected life  we separate employees into groups that have historically exhibited similar behavior with regard to option exercises 
+expected volatility through september  was calculated based on a blended approach that included the historical volatility of a peer group  the implied volatility of the our traded options with a remaining maturity greater than six months and the historical realized volatility of our common stock 
+effective october   we excluded the historical volatility of a peer group in our expected volatility calculation due to the fact that our 
+table of contents common stock has been publicly traded for a period that approximates our weighted average expected term 
+as a result  expected volatility subsequent to october  was calculated based on a blended approach that included the implied volatility of our traded options with a remaining maturity greater than six months and the historical realized volatility of our common stock 
+the risk free interest rate is determined by reference to us treasury yield curve rates with a remaining term that is approximately the expected life assumed at the date of grant 
+forfeitures are estimated based on our historical analysis of actual stock option forfeitures 
+the assumptions used in the black scholes option pricing model in the fiscal years ended march  and are as follows year ended march  dividend yield none none expected volatility weighted average expected volatility risk free interest rates weighted average expected life in years the weighted average fair value of stock options granted was per option during the year ended march  and per option during the year ended march  in addition  the weighted average fair value of restricted stock units awarded was per share during the year ended march  and per share during the year ended march  as of march   there was approximately million of unrecognized stock based compensation expense  net of estimated forfeitures  related to non vested stock option and restricted stock unit awards that is expected to be recognized over a weighted average period of years 
+the intrinsic value of the options outstanding as of march  was million  of which million related to vested options and million related to unvested options 
+we anticipate that future grants under our stock incentive plans will include both non qualified stock options and restricted stock units 
+accounting for income taxes as part of the process of preparing our financial statements  we are required to estimate our income taxes in each of the jurisdictions in which we operate 
+this process involves estimating our actual current tax exposure  including assessing the risks associated with tax audits  and assessing temporary differences resulting from different treatment of items for tax and accounting purposes 
+these differences result in deferred tax assets and liabilities 
+as of march   we had net deferred tax assets of approximately million  which were primarily related to federal and state research tax credit carryforwards  stock based compensation and foreign net operating loss carryforwards 
+we assess the likelihood that our deferred tax assets will be recovered from future taxable income  and to the extent that we believe recovery is not likely  we establish a valuation allowance 
+as of march   we maintain a valuation allowance against our deferred tax assets totaling million 
+substantially all of the valuation allowance we have recorded at march  is against new jersey state research tax credits due to uncertainties related to the ability to utilize such state research tax credits before they expire 
+we based our valuation allowance on our estimates of taxable income by legal entity and the period over which our state research tax credits will be recoverable 
+
+table of contents at march   we have state net operating loss nol carryforwards of approximately million and also have nol carryforwards for foreign tax purposes of approximately million 
+at march   we have federal and state research tax credit r d carryforwards of approximately million and million  respectively 
+the federal research tax credit carryforwards expire from through  and the state research tax credit carryforwards expire from through at march   we have federal alternative minimum tax credit carryforwards of million 
+as of march   we had unrecognized tax benefits of million  all of which  if recognized  would favorably affect the effective tax rate 
+in addition  we have accrued interest and penalties of million related to the unrecognized tax benefits 
+interest and penalties  if any  related to unrecognized tax benefits are recorded in income tax expense 
+components of the reserve are classified as either current or long term in the consolidated balance sheet based on when we expect each of the items to be settled 
+accordingly  our unrecognized tax benefits of million and the related accrued interest and penalties of million are included in other liabilities on the consolidated balance sheet 
+we believe that it is reasonably possible that approximately million of our currently remaining unrecognized tax benefits and approximately less than million of related accrued interest and penalties may be realized by the end of fiscal as a result of the lapse of the statute of limitations 
+we conduct business globally and as a result  file income tax returns in the united states and in various state and foreign jurisdictions 
+in the normal course of business  we are subject to examination by taxing authorities throughout the world  including such major jurisdictions as the united states  australia  canada  germany  netherlands and united kingdom 
+our us federal income tax return for the fiscal year ended march  is currently under audit by the us internal revenue service 
+in addition  our german subsidiary s income tax returns for the fiscal years ended march  through march  are currently under audit by the german tax authorities 
+the following table summarizes the tax years in the major tax jurisdictions that remain subject to income tax examinations by tax authorities as of march  the years subject to income tax examination in our foreign jurisdictions cover the maximum time period with respect to these jurisdictions 
+due to nol carryforwards  in some cases the tax years continue to remain subject to examination with respect to such nols 
+tax jurisdiction years subject to income tax examination us federal present new jersey present foreign jurisdictions present software development costs research and development expenditures are charged to operations as incurred 
+based on our software development process  technological feasibility is established upon completion of a working model  which also requires certification and extensive testing 
+costs incurred by us between completion of the working model and the point at which the product is ready for general release are immaterial 
+
+table of contents results of operations the following table sets forth each of our sources of revenues and costs of revenues for the specified periods as a percentage of our total revenues for those periods due to rounding numbers in column may not sum to totals year ended march  revenues software services total revenues cost of revenues software services total cost of revenues gross margin fiscal year ended march  compared to fiscal year ended march  revenues total revenues increased million  or  from million in fiscal to million in fiscal software revenue 
+software revenue increased million  or  from million in fiscal to million in fiscal software revenue represented of our total revenues in fiscal compared to in fiscal the overall increase in software revenue was primarily driven by higher enterprise software transactions transactions greater than million  which increased by million  or in fiscal compared to fiscal as a result  enterprise software transactions represented approximately of our software revenue in fiscal and approximately of our software revenue in fiscal the increase in enterprise software transactions is due to both a increase in the number of transactions of this type and a increase in the average dollar amount of such transactions 
+the average dollar amount of enterprise transactions was approximately  in fiscal and approximately  in fiscal software revenue derived from transactions less than million increased million  or  in fiscal compared to fiscal software revenue derived from our international operations in fiscal increased compared to fiscal the growth in software revenue in our international locations is primarily due to increases in canada  europe and australia as we expand our international operations 
+software revenue derived from the united states in fiscal increased compared to fiscal software revenue derived from our indirect distribution channel resellers and original equipment manufacturers increased million  or in fiscal compared to fiscal  and software revenue through our direct sales force decreased million  or in fiscal compared to fiscal the increase in the dollar value of the software revenue through our indirect distribution channel is primarily due to the increase in software revenue generated in foreign locations  which is substantially sold through our channel partners 
+the decrease in the dollar value of the software revenue generated through our direct sales channel is due to a lower value of direct enterprise transactions in the united states 
+software revenue that is derived from both our indirect channel partners and direct sales force are key attributes to our long term growth strategy 
+we 
+table of contents will continue to invest in both our channel relationships and direct sales force in the future  but we continue to expect more revenue to be generated through indirect distribution channels over the long term as more fully discussed above in the sources of revenue section 
+services revenue 
+services revenue increased million  or  from million in fiscal to million in fiscal services revenue represented of our total revenues in fiscal compared to in fiscal the increase in services revenue is primarily due to a million increase in revenue from customer support agreements as a result of software sales to new customers and renewal agreements with our installed software base 
+cost of revenues total cost of revenues increased million  or  from million in fiscal to million in fiscal total cost of revenues represented of our total revenues in both fiscal and fiscal cost of software revenue 
+cost of software revenue increased approximately million  or  from million in fiscal to million in fiscal cost of software revenue represented of our total software revenue in both fiscal and fiscal the increase in cost of software revenue is primarily due to higher third party royalty costs associated with our simpana software suite in fiscal compared to fiscal cost of services revenue 
+cost of services revenue increased million  or  from million in fiscal to million in fiscal cost of services revenue represented of our services revenue in both fiscal and fiscal the increase in the dollar amount of cost of services revenue is primarily the result of higher employee compensation and travel expenses totaling approximately million as well as a million increase in third party outsourcing costs to facilitate our delivery of services 
+operating expenses sales and marketing 
+sales and marketing expenses increased million  or  from million in fiscal to million in fiscal the increase is primarily due to a million increase in employee compensation and related expenses attributable to the expansion of our sales force from the prior year 
+the increase in sales and marketing expenses also includes a million increase in advertising and marketing related expense as we continue to build brand awareness for our simpana products and a million increase in stock based compensation expenses 
+sales and marketing expenses as a percentage of total revenues decreased to in fiscal compared to in fiscal  primarily due to cost containment in our field operations  as well as our sales segmentation strategy that we implemented at the beginning of fiscal  which aligned our sales and marketing team as we penetrate the enterprize segment 
+research and development 
+research and development expenses increased million  or  from million in fiscal to million in fiscal the increase is primarily due to higher salary and related expenses resulting from the expansion of our engineering group and higher fiscal bonus expense totaling approximately million 
+the increase in research and development also includes a million increase in stock based compensation expenses and a million increase in legal fees 
+research and development expenses as a percentage of total revenues remained flat at in both fiscal and fiscal investing in research and development has been a priority for commvault  and we anticipate continued spending related to the development of our data and information management software applications 
+general and administrative 
+general and administrative expenses increased million  or  from million in fiscal to million in fiscal this increase is primarily due to a million increase in stock based compensation expenses  a million increase in employee and related compensation due to higher headcount and higher fiscal bonus expense and a million increase in settlement reserves 
+
+table of contents general and administrative expenses in fiscal includes million of net foreign currency transaction losses compared to million of net foreign currency transaction losses recognized in general and administrative expenses in fiscal general and administrative expenses as a percentage of total revenues remained flat at in both fiscal and fiscal depreciation and amortization 
+depreciation expense increased million  from million in fiscal to million in fiscal this reflects higher depreciation associated with increased capital expenditures primarily over the past months as we continue to expand our worldwide operations 
+interest income interest income increased million  from million in fiscal to million in fiscal the increase in interest income is primarily due to higher balances in our cash and related investment accounts 
+income tax expense income tax expense was million in fiscal compared to million in fiscal the effective tax rate in fiscal was as compared to in fiscal in fiscal  the effective rate was benefited by the reenactment of the research and development credit which had previously expired on december  and includes an additional benefit related to periods prior to march  as tax law is accounted for in the period of enactment 
+in addition  the effective rate was benefited by foreign tax credits  offset by state income taxes and permanent differences in both the united states and foreign jurisdictions 
+in fiscal  the effective rate was higher than the expected federal statutory rate of primarily due to state income taxes and permanent differences in both the united states and foreign jurisdictions  partially offset by income tax benefits from recording research and foreign tax credits  domestic production activities deductions  and reversing million of our valuation allowance against new jersey state research tax credits due to the passage of state laws 
+fiscal year ended march  compared to fiscal year ended march  revenues total revenues increased million  or  from million in fiscal to million in fiscal software revenue 
+software revenue increased million  or  from million in fiscal to million in fiscal software revenue represented of our total revenues in fiscal compared to in fiscal the overall increase in software revenue was primarily driven by higher enterprise software transactions transactions greater than million  which increased by million in fiscal compared to fiscal as a result  enterprise software transactions represented approximately of our software revenue in fiscal and approximately of our software revenue in fiscal the increase in enterprise software transactions is due to both a increase in the number of transactions of this type and a increase in the average dollar amount of such transactions 
+the average dollar amount of enterprise transactions was approximately  in fiscal and approximately  in fiscal software revenue derived from transactions less than million increased million  or  in fiscal compared to fiscal software revenue derived from the united states in fiscal increased compared to fiscal and software revenue derived from our international operations in fiscal increased compared to fiscal the growth in software revenue in our international locations is primarily due to increases in europe  australia and canada as we expand our international operations 
+
+table of contents software revenue derived from our indirect distribution channel resellers and original equipment manufacturers increased million in fiscal compared to fiscal  and software revenue through our direct sales force increased million in fiscal compared to fiscal the increase in the dollar value of the software revenue through our indirect distribution channel is primarily due to the increase in software revenue generated in foreign locations  which is substantially sold through our channel partners 
+the increase in the dollar value of the software revenue through our direct sales channel is primarily due certain of our enterprise software transactions in the united states in the first quarter and fourth quarter of fiscal being sold through our direct sales channel 
+software revenue that is derived from both our indirect channel partners and direct sales force are key attributes to our long term growth strategy 
+we will continue to invest in both our channel relationships and direct sales force in the future  but we continue to expect more revenue to be generated through indirect distribution channels over the long term as more fully discussed above in the sources of revenue section 
+services revenue 
+services revenue increased million  or  from million in fiscal to million in fiscal services revenue represented of our total revenues in fiscal compared to in fiscal the increase in services revenue is primarily due to a million increase in revenue from customer support agreements as a result of software sales to new customers and renewal agreements with our installed software base 
+cost of revenues total cost of revenues increased million  or  from million in fiscal to million in fiscal total cost of revenues represented of our total revenues in both fiscal and fiscal cost of software revenue 
+cost of software revenue increased approximately million  or  from million in fiscal to million in fiscal cost of software revenue represented of our total software revenue in fiscal and of our total software revenue in fiscal the increase in cost of software revenue is primarily due to higher third party royalty costs associated with our simpana software suite in fiscal compared to fiscal cost of services revenue 
+cost of services revenue increased million  or  from million in fiscal to million in fiscal cost of services revenue represented of our services revenue in fiscal compared to in fiscal the increase in the cost of services as a percentage of total services revenue in fiscal compared to fiscal was primarily due to a higher percentage of our services revenue being derived from professional services engagements as well as higher costs of services associated with the expansion of our worldwide customer support operations 
+the increase in the dollar amount of cost of services revenue is primarily the result of higher employee compensation and travel expenses totaling approximately million as well as a million increase in third party outsourcing costs to facilitate our delivery of services 
+operating expenses sales and marketing 
+sales and marketing expenses increased million  or  from million in fiscal to million in fiscal the increase is primarily due to a million increase in employee compensation and related expenses attributable to the expansion of our sales force from the prior year as well as higher commissions expense due to record revenues and higher headcount 
+the increase in sales and marketing expenses also includes million in higher travel and related expenses due to the expansion of our sales force  a million increase in stock based compensation expenses and a million increase in advertising and marketing related expenses as we continue to build brand awareness for our simpana software products 
+sales and marketing expenses as a percentage of total revenues increased to in fiscal compared to in fiscal 
+table of contents research and development 
+research and development expenses increased million  or  from million in fiscal to million in fiscal the increase is primarily due to higher salary and related expenses resulting from the expansion of our engineering group and higher fiscal bonus expense totaling approximately million 
+research and development expenses as a percentage of total revenues decreased to in fiscal from in fiscal investing in research and development has been a priority for commvault  and we anticipate continued spending related to the development of our data and information management software applications 
+general and administrative 
+general and administrative expenses increased million  or  from million in fiscal to million in fiscal this increase is primarily due to a million increase in employee and related compensation due to higher headcount and higher fiscal bonus expense as well as a million increase in stock based compensation expenses 
+these increases were partially offset by lower net foreign currency transaction losses of million 
+general and administrative expenses in fiscal includes million of net foreign currency transaction losses compared to million of net foreign currency transaction losses recognized in general and administrative expenses in fiscal general and administrative expenses as a percentage of total revenues decreased to in fiscal from in fiscal depreciation and amortization 
+depreciation expense increased million  from million in fiscal to million in fiscal this reflects higher depreciation associated with increased capital expenditures primarily over the past months as we expand our worldwide operations 
+interest income interest income increased million  from million in fiscal to million in fiscal the increase in interest income is primarily due to higher balances in our cash and related investment accounts 
+income tax expense income tax expense was million in fiscal compared to million in fiscal the effective tax rate in fiscal was as compared to in fiscal in fiscal  the effective rate is higher than the expected federal statutory rate of primarily due to state income taxes and permanent differences in both the united states and foreign jurisdictions  partially offset by income tax benefits from recording research and foreign tax credits  domestic production activities deductions  and reversing million of our valuation allowance against new jersey state research tax credits due to the passage of state laws 
+in fiscal  the effective rate is higher than the expected federal statutory rate of primarily due to recording a valuation allowance against new jersey research tax credits as well as the impact of state income taxes and permanent differences in both the united states and foreign jurisdictions 
+these items were partially offset by the reversal of certain tax reserves as a result of the expiration of a statute of limitations in a foreign jurisdiction as well as recording additional research tax credits 
+liquidity and capital resources as of march   our cash and cash equivalents balance of million primarily consisted of money market funds 
+in addition  we have approximately million of short term investments invested in certificates of deposit at march  in recent fiscal years  our principal sources of liquidity have been cash provided by operations 
+as of march   the amount of cash and cash equivalents held outside of the united states by our foreign legal entities was approximately million 
+these balances are dispersed across many international locations around the world 
+we believe that such dispersion meets the current and anticipated future liquidity needs of our foreign legal entities 
+in addition  it is our intention to indefinitely reinvest undistributed earnings of our foreign legal entities 
+in the event we needed to repatriate funds from outside of the united states  such 
+table of contents repatriation would likely be subject to restrictions by local laws and or tax consequences including foreign withholding taxes or us income taxes 
+it is not currently practical to estimate the legal restrictions or tax liability that would arise from such repatriations 
+as of march  we are authorized to repurchase up to a total of million of our common stock through march  under our stock repurchase program 
+under our stock repurchase program  repurchased shares are constructively retired and returned to unissued status 
+our stock repurchase program has been funded by our existing cash and cash equivalent balances as well as cash flows provided by our operations 
+there were no repurchases of our common stock during fiscal as of march   we have repurchased approximately million  or million shares  under our stock repurchase plan at an average purchase price of per share 
+as a result  we may repurchase an additional million of our common stock through march  the primary business reason for our stock repurchase program is to reduce the dilutive impact on our common shares outstanding associated with stock option exercises and our previous public and private stock offerings 
+under our stock repurchase program  we have bought back approximately of the common stock that was outstanding at the time the stock repurchase program was announced 
+in addition  at the time we implemented our stock repurchase program in late fiscal we believed that our share price was undervalued and the best use for a portion of our cash balance was to repurchase some of our outstanding common stock 
+our future stock repurchase activity is subject to the business judgment of our management and board of directors  taking into consideration our historical and projected results of operations  financial condition  cash flows and other anticipated capital requirements or investment alternatives 
+on january   we closed on a purchase of land located in tinton falls  new jersey for our future corporate campus headquarters to support the long term growth of our business 
+we are in the process of completing the design and construction of the headquarters  which we expect to finalize over approximately the next years 
+our estimate of the build out  including the land purchase  building and campus infrastructure  is approximately million to million 
+we expect to fund this capital expenditure from our existing cash and cash equivalent balances and our cash generated from operations 
+our summarized annual cash flow information is as follows in thousands year ended march  net cash provided by operating activities net cash provided by used in investing activities net cash provided by used in financing activities effects of exchange rate changes in cash net increase in cash and cash equivalents net cash provided by operating activities was million in fiscal  million in fiscal and million in fiscal in fiscal  cash generated by operating activities was primarily due to net income adjusted for the impact of non cash charges  an increase in deferred services revenue as a result of customer support agreements from new customers and renewal agreements with our installed software base  and an increase in accrued liabilities 
+these increases were partially offset by an increase in accounts receivable due to higher revenues and timing of cash receipts 
+in fiscal and fiscal  cash generated by operating activities was primarily due to net income adjusted for the impact of non cash charges  an increase in deferred services revenue as a result of customer support agreements from new customers and renewal agreements with our installed software base  and an increase in accrued liabilities 
+
+table of contents net cash provided by used in investing activities was million in fiscal  million in fiscal and less than million in fiscal in fiscal  cash used in investing activities was due to the purchase of property and equipment in the amounts of million for purchases relating to our new corporate campus headquarters and million of capital expenditures as we continue to invest in and enhance our global infrastructure 
+these increases were partially offset by net proceeds from the maturity of short term investments of million 
+in fiscal  cash used in investing activities was due to the purchase of property and equipment of million related to growth in our business as well as the net purchases of short term investments of million 
+in fiscal  cash provided by investing activities was due to the net proceeds from maturity of short term investments of million offset by the purchase of property and equipment of million related to growth in our business 
+net cash provided by used in financing activities was million in fiscal  million in fiscal and million in fiscal the cash provided by financing activities in fiscal was due to million of excess tax benefits recognized as a result of stock option exercises and million of proceeds from the exercise of stock options 
+the cash used in financing activities in fiscal was due to million used to repurchase shares of our common stock under our repurchase program  partially offset by million of proceeds from the exercise of stock options and million of excess tax benefits recognized as a result of stock option exercises 
+the cash used in financing activities in fiscal was due to million used to repurchase shares of our common stock under our share repurchase program partially offset by million from the exercise of stock options and million of excess tax benefits recognized as the result of stock option exercises and vesting of restricted stock units 
+a summary of the cash used for the stock repurchase program consists of the following year ended march  cash used for repurchases in thousands shares repurchased in thousands average price per share based on settlement date  not trade date 
+working capital increased million from million as of march  to million as of march  the increase in working capital is primarily due to a million increase in cash and short term investments and a million increase in accounts receivable 
+these increases were partially offset by a million increase in deferred revenue and a million increase in accrued liabilities 
+the increase in cash and short term investments is primarily due to net income generated during the period  cash received from the collection of account receivables and cash received from the exercise of stock options 
+the increase in deferred revenue is primarily due to higher deferred services revenue from customer support agreements from software sales to new customers and renewal agreements with our installed software base 
+the increase in accrued expenses is primarily due to higher employee and related compensation accruals 
+working capital increased million from million as of march  to million as of march  the increase in working capital is primarily due to an million increase in cash and short term investments 
+these increases were partially offset by a million increase in deferred revenue  a million increase in accrued liabilities and a million decrease in accounts receivable 
+the increase in cash and short term investments is primarily due to net income generated during the period  cash received from the collection of account receivables and cash received from the exercise of stock options  partially offset by cash used to repurchase common stock during fiscal the increase in deferred revenue is primarily due to higher deferred services revenue from customer support agreements from software sales to new customers and renewal agreements with our installed software base 
+the increase in accrued expenses is primarily due to higher 
+table of contents employee and related compensation accruals and the decrease in accounts receivable is primarily due to strong collections efforts and timing of cash receipts 
+we believe that our existing cash  cash equivalents and our cash from operations will be sufficient to meet our anticipated cash needs for working capital  capital expenditures including our planned new corporate campus headquarters and potential stock repurchases for at least the next months 
+we may seek additional funding through public or private financings or other arrangements during this period 
+adequate funds may not be available when needed or may not be available on terms favorable to us  or at all 
+if additional funds are raised by issuing equity securities  dilution to existing stockholders will result 
+if we raise additional funds by obtaining loans from third parties  the terms of those financing arrangements may include negative covenants or other restrictions on our business that could impair our operational flexibility  and would also require us to fund additional interest expense 
+if funding is insufficient at any time in the future  we may be unable to develop or enhance our products or services  take advantage of business opportunities or respond to competitive pressures  any of which could have a material adverse effect on our business  financial condition and results of operations 
+summary disclosures about contractual obligations and commercial commitments our material capital commitments consist of obligations under facilities and operating leases 
+some of these leases have free or escalating rent payment provisions 
+we recognize rent expense under leases on a straight line basis 
+we anticipate that we will experience an increase in our capital expenditures and lease commitments as a result of our anticipated growth in operations  infrastructure  personnel and resources devoted to building our brand name 
+the following table summarizes our obligations as of march  dollars in thousands payments due by period total less than year years years more than years operating lease obligations purchase obligations total we generally do not enter into binding purchase obligations 
+the purchase obligations above relate primarily to marketing and software development services  it infrastructure costs and costs associated with the design and construction of our corporate campus headquarters 
+the contractual obligations table above excludes unrecognized tax benefits recorded in other liabilities totaling million because we cannot reasonably estimate in which future periods these amounts will ultimately be settled 
+the million is classified as a long term liability in our consolidated balance sheet as of march  as none of these obligations are anticipated to be paid within one year from april  as of march   we have an outstanding letter of credit for million issued in connection with a revenue transaction 
+this letter of credit will remain outstanding until september  we have certain software royalty commitments associated with the shipment and licensing of certain products 
+royalty expense is generally based on a fixed cost per unit shipped or a fixed fee for unlimited units shipped over a designated period 
+royalty expense  included in cost of software revenues  was million in fiscal  million in fiscal and million in fiscal we offer a day limited product warranty for our software 
+to date  costs relating to this product warranty have not been material 
+
+table of contents off balance sheet arrangements as of march  and  other than our operating leases  we do not have off balance sheet financing arrangements  including any relationships with unconsolidated entities or financial partnerships  such as entities often referred to as structured finance or special purpose entities 
+indemnifications certain of our software licensing agreements contain certain provisions that indemnify our customers from any claim  suit or proceeding arising from alleged or actual intellectual property infringement 
+these provisions continue in perpetuity along with our software licensing agreements 
+we have never incurred a liability relating to one of these indemnification provisions in the past and we believe that the likelihood of any future payout relating to these provisions is remote 
+therefore  we have not recorded a liability during any period related to these indemnification provisions 
+impact of recently issued accounting standards in february  the financial accounting standards board fasb issued accounting standards update no 
+ reporting of amounts reclassified out of accumulated other comprehensive income asu  which requires companies to present information about reclassification adjustments from accumulated other comprehensive income in their financial statements or footnotes 
+asu is effective for fiscal years and interim periods within those years beginning after december  the new requirements will take effect for us in the first quarter of fiscal and will be applied prospectively 
+we do not believe the adoption of asu will have a significant impact on our consolidated financial statements 
+in june  the fasb issued accounting standards update no 
+ comprehensive income topic presentation of comprehensive income asu  to require an entity to present the total of comprehensive income  the components of net income and the components of other comprehensive income either in a single continuous statement of comprehensive income or in two separate  but consecutive statements 
+asu eliminates the option to present the components of other comprehensive income as part of the statement of equity 
+asu became effective for us in the first quarter of fiscal and was applied retrospectively 
+there was no significant impact on our consolidated financial statements 
+the fasb also continues to work on a number of significant accounting rules which may impact our accounting and disclosures in future periods 
+since these rules have not yet been issued  the effective dates and potential impact are unknown 
+item a 
+quantitative and qualitative disclosures about market risk interest rate risk as of march   our cash  cash equivalent and short term investment balances consisted primarily of money market funds and certificates of deposit 
+due to the short term nature of these investments  we are not subject to any material interest rate risk on these balances 
+foreign currency risk economic exposure as a global company  we face exposure to adverse movements in foreign currency exchange rates 
+our international sales are generally denominated in foreign currencies and this revenue could be materially affected by currency fluctuations 
+approximately of our sales were outside the united states in fiscal and were outside the united states in fiscal our primary exposures are to fluctuations in exchange rates for the 
+table of contents us dollar versus the euro  and to a lesser extent  the australian dollar  british pound sterling  canadian dollar  chinese yuan  indian rupee  korean won and singapore dollar 
+changes in currency exchange rates could adversely affect our reported revenues and require us to reduce our prices to remain competitive in foreign markets  which could also have a material adverse effect on our results of operations 
+historically  we have periodically reviewed and revised the pricing of our products available to our customers in foreign countries and we have not maintained excess cash balances in foreign accounts 
+we estimate that a change in all foreign exchange rates would impact our reported operating profit by approximately million annually 
+this sensitivity analysis disregards the possibilities that rates can move in opposite directions and that losses from one geographic area may be offset by gains from another geographic area 
+transaction exposure our exposure to foreign currency transaction gains and losses is primarily the result of certain net receivables due from our foreign subsidiaries and customers being denominated in currencies other than the functional currency of the subsidiary 
+our foreign subsidiaries conduct their businesses in local currency and we generally do not maintain excess us dollar cash balances in foreign accounts 
+foreign currency transaction gains and losses are recorded in general and administrative expenses in the consolidated statements of income 
+we recognized net foreign currency transaction losses of approximately million in fiscal  million in fiscal and million in fiscal the net foreign currency transaction losses recorded in general and administrative expenses include settlement gains and losses on forward contracts disclosed below 
+to date  we have selectively hedged our exposure to foreign currency transaction gains and losses on the balance sheet through the use of forward contracts  which were not designated as hedging instruments 
+the duration of forward contracts utilized for hedging our balance sheet exposure is generally one to three months 
+as of march  and march   we did not have any forward contracts outstanding 
+we recorded net realized losses in general and administrative expenses of million in fiscal and net realized gains in general and administrative expenses of less than million in fiscal in the future  we may enter into additional foreign currency based hedging contracts to reduce our exposure to significant fluctuations in currency exchange rates on the balance sheet 
+
+table of contents 

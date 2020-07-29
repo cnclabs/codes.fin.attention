@@ -1,0 +1,565 @@
+item management s discussion and analysis of financial condition and results of operations  our belief that the ultimate resolution of various lawsuits and claims that are filed against the company in the ordinary course of business will not have a material adverse effect on the company s financial statements  and our valuation of our inventory based on our rolling forecast 
+the forward looking statements in this annual report on form k are subject to additional risks and uncertainties further discussed under item management s discussion and analysis of financial condition and results of operation factors that may affect results and financial condition and are based on information available to us on the date hereof 
+we assume no obligation to update any forward looking statement or statements 
+actual results  performance or outcomes may differ from current expectations 
+the reader should also consult the cautionary statements and risk factors listed from time to time in our reports on forms q  k and our k 
+
+table of contents part i item business overview we are a supplier of semiconductor manufacturing equipment and software to the global semiconductor industry 
+our primary product line is automated wafer probing equipment and related network software to manage information from that equipment 
+in conjunction with automated test systems from other suppliers  our semiconductor manufacturing customers use our wafer probers and network software to test semi conduction wafers for quality and to improve their productivity and control their processes  optimizing manufacturing efficiency 
+we were formed on april   to succeed the wafer prober business conducted by the electroglas division of general signal corporation  our former parent 
+immediately prior to the closing of the initial public offering of our common stock  or ipo  on july   we assumed the assets and liabilities of the electroglas division in the asset transfer 
+following our ipo  we commenced operations as an independent corporation 
+we  through our predecessors  have been in the semiconductor equipment business for more than years 
+we believe we are among the largest suppliers of wafer probers worldwide  having sold over  wafer probers 
+we have also been involved in the development  manufacture  marketing  and servicing of semiconductor wafer inspection products and process management software products as a result of two acquisitions we completed in in may  we acquired sunnyvale  california based knights technology  inc  or knights 
+in december  we acquired albany  oregon based techn systems  inc renamed electroglas inspection products 
+in january  we acquired statware inc  of corvallis  oregon  or statware  to further expand our product offerings in the process management area and in november  we combined the operations of knights  statware and the networking software section of the prober operations into a single operating division  called egsoft 
+as of december  we were organized into three operating divisions  the prober products division  or ppd  inspections products division and egsoft 
+in january  we reorganized the three operating divisions into one consolidated business unit combining the resources of all three divisions 
+additional information about electroglas is available on our web site at www 
+electroglas 
+com 
+electroglas makes available free of charge on our website our annual reports on form k  our quarterly reports on form q  our current reports on form k and amendments to those reports filed or furnished pursuant to section a or d of the securities exchange act of  as amended  as soon as reasonably practicable after we electronically file them with or furnish them to the securities exchange commission  or the sec 
+information contained on our web site is not part of this annual report on form k or our other filings with the sec 
+industry background semiconductor devices are fabricated by repeating a complex series of process steps on a substrate  or wafer  that is usually made of silicon 
+these wafers measure from mm to mm  or to inches  in diameter 
+wafers are typically sent through a series of to process steps 
+a finished wafer consists of many integrated circuits  each referred to as a device or die or chip  the number depending on the area of the circuits and the size of the wafer 
+manufacturers have increasingly utilized larger diameter wafers to achieve more cost effective production 
+the move to mm  inch  wafers began in the manufacture of semiconductor devices is very capital intensive 
+a typical state of the art facility  usually called a wafer fab  will cost more than billion 
+the purchase of semiconductor manufacturing equipment and spare parts  the integration of such equipment into production lines  and the training of employees on a particular supplier s equipment require significant expenditures by semiconductor manufacturers 
+wafer probing a wafer prober successively positions each die on the wafer so that the electrical contact points  or pads  on the die align under and make contact with probe pins  which are located on a probe card mounted on the wafer prober 
+the probe card  which is generally custom made by other suppliers for the specific device being tested  is 
+table of contents connected to a test system  also supplied by other suppliers  which performs the required parametric or functional test 
+parametric testing is performed during the wafer fabrication process  referred to as in line testing  and at the completion of the wafer fabrication process  referred to as end of line testing  to measure electrical parameters that verify the reliability of the wafer fabrication process 
+functional testing is performed after the completion of wafer fabrication to identify devices that do not conform to particular electrical specifications or performance criteria 
+this process is typically called wafer sort 
+wafers often go through several wafer probing steps during the manufacturing process 
+automatic wafer probers are primarily used during this wafer sort process  which occurs after the fabrication steps are completed and before the separation and packaging of each individual device 
+wafer probers are also increasingly used during in line parametric testing 
+in line testing requires special equipment features such as cleanroom compatibility and low noise electrical measurement capability  as tests are carried out during the fabrication process 
+this testing is done to verify the quality of the manufacturing process while wafers are in an unfinished state where corrective action can occur 
+a small number of probers are also used for research and development  and quality and process control applications 
+we estimate  based upon our experience  that wafer sort applications represent approximately of the market for automatic wafer probers 
+the remaining is divided between in line and end of line testing and laboratory applications 
+there is a growing trend for semiconductor manufacturers to contract with other companies to perform their wafer sort operations 
+these contract test companies  typically called test houses  perform the wafer testing service and often provide assembly and packing services as well 
+a semiconductor manufacturer typically purchases wafer probers when outfitting a new wafer fabrication facility or expanding an existing facility 
+wafer probers are also purchased to replace equipment in response to major changes in technology such as larger wafer sizes and greater device complexity 
+a semiconductor fabrication facility typically requires to probers to meet testing requirements on a timely basis 
+a test house may require hundreds of wafer probe systems to support the testing requirements of the companies that contract with them 
+post fab wafer inspection wafers typically undergo an optical inspection step before they are sent from the wafer sort operation to final assembly 
+this step identifies die with physical defects that may have passed electrical test  but are at risk of failure after the devices have been packaged 
+sorting die both optically and electrically improves product reliability while avoiding the cost of packaging marginal die 
+optical inspection on the sort floor is also used after wafer probe to determine whether the probe tips caused bond pad damage 
+wafer inspection tools automate this process of defect identification  defect classification  and feedback control processes 
+the tools can analyze each individual die on each wafer for defects and process excursions  identify the type of defect or pattern anomaly  measure the defect or anomaly  and pass the quantitative results to both upstream and downstream production machines 
+the requirement for automated inspection after the wafer manufacturing process is complete  or post fab is growing 
+both the cost of manual inspection and the changing technologies of the packaging process are driving the need for more detailed inspection and process control in the post fab environment 
+lightweight  portable electronic devices are driving the growth of new flip chip packaging technologies 
+unlike conventional packaging which uses fine gold wires to electrically connect the semiconductor chip to its package  flip chips utilize gold or solder bumps that are deposited onto bonding pads on the chip surface 
+the chips are then flipped into packages or directly onto printed circuit boards 
+flip chips take up much less space than conventional chips  and due to the elimination of the gold wires  flip chip packages generally operate at higher speeds 
+the use of flip chip packaging is expected to grow rapidly as memory  soc and other device types are required to operate at high speed and in tight spaces 
+wafer bumping is an expensive process  and the cost of flip chip packaging can be very high 
+bumps that are deformed  missing  and oversized or undersized will 
+table of contents cause the failure of flip chip devices 
+to avoid the cost of packaging defective chips  semiconductor manufacturers are turning to automated wafer inspection systems 
+automated inspection systems must be able to inspect every bump on every wafer in order for semiconductor manufacturers to control their wafer bumping processes and screen out defective chips prior to probing and packaging 
+an emerging application for post fab inspection is the micro electro mechanical systems mems device market 
+mems devices are miniaturized electromechanical devices such as switches  accelerometers  pressure sensors and inkjet printheads  which are fabricated using semiconductor manufacturing techniques 
+these mems devices need optical inspection to verify the small structures fabricated into the device 
+process management software software plays an important role in the ic manufacturing process 
+capital and operating costs of a fabrication facility are very high so semiconductor manufacturers are seeking ways to improve overall equipment efficiency oee  optimize yield and provide plant wide integration 
+manufacturers are seeking a total integrated software infrastructure to produce  correlate  manage  and analyze data throughout the production process 
+in a wafer sort area  network software is increasingly being used to manage wafer information  product specific recipes and equipment information 
+yield  or the percentage of good die that can be realized from a wafer  is a critical factor in determining the profitability of a production line  and often the semiconductor manufacturer as a whole 
+therefore  efforts to maximize the yield of each product line have become a key engineering priority at these companies 
+this has led to a growing need for tools that monitor and analyze defects 
+also  as defect problems are brought under control  there is an increased emphasis on operational efficiency 
+software tools are used to bring together fab process data  inspection results  electrical test data  and product test data to help determine which process zones or tools contribute most significantly to yield loss and to automate and optimize the operational efficiency of the semiconductor fabrication facility 
+the software provides a common location and format for presenting this data and doing cross correlation between data types for the purpose of yield enhancement analysis and process optimization 
+software tools also provide computerized interfaces and navigation capabilities for ic design  failure analysis fa  defect review and debugging 
+historically  much of the software used in this market is developed in house by the engineering group responsible for yield or through a dedicated software development group 
+this results in highly customized solutions that are inflexible and expensive to maintain 
+many organizations are now looking to third party providers of both standard and customizable solutions to lower their support costs  maximize their engineers productivity and increase the overall functionality of their analysis tools 
+our strategy we are a major supplier of wafer probers due to a combination of strengths  including a large installed base  advanced technical capabilities  close relationships with the leading manufacturers of integrated circuits  a broad line of high quality products  and a well established  highly qualified distribution organization 
+building on these capabilities  our strategy is comprised of the following key elements focus on wafer prober technological innovation 
+we are currently refocusing our efforts on our core business  wafer probing technology 
+as the semiconductor industry is in a major transition from mm wafers to mm wafers  we have invested heavily in research and development to add features and functionality to our mm wafer prober products as well as develop an entirely new  advanced wafer probing platform for the mm era 
+in addition  we have invested heavily to develop advanced networking software and applications to allow our wafer prober customers to more effectively manage their wafer sort operations 
+we expect to continue to invest in research and development of our wafer prober products to anticipate and address technological advances in semiconductor processing  and decrease our investments and efforts relating to our semiconductor wafer inspection products and our product management software products 
+
+table of contents expand our core wafer prober product lines 
+we intend to capitalize on our strong customer base and technical skills to further broaden existing product lines in our core prober business through internally developed products 
+maintain strong customer relationships 
+we have long standing relationships with our customers and intend to continue to strengthen our existing customer relationships by continuing to provide high levels of service and support 
+our development of products and product enhancements is market driven 
+engineering  sales and management personnel collaborate with customer counterparts to determine customers needs and specifications 
+emphasize quality products 
+we believe we have a strong reputation in providing high quality products 
+we were chosen as one of the best test and measurement equipment manufacturers for nine of the last ten years in an annual customer survey conducted by vlsi research  inc we have received quality awards from our customers and the sematech partnering for total quality award 
+we have a company wide quality program and received international organization for standardization iso certification in and iso certification in our new singapore manufacturing facility was iso certified in to the new iso standard and iso environmental standard 
+products wafer probers horizon series the u micro and the u fast probe are our primary offerings in the horizon series of wafer probers 
+this product line is positioned to satisfy high volume semiconductor manufacturing applications for mm and smaller wafers 
+the horizon series provides many advanced automation capabilities  including automatic probe to pad alignment  in process inspection and optical character recognition  or ocr 
+the systems can also be configured with a temperature controlled chuck top  providing the ability to precisely maintain a customer selected wafer temperature during testing 
+the u prober also offers an integrated mini environment and clean air system to provide a class probing environment 
+the u fast probe uses special technologies to reduce the system stepping time in applications where the die are very small and there is a very large number of devices on a wafer 
+in  we released a new version of our egcommander software  which runs under the window nt operating system 
+the user interface features color graphics  touch screen programming  probing recipes  control maps  and real time maps 
+the horizon series probers feature a distributed multiple processor architecture to maximize productivity and expandability 
+the eg introduced in  the eg is targeted at high end probing applications for mm wafers 
+the eg utilizes a unique probe centered z drive to provide very low deflections  even under extremely high probe forces 
+this is important when testing multi site or high pin count devices 
+the eg retains many of the features of the horizon series probers such as a linear motor and an air bearing positioning system 
+the eg uses the egcommander system software  which runs under the windows nt operating system 
+eg introduced in  the eg is a new generation of wafer prober from electroglas 
+it is targeted at the emerging mm wafer probing market 
+the eg utilizes a completely new system architecture that allows for faster and more accurate probing over the larger wafer sizes 
+closed loop motion control and linear motors ensure precise wafer positioning over a wide range of temperatures and operating conditions 
+a modular design allows for configuration flexibility to meet the diverse needs of the emerging mm market 
+a new version of the eg system  named the argos  was introduced in the argos model provides what we believe is the highest accuracy capabilities available in the auto prober market 
+the eg uses the egcommander system software  which runs under the windows nt operating system 
+eg e and eg e the eg e  introduced in december  and the eg e  introduced in july  are targeted at the parametric test e test segment of the wafer probe market 
+the eg e  based on the eg  is targeted at the emerging mm market 
+the eg e  based on the eg platform 
+table of contents addresses the mm market 
+both systems incorporate patented technology licensed from our partner  cascade microtech  inc this technology allows extremely precise  low level electrical measurements to be made at the wafer level 
+this type of electrical measurement performance is becoming increasingly critical for advanced sub micron semiconductor processes 
+pathfinder introduced in  the pathfinder system is designed to meet the unique test handling requirements of the known good die kgd and chip scale package markets 
+the pathfinder system features a unique material handling system that can handle and position wafers and packages after they have been sawn diced 
+special alignment techniques are used to compensate for the variability inherent in these sawn wafers and packages 
+software products our collaborative manufacturing software tools deliver new ways of leveraging the internet and process management technologies 
+these tools allow semiconductor manufacturers to convert data to corrective action at any level from the process cell to the entire manufacturing enterprise 
+we offer semiconductor makers a software infrastructure that spans from ic design for manufacturing to final test 
+this software infrastructure enables our customers to manage their fabs and wafer sort operations more efficiently  to speed product cycles  and to improve yield and profitability 
+our products include collaborative process management tools  design for manufacturing software cadnav  merlin  fab solutions yieldmanager  lcd ym  and test floor solutions sortnet  sortmanager 
+wafer inspection products the quicksilver series of automated wafer inspection products are designed for inspection of wafers in the post fab environment 
+these products feature advanced technologies such as time delay integration  or tdi imaging and dedicated image processing systems that allow for high speed acquisition of complex images of the wafer surface 
+this high speed image acquisition allows the quicksilver system to be used in production applications  inspecting every die on every wafer 
+the quicksilver system can be configured for several different inspection applications including solder bump  gold bump  surface defect  and probemark inspection 
+an important capability of quicksilver is the ability to quickly train the system to identify defects in new products  review inspection results and automatically classify defects 
+the quicklook process visualization station is offered to provide these capabilities in an off line mode  allowing users to get maximum utilization of their quicksilver inspection system 
+engineering  research and development the market for semiconductor manufacturing equipment is characterized by continuous technological development and a high rate of product innovation 
+we believe that continued  rapid development of new products and enhancements to existing products is necessary to maintain our competitive position 
+for example  we devoted a significant portion of our personnel and financial resources to engineering  research and development programs for our wafer prober product line to continue a high level of development for mm wafer probers as well as to develop an entirely new platform for mm wafer probers 
+in addition  we have invested in new product areas such as wafer inspection and software 
+we use our close relationships with key customers to make product improvements that respond to such customers needs 
+engineering  research and development expenses were million  million and million in  and  respectively  or  and of net sales  respectively 
+engineering  research and development expenses consist primarily of salaries  project materials  consultant fees  and other costs associated with our ongoing efforts in hardware and software product development and enhancement 
+it is expected that these expenses will decrease in absolute dollars in from levels 
+
+table of contents marketing  sales and service we sell our products directly to end users through both a direct sales force and independent representatives as well as use distributors in certain geographies 
+we generally sell product on net day terms to most customers 
+other  primarily foreign  customers are required to deliver a letter of credit typically payable upon product delivery 
+we generally warrant our products for a period of up to months from shipment for material and labor repair 
+installation and certain training is customarily included in the price of the product 
+our field engineers provide customers with call out repair and maintenance services for a fee 
+customers may enter into repair and maintenance service contracts covering our products 
+for a fee  we train customer employees to perform routine service 
+telephone consultation services are generally provided free of charge 
+we maintain sales and service offices in strategic locations throughout the united states 
+in europe  we maintain sales and service offices in france and germany and in asia  offices in the people s republic of china  singapore and taiwan 
+as of december   we employed people worldwide in sales  service  applications  logistics  technical support  and customer service 
+customers we sell our products to leading semiconductor manufacturers throughout the world 
+in  stmicroelectronics and cypress semiconductor accounted for and of net sales 
+in  stmicroelectronics accounted for of net sales 
+in  stmicroelectronics  philips and atmel accounted for  and of net sales  respectively 
+international sales represented  and of our net sales in  and  respectively 
+these sales represent the combined total of export sales made by united states operations and all sales made by foreign operations 
+manufacturing and suppliers our assembly equipment manufacturing activities consist primarily of integrating components and subassemblies to create finished prober and inspection systems  spares and upgrades configured to customer specifications 
+we schedule production based upon firm customer commitments and anticipated orders during the planning cycle 
+in january  we announced plans to move prober manufacturing from san jose  california to singapore to reduce product cost 
+in addition to rapid product innovation  our wafer prober market is subject to significant price competition and cost reduction is required 
+as of december  the majority of the manufacturing of our high volume prober systems had completely transferred to our singapore manufacturing facilities 
+certain of the components and subassemblies included in our products are obtained from a single source 
+however  we believe that alternative sources exist or can be developed 
+quality control is maintained through the assembly and test process  with documented instructions and test procedures and final inspection for all manufactured equipment prior to shipment 
+we train all of our employees in basic quality skills and regularly participate in quality sharing meetings with other equipment manufacturers and customer quality audits of procedures and personnel 
+we are iso certified 
+backlog our backlog was million as of december  and million as of december  our backlog consists of product orders for which a customer purchase order has been received and which is scheduled for shipment or is earned within the next twelve months 
+orders are subject to cancellation or rescheduling by the customer  generally with a cancellation charge 
+due to possible changes in product delivery schedules and cancellation of product orders and because our sales will often reflect orders shipped in the same quarter received  our backlog at any particular date is not necessarily indicative of actual sales for any succeeding period 
+
+table of contents backlog also includes deferred revenue comprised of products shipped but not recognizable as revenue per our revenue recognition policy  maintenance revenue that is being amortized over twelve months or less  and services earned or to be performed within the next year 
+competition the semiconductor equipment industry is highly competitive 
+the principal competitive factors in the industry are product performance  reliability  price  service and technical support  product improvements  established relationships with customers and product familiarity 
+we believe that our products compete favorably with respect to each of these factors 
+our major competitors in the prober market segment are tokyo electron limited  or tel  and tokyo seimitsu  or tsk 
+the major competitors in the post fab inspection market segment are august technologies and robotic vision systems inc  or rvsi 
+the main competitors in the process management software market segment are kla tencor and brooks automation 
+most of our competitors have greater financial  engineering and manufacturing resources than we have  as well as larger service organizations and long standing customer relationships 
+we cannot assure you that levels of competition in our particular product market will not intensify or that our technological advantages will be reduced or lost as a result of technological advances by competitors or changes in semiconductor processing technology 
+for a more detailed discussion of the competition we face  see factors that may affect results and financial condition 
+patents  trademarks  copyrights and other intellectual property we believe that the success of our business depends more on the technical competence  creativity and marketing abilities of our employees  rather than on patents  trademarks and copyrights 
+nevertheless  we have a policy of seeking patents when appropriate on inventions concerning new products and improvements as part of our ongoing research  development and manufacturing activities 
+we own various patents and have applied for additional patent protection in the united states and abroad for the technology in our products 
+we also have several registered united states and international trademarks 
+we maintain unregistered copyrights on our software and typically maintain the source code for our products as a trade secret 
+we also rely upon trade secret protection for our confidential and proprietary information 
+we routinely enter into confidentiality agreements with our employees 
+there can be no assurance  however  that others will not independently gain information and techniques or otherwise gain access to our trade secrets or that we can meaningfully protect our trade secrets 
+for a more detailed discussion regarding risks related to our intellectual property  see factors that may affect results and financial condition 
+employees as of december   we employed people 
+many of our employees are highly skilled  and our success will depend in part upon our ability to attract and retain such employees  who are in great demand 
+we have never had a work stoppage or strike  and no employees are represented by a labor union or covered by a collective bargaining agreement 
+we consider our employee relations to be good 
+item properties in the first quarter of  we consolidated our executive office  manufacturing  engineering  and research and development operations into an approximately  square foot facility located in san jose  california 
+this space is under a lease expiring in march  with monthly rent payments based on the london interbank offering rate  or libor 
+at current interest rates and based on the lease amount of million at december   the remaining gross lease payments approximate million 
+on january   we gave notice to the lessor electing an early designated sale date and completed the purchase of the facility in march the 
+table of contents long term lease receivable and cash collateral were used to fund the purchase price 
+the property and equipment  including closing costs  were recorded at approximately million 
+we are currently occupying of the facility  and is available for lease 
+see note  commitments and contingencies 
+in january  we entered into a three year operating lease for a  square foot manufacturing facility in singapore with annual lease payments of approximately million 
+in august  we entered into a six year lease agreement in mumbai  india for  square feet with an annual lease payment of approximately million  increasing at per year 
+item legal proceedings we are not currently involved in any legal actions that we believe are material 
+from time to time  however  we may be subject to various claims and lawsuits by customers  suppliers  competitors  and employees arising in the normal course of business  including suits charging infringement or violations of antitrust laws 
+such suits may seek substantial damages and  in certain instances  any damages awarded would be trebled 
+some customers using certain of our products have received a notice of infringement from technivison corporation and the lemelson medical education research foundation  or lemelson  alleging that the manufacture of semiconductor products infringes certain patents currently held by lemelson 
+certain of these customers have notified us that  in the event it is subsequently determined that the customer infringes certain of the lemelson patents  they may seek reimbursement from us for some damages or expenses resulting from this matter 
+we have in turn notified our suppliers that  in the event  it is subsequently determined that our customers are determined to infringe and that we are responsible for any associated costs and fees  that it may seek reimbursement for the resultant costs and fees 
+we believe that our products do not infringe the lemelson patents 
+certain of our customers are currently engaged in litigation with lemelson involving of its patents  and the validity of those patents has been placed in issue 
+the trial ended in january  post trial briefs will be reviewed and it is expected that a decision will be made during the second half of in the future  it is possible that our participation in the litigation may be required 
+we may incur costs with respect to such participation and cannot predict the outcome of this or similar litigation or the effect of such litigation on our business 
+to the best of our knowledge  lemelson has not asserted that we may be liable for infringing its patents 
+item submission of matters to a vote of security holders no matters were submitted to a vote of our security holders during the fourth quarter ended december  
+table of contents part ii item market for the registrant s common equity and related stockholder matters market prices for common stock our common stock is traded on the nasdaq national market system under the symbol egls 
+the following table sets forth for the periods indicated the actual high and low sales prices per share of common stock as reported on the nasdaq national market system fiscal year high low high low st quarter nd quarter rd quarter th quarter on february   the closing price of our common stock was 
+we have never declared or paid cash dividends on the shares of common stock and we do not anticipate paying cash dividends in the foreseeable future 
+we currently intend to retain any future earnings to fund the development and growth of our business 
+as of february   we had approximately  shareholders of record 
+
+table of contents item selected financial data on december   the sec staff issued staff accounting bulletin sab  revenue recognition in financial statements 
+the sec staff addressed several issues in sab  including the timing for recognizing revenue derived from selling arrangements that involve contractual customer acceptance provisions and installation of the product if these events occur after shipment and transfer of title 
+in connection with our adoption of sab  we recorded a non cash charge of million  or per diluted share  to reflect the cumulative effect of the accounting change as of the beginning of the fiscal year our revenue recognition policies are disclosed in note to our consolidated financial statements 
+years ended december  in thousands  except per share data selected consolidated financial data net sales gross profit loss engineering  research and development sales  general and administrative in process research and development restructuring charges impairment charges operating income loss interest income expense  net gain on revaluation of warrants other income expense  net income loss before income taxes provision benefit for income taxes income loss before cumulative effect of change in accounting principle cumulative effect of change in accounting principle  net of tax net income loss basic net income loss per share before cumulative effect of change in accounting principle cumulative effect of change in accounting principle basic net income loss per share shares used in basic calculations diluted net income loss per share before cumulative effect of change in accounting principle cumulative effect of change in accounting principle diluted net income loss per share shares used in diluted calculations pro forma amounts assuming the accounting change for sab is applied retroactively unaudited net income loss basic net income loss per share diluted net income loss per share working capital total assets short term borrowings convertible subordinated notes total stockholders equity 
+table of contents net loss for includes a million pretax charge for impaired long lived assets  million restructuring charges related to the move of our manufacturing operations to singapore as well as headcount reductions due to the change in market conditions  and an million write down of inventory  partially offset by a million gain on revaluation of warrants 
+net loss for includes a charge of million relating to the revaluation of our deferred tax assets 
+net loss for includes a million pretax charge for impaired technology and intangibles related to previous acquisitions and an million charge related to the revaluation of our deferred tax assets 
+unaudited quarterly consolidated financial data our fiscal year end is december our fiscal quarters end on the saturday nearest the end of the calendar quarters 
+for convenience  we have indicated that our quarters end on march  june and september quarter in thousands  except per share data first second third fourth net sales gross profit loss net loss basic and diluted net loss per share net sales gross profit loss net loss basic and diluted net loss per share item management s discussion and analysis of financial condition and results of operation critical accounting policies and estimates general our discussion and analysis of our financial condition and results of operations are based upon our consolidated financial statements  which have been prepared in accordance with accounting principles generally accepted in the united states 
+the preparation of these financial statements requires us to make estimates and judgments that affect the reported amounts of assets  liabilities  revenues and expenses  and related disclosure of contingent assets and liabilities 
+on an on going basis  we evaluate our estimates  including those related to revenue recognition  inventory valuation  warranties  allowance for doubtful accounts  and minority equity investments 
+we base our estimates on historical experience and on various other assumptions that are believed to be reasonable under the circumstances  the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources 
+actual results may differ from these estimates under different assumptions or conditions 
+we believe the following critical accounting policies affect our more significant judgments or estimates used in the preparation of our consolidated financial statements 
+senior management has discussed the development and selection of these critical accounting policies and estimates with the audit committee 
+revenue recognition we recognize revenue on the sale of our semiconductor manufacturing equipment when we have received a customer purchase order or contract  when we have delivered the products or services  when we can be assured of the total purchase price without making significant concessions and when we are assured of our ability to collect from our customer 
+we sell to an industry that is highly cyclical with periods of high demand and significant oversupply 
+the companies in the semiconductor equipment manufacturing industry continue to consolidate as they are faced with rapidly increasing capital requirements and expensive 
+table of contents technological change our top five customers accounted for and of sales in fiscal years and 
+in recognizing revenue we make certain assumptions and estimates  namely for our legacy products  we recognize revenue upon product shipment or delivery on the basis that we have a legally enforceable claim on payment and for our newer products  we recognize revenue upon signed customer acceptance 
+with respect to the assumption of collectibility from our customers  we assume  based on past history  that we will continue to collect our receivables from them without significant delays in payments or product concessions  despite the fact that they have larger financial size relative to us and despite our dependence on them in a heavily concentrated industry 
+we recognize revenue on software licenses upon shipment if a signed contract exists  the fee is fixed and determinable  collection of resulting receivables is probable and product returns are reasonably estimable 
+for contracts with multiple obligations eg  maintenance  unspecified upgrades  we allocate revenue to each component of the contract based on objective evidence of its fair value  which is specific to us  or for products not being sold separately  the price established by management 
+we recognize revenue allocated to maintenance fees for ongoing customer support and unspecified upgrades ratably over the period of the maintenance contract or upgrade period 
+inventory valuation we value our inventories at the lower of cost or market using the first in  first out method 
+we may record charges to write down inventory due to excess  obsolete and slow moving inventory based on an analysis of the impact of changes in technology on our products  the timing of these changes and our estimates of future sales volumes 
+these projections of changes in technology and forecasts of future sales are estimates 
+beginning in  we are using a rolling twelve month forecast based on anticipated product orders  product order history  forecasts and backlog to assess our inventory requirements 
+in the prior year  we used a rolling eighteen month forecast period in our inventory valuation calculations based on our expectations of a turn around in the demand for semiconductor test equipment in we reduced the forecast period to twelve months due to our continued uncertainties in the forecasts of the prober and test sections of the semiconductor equipment industry 
+if there is continued weak demand in the semiconductor equipment markets and orders fall below our forecasts  additional write downs of inventories may be required which may negatively impact gross margins in future periods 
+due to continued weak demand  we have not extended our forecast period for our inventory valuation calculations as of december  long lived assets we evaluate the carrying value of long lived assets  consisting primarily of property  plant and equipment  whenever certain events or changes in circumstances indicate that the carrying amount of these assets may not be recoverable 
+in assessing the recoverability of long lived assets  we compare the carrying value to the undiscounted future cash flows the assets are expected to generate 
+if the total of the undiscounted future cash flows is less than the carrying amount of the assets  the assets will be written down to their estimated fair value 
+significant judgments and assumptions are required in the forecast of future operating results used in the preparation of the estimated future cash flows  including long term forecasts of overall market conditions and our market share 
+changes in these estimates could have a material adverse effect on the assessment of the long lived assets  thereby requiring us to record additional asset write downs in the future 
+warranty we generally warrant our products for a period of twelve months and we accrue a current liability for the estimated cost of warranty upon shipment 
+for our legacy products this accrual is based on historical experience and for our newer products this accrual is based on estimates from similar products 
+in addition  from time to time  specific warranty accruals may be made if an unforeseen technical problem arises 
+if we experience unforeseen technical problems with our products in future periods to meet our product warranty requirements  revisions to our estimated cost of warranty may be required  and our gross margins will be negatively impacted 
+allowance for doubtful accounts we monitor the collectibility of our accounts receivable and record a reserve for doubtful accounts against specifically identified amounts that we believe are uncollectible 
+we sell primarily to large  well established semiconductor manufacturers and semiconductor test companies and we have not experienced significant doubtful accounts losses in the past 
+we have  however  experienced slow downs in 
+table of contents receivable collections  especially during semiconductor equipment down cycles  as customers extend their payment schedules to conserve their cash balances 
+if our customers continue to experience down cycles or their financial condition were to deteriorate  we may be required to increase our reserve for doubtful accounts 
+minority equity investments we have two minority equity investments in non publicly traded companies that are recorded at the original cost less reductions for impairment in value 
+in determining if and when certain minority equity investment s decline in value below cost is other than temporary  we evaluate the market conditions  offering prices  trends of earnings  price multiples  and other key measures for our investments accounted for at cost 
+when we believe such a decline to be other than temporary  we recognize an impairment loss in the current period s operating results to the extent of the decline 
+for securities that do not have a readily determinable market price  we compare the net carrying amount of our cost method investments to similar equity securities with quoted prices when possible after giving effect to differences in risk premiums  estimated future cash flows  and other factors influencing the market value of the securities 
+when comparisons to quoted securities are not practical  we estimate the fair value based on recent sales and purchases of similar unquoted equity securities  independent appraisals  or internally prepared appraisals to estimate the fair value 
+results of operations the components of our statements of operations  expressed as a percentage of net sales  are as follows years ended december  net sales cost of sales gross profit loss operating expenses engineering  research and development sales  general and administrative in process research and development restructuring charges impairment charges total operating expenses operating income loss interest income expense  net gain on revaluation of warrants other income expense  net income loss before income taxes provision benefit for income taxes income loss before cumulative effect of change in accounting principle cumulative effect of change in accounting principle  net of tax net income loss net sales net sales were million in  down from million in net sales were million in  down from million in these decreases were due primarily to lower system unit sales of our core prober business as a result of the record downturn in the semiconductor industry as customers continued to curtail their capital spending in response to persisting excess production capacity conditions as well 
+table of contents as a decrease in our market share for prober products 
+historically  the semiconductor and semiconductor equipment industries have been cyclical 
+these conditions adversely impacted our sales for the last two years and are expected to continue during we continue to have limited visibility with respect to the level of orders for the coming quarters 
+net sales are comprised of prober and inspection systems  egsoft products  and aftermarket sales consisting primarily of service  spare parts and upgrades in support of the prober and inspection businesses 
+service revenue has been less than of annual net sales 
+the components of net sales are as follows years ended december  in thousands prober and inspection systems egsoft products aftermarket sales net sales international sales represented  and of net sales for the years  and  respectively 
+the decrease in the percentage of international sales in from was primarily due to a decrease in european sales relative to the decline in north american sales 
+during and  we experienced weakness across all of our major geographic regions 
+the decrease in the percentage of international sales in from was due to a greater decline in european and asian pacific region sales relative to the decline in north american sales 
+french sales included in international sales represented  and of our net sales in  and  respectively 
+sales to japan were denominated in japanese yen 
+sales to the rest of asia and europe were primarily denominated in united states dollars  except for france where the invoiced currency was a mix of the united states dollar and the euro 
+we anticipate that international sales will continue to be a significant portion of sales in gross profit loss gross profit loss was  and in  and  respectively 
+the decrease in gross profit in compared to was due primarily to reduced unit sales volumes and high factory fixed costs as a percentage of total costs related to the move of our manufacturing operations to singapore in in addition  we wrote down inventories by million  million and million in  and  respectively 
+we periodically review the carrying value of our inventories by evaluating material usage and requirements to determine inventory obsolescence and excess quantities  and reduce the inventory value when appropriate 
+the write down in fiscal increased over as outlooks for demand in semiconductor equipment in the current cyclical downturn continued to be weak 
+we generally warrant our products for a period of twelve months and accrue the estimated cost of warranty upon shipment 
+in  due to the transfer of certain manufacturing capabilities to singapore  the accrued liability for estimated cost of warranty was increased by million from the previous year 
+in  due to a decrease in net sales  the accrued liability for estimated cost of warranty was reduced by million from the previous year 
+we believe that our gross profit will continue to be affected by a number of factors  including competitive pressures  changes in demand for semiconductors  product mix  the proportion of international sales  the level of software sales  our share of the available market  the move of manufacturing to singapore  and excess manufacturing capacity costs 
+continued weak demand and changes in market conditions may cause orders to be below forecasts as was experienced throughout and  which may result in excess inventory 
+consequently  additional write downs of inventories may be required  which may negatively impact gross profit in future periods 
+
+table of contents engineering  research and development engineering  research and development  or er d expenses were  and  as a percentage of sales  for  and  respectively 
+er d expenses were million in and the increase as a percentage of sales was primarily due to lower sales volume and to the transition from mm to mm wafers 
+while er d spending was the same in total for both years  in there were increases in outside service and consulting costs related to product development and increased travel  offset by decreased engineering development and reduced headcount related expenses 
+in  er d expenses were million  up from million in this increase  as a percentage of sales  was primarily due to lower sales volume in  and the increase in year over year spending resulted from increased prototype expenses in related to new product development programs  as well as increased personnel costs 
+during the current business cycle downturn  we intend to control discretionary expenses and continue investing in selective new wafer prober product development programs 
+however  we expect engineering  research and development expenses for our inspection products division and egsoft division to decrease in from levels in absolute dollar value 
+engineering  research and development expenses consist primarily of salaries  project materials  consultant fees  and other costs associated with our ongoing efforts in hardware and software product development and enhancement  including expenses for tailoring our products to conform to customer requirements 
+selling  general and administrative selling  general and administrative  or sg a expenses were  and  as a percentage of sales  in  and  respectively 
+in  sg a expenses were million  up from million in this increase was primarily due to increased promotional and trade show expenses  partially offset by reduced employee costs and sales commissions because of reduced year over year headcount levels 
+in  sg a expenses were million  down from million in this decrease was primarily due to reduced employee incentives and sales commissions  mandatory vacations and curtailed discretionary spending 
+in process research and development in process research and development was million in this charge in resulted from the write off of in process research and development costs in the acquisition of statware  inc restructuring charges in january  we announced a restructuring plan to reduce our us workforce and exit certain facilities in connection with the relocation of our manufacturing operations to singapore 
+during the first three quarters of  employees were designated for termination and employees were terminated with a million charge recorded for severance costs 
+as a result of the continued semiconductor equipment downturn  and to better align our cost structure with the market demand for our products  we announced further cost reduction plans in october during the fourth quarter of  a further employees were designated for termination  and ninety four employees were terminated with a charge of million recorded for severance costs 
+in september  we announced plans to close our sales office in japan 
+six employees were designated for termination and five were terminated during the fourth quarter 
+a restructuring charge of million was recorded for severance payments  legal and accounting fees incurred related to the closure  and write down of assets 
+
+table of contents in october  we announced the closing of additional offices in europe and asia 
+thirty two employees were designated for termination  and twenty three were terminated as a result of these closures 
+a restructuring charge of million was recorded for severance payments  legal and accounting fees incurred related to the closures  write down of assets held for disposal  and other costs 
+we anticipate further restructuring charges in for workforce reduction  idled facilities and obsolete equipment as the move of our manufacturing operations to singapore progresses to completion  and based on economic conditions 
+as the semiconductor industry is highly cyclical and our business largely depends on capital expenditures by semiconductor manufacturers  the timing  length and severity of the up and down cycles are difficult to predict and affects our ability to accurately forecast future revenues and expense levels 
+during a down cycle  we must be in a position to adjust our cost and expense structure to prevailing market conditions  which could therefore require us to have additional layoffs  and incur additional restructuring charges 
+if this situation occurs  these restructuring costs will materially affect our normal cash flows 
+impairment charges as a result of our assessment of current market conditions and their related effect on our business plan  we concluded that there were indications of impairment of our long lived assets 
+in accordance with sfas no 
+ accounting for the impairment or disposal of long lived assets  we performed an impairment test  which compared each division s net book values with the expected undiscounted cash flows from these assets  which consisted primarily of property and equipment and non current assets 
+the cash flows over the estimated remaining useful lives of these assets were not sufficient to recover the net book value of these assets 
+we obtained a valuation report outlining the estimated fair value of the assets  based on quoted market prices  from an independent appraiser and recorded an impairment charge of million to write the carrying value of certain fixed assets and non current assets held for use in the prober division down to their estimated fair values 
+in  we also recorded million related to the write down of our long term investment in nanonexus 
+although we do not anticipate that we will be required to record additional impairment charges  the semiconductor industry is highly cyclical and the severity of these cycles is difficult to predict 
+during a down cycle  we must be in a position to adjust our cost and expense structure to prevailing market conditions  which could therefore require us to record additional impairment charges 
+interest income expense  net interest income expense  net was million  million and million in  and  respectively 
+the year over year decreases were principally due to declining interest rates and lower average yearly cash and short term investment balances 
+gain on revaluation of warrants in june  we completed a million private placement of convertible subordinated notes due and warrants to purchase  shares of common stock 
+in september  upon registration of our notes  warrants  and the shares of common stock into which the notes and warrants are convertible  the warrants  which were initially valued at million and classified as a liability  were revalued using the black scholes option pricing model to million and reclassified to equity 
+this revaluation resulted in a gain on revaluation of million 
+upon registration of the notes  warrants  and shares of common stock into which the notes and warrants are convertible  the re measured value of the warrants was reclassified to permanent equity and accordingly will not be required to be revalued subsequently 
+
+table of contents other income expense  net other income expense  net was million  million  and million in  and  respectively 
+in  this amount consisted primarily of interest expense on the convertible notes 
+in  the amount consisted primarily of rental income from a facilities sublease offset by foreign exchange losses 
+in  the amount consisted primarily of foreign exchange losses 
+provision benefit for income taxes the income tax benefit was million in as compared to income tax provisions of million and million in and  respectively 
+the income tax benefit primarily resulted from a million additional refund due to a change in tax law arising from the enactment of the job creation and worker assistance act of and a million reversal of previously recorded income tax reserves for tax years up to and including relating principally to changes in estimates of these tax reserves 
+realization of our deferred tax assets depends on us generating sufficient taxable income in future years in appropriate tax jurisdictions to obtain benefit from the reversal of temporary differences and from net operating loss and credit carryforwards 
+due to the uncertainty of the timing and amount of such realization  our management concluded that a full valuation allowance of million was required at december  the tax provision of million in increased over the tax provision of million in primarily because of the establishment of a full valuation allowance against our total net deferred tax assets 
+liquidity and capital resources our cash  cash equivalents and short term investments were million at december   a decrease of million from million at december  cash used in operating activities was million for the year this included a net loss of million  offset by non cash charges of million and a decrease in net operating assets of million 
+non cash charges consisted primarily of million depreciation and amortization  million of impairment charges  a million loss on disposal of equipment  million realized foreign exchange loss on the closure of our japan office  partially offset by the million gain on revaluation of warrants and a million decrease in deferred software revenue 
+the decrease in net operating assets was due primarily to a decrease of million in accounts receivable  a decrease of million in inventories due to increased inventory write downs  and an increase of million in accounts payable 
+this was partially offset by a decrease of million in accrued liabilities primarily due to acceptance and payments received on deferred revenue 
+cash provided by investing activities was million due primarily to net investment maturities of million and proceeds from disposal of assets of million 
+this was offset partially by an increase in capital expenditures of million principally for network infrastructure and capitalized costs of implementing our enterprise resource planning erp system as well as capitalized setup costs of the singapore manufacturing facility and other assets of million 
+in june  we completed a million private placement of fixed rate convertible subordinated notes due and warrants to purchase  shares of common stock 
+the net proceeds from this placement were million 
+interest on the notes is payable semi annually on june and december of each year 
+annual interest payments are million  and will result in a charge to interest expense until the end of the term of the notes 
+the convertible notes initially enabled the holders to convert principal amounts owed under the notes into an aggregate of  shares of common stock at a conversion price of per share 
+the notes contain a beneficial conversion feature  which is triggered if of the average market price for consecutive trading days prior to february  is less than the conversion price 
+on february   this feature was triggered 
+as a result  the conversion price was lowered to per share and an additional  common shares will be issuable upon conversion of the notes 
+this adjustment to the conversion price will also result in a million non cash charge to interest expense in our first quarter fiscal results of operations 
+
+table of contents additional cash provided by financing activities consisted of million of proceeds from the sale of common stock under employee stock plans offset by the million payoff of a bank loan in japan 
+our japanese subsidiary had a credit facility with a total borrowing capacity of approximately million denominated in yen with a japanese bank  which has been terminated due to the japan office closure 
+we placed million cash collateral with the us branch of the japanese bank to guarantee the credit facility 
+during the third quarter of  we paid off the outstanding balance and cancelled the credit facility 
+in march  we entered into a million  five year synthetic lease for approximately acres of land in san jose  california 
+a synthetic lease is a form of operating lease wherein a third party lessor funds of the acquisition and construction costs relating to one or more properties to be leased to a lessee 
+the lessor is the owner of the leased property and must provide at least of the required funds in the form of at risk equity 
+in july  the lease agreement was amended to provide a construction allowance 
+that amendment also extended the expiration date of the lease to july  the lease agreement was further amended and effective in june  required a mandatory collateralization of million  which was included in restricted cash on our balance sheet 
+this amendment also included an adjustment to the interest rate and certain restrictions on the repurchase of our common stock 
+on august   the lease was further modified into a self funding structure 
+under this new structure  third parties funded of the lease balance and we funded the remaining through a loan to the lessor  which is reflected as a long term lease receivable on our balance sheet 
+this amendment also included adjustments to the interest rate and certain restrictive covenants  which were effective as of june  furthermore  the self funding structure reduced the mandatory collateralization amount to million  which is equal to the amount advanced by the third parties and not self funded by us and is included in restricted cash on our balance sheet 
+the monthly lease payments on the portion of the lease balance self funded by us are based on the london interbank offering rate  or libor 
+these amounts are the same as the interest payments due to us on the loan to the lessor 
+the monthly lease payments on the portion of the lease balance funded by the third parties are based on libor plus basis points  provided the mandatory collateralization amount remains at the full million advanced by the third parties 
+based on current interest rates  and the lease balance of approximately million at december   the total gross lease payments over the remainder of the lease term will be approximately million 
+in december  we received a fair market appraisal of our san jose campus of million  million less than the guaranteed residual lease value of million 
+under eitf  implementation issues in accounting for leasing transactions involving special purpose entities  beginning on the date the deficiency becomes probable  the expected deficiency is accrued by the lessee using the straight line method over the remaining term of the lease 
+because we provided the lessor with a notice electing an early designated sale date to purchase of the leased assets in march  the gross lease payments have been calculated over the remaining four months of the lease 
+accrual of a deficiency by a lessee is required regardless of whether the lessee expects to exercise a purchase or renewal option at the end of the lease term 
+thus  we began amortizing the million deficiency with a million charge to rent expense in december an additional million charge to rent expense will be reflected in the first quarter financials 
+at december   we were in compliance with all but one of the restrictive covenants contained in the amended lease agreement 
+as a result  we requested and received a waiver to the covenant for the remaining term of the lease agreement from the third party lenders 
+on january   we provided the lessor with a notice electing an early designated sale date and we completed the purchase of the leased assets in march the long term lease receivable and cash collateral were used to fund the purchase price 
+the property and equipment  including closing costs  were recorded at approximately million 
+as a result of the purchase  depreciation expense will increase by approximately million per year  and rent expense and interest income will decrease by approximately million and million  respectively  per year based on current interest rates 
+in connection with their ongoing consolidations project  the fasb issued fasb no 
+ consolidation of variable interest entities  an interpretation of arb no 
+ in january for pre existing transactions  the 
+table of contents consolidation requirements generally become operative in the third quarter of because we completed the purchase of the property in march  we have concluded that fasb no 
+does not have an impact on our current or future financial statements 
+in january  we entered into a three year operating lease for a  square foot manufacturing facility in singapore with annual lease payments of approximately million 
+as of december   we spent approximately million for leasehold improvements and equipment to outfit this facility 
+our principal source of liquidity as of december  consisted of million of cash  cash equivalents  and short term investments 
+historically  we have generated cash in an amount sufficient to fund our operations 
+we anticipate that our existing capital resources and cash flow generated from future operations will enable us to continue our planned operations and our planned capital expenditures through the end of fiscal  including our significant contractual obligations and commercial commitments as shown in the table below 
+however  we may need to raise additional funds in the foreseeable future to fund our operations 
+if our stock price and trading volume remain at current levels or decrease  or if business conditions in our core prober business do not improve  additional funds would probably not be available to us on favorable terms and might not be available at all 
+if unavailable  our ability to run our business could be impaired 
+payments due by period in thousands total year years years over years operating leases inventory purchase commitments purchase of san jose campus interest payments on convertible subordinated notes total cash obligations impact of recently issued accounting pronouncements in july  the fasb issued sfas no  accounting for costs associated with exit or disposal activities sfas  effective for exit or disposal activities initiated after december  sfas addresses financial accounting and reporting for costs associated with exit or disposal activities 
+under the new rules  we will be required to recognize a liability when the liability is incurred rather than as of the date that we make a commitment to an exit or disposal plan 
+we are assessing the impact on the financial statements resulting from adoption of this standard 
+in connection with their ongoing consolidations project  the fasb issued fasb no 
+ consolidation of variable interest entities  an interpretation of arb no 
+ in january for pre existing transactions  the consolidation requirements generally become operative in the third quarter of because we completed the purchase of our san jose  california property in march  we do not expect the adoption of fasb no 
+to have a material impact on our financial statements 
+in november  the fasb released fasb interpretation no 
+ guarantor s accounting and disclosure requirements for guarantees  including indirect guarantees of indebtedness of others an interpretation of fasb statements no 
+  and and rescission of fasb interpretation no 
+fin 
+fin establishes new disclosure and liability recognition requirements for direct and indirect debt guarantees with specified characteristics 
+the initial measurement and recognition requirements of fin are effective prospectively for guarantees issued or modified after december  however  the disclosure requirements are effective for interim and annual financial statement periods ending after december  we have adopted the disclosure provisions  and the full adoption of fin is not expected to have a material impact on our financial position or results of operations 
+in december  the fasb issued sfas no 
+ accounting for stock based compensation transition and disclosure an amendment of sfas no 
+sfas 
+this statement amends sfas to 
+table of contents provide alternative methods of transition for a voluntary change to the fair value based method of accounting for stock based employee compensation 
+in additional  sfas amends the disclosure requirements of sfas to require prominent disclosures in both annual and interim financial statements about the method of accounting for stock based employee compensation and the effect of the method used on reported results 
+the transition and annual disclosure requirements of sfas are effective for our fiscal year the interim disclosure requirements are effective for the first quarter of fiscal we continue to account for stock based compensation using apb and have not adopted the recognition provisions of sfas  as amended by sfas the adoption of sfas is not expected to have a material impact on our financial position or results of operations 
+in december  the eitf issued eitf  revenue arrangements with multiple deliverables 
+this issue addresses certain aspects of the accounting by a vendor for arrangements under which it will perform multiple revenue generating activities 
+in some arrangements  the different revenue generating activities deliverables are sufficiently separable  and there exists sufficient evidence of their fair values to separately account for some or all of the deliverables that is  there are separate units of accounting 
+in other arrangements  some or all of the deliverables are not independently functional  or there is not sufficient evidence of their fair values to account for them separately 
+this issue addresses when and  if so  how an arrangement involving multiple deliverables should be divided into separate units of accounting 
+this issue does not change otherwise applicable revenue recognition criteria 
+this issue is applicable for the company for fiscal and could have an impact on revenue recognition of future sales transactions 
+factors that may affect results and financial condition semiconductor industry downturns adversely affect our revenues and operating results 
+our business largely depends on capital expenditures by semiconductor manufacturers  which in turn depend on the current and anticipated market demand for integrated circuits and products that use integrated circuits 
+the semiconductor industry is highly cyclical and has historically experienced periods of oversupply resulting in significantly reduced demand for capital equipment 
+the timing  length and severity of the up and down cycles are difficult to predict and affect our ability to accurately forecast future revenues and expense levels 
+during a down cycle  we must be in a position to adjust our cost and expense structure to prevailing market conditions 
+our ability to reduce expenses may be limited by the need to invest in the engineering  research and development  and marketing required to penetrate targeted markets and maintain extensive customer service and support 
+during periods of rapid growth  we must be able to increase manufacturing capacity and personnel to meet customer demand 
+there can be no assurance that these objectives can be met  which would likely materially and adversely affect our business and operating results 
+our quarterly results are subject to variability and uncertainty  which could negatively impact our stock price 
+we have experienced and expect to continue to experience significant fluctuations in our quarterly results 
+our backlog at the beginning of each quarter does not necessarily determine actual sales for any succeeding period 
+our sales will often reflect orders shipped in the same quarter that they are received 
+moreover  customers may cancel or reschedule shipments  and production difficulties could delay shipments 
+other factors that may influence our operating results in a particular quarter include the timing of the receipt of orders from major customers  product mix  competitive pricing pressures  the relative proportions of domestic and international sales  our ability to design  manufacture and introduce new products on a cost effective and timely basis  the delay between expenses to further develop marketing and service capabilities and the realization of benefits from those improved capabilities  and the introduction of new products by our competitors 
+accordingly  our results of operations are subject to significant variability and uncertainty from quarter to quarter  which could adversely affect our stock price 
+if we do not continue to develop and successfully market new products  our business will be negatively affected 
+we believe that our future success will depend in part upon our ability to continue to enhance existing products and to develop and manufacture new products  particularly those related to implementation of our strategy to become a process management tool provider 
+as a result  we expect to continue to make 
+table of contents investments in engineering  research and development 
+there can be no assurance that we will be successful in the introduction  marketing and cost effective manufacture of any of our new products  that we will be able to develop and introduce new products in a timely manner  enhance our existing products and processes to satisfy customer needs or achieve market acceptance  or that the new markets for which we are developing new products or expect to sell current products  such as the market for mm wafer probers  markets related to the growth in the use of flip chips  and the market for process management software will develop sufficiently 
+to develop new products successfully  we depend on close relationships with our customers and the willingness of those customers to share information with us 
+the failure to develop products and introduce them successfully and in a timely manner could adversely affect our competitive position and results of operations 
+our results of operations will be negatively impacted if one or more of our major customers stops purchasing or significantly reduces the purchasing of our products 
+for the years ended december   and  five of our customers accounted for  and  respectively  of our net sales 
+in  stmicroelectronics and cypress semiconductor accounted for and of net sales 
+in  stmicroelectronics accounted for of net sales 
+in  stmicroelectronics  philips and atmel accounted for  and of net sales  respectively 
+if one or more of our major customers ceased or significantly curtailed its purchases  it would likely have a material adverse effect on our results of operations 
+if we do not successfully compete in the markets in which we do business  our business and results of operations will be negatively affected 
+our major competitors in the prober market segment are tokyo electron limited  or tel  and tokyo seimitsu  or tsk 
+the major competitors in the post fab inspection market segment are august technologies and robotic vision systems inc  or rvsi 
+the main competitors in the process management software market segment are kla tencor and brooks automation 
+some of our competitors have greater financial  engineering and manufacturing resources than we do as well as larger service organizations and long standing customer relationships 
+our competitors can be expected to continue to improve the design and performance of their products and to introduce new products with competitive price performance characteristics 
+competitive pressures may force price reductions that could adversely affect our results of operations 
+although we believe we have certain technological and other advantages over our competitors  maintaining and capitalizing on these advantages will require us to continue a high level of investment in engineering  research and development  marketing  and customer service and support 
+we can not assure you that we will have sufficient resources to continue to make these investments or that we will be able to make the technological advances necessary to maintain such competitive advantages 
+for further discussion regarding the competition we face  see business competition 
+our outstanding convertible debt may create an impediment to  or a reduction in value to our stockholders from  a sale or merger of the company  may be required to be repaid if not converted prior to its maturity  and may  if converted  result in additional dilution to holders of our common stock  all of which may adversely affect the value of our common stock 
+in june  we issued million in convertible notes and related warrants 
+the notes entitle the holders to convert the notes into an aggregate of  shares of our common stock at a conversion price of per share  significantly in excess of recent trading prices of our common stock 
+in connection with the issuance of the notes  we also issued warrants for the purchase of  shares of our common stock that are exercisable at a price of per share  also significantly in excess of recent trading prices of our common stock 
+in certain circumstances we may force the conversion of all or a portion of the notes and may also redeem the notes 
+however  unless prior to june the price of our common stock exceeds at least per share  we cannot cause the automatic conversion of the notes and we will be obligated to pay the notes in full at maturity 
+we may voluntarily redeem the notes between june and june for an aggregate redemption price of as high as approximately million plus accrued interest 
+in addition  unless waived or renegotiated  we are obligated to pay the holders of the notes an amount equal to million plus accrued interest in the event of a sale  merger or other change in control of the company 
+because of the challenges we face in the japanese market segment  we cannot assure you we will successfully penetrate that market 
+we believe that competing japanese companies in the prober market segment have a competitive advantage because they dominate the japanese market segment  comprised of semiconductor 
+table of contents fabrication facilities located in japan and those located outside japan that are controlled by japanese companies 
+we have found it difficult to penetrate the large japanese market  which represents a significant percentage of the worldwide wafer prober market 
+while japanese semiconductor manufacturers in recent years have begun to build semiconductor fabrication facilities outside japan  we have not yet had significant sales into such facilities 
+further  japanese semiconductor manufacturers have extended their influence outside japan by licensing products and process technologies to non japanese semiconductor manufacturers 
+these licenses typically include a recommendation to use wafer probers and other semiconductor equipment manufactured by japanese companies 
+in particular  we may be at competitive disadvantage with respect to the japanese semiconductor capital equipment suppliers who have been engaged for some time in collaborative efforts with japanese semiconductor manufacturers 
+we cannot assure you that we will be able to establish a significant presence in or ever compete successfully in the japanese market segment 
+in addition  to the extent that the slowdown in the japanese market segment has left our japanese competitors with excess inventory or excess capacity  they may offer substantial discounts on their products  increasing pricing pressure in both the japanese market segment and elsewhere 
+furthermore  the weakness of the yen compared to the dollar may exacerbate this situation 
+if we do not successfully protect our intellectual property  our business could be negatively impacted 
+our success depends in significant part on our intellectual property 
+while we attempt to protect our intellectual property through patents  copyrights and trade secrets  we believe that our success will depend more upon innovation  technological expertise and distribution strength 
+there can be no assurance that we will successfully protect our technology or that competitors will not be able to develop similar technology independently 
+no assurance can be given that the claims allowed on any patents we hold will be sufficiently broad to protect our technology 
+in addition  we cannot assure you that any patents issued to us will not be challenged  invalidated or circumvented  or that the rights granted thereunder will provide us with competitive advantages 
+some customers using certain of our products have received a notice of infringement from technivison corporation and the lemelson medical education research foundation  or lemelson  alleging that the manufacture of semiconductor products infringes certain patents currently held by lemelson 
+certain of these customers have notified us that  in the event it is subsequently determined that the customer infringes certain of the lemelson patents  they may seek reimbursement from us for some damages or expenses resulting from this matter 
+we have in turn notified our suppliers that  in the event  it is subsequently determined that our customers are determined to infringe and that we are responsible for any associated costs and fees  that it may seek reimbursement for the resultant costs and fees 
+we believe that our products do not infringe the lemelson patents 
+certain of our customers are currently engaged in litigation with lemelson involving of its patents  and the validity of those patents has been placed in issue 
+the trial ended in january  post trial briefs will be reviewed and it is expected that a decision will be made during the second half of in the future  it is possible that our participation in the litigation may be required 
+we may incur costs with respect to such participation and cannot predict the outcome of this or similar litigation or the effect of such litigation on our business 
+to the best of our knowledge  lemelson has not asserted that we may be liable for infringing its patents 
+disruptions or termination of some of our key sources of supplies could damage our customer relations and harm our business 
+we use numerous suppliers to supply components and subassemblies for the manufacture and support of our products and systems 
+while we make reasonable efforts to ensure that such components and subassemblies are available from multiple suppliers  this is not always possible 
+although we seek to reduce our dependence on these limited source suppliers  disruption or termination of certain of these sources could occur and such disruptions could have at least a temporary adverse effect on our results of operations and damage customer relationships 
+moreover  a prolonged inability to obtain certain components  or a significant increase in the price of one or more of these components  could have a material adverse effect on our business  financial condition and results of operations 
+if we do not successfully address the challenges inherent in conducting international sales and operations  our business and results of operations will be negatively impacted 
+we have experienced a decline in our international sales and operations 
+international sales accounted for  and of our net sales for  
+table of contents and  respectively 
+we expect international sales to continue to represent a significant percentage of net sales 
+we are subject to certain risks inherent in doing business in international markets  one or more of which could adversely affect our international sales and operations  including the imposition of government controls on our business and or business partners  fluctuations in the us dollar  which could increase our foreign sales prices in local currencies  export license requirements  restrictions on the export of technology  changes in tariffs  legal and cultural differences in the conduct of business  difficulties in staffing and managing international operations  longer payment cycles  difficulties in collecting accounts receivable in foreign countries  withholding taxes that limit the repatriation of earnings  trade barriers and restrictions  immigration regulations that limit our ability to deploy employees  political instability  war and acts of terrorism  and variations in effective income tax rates among countries where we conduct business 
+although these and similar regulatory  geopolitical and global economic factors have not yet had a material adverse effect on our operations  there can be no assurance that such factors will not adversely impact our operations in the future or require us to modify our current business practices 
+in addition  the laws of certain foreign countries where we do business may not protect our intellectual property rights to the same extent as do the laws of the united states 
+if we do not realize cost savings from moving the manufacture of our probers to singapore  our business and results of operations will be negatively impacted 
+in january  we announced plans to move prober manufacturing to singapore to realize potential cost savings of to once full production is reached 
+we have recorded a restructuring charge of million for in connection with this move 
+we cannot assure you that we will realize cost savings  however  expenses related to the move will adversely affect operating results 
+our business will be harmed if we cannot hire and retain key employees 
+our future success partly depends on our ability to retain key personnel 
+we also need to attract additional skilled personnel in all areas to grow our business 
+while many of our current employees have many years of service us  there can be no assurance that we will be able to retain our existing personnel or attract additional qualified employees in the future 
+future acquisitions could have a negative impact on our business and operating results 
+we may pursue acquisitions of complementary product lines  technologies or businesses 
+acquisitions by us may result in potentially dilutive issuances of equity securities  the incurrence of debt and contingent liabilities  and amortization expenses related to intangible assets  which could materially adversely affect our profitability 
+we may experience charges such as goodwill or impairment charges related to future acquisitions 
+current or future acquisitions involve numerous risks  including difficulties in the assimilation of the operations  technologies and 
+table of contents products of the acquired companies  the diversion of management s attention from other business concerns  risks of entering markets in which we have no or limited direct prior experience  and the potential loss of key employees of the acquired company 
+there can be no assurances as to the effect thereof of these  or future  acquisitions on our business or operating results 
+possible volatility of common stock price 
+the market price of our common stock could fluctuate significantly in response to variations in quarterly operating results and other factors such as announcements of technological innovations or new products by us or by our competitors  government regulations  developments in patent or other property rights  and developments in our relationships with our customers 
+in addition  the stock market has in recent years experienced significant price fluctuations 
+these fluctuations often have been unrelated to the operating performance of the specific companies whose stock is traded 
+broad market fluctuations  general economic conditions  and specific conditions in the semiconductor industry may adversely affect the market price of our common stock 
+our charter documents and shareholders rights plan  as well as delaware law  could make it difficult for a third party to acquire us 
+our shareholders rights plan and certain provisions of our certificate of incorporation and delaware law could discourage potential acquisition proposals and could delay or prevent a change in our control 
+such provisions could diminish the opportunities for a stockholder to participate in tender offers  including tender offers at a price above the then current market value of our common stock 
+such provisions may also inhibit fluctuations in the market price of our common stock that could result from takeover attempts 
+in addition  the board of directors  without further stockholder approval  may issue additional series of preferred stock that could have the effect of delaying  deterring or preventing a change in our control 
+the issuance of additional series of preferred stock could also adversely affect the voting power of the holders of common stock  including the loss of voting control to others 
+we have no current plans to issue any preferred stock 
+item a 
+quantitative and qualitative disclosures about market risk interest rate risk at december   our cash equivalents  restricted cash  and short term investments consisted primarily of fixed income securities 
+we maintain a strict investment policy  which ensures the safety and the preservation of our invested funds by limiting default risk  market risk and reinvestment risk 
+the portfolio includes only marketable securities with active secondary or resale markets 
+these securities are subject to interest rate risk and may decline in value when interest rates change 
+if a basis point change occurred in the value of our portfolio  the impact on our financial statements would be approximately million 
+the table below presents notional amounts and related weighted average interest rates by year of maturity for our investment portfolio 
+in thousands  except percentages maturity in fair value at december  cash equivalents and restricted cash average rate short term investments average rate foreign currency exchange rate risk we believe that our current foreign exchange exposure in all international operations is not material to our consolidated financial statements 
+we believe the impact of a change in exchange rates would not be material to our financial condition and results of operations 
+accordingly  we do not use derivative financial instruments to hedge our current foreign exchange exposure 
+for further discussion regarding the effect of foreign currency accounting on our business  see note to our consolidated financial statements summary of significant accounting policies  foreign currency accounting 
+there have been no significant changes in our market risk from the prior year 
+
+table of contents 

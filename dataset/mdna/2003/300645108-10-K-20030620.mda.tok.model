@@ -1,0 +1,885 @@
+item management s discussion and analysis of financial condition and results of operations  and  in particular  risk factors 
+the company disclaims any obligation to update information in any forward looking statement 
+item business overview exar corporation exar or the company designs  develops and markets high performance  analog and mixed signal silicon solutions for the worldwide communications infrastructure 
+leveraging its industry proven analog design expertise  system level knowledge and standard process technologies  exar provides oems with innovative  highly integrated ics that facilitate the transport and aggregation of signals in access  metro and wide area networks 
+the company s physical layer silicon solutions address transmission standards such as t e carrier  atm and sonet sdh 
+additionally  exar offers ics for both the serial communications and the video and imaging markets 
+exar s customers include  among others  alcatel  cisco systems  inc  digi international  inc  hewlett packard company hewlett packard  huawei technologies company  ltd  logitech international sa  nec corporation  nokia corporation  plantronics  inc and tellabs  inc 
+exar s common stock trades on the nasdaq stock market  inc under the symbol exar and is included in the s p smallcap index 
+industry background communications technology has evolved from simple analog voice signals transmitted over networks of copper telephone lines to complex analog and digital voice and data signals transmitted over hybrid networks of media  such as copper  coaxial and fiber optic cables 
+this evolution has been driven by large increases in the number of users and the complexity and variety of the data transmitted over networks resulting from the substantial growth in the internet and its transformation from a text based medium to a multimedia platform containing images  video and sound  the growth of wireless communications  and the increased demand for remote network access and higher speed  higher bandwidth communication between lans  mans and wans 
+the majority of installed communications systems were designed to transmit only voice communications  and  therefore  are inadequate for the high bandwidth transmission of both voice and data 
+access to the public network is typically based on asynchronous technologies  such as t e carrier over copper wire 
+the demand for 
+table of contents greater bandwidth is driving a migration from lower speed t e  to higher speed t e transmission rates 
+the t e standard permits the transmission of data at mbps mbps  and the t e standard permits the transmission of data at mbps mbps 
+the backbone of the public network is built on an optical fiber transmission medium that employs synchronous technologies such as sonet sdh 
+similar to the utilization of faster transmission rates over copper wire  sonet sdh protocols such as oc mbps are being upgraded to oc mbps and oc gbps to increase the bandwidth over a single optical fiber 
+the market dynamics of the communications industry have changed significantly since many carriers that spent billions of dollars building out their networks in and prior years were not successful in executing their business models  and consequently  were sold or declared bankruptcy 
+incumbent telephone companies such as at t corp  sprint corporation and mci worldcom  inc and regional bell operating companies such as bellsouth corporation  verizon communications inc and sbc communications inc have substantially reduced their capital expenditures in line with current revenues 
+this dynamic has severely impacted exar s customers  communications equipment oems  or original equipment manufacturers  many of which have undergone or are undergoing extensive restructuring to eliminate excess inventory and to reduce expenses by significantly downsizing their organizations 
+at the same time  the company s oem customers are and will continue to come under tremendous pressure to develop new products for access and man markets that will enable carriers to leverage their current network infrastructure 
+to address these evolving requirements of the communications industry  oems must develop and introduce increasingly sophisticated systems with fewer engineering resources 
+to achieve the performance and functionality required of these systems  communications oems are using increasingly complex communications ics  which now account for a significant portion of the value added proprietary content of these systems 
+as a result of the need for new equipment introductions  coupled with the reduction in their technical staff  the proliferation of transmission standards and the difficulty of designing and producing communications ics  equipment suppliers are increasingly outsourcing the design and production of the ics incorporated into their systems 
+the key ics contained in a typical communications system include physical interface  access control  network processor  traffic manager and switch fabric devices 
+the physical interface device consists of a transmitter and receiver that  when integrated  is called a transceiver 
+transceivers interface with the physical transmission media  such as copper wire or optical fiber 
+most of these high speed  mixed signal ics convert parallel digital signals into a single analog bit stream that is up to times faster than the original signal 
+transceivers therefore serve as a bridge between analog transmission media and the digital devices that process data 
+access control circuits are digital ics that format  or frame  the data  perform error checking and in some applications aggregate signals by mapping multiple lower speed data streams to a single higher speed stream 
+the traffic manager manages the transfer of data between the network processor and the switch fabric  which work together to shape  route and control the data 
+because physical interface and access control ics interface with the transmission media and are critical to increasing bandwidth  these ics must offer high speed and robust performance 
+therefore  communications equipment oems seek ic suppliers that possess extensive analog and digital expertise to provide high speed  mixed signal solutions to bridge the analog physical world and the digital computing environment 
+this must be coupled with system level expertise so that a supplier can quickly bring to market high performance  highly reliable ics with optimal feature sets 
+the exar solution exar designs  develops and markets high performance  high bandwidth mixed signal ics for use in the worldwide communications infrastructure 
+the company s analog and digital design expertise  combined with its systems understanding  enables the company to provide physical interface and access control solutions for access  man  and wan communications equipment 
+exar offers ics based on the t e carrier  atm and 
+table of contents sonet sdh transmission standards 
+in addition  the company provides solutions for the serial communications market and the video and imaging markets 
+exar believes its products offer its customers the following benefits increased bandwidth through the integration of multiple channels on a single device  reduced system noise jitter to improve data integrity  reduced overall system cost through the integration of multiple functions on a single device  and accelerated time to market by allowing customers to focus on core competencies and outsource standards based solutions 
+key elements of the company s solution include leading analog and mixed signal design expertise 
+exar has over years of experience in developing analog and mixed signal ics 
+as a result  the company has developed a significant base of knowledge in these areas and a library of design elements 
+for example  the company believes that it has particularly strong expertise in the design of high speed  low jitter phase lock loops  which are key elements in exar s mixed signal transceiver  jitter attenuator and data aggregation mapper products 
+as a result  exar can provide its customers with solutions that typically exceed standard specifications and allow them flexibility in designing other parts of their systems 
+broad product offerings 
+exar offers a variety of physical interface and access control products based on the t e  t e  atm and sonet sdh transmission standards 
+exar s broad portfolio of multiple channel products for various transmission standards enables its customers to minimize board space and overall cost in multi port applications 
+comprehensive solutions to enhance system integration 
+the combination of exar s design and system level expertise allows it to provide a solution that encompasses hardware  software and applications support 
+exar believes that  by using its solutions  oems can efficiently integrate the company s devices into their systems  better leverage their development resources and reduce their time to market 
+compelling price performance solutions 
+the company uses its systems expertise and its analog  digital and mixed signal design techniques to architect high performance products based on standard cmos process technologies 
+exar believes that these cmos processes are proven  stable  predictable and able to meet its customers application speed and power performance requirements at a lower price point than other semiconductor manufacturing processes 
+strategy exar s objective is to be the leading provider of high performance  high bandwidth ic solutions for the worldwide communications infrastructure 
+to achieve this objective  exar employs the following strategies focus on growing market share within the communications markets 
+exar targets communications markets  including t e carrier  atm and sonet sdh 
+the company has built substantial expertise in the areas of analog and digital design  systems architecture and applications support 
+exar believes that the integration of these capabilities enables the company to develop solutions addressing the high bandwidth requirements of communications systems oems 
+the company s broad product offerings support differentiated features  which the company believes  will enable it to increase its market share 
+leverage analog and mixed signal design expertise to provide integrated system level solutions 
+utilizing exar s strong analog and mixed signal design expertise  the company integrates mixed signal physical interface devices with digital access control devices 
+the company offers products that integrate transceivers with jitter attenuators and framers atm unis on a single ic 
+the company s data aggregation devices leverage its t e carrier 
+table of contents and sonet sdh expertise  mapping multiple t data streams into a sonet sdh stream 
+these configurations enable oems to use less board space and reduce their overall system cost 
+expand the company s revenue content per system 
+exar s analog and mixed signal design expertise enabled the company to build what it believes to be a technological lead and a strong market position in t e transceivers 
+the company intends to leverage this lead and its established customer relationships to capture design wins for its access control products  thereby increasing the company s overall revenue content per system 
+strengthen and expand strategic oem relationships 
+exar s customers include alcatel  cisco systems  inc  digi international  inc  hewlett packard company hewlett packard  huawei technologies company  ltd  logitech international sa  nec corporation  nokia corporation  plantronics  inc and tellabs  inc 
+to promote the early adoption of its solutions  the company actively seeks collaborative relationships with strategic oems during product development 
+the company believes that oems recognize the value of exar s early involvement because designing their system products in parallel with the company s development can accelerate time to market for their end products 
+in addition  exar believes that collaborative relationships help the company to obtain early design wins and to reduce the market acceptance risk of its new products 
+leverage broad product portfolio to accelerate communications product development 
+exar believes it has developed a strong presence in the serial communications market  where the company has leading industry customers and proven technological capabilities 
+the company s design expertise has enabled it to offer a diverse portfolio of both industry standard and proprietary serial communications products 
+additionally  the company offers what it believes is a strong product portfolio for the video and imaging markets 
+the company has established important customer relationships for its high performance  low power video and imaging products and continues to support key customers such as hewlett packard with its imaging products 
+use standard cmos process technologies to provide compelling price performance solutions 
+exar designs its products to be manufactured using standard cmos processes 
+the company believes that these processes are proven  stable and predictable and benefit from the extensive semiconductor manufacturing infrastructure devoted to cmos processes 
+therefore  the company believes that it can achieve a higher level of performance at a lower cost than competitors that use alternative processes 
+leverage fabless semiconductor model 
+exar has long standing relationships with world class third party assembly  test and wafer foundries to manufacture the company s ics 
+the company s fabless approach allows it to avoid substantial capital spending  obtain competitive pricing  reduce time to market  reduce technology and product risks  and facilitate the migration of the company s products to new process technologies  which reduce costs and optimize performance 
+by leveraging the fabless model  exar can focus on its core competencies of ic design and product development 
+products exar designs  develops and markets high performance  high bandwidth physical interface and access control solutions for the worldwide communications infrastructure 
+the company s current ic products for the communications market are designed to respond to the growing demand for cost effective line card solutions based on transmission standards such as t e carrier  atm and sonet sdh 
+the company also designs  develops and markets ic products that address the needs of the serial communications market and the video and imaging markets 
+exar uses its design methodologies to develop products ranging from assps  for industry wide applications  to semi custom solutions  for specific customer applications 
+communications exar s products for t e carrier  atm and sonet sdh applications include high speed analog  digital and mixed signal physical interface and access control ics 
+the physical interface ic consists of a transmitter and 
+table of contents receiver that  when integrated  is called a transceiver 
+transceivers interface with the physical transmission media 
+most of these high speed  mixed signal ics convert parallel digital inputs into a single analog bit stream that is up to times faster than the original signal 
+access control circuits are digital circuits that format  or frame  the data  perform error checking and in some applications aggregate signals by mapping multiple lower speed data streams to a single higher speed stream 
+the figure below illustrates where the company s products are employed within networking equipment 
+types of communications ics used in networking equipment logo exar s communications products include transmitters and receivers  transceivers  phys  jitter attenuators  framers  atm unis and data aggregation mappers 
+these products are used in networking equipment such as sonet sdh multiplexers  pbx  central office switches  digital cross connects and multiservice provisioning platforms 
+the company enhanced its te e physical interface solution in with an integrated single chip transceiver and now offers two  three  four  six and twelve channel versions  with or without integrated jitter attenuation  that meet the same performance levels  while requiring less board space and lower overall power in multi port applications 
+extending its jitter attenuation capabilities  exar incorporates desynchronization in its transceivers and data aggregation mappers to solve complex timing issues associated with mapping demapping from sonet sdh synchronous to t e asynchronous environments 
+exar s data aggregation mapper solutions leverage the company s expertise in t e carrier with sonet sdh enabling the company to provide unique solutions to the sonet sdh market place 
+in addition to integrating sonet phy capability into its data aggregation mappers  the company also introduced its first oc phy with integrated forward error correction  or fec 
+the company plans to compliment this product with oc data aggregation solutions currently under development 
+exar s access control products include framers and atm unis  in addition to its data aggregation mappers 
+the company also supplies a family of v 
+transceiver products used for high speed data transmission  primarily in networking equipment such as routers and bridges 
+
+table of contents the following table describes some of the company s key communications products product description applications oc to x t e sts mapper oc to x t e sts mapper sonet sdh add drop multiplexers  atm switches  routers and digital cross connects oc phy transceiver oc framer sonet sdh add drop multiplexers  atm switches  routers and digital cross connects t e sts      channel transceivers and t e sts channel receiver and transmitter sonet sdh multiplexers and digital cross connects t e sts      channel transceivers jitter attenuators desync sonet sdh multiplexers and digital cross connects t e   channel jitter attenuators multiplexers  switches and digital cross connects t e      channel framers multiplexers and digital cross connects t e   channel atm unis atm switches routers hubs e channel transceiver and framer routers  internet access equipment  frame relay and atm switches routers hubs e multi channel transceivers multiplexers  frame relay and atm switches routers hubs t e    channel sh and lh sh transceivers routers  internet access equipment  frame relay and atm switches routers hubs t   channel framers routers  internet access equipment  frame relay and atm switches routers hubs t e channel framer routers  internet access equipment  frame relay and atm switches routers hubs t e clock adaptors frame relay access devices and remote access servers multiprotocol serial interface multiplexers  access equipment and routers v 
+serial interface multiplexers  access equipment and routers the company expects to introduce a number of new communications ics in the fiscal year ending march  to provide an expanded line of t e carrier products as well as sonet sdh products 
+the t e carrier products are expected to include multi channel  multi function ics that integrate transceivers  jitter attenuators  framers and atm unis 
+sonet sdh product introductions are expected to focus on data aggregation  combining oc mbps capability with oc mbps or oc gbps functions 
+serial communications uarts convert data streams from parallel to serial  enabling a serial data stream to communicate with a central processing unit  or cpu 
+exar sells its uart products to the remote access  data collection  industrial automation and handheld mobile markets 
+many of these products include high performance features  such as automated flow control and large first in first out  or fifo  buffers 
+the company has designed highly integrated quad four channel and octal eight channel uarts with fifo circuitry  which the company believes are the de facto industry standard for multi channel fifo uarts used in multi port networking applications 
+
+table of contents the following table describes the company s key serial communications products product description applications   channel uart with byte fifo process control systems   channel pci uart with byte fifo   channel universal i o pci uart pci interface for network control management    channel uart with byte fifo network management  remote access servers and point of sale systems  personal digital assistants and gps   channel uart with byte fifo hub management  high speed modems and pc i o cards channel uart with byte fifo process control systems  switches and serial port equipment channel uart with byte fifo process control systems  switches and serial port equipment channel uart serial port equipment during the current fiscal year  the company expects to expand its family of pci products 
+video and imaging exar supplies high performance analog to digital converters  or adcs  and integrated analog front ends  or afes  for products such as digital copiers and scanners  digital still cameras  or dscs  and multifunctional peripherals  or mfps  which incorporate scanning  faxing  copying and printing functions in a single integrated system 
+the company uses advanced design techniques and process technologies to integrate low power converter architectures with surrounding analog functions  thereby reducing system costs 
+the following table describes some of the company s key video and imaging products product description applications bit or msps afes high speed scanners  dscs  camcorders and video conferencing bit  or msps afes dscs  camcorders and video conferencing channel  or bit or msps afes scanners  mfps and digital color copiers bit or msps adcs high end dscs and broadcast video bit msps adcs video boards  scanners and battery powered devices  or bit serial input dacs digital to analog converter voltage control and power control for wireless equipment sales and customers exar markets its products in the americas through independent  non exclusive sales representatives and two independent  non exclusive distributors  as well as through the company s own direct sales force 
+the company currently has sales support offices in or near atlanta  boston  chicago  dallas  los angeles and fremont  california 
+the company is represented internationally by independent  non exclusive sales representatives and distributors 
+in addition  the company is represented in europe by its wholly owned subsidiaries  exar ltd 
+and exar sarl  and in japan by its wholly owned subsidiary  exar japan 
+
+table of contents the company s customers include the following  among others communications serial and other communications video and imaging alcatel cisco systems  inc hewlett packard company cisco systems  inc digi international  inc logitech international sa huawei technologies company  ltd 
+plantronics  inc nec corporation nokia corporation tellabs  inc for the fiscal year ended march   one customer  hewlett packard  accounted for of the company s net sales 
+no other customer accounted for more than of the company s net sales during this period 
+sales to the domestic distribution channel accounted for of net sales 
+manufacturing exar out sources all of its fabrication and assembly  as well as the majority of its testing operations 
+this fabless manufacturing model allows the company to focus on its core competencies of product design and development 
+the majority of the company s current products are implemented in standard cmos 
+the company uses cmos manufacturing processes to take advantage of that technology s lower power consumption  cost effectiveness  foundry availability and ever increasing speed 
+currently  all of the company s new product development is being implemented in cmos 
+chartered semiconductor manufacturing chartered and taiwan semiconductor manufacturing company  tsmc manufacture all of the company s cmos products 
+in addition  chartered manufactures all of the company s bicmos products  which combine bipolar and cmos processes 
+the company does not have long term supply agreements with chartered or tsmc 
+chartered has announced that it intends to transfer production from its foundry which utilizes six inch wafer manufacturing technologies to a facility that is based on eight inch wafer manufacturing technologies 
+chartered has indicated that it intends to close the older foundry concurrently with the transfer of manufacturing operations to the newer facility by march the transfer of many of the company s existing products to the new foundry entails certain risks and uncertainties 
+see management s discussion and analysis of financial condition and results of operations risk factors 
+most semiconductor wafers are usually shipped to the company s subcontractors in asia for wafer test and assembly  where they are cut into individual die and packaged 
+independent contractors in hong kong  indonesia and singapore perform most of the company s assembly work 
+following assembly  final test and quality assurance are performed either at the company s fremont  california facility or at its subcontractors facilities in asia 
+the combination of various functions makes the test process for analog and mixed signal devices particularly difficult 
+test operations require the programming  maintenance and use of sophisticated computer based test systems and complex automatic handling systems 
+research and development exar believes that the continued introduction of new products in its target markets is essential to its growth 
+exar s research and development is focused on developing high performance analog  digital and mixed signal solutions addressing the high bandwidth requirements of communications systems oems 
+exar has made significant investments in advanced design tools and high performance standard cell libraries 
+by utilizing these tools  the company has developed design methodologies that are optimized for reducing design cycle time and increasing chances of first time success 
+in order to support high pin count devices  the company continues to 
+table of contents develop high performance packages for its new products in collaboration with packaging suppliers 
+as of march   the company s research and development staff consisted of employees  of whom hold advanced degrees 
+competition the semiconductor industry is intensely competitive and is characterized by rapid technological change and a history of price reductions as production efficiencies are achieved in successive generations of products 
+although the market for analog and mixed signal integrated circuits is generally characterized by longer product life cycles and less dramatic price reductions than the market for digital integrated circuits  the company faces substantial competition in each market in which it participates 
+competition in the company s markets is based principally on technical innovation  product features  timely introduction of new products  quality and reliability  performance  price  technical support and service 
+the company believes that it competes favorably in all of these areas 
+because the ic markets are highly fragmented  the company generally encounters different competitors in its various market areas 
+competitors with respect to the company s communications products include applied micro circuits corporation  mindspeed technologies  a division of conexant systems  inc  pmc sierra  inc  and transwitch corporation 
+competitors in the company s serial communications and video and imaging markets include analog devices inc  philips electronics  texas instruments incorporated and wolfson microelectronics ltd 
+backlog exar defines backlog to include oem orders and distributor orders for which a delivery schedule has been specified for product shipment occurring primarily during the succeeding six months 
+at march   exar s backlog was million  compared to million at march  exar believes that the decrease in the company s backlog was due to a reduction in carrier capital expenditures by the company s communications customers 
+additionally  the decrease in backlog resulted from the shortened order to shipment time for the company s products 
+over the past to months  the company has experienced an increased percentage of orders received that shipped in the same quarter 
+if this practice of short order to delivery times continues  the company s backlog may be less than in previous years and a less reliable indicator of future revenue 
+sales are made pursuant to either purchase orders for current delivery of standard items or agreements covering purchases over a period of time  which are frequently subject to revision and cancellation 
+lead times for the release of purchase orders depend on the scheduling practices of the individual customer  and the company s rate of bookings varies from month to month 
+in addition  exar s domestic distributor agreements generally permit the return of up to of purchases of the preceding quarter for purposes of stock rotation and also provide for credits to distributors in the event that exar reduces the price of any product 
+because of the possibility of changes in delivery schedules  quantities actually purchased  cancellations of orders  distributor returns or price reductions  exar s backlog as of any particular date may not be representative of actual sales for any succeeding six month period 
+customers can cancel a significant portion  if not all  of their backlog at their discretion without substantial penalty 
+intellectual property rights the company has patents issued and patent applications pending in the us the company has patents issued and patent applications pending in various foreign countries 
+none of the company s key domestic and foreign patents that have been issued will expire in the near future unless the company chooses not to pay renewal fees 
+to protect its intellectual property  the company also relies on a combination of mask work 
+table of contents registrations  trademarks  copyrights  trade secrets  employee and third party nondisclosure agreements and licensing arrangements 
+the company may enter into license agreements or other agreements to gain access to externally developed products or technologies 
+the company may fail to adequately protect its intellectual property 
+others may gain access to the company s trade secrets or disclose such trade secrets to third parties 
+some or all of the company s pending and future patent applications may not result in issued patents that provide it with a competitive advantage 
+even if issued  such patents  as well as its existing patents  may be challenged and later determined to be invalid or unenforceable 
+in addition  others may develop similar or superior products without access to or without infringing upon its intellectual property  including intellectual property that is protected by trade secret and patent rights 
+the company cannot be sure that its products or technologies do not infringe patents that may be granted in the future pursuant to pending patent applications or that the company s products do not infringe any patents or proprietary rights of third parties 
+occasionally  the company is informed by third parties of alleged patent infringement 
+in the event that any relevant claims of third party patents are found to be valid and enforceable  the company may be required to stop selling  incorporating or using its products that use the infringed intellectual property  obtain a license to make  sell or use the relevant technology from the owner of the infringed intellectual property  although  such license may not be available on commercially reasonable terms  if at all  and redesign the company s products so as not to use the fringed intellectual property  which may not be technically or commercially feasible 
+if the company were required to take any of the actions described above or defend against any claims from third parties  its business  financial condition and results of operations could be harmed 
+employees as of march   the company employed full time employees  with in engineering and product development  in operations  in marketing and sales and in administration 
+of the engineering and product development employees  hold advanced degrees 
+the company s ability to attract  motivate and retain qualified personnel is essential to its continued success 
+none of the company s employees is represented by a collective bargaining agreement  nor has the company ever experienced a work stoppage due to labor issues 
+the company believes its employee relations are good 
+glossary exar uses a number of terms in this annual report which are familiar to industry participants but which some investors may not recognize 
+the company has provided a glossary of some of these terms below 
+access refers to the part of the network between a home or business and the public network 
+access control circuits an ic that formats or frames the data  performs error checking and in some applications aggregates signals by mapping multiple lower rate data streams to a single higher speed data stream 
+analog to digital converters adcs convert an analog signal to a digital signal 
+
+table of contents add drop multiplexer adm a device at an intermediate point on a transmission line that enables new signals to come in and existing signals to go out 
+analog front ends afes an ic that conditions the analog signal received from a sensor and performs an analog to digital conversion 
+analog integrated circuits these semiconductor devices are used to electronically shape continuous real world phenomena  such as sound waves  motion  heat  light and pressure 
+the electronic signals from analog ics are typically translated into digital form and later converted back into analog forms that provide visual  auditory and tactile sensory stimuli 
+application specific standard product assp a device tailored for a specific application that is sold on the open market to multiple customers with similar requirements 
+customers will often differentiate their end product with unique software and hardware features 
+asynchronous transfer mode atm a fast packet switching protocol by which short packets or cells containing data  voice or video signals are moved over networks at high speed 
+this high speed switching technology is used as a backbone technology in carrier networks and large enterprises 
+atm is designed to take advantage of high speed transmission media such as t e and sonet 
+atm user network interfaces atm unis a device that provides the atm physical layer physical medium dependent and transmission convergence sub layers interface for the public and private networks 
+asynchronous transmission describes digital signals that are transmitted without precise clocking 
+backbone backplane or bus which makes up the skeleton of a network 
+bandwidth commonly defined as the volume of data that a transmission line can carry  measured in bits per second bps 
+traditional copper lines have the lowest bandwidth potential  while fiber optic lines have the highest 
+a range of signal frequencies  measured in cycles per seconds or hertz hz 
+also refers to the speed at which data is transmitted  measured in bits per second bps 
+broadband communications data transmission at speeds of equal to or greater than mbps 
+
+table of contents central office co the main switching facility for a telephone company where larger telephone trunks are provisioned out in smaller lines to customers 
+where fiber is connected to copper and vice versa 
+central processing unit cpu the computational and control unit of a computer  the device that interprets and executes instructions 
+by definition  the cpu is the chip that functions as the brain of the computer 
+complementary metal oxide semiconductor cmos process technology used to manufacture silicon integrated circuits 
+carrier an organization that provides communications services 
+copper usually small gauge where two wires are twisted together  twisted pair 
+limited in the amount of information it can carry 
+typically associated with last mile transport 
+design win exar defines as a minimum order of units which signifies acceptance of a device by an oem for use in their end product 
+digital cross connect an electronic switching system that routes digital signals among multiple paths without demultiplexing them 
+digital ics within these devices  transistors are used to switch discrete digital signals that are represented in two states on or off  or or 
+with today s process technologies  millions of transistors can be integrated on a single chip  resulting in enormous computing power 
+frame relay a packet switching technology used to route frames of information within a network 
+instead of leasing dedicated lines between all remote sites  frame relay allows virtual private networks to be established in which remote sites are connected to a central carrier  which routes data accordingly 
+gigabit gbps one billion bits per second 
+integrated circuit ic a single electronic device that contains previously separate discrete electronic components 
+an ic is produced on a small slice of silicon semiconductor material 
+
+table of contents jitter attenuation reduces jitter noise  distortion so that data transmission is clean and error free 
+kilobit kbps one thousand bits per second 
+local area network lan a shared  private data communications network linking a variety of data devices such as workstations  computers and printers within an office or home environment  usually confined to a single building or cluster of buildings 
+megabit mbps one million bits per second 
+metropolitan area network man a communications network that covers a geographic area  such as a city or suburb  or a series of lans at multiple sites often interconnected by public facilities 
+mixed signal ics integrated circuits that combine analog and digital functions 
+mixed signal ics are difficult to design because the analog and digital parts of the chip operate differently 
+multiplexing multiplexer or mux an electronic or optical process that combines a large number of low speed transmission lines into one high speed line by splitting the total available bandwidth of the high speed line into narrower channels 
+demultiplexing is the reverse of multiplexing 
+network processor an ic that executes programmed instructions  performs arithmetic and logical operations on signals  and controls input output functions 
+oc  oc  oc  oc optical carrier  designating sonet speed mbps  mbps  gbps  gbps  respectively 
+peripheral component interconnect pci pci provides high speed  auto configuring interconnections between the cards in a pc or a system 
+packet any logical block of data sent over a network 
+it contains a header consisting of control information such as sender  receiver  and error control data  as well as the message itself 
+may be fixed or variable length 
+
+table of contents phase lock loop pll analog or digital function that regulates the critical timing function in telecommunication and computer ics 
+physical layer level on the open space interconnect osi model 
+the connection layer  or where the wire connects to the equipment 
+physical interface phy an ic that receives analog signals from transmission media and converts it to a digital signal for further processing for incoming signals 
+it converts digital signals to analog for transmission across the transmission media for outgoing signals 
+private branch exchanges pbx a pbx is a switching system that provides telecommunications services on the premises or campus  eg internal calling and other services  and access to public and private telecommunications networks 
+router a device that connects multiple lans  or the bridge between a lan and the public network 
+synchronous digital hierarchy sdh an international standard for high speed synchronous data transmission over fiber  sdh was adapted from sonet  which is employed in north america 
+synchronous optical network sonet the north america standard for high speed synchronous data transmission over optical fiber 
+rates are measured in optical carrier oc units 
+for example  oc corresponds to mbps  oc corresponds to mbps and oc corresponds to gbps 
+sonet backbones are widely used to aggregate lower speed t and t lines 
+the international equivalent is sdh 
+synchronous transport signal sts x electronic equivalent of sonet oc level  x designating the speed 
+switch fabric devices an ic that incorporates a series of point to point interconnections that are used to overcome bandwidth bottlenecks in traditional bus structures 
+connection end points are joined through a cross connected switching matrix resembling a woven piece of cloth  hence the name fabric 
+any point may be combined with any other point to produce a powerful combination of switched end points 
+t e t is a dedicated digital transmission link with a capacity of mbps provided by telephone companies 
+widely used for private networks as well as interconnections between an organization s pbx or lan and 
+table of contents telephone companies 
+a t line can normally accommodate voice conversations channels  each one digitized at kbps and one kbps channel for signaling and control 
+e is the european designation for t and has a capacity of approximately mbps 
+t e a digital transmission link capable of transmission speeds of mbps 
+a t line can normally accommodate voice conversations 
+e is the european designation for t traffic manager an ic which manages the transfer of data among numerous channels and elements such as the network processor and switch fabric  which work together to shape  route and control the data 
+transmission media the physical transmission path along which a signal propagates  such as a twisted copper pair  coaxial cable or optical fiber cable 
+universal asynchronous receiver transmitter uart uarts convert data streams from parallel to serial  enabling a serial data stream to communicate with a cpu 
+wide area network wan a shared network of computers and data devices that spans a large geographical area  such as the internet  transporting long distance between mans 
+
+table of contents management the names of the company s executive officers and directors  and their ages as of may   are as follows name age position donald l 
+ciffone  jr 
+chairman of the board  chief executive officer and president michael class vice president  worldwide sales mir bahram ghaderi vice president and general manager  network and transmission products division roubik gregorian executive vice president and chief operating officer ronald w 
+guire executive vice president  chief financial officer  assistant secretary and director susan j 
+hardman vice president and general manager  interface products division thomas r 
+melendrez general counsel  secretary and vice president business development stephen w 
+michael vice president  operations and reliability quality assurance raimon l 
+conlisk vice chairman and director frank p 
+carrubba director james e 
+dykes director richard previte director donald l 
+ciffone  jr 
+joined the company as president and chief executive officer in october and was appointed a director at that time 
+mr 
+ciffone was appointed chairman of the board in april from august to october  mr 
+ciffone was executive vice president of toshiba america  the us semiconductor subsidiary of toshiba semiconductor 
+prior to joining toshiba  he served from to in a variety of senior management positions  including senior vice president of the vlsi product divisions  at vlsi technology  inc from to  mr 
+ciffone held a variety of marketing and operations positions at national semiconductor  inc mr 
+ciffone holds a ba from san jose state university and an ba from santa clara university 
+michael class joined the company as director of western area sales in in january  he was promoted to the position of vice president  north american european sales and was promoted to vice president  worldwide sales in july mr 
+class has over years of experience in the semiconductor industry  including employment with ic works  inc as area sales manager for the western us and canada 
+prior to joining ic works  mr 
+class held various sales management positions with intel corporation and vlsi from to he holds a bs in electrical engineering from lehigh university and an mba from lasalle university 
+mir bahram ghaderi joined the company in march as director of engineering  startech division  when the company acquired startech semiconductor  inc  where he served as vice president of engineering 
+he was promoted to divisional vice president of engineering  communications division in september  and to his current position as vice president and general manager  network and transmission products division  in april prior to joining startech in  he was director of engineering  modem clock products  at sierra semiconductor  inc dr 
+ghaderi has years of product development experience in the semiconductor industry and received a msee and msee in electrical engineering from the university of california at los angeles  as well as a msee from tehran university 
+roubik gregorian joined the company in march as vice president  startech division  when the company acquired startech semiconductor  inc  where he served as president 
+he was appointed chief technology officer and vice president of the communications division in june  and chief technology officer  senior vice president general manager  communications division  in june dr 
+gregorian was promoted to executive vice president general manager  communications division in may and to chief 
+table of contents operating officer in april prior to joining startech in  dr 
+gregorian was vice president of research and development and chief technology officer for sierra semiconductor  inc dr 
+gregorian has been issued patents  authored two textbooks and received his msee and phd in electrical engineering from the university of california at los angeles  as well as a msee from tehran university 
+ronald w 
+guire joined the company in july and has been a director since june he has served as chief financial officer since may  and executive vice president since july mr 
+guire was a partner in the certified public accounting firm of graubart co 
+from until he joined exar in july mr 
+guire holds a bs in accounting from california college of commerce 
+susan j 
+hardman joined the company in february and became vice president general manager of the company s interface products division in april prior to this  she served as vice president  corporate marketing and has served as director of marketing for the company s communications products 
+ms 
+hardman has years experience in the semiconductor industry 
+from to  ms 
+hardman was with vlsi technology vlsi in a variety of management positions  most recently as director of product marketing for vlsi s networking products division 
+from to  she was with motorola holding a variety of engineering roles 
+ms 
+hardman holds a bs in chemical engineering from purdue university and an mba from the university of phoenix 
+thomas r 
+melendrez joined the company in april as corporate attorney 
+he was promoted to director  legal affairs in july  and again to corporate vice president  legal affairs in march in march  mr 
+melendrez was promoted to corporate vice president  general counsel 
+in june  mr 
+melendrez was appointed secretary of the company 
+in april  mr 
+melendrez assumed the responsibilities of vice president  business development 
+mr 
+melendrez has over years legal experience in the semiconductor and related industries 
+he received a ba from the university of notre dame  a jd from the university of san francisco  and an jd from pepperdine university 
+stephen w 
+michael joined exar as vice president new market development in september in july  he was appointed vice president operations  and in may  he was appointed to his current position of vice president  operations and reliability quality assurance 
+mr 
+michael has years of semiconductor industry experience  most recently as vice president and general manager  analog and custom products with catalyst semiconductor 
+he joined catalyst in and served in various senior positions 
+he holds a bs in electrical engineering from the university of california at davis 
+raimon l 
+conlisk joined the company as a director in august  was appointed vice chairman of the board in august  served as chairman of the board from august to april  and is currently serving as vice chairman 
+mr 
+conlisk has also served as a director since  and in december was appointed chairman of the board of sbe  inc  a manufacturer of communications and computer products 
+from to  mr 
+conlisk was president of conlisk associates  a management consulting firm serving high technology companies in the united states and foreign countries 
+from to  mr 
+conlisk served as a director of xetel corporation  a contract manufacturer of electronic equipment 
+mr 
+conlisk was also president from to  a director from  and chairman from until retirement in june  of quantic industries  inc  a privately held manufacturer of electronic systems 
+from to  and from to  mr 
+conlisk served as a director of the american electronics association 
+frank p 
+carrubba joined the company as a director in august dr 
+carrubba served as executive vice president and chief technical officer of philips electronics  headquartered in eindhoven  the netherlands  from to from to  dr 
+carrubba was with hewlett packard company  where he was a member of the group management committee and was director of hewlett packard laboratories 
+prior to joining hewlett packard  he spent years as a member of the technical staff at ibm corporation s thomas j 
+watson research laboratory in yorktown heights  new york 
+dr 
+carrubba was one of the original designers of the risc architecture  for which he was named inventor of the year by the intellectual property owners in 
+table of contents washington  dc in dr 
+carrubba is also a director of coherent  inc  a global leader in the design  manufacture and sale of lasers  and gyration  inc  creators of in air cordless mice and controllers for games  presentations and virtual reality 
+in june  dr 
+carrubba was appointed chairman of the board of accerra corporation  a provider of secure online services for business communications located in santa rosa  california 
+james e 
+dykes joined the company as a director in may mr 
+dykes served as president and ceo of the signetics division of north american philips corporation  a manufacturer of industrial and consumer electronics  from to  and from to  as president and ceo of tsmc  a semiconductor foundry in taiwan 
+prior to joining tsmc  mr 
+dykes held various management positions with other semiconductor and related companies  including general electric company  a diversified international manufacturer of defense  electrical and other products  and harris semiconductor  inc  a manufacturer of semiconductors and integrated circuits 
+mr 
+dykes also is a director of the thomas group  inc  a management services company  and cree research  inc  a silicon carbide materials and electronics company 
+richard previte joined the company as a director in october he was a director of advanced micro devices  or amd  from to april  and vice chairman from to april additionally  mr 
+previte served as chairman of the board of vantis corporation  a subsidiary of amd  from to june  and acted as chief executive officer from february to june mr 
+previte served as president of amd from to  executive vice president and chief operating officer from to  and chief financial officer and treasurer from to most recently he was chief executive officer and chairman of the board of marketfusion  inc  from january to april item properties exar s executive offices  marketing and sales  research and development  manufacturing  test and engineering operations are located in fremont  california in two buildings that the company owns  which consist of approximately  square feet 
+additionally  the company owns approximately acres of undeveloped property adjacent to its headquarters  which is presently being held for future office expansion 
+the company leases additional space for sales offices in or near atlanta  boston  chicago  dallas  kawasaki  japan  and valauris  france 
+item legal proceedings the company is not currently a party to any material legal proceedings 
+item submission of matters to a vote of security holders during the fourth quarter of fiscal year  no matter was submitted to a vote of security holders through the solicitation of proxies or otherwise 
+
+table of contents part ii item market for registrant s common stock and related stockholder matters the common stock of exar is traded on the nasdaq stock market  inc under the symbol exar 
+the following table sets forth the range of high and low sales prices of the company s common stock for the periods indicated  as reported by nasdaq 
+the listed quotations represent inter dealer prices without retail markups  markdowns or commissions 
+the company has never paid cash dividends on its common stock and presently intends to continue this policy in order to retain earnings for use in its business 
+the company had approximately stockholders on record as of may  the company believes it has in excess of  beneficial stockholders 
+the last sales price for exar s common stock  as reported by nasdaq on may  was per share 
+common stock prices high low fiscal quarter ended march  quarter ended december  quarter ended september  quarter ended june  fiscal quarter ended march  quarter ended december  quarter ended september  quarter ended june  information relating to securities authorized for issuance under equity compensation plans under this item is hereby incorporated by reference from the company s definitive proxy statement under the caption equity compensation plan summary 
+
+table of contents item selected consolidated financial data the following selected financial data should be read in conjunction with the consolidated financial statements and notes thereto and management s discussion and analysis of financial condition and results of operations included elsewhere in this report 
+historical periods have been restated to reflect the three for two stock split effected on february  and the two for one stock split effected on october  years ended march  in thousands  except per share amounts consolidated statements of operation data net sales gross profit income loss from operations net income loss net income loss per share basic diluted shares used in computation of net income loss per share basic diluted as of march  in thousands consolidated balance sheets data cash  cash equivalents and short term and long term marketable securities working capital total assets long term obligations retained earnings stockholders equity 
+table of contents item management s discussion and analysis of financial condition and results of operations the following management s discussion and analysis of financial condition and results of operations  as well as information contained in risk factors below and elsewhere in this annual report on form k the annual report under the caption part i  item business  contains forward looking statements within the meaning of section a of the securities act of and section e of the securities exchange act of  as amended 
+forward looking statements are not guarantees of future performance and involve risks and uncertainties 
+actual results may differ materially from those projected in the forward looking statements as a result of various factors 
+these risks  uncertainties and other factors include  among others  those identified under risk factors 
+forward looking statements are generally written in the future tense and or are preceded by words such as will  may  should  could  expect  suggest  believe  anticipate  intend  plan  or other similar words 
+forward looking statements contained in this annual report include  among others  statements made in financial outlook and elsewhere regarding the company s net sales  the company s gross margins  the company s ability to control and or reduce operating expenses  the company s research and development efforts  customer acceptance of the company s new products  the company s ability to maintain positive operating cash flows to fund future operations  the sufficiency of the company s capital resources  the company s capital expenditures  competitive pressures and the general market and economic outlook 
+the company disclaims any obligation to update information in any forward looking statement 
+overview exar designs  develops and markets high performance  high bandwidth physical interface and access control solutions for the worldwide communications infrastructure 
+the company s current ic products for the communications market are designed to respond to the growing demand for cost effective line card solutions based on transmission standards such as t e carrier  atm and sonet sdh 
+the company also designs  develops and markets ic products that address the needs of the serial communications market and the video and imaging markets 
+exar uses its design methodologies to develop products ranging from assps  designed for industry wide applications  to semi custom solutions for specific customer applications 
+these complementary products enable the company to offer a range of solutions for its customers applications 
+exar s products provide the following benefits to its users increased bandwidth through the integration of multiple channels on a single device  reduced overall system cost through the integration of multiple functions on a single device  and accelerated time to market by allowing its customers to focus on core competencies and outsource standards based solutions 
+the company s customers include  among others  alcatel  cisco systems  inc  digi international  inc  hewlett packard company hewlett packard  huawei technologies company  ltd  logitech international sa  nec corporation  nokia corporation  plantronics  inc and tellabs  inc 
+for the fiscal year ended march   one customer  hewlett packard  accounted for of the company s net sales 
+no other customer accounted for more than of the company s net sales during this period 
+over the past several years  the company has actively refocused its business on products for the communications market 
+in the s  the company designed  manufactured and marketed custom and general purpose analog circuits supporting many different applications 
+in the s  the company transitioned its products to analog and mixed signal application specific standard products  or assps  focusing on telecommunications  data communications  computer peripherals and consumer electronics 
+through the mid s  the company continued this product transition through internal development and strategic acquisitions and moved to a fabless semiconductor business model 
+in  the company leveraged its analog expertise by beginning to focus its product strategy and development efforts predominantly on the communications markets 
+
+table of contents for the fiscal year ended march   the company s communications product sales represented of its net sales 
+the company markets its products in the americas through independent non exclusive sales representatives and independent non exclusive distributors as well as the company s own direct sales organization 
+additionally  the company is represented in europe and asia pacific region by its wholly owned subsidiaries 
+the company s international sales represented  and of net sales for the years ended march   and  respectively 
+these international sales consist primarily of export sales from the united states that are denominated in united states dollars 
+such international sales and operations expose the company to fluctuations in currency exchange rates because the company s foreign operating expenses are denominated in foreign currency while its sales are denominated in united states dollars 
+the company has adopted a set of practices to minimize its foreign currency risk  which include the occasional use of foreign currency exchange contracts to hedge the operating results of its foreign subsidiaries against this currency exchange risk 
+although foreign sales within certain countries or foreign sales comprised of certain products may subject the company to tariffs  the company s profit margin on international sales of ics  adjusted for differences in product mix  is not significantly different from that realized on the company s sales to domestic customers 
+the company s operating results are subject to quarterly and annual fluctuations as a result of several factors that could materially and adversely affect the company s future profitability  as described below in risk factors 
+to date  inflation has not had a significant impact on the company s operating results 
+financial outlook for fiscal year the company believes that further capital expenditure reductions and reduced enterprise spending by communications carriers in calendar year will put further downward pressure on demand for equipment and products sold by exar s customers 
+as a consequence  exar continues to experience limited visibility with respect to customer demand for its communications products 
+the company expects that long term video  imaging and other revenue will decline further due to anticipated decreases in imaging product sales resulting from hewlett packard s product transitions  seasonality and competing sources 
+the company may not be able to sustain or grow its communications revenue sufficiently to offset the anticipated decline in its video  imaging and other revenue  thus the company s future results of operations and financial condition may be negatively impacted 
+the company believes that these factors may be offset  in part  by the improved operational efficiencies resulting from the cost containment measures undertaken by exar commencing in fiscal year through fiscal year the company has continued to witness the design of its communication devices into several of its customers new and enhanced networking equipment  contributing to the company s belief that it is positioned for growth as market conditions improve 
+in addition  the company s serial communication devices achieved record level design wins in fiscal year however  if the company s assumptions prove to be inaccurate  the design wins fail to result in significant revenue or the company experiences pressure on its bookings and backlog as a result of competition or unfavorable market conditions  the company s future results of operations and financial condition may be negatively impacted 
+the company anticipates that interest income will continue to be under pressure as interest rates remain at historical lows 
+the company plans to continue exchanging some of its shorter termed marketable securities for longer termed marketable securities in order to capitalize on higher yields offered by longer termed securities 
+however  if the company consumes cash in excess of future cash receipts  resulting in decreased average cash balances available for earning interest  the company s results of operations and financial condition may be negatively impacted 
+
+table of contents critical accounting policies and use of estimates the us securities and exchange commission the sec has released fr cautionary advice regarding disclosure about critical accounting policies  which encourages companies to disclose critical accounting policies  judgments and uncertainties affecting the application of those policies and the likelihood that materially different financial results would be reported under different conditions or with the use of different assumptions 
+such critical accounting policies  as defined by the sec  are those that are both most significant to the depiction of a company s financial condition and results and require the use of difficult  subjective and complex judgment by management  often as a result of the need to make estimates about the effect of matters that are uncertain 
+the company s financial statements and accompanying disclosures  which are prepared in conformity with the accounting principles generally accepted in the united states  require that management use estimates and assumptions that affect the reported amounts of assets  liabilities  revenues and expenses and the related disclosure of contingent assets and liabilities 
+estimates and assumptions are reviewed periodically  and the effects of revisions are reflected in the consolidated financial statements in the period for which they are determined to be necessary 
+exar s most critical accounting policies relate to net sales  reserves for excess inventories  income taxes and investments in non public entities 
+these accounting policies  the basis for the underlying estimates and the potential impact on the company s consolidated financial statements  should any of the estimates prove to be inaccurate  are further described below net sales net sales are comprised of product deliveries principally to oems or their contract manufacturers and non exclusive domestic distributors 
+for the fiscal year ended march   and of net sales were derived from product sales to oems and non exclusive domestic distributors  respectively 
+for the fiscal year ended march   and of net sales were derived from product sales to oems and non exclusive domestic distributors  respectively 
+the company recognizes product revenue when persuasive evidence of an arrangement exists  delivery has occurred  the fee is fixed and determinable and collection is reasonably assured 
+the company has agreements with its non exclusive domestic distributors  which provide for returns and allowances to these distributors 
+the company records an allowance  at the time of delivery to such distributors  based on authorized and historical patterns of returns and other concessions 
+the following is a description of the provisions of the agreements allowing the distributors certain volume based discounts and rights of return 
+a volume discounts 
+the company provides for discounts based on volume ordered by a distributor for a specific product with a specified volume for a given customer over a period not to exceed one year 
+exar records a provision for future volume discounts when the related revenue is recognized 
+the provision is based on historical information and other known factors 
+if the company s provision does not accurately reflect future volume discounts  the company s net sales could be materially and adversely affected 
+b stock rotation 
+the company allows a non exclusive domestic distributor to exchange products  generally in an amount of up to of the amount purchased in the preceding quarter  provided that a purchase order from the distributor for an equal dollar amount of other products is in place at the same time of the exchange authorization 
+the company uses historical information along with current market conditions and experiences to support the allowance recorded against sales for potential future stock rotations 
+this allowance is recorded at the same time that revenue is recognized 
+if the recorded allowance does not accurately reflect future stock rotations  the company s net sales could be materially and adversely affected 
+as of march   the company had  of allowances for future volume discounts and stock rotation related to sales that were recorded during the fiscal year ended march  the company has 
+table of contents estimated volume discounts and stock rotation required by its distributors 
+however  the company s actual experience could differ from its original estimated allowances  therefore requiring adjustments to revenues in the relevant period 
+inventories the company s policy is to establish accruals against inventory supply in excess of approximately six months of forecasted demand  unless there are other factors indicating that the inventory will be sold at a profit after six months 
+such factors include  among others  known backlog of orders  projected sales and marketing forecasts  shipment activity  inventory on hand at the company s distributors  past and current market conditions  anticipated demand for the company s products and current business conditions when determining if a provision for excess inventory is required 
+the company s net inventories at march  were million  compared with million at march  the decrease of million was primarily the result of the million write off of inventory in fiscal year should management s assumptions used in estimating the provision for excess inventory differ from actual future demand or should market conditions become less favorable than those projected by management  additional inventory write downs may be required  which would impact the results of operations 
+deferred income tax assets income taxes are accounted for under the asset and liability method 
+deferred income tax assets and liabilities are recognized for the future tax consequences attributable to differences between the financial statement carrying amounts of existing assets and liabilities and their respective tax basis  operating losses and tax credit carryforwards 
+changes in tax rates affect the deferred income tax assets and liabilities and are recognized in the period in which the tax rates are enacted 
+in the event that the company is unable to generate sufficient operating income in future periods  the deferred tax assets including the operating loss and credit carryforward components of the deferred tax assets would not be realized  which would result in a write down of the deferred tax assets and a reduction of net income or an increase in net loss 
+investments in non public entities internet machines corporation in july  exar invested million in the series c preferred stock financing for a equity interest in internet machines corporation imc  a pre revenue  privately held company which has developed a family of highly integrated communications ics designed to provide protocol independent network processing  switch fabric and traffic management solutions for high speed optical  man and internet infrastructure equipment 
+because imc is a non public company  determining the market value of this investment is judgmental in nature and depends on management s assessment of imc s performance  among other factors 
+management must assess  among other matters  the possibility of successful introduction of imc s new products at a point in time when there is market demand for this new technology 
+this investment is subject to risks  including the risks that a suitable market for such technology may not exist as imc markets it products  or that a competitor may develop a similar or superior product  or that the new products may fail to meet market demand  or that market demand fails to develop for imc s new products 
+should any of these or other risks materialize  this asset would become impaired 
+in such case  the company would be required to write down the asset and record the related expense in the same period 
+during the three months ended september   the company became aware of a potential decline in the value of its equity investment in imc 
+as a result  the company retained an independent third party to assist in determining the fair market value of its investment 
+as a consequence  the company recorded against its earnings an investment impairment charge of million  reducing its equity investment from million to million 
+if the company s assessed value of its investment were to fall below the carrying value  the company would be required to recognize additional impairment to the investment  resulting in additional expense in the company s consolidated statements of operations 
+
+table of contents techfarm ventures as of march   the company had invested million in techfarm ventures q  lp the techfarm fund 
+exar became a limited partner in the techfarm fund in may this partnership is a venture capital fund  managed by techfarm ventures management llc  the general partner of the techfarm fund  a delaware limited partnership  and focuses its investment activities on seed and early stage technology companies 
+the company s capital commitment to the fund was million  of the total fund s committed capital 
+the company had accounted for this investment in accordance with eitf d  accounting for limited partnership investments  through may  effective may   in connection with the amendment of the partnership agreement  the company and techfarm ventures management llc agreed to reduce the company s capital commitment in the techfarm fund to million  or approximately of the techfarm fund s total committed capital 
+additionally  the company and techfarm ventures management llc agreed to change the company s status from a limited partner to that of an assignee having less rights and status than a limited partner 
+because of these modifications  the company changed its method of accounting for this investment from the equity method to the cost basis method as of may  the company has fulfilled its capital contribution commitment and  therefore  will not be required to fund additional amounts 
+if the company s assessed value of its investment falls below the carrying value  the company would be required to recognize impairment to the asset  resulting in additional expense on the company s consolidated statement of operations 
+for the fiscal year ended march   exar recorded charges against its earnings totaling  representing exar s portion of total losses in the techfarm fund and expenses through may  in the fiscal year ended march   the company recorded a  charge against its earnings for its proportionate share of the techfarm fund losses and expenses 
+at march   the investment amount represents exar s total contributed capital of million less an investment write down of million  netting to the million reflected on the company s consolidated balance sheet 
+if the company s assessed value of its investment were to fall below the carrying value on the company s consolidated balance sheet  the company would be required to recognize impairment to the asset  which would result in additional expense in the company s consolidated statements of operation 
+skypoint telecom as of march   the company had invested approximately  in skypoint telecom fund ii us  lp the skypoint fund  a venture capital fund  including funded capital and capitalized expenses 
+the investment is carried at cost on the company s consolidated balance sheet 
+exar is obligated to fund a total of million  which represents approximately of the fund s total capital commitments 
+of the million obligation  exar had funded  as of march   which reflects the return to the company of  of previously funded capital in the three months ended september  as of march   the company s remaining capital contribution obligation was million 
+the company reviews the fund s investments periodically to determine if there has been a temporary or permanent decline in the market value of the investments below the value at which the company is carrying them on the company s consolidated balance sheet 
+in assessing the potential of an impairment to the investment  the company considers the fund performance information provided by the fund s general partner together with other independent market information and makes an estimate of the future market potential of the venture capital fund 
+if the company s assessed value of its investment were to fall below the carrying value  the company would be required to recognize impairment to the asset  resulting in additional expense on the company s consolidated statements of operations 
+
+table of contents results of operations the following table sets forth for the periods indicated the percentage relationship to net sales of certain cost  expense and income items 
+the table and subsequent discussion should be read in conjunction with the consolidated financial statements and notes thereto 
+fiscal years ended march  net sales cost of sales gross profit operating expense research and development selling  general and administrative income loss from operations total other income loss  net income loss before income taxes provision for income taxes net income loss product line sales as a percentage of net sales the following table sets forth product line revenue information as a percentage of net sales 
+the table and subsequent discussion should be read in conjunction with the consolidated financial statements and notes thereto 
+fiscal years ended march  communications video  imaging and other fiscal year ended march  compared to fiscal year ended march  net sales net sales for the fiscal year ended march  increased by to million compared to million for the fiscal year ended march  the increase in net sales during fiscal year resulted from a increase in video  imaging and other product sales  primarily as a result of sales to hewlett packard 
+for the fiscal years ended march  and  sales to hewlett packard represented and  respectively of net sales  consisting of shipments of the company s imaging products to support hewlett packard s multifunction products 
+the company expects that long term video  imaging and other revenue will decline further due to anticipated decreases in imaging product sales resulting from hewlett packard s product transitions  seasonality and competing sources 
+although the company anticipates an increase in communications product sales  this increase may not be sufficient to offset the estimated decline in video and imaging product sales 
+if communications product sales do not increase to offset such anticipated decline  the company s financial condition and results of operations will likely be adversely impacted 
+
+table of contents in the fiscal year ended march   sales to north american customers remained relatively stable as compared with fiscal year international sales increased by to million  as compared to million for the prior fiscal year  primarily the result of increased imaging product sales to hewlett packard 
+gross profit gross profit represents net sales less cost of sales 
+cost of sales includes the cost of purchasing the finished silicon wafers manufactured by independent foundries  costs associated with assembly  packaging  test  quality assurance and product yields  the cost of personnel and equipment associated with manufacturing support and manufacturing engineering  and charges for excess inventory 
+included in the cost of sales for the fiscal year ended march  is a million charge taken by the company during the three months ended september  to write down inventory the company determined to be excess 
+gross profit as a percentage of net sales for the fiscal year ended march   including the inventory write down of million  was compared to for the fiscal year ended march  the decrease in gross profit as a percentage of net sales was primarily due to the inventory write down of million  partially offset by the company s ability to achieve manufacturing efficiencies resulting from increased production volumes 
+such efficiencies were modestly offset by the increase in imaging and video product sales  which typically have lower margins than the company s communications products  for the fiscal year ended march   when compared to the same period a year ago 
+the company anticipates that gross profit will continue to fluctuate as a percentage of net sales due to future fluctuations in net sales  fluctuations in manufacturing costs  competitive pricing strategies  changes in product mix and other factors 
+research and development research and development r d costs consist primarily of the salaries and related expenses of engineering employees engaged in research  design and development activities  costs related to design tools  supplies and services  and facilities expenses 
+r d expenses for the fiscal year ended march  were million  or of net sales  compared to million  or of net sales  for the fiscal year ended march  as a continuation of the cost containment measures undertaken by the company in the fiscal year ended march   the company implemented an approximate workforce reduction effected on october  to further align the company s expenses with anticipated revenue the october workforce reduction 
+in connection with the october workforce reduction  the company reduced the number of engineering employees engaged in r d 
+the company began to realize the cost benefits associated with these measures were realized in the quarter ended march  the company anticipates that the impact of these cost benefits will be partially offset by increased spending on product development 
+some aspects of the company s research and development efforts require significant short term expenditures  the timing of which may cause significant fluctuations in the company s expenses 
+the company expects that r d expenses as a percentage of net sales will continue to fluctuate in the future because of the timing of expenditures and changes in the level of net sales 
+the company believes that technological innovation is critical to its long term success  and it intends to continue to make substantial investments to enhance its product offerings to meet the current and future technological requirements of its customers and markets 
+
+table of contents selling  general and administrative selling  general and administrative sg a expenses consist primarily of salaries and related expenses  sales commissions  professional and legal fees  and facilities expenses 
+sg a expenses for the fiscal year ended march  were million  or of net sales  compared to million  or of net sales  for the fiscal year ended march  the increase in sg a spending in absolute dollars was primarily the result of increased professional fees and sales commissions 
+in connection with the october workforce reduction  the company reduced the number of employees engaged in selling  marketing and administration 
+the cost benefits associated with the october workforce reduction began to be realized in the quarter ended march  however  it is possible that future sg a expenses will increase in absolute dollars as a result of possible future expansion of the company s infrastructure to support potential acquisition and integration activities  and a general expansion of the company s operations 
+the company continues to assess its cost structure and other programs to improve operational efficiencies 
+in the short term  many of the sg a expenses are fixed  which results in a decline in sg a expense as a percentage of net sales in periods of increasing net sales and an increase as a percentage of net sales when net sales decrease 
+other income loss  net other income loss  net primarily consists of impairment charges  interest income  realized gains on marketable securities  and losses or gains resulting from investments in non public companies and venture funds 
+for the fiscal year ended march   other income loss  net decreased to a loss of million from income of million for the prior fiscal year 
+this decrease resulted principally from a million loss on long term investments resulting from impairment charges 
+during the quarter ended september   the company became aware of a potential decline in the value of its equity investment in imc 
+as a result  the company retained an independent third party to assist in determining the fair market value of its investment 
+as a consequence  the company recorded an impairment charge of million reported as a loss on other long term investments 
+also reported within loss on other long term investments in other income expense  net for the fiscal years ended march  and are charges of  and  respectively  recorded for the company s equity investment portion of the loss experienced by the techfarm fund during those periods 
+in connection with the amendment of the partnership agreement effective may   the company and techfarm ventures management llc agreed to reduce the company s capital commitment in the fund to approximately million  or approximately of the techfarm fund s total committed capital 
+the company has fulfilled its capital contribution commitment 
+additionally  the company and techfarm ventures management llc agreed to change the company s status from a limited partner to that of an assignee  having less rights and status than a limited partner 
+because of these modifications  the company changed its method of accounting for this investment from the equity method to the cost basis method as of may  the company does not anticipate that it will take additional charges against earnings for losses incurred by the fund 
+
+table of contents however  if the company s assessed value of its investment were to fall below the carrying value reported on the company s consolidated balance sheet  the company would be required to recognize an impairment charge  resulting in additional expense in the company s consolidated statement of operations 
+the decrease in other income loss  net  was primarily due to the impairment charge coupled with lower interest related earnings on cash and marketable securities 
+the company expects that its interest income will continue to be adversely affected by continued downward pressure on interest rates and current economic conditions 
+the company may report additional losses in connection with its investment in the techfarm fund or its investment in imc  which would negatively affect the company s future other income loss  net 
+see investments in non public companies in the critical accounting policies section of this report 
+net realized gains on investments were  for the fiscal year ended march   as compared to  for the fiscal year ended march  the decrease resulted from greater sales of marketable securities in fiscal year relative to fiscal year provision for income taxes the provision for income taxes for the year ended march  differs from the amount computed by applying the statutory federal rate 
+this difference is principally due to the company s decision not to recognize a tax benefit for the million imc asset impairment charge 
+this decision resulted from the company s uncertainty regarding whether it will earn sufficient future capital gains to offset this capital loss after the loss is recognized for tax purposes 
+the effective tax rate for fiscal year  excluding the asset impairment charge  was  which is the same as the income tax rate recorded by the company in fiscal year  compared with the federal statutory rate of 
+the difference is due primarily to tax exempt interest and the use of income tax credits  partially offset by state income taxes 
+fiscal year ended march  compared to fiscal year ended march  net sales net sales for the fiscal year ended march  decreased by to million compared to million for the fiscal year ended march  the company believes that this significant revenue decrease was largely due to adverse telecommunications industry wide economic conditions that led to a reduction in purchases by the company s customers 
+this resulted in decreased shipments of the company s products to communications equipment oems 
+price changes did not have a material effect on net sales 
+in the fiscal year ended march   sales to north american customers decreased by to million  as compared to million for the prior fiscal year 
+international sales decreased by to million  as compared to million for the prior fiscal year 
+sales to north american customers represented of net sales for the fiscal year ended march  compared to for the prior fiscal year 
+gross profit gross profit as a percentage of net sales for the fiscal year ended march  decreased to approximately  compared to for the fiscal year ended march  the decrease in gross margins in fiscal year from fiscal year levels was primarily the result of reduced shipment volumes without an equivalent decrease in manufacturing overhead costs  coupled with a shift in the company s product sales mix to lower margin video and imaging products 
+
+table of contents research and development r d expenses for the fiscal year ended march  were million  or of net sales  compared to million  or of net sales  for the fiscal year ended march  the decrease in r d spending was due to labor cost reductions in fiscal year resulting from cost control measures undertaken by the company 
+selling  general and administrative sg a expenses for the fiscal year ended march  were million  or of net sales  compared to million  or of net sales  for the fiscal year ended march  the decrease in sg a spending was primarily the result of cost control measures undertaken by the company coupled with reduced sales commissions as a result of the decrease in net sales for the fiscal year ended march  other income loss  net for the fiscal year ended march   other income loss  net decreased by to million  as compared to million for the prior fiscal year 
+interest income  net for the fiscal year ended march  decreased to million from million for the prior fiscal year 
+this decrease resulted from a decline in interest rates 
+realized gains on investments were  for the fiscal year ended march   as compared to  for the fiscal year ended march  the increase resulted from greater sales of marketable securities in fiscal year relative to fiscal declining interest rates allowed the company to realize investment gains at the time of sale of these securities  but reduced the company s interest income 
+the company recorded losses of  for the fiscal year ended march  on its investment in the techfarm fund resulting from losses incurred by the fund on investments made during fiscal year provision for income taxes the provision for income taxes is based on income before income taxes 
+the effective tax rate for fiscal year was compared with the federal statutory rate of 
+the difference is due primarily to the use of income tax credits  offset in part by state income taxes 
+the effective tax rate for fiscal was approximately compared to the federal statutory rate of 
+the difference was primarily due to state income taxes partially offset by the use of tax credits 
+
+table of contents quarterly results the following table contains selected unaudited quarterly financial data for the eight quarters ended march   both in absolute dollars as well as in terms of percentage of net sales 
+in the opinion of management  this unaudited information has been prepared on the same basis as the audited information and includes all adjustments  consisting only of normal and recurring adjustments necessary to present fairly the information set forth therein 
+results for a given quarter are not necessarily indicative of results for any subsequent quarter 
+quarter ended mar 
+ dec 
+ sept 
+ jun 
+ mar 
+ dec 
+ sept 
+ jun 
+ in thousands  except per share amounts net sales cost of sales gross profit operating expense research and development selling  general and administrative income loss from operations other income loss  net income loss before income taxes provision for income taxes net income loss net income loss per share basic diluted shares used in the computation of net income loss per share basic diluted net sales cost of sales gross margin operating expense research and development selling  general and administrative income loss from operations other income loss  net income loss before income taxes provision for income taxes net income loss commencing with the three months ended march   the company s gross margins have fluctuated through fiscal year excluding the inventory write down of million recorded in the three months ended september  for excess communications product inventory  the company would have reported quarterly gross margins for fiscal year that were flat to slightly greater than those reported in fiscal year the company s ability to achieve manufacturing efficiencies resulting from increased production volumes also 
+table of contents contributed to the improved gross margins reported by the company in fiscal year excluding the inventory write down 
+such efficiencies were modestly offset by the increase in imaging and video product sales  which typically have lower margins than the company s communications products 
+the company s operating results for fiscal year improved from those reported in fiscal year  excluding the asset impairment charge of million related to the decline in the fair market value of the company s equity investment in imc 
+the improvement in operating results was primarily due to higher sales and cost containment measures implemented by the company in fiscal year and sustained through fiscal year liquidity and capital resources the company does not have any off balance sheet arrangements  investments in special purpose entities or undisclosed borrowings or debt 
+additionally  the company is not a party to any derivative contracts  nor does it have any synthetic leases 
+due to the strength of its financial position  the company elected not to renew a credit facility agreement with a domestic bank under which it had been permitted to execute up to million in foreign currency transactions 
+at march   the company had no foreign currency contracts outstanding 
+the company s principal source of liquidity in fiscal years and were cash and cash equivalents  short term marketable securities and long term marketable securities which increased by million to million at march  from million at march  cash and cash equivalents decreased from million at march  to million at march  the decrease was due to net cash used in investing activities of million  partially offset by net cash provided by operating activities of million and net cash provided by financing activities of million 
+the company generated cash flows from operating activities of million in the fiscal year ended march  as compared to million in the fiscal year ended march  the positive cash flow from operations in fiscal year was attributable  in part  to a million refund from the internal revenue service resulting from favorable tax law changes under the federal economic stimulus bill  which enabled companies to apply any net operating tax losses to taxable income realized in the previous five years 
+also contributing to the positive operating cash flow for the fiscal year ended march  were million in additional adjustments to the million net loss for depreciation and amortization  loss on other long term investments  provision for doubtful accounts and inventory write down and a million decrease in inventories 
+these amounts were slightly offset by increases in accounts receivable and prepaid expenses 
+the company generated cash from operating activities of million during the fiscal year ended march  adjustments to net income of million for that year included million of non cash charges and changes in working capital 
+net cash used in investing activities totaled million in the fiscal year ended march  as compared to million in the fiscal year ended march  during the fiscal year ended march   the company s investing activities included proceeds from the maturity of million and million of short term and long term marketable securities  respectively 
+for the same period  purchases of both short term and long term securities were million and million  respectively 
+purchases of manufacturing test equipment  computer equipment  software and hardware used for product development amounted to million for the fiscal year ended march  included in purchases of property and equipment were progress payments totaling million related to the on site power generation project that the company has undertaken in order to produce its own electricity for its fremont headquarters 
+the company expects that the total on site power generation project costs  net of an approximate  refund to be issued by the california energy commission  will be approximately million 
+the on site power generation project is expected to be completed and to become operational by june  as of march   the company had funded  of its million committed capital in the skypoint fund 
+as of june   the company had funded million of its committed capital 
+however  
+table of contents during the quarter ended september   the skypoint fund refunded  of the company s previous capital contribution 
+the company is obligated to contribute its remaining committed capital of approximately million as needed 
+to meet its capital commitment to the fund  the company may need to use its existing cash  cash equivalents and marketable securities 
+effective may   the company and techfarm ventures management llc agreed to  among other matters  reduce the company s capital commitment in the techfarm fund to approximately million  or approximately of the techfarm fund s total committed capital 
+as of june   the company had satisfied its capital contribution obligation through the final capital contribution of  net cash provided by financing activities totaled million in the fiscal year ended march  as compared to million in the fiscal year ended march  representing proceeds from the issuance of common stock 
+during fiscal year  the company received million from the issuance of approximately  shares of common stock upon the exercise of stock options under the company s stock option plans and the purchase of shares of common stock under the company s employee stock purchase plan 
+in march  the board of directors authorized a stock repurchase program to acquire outstanding common stock in the open market 
+under this program  the board of directors authorized the acquisition of up to million of exar s common stock 
+during the fiscal year ended march   the company acquired  shares of its common stock for million 
+although the company did not repurchase any of its outstanding shares during fiscal years and  the company may utilize this program in the future  which would reduce cash  cash equivalents and or marketable securities available to fund future operations and meet other liquidity requirements 
+the company places purchase orders with wafer foundries and other vendors as part of its normal course of business 
+as of march   the company had approximately million of outstanding purchase commitments with several suppliers for the purchase of wafers  capital equipment and various service contracts 
+the company expects to receive and pay for the wafers and capital equipment within the next six months and pay for its various service contracts over the next twelve months from its existing cash balances 
+the following table summarizes the company s contractual payment obligations and commitments as of march  in thousands fiscal year thereafter total contractual obligations purchase obligations venture investment commitments skypoint fund lease obligations total the payments related to the venture commitment  skypoint fund  do not have a set payment schedule 
+the remaining amount payable to the fund will be required to be paid at the discretion of the fund s management and in accordance with the limited partnership agreement with the fund 
+the company anticipates that it will continue to finance its operations with cash flows from operations  existing cash and investment balances  and some combination of long term debt and or lease financing and additional sales of equity securities 
+the combination and sources of capital will be determined by management based on the company s needs and prevailing market conditions 
+the company believes that its cash and cash equivalents  short term marketable securities  long term marketable securities and cash flows from operations will be sufficient to satisfy working capital requirements and capital equipment needs for at least the next 
+table of contents months 
+however  should the demand for the company s products decrease in the future  the availability of cash flows from operations may be limited  thus possibly having a material adverse effect on the company s financial condition or results of operations 
+from time to time  the company evaluates potential acquisitions and equity investments complementary to its design expertise and market strategy  which may include investments in wafer fabrication foundries 
+to the extent that the company pursues or positions itself to pursue these transactions  the company could choose to seek additional equity or debt financing 
+there can be no assurance that additional financing could be obtained on terms acceptable to the company 
+the sale of additional equity or convertible debt could result in dilution to the company s stockholders 
+recently issued accounting pronouncements in may  the fasb issued statement of financial accounting standards sfas no  rescission of sfas nos 
+  and  amendment of sfas no 
+ and technical corrections sfas 
+among other things  sfas rescinds various pronouncements regarding early extinguishment of debt and allows extraordinary accounting treatment for early extinguishment only when the provisions of accounting principles board opinion no 
+ reporting the results of operations reporting the effects of disposal of a segment of a business  and extraordinary  unusual and infrequently occurring events and transactions are met 
+sfas provisions regarding early extinguishment of debt are generally effective for fiscal years beginning after may  the adoption of this statement did not have any effect on the company s financial statements 
+in july  the financial accounting standards board fasb issued statement of financial accounting standards sfas no 
+ accounting for costs associated with exit or disposal activities  sfas 
+this statement addresses financial accounting and reporting for costs associated with exit or disposal activities and nullifies emerging issues task force eitf issue no 
+ liability recognition for certain employee termination benefits and other costs to exit an activity including certain costs incurred in a restructuring 
+this statement requires that a liability for costs associated with an exit or disposal activity be recognized and measured initially at fair value only when the liability is incurred 
+the company adopted sfas effective january  the adoption of sfas did not have a material impact on its financial position or results of operations  although sfas may impact the timing of recognition of costs associated with future restructuring  exit or disposal activities 
+in november  fasb issued fasb interpretation no 
+fin  guarantor s accounting and disclosure requirements for guarantees  including indirect guarantees of indebtedness of others  an interpretation of fasb statements no 
+  and and rescission of fasb interpretation no 
+fin clarifies the requirements of fasb statement no 
+ accounting for contingencies  relating to the guarantor s accounting for and disclosure of the issuance of certain types of guarantees 
+the disclosure provisions of the interpretation are effective for financial statements of interim or annual reports that end after december  however  the provisions for initial recognition and measurement are effective on a prospective basis for guarantees that are issued or modified after december   irrespective of the guarantor s year end 
+the adoption of fin did not have a material impact on the company s financial position or results of operations 
+in november  the emerging issues task force reached a consensus on issue no 
+ revenue arrangements with multiple deliverables  eitf 
+eitf provides guidance on how to account for arrangements that involve the delivery or performance of multiple products  services and or rights to use assets 
+the provisions of eitf will apply to revenue arrangements entered into in fiscal periods beginning after june  the company believes that adoption of eitf will have no material impact on its financial position or results of operations 
+in december  the fasb issued sfas no 
+ accounting for stock based compensation transition and disclosure an amendment of fasb statement no 
+ sfas 
+sfas requires companies to provide alternative methods of transition for a voluntary change to the fair value based method of 
+table of contents accounting for stock based employee compensation 
+sfas amends the disclosure requirements of sfas no 
+ accounting for stock based compensation  sfas  to require prominent disclosures both in annual and interim financial statements about the method of accounting for stock based employee compensation and the effect of the method used on reported results 
+the company has included the disclosures required by sfas in note stockholders equity 
+the company does not intend to adopt the accounting provisions of sfas for employee compensation 
+in january  the fasb issued fasb interpretation no 
+ consolidation of variable interest entities  an interpretation of arb no 
+ fin 
+fin requires certain variable interest entities to be consolidated by the primary beneficiary of the entity if the equity investors in the entity do not have the characteristics of a controlling financial interest or do not have sufficient equity at risk for the entity to finance its activities without additional subordinated financial support from other parties 
+fin is effective immediately for all new variable interest entities created or acquired after january  for variable interest entities created or acquired prior to february   the provisions of fin must be applied for the first interim or annual period beginning after june  the company is currently evaluating the impact that the adoption of this standard will have on its financial position and results of operations 
+in may  the fasb issued sfas no 
+ accounting for certain financial instruments with characteristics of both liabilities and equity  sfas 
+sfas establishes standards for how an issuer classifies and measures certain financial instruments with characteristics of both liabilities and equity 
+it requires that an issuer classify a financial instrument that is within its scope as a liability or an asset in some circumstances 
+many of those instruments were previously classified as equity 
+this statement is effective for financial instruments entered into or modified after may   and otherwise is effective at the beginning of the first interim period beginning after june  the company does not believe the adoption of this standard will have a material impact on its financial position or results of operations 
+risk factors the company is subject to a number of risks 
+some of these risks are endemic to the fabless semiconductor industry and are the same or similar to those disclosed in the company s previous sec filings  and some risks may arise in the future 
+you should carefully consider all of these risks and the other information in this report before investing in the company 
+the fact that certain risks are endemic to the industry does not lessen the significance of these risks 
+as a result of these risks  the company s business  financial condition or operating results could be materially and adversely affected 
+this could cause the trading price of the company s common stock to decline  and stockholders might lose some or all of their investment 
+if the company is unable to generate additional revenue from the sale of its communications products  or its revenue from these products declines  the company s business  financial condition and results of operations will be materially and adversely impacted 
+although communications revenue is expected to grow in the long term  it may not grow fast enough to offset the expected decline in revenue from non communications products 
+if communications revenue does not increase in the future  the company s financial condition and results of operations will be materially and adversely impacted 
+the company is continuing to focus a significant portion of its research and sales resources on the communications market 
+as a result  the company s dependence on this market  as compared to exar s dependence on other markets  such as video and imaging  is increasing 
+given the company s increasing dependence on the communications market to support revenue growth  the company must continue to generate 
+table of contents additional sales from this market  either by taking market share from competitors or by maintaining market share while in a growing market 
+if the company is not able to generate additional revenue in the communications market  the company s business  financial condition and results of operations will be materially and adversely impacted 
+the slowdown and uncertainty in the us and global economies may continue to adversely affect the company s business  financial condition and results of operations 
+decreased consumer confidence  reduced corporate profits  lower capital spending  the impact of the iraq war  the outbreak of the severe acute respiratory syndrome sars and other geopolitical factors have had  and continue to have  a negative impact on the us and global economies 
+many of the company s customers continue to experience significant declines in demand for their products as a result of continued uncertainty regarding future capital spending by the communications service providers 
+this uncertainty regarding capital spending is based upon the weak operating results of these service providers  which  in turn  have hindered their ability to obtain additional capital from the public markets in order to continue to build their networks 
+communications service providers continue to face significant financial challenges and  therefore  may continue to delay or further reduce their spending on the company s customers products 
+these challenges have been exacerbated by disclosures of accounting irregularities by communications service providers and other large public companies 
+if the company s customers delay or cancel their orders for the company s products  the company s revenues and results of operations may be negatively impacted 
+the extent and severity of this economic downturn  in conjunction with the uncertainty of the geopolitical environment  have made it difficult for the company to predict when and if demand for its products will increase 
+additionally  the company does not expect the trend of lower capital spending among service providers to reverse itself in the near future 
+therefore  the company does not know when or how quickly its customers will place new orders 
+furthermore  the company s revenues may decline in the future  which could materially and adversely impact the company s business  financial condition and results of operations 
+if the company fails to develop and introduce new products that meet the evolving needs of its customers  the company s business  financial condition and results of operations could be materially and adversely impacted 
+the markets for the company s products are characterized by changing technologies  evolving and competing industry standards  constantly changing customer requirements  frequent new product introductions and enhancements  long design to production cycles  and or increasing functional integration 
+to develop successful products for the company s target markets  the company must develop  gain access to and use leading technologies in a cost effective and timely manner and continue to expand its technical and design expertise 
+in addition  the company must continue to have its products designed into its customers future products and maintain close working relationships with key customers in order to develop new products that meet their changing needs 
+products for communications applications are based on continually evolving industry standards 
+the company s ability to compete will depend in part on its ability to identify and ensure compliance with these industry standards 
+as a result  the company could be required to invest significant time  effort and expenses redesigning its products to ensure compliance with industry standards 
+
+table of contents the process of developing new products is complex and uncertain  and if the company fails to accurately predict customers changing needs and emerging technological trends  the company s business could be harmed 
+the company cannot assure that it will be able to identify new product opportunities successfully  develop and bring to market new products  achieve design wins or respond effectively to technological changes or product announcements by its competitors 
+in addition  the company may not be successful in developing or using new technologies or in developing new products or product enhancements that achieve market acceptance 
+the company s pursuit of necessary technological advances may require substantial time and expense 
+failure in any of these areas could harm its business  financial condition and results of operations 
+the markets in which the company participates are intensely competitive 
+the company s failure to compete effectively in these markets could materially and adversly impact the company s business  financial condition and results of operations 
+the company s target markets are intensely competitive 
+the company s ability to compete effectively in its target markets depends on  among others  the following factors the company s success in designing and delivering new products that implement new technologies in a timely manner  effectively subcontracting the manufacture of new products and delivering them in a timely manner  the quality and reliability of the company s products  the level of technical support and service furnished to the company s customers  the performance  features and price of the company s products  end user acceptance of the company s customers products  spending within the telecommunications industry  compliance of the company s products with evolving industry standards  and or market acceptance of competitors products or technologies 
+in addition  the company expects that its competitors and customers will offer new products based on new technologies  industry standards or end user or customer requirements  including products that have the potential to replace or provide lower cost or higher performance alternatives to the company s current products 
+the introduction of new products by the company s competitors or customers could render the company s existing and future products obsolete or unmarketable 
+in addition  the company s competitors and customers may introduce products that integrate the functions performed by the company s ics on a single ic  thus eliminating the need for the company s products 
+because the ic markets are highly fragmented  the company generally encounters different competitors in the various markets in which it competes 
+competitors with respect to the company s communications products include applied micro circuits corporation  mindspeed technologies  a division of conexant systems inc  pmc sierra  inc  transwitch corporation  and vitesse semiconductor corporation 
+competitors in the company s serial communications and video and imaging markets include philips electronics  texas instruments incorporated and wolfson microelectronics ltd 
+many of the company s competitors have greater financial  technical and management resources than the company 
+some of these competitors may be able to sell their products at prices below which it would be profitable for the company to sell its products 
+
+table of contents the company s financial results may fluctuate significantly because of a number of factors  many of which are beyond the company s control 
+the company s financial results may fluctuate significantly 
+some of the factors that affect the company s quarterly and annual financial results  many of which are difficult or impossible to control or predict  are the company s difficulty in predicting revenues due to limited visibility being provided by customers and channel partners  fluctuations in demand for the company s products  changes in sales and implementation cycles for the company s products  the company s ability to maintain adequate inventory levels and purchase commitments  the timing and size of orders from customers  the reduction  rescheduling or cancellation of orders by customers  the availability of materials needed by the company from its foundries and suppliers  the ability of the company s suppliers and communications service providers to obtain financing or to fund capital expenditures  fluctuations in the manufacturing output  yields and capacity of the company s suppliers  changes in the mix of products that the company s customers purchase  the cost of materials and services used to make the company s products  changes in the company s shipment volume  the company s ability to successfully introduce new products  the announcement or introduction of products by the company s competitors  the availability of third party foundry  assembly and test capacity and raw materials  erosion of average selling prices as a product matures coupled with the inability to sell newer products with higher average selling prices  resulting in lower revenue and margins  competitive pressures on selling prices  product availability or new technologies  the amount and timing of costs associated with product warranties and returns  the amount and timing of the company s investments in research and development  market and or customer acceptance of the company s products  changes in customer concentration or requirements within certain market segments  consolidation among the company s competitors and or its customers  changes in the company s customers end user concentration or requirements  loss of one or more current customers  disruption in the sales or distribution channels  costs associated with strategic equity investments  acquisitions and the integration of acquired operations  the inability of the company s customers to obtain components from their other suppliers  general conditions in the economy  terrorist acts or acts of war and conditions in the communications and semiconductor industry  build up of customer and or channel inventory  
+table of contents the timing and amount of employer payroll tax to be paid on the company s employees gains on stock options exercised  changes in accounting rules  such as the possible future requirement to record expenses for employee stock option grants  and or fluctuations in interest rates 
+as a consequence  operating results for a particular future period are difficult to predict  and prior results are not necessarily indicative of results to be expected in the future 
+any of the foregoing factors  or any other factors discussed elsewhere herein  could have a material adverse effect on the company s business  financial condition and results of operations 
+the company s operating results may vary significantly because of the cyclical nature of the semiconductor industry  and such variations could materially and adversely affect the demand for the company s products 
+the company competes in the communications market within the semiconductor sector  both of which are cyclical and subject to technological change 
+during the second half of the fiscal year ended march  through the quarter ended march   the semiconductor industry experienced a significant downturn characterized by diminished product demand  excess production capacity  high inventory levels and accelerated erosion of average selling prices 
+should the current economic downturn in the communications and semiconductor industry continue or worsen or simply fail to recover fully from current levels  the company s business  financial condition and results of operations could be materially and adversely impacted 
+at the same time  the semiconductor industry is subject to unexpected  periodic and sharp increases in demand in a strong economic environment  potentially leading to production capacity constraints  which could materially and adversely affect the company s ability to ship products and meet customer demand in future periods 
+the company depends in part on the continued service of its key engineering and management personnel and its ability to identify  hire and retain qualified personnel 
+if the company lost key employees or failed to identify  hire and retain these individuals  the company s business  financial condition and results of operations could be materially and adversely impacted 
+the company s future success depends  in part  on the continued service of its key design engineering  technical sales  marketing and executive personnel and its ability to identify  hire and retain other qualified personnel 
+in the future  the company may not be able to continue to attract and retain engineers or other qualified personnel necessary for the development of its business 
+competition for skilled employees having unique technical capabilities and industry specific expertise continues to be a considerable risk inherent in the markets in which the company competes 
+volatility or lack of positive performance in the company s stock price may also adversely affect the company s ability to retain key employees  most of whom have been granted stock options 
+with respect to the company s management  the company s anticipated future growth is expected to continue to place additional demands on management resources and  therefore will likely require the addition of new management personnel as well as the development of additional expertise by existing management personnel 
+the failure to retain and recruit key design engineers  technical  sales  marketing and executive personnel could harm the company s business  financial condition and results of operations 
+
+table of contents if the severe acute respiratory syndrome continues to spread  the company s business  financial condition and results of operations could be materially and adversely impacted 
+the company has not experienced any direct impact from the sars epidemic  which has infected large parts of asia  including china  hong kong and singapore 
+the company has taken steps to limit its employees travel to known highly infected areas 
+the contract manufacturers that the company uses are located in asia and some of their manufacturing facilities are located close to areas that are being impacted by sars 
+if the growth of this disease continues to spread  it could negatively impact the company s ability to continue business with its contract manufacturers located in asia 
+such a supply disruption with the company s contract manufacturers could have a material adverse impact on the company s business  financial condition and results of operations 
+the company depends on third party foundries to manufacture its ics 
+any disruption in or loss of the foundries capacity to manufacture the company s products subjects it to a number of risks  including the potential for an inadequate supply of products and higher materials costs  these risks may lead to delayed product delivery or increased costs  which could materially and adversely affect the company s business  financial condition and results of operations 
+the company does not own or operate a semiconductor fabrication facility 
+most of its products are based on cmos processes 
+although two foundries manufacture the company s products based on cmos processes  a substantial majority is manufactured at a single foundry 
+that foundry has announced its intention to discontinue manufacturing products in its six inch wafer manufacturing facility and transfer the existing business to one of its eight inch wafer manufacturing facilities 
+this will require the qualification and transfer of many of the company s products over the next several quarters 
+the company does not have long term wafer supply agreements with its foundries that would guarantee wafer or product quantities  prices  and delivery or lead times 
+rather  the foundries manufacture the company s products on a purchase order basis 
+the company provides these foundries with rolling forecasts of its production requirements 
+however  the ability of each foundry to provide wafers to the company is limited by the foundry s available capacity 
+in addition  the company cannot be certain that it will continue to do business with its foundries on terms as favorable as its current terms 
+other significant risks associated with the company s reliance on third party foundries include the lack of control over delivery schedules  the risks inherent in the announced closure and transfer of operations by one of the company s principal foundries from a facility which utilizes six inch wafer manufacturing technologies to a facility that is based on eight inch wafer manufacturing technologies  limited control over quality assurance  manufacturing yields and production costs  and or potential misappropriation of the company s intellectual property 
+the company could experience a substantial delay or interruption in the shipment of its products or an increase in its costs due to any of the following a manufacturing disruption experienced by one or more of the company s foundries or sudden reduction or elimination of any existing source or sources of semiconductor devices  which might include the potential closure  change of ownership  change of management or consolidation by one or more of the company s foundries  extended time required to identify and qualify alternative manufacturing sources for existing or new products  failure of the company s suppliers to obtain the raw materials and equipment used in the production of its ics  
+table of contents qualification and transfer of products to the eight inch wafer manufacturing facility  excess inventory associated with the transfer to the eight inch wafer manufacturing facility  acts of terrorism or civil unrest or an unanticipated shut down due to sars  and or a sudden  sharp increase in demand for semiconductor devices  which could strain foundries manufacturing resources and cause delays in manufacturing and shipment of the company s products 
+if the company s foundries discontinue or fail to successfully transfer the manufacturing processes needed to meet the company s demands or fail to upgrade the technologies needed to manufacture the company s products  the company may face production delays  which could materially and adversely impact the company s business  financial condition and results of operations 
+the company s wafer requirements typically represent a small portion of the total production of the foundries that manufacture its products 
+as a result  the company is subject to the risk that a foundry will cease production of older or lower volume material that it uses to produce parts supplied to the company 
+additionally  the company cannot be certain that its foundries will continue to devote resources to the production of its products or continue to advance the process design technologies on which the manufacturing of the company s products are based 
+each of these events could increase the company s costs and harm its ability to deliver its products on time  thereby materially and adversely affecting the company s business  financial condition and results of operations 
+to secure foundry capacity  the company may be required to enter into financial and other arrangements with foundries  which could result in the dilution of its earnings or otherwise harm its operating results 
+allocation of a foundry s manufacturing capacity may be influenced by a foundry customer s size or the existence of a long term agreement with the foundry 
+to address foundry capacity constraints  the company and other semiconductor companies that rely on third party foundries have utilized various arrangements  including equity investments in or loans to foundries in exchange for guaranteed production capacity  joint ventures to own and operate foundries  or take or pay contracts that commit a company to purchase specified quantities of wafers over extended periods 
+while the company is not currently a party to any of these arrangements  it may decide to enter into these arrangements in the future 
+the company cannot be sure  however  that these arrangements will be available to it on acceptable terms  if at all 
+any of these arrangements could require the company to commit substantial capital and  accordingly  could require it to reduce its cash holdings  incur additional debt or secure equity financing 
+this could result in the dilution of its earnings or the ownership of its stockholders or otherwise harm its operating results 
+the company s dependence on third party subcontractors to assemble and test its products subjects it to a number of risks  including the potential for an inadequate supply of products and higher materials costs  these risks may lead to delayed product delivery or increased costs  which could materially and adversely affect its business  financial condition and results of operations 
+the company depends on independent subcontractors for the assembly and testing of its products 
+the company s reliance on these subcontractors involves the following significant risks the company s reduced control over manufacturing yields  production schedules and product quality  the potential closure  change of ownership  change of management or consolidation by one or more of the company s subcontractors  
+table of contents acts of terrorism or civil unrest  delayed deliveries due to sars  difficulties in selecting  qualifying and integrating new subcontractors  limited warranties from the subcontractors for products assembled and tested for the company  maintaining availability of qualified assembly or test services  potential increases in assembly and test prices  and or potential misappropriation of the company s intellectual property 
+these risks may lead to delays in the delivery of the company s products or increased costs in the finished products  either of which could harm the company s business  financial condition and results of operations 
+the company s reliance on foreign suppliers exposes it to risks associated with international operations  any of which could materially and adversely impact its business  financial condition and results of operations 
+the company uses semiconductor wafer foundries and assembly and test subcontractors throughout asia to manufacture most of its products 
+the company s dependence on these subcontractors involves the following risks political  civil and economic instability  disruption to transportation to and from asia  disruptions to manufacturing at subcontractors due to the outbreak of sars  embargoes affecting the availability of raw materials  equipment or services  changes in tax laws  tariffs and freight rates  and or compliance with local or foreign regulatory requirements 
+these risks may lead to delays in product delivery or increased costs  either of which could harm the company s profitability and customer relationships  thereby materially and adversely impacting the company s business  financial condition and results of operations 
+the company s reliance on foreign customers could cause fluctuations in its operating results  which could materially and adversely impact the company s business  financial condition and results of operations 
+international sales accounted for of net sales for the fiscal year ended march  international sales will likely continue to account for a significant portion of the company s revenues  which would subject the company to the following risks changes in regulatory requirements  tariffs and other barriers  timing and availability of export licenses  political  civil and economic instability  disruptions to customer operations due to the outbreak of sars  difficulties in accounts receivable collections  
+table of contents difficulties in staffing and managing foreign subsidiary and branch operations  difficulties in managing distributors  difficulties in obtaining governmental approvals for communications and other products  limited intellectual property protection  foreign currency exchange fluctuations  the burden of complying with and the risk of violating a wide variety of complex foreign laws and treaties  and or potentially adverse tax consequences 
+in addition  because sales of the company s products have been denominated to date primarily in united states dollars  increases in the value of the united states dollar could increase the relative price of the company s products such that they become more expensive to customers in the local currency of a particular country 
+increased international activity in the future may result in increased foreign currency denominated sales 
+furthermore  because some of the company s customers purchase orders and agreements are governed by foreign laws  the company may be limited in its ability to enforce its rights under these agreements and to collect damages  if awarded 
+if the company s distributors or sales representatives stopped selling  or failed to successfully promote  the company s products  the company s business  financial condition and results of operations could be harmed 
+the company sells many of its products through two non exclusive domestic distributors and numerous sales representatives 
+the company s non exclusive domestic distributors and sales representatives could reduce or discontinue sales of the company s products 
+they may not devote the resources necessary to sell the company s products in the volumes and within the time frames that the company expects 
+in addition  the company depends on the continued viability and financial resources of these distributors and sales representatives  some of which are small organizations with limited working capital 
+in turn  these distributors and sales representatives are subject to general economic and semiconductor industry conditions 
+the company believes that its success will continue to depend on these distributors and sales representatives 
+if some or all of the company s distributors and sales representatives experience financial difficulties  or otherwise become unable or unwilling to promote and sell the company s products  the company s business  financial condition and results of operations could be harmed 
+because the company s communications ics typically have lengthy sales cycles  the company may experience substantial delays between incurring expenses related to research and development and the generation of revenue derived from these products 
+due to the communications ic equipment product cycle  historically it has taken the company more than months to realize volume shipments after its initial contact with a customer 
+the company first works with customers to achieve a design win  which may take six months or longer 
+the company s customers then complete the design  testing and evaluation process and begin to ramp up production  a period which typically lasts an additional six months or longer 
+as a result  a significant period of time may elapse between the company s research and development efforts and its realization of revenue  if any  from volume purchasing of the company s communications products by its customers 
+
+table of contents if the company is unable to convert a significant portion of its design wins into actual revenue  the company s business  financial condition and results of operations could be materially and adversely impacted 
+the company has secured a significant number of design wins for new and existing products 
+such design wins are necessary for revenue growth of the company 
+however  many of the company s design wins may never generate revenues as the company s customers own projects and product offerings may be cancelled or may fail to generate sufficient demand in their end markets 
+additionally  some of the company s design wins are from privately held  early stage companies  thus increasing the risk that some of the company s design wins may not translate into future revenue because these customers may fail prior to the time that their products are ready to ship 
+if design wins do generate revenue  the time lag between the design win and meaningful revenue may be in excess of months 
+if the company fails to convert a significant portion of its design wins into substantial revenue  it could materially and adversely impact the company s business  financial condition and results of operations 
+the company s backlog may not result in future revenue 
+due to possible customer changes in delivery schedules and quantities actually purchased  cancellations of orders  distributor returns or price reductions  the company s backlog at any particular date is not necessarily indicative of actual sales for any succeeding period 
+a reduction of the order backlog during any particular period  or the failure of the company s backlog to result in future revenue  could negatively impact the company s business  financial condition and results of operations 
+fixed operating expenses and a company practice of ordering materials in anticipation of future customer demand could make it difficult for the company to respond effectively to sudden swings in demand  such sudden swings in demand could therefore have a materially adverse impact on the company s business  financial condition and results of operations 
+the company s operating expenses are relatively fixed in the short to medium term  and  therefore  it has limited ability to reduce expenses quickly and sufficiently in response to any revenue shortfalls 
+consequently  the company s operating results will be harmed if it does not meet its revenue projections 
+in addition  the company typically plans its production and inventory levels based on internal forecasts of customer demand  which are highly unpredictable and can fluctuate substantially 
+from time to time  in response to anticipated long lead times to obtain inventory and materials from the company s outside suppliers and foundries  the company may order materials in advance of anticipated customer demand 
+this advance ordering may result in excess inventory levels or unanticipated inventory write downs if expected orders fail to materialize 
+therefore  such revenue shortfalls could have a materially adverse impact on the company s business  financial condition and results of operations 
+the company has in the past and may in the future make acquisitions and significant strategic equity investments  which may involve a number of risks  if the company is unable to address these risks successfully  such acquisitions and investments could have a materially adverse impact on the company s business  financial condition and results of operations 
+the company has undertaken a number of strategic acquisitions and investments in the past and may do so from time to time in the future 
+the risks involved with these acquisitions and investments include  among others diversion of management s attention from normal daily operations of the business  the possibility that the company may not receive a favorable return on its investment  the original investment may become impaired  and or the company may incur losses from these investments  and or assumption of known or unknown liabilities or other unanticipated events or circumstances 
+
+table of contents the risks involved with acquisitions include  among others difficulties in integrating the operations  technologies  products and personnel of the acquired companies  failure to retain key personnel  difficulties in entering markets in which the company has no or limited direct prior experience and where competitors in such markets may have stronger market positions  insufficient revenues to offset increased expenses associated with acquisitions  under performance problems with an acquired company  issuance of common stock that would dilute the company s current stockholders percentage ownership  recording of goodwill and non amortizable intangible assets that will be subject to impairment testing and potential periodic impairment charges against the company s future earnings  incurring amortization expenses related to certain intangible assets  the opportunity cost associated with committing capital in such investments  incurring large and immediate write offs  and or becoming subject to litigation 
+the risks involved with strategic equity investments include  among others the possibility of litigation resulting from these types of investments  the possibility that the company may not receive a favorable return on its investments  the original investment may become impaired  and or incur losses from these investments  and or the opportunity cost associated with committing capital in such investments 
+the company cannot assure that it will be able to address these risks successfully without substantial expense  delay or other operational or financial problems 
+any delays or other such operations or financial problems could adversely impact the company s business  financial condition and results of operations 
+the company may not be able to protect its intellectual property rights adequately 
+the company s ability to compete is affected by its ability to protect its intellectual property rights 
+the company relies on a combination of patents  trademarks  copyrights  mask work registrations  trade secrets  confidentiality procedures and non disclosure and licensing arrangements to protect its intellectual property rights 
+despite these efforts  the company cannot be certain that the steps it takes to protect its proprietary information will be adequate to prevent misappropriation of the company s technology  or that its competitors will not independently develop technology that is substantially similar or superior to the company s technology 
+more specifically  the company cannot be sure that its pending patent applications or any future applications will be approved  or that any issued patents will provide it with competitive advantages or will not be challenged by third parties 
+nor can the company be sure that  if challenged  the company s patents will be found to be valid or enforceable  or that the patents of others will not have an adverse effect on the company s ability to do business 
+furthermore  others may independently develop similar products or processes  duplicate the company s products or processes or design around any patents that may be issued to it 
+
+table of contents the company could be required to pay substantial damages or could be subject to various equitable remedies if it were proven that it infringed on the intellectual property rights of others 
+as a general matter  the semiconductor industry is characterized by substantial litigation regarding patents and other intellectual property rights 
+if a third party were to prove that the company s technology infringed a third party s intellectual property rights  the company could be required to pay substantial damages for past infringement and could be required to pay license fees or royalties on future sales of the company s products 
+if the company were required to pay such license fees whenever it sold its products  such fees could exceed the company s revenue 
+in addition  if it were proven that the company willfully infringed a third party s proprietary rights  the company could be held liable for three times the amount of the damages that the company would otherwise have to pay 
+such intellectual property litigation could also require the company to stop selling  incorporating or using its products that use the infringed intellectual property  obtain a license to make  sell or use the relevant technology from the owner of the infringed intellectual property  which license may not be available on commercially reasonable terms  if at all  and redesign the company s products so as not to use the infringed intellectual property  which may not be technically or commercially feasible 
+furthermore  the defense of infringement claims and lawsuits  regardless of their outcome  would likely be expensive to resolve and could require a significant portion of management s time 
+in addition  rather than litigating an infringement matter  the company may determine that it is in the company s best interests to settle the matter 
+terms of a settlement may include the payment of damages and the company s agreement to license technology in exchange for a license fee and ongoing royalties 
+these fees could be substantial 
+if the company were required to pay damages or otherwise became subject to such equitable remedies  its business  financial condition and results of operations would suffer 
+similarly  if the company were required to pay license fees to third parties based on a successful infringement claim brought against it  such fees could exceed the company s revenue 
+earthquakes and other natural disasters may damage the company s facilities or those of its suppliers 
+the company s corporate headquarters in fremont  california is located near major earthquake faults that have experienced seismic activity 
+in addition  some of the company s suppliers are located near fault lines 
+in the event of a major earthquake or other natural disaster near its headquarters  the company s operations could be disrupted 
+similarly  a major earthquake or other natural disaster near one or more of the company s major suppliers could adversely impact the operations of those suppliers  which could limit the supply of the company s products and harm its business 
+the company s stock price is volatile 
+the market price of the company s common stock has fluctuated significantly to date 
+in the future  the market price of its common stock could be subject to significant fluctuations due to the company s anticipated or actual operating results  announcements or introductions of new products  technological innovations by the company or its competitors  product delays or setbacks by the company  its customers or its competitors  potential supply interruptions  concentration of sales among a small number of customers  conditions in the communications and semiconductor markets  
+table of contents the commencement of litigation  changes in estimates of the company s performance by securities analysts  announcements of merger or acquisition transactions  and or general global economic and market conditions 
+in the past  securities and class action litigation has been brought against companies following periods of volatility in the market prices of their securities 
+the company may be the target of one or more of these class action suits  which could result in significant costs and divert management s attention  thereby harming the company s business  results of operations and financial condition 
+in addition  in recent years the stock market has experienced extreme price and volume fluctuations that have affected the market prices of many high technology companies  including semiconductor companies  and that have often been unrelated or disproportionate to the operating performance of those companies 
+these fluctuations may harm the market price of the company s common stock 
+the anti takeover provisions of the company s certificate of incorporation and of the delaware general corporation law may delay  defer or prevent a change of control 
+the company s board of directors has the authority to issue up to  shares of preferred stock and to determine the price  rights  preferences and privileges and restrictions  including voting rights  of those shares without any further vote or action by its stockholders 
+the rights of the holders of common stock will be subject to  and may be harmed by  the rights of the holders of any shares of preferred stock that may be issued in the future 
+the issuance of preferred stock may delay  defer or prevent a change in control  as the terms of the preferred stock that might be issued could potentially prohibit the company s consummation of any merger  reorganization  sale of substantially all of its assets  liquidation or other extraordinary corporate transaction without the approval of the holders of the outstanding shares of common stock 
+in addition  the issuance of preferred stock could have a dilutive effect on the company s stockholders 
+the company s stockholders must give days advance notice prior to any stockholders meeting at which a stockholder intends to nominate a candidate for director or present a proposal to the company s stockholders for approval 
+these notice requirements could inhibit a takeover by delaying stockholder action 
+the company has in place a stockholder rights plan  or poison pill  that may result in substantial dilution to a potential acquirer of the company in the event that the company s board of directors does not agree to an acquisition proposal 
+the rights plan may make it more difficult and costly to acquire the company 
+the delaware anti takeover law restricts business combinations with some stockholders once the stockholder acquires or more of the company s common stock 
+the delaware statute makes it more difficult for the company to be acquired without the consent of its board of directors 
+
+table of contents item a 
+quantitative and qualitative disclosures about market risk foreign currency fluctuations 
+the company is exposed to foreign currency fluctuations primarily through its foreign operations 
+this exposure is the result of foreign operating expenses being denominated in foreign currency 
+operational currency requirements are typically forecasted for a three month period 
+if there is a need to hedge this risk  the company will enter into transactions to purchase currency in the open market or enter into forward currency exchange contracts 
+while it is expected that this method of hedging foreign currency risk will be utilized in the future  the hedging methodology and or usage may be changed to manage exposure to foreign currency fluctuations 
+if the company s foreign operations forecasts are overstated or understated during periods of currency volatility  the company could experience unanticipated currency gains or losses 
+for the fiscal year ended march   the company did not have significant foreign currency denominated net assets or net liabilities positions  and had no foreign currency contracts outstanding 
+interest rate sensitivity 
+the company maintains investment portfolio holdings of various issuers  types  and maturity dates with various banks and investment banking institutions 
+the market value of these investments on any given day during the investment term may vary as a result of market interest rate fluctuations 
+this exposure is not hedged because a hypothetical movement in interest rates during the investment term would not likely have a material impact on investment income 
+the actual impact on investment income in the future may differ materially from this analysis  depending on actual balances and changes in the timing and the amount of interest rate movements 
+both short term and long term investments are classified as available for sale securities and the cost of securities sold is based on the specific identification method 
+at march   short term investments consisted of auction rate securities  government and corporate securities of million and long term investments consisted of government and corporate securities of million 
+at march   the difference between the fair market value and the underlying cost of such investments was  the company s net income is dependent on  amongst other factors  interest income and realized gains from the sale of marketable investments 
+if interest rates continue to decline or the company is not able to realize gains from the sale of marketable securities  the company s net income may be negatively impacted 
+
+table of contents 

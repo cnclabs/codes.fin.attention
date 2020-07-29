@@ -1,0 +1,673 @@
+item management s discussion and analysis of financial condition and results of operations 
+the discussion of our business contained herein  including the identification and assessment of factors that may influence actual results  may not be exhaustive 
+therefore  the information presented should be read together with other documents we file with the securities and exchange commission from time to time  including forms q and k  which may supplement  modify  supersede or update the factors discussed in this annual report on form k 
+we do not undertake any obligation to update any forward looking statements as a result of future events or developments 
+item business overview we design  develop  manufacture and market modular power components and complete power systems 
+power systems are incorporated into virtually all electronic equipment 
+in equipment utilizing alternating current ac voltage from a primary source for example  a wall outlet  a power system converts ac voltage 
+table of contents into the stable direct current dc voltage necessary to power subsystems and or individual applications or loads 
+in many electronic devices  this dc voltage may be further converted to one or more lower voltages required by a range of loads 
+in equipment utilizing dc voltage from a primary source for example  a generator or battery pack  the initial dc voltage frequently requires further conversion to one or more lower voltages 
+because numerous applications requiring different dc voltages and varied power ratings may exist within an electronic device  and system power architectures themselves vary  we offer an extensive range of products and accessories in a myriad of application specific configurations 
+since our founding  our product strategy has been driven by innovations in design  largely enabled by our focus on the development of differentiated technologies  which often are implemented in proprietary semiconductor circuitry 
+many of our products incorporate a high frequency electronic power conversion technology called zero current zero voltage switching zcs zvs  which enabled the design of dc dc converter modules that were much smaller and more efficient than conventional alternatives 
+emphasizing the superior power density and performance advantages of this technology  our primary product strategy since our founding has been to offer a comprehensive range of component level building blocks to configure a power system specific to a customer s needs 
+since introducing and popularizing the encapsulated brick during the s  our product focus has been on high density dc dc converters  which provide the isolation  transformation  regulation  filtering  and or input protection necessary to power and protect sophisticated electronic loads 
+a secondary and highly complementary product strategy has been to incorporate our component level building blocks into complete power systems representing turnkey ac dc and dc dc solutions for our customers power needs 
+our product strategy is focused increasingly on the next generation of component level building block  the v i chip module and derivations thereof 
+an important element of our product strategy is expanding the applicability of v i chip technology with broadened product offerings and innovative packaging solutions 
+the vi chip module incorporates our latest advances in switching topologies and other proprietary power conversion innovations 
+we believe v i chip technology offers unprecedented power conversion density ie  the output power in watts as a function of the size of the component in cubic inches  performance ie  benchmarks related to the capabilities of the component  such as conversion efficiency  and flexibility ie  the ability of our customers to implement a broad range of possible configurations 
+our product roadmap is focused on the development of a full line of products capable of delivering power conversion and power management solutions from the ac source eg  the wall outlet to the dc point of load 
+our picor subsidiary  which develops microcontroller solutions enabling our innovations in switching topology  is pursuing a merchant strategy focused on high performance low voltage products for application at or near the point of load 
+these products complement our other component offerings  thereby allowing us to offer a complete solution from ac conversion to dc transformation and regulation at the point of load 
+the applications in which these next generation power conversion and power management products are used are in the higher performance  higher power segments of the power systems market  and our customers generally are global original equipment manufacturers oems 
+our business segments are organized by key product lines our brick business unit bbu segment designs  develops  manufactures and markets modular power converters in two formats our well established encapsulated modules  known as bricks  and our newer line of modular power converters that incorporate our v i chip technology into innovative packaging  which we market as vi brick modules 
+the bbu also designs  develops  manufactures and markets a line of configurable products  which are complete power supplies assembled using our modular power components 
+the bbu includes the operations of our westcor division  which is focused only on ac input configurable products  the operations of vicor custom power  which is our turnkey custom power solutions business  and vicor japan company  ltd 
+vjcl  our majority owned japanese subsidiary 
+
+table of contents our v i chip business unit v i chip consists of v i chip corporation  a wholly owned subsidiary that designs  develops  manufactures and markets a range of advanced power conversion components  including those that enable our factorized power architecture fpa 
+in  we introduced fpa  a new power system architecture based on an array of proprietary power conversion innovations building upon our long standing leadership in the design of power conversion technologies 
+we believe fpa provides power system designers enhanced performance at a lower cost than can be attained with conventional power architectures 
+as v i chip modules and fpa represent innovative alternatives to such conventional products and architectures  we established a separate business unit to enable the organizational focus necessary to support early adopters of these disruptive technologies 
+our picor business unit picor consists of picor corporation  a majority owned subsidiary of vicor 
+picor is a fabless ie  it utilizes third parties to manufacture its products designer  developer  and marketer of high performance integrated circuits and related products for use in a variety of power system applications 
+picor develops these products to be incorporated into vicor s products  to be sold as a complement to our products  or for sale to third parties for separate applications 
+much of the differentiation of our bbu and v i chip products has been a result of implementation of our power conversion innovations in proprietary semiconductor circuitry 
+because of the considerable design expertise embodied in this captive organization and the potential for success as a merchant vendor of an expanding portfolio of proprietary products  we established picor as a separate business unit to enable organizational focus and to facilitate a distinct go to market strategy 
+our products are sold worldwide to customers ranging from smaller  independent manufacturers of highly specialized electronic devices to larger oems and their contract manufacturers 
+the customer applications we address include  in alphabetical order  aerospace and defense electronics  enterprise and high performance computing  industrial automation  telecommunications and networking infrastructure  test and measurement instrumentation  and vehicles and transportation 
+vicor bv  a wholly owned subsidiary incorporated in the netherlands  serves as a european distribution center 
+vlt  inc is our wholly owned licensing subsidiary 
+vicr securities corporation is our wholly owned subsidiary established to hold certain investment securities 
+we are headquartered in andover  massachusetts  where our manufacturing facility is located 
+v i chip corporation also is headquartered in andover  massachusetts 
+our westcor division has a design and assembly facility in sunnyvale  california 
+vjcl  which is engaged in sales and customer support activities exclusively for the japanese market  is located in tokyo  japan 
+our six vicor custom power locations are geographically distributed around the united states 
+we have customer support and engineering offices  which we call technical support centers  in the united states  the united kingdom  france  germany  italy  and hong kong  china 
+picor corporation is headquartered in north smithfield  rhode island 
+all of the above named entities are consolidated in the financial statements presented herein 
+we were incorporated in delaware in shares of our common stock were listed on the nasdaq national market system in april under the ticker symbol vicr  and we completed an initial public offering of our shares in may we maintain a website with the address www 
+vicorpower 
+com and make available free of charge through this website our annual reports on form k  quarterly reports on form q  current reports on form k  and amendments to these reports filed or furnished pursuant to section a or d of the securities exchange act of the exchange act  as soon as reasonably practicable after we electronically file such material with  or furnish such material to  the securities and exchange commission 
+the information contained on our website is not a part of  nor incorporated by reference into  this annual report on form k and shall not be deemed filed under the exchange act 
+
+table of contents market background  product trends and vicor strategy the market for power supplies and their enabling components continues to evolve in response to advancing technologies and corresponding changes in customer requirements 
+similarly  we adapted our strategy to address evolving market challenges and opportunities 
+many of the ongoing changes in the market  particularly in those segments in which we compete  have been characterized by improvement in product performance eg  power conversion efficiency  reduction in product form factor ie  size  and increased design flexibility ie  the ability of customers to address their power requirements with a broad range of alternative solutions 
+product trends have been characterized by the disaggregation of the functions of power components such as dc dc converters  thereby driving further improvement in overall power supply performance  further reduction in form factor  and greater flexibility in the way designers implement power supply solutions 
+in  we introduced an enhancement of the standardized  high density power converter to the market the fully encapsulated brick  utilizing our zcs zvs technology  in standardized dimensions of x x 
+our innovative  patented technology provided superior efficiency and overall performance in a small form factor  while full encapsulation provided full shielding from environmental influences and enhanced thermal performance characteristics 
+such thermal performance enhancement has been critical to the differentiated performance of our power converters  as the by product of voltage conversion is heat  which must be dissipated in order to assure the performance of the converter itself and the overall system to which it is delivering power 
+in response to market and technology trends and changes in our customer requirements  we have implemented a strategy addressing both the realities of the current power conversion marketplace and our vision of the long term direction of that marketplace 
+our strategy involves maintaining a viable  profitable legacy business  while investing in the next generation of power management components 
+our early technical and performance leadership contributed to the development of an image in the market as a power component innovator 
+the bbu experienced strong revenue growth and robust profitability during the s and s  as important markets for our products expanded 
+however  a significant amount of our revenue was derived from the telecommunications infrastructure market and  when that market collapsed in the early s  we had to reassess our product portfolio and overall competitive positioning 
+many of our domestic competitors faced the same circumstances and reoriented their strategies to serve high volume applications of large oems 
+in doing so  they moved much of their manufacturing from the united states to lower cost countries where the contract manufacturers used by their oem customers were based 
+we chose not to follow these competitors  remained a domestic manufacturer  and shifted our competitive positioning to one based on mass customization  thereby offering customers a wider range of possible solutions than those offered by our competitors 
+as a part of our repositioning  we invested significantly in new product designs that emphasized low cost and flexible manufacturing  as well as the plant equipment and information technology necessary to support such low cost and flexible manufacturing  as well as shorter delivery lead times 
+we also modified our go to market strategy to emphasize serving lower volume customers requiring higher value solutions 
+as such  today our product portfolio is extremely broad  while our customer base and the market segments we serve are far more diverse than prior to the change in our go to market strategy 
+our mass customization model allows us to profitably meet the specific design and volume requirements of numerous  relatively low volume customers  while avoiding the costs associated with maintaining extensive inventories of finished goods 
+our decision to not pursue higher volume commodity opportunities constrained our growth during the economic recovery from into  but our profitability during this period benefited from our value added approach 
+we believe this approach has contributed to reduced volatility of our financial performance during the current period of economic uncertainty  as our customers rely on us for power conversion solutions they generally cannot obtain from our volume oriented  commodity focused competitors 
+at the same time we undertook to reposition the bbu with mass customization  we announced our vision for the future of component based power conversion fpa and v i chip modules 
+since our founding  our products have been based on advanced  highly differentiated designs 
+much of our intellectual property is 
+table of contents patented or otherwise proprietary to us 
+however  as is typical across the information technology and electronics markets  the segments in which we have competed matured relatively quickly and became characterized by product commoditization and price competition 
+given our extensive experience with power conversion technologies and our understanding of trends in both technology and our markets  we concluded the appropriate complement to maintaining our legacy business would be to seek to redefine the competitive landscape in the long term in targeted market segments with our innovative  flexible new power distribution architecture and our next generation of advanced designs appropriate for applications requiring highly differentiated performance ie  conversion efficiency and power density 
+picor is a highly complementary element of our strategy to redefine the competitive landscape in the long term 
+many of the differentiated capabilities of our brick and v i chip products have been a result of implementation of our power conversion innovations in proprietary semiconductor circuitry 
+most notably  proprietary  highly advanced microcontroller circuits developed by picor are found in many of our most successful switching power components 
+while the majority of picor s activities to date have involved supplying integrated circuits for internal use  picor s long term strategy is to become a merchant vendor of innovative power management circuitry  whether in individual packages  multi chip modules  or subassemblies 
+picor s product roadmap includes the development of integrated power management products targeted at lower power applications 
+as such  picor s current and planned products represent a complement to fpa and v i chip modules 
+an important element of our strategy is to protect our competitive leadership with domestic and foreign patents and patent applications that cover our products and much of their enabling technologies 
+we believe our competitive leadership is further protected by proprietary trade secrets associated with our use of certain components and materials of our own design  as well as our significant experience with manufacturing  packaging and testing these complex devices 
+we continue to believe traditional power architectures  in the longer run  may not provide the performance necessary to address future power system requirements  given the trends toward lower bus and load voltages  higher currents  more and diverse on board voltages  and the higher speeds and performance demands of numerous complex loads 
+our overall strategy is to develop differentiated products to address these trends  while providing competitively superior performance and reliability at a lower overall cost 
+our products our website  www 
+vicorpower 
+com  sets forth detailed information describing all of products and the applications for which they may be used 
+the information contained on our website is not a part of  nor incorporated by reference into  this annual report on form k and shall not be deemed filed under the exchange act 
+our principal product lines are bricks modular power converters brick dc dc power converters are well established as an important enabling component of conventional power systems architectures 
+the bbu currently offers seven families of high power density  component level dc dc power converters the vi  vi j  mi  mi j  maxi  mini and micro families 
+designed to be mounted directly on a printed circuit board chassis using contemporary manufacturing processes  each brick family is a comprehensive set of products offered in a wide range of input voltage to volts dc and output power to watts 
+this allows end users to select power component products appropriate to their individual applications 
+the product families differ in maximum power ratings  performance characteristics  package size and  in certain cases  characteristics specific to the targeted market 
+all of our traditional brick modules are encapsulated with a dielectric  elastomeric  thermally conductive material  thereby providing electrical insulation  thermal conductivity  and environmental protection of the electronic circuitry 
+
+table of contents our custom module design system cmds  a core component of the vicor powerbench tool suite on our website  is a proprietary system enabling our customers to specify on line  and verify in real time  the performance and attributes of its dc dc converters 
+not merely a product configuration tool like those offered by competitors  the cmds enables the comprehensive design of dc dc converters in all of our established brick form factors ie  full  half and quarter size  using patented web based technology 
+cmds is an important element of our mass customization strategy 
+the vi brick combines the superior technical attributes of our v i chip technology with robust packaging offering superior thermal characteristics and facilitating a range of board mounting alternatives 
+vi brick models include high current density low voltage dc dc converters  a wide range of highly efficient bus converters  and individual models for both regulation and transformation 
+we continue to focus our product development efforts within the bbu on the design of vi brick modules  notably focusing on vi brick implementations of v i chip s innovative pfm and dcm modules 
+in february  we announced the introduction of the ibc series of vi brick intermediate bus converters  which utilize our patented sine amplitude converter topology  the zcs zvs resonant converter technology powering our v i chip bus converter line 
+switching at approximately times the frequency of competing square wave converters  our vi bricks cut transient response time by a factor of  eliminating the need for external bulk capacitors  while offering double the power density and half the conversion loss of competitive devices 
+these products are available as drop in replacements for industry standard eighth brick and quarter brick and intermediate bus converters 
+the product line includes   and watt models 
+in february  we added a proprietary ibc power simulation tool  what we believe to be an industry first online simulation capability providing a means for power systems designers to interactively model the electrical and thermal performance of intermediate bus converters in application specific operating conditions and thermal environments  to the vicor powerbench tool suite 
+we believe this simulation tool reduces time consuming bench level manual evaluation  streamlining design and development cycles 
+the ability to track changes across simulations with different parametric settings is intended to accelerate design optimization 
+accessory power system components accessory power system components  used with our component level power converters  integrate other important functions of the power system  facilitating the design of complete power systems by interconnecting several modules 
+these other functions include input filtering  power factor correction  transient protection and ac line rectification 
+in general  our broad line of proprietary accessory components are used to condition and or filter the input and output voltages of the modular power components and  therefore  represents an important complement to our converter component lines 
+examples of accessory products include our vi ham harmonic attenuator module  a universal ac input  power factor correcting front end for use with compatible dc dc power converters  and our vi aim ac input module  which provides input filtering  transient protection and rectification of the ac line 
+configurable products utilizing our modular power components as core elements  we have developed several configurable product families that provide complete power solutions configured to a customer s specific needs 
+these products exploit the benefits and flexibility of the modular approach to offer higher performance  higher power densities  lower costs  and faster delivery than many competitive offerings 
+configurable products are designed  developed and manufactured by the bbu  which offers a range of ac dc and dc dc products  by its westcor division  which focuses on high power ac dc power supplies  and by vjcl  which offers configurable power supplies addressing the specific requirements of japanese customers 
+
+table of contents most information technology  process control  and industrial electronic products operate directly off of ac lines and  as such  require circuitry to convert ac line voltage into the required dc voltage 
+our configurable ac dc power systems  the flatpac  vipac power system  and lopac families  incorporate front end ac dc circuitry subassemblies  thereby providing a complete power solution from ac line input to one or more dc outputs 
+these configurable products are characterized by their low profile design and are configurable in a range of sizes and outputs up to  watts 
+many telecommunications switching  transportation and defense electronic products are powered from central dc sources eg  generators or banks of batteries 
+our configurable dc dc power systems  the vipac array  compac  and megamod families  also are characterized by a low profile design  including rugged  compact assemblies for chassis mounted  bulk power applications 
+our highest power configurable product line  the megapac family  is also among our most flexible solutions 
+a megapac consists of a fan cooled chassis with up to slots into which are placed converterpac modules  which incorporate our brick power conversion modules  allowing for a broad range of customer specific configurations 
+the megapac itself can be configured to accept either ac or dc inputs  and output power can be as high as  watts with up to outputs 
+the vipac family of power systems is a class of user defined  integrated modular power solution that leverages the latest advances in maxi  mini  and micro dc dc converter technology and modular front ends 
+vipac combines application specific front end units  a choice of advantageous chassis styles and  in ac input versions  remotely located hold up capacitors to provide fast  flexible and highly reliable power solutions for a wide range of demanding applications 
+the web based vicor computer assisted design vcad tool  a component of vicor powerbench  can be utilized by the customer to specify and verify  in real time  that customer s desired configuration of our vipac family of configurable products from a broad range of inputs  outputs  packaging and optional features 
+similarly  our web based vicor system product online configurator vspoc  also a component of vicor powerbench  allows customers to configure and order westcor ac dc power supplies 
+customer specific power system products certain customers rely on us to design  develop and manufacture customized power systems to meet performance and or form factor requirements that cannot be met with off the shelf system solutions 
+by utilizing our power components as building blocks in developing these custom power systems  we have been able to meet such customers needs with reliable  high power density  turnkey solutions 
+these low volume  high value add products  besides meeting customers specific requirements  frequently are designed to function reliably in the harsh environments associated with aerospace and defense applications 
+we pursue custom opportunities through our vicor custom power network  which consists of six regional design  assembly and customer support locations 
+of the six locations  one is a division  three are either wholly owned or majority owned subsidiaries  and two are less than owned subsidiaries 
+v i chip products we have pioneered an innovative new board level power architecture  fpa  which separates or factorizes the basic functions of dc dc power conversion voltage transformation  regulation  and isolation into separate power components called v i chip modules 
+our v i chip modules represent the next generation of modular power components  providing power systems designers the ability to address increasingly challenging requirements 
+with each new generation of microprocessor  application specific integrated circuit  and memory  the trend has been toward lower voltages  higher currents  higher speeds and more on board voltages 
+system designers must contend with a range of lower voltages  improve overall power system efficiency  and deliver the solution in an ever smaller form factor 
+
+table of contents we believe fpa provides power system designers superior power density  conversion efficiency  transient responsiveness  noise performance  reliability  and design flexibility at a lower overall cost than attained with conventional board level power architectures 
+we currently offer three v i chip modules for implementation of fpa designs the bcm bus converter module  an intermediate bus converter  the prm pre regulator module  a non isolated regulator  and the vtm voltage transformation module  an isolated current multiplier 
+all three modules are offered in full ie  square inch and half ie  square inch modules 
+the bcm provides an isolated  unregulated intermediate bus voltage  at efficiencies up to  to power non isolated converters at the point of load from a narrow range dc input 
+the prm is a non isolated regulator  operating at up to efficiency  capable of both bucking ie  reducing and boosting ie  increasing an input voltage and providing a regulated  adjustable output voltage or factorized bus 
+vtms are designed to meet the demands of advanced microprocessor and memory applications at the point of load with fixed ratio voltage transformation with extremely fast transient response  while providing isolation from input to output 
+we have successfully deployed bcm  prm and vtm modules in fpa implementations in several demanding application categories for which they are well suited  including high performance computing  advanced test and measurement  and defense electronics 
+as addressed above in the context of its use in a vi brick product  v i chip also offers the pfm  an isolated ac dc voltage transformer  enabled by v i chip s adaptive cell topology  a high frequency  soft switching technology derived from our earlier advances in zcs zvs topologies 
+the pfm offers active power factor correction in a single stage for use in implementations of fpa or other board level power architectures across the worldwide range of ac supply voltage levels 
+the pfm has dimensions of x x  being approximately twice size of a full size bcm  prm or vtm module 
+a complementary module under development  the fem front end module  provides ac current rectification and filtering  as well as transient voltage suppression  when required 
+we believe the extremely thin profile of the fem pfm solution will allow much greater flexibility and creativity in end product design  while its differentiated performance should appeal to worldwide customers seeking to maximize the power efficiency of their own products 
+the pfm is indicative of our renewed commitment to the ac dc segment of the power conversion market  and is an important element of our strategy to offer differentiated power components from the ac source to the point of load 
+during the fourth quarter of  we began sampling our latest v i chip innovation  the dcm  an isolated  regulated dc dc voltage transformer offering very high conversion efficiency across a wide range of voltage inputs 
+like the pfm  the dcm is a low profile  light weight solution enabled by our adaptive cell topology 
+we are targeting the dcm for use in demanding high voltage applications  such as electric vehicles  for which its small size  low weight  high power density  and high efficiency are especially well suited 
+the pfm and dcm modules are vicor s new flagship products for our vision of a far reaching power component methodology 
+across major electronic markets  requirements for power systems operating from ac or dc input voltages will be addressed more predictably and cost effectively with modular components that support efficient power distribution and dense power conversion with the requisite flexibility and scalability 
+picor products picor designs  develops  and markets high performance integrated circuits and related products for use in a variety of power system applications 
+picor develops these products to be incorporated into our bbu and v i chip modules  to be sold as a complement to our products  or for sale to third parties for separate applications 
+we believe picor is competitively differentiated among vendors of power path management  filter  converter solutions targeted at a wide range of industries and applications  as our products have been designed with emphasis on high performance operation  board space savings  and reduced design complexity 
+picor s portfolio of merchant products includes a range of cool oring full function active oring solutions and discrete active oring controllers  as well as the quietpower range of output and input 
+table of contents electromagnetic interference filters  differentiated by their small  surface mount system in package sip and low cost 
+notable recent product introductions include the cool switch line of electronic circuit breaker  load disconnect switch solutions launched in and the cool power module  a dc dc converter delivering watts of output power in half the size of competitive solutions launched in 
+this module combines voltage transformation  output regulation and isolation in a high density  surface mount device utilizing v i chip assembly and packaging technology 
+in  picor announced the future direction of its cool power product line  which will be expanded in to include non isolated sip switching regulator solutions with a very high level of silicon integration  allowing for lower cost and design reuse across the product line 
+picor s proprietary switching topologies allow for very high switching frequencies that will drive differentiated performance for lower power buck  boost  and buck boost applications 
+mil cots products we offer versions of our commercial off the shelf brick converters and accessories  configurable power supplies  and v i chip modules meeting certain specification standards established by the us department of defense 
+such mil cots products meet the performance and reliability requirements associated with use in harsh and demanding environments 
+sales and marketing in  we reorganized our sales and marketing organization  consolidating management at the corporate level and employing new professionals to lead our newly unified go to market strategy and expanded marketing communications effort 
+this unified go to market strategy is focused on certain defined market segments that are the responsibility of our newly formed business creation teams bcts 
+each bct is focused on the requirements of customers in specific market segments and consists of product marketing  applications engineering  field application engineering  and regional sales personnel 
+specific sales activities are managed by a staff of area sales directors  regional and national account sales managers  and sales personnel in the following locations our world headquarters in andover  massachusetts  a technical support center in lombard  illinois  our westcor division in sunnyvale  california  vicor custom power locations in cedar park austin  texas  milwaukie portland  oregon  and oceanside san diego  california  our subsidiary in tokyo  japan  and our technical support centers in munich  germany  camberley  surrey  england  milan  italy  paris  france  and hong kong  china 
+because of the technically complex nature of our products  we maintain a staff of field applications engineers to support our sales activities 
+field application engineers provide direct technical sales support worldwide by reviewing new applications and technical matters with existing and potential customers 
+product line engineers  located in our andover headquarters  support field application engineers assigned to all of our locations 
+in  we also announced the adoption of a multi tiered distribution model 
+we traditionally have sold our products in north america and south america through a network of independent sales representative organizations and in other areas of the world through independent non stocking distributors 
+we announced a stocking distribution relationship with future electronics incorporated in june and with digi key corporation in january while initial dollar and unit volumes sold through these distributors are small to date  we anticipate these relationships will become meaningful contributors to our long term revenue growth 
+in  we introduced an electronic commerce capability through our website  www 
+vicorpower 
+com 
+registered customers in the us  canada and certain european countries are now able to purchase prototype quantities of selected products online 
+we intend to expand our online capability in the near future to include customers from other countries 
+
+table of contents we also sell directly to customers through vicor express  an in house distribution group 
+through advertising and periodic mailing of its catalogs  vicor express generally offers customers rapid delivery on small quantities of certain standard products 
+through vicor bv  vicor express operates in germany  france  italy and england 
+we generally warrant our products for a period of two years 
+applications and customers the applications in which our power conversion and power management products are used are in the higher performance  higher power segments of the power systems market 
+our products are sold worldwide to customers ranging from smaller  independent manufacturers of highly specialized electronic devices to global oems and their contract manufacturers 
+industries served include aerospace and defense electronics  enterprise and high performance computing  industrial equipment and automation  telecommunications and network infrastructure  and vehicles and transportation markets 
+during  one customer acbel polytech  inc accounted for approximately of net revenues 
+for the year ended december   two customers accounted for approximately and of net revenues  respectively 
+for the year ended december   no single customer accounted for more than of our net revenues 
+international sales  as a percentage of total net revenues  were approximately in  in  and in  respectively 
+backlog as of december   we had a backlog of approximately  compared to  on december  backlog is comprised of orders for products for which shipment is scheduled within the next months 
+a portion of our sales in any quarter is  and will continue to be  derived from orders booked in the same quarter 
+research and development as a basic element of our long term strategy  we are committed to the continued advancement of power conversion technology and power component product development 
+we invested approximately   and  in research and development in   and  respectively 
+investment in research and development represented approximately   and of net revenues in   and  respectively 
+we intend to continue to invest a significant percentage of revenues in research and development activities 
+manufacturing and quality assurance our principal manufacturing processes consist of assembly of electronic components onto printed circuit boards  automatic testing of components  wave  reflow and infrared soldering of assembled components  encapsulation of converter subassemblies  final environmental stress screening of certain products and product test using automatic test equipment 
+we continue to pursue a manufacturing strategy based upon the phased acquisition and or fabrication  qualification and integration of automated manufacturing equipment to reduce manufacturing costs  increase product quality and reliability and enable rapid and effective expansion of capacity  as needed 
+we intend to make continuing investments in manufacturing equipment  particularly for our v i chip and vi brick products and replacement of manufacturing equipment utilized by the bbu 
+
+table of contents components and materials used in our products are purchased from a variety of vendors 
+most of the components are available from multiple sources 
+in instances of single source items  we maintain levels of inventories we consider to be appropriate to enable meeting the delivery requirements of customers 
+incoming components  assemblies and other parts are subjected to several levels of inspection procedures 
+our compliance with applicable environmental laws has not had a material effect on our financial condition or operating results 
+product quality and reliability are critical to our success and  as such  we emphasize quality and reliability in our design and manufacturing activities 
+we follow industry best practices in manufacturing and are compliant with iso certification standards as set forth by the international organization for standardization 
+our quality assurance practices include rigorous testing and  as necessary  burn in of our products using automated equipment 
+competition the power conversion industry is highly competitive 
+it remains highly fragmented  despite significant consolidation during the prior decade 
+numerous power supply manufacturers target market segments and applications similar to those we target 
+several of these competitors have significantly greater financial and marketing resources and longer operating histories than we do 
+with the bbu  our strategy is largely based on differentiated responsiveness to customer requirements enabled by our mass customization capabilities 
+we believe we have a strong competitive position  particularly with customers who need small  high density power system solutions requiring a variety of input output configurations 
+we compete on the basis of differentiation  offering a broad product line and mass customization abilities 
+we also compete by emphasizing technical innovation  product performance  and service and technical support 
+we believe the principal competitive variables in the market segments in which the bbu competes are price  performance  and the level of service and technical support offered 
+with v i chip  our strategy is largely based on differentiated products offered to  at least during the early adoption of such products  a limited number of larger potential customers well positioned to benefit from the advantages offered by our products eg  global original equipment manufacturers in computing  networking  and test and measurement 
+v i chip currently competes with vendors of power component solutions  many of which are the manufacturers with which the bbu competes 
+in the coming years  we anticipate a significantly broadened market for v i chip  as awareness of the advantages of v i chip spreads and a broader audience of potential customers is reached 
+we also anticipate the introduction of the pfm and dcm concepts will accelerate adoption of our broadened v i chip product line  as we will be well positioned to offer comprehensive ac dc and dc dc solutions across a wider range of applications 
+picor and  to a lesser extent  v i chip compete with suppliers of integrated circuits for power conversion applications  many of which have significantly greater financial and marketing resources and longer operating histories 
+we believe picor is developing a strong competitive position based on innovative semiconductor design and sip packaging 
+based on picor s expanding product roadmap  we anticipate picor will experience more direct competition with these larger suppliers  as we target their customers with our increasingly silicon centric power conversion solutions 
+patents and intellectual property we believe our patents afford advantages by building fundamental and multilayered barriers to competitive encroachment upon key features and performance benefits of our principal product families 
+our patents cover the fundamental conversion topologies used to achieve the performance attributes of our converter product lines  converter array architectures  product packaging design  product construction  high frequency magnetic structures  as well as automated equipment and methods for circuit and product assembly 
+
+table of contents we have been issued patents in the united states which expire between and 
+we also have a number of patent applications pending in the united states  europe and the far east 
+we intend to vigorously protect our rights under these patents 
+although we believe patents are an effective way of protecting our technology  there can be no assurances that our patents will prove to be enforceable 
+licensing in addition to generating revenue from product sales  licensing is an element of our strategy for building worldwide product and technology acceptance and market share 
+in granting licenses  we generally retain the right to use our patented technologies and manufacture and sell our products in all licensed geographic areas and fields of use 
+licenses are granted and administered through our wholly owned subsidiary  vlt  inc  which owns our patents 
+revenues from licensing arrangements have not exceeded of our consolidated revenues in any of the last three fiscal years 
+employees as of december   we had  full time employees and part time employees 
+we believe our continued success depends  in part  on our ability to attract and retain qualified personnel 
+although there is strong demand for qualified personnel  we have not to date experienced difficulty in attracting and retaining sufficient engineering and technical personnel to meet our needs see part i  item a risk factors 
+none of our employees are subject to a collective bargaining agreement 
+
+table of contents item a 
+risk factors this annual report on form k contains forward looking statements within the meaning of section a of the securities act of  as amended  and section e of the securities exchange act of  as amended 
+actual results could differ materially from those projected in the forward looking statements as a result of  among other factors  the risk factors set forth below 
+our future operating results are difficult to predict and are subject to fluctuations 
+our future operating results  including revenues  gross margins  operating expenses and net income loss  have fluctuated on a quarterly and annual basis  are difficult to predict  and may be materially affected by a number of factors  many of which are beyond our control  including the effects of adverse economic conditions in the united states and international markets  especially in light of the continued challenges in global credit and financial markets  changes in customer demand for our products and for end products that incorporate our products  the timing of our new product announcements or introductions  as well as those by our competitors  our ability to effectively coordinate changes in the mix of products we manufacture and sell  while managing our ongoing transition in organizational focus from traditional brick power components to our new v i chip  vi brick and picor products  our ability to provide and maintain a high level of support to an increasing number of large  high volume customers  the level of demand and purchase orders from our customers  and our ability to adjust to changes in demand and purchase order patterns  changes in order lead times and our turns volumes ie  the volumes of purchase orders received and shipped within an individual quarter  the timing  delay or cancellation of significant customer orders and our ability to manage inventory  the ability of our third party suppliers  subcontractors and manufactures to supply us with sufficient quantities of high quality products or components  on a timely basis  the effectiveness of our efforts to reduce product costs and manage operating expenses  our ability to utilize our manufacturing facilities at efficient levels  maintaining production capacity and manufacturing yields  the ability to hire  retain and motivate qualified employees to meet the demands of our customers  intellectual property disputes  potential significant litigation related costs  costs related to compliance with increasing worldwide environmental and other regulations  and the effects of public health emergencies  natural disasters  security risk  terrorist activities  international conflicts and other events beyond our control 
+as a result of these and other factors  we cannot assure you that we will not experience significant fluctuations in future operating results on a quarterly or annual basis 
+in addition  if our operating results do not meet the expectations of investors  the market price of our common stock may decline 
+our stock price has been volatile and may fluctuate in the future 
+the trading price of our common stock has and may continue to fluctuate significantly 
+such fluctuations may be influenced by many factors  including the recent unprecedented volatility of the financial markets  
+table of contents uncertainty regarding the prospects of domestic and foreign economies  uncertainty regarding domestic and international political conditions  including tax policies  actual or anticipated fluctuations in our operating performance  the performance and prospects of our major customers  announcements by us or our competitors of significant new products  technical innovations or litigation  investor perception of our company and the industry in which we operate  the absence of earnings estimates and supporting research by investment analysts  the liquidity of the market for our common stock  the uncertainty of the declaration and payment of future cash dividends on our common stock  and the concentration of ownership of our common stock by dr 
+vinciarelli  our chairman of the board  chief executive officer  and president 
+public stock markets have recently experienced extreme price and trading volume volatility 
+this volatility significantly and negatively affected the market prices of securities of many technology companies  including the market price of our common stock in late  early  and again in the second half of the return of such volatility could result in broad market fluctuations that could materially and adversely affect the market price of our common stock for indefinite periods 
+in addition  fluctuations in our stock price  volume of shares traded  and changes in our trading multiples may make our stock attractive to certain categories of investors who often shift funds into and out of stocks rapidly  exacerbating price fluctuations in either direction 
+the ownership of our common stock is concentrated between dr 
+vinciarelli and a limited number of institutional investors 
+dr 
+vinciarelli owned  as of december    shares of our common stock  as well as  shares of our class b common stock convertible on a one for one basis into common stock  together representing of total issued and outstanding shares 
+certain institutional investors have been long term owners of our common stock and held in aggregate  as of september  the most recent reporting date for institutional holders  over of our issued and outstanding shares 
+accordingly  the market float for our common stock and average daily trading volumes are relatively small  which can negatively impact investors ability to buy or sell shares of our common stock in a timely manner 
+we do not actively communicate with investment analysts and  as a consequence  there are no earnings estimates or supporting research coverage of our company 
+because operating results have fluctuated on a quarterly and annual basis  investors may have difficulty in assessing our current and future performance 
+in the past  we have declared and paid cash dividends on our common stock 
+the payment of dividends is based on the periodic determination by the board of directors that we have adequate capital to fund anticipated operating requirements and that excess cash is available for distribution to shareholders via a dividend 
+we have no formal policy regarding dividends and  as such  investors cannot make assumptions regarding the possibility of future dividend payments nor the amounts and timing thereof 
+dr 
+vinciarelli owns of our issued and outstanding class b shares  which possess votes per share 
+dr 
+estia j 
+eichten  a member of our board of directors  owns the majority of the balance of class b shares issued and outstanding 
+as such  dr 
+vinciarelli  controlling in aggregate of share voting power  has effective control of the governance of the company 
+the ongoing disruptions in the global economy  as well as continued uncertainty in global financial markets  could materially and adversely affect our business and consolidated operating results 
+global economic conditions remain uncertain 
+further disruption and deterioration in inter related global economic conditions may reduce customer purchases of our products  thereby reducing our revenues and 
+table of contents earnings 
+in addition  such adverse conditions may  among other things  result in increased price competition for our products  increased risk of excess and obsolete inventories  increased risk in the collectability of our accounts receivable from our customers  increased risk in potential reserves for doubtful accounts and write offs of accounts receivable  and higher operating costs as a percentage of revenues 
+the ongoing european debt crisis and related financial restructuring efforts have contributed to the instability of global financial markets and regional economies 
+the debt crisis in europe could cause further deterioration of the value of the euro relative to the us dollar  thus reducing the purchasing power of our european customers 
+if a european economic recession occurs in  we could experience a significant decline in revenue and profitability  as european activities represented over one third of our international revenue in china recently has experienced a deceleration of its rapid rise to be the world s second largest economy 
+while robust  high single digit growth is expected for china s economy in  this expectation does not take into consideration the impact of a european recession on china s export activity 
+also  certain industrial sectors may experience further slowing of growth or actual contraction  as the chinese government shifts priorities to meet state objectives 
+such shifts or continued deceleration of chinese economic growth may have a material and adverse affect on our revenue and profitability in the asia pacific region  which represented  exclusive of japan  approximately one half of our international revenue in vjcl  which serves japan exclusively and represented less than of our international revenue in  experienced relatively stable performance for the year  despite poor domestic economic conditions and the natural disasters of march while the japanese economy has structural weaknesses  it is expected to expand slightly in  despite the global risks to its export oriented economy 
+however  recession in europe  further deterioration of the euro relative to the yen  or reduced export demand from china could have a material and adverse affect on our revenue and profitability in japan 
+any of these inter related conditions and circumstances individually  or in combination  could materially and adversely affect our business and operating results 
+we compete with many companies possessing far greater resources 
+some of our competitors have greater financial  manufacturing  technical  sales and marketing resources than we have 
+we compete with domestic and foreign manufacturers of integrated power supplies and power conversion components 
+with the growth of our v i chip and picor product lines  we increasingly are competing with global manufacturers of power management products 
+competition is generally based on design and quality of products  product performance  features and functionality  and product pricing  availability and capacity  with the relative importance of these factors varying among products  markets and customers 
+existing or new competitors may develop products or technologies that more effectively address the demands of our customers and markets with enhanced performance  features and functionality or lower cost 
+if we fail to continue to develop and commercialize leading edge technologies and products that are cost effective and maintain high standards of quality  and introduce them to the market on a timely basis  our competitive position and results of operations could be materially adversely affected 
+our future success increasingly depends upon our ability to develop and market differentiated  leading edge power conversion products for larger customers  potentially contributing to lengthy product development and sales cycles that may result in significant expenditures before revenues are generated 
+our future operating results are dependent on the growth in such customers businesses and on our ability to profitably develop and deliver products meeting customer requirements 
+the power system industry and the industries in which many of our customers operate are characterized by intense competition  rapid technological change  product obsolescence and price erosion for mature products  each of which could have an adverse effect on our results of operations 
+we are following a strategy based on the 
+table of contents development of differentiated products addressing what we believe to be the long term limitations of traditional power architectures 
+the development of such new products is often a complex  time consuming and costly process involving significant investment in research and development  with no assurance of return on investment 
+there can be no assurance we will be able to develop and introduce new and improved products in a timely or efficient manner or new and improved products  if developed  will achieve market acceptance 
+our future success depends substantially upon customer acceptance of our innovative products 
+as we have been in the early stages of market penetration for these products  we have experienced lengthy periods during which we have focused our product development efforts on the specific requirements of a limited number of large customers  followed by further periods of delay before meaningful purchase orders are received 
+these lengthy development and sales cycle times increase the possibility a customer may decide to cancel or change product plans  which could reduce or eliminate our sales to that customer 
+as a result  we may incur significant product development expenses  as well as significant sales and marketing expenses  before we generate the related revenues for these products 
+furthermore  we may never generate the anticipated revenues from a product after incurring such expenses if our customer cancels or changes its product plans 
+we are shifting our market strategy to focus on larger opportunities with global manufacturers 
+our growth is therefore dependent on the growth in the sales of these customers products as well as their own development of new products 
+if we fail to anticipate changes in our customers businesses and their changing product needs or successfully identify and enter new markets  our results of operations and financial position could be negatively impacted 
+we cannot assure you the markets we serve will grow in the future  our existing and new products will meet the requirements of these markets  or we can maintain adequate gross margins or profits in these markets 
+further reductions of spending by the us department of defense or a pronounced shift in the nature of such spending may negatively influence our operating results 
+customers in the defense electronics segment have contributed a meaningful portion of the bbu s revenue to date 
+such revenues represented approximately of bbu revenue in  down from approximately in defense electronics customers have represented the majority of revenue for vicor custom power  which designs and manufactures sophisticated power solutions for primarily ci command  control  communications  computing  and intelligence applications 
+recent reductions in department of defense spending  particularly those associated with reduced troop deployment in iraq  have resulted in declines in orders and revenue from certain defense contractors 
+as the department of defense re prioritizes spending to address both current requirements and federal budget constraints  we may experience further declines in orders and revenue from defense contractors 
+customers in defense electronics typically place orders with us based on the requirements of certain platform programs that may continue over several years  and the conclusion or termination of such programs may negatively influence our operating results 
+two such programs  cumulatively representing approximately million and million of revenue for vicor custom power in and  respectively  were substantially concluded by the first quarter of while we currently do not have any single program approaching the magnitude of these two programs  our operating results may be negatively impacted by the termination of any program by the department of defense 
+our operating results recently have been influenced by a limited number of customers  and our future results may be similarly influenced 
+since it was established  our v i chip subsidiary has derived a substantial portion of its revenue from one customer  whether through sales directly to the customer or indirectly to the customer s contract manufacturers 
+similarly  our picor subsidiary has derived a substantial portion of its third party revenue from a limited number of customers 
+this concentration of revenue is a reflection of the relatively early stage of adoption of the technologies  architectures and products offered by these subsidiaries  and their targeting of market leading 
+table of contents innovators as initial customers 
+our new sales and marketing strategy is  in part  focused on accelerating the adoption of v i chip and picor products by a diversified customer base across a number of identified market segments 
+however  we cannot assure you our new strategy will be successful and such diversification of customers will be achieved 
+growth in the v i chip segment and the vicor custom power business within the bbu over the last several years has come from either a limited number of customers or from a limited number of significant customer programs 
+a decline in or deferral of demand from one or several of these large customers or the discontinuation of certain programs  or declines in our other end user markets in general  could have a material adverse impact on our results of operations 
+vicor custom power experienced a significant revenue decrease in due to the completion of two major programs in the first part of in addition  several large v i chip customers  due to uncertain conditions in their own businesses  deferred placing purchase orders with us or deferred delivery of scheduled product shipments during as a result  we incurred additional costs associated with managing our inventory levels and scheduling our production activity 
+we rely on third party vendors and subcontractors for supply of components and assemblies and  therefore  cannot control the availability or quality of such components and assemblies 
+we depend on third party vendors and subcontractors to supply components and assemblies used in our products  some of which are supplied by a single vendor 
+in the third and fourth quarters of  we experienced shortages of certain semiconductor components  supplied by a single vendor  and incurred additional and unexpected costs to address the shortages  while experiencing delays in production and shipping 
+if suppliers or subcontractors cannot provide their products or services on time or to our specifications  we may not be able to meet the demand for our products and our delivery times may be negatively affected 
+in addition  we cannot directly control the quality of the products and services provided by third parties 
+in order to grow  we likely will need to identify and qualify new suppliers and subcontractors to supplant or replace existing suppliers and subcontractors 
+this may cause disruptions in production  delays in shipping  or increases in prices paid to third parties 
+we may not be able to procure necessary key components for our products  or we may purchase excess raw material inventory or unusable inventory  possibly impacting our operating results 
+the power systems industry  and the electronics industry as a whole  can be subject to pronounced business cycles and otherwise subject to sudden and sharp changes in demand 
+our success  in part  is dependent on our ability to forecast and procure inventories of raw materials and components to match production schedules and customer delivery requirements 
+many of our products  notably v i chip modules and picor components  require raw materials supplied by a limited number of vendors and  in some instances  a single vendor 
+during periods of demand growth  key materials required to build our products may become unavailable in the timeframe required for us to meet our customers needs 
+our inability to secure sufficient materials and components to build products for our customers could negatively impact our sales and operating results 
+we may choose to mitigate this risk by increasing the levels of inventory for certain raw materials and components 
+such increased inventory levels may increase the potential risk for excess and obsolescence should our forecasts fail to materialize or if there are negative factors impacting our customers end markets  leading to order cancellation 
+if we purchase excess inventory or determine certain inventory is unusable  we may have to record additional inventory reserves or write off the unneeded inventory  which could have a material adverse effect on our gross margins and on our operating results 
+our revenues and profits may not increase enough to offset the expense of additional production capacity 
+we have made significant additions to our manufacturing equipment and capacity over the past several years  including equipment for both our new v i chip products and for bbu products 
+during and  we added equipment to the v i chip production lines that more than doubled production capacity 
+we have also replaced certain equipment and added new  more efficient equipment for certain processes on the bbu 
+table of contents production lines 
+if overall revenue levels do not increase enough to offset the increased fixed costs  or if there is deterioration in our overall business  our future operating results could be adversely affected 
+in addition  asset values could be impaired if the additional capacity is underutilized for an extended period of time  resulting in impairment charges that could have a material adverse effect on our financial position and results of operations 
+if we were unable to use our manufacturing facility in andover  massachusetts  we would not be able to manufacture for an extended period of time 
+all modular power components  whether for direct sale to customers or for sale to our subsidiaries and divisions for incorporation into their respective products  are manufactured at our andover  massachusetts  production facility 
+substantial damage to this facility due to fire  natural disaster  power loss or other events could interrupt manufacturing 
+any prolonged inability to utilize all or a significant portion of this facility could have a material adverse effect on our results of operations 
+we are exposed to foreign economic  political and other risks 
+for the years ended december   and  our net revenues from sales outside the united states were   and  respectively  of the company s total net revenues 
+we expect international sales will continue to be a significant component of total sales  since many of the global manufacturers we target as customers increasingly utilize offshore contract manufacturers and rely upon those contract manufacturers to place orders directly with us 
+we also expect international revenue from our distributors to increase 
+while our currency risks are limited  as our sales are denominated in dollars worldwide  with the exception of japan  our international activities expose us to special risks including  but not limited to  regulatory requirements  economic and political instability  transportation delays  foreign currency controls and market fluctuations  trade barriers and tariffs  and foreign exchange rates 
+in addition  our international customers business may be negatively affected by the ongoing crisis in the global credit and financial markets 
+sudden or unexpected changes in the foregoing could have a material adverse effect on our operating results 
+we may be unable to adequately protect our proprietary rights  which may limit our ability to compete effectively 
+we operate in an industry in which the ability to compete depends on the development or acquisition of proprietary technologies that must be protected to preserve the exclusive use of such technologies 
+we devote substantial resources to establish and protect our patents and proprietary rights  and we rely on patent and intellectual property law to protect such rights 
+this protection  however  may not prevent competitors from independently developing products similar or superior to our products 
+we may be unable to protect or enforce current patents  may rely on unpatented technology that competitors could restrict  or may be unable to acquire patents in the future  and this may have a material adverse affect on our competitive position 
+in addition  the intellectual property laws of foreign countries may not protect our rights to the same extent as those of the united states 
+we have been and may need to continue to defend or challenge patents 
+we have incurred and expect to incur significant costs in and devote significant resources to these efforts which  if unsuccessful  may have a material adverse effect on our operating results and financial position 
+we may face intellectual property infringement claims that could be costly to resolve 
+the power supply industry is characterized by vigorous protection and pursuit of intellectual property rights 
+we may in the future receive communications from third parties asserting that our products or manufacturing processes infringe on a third party s patent or other intellectual property rights 
+in january  we were named in a complaint for patent infringement filed by synqor  inc see part i item legal proceedings 
+in the event a third party makes a valid intellectual property claim against us and a license is not available to us on commercially reasonable terms  or at all  we could be forced to either redesign or stop production of products incorporating that technology  and our operating results could be materially and adversely affected 
+in addition  
+table of contents litigation may be necessary to defend us against claims of infringement  and this litigation could be costly and divert the attention of key personnel 
+an adverse outcome in these types of matters could have a material adverse impact on our operating results and financial condition 
+we may face legal claims and litigation from product warranty or other claims that could be costly to resolve 
+we may in the future encounter legal action from customers  vendors or others concerning product warranty or other claims 
+we generally offer a two year warranty from the date title passes from us for all of our standard products 
+we invest significant resources in the testing of our products  however  if any of our products contain defects  we may be required to incur additional development and remediation costs  pursuant to our warranty policies 
+these issues may divert our technical and other resources from other product development efforts and could result in claims against us by our customers or others  including liability for costs associated with product returns  which may adversely impact our operating results 
+if any of our products contains defects  or has reliability  quality or compatibility problems  our reputation may be damaged  which could make it more difficult for us to sell our products to existing and prospective customers and could adversely affect our operating results 
+our ability to successfully implement our business strategy may be limited if we do not retain our key personnel and attract and retain skilled and experienced personnel 
+our success depends on our ability to retain the services of our executive officers 
+the loss of one or more members of senior management could materially adversely affect our business and financial results 
+in particular  we are dependent on the services of dr 
+vinciarelli  our founder  chairman of the board  chief executive officer  and president 
+the loss of the services of dr 
+vinciarelli could have a material adverse effect on our development of new products and on our results of operations 
+in addition  we depend on highly skilled engineers and other personnel with technical skills that are in high demand and are difficult to replace 
+our continued operations and growth depend on our ability to attract and retain skilled and experienced personnel in a very competitive employment market 
+if we are unable to attract and retain these employees  our ability to successfully implement our business strategy may be harmed 
+disruption of our information technology infrastructure could adversely affect our business 
+we depend heavily on information technology infrastructure to achieve our business objectives  particularly our computer integrated manufacturing processes that control all aspects of our operations in our manufacturing facility in andover  massachusetts 
+if a problem occurs impairing this infrastructure  the resulting disruption could impede our ability to record or process orders  manufacture and ship in a timely manner  or otherwise carry on business in the normal course 
+while we carry business interruption insurance that would mitigate losses to an extent  such insurance may be insufficient to compensate us for the potentially significant losses 
+any such events  if prolonged  could have a material and adverse effect on our operating results and financial condition 
+our computing and communications systems are designed to protect us from network disruptions and security breaches 
+however  we are subject to network disruptions or security breaches caused by computer viruses  illegal break ins or malicious hacking  sabotage  acts of vandalism by third parties  or terrorism 
+our security measures or those of our third party service providers may not detect or prevent such network disruptions or security breaches 
+any such compromise of our systems security could result in the unauthorized publication of our confidential business or proprietary information  cause an interruption in our operations  result in the unauthorized release of customer or employee data  result in a violation of privacy or other laws  expose us to a risk of litigation or damage our reputation  which could have a material and adverse affect on our operating results and financial condition  as well as significantly harm our business 
+if we fail to maintain an effective system of internal controls or discover material weaknesses in our internal controls over financial reporting  we may not be able to report our financial results accurately or timely or detect fraud  which could have a material adverse effect on our business 
+an effective internal control environment is necessary for us to produce reliable financial reports and is an important part of our effort to prevent financial fraud 
+section of the sarbanes oxley act of requires 
+table of contents our management to report on  and our independent registered public accounting firm to attest to  the effectiveness of our internal control structure and procedures for financial reporting 
+we have an ongoing program to perform the system and process evaluation and testing necessary to comply with these requirements and to continuously improve and remediate internal controls over financial reporting 
+while management evaluates the effectiveness of our internal controls on a regular basis  these controls may not always be effective 
+there are inherent limitations on the effectiveness of internal controls  including collusion  management override  and failure in human judgment 
+in addition  control procedures are designed to reduce rather than eliminate business risks 
+in the event that our chief executive officer  chief financial officer  or independent registered public accounting firm determines that our internal controls over financial reporting are not effective as defined under section  we may be unable to produce reliable financial reports or prevent fraud  which could materially adversely affect our business 
+in addition  we may be subject to sanctions or investigation by government authorities or self regulatory organizations  such as the securities and exchange commission or the nasdaq stock market  llc 
+any such actions could affect investor perceptions of the company and result in an adverse reaction in the financial markets due to a loss of confidence in the reliability of our financial statements  which could cause the market price of our common shares to decline or limit our access to capital 
+item b 
+unresolved staff comments none 
+item properties our corporate headquarters building in andover  massachusetts  which we own  provides approximately  square feet of office space for our sales  marketing  engineering and administration personnel 
+we also own a building of approximately  square feet in andover  massachusetts  which houses all massachusetts manufacturing activities 
+our westcor division owns and occupies a building of approximately  square feet in sunnyvale  california 
+all other domestic and foreign facilities are leased from third party lessors on arms length terms 
+item legal proceedings as disclosed in prior filings  on january   synqor  inc synqor filed a complaint for patent infringement against ericsson  inc ericsson  cisco systems  inc 
+cisco and us in us district court for the eastern district of texas the texas action 
+this immediately followed a complaint filed by us on january  in us district court for the district of massachusetts  in which we sought a declaratory judgment that our bus converter products do not infringe any valid claim of certain of synqor s us patents  and that the claims of those patents are invalid 
+with respect to us  synqor s complaint alleges our products  including  but not limited to  unregulated bus converters used in intermediate bus architecture power supply systems  infringe certain synqor patents 
+synqor seeks  amongst other items  an injunction against further infringement and an award of unspecified compensatory and enhanced damages  interest  costs and attorney fees 
+on february   synqor filed a motion for preliminary injunction seeking an order enjoining us from manufacturing  using  selling  and offering for sale in the united states and or importing into the united states certain identified unregulated bus converters  as well as any other bus converters not significantly different from those products 
+on february   we withdrew our massachusetts action without prejudice to allow the litigation to proceed in texas 
+on may   synqor announced it was withdrawing its motion for preliminary injuction against us 
+on september   synqor filed an amended complaint in the texas action 
+the amended complaint repeated the allegations of patent infringement against us contained in synqor s original complaint  and included additional patent infringement allegations with respect to us patent no 
+ patent  which was issued on that day 
+as with synqor s original complaint  the amended complaint alleged that our products  including but not limited to our unregulated bus converters used in 
+table of contents intermediate bus architecture power supply systems  infringed the asserted patents 
+on october   we filed an answer and counterclaims to synqor s amended complaint  in which we allege the patent is unenforceable because it was procured through inequitable conduct before the us patent and trademark office and seek damages against synqor for synqor s unfair and deceptive trade practices and tortious interference with prospective economic advantage in connection with synqor s allegations of patent infringement against us 
+we do not believe any of our products  including our unregulated bus converters  infringe any valid claim of the synqor patents  either alone or when used in an intermediate bus architecture implementation 
+we believe synqor s claims lack merit and  therefore  we continue to vigorously defend ourselves against synqor s patent infringement allegations 
+during the third quarter of  we entered into a release and settlement agreement with a vendor over alleged product performance issues with certain products the vendor had sold to us 
+we received a payment of  in consideration for the settlement  which is recorded in gain from litigation related and other settlements  net in the accompanying consolidated statement of operations 
+on february   we announced an agreement in principle with ericsson  inc  the us affiliate of lm ericsson  to settle a lawsuit brought by ericsson against us in california state court 
+under the terms of the settlement agreement entered into on march   after a court ordered mediation  we paid  to ericsson  of which  was reimbursed by our insurance carriers 
+accordingly  we recorded a net loss of  from the litigation related settlements in the fourth quarter of we have been seeking further reimbursement from its insurance carriers 
+on november   a jury in the united states district court for the district of massachusetts found in favor of us in a lawsuit against certain of its insurance carriers with respect to the ericsson settlement 
+the jury awarded  in damages to us  although the verdict is subject to challenge in the trial court and on appeal 
+both parties filed certain motions subsequent to the ruling and  on march   the judge in the case rendered his decision on the subsequent motions  reducing the jury award by  on march   the us district court  district of massachusetts the court issued its judgment in the matter  affirming the award of  plus prejudgment interest from the date of breach on march  through march   the date of judgment in the amount of approximately  the insurance carriers have filed their appeal to this total judgment in the amount of approximately  no final and collectible judgment yet has been entered by the court as of december  and therefore no amounts are reflected in the accompanying consolidated financial statements 
+our decision to enter into the settlement followed an adverse ruling by the court in january in connection with a settlement between ericsson and co defendants exar corporation exar and rohm device usa  llc rohm  two of our component suppliers prior to our writ of mandate appeal of this ruling was denied in april  in september  we filed a notice of appeal of the court s decision upholding the ericsson exar rohm settlement 
+in december  the court awarded exar and rohm amounts for certain statutory and discovery costs associated with this ruling 
+as such  we accrued  in the second quarter of  included in gain loss from litigation related and other settlements  net in the consolidated statements of operations  of which  of the award was paid in the second quarter of on february   the court of appeals issued its opinion affirming the judgment for exar and rohm in full 
+during the third quarter of  we completed negotiations with exar and rohm  resulting in separate settlement agreements calling for a final payment to exar of  and no additional payment due rohm 
+as a result of the settlements  we reversed a remaining excess accrual of approximately  in the third quarter of  which is recorded in gain from litigation related and other settlements  net in the accompanying consolidated statement of operations 
+in addition  we are involved in certain other litigation and claims incidental to the conduct of its business 
+while the outcome of lawsuits and claims against us cannot be predicted with certainty  we do not expect any current litigation or claims to have a material adverse impact on our financial position or results of operations 
+item mine safety disclosures not applicable 
+
+table of contents part ii item market for registrant s common equity and related stockholder matters our common stock is listed on the nasdaq stock market  llc  under the trading symbol vicr 
+shares of our class b common stock are not registered with the securities and exchange commission  are not listed on any exchange nor traded on any market  and are subject to transfer restrictions under our restated certificate of incorporation  as amended 
+the following table sets forth the quarterly high and low sales prices for the common stock as reported by the nasdaq stock market for the periods indicated high low first quarter second quarter third quarter fourth quarter high low first quarter second quarter third quarter fourth quarter as of february   there were holders of record of our common stock and holders of record of our class b common stock 
+these numbers do not reflect persons or entities that hold their shares in nominee or street name through various brokerage firms 
+dividend policy we do not have a policy mandating the declaration of dividends at any particular time or on a regular basis 
+dividends are declared at the discretion of our board of directors and depend on actual cash from operations  our financial condition and capital requirements  the recommendation of our management  and any other factors the board of directors may consider relevant 
+on july   the company s board of directors approved a cash dividend of per share of the company s common stock 
+the total dividend of approximately  was paid on august  to shareholders of record at the close of business on august  from time to time  excess cash held at the subsidiary level is transferred to the company via cash dividends declared by the subsidiary 
+because we own less than of the common stock of certain subsidiaries  such subsidiary dividends can result in payments to outside shareholders of those subsidiaries 
+during the year ended december   two subsidiaries paid a total of  in cash dividends  of which  was paid to the company and  was paid to outside shareholders ie  paid to certain subsidiary employees who own common stock in the subsidiary 
+during the year ended december   three subsidiaries paid a total of  in cash dividends  of which  was paid to the company and  was paid to outside shareholders 
+dividends paid to outside shareholders are accounted for as a reduction in noncontrolling interest 
+
+table of contents issuer purchases of equity securities period total number of shares or units purchased average price paid per share or unit total number of shares or units purchased as part of publicly announced plans or programs maximum number of approximate dollar value of shares or units that may yet be purchased under the plans or programs october  november  december  total in november  our board of directors authorized the repurchase of up to  of our common stock the november plan 
+the november plan authorizes us to make such repurchases from time to time in the open market or through privately negotiated transactions 
+the timing and amounts of stock repurchases are at the discretion of management based on its view of economic and financial market conditions 
+we did not repurchase shares of common stock during the year ended december  
+table of contents stockholder return performance graph the graph set forth below presents the cumulative  five year stockholder return for each of the company s common stock  the standard poor s index s p index  a value weighted index made up of of the largest  by market capitalization  listed companies  and the standard poor s smallcap index s p smallcap index  a value weighted index of listed companies with market capitalizations between  and  the graph assumes an investment of on december   in each of our common stock  the s p index  and the s p smallcap index  and assumes reinvestment of all dividends 
+the historical information set forth below is not necessarily indicative of future performance 
+comparison of five year cumulative return among vicor corporation  s p index and s p smallcap index logo vicor corporation s p index s p smallcap index 
+table of contents item selected financial data the following selected consolidated financial data with respect to our statements of operations for the years ended december    and  and with respect to our balance sheets as of december  and  are derived from our consolidated financial statements  which appear elsewhere in this report and which have been audited by grant thornton llp  our independent registered public accounting firm 
+the following selected consolidated financial data with respect to our statements of operations for the years ended december  and  and with respect to our balance sheets as of december   and are derived from our consolidated financial statements  which are not included herein 
+year ended december  statement of operations data in thousands  except per share data net revenues income loss from operations consolidated net income loss net income attributable to noncontrolling interest net income loss attributable to vicor corporation net income loss per share basic and diluted attributable to vicor corporation weighted average shares basic weighted average shares diluted cash dividends per share as of december  balance sheet data in thousands working capital total assets total liabilities total equity item management s discussion and analysis of financial condition and results of operations overview we design  develop  manufacture and market modular power components and complete power systems based upon a portfolio of patented technologies 
+we sell our products primarily to customers in the higher performance  higher power segments of the power systems market  including aerospace and defense electronics  enterprise and high performance computing  industrial equipment and automation  telecommunications and network infrastructure  and vehicles and transportation 
+on june   we announced the adoption of a multi tiered distribution model  consisting of direct sales  regional manufacturers representatives in north and south america  and a distribution partnership with future electronics incorporated  a leading electronic components distributor 
+in january  we announced a similar distribution arrangement with digi key corporation  a leading internet based electronic components distributor 
+revenues to date under these new arrangements have not been material 
+we will continue to utilize independent distributors to serve international markets 
+export sales as a percentage of total revenues were approximately in  in and in  respectively 
+we have organized our business segments according to our key product lines 
+the bbu segment designs  develops  manufactures and markets our modular power converters and configurable products  and also includes the operations of our westcor division  the six entities comprising vicor custom power  and the bbu operations of vjcl 
+the v i chip segment includes v i chip corporation  which designs  develops  manufactures and markets our fpa products 
+the v i chip segment also includes the v i chip business conducted through vjcl 
+
+table of contents picor designs  develops  manufactures and markets integrated circuits and related products for use in a variety of power management and power system applications 
+picor develops these products to be sold as part of vicor s products or to be sold to third parties for separate applications 
+for the year ended december   revenues increased to  from  in gross margin decreased to  from  in gross margin  as a percentage of revenue  decreased to in from in we reported net income in of  as compared to  in  and a diluted income per share of in  as compared to a diluted income per share of in the decrease in gross margin dollars and percentage was primarily due to a shift in product mix to a higher proportion of lower margin v i chip products  along with lower volumes of higher margin bbu component products and vicor custom power products 
+during the third and fourth quarters of  respectively  the company recorded non recurring  non cash tax benefits of  or approximately per diluted share  and  or approximately per diluted share  respectively  due to the release of portions of its deferred tax valuation allowance see note backlog  representing the total of purchase orders received for which product has not yet been shipped  was approximately  at the end of as compared to  at the end of operating expenses for increased  or  to  from  in  due to increases in selling  general and administrative expenses of  and research and development expenses of  the key increases in selling  general and administrative expenses were compensation expenses of  legal fees of  outside services of  travel expenses of  and depreciation and amortization of  partially offset by decreases in commissions expense of  advertising expenses  and audit and tax fees of  the key increases in research and development expenses were compensation expenses of  project and pre production materials of  depreciation and amortization of  deferred costs of  and computer expenses of  partially offset by decreases in outside services of  supplies expenses of  and employment recruiting of  other income  net decreased  to  in from  in the primary reasons for the decline were decreases in gains on disposal of equipment of  interest income of  and an increase in foreign currency losses of  partially offset by an increase in credit gains on available for sale securities of  in  depreciation and amortization totaled  and capital additions were  compared to  and  respectively  for inventories increased by approximately  or  to  at the end of as compared to  at the end of the increase was primarily due to increases in v i chip and picor inventories of approximately  and  respectively  partially offset by a decrease in bbu inventories of approximately the following table sets forth certain items of selected consolidated financial information as a percentage of net revenues for the years ended december this table and the subsequent discussion should be read in conjunction with the selected financial data and the consolidated financial statements and related footnotes contained elsewhere in this report 
+year ended december  net revenues gross margin selling  general and administrative expenses research and development expenses income before income taxes 
+table of contents critical accounting policies and estimates management s discussion and analysis of financial condition and results of operations discusses our consolidated financial statements  which have been prepared in accordance with accounting principles generally accepted in the united states 
+the preparation of these financial statements requires management to make estimates and assumptions that affect the reported amounts of assets  liabilities  revenues and expenses  and related disclosure of contingent assets and liabilities 
+on an ongoing basis  management evaluates its estimates and judgments  including those related to revenue recognition  allowance for doubtful accounts  product warranties  inventories  investments  intangible assets  income taxes  impairment of long lived assets  share based compensation  contingencies and litigation 
+management bases its estimates and judgments on historical experience  knowledge of current conditions and on various other factors that are believed to be reasonable under the circumstances  the results of which form the basis for making judgments about the carrying value of assets and liabilities that are not readily apparent from other sources 
+actual results may differ from these estimates under different assumptions or conditions 
+allowance for doubtful accounts we maintain allowances for doubtful accounts for estimated losses resulting from the inability of its customers to make required payments  based on assessments of customers credit risk profiles and payment histories 
+if the financial condition of our customers were to deteriorate  resulting in an impairment of their ability to make payments  additional allowances may be required 
+inventories we employ a variety of methodologies to estimate allowances for its inventory for estimated obsolescence or unmarketable inventory  based upon its known backlog and historical usage  and assumptions about future demand and market conditions 
+for bbu products produced at our andover facility  our principal manufacturing location  the model used is based upon a comparison of on hand quantities to projected demand  such that amounts of inventory on hand in excess of a three year projected usage are fully reserved 
+since v i chip and picor products are still at a relatively early stage  a one year projected usage assumption is used 
+while we have used our best efforts and believe we have used the best available information to estimate future demand  due to uncertainty in the economy and our business and the inherent difficulty in predicting future demand  it is possible that actual demand for our products will differ from our estimates 
+if actual future demand or market conditions are less favorable than those projected by management  additional inventory reserves for existing inventories may need to be recorded in future periods 
+fair value measurements we account for certain financial assets at fair value  defined as the price that would be received to sell an asset or paid to transfer a liability ie  an exit price in the principal or most advantageous market for the asset or liability in an orderly transaction between market participants on the measurement date 
+as such  fair value is a market based measurement that is determined based on assumptions that market participants would use in pricing an asset or liability 
+if management made different assumptions or judgments  material differences in fair values could occur 
+long term investments our long term investments are classified as either trading or available for sale securities 
+available for sale securities are carried at fair value  with unrealized gains and losses  net of tax  attributable to credit loss recorded through the statement of operations and unrealized gains and losses  net of tax  attributable to other non credit factors reported in accumulated other comprehensive loss income  a component of total equity 
+in determining the amount of credit loss  we compare the present value of cash flows expected to be collected to the amortized cost basis of the securities  considering credit default risks probabilities and changes in credit ratings as significant inputs  among other factors 
+trading securities are carried at fair value  with unrealized gains and losses recognized through the consolidated statement of operations each reporting period 
+we periodically evaluate if an investment is considered impaired  whether an impairment is other than temporary  and the 
+table of contents measurement of an impairment loss 
+we consider a variety of impairment indicators such as  but not limited to  a significant deterioration in the earnings performance  credit rating  or asset quality of the investment 
+as of december   we held par value of  of auction rate securities 
+these auction rate securities consist of collateralized debt obligations  supported by pools of student loans  sponsored by state student loan agencies and corporate student loan servicing firms 
+the interest rates for these securities are reset at auction at regular intervals ranging from seven to days 
+the auction rate securities held by us traded at par prior to february and are callable at par at the option of the issuer 
+until february  the auction rate securities market was liquid  as the investment banks conducting the periodic dutch auctions by which interest rates for the securities had been established had committed their capital to support such auctions in the event of insufficient third party investor demand 
+starting the week of february   a substantial number of auctions failed  as demand from third party investors weakened and the investment banks conducting the auctions chose not to commit capital to support such auctions ie  investment banks chose not to purchase securities themselves in order to balance supply and demand  thereby facilitating a successful auction  as they had done in the past 
+the consequences of a failed auction are a an investor must hold the specific security until the next scheduled auction unless that investor chooses to sell the security to a third party outside of the auction process and b the interest rate on the security generally resets to an interest rate set forth in each security s indenture 
+as of december   we held auction rate securities that had experienced failed auctions totaling  at par value  all of which had been purchased through and are held by a broker dealer affiliate of bank of america  na the failed auction securities 
+the majority of the failed auction securities held by us were aaa aaa rated by the major credit rating agencies  with all of the securities collateralized by student loans  of which most are guaranteed by the us department of education under the federal family education loan program 
+we are not aware of any reason to believe any of the issuers of the failed auction securities held by us are presently at risk of default 
+through december   we have continued to receive interest payments on the failed auction securities in accordance with the terms of their respective indentures 
+we believe that all of our auction rate security investments will ultimately be liquidated without significant loss primarily due to the overall quality of the issues held and the collateral securing the substantial majority of the underlying obligations 
+however  current conditions in the auction rate securities market have led us to conclude the recovery period for the failed auction securities exceeds months 
+as a result  we have continued to classify the failed auction securities as long term as of december  long lived assets we evaluate the recoverability of our identifiable intangible assets  goodwill and other long lived assets when events or circumstances indicate a potential impairment 
+we periodically assess the remaining use of fixed assets based upon operating results and cash flows from operations 
+equipment has been written down as a result of these assessments as necessary 
+goodwill is tested for potential impairment at least annually at the reporting unit level 
+stock based compensation we record stock based compensation expense based on the fair value of stock based awards measured at the grant date and recognized over the relevant service period 
+we estimate the fair value of each stock based award on the measurement date using either the current market price or the black scholes option valuation model 
+the black scholes option valuation model incorporates assumptions as to stock price volatility  the expected life of options  forfeiture rate  a risk free interest rate and dividend yields 
+during  we granted stock based awards with performance based vesting provisions tied to achievements of certain performance conditions 
+for performance based awards  we assess  on an ongoing basis  the probability of whether the performance criteria will be achieved 
+if and when achievement of the performance criteria is deemed probable  we begin to recognize the associated compensation expense for the stock options over the relevant performance period 
+
+table of contents many of these assumptions are highly subjective and require the exercise of management judgment 
+if management made different estimates or judgments  material differences in the amount of stock based compensation could occur 
+product warranties we generally warrant our products for a period of two years 
+we maintain allowances for estimated product returns under warranty based upon a review of known or potential product failures in the field and upon historical patterns of product returns 
+if unforeseen product issues arise or product returns increase above expected rates  additional allowances may be required 
+income taxes we recognize deferred tax assets and liabilities using enacted rates for the effect of temporary differences between the book and tax bases of recorded assets and liabilities 
+we reduce deferred tax assets by a valuation allowance if it is more likely than not that some portion or all of the deferred tax assets will not be realized 
+prior to september   we maintained a valuation allowance against a significant portion of our deferred tax assets  consisting of net operating loss carryforwards  tax credit carryforwards and deductible temporary differences 
+based on our pre tax income for the nine months ended september  being sufficient to fully utilize our net operating loss carryforwards  a history of cumulative earnings before taxes for financial reporting purposes over a quarter period  and expected future taxable income  we determined it was more likely than not a significant portion of the deferred tax assets would be realized 
+as a result  at september   we determined that it was appropriate to reverse a portion of its valuation allowance by  as a discrete benefit for income taxes for certain deductible temporary differences expected to be realized in future periods 
+an additional benefit of  was recorded in the fourth quarter of we could not make such a determination in the prior quarters of fiscal due to a lack of confidence in being able to accurately forecast the expected ordinary income loss for the year largely due to global economic conditions and the possible impact continued economic and business uncertainty would have on our business at those times 
+as of december   we had a remaining valuation allowance of approximately  against certain deferred tax assets  for which realization cannot be considered more likely than not at this time 
+such deferred tax assets principally relates to tax credit carryforwards in certain state tax jurisdictions for which sufficient taxable income for utilization cannot be projected at this time or the credits may expire without being utilized 
+we assess the need for the valuation allowance on a quarterly basis 
+the valuation allowance against these deferred tax assets may require adjustment in the future based on changes in the mix of temporary differences  changes in tax laws  and operating performance 
+in addition  the assessment of the valuation allowance requires us to make estimates of future taxable income and to estimate reversals of temporary differences 
+changes in the assumptions or other circumstances may require additional valuation allowances if actual reversals of temporary differences differ from those estimates 
+if and when we determine the valuation allowance should be released  the adjustment would result in a tax benefit in the consolidated statements of operations and may include a portion to be accounted for through additional paid in capital  a component of stockholders equity 
+the amount of the tax benefit to be recorded in a particular quarter could be material 
+we follow a two step process to determine the amount of tax benefit to recognize in our financial statements 
+first  the tax position must be evaluated to determine the likelihood that it will be sustained upon examination by a tax authority 
+if the tax position is deemed more likely than not to be sustained  the tax position is then assessed to determine the amount of benefit to recognize in the financial statements 
+the amount of the benefit that may be recognized is the largest amount that has a greater than percent likelihood of being realized upon ultimate settlement 
+if the tax position does not meet the more likely than not threshold then it is not recognized in the financial statements 
+we accrue interest and penalties  if any  related to unrecognized tax benefits as a component of income tax expense 
+if the judgments and estimates made by us are not correct  the unrecognized tax benefits may have to be adjusted  and the adjustments could be material 
+
+table of contents contingencies from time to time  we receive notices of product failure claims  infringement of patent or other intellectual property rights of others or for other claims 
+in fact  we were named in a complaint for patent infringement filed by synqor  inc in january see part i item legal proceedings that is ongoing 
+we assess each matter to determine if a contingent liability should be recorded 
+in making this assessment  we may consult  depending on the nature of the matter  with external legal counsel and technical experts 
+based on the information we obtain  combined with our judgment regarding all the facts and circumstances of each matter  we determine whether it is probable that a contingent loss may be incurred and whether the amount of such loss can be reasonably estimated 
+should a loss be probable and reasonably estimable  we record a loss 
+in determining the amount of the loss  we consider advice received from experts in the specific matter  current status of legal proceedings  if any  prior case history and other factors 
+should the judgments and estimates made by us be incorrect  we may need to record additional contingent losses that could materially adversely impact our results of operations and financial position 
+year ended december  compared to year ended december  net revenues for fiscal were  an increase of  or  as compared to  for fiscal the components of revenue for the years ended december were as follows dollars in thousands increase decrease bbu v i chip picor total the decrease in bbu revenues is attributed to a decrease in vicor custom power revenue of approximately  due to a decrease in defense electronics bookings and the completion of two major programs in the first part of in addition  bbu component revenues decreased by approximately  which was partially offset by an increase in vjcl revenues of approximately  the increases in v i chip and picor revenues were driven by strong bookings from their lead customer  particularly in the third quarter of and the first quarter of revenue growth for both v i chip and picor is expected to decline in overall orders for fiscal year decreased by compared to this decrease was caused by decreases in bbu  v i chip  and picor orders during the period of  and  respectively 
+gross margin for fiscal decreased  or  to  from  in gross margin as a percentage of net revenues decreased to in fiscal from in fiscal the primary component of the decrease in gross margin dollars and percentage was primarily due to a shift in product mix to a higher proportion of lower margin v i chip products  along with lower volumes of higher margin bbu component products and vicor custom power products 
+income loss from operations by segment for the years ended december were as follows dollars in thousands increase decrease bbu v i chip picor 
+table of contents the decrease in bbu operating profit in compared to was due to a decrease in revenues and a related decrease in gross margin  as well as an increase in operating expenses 
+the decrease in v i chip operating loss in compared to was due to the increase in revenues and related improvement in gross margins  partially offset by an increase in operating expenses 
+the cash needs for each segment are primarily for working capital and capital expenditures 
+positive cash flow from bbu has historically funded and is expected to continue to fund v i chip operations and the purchase of equipment for v i chip for the foreseeable future 
+selling  general and administrative expenses were  for  an increase of  or  as compared to  for the same period in as a percentage of net revenues  selling  general and administrative expenses increased to in from in the components of the  increase in selling  general  and administrative expenses were as follows in thousands increase decrease compensation legal fees outside services travel expenses depreciation and amortization employment recruiting commissions expense advertising expenses audit and tax fees computer expenses other  net increase primarily attributable to an increase in headcount  annual compensation adjustments in may  an increase in fringe benefit expense due to increases in premiums for employee health benefits  and additional stock based compensation expense related to picor stock options 
+increase in legal fees due to a patent infringement claim filed against the company during the first quarter of by synqor  inc see note of the consolidated financial statement for discussion of this matter 
+increase primarily attributed to additional outsourcing of certain sales and marketing and information technology functions 
+increase primarily attributed to increased travel by the company s sales and marketing personnel 
+decrease primarily attributed to the decrease in net revenues subject to commissions  in particular due to an increase in international revenues  which are generally not subject to commissions 
+decrease primarily due to decreases in sales support expenses  direct mailings and advertising in trade publications 
+research and development expenses increased  or  to  in from  in as a percentage of net revenues  research and development increased to in from in 
+table of contents the components of the  increase in research and development expenses were as follows in thousands increase decrease compensation project and pre production materials depreciation and amortization deferred costs computer expenses outside services subcontract labor supplies expenses employment recruiting other  net increase primarily attributed to an increase in research and development personnel for the bbu and v i chip  annual compensation adjustments in may  an increase in fringe expense due to increases in premiums for employee health benefits  and additional stock based compensation expense related to picor stock options 
+increase primarily attributed to an increase in materials used in the development of v i chip and picor products 
+increase primarily attributed to additions of engineering equipment over the past several quarters for the bbu and v i chip 
+increase primarily attributed to a decrease  as compared to the prior year  in deferred costs capitalized for certain non recurring engineering projects for which the related revenues have been deferred 
+decrease attributable to decreased use of outside services due to decreased activities at one of the vicor custom subsidiaries 
+the major changes in the components of other income  net for the years ended december were as follows in thousands increase decrease interest income unrealized gain on trading securities unrealized loss on auction rate securities rights credit gains losses on available for sale securities foreign currency losses  net gain on disposal of equipment other pursuant to a settlement agreement reached with ubs ag in  the company s then remaining par value of  of auction rate securities held by ubs were purchased by ubs at par value on june  the unrealized gain and loss on the company s auction rate securities and associated rights for the quarter ended june   resulted from this sale and the termination of the associated rights 
+because the company recorded  for the quarter ended march   an income statement gain of  representing the net of the decrease in estimated value of the auction rate securities held by ubs and the increase in the estimated value of the associated rights  the company recognized no net loss on the sale of the auction rate securities to ubs 
+the increase in credit gains on available for sale auction rate securities ie  the company s auction rates securities 
+table of contents held by bank of america was primarily due to the redemption at par by issuers of  of auction rate securities during the year ended december   for which credit losses had previously been recorded 
+the decrease in interest income for the period was due to lower average balances on the company s long term investments  lower balances on auction rate securities earning higher penalty rates  as well as a general decrease in interest rates 
+the company s exposure to market risk for fluctuations in foreign currency exchange rates relates primarily to the operations of vjcl 
+the functional currency of the company s subsidiaries in europe and hong kong is the us dollar 
+income before income taxes was  in compared to  in the provision benefit for income taxes and the effective income tax rate for the years ended december were as follows dollars in thousands provision benefit for income taxes effective income tax rate compared to  the provision for income taxes and the effective tax rate increased in due to the complete utilization of remaining federal  foreign  and a significant portion of remaining state  net operating loss carryforwards through the end of  which lowered the income tax provision and effective tax rate in during the third and fourth quarters of  the company recorded non recurring  non cash benefits of  and  respectively  due to releasing a portion of its deferred tax valuation allowance 
+see note of the consolidated financial statements for a discussion of the accounting for the tax benefit  deferred tax assets and deferred tax valuation allowances 
+net income of noncontrolling interest increased by  in to  as compared to  in this was due to higher net income of entities in which the company holds a noncontrolling equity interest ie  certain vicor custom power subsidiaries and vjcl 
+basic and diluted income per share attributable to vicor corporation was for the year ended december  as compared to for the year ended december  year ended december  compared to year ended december  net revenues for fiscal were  an increase of  or  as compared to  for the same period in the components of revenue for the years ended were as follows dollars in thousands increase decrease bbu v i chip picor total overall orders for fiscal year increased by compared with this increase was caused by increases in bbu  v i chip  and picor orders during the period of   and  respectively 
+gross margin for fiscal increased  or  to  from  in gross margin as a percentage of revenues in increased to from compared to the primary components of the increase in gross margin dollars and percentage were the increase in net revenues and lower bbu andover and v i chip per unit productions costs 
+
+table of contents income loss from operations by segment for the years ended december were as follows dollars in thousands increase decrease bbu v i chip picor the increase in bbu operating profit and decrease in picor operating loss in compared to was primarily due to the increase in revenues and related improvement in gross margins for each segment 
+the increase in v i chip operating loss in compared to was primarily due to an increase in research and development expense 
+overall gross margin for v i chip was negative in both and selling  general and administrative expenses were  for  an increase of  or  as compared to  for the same period in as a percentage of net revenues  selling  general and administrative expenses decreased to from  due to the increase in net revenues 
+the components of the  increase in selling  general  and administrative expenses were as follows in thousands increase decrease commissions expense advertising expenses outside services travel expenses employment advertising and recruiting facilities expense telephone audit and tax fees legal fees depreciation and amortization other  net increase primarily attributed to the increase in net revenues  subject to changes in the mix of revenues subject to commissions 
+increase primarily attributed to the increase trade publication advertising and increased participation in trade shows  primarily by v i chip 
+increase primarily attributed to the outsourcing of certain information technology functions that were performed in house in prior periods 
+represents an overall increase in travel across all business units 
+increase due to increase in recruiting costs for newly hired personnel 
+decrease primarily attributed to a decrease in activity associated with the company s litigation brought against certain of its insurance carriers with respect to the ericsson  inc settlement of product liability litigation in as compared to decrease due to certain fixed assets becoming fully depreciated during research and development expenses increased  or  to  in from  in as a percentage of net revenues  research and development decreased to from  due to the increase in net revenues 
+
+table of contents the components of the  increase in research and development expenses were as follows in thousands increase decrease compensation outside services subcontract labor deferred costs project and pre production materials facilities expenses employment recruiting depreciation and amortization set up and tooling charges other  net increase primarily attributed to an increase in research and development personnel for the bbu and v i chip business units  annual compensation adjustments in may  and an increase in fringe expense due to increase in premiums for employee health benefits 
+increase primarily attributed to increased use of outside services and subcontract labor due to increased activity at vicor custom subsidiaries  in lieu of hiring permanent employees 
+increase primarily attributed to a decrease as compared to the prior year  in the deferral of costs capitalized for certain non recurring engineering projects for which the related revenues have been deferred 
+increase primarily attributed to an increase in materials used in the development of v i chip and picor products 
+increase primarily attributed to relocation costs for newly hired research and development personnel for the v i chip business unit 
+during  we initiated and completed workforce reductions and pre tax charges were recorded for the cost of severance and other employee related costs involving cash payments during and based on each employee s length of service 
+total severance charges of  were recorded in during the third quarter of  we entered into a release and settlement agreement with a vendor over alleged product performance issues with certain products the vendor had sold to us 
+we received a payment of  in consideration for the settlement  which is recorded in gain from litigation related and other settlements  net in the accompanying consolidated statement of operations 
+in addition  we completed negotiations with exar and rohm  resulting in separate settlement agreements calling for a final payment to exar of  and no additional payment due rohm 
+as a result of the settlements  we reversed a remaining excess accrual of approximately  in the third quarter of  which is recorded in gain from litigation related and other settlements  net in the accompanying consolidated statement of operations 
+the major changes in the components of other income  net for the years ended december were as follows in thousands increase decrease interest income unrealized gain on trading securities unrealized loss on auction rate securities rights credit losses on available for sale securities foreign currency losses gains  net gain on disposal of equipment other 
+table of contents the unrealized gains losses and estimated credit loss on our auction rate securities and securities rights results from the change in the estimate fair value of these investments as of december  and  compared to december  and  respectively 
+the decrease in interest income is due to lower average balances on certain of our cash accounts that bear interest as well as a decrease in interest rates 
+our exposure to market risk for fluctuations in foreign currency exchange rates relates primarily to the operations of vjcl 
+the functional currency of our subsidiaries in europe and hong kong is the us dollar 
+income before income taxes was  in as compared to  for the benefit provision for income taxes and the effective income tax rate for the years ended december were as follows dollars in thousands benefit provision for income taxes effective income tax rate the increase in the benefit for income taxes and the decrease in the effective income tax rate for the year ended december   compared to  was principally due to the tax benefits of  and  recorded as a result of reversing portions of our deferred tax valuation allowance in the third and fourth quarters of  respectively  partially offset by an increase in federal  state  and foreign income taxes as compared to net income of noncontrolling interest decreased by  in to  as compared to  in this was due to lower net income at certain entities in which we hold a noncontrolling interest 
+basic and diluted income per share attributable to vicor corporation was for the year ended december  as compared to for the year ended december  liquidity and capital resources at december   we had  in unrestricted cash and cash equivalents 
+the ratio of current assets to current liabilities was at december  as compared to at december  working capital increased  to  at december  from  at december  the primary factors affecting the working capital increase were an increase in cash and cash equivalents of  as well as a decrease in accounts payable of  offset by a decrease in accounts receivable  the primary sources of cash for the year ended december  were  from operating activities and  in net sales of long term investments 
+the primary uses of cash for the year ended december  were  for the purchase of equipment   for the payments of cash dividends  and  for the payments of noncontrolling interest dividends  discussed below 
+as of december   we held  of auction rate securities classified as long term investments 
+see note of the consolidated financial statements for a discussion of the securities and our accounting treatment thereof 
+in november  our board of directors authorized the repurchase of up to  of common stock the november plan 
+the november plan authorizes us to make such repurchases from time to time in the open market or through privately negotiated transactions 
+the timing of such repurchases and the number of shares purchased in each transaction are at the discretion of management based on its view of economic and financial market conditions 
+we did not repurchase shares of common stock during the year ended december  as of december   we had approximately  remaining under the november plan 
+on july   our board of directors approved a cash dividend of per share of the company s common stock 
+the total dividend of approximately  was paid on august  to shareholders of record at the close of business on august  during the year ending december   two subsidiaries paid a total of  in cash dividends  of which  was paid to outside shareholders 
+dividends paid to outside shareholders are accounted for as a reduction in noncontrolling interest 
+
+table of contents the table below summarizes our contractual obligations as of december  in thousands payments due by period contractual obligations total less than year years years more than years operating lease obligations purchase obligations included in purchase obligations  above  are amounts for a contract with a third party to supply nitrogen for our manufacturing and research and development activities 
+under the contract  we are obligated to pay a minimum of  annually  subject to semi annual price adjustments  through march in addition to the amounts shown in the table above  approximately  of unrecognized tax benefits have been recorded as liabilities  and we are uncertain as to if or when such amounts may be settled 
+related to these unrecognized tax benefits  we have also recorded a liability for potential interest and penalties of approximately  as of december  our primary liquidity needs are for making continuing investments in manufacturing equipment 
+we believe cash generated from operations and the total of its cash and cash equivalents will be sufficient to fund planned operations and capital equipment purchases for the foreseeable future 
+we have approximately  of capital expenditure commitments  principally for manufacturing equipment  as of december  based on our ability to access cash and other short term investments and our expected operating cash flows  we do not anticipate that the current lack of liquidity of our auction rate securities will affect our ability to execute our current operating plan 
+we do not consider the impact of inflation and changing prices on our business activities or fluctuations in the exchange rates for foreign currency transactions to have been significant during the last three fiscal years 
+item a 
+quantitative and qualitative disclosures about market risk we are exposed to a variety of market risks  including changes in interest rates affecting the return on our cash and cash equivalents and fluctuations in foreign currency exchange rates 
+as our cash and cash equivalents consist principally of money market securities  which are short term in nature  we believe our exposure to market risk on interest rate fluctuations for these investments is not significant 
+our long term investments consist mainly of municipal and corporate debt securities  of which the failed auction securities represent a significant portion 
+while the failed auction securities are all highly rated investments  generally with aaa aaa ratings  continued failure to sell at their reset dates could negatively impact the carrying value of the investments  in turn leading to impairment charges in future periods 
+changes in the fair value of the failed auction securities attributable to credit loss are recorded through earnings  with the remainder of any change recorded in accumulated other comprehensive loss income  a component of stockholders equity 
+should a decline in the value of the failed auction securities be other than temporary  the losses would be recorded in other income  net 
+we do not believe there was an other than temporary decline in value in these securities as of december  we estimate that our annual interest income would change by approximately  in for each basis point increase or decrease in interest rates 
+our exposure to market risk for fluctuations in foreign currency exchange rates relates primarily to the operations of vjcl and changes in the dollar yen exchange rate  as the functional currency of our subsidiaries in europe and hong kong is the us dollar 
+therefore  we believe market risk is mitigated since these operations are not materially exposed to foreign exchange fluctuations 
+relative to foreign currency exposure against the yen existing on december   we estimate that a unfavorable movement in the dollar yen exchange rate would increase foreign currency loss by approximately 
+table of contents 

@@ -1,0 +1,819 @@
+item  management s discussion and analysis of financial condition and results of operations and elsewhere 
+we urge you to review and consider the various disclosures made by us in this report  and those detailed from time to time in our filings with the securities and exchange commission  that attempt to advise you of the risks and factors that may affect our future results 
+overview veritas is a leading independent supplier of storage software products and services 
+storage software includes storage management and data protection software as well as clustering  replication and storage area networking software 
+in recent years  storage software has become a critical component in the success of business enterprises 
+today  a key competitive factor for many businesses is whether their critical data and the related software applications are protected and available without interruption hours a day  seven days a week 
+veritas offers solutions to help solve the problems of today s data intensive business environments by providing essential storage software and storage virtualization solutions that enable customers to protect and access their business critical data 
+our products operate across computing environments ranging from the desktop computer to the large enterprise data center  including storage area networks  or san  to protect critical data  to provide high availability and to guard against disasters 
+veritas products help businesses make sure that their data is protected  accessible at all times  and can be managed and used in compliance with business policies 
+demand for storage software products and services is fueled by many factors 
+these factors include the rapid increase in the number of internet users and the number of businesses doing business online  the continuing automation of traditional business processes  the ever increasing quantity of data being collected and the need for data to be protected and accessible at all times  particularly in the event of a disaster 
+our products help to improve the levels of centralization  control  automation and manageability in computing environments  which allows information technology  or it  managers to be significantly more effective with constrained human and financial resources 
+specifically  our products offer protection against data loss and file corruption  allow rapid recovery after disk or computer system failure  enable it managers to work efficiently with large numbers of files  and make it possible to manage data distributed on large networks of computer systems without harming productivity or interrupting users 
+in addition  our products provide continuous availability of data in clustered computer systems that share disk resources to maintain smooth business operations 
+our products are highly scalable  allowing our customers to keep up with the growth of data and technologies deployed in their businesses 
+in summary  our products help our customers manage their data storage in complex and diverse computing environments efficiently and cost effectively 
+we develop and sell products for most popular operating systems  including various versions of unix including linux and windows 
+we also develop and sell products that support a wide variety of servers  storage devices  databases and network solutions 
+customers use our software solutions in a wide variety of industries  and include many leading global corporations and e commerce businesses 
+we also provide a full range of services to assist our customers in assessing  architecting and implementing their storage software solutions 
+recent developments on december   we acquired the kernel group incorporated  a privately held software company based in austin  texas  for cash 
+the kernel group incorporated develops and markets enterprise software solutions  including the bare metal restore technology that automates recovery of windows and major unix platforms in the event of data corruption or hardware failure 
+bare metal restore technology helps administrators quickly restore systems  including their configurations and settings  in the event of a server loss 
+we plan to integrate the bare metal restore technology into veritas netbackup to enhance its recovery capabilities and allow us to deliver a common and enterprise wide recovery solution to minimize system downtime 
+in december  we entered into an agreement with ibm to deliver storage management solutions for complex multi vendor storage environments  for customers seeking to implement integrated storage and data infrastructure solutions and obtain those solutions from a single source 
+under the agreement  ibm global services will add our products to its data infrastructure services for all major platforms including aix  linux  solaris  hp ux and windows 
+ibm global services will provide enterprise consulting  implementation  support and maintenance services as part of its multi vendor coordinated point of contact for information technology solutions tailored to the specific needs of joint customers 
+we will provide the full range of our product portfolio to customers of ibm global services 
+products we offer a wide range of leading storage software products to manage the rapid growth of data and the increasing complexity and size of networked environments that our customers face 
+our products allow businesses to improve the management of their data  to protect their data and to increase the availability of their data 
+data protection we offer products designed to protect  back up and restore data 
+our leading data protection products include product description veritas netbackup veritas netbackup is designed to deliver mainframe class data protection for the largest unix  windows  linux and netware enterprise environments  especially for corporate data centers and san environments 
+it gives organizations the ability to manage backup and recovery using intuitive graphical user interfaces and allows consistent backup policies to be enforced across the enterprise 
+veritas netbackup professional veritas netbackup professional is designed specifically as a backup and disaster recovery tool for mobile laptop and desktop computers 
+it provides centrally administered  non intrusive backups and allows user directed data restoration 
+product description veritas backup exec for windows veritas backup exec for windows is designed to provide scheduled automated data backup and restore functions for small  midsize or departmental windows focused environments 
+it supports windows nt  windows  windows xp and windows me  and has an array of options to provide disaster recovery and to protect data contained in applications such as microsoft exchange and lotus domino 
+veritas backup exec for netware veritas backup exec for netware is designed to provide backup and restore functions for novell netware environments  including support for netware it has an array of options to protect data contained on remote netware  windows nt and windows servers 
+veritas global data manager veritas global data manager provides centralized monitoring of veritas netbackup and veritas backup exec servers at different geographic locations that are part of a business intranet or wide area network 
+its intended benefits include increased flexibility and control  global scalability  uninterrupted global operations and reduced management costs 
+veritas netbackup datacenter veritas netbackup datacenter is designed to deliver mainframe class data protection for the largest unix  windows  linux and netware enterprise environments  especially for corporate data centers 
+it gives organizations the ability to manage all aspects of backup and recovery using intuitive  graphical user interfaces  allowing consistent backup policies to be enforced across the enterprise 
+veritas netbackup storage migrator veritas netbackup storage migrator is designed to increase the availability of critical business data by ensuring that only frequently used information is kept online 
+it migrates infrequently used data from online devices to lower cost secondary storage and recalls migrated data to primary online storage when it is accessed by users or applications 
+veritas backup mypc veritas backup mypc is designed for the home office or small business computer user who has knowledge of data protection and requires a variety of features for protection of a single computer or small networks 
+file system and volume management we offer products designed to improve the manageability and performance of business critical data 
+our principal management and performance products include product description veritas file system veritas file system is designed to enable fast system recovery  generally within seconds  from operating system failure or disruption 
+it gives servers mainframe level capabilities by providing superior performance  data integrity  high availability and online manageability 
+veritas volume manager veritas volume manager allows for online disk storage management for business computing environments 
+it provides tools to protect against data loss due to hardware failure  to accelerate system performance by allowing files to be spread across multiple disks and to allow it managers to reconfigure data locations without interrupting users 
+application solutions businesses need integrated solutions engineered to work with specific databases or applications in order to optimize their data availability strategies 
+our principal products offering these integrated solutions include product description veritas foundation suite veritas foundation suite combines veritas volume manager and veritas file system 
+these two products together are intended to improve performance  availability and manageability 
+veritas database edition for oracle veritas database edition for oracle is an integrated suite of several veritas products designed to deliver improved performance  enhanced manageability and continuous database access to support the complex and demanding work of database administrators operating oracle servers 
+veritas database edition for sybase veritas database edition for sybase is an integrated suite of several veritas solutions combined with specialized software agents designed to increase system performance and manageability in sybase database environments 
+veritas database edition for db veritas database edition for db is an integrated suite of data and storage management technologies designed to optimize performance  availability and manageability of db server databases 
+veritas database edition advanced cluster for oraclei veritas database edition advanced cluster for oraclei is an integrated suite of storage management technologies designed to deploy and manage oracle parallel server environments 
+clustering and replication we offer products that improve availability of key applications in complex computing environments 
+these products include product description veritas cluster server veritas cluster server  or vcs  is an availability management solution designed to maximize data and application availability through proactive management of planned and unplanned downtime 
+veritas cluster server quickstart veritas cluster server quickstart is an affordable  easy to use server clustering tool for small businesses  branch offices  or first time users who want to make applications highly available 
+veritas global cluster manager veritas global cluster manager is a cluster management product designed to monitor multiple geographically distributed vcs clustered computers and to manage failover of an entire cluster from one site to another 
+veritas file replicator veritas file replicator is a general purpose data replication tool designed for use in enterprise environments 
+it ensures that data written to one server is replicated to other participating servers  so that all updates are available for use in active file systems across all servers 
+veritas storage replicator veritas storage replicator delivers data replication for windows nt environments 
+it can duplicate files or file systems at multiple locations for complete data protection or information distribution 
+it offers centralized management  high replication performance  minimal system requirements  both real time and schedule based replication  and selectable bandwidth usage 
+veritas volume replicator veritas volume replicator helps businesses ensure that current data is available at multiple global locations 
+it is a robust  flexible  multi purpose data replication tool designed for enterprise environments 
+san and appliance products the widespread use of business computer applications  coupled with the growth of corporate data  has exceeded the ability of current computing architectures to handle availability  scalability and manageability issues 
+storage centric architecture  called storage area networking  or san  has emerged to handle these issues 
+a san is a high speed computing network that directly connects storage hardware devices  such as storage arrays  clustered servers  disk drives and tape drives  to client and server computers 
+the typical san infrastructure is capable of handling more data and transactions faster than a traditional network  can grow along with a business needs  and is more cost effective than traditional network architectures 
+we are a leading innovator in developing san technology designed to reduce the cost and complexity of managing expanding networked storage environments 
+in addition  dedicated storage appliances are emerging as a solution to data storage needs 
+veritas servpoint appliance software transforms sun servers and sun or third party storage into dedicated storage appliances for unix and windows nt clients 
+open  scalable and highly available  veritas servpoint appliance software simplifies  consolidates  and reduces the total cost of storage deployment and management 
+many of our products listed above are enabled to operate in a san environment and we have developed the san specific products listed below product description veritas sanpoint control veritas sanpoint control is a centralized management tool to help administer san connected devices 
+veritas sanpoint direct veritas sanpoint direct s file access is designed to bring increased performance and scalability to san environments by allowing computing nodes to access data directly at faster san speeds 
+veritas sanpoint foundation suite ha veritas sanpoint foundation suite ha is designed to extend veritas file system and veritas volume manager to support shared data in a san environment 
+with the software  multiple servers can access shared storage and files  transparently to the applications and concurrently with each other 
+veritas sanpoint storage appliance veritas sanpoint storage appliance is designed to enable a standard computer server to become a high performance and high availability storage server 
+veritas servpoint for nas veritas servpoint for nas is designed to transform a network attached storage nas appliance from a storage repository offering basic file services  to a strategic business enabler with enterprise class functionality 
+veritas servpoint for san veritas servpoint for san is designed to consolidate  aggregate and virtualize open storage for easy management and efficient use of storage resources 
+services we provide a full range of services to assist our customers in assessing  architecting and implementing their storage solutions 
+our customer services and support organization provides customers with maintenance  technical support  consulting and training services 
+we believe that providing a high level of customer service and technical support is critical to customer satisfaction and our success in increasing the adoption rate of our solutions 
+most of our customers have support agreements with us that provide for fixed fee  renewable annual maintenance consisting of technical and emergency support  and minor when and if available product upgrades free of charge 
+maintenance and technical support we offer seven day  hour telephone support  as well as electronic mail and fax customer support 
+our customers can choose from a variety of support packages to address their specific needs  ranging from one time incident charges to comprehensive support services with a dedicated single point of contact at veritas for some of our applications 
+some of our value added resellers  system integrators and original equipment manufacturers also provide customer support for our products 
+consulting we believe that most customers need assistance before product selection and not just for the implementation of purchased products 
+therefore  we offer strategy and analysis consulting services for planning the management and control of enterprise computing in specific customer environments  including san environments 
+for example  we can assist our customers with their business continuity readiness evaluation and their disaster recovery planning 
+in addition  we offer services to assist customers with product implementation 
+education and training we have a worldwide customer education and training organization 
+we offer training that enables customers to utilize our products  reduces the need for technical support and provides customers with a means to optimize their personnel investment by allowing their technical staff access to high quality  comprehensive instruction 
+the focus of this organization is aligned with our strategy to offer end to end storage software solutions by providing instruction from highly experienced training professionals either at the customer location or at one of our multi platform classrooms 
+marketing  sales and distribution we market our products and related services through original equipment manufacturers  direct sales channels and indirect sales channels such as resellers  value added resellers  hardware distributors  application software vendors and systems integrators 
+some original equipment manufacturers incorporate our products into their products  some bundle our products with their products and some license our products to third parties as optional products 
+in general  we receive a fee for each sublicense of our products granted by the original equipment manufacturer to third parties 
+we provide our software products to customers under non exclusive license agreements  including shrink wrap or clickwrap licenses for some products 
+as is customary in the software industry  in order to protect our intellectual property rights  we do not sell or transfer title to our software products to customers 
+we enter into both object code only and source code licenses of our products 
+our principal original equipment manufacturer relationships are with compaq  dell  hewlett packard  ibm  microsoft and sun microsystems 
+compaq 
+we have granted compaq rights to distribute veritas volume manager and veritas file system on certain of its operating systems  and to distribute a limited functionality version of backup exec into specific systems 
+compaq resells our products and services through the compaq global services consulting division 
+compaq is not obligated to sell our products or services under these agreements 
+dell 
+under our agreements with dell  dell sells a specialized version of veritas volume manager  branded as dell open manage away manager  and dell bundles our clustering software with its products 
+dell also serves as an authorized enterprise reseller of our products 
+dell is not obligated to sell our products or services under these agreements 
+hewlett packard 
+we enable hewlett packard to offer limited functionality versions and full featured versions of veritas volume manager and veritas file system with copies of the hp ux operating system that they sell 
+we receive no license fees for these limited functionality versions  but we do receive license fees for copies of the full featured versions that are sold 
+hewlett packard also serves as a reseller of some of our other products and services  but is not obligated to sell products under our reseller agreements 
+under an agreement with hewlett packard  we integrate our support services with hewlett packard s support services so hewlett packard may provide the combined services to our joint customers 
+we have dedicated personnel to define and build versions of our products that meet the needs specific to the hewlett packard marketplace and to focus sales and marketing efforts on the hewlett packard sales channel 
+we cannot assure you that this strategy will be successful 
+our relationship with hewlett packard is governed by numerous agreements  which come up for renewal periodically 
+we cannot predict whether these agreements will be extended  and if they are  whether they will be extended on the same or different terms 
+ibm 
+under our agreements with ibm  we agreed to port and optimize our set of data availability solutions  including veritas volume manager and veritas file system  to aix monterey for ibm power pc and intel ia processor based systems 
+this relationship is designed to augment our solutions that are already available from veritas for the ibm platform 
+under our agreements  ibm is not obligated to sell any of our products  and we have not recognized any significant revenue under this agreement to date 
+we cannot assure you that we will realize any benefits from this arrangement with ibm 
+microsoft 
+under our agreements with microsoft  we agreed to develop a limited functionality version of veritas volume manager  which microsoft has called logical disk manager  to be ported to and embedded in version of microsoft s windows nt operating system  which now has been released as windows we do not receive user license fees for licenses of logical disk manager by microsoft 
+our products may not become available for use in future versions of windows  and microsoft is not required to use our products in future versions of windows 
+we cannot assure you that we will realize any benefits from the inclusion of these embedded products in windows or future versions of the windows operating system 
+in addition  we authored a few other customized versions of our products that are packaged with windows sun microsystems 
+we have agreed with sun microsystems that sun microsystems may bundle a version of veritas volume manager with some of its storage technologies 
+we also license full versions of some of our products and add on modules to sun microsystems for bundling with its products 
+under these agreements  we granted sun microsystems a license to distribute and sub license veritas netbackup  veritas netbackup storage migrator and some of the veritas editions 
+this license is non exclusive except with respect to certain named resellers for which sun microsystems retained exclusive distribution rights 
+sun microsystems is not obligated to sell any of our products under this agreement 
+sun professional services provides our packaged professional services as well as our custom consulting services 
+this is designed to enable sun microsystems customers and our customers to maximize their system availability through optimal configurations and reliable installations 
+we cannot assure you that this arrangement will be successful 
+our relationship with sun microsystems is governed by numerous agreements  which come up for renewal periodically 
+we cannot predict whether these agreements will be extended  and if they are  whether they will be extended on the same or different terms 
+sales  marketing and support organization during  we continued to build our sales  marketing and customer support organization with a focus on delivering our products to resellers  integrators and end users 
+we have sales subsidiaries and direct sales personnel in north america  south america  europe and asia pacific 
+we also have resellers located in north america  south america  europe  asia pacific and the middle east 
+we expect to increase the number of our sales  marketing and customer support employees in the future in order to expand our direct sales efforts to resellers and to end users 
+we may not have the necessary resources to accomplish this 
+it is also possible that we will not be able to establish and expand these new distribution channels successfully 
+we expect to hire additional sales employees during competition for qualified sales  technical and other personnel is intense  and we may not be able to attract  assimilate or retain additional highly qualified employees in the future 
+customers our software solutions are used by customers in a wide variety of industries  including many leading global corporations and e commerce businesses 
+we market and sell our products and services to end user customers through a combination of original equipment manufacturers  direct sales and indirect sales channels such as resellers  value added resellers  hardware distributors  application software vendors and systems integrators 
+concentration of customers in  and  no customer accounted for more than of our net revenue 
+competition the markets in which we compete are intensely competitive and rapidly changing 
+we compete with internal development groups within our original equipment manufacturer partners that provide storage functions to support their systems 
+these internal development groups have the resources and capability to develop their own storage solutions 
+some original equipment manufacturer customers are also our competitors  including compaq computer  emc  hewlett packard  ibm  microsoft and sun microsystems 
+relationships between veritas and these competitors are complex 
+while we may compete with them for a share of the market  they also resell our products  and in some cases incorporate our technology into their products 
+we also may be involved with them in collaborative efforts to address interoperability issues and to set standards for evolving technology 
+in addition  we compete with hardware and software vendors that offer data protection  hardware and software vendors that offer file system and volume management products  hardware and software vendors that offer clustering and replication products  hardware and software vendors that offer storage area networking management solutions and systems management companies that are integrating storage management functions into their platforms  and hardware and software vendors that offer network attached storage and file serving solutions 
+the principal markets in which we compete are data protection  file system and volume management  clustering  replication  storage area networking and network attached storage management solutions 
+our principal competitors in each of these areas  including the original equipment manufacturer customers listed above  include data protection 
+commvault systems  computer associates  emc  hewlett packard  ibm and legato 
+file system and volume management 
+hewlett packard  ibm  microsoft and sun microsystems 
+clustering and replication 
+compaq computer  emc  hewlett packard  hitachi data systems  ibm  legato  microsoft  oracle  quest software and sun microsystems 
+storage area networking management 
+bmc software  compaq computer  computer associates  emc  ibm and network switch vendors 
+network attached storage 
+emc and network appliance 
+the principal competitive factors in our industry include price  product functionality  product integration  platform coverage  ability to scale  worldwide sales infrastructure and global technical support 
+although many of our competitors have greater financial  technical  sales  marketing and other resources than we do  as well as greater name recognition and a larger installed customer base  we believe we compete favorably on the basis of each of these competitive factors relative to our competitors and that our hardware independent approach to storage software gives us an advantaged position in the market 
+our future anticipated growth and success will depend on our ability to develop superior products more rapidly and less expensively than our competitors  and to educate potential customers as to the benefits of licensing our products rather than developing their own products 
+our future and existing competitors could introduce products with superior features  scalability and functionality at lower prices than our products  and could also bundle existing or new products with other more established products in order to compete with us 
+our competitors could also gain market share by acquiring or forming strategic alliances with our other competitors 
+finally  because new distribution methods offered by the internet and electronic commerce have removed many of the barriers to entry historically faced by start up companies in the software industry  we expect to face additional competition from these companies in the future 
+increased competition may result in price reductions  reduced gross margins and loss of market share  any of which could adversely affect our business and operating results 
+research and development our research and development efforts have been directed toward developing new products for unix and windows  developing new features and functionality for existing products  integrating products in the existing product line and porting new and existing products to different operating systems 
+our major research and development initiatives include additional integration of the full family of storage software products  including further integration of veritas volume manager  veritas file system and veritas netbackup  development of additional applications solutions  development of additional linux versions of our products  development of additional clustering products  development of additional storage area network products  localization and translation of our products to improve our ability to compete internationally  and porting of our technology to additional platforms to further our heterogeneous storage software strategy 
+each of these initiatives involves technical and competitive challenges  which we may not be able to overcome successfully 
+development work under original equipment manufacturer agreements we devote a substantial amount of development effort to making sure that our products work on our original equipment manufacturer customer s platforms 
+this is technically challenging  and we may not succeed in our effort 
+we have contractual development obligations with some of our original equipment manufacturer customers 
+our agreements with emc  hewlett packard  ibm  and sun microsystems require us to commit staffing to our projects with them 
+we may not have the resources necessary to perform our obligations under these agreements 
+size and location of research and development group as of december   our research and development staff consisted of  employees located mainly at our mountain view  california headquarters  and our roseville  minnesota  heathrow  florida and pune  india locations 
+research and development expenditures we had research and development expenses of million in  million in and million in these amounts exclude million in for stock based compensation and million in for in process research and development charges in connection with acquisitions 
+we believe that technical leadership is essential to our success and we expect to continue to commit substantial resources to research and development 
+our future success will depend in large part on our ability to enhance existing products  respond to changing customer requirements and develop and introduce new products in a timely manner that keep pace with technological developments and emerging industry standards 
+we continue to make substantial investments in undisclosed new products  which may or may not be successful 
+we may not complete these research and development efforts successfully and therefore  future products may not be available on a timely basis or achieve market acceptance 
+need to hire research and development personnel we need to hire additional research and development personnel to complete new products on a timely basis and to perform our obligations to key original equipment manufacturer partners 
+the market for these personnel is very competitive and we cannot assure that we can hire them on a timely basis or at all 
+we may consider acquiring and purchasing technology to achieve some of our objectives  but we may not be able to accomplish this successfully 
+effect of technological advances from time to time  we or our competitors may announce new products  capabilities or technologies that have the potential to replace or shorten the life cycles of our existing products 
+announcements of currently planned or other new products could cause customers to defer purchasing our existing products 
+we have from time to time in the past experienced delays of up to several months due to the complex nature of software developed by us and other software developers for whose systems or applications we offer products 
+we could experience delays in connection with our current or future product development activities 
+any of these delays could harm our business 
+proprietary rights measures we take to protect our intellectual property we regard some of the features of our internal operations  software and documentation as proprietary and rely on copyright  patent  trademark and trade secret laws  confidentiality procedures  contractual and other measures to protect our proprietary information 
+as part of our confidentiality procedures  we generally enter into non disclosure agreements with our employees  distributors and corporate partners  and license agreements with respect to our software  documentation and other proprietary information 
+these licenses are generally non transferable and have a perpetual term 
+trademarks and patents veritas is a registered trademark in the united states 
+veritas software and the veritas logo are trademarks or registered trademarks in the united states and other countries 
+we have used  registered  and or applied to register specific trademarks and service marks to distinguish genuine veritas products  technologies and services from those of its competitors in the us and in foreign countries and jurisdictions 
+we enforce our trademark  service mark and trade name rights in the us and abroad 
+we have a number of us and foreign issued patents and pending patent applications  including patents and rights to patent applications acquired from the nsmg business  telebackup systems  inc  nuview  inc 
+and the kernel group incorporated  that relate to various aspects of our products and technology 
+while we believe that patent protection is important  any patents obtained may not provide substantial protection or be of commercial benefit to us 
+it is also possible that their validity will be challenged 
+employees as of december   we had  full time employees  including  in research and development   in sales  marketing  consulting  customer support and strategic initiatives and in finance and administrative services 
+we expect to hire additional employees in  particularly in research and development and in sales  marketing  consulting and customer support 
+we have not entered into any collective bargaining agreement with our employees  and believe that our relations with our employees are good 
+we believe that our future success will depend in part upon the continued service of our key employees and on our continued ability to hire and retain qualified personnel 
+we may not be able to retain our key employees and may not be successful in attracting and retaining sufficient numbers of qualified personnel to conduct our business in the future 
+executive officers the names of our executive officers  their ages as of december   and their positions are shown below 
+the dates given for time of service with veritas include time  where applicable  served by each individual with one of our principal predecessor companies 
+name age positions gary l 
+bloom chairman of the board  president and chief executive officer geoffrey w 
+squire executive vice president and vice chairman of the board fred van den bosch executive vice president  product strategy and new product initiatives paul a 
+sallaberry executive vice president  worldwide field operations kenneth e 
+lonchar executive vice president  finance and chief financial officer mark bregman executive vice president  product operations jay a 
+jones senior vice president and chief administrative officer kristof hagerman senior vice president  strategic operations mr 
+bloom has served as our president and chief executive officer since november mr 
+bloom became our chairman of the board effective january  mr 
+bloom joined us after a year career with oracle corporation  where he served as executive vice president responsible for server development  platform technologies  marketing  education  customer support and corporate development from may to november  as executive vice president of the systems product division from march to may  as senior vice president of the system products division from november to march  as senior vice president of the worldwide alliances and technologies division from may to october  as senior vice president of the product and platform technologies division from may to may  and as vice president of the mainframe and integration technology division and vice president of the massively parallel computing division from to may before joining oracle corporation in  mr 
+bloom held technical positions in the mainframe area at both ibm corporation and chevron corporation 
+mr 
+bloom serves on the board of directors of globespan virata  inc  a supplier of communications software and semiconductors 
+mr 
+squire has served as our executive vice president and vice chairman of the board since april  when we merged with openvision technologies  inc mr 
+squire became a director of openvision in and was appointed chief executive officer of openvision in  after serving as its president and chief operating officer from to mr 
+squire was president of the uk computing services and software association in and  in  was elected as the founding president of the european information services association 
+mr 
+squire also serves on the board of directors of industri mathematik international corp  a provider of supply chain and customer service software  and the innovation group plc 
+mr 
+van den bosch has served as our executive vice president  product strategy and new product initiatives since july mr 
+van den bosch served as our senior vice president  engineering from to july and was appointed as a director in from until  he served in various positions with philips information systems  including director of technology 
+mr 
+sallaberry has served as our executive vice president  worldwide field operations since december after serving as our senior vice president  worldwide sales from july to december  and vice president  worldwide sales from april to july mr 
+sallaberry was openvision s senior vice president of north american operations from until the merger with veritas in april mr 
+lonchar has served as our chief financial officer since april and as our executive vice president  finance since april mr 
+lonchar served as our senior vice president  finance from january until april and as our vice president  finance from april until january mr 
+lonchar was chief financial officer and senior vice president of openvision from until the merger with veritas in april mr 
+lonchar is a certified public accountant 
+mr 
+lonchar also serves on the board of directors of citrix systems  inc  a provider of application delivery and management software and services 
+mr 
+bregman has served as our executive vice president of product operations since february from august to october  mr 
+bregman served as the chief executive officer of airmedia  a wireless internet company 
+prior to joining airmedia  inc  mr 
+bregman served a year career with ibm  most recently as general manager of ibm s rs and pervasive computing divisions from to august mr 
+jones has served as our senior vice president and chief administrative officer since january mr 
+jones served as our vice president  general counsel and secretary from april to january mr 
+jones joined openvision as general counsel in and was appointed vice president  general counsel and secretary in and served in those capacities until the merger with veritas in april mr 
+jones is a member of the california bar association 
+mr 
+hagerman has served as our senior vice president  strategic operations since august and as our vice president  strategic alliances from february to july before joining veritas  mr 
+hagerman served as founder and chief executive officer at affinia inc  an affiliate marketing network  from september to september and as founder and chief executive officer of bigbook  inc  an internet yellow pages service  from until its acquisition by gte in before bigbook  mr 
+hagerman held various management positions in consulting  sales and marketing  business development  and finance 
+item properties our properties consist primarily of leased office facilities for sales  research and development  consulting and administrative personnel 
+our corporate headquarters consist of approximately  square feet and is located in mountain view  california 
+our principal facilities are located in mountain view  california and heathrow  florida 
+large portions of our facilities are occupied under leases that expire at various times through the table below shows the approximate square footage of the premises that we lease as of december  in the united states and abroad  excluding approximately executive suites in north america  in europe  in asia and in south america 
+approximate location square footage united states canada europe middle east africa asia australia south america total total square footage total excludes approximately  square feet of space in the united states and  square feet of space in australia that we sublease to third parties 
+in  we occupied a new  square foot campus facility in mountain view  california  and expanded our existing roseville  minnesota facility by an additional  square feet 
+our mountain view  california and roseville  minnesota facilities are each governed by operating lease agreements  which were entered into in and  respectively 
+in  we entered into an operating lease arrangement for land and a  square foot facility in milpitas  california 
+we expect to commence occupying this facility in the fourth quarter of additionally  there is approximately  square feet of space currently under construction at green park in reading  uk  which we expect to occupy in two phases starting in april the existing reading and chertsey  uk facilities will be disposed thereafter 
+we believe our existing and planned facilities will be suitable for our needs 
+see note of the notes to the consolidated financial statements for information regarding our lease obligations 
+item legal proceedings we are currently party to various legal proceedings 
+while we currently believe that the ultimate outcome of these proceedings  individually and in the aggregate  will not have a material adverse effect on our financial position or overall trends in results of operations  litigation is subject to inherent uncertainties 
+were an unfavorable ruling to occur  there exists the possibility of a material adverse impact on the net income of the period in which the ruling occurs 
+the estimate of the potential impact on our financial position or overall results of operations for the above legal proceedings could change in the future 
+item submission of matters to a vote of security holders not applicable 
+part ii item market for the registrant s common equity and related stockholder matters price range of common stock our common stock is listed on the nasdaq national market under the symbol vrts 
+the table below shows the range of high and low reported sale prices on the nasdaq national market for our common stock for the periods indicated 
+high low first quarter second quarter third quarter fourth quarter first quarter second quarter third quarter fourth quarter as of february   there were approximately  holders of record of our common stock 
+brokers and other institutions hold many of such shares on behalf of stockholders 
+we estimate the total number of stockholders represented by these record holders to be approximately dividend policy we have never declared or paid any cash dividends on our capital stock 
+we currently anticipate that we will retain future earnings  if any  to fund development and growth of our business and do not anticipate paying any cash dividends in the foreseeable future 
+item selected financial data the following selected consolidated financial data are derived from our consolidated financial statements 
+this data should be read in conjunction with the consolidated financial statements and notes thereto  and item  management s discussion and analysis of financial condition and results of operations 
+years ended december  in thousands  except per share data consolidated statement of operations data total net revenue amortization of developed technology amortization of goodwill and other intangibles stock based compensation acquisition and restructuring costs reversals in process research and development income loss from operations net income loss net income loss per share basic net income loss per share diluted number of shares used in computing per share amounts basic number of shares used in computing per share amounts diluted december  in thousands  except per share data consolidated balance sheet data working capital total assets long term obligations accumulated deficit stockholders equity in  we acquired the network storage management group business of seagate software  inc  telebackup systems  inc 
+and nuview  inc 
+because we accounted for these three acquisitions using the purchase method of accounting  we recorded developed technology  goodwill and other intangible assets of approximately  million in total 
+until december   these assets were being amortized over their estimated useful life of four years  and resulted in amortization charges of approximately million per quarter 
+in  we recorded one time non cash charges of million related to the write off of in process research and development  and we also recorded a one time restructuring charge of million related primarily to costs for our duplicative facilities that we planned to vacate  of which million was reversed in as a result of lower actual exit costs than originally estimated with respect to our duplicative facilities 
+in  we recorded a stock based compensation charge of million mainly related to the acceleration of certain stock options held by our former chief executive officer and we reversed million of net attorneys fees originally accrued in relation to the delaware lawsuit captioned in re seagate technology  inc shareholders litigation  which we will not have to pay as a result of a delaware chancery court ruling that approved the settlement of the lawsuit 
+item management s discussion and analysis of financial condition and results of operations this annual report on form k  including the following sections  contains forward looking statements that involve numerous risks and uncertainties  including effects of business combinations and acquisitions  new and critical accounting policies  products and services revenue  revenue mix  products and services gross margin  expense and amortization estimates  liquidity  and commitments under leases 
+in some cases  forward looking statements are identified by word such as believe  anticipate  expect  intend  plan  will  may and similar expressions 
+in addition  these forward looking statements include statements regarding our expectations  beliefs  plans  intentions or strategies regarding the future 
+all these forward looking statements are based on information available to us at this time  and we assume no obligation to update any of these statements 
+the actual results that we achieve may differ materially from those anticipated by any forward looking statement due to risks and uncertainties including those described below under factors that may affect future results 
+overview veritas is a leading independent supplier of storage software products and services 
+storage software includes storage management and data protection software as well as clustering  replication and storage area networking software 
+we develop and sell products for most popular operating systems  including various versions of unix including linux and windows 
+we also develop and sell products that support a wide variety of servers  storage devices  databases and network solutions 
+customers use our software solutions in a wide variety of industries  and include many leading global corporations and e commerce businesses 
+we also provide a full range of services to assist our customers in assessing  architecting and implementing their storage software solutions 
+we derive user license fee revenue from shipments of our software products to end user customers through a combination of original equipment manufacturers  direct sales channels and indirect sales channels such as resellers  value added resellers  hardware distributors  application software vendors and systems integrators 
+some original equipment manufacturers incorporate our products into their products  some bundle our products with their products and some license our products to third parties as optional products 
+in general  we receive a user license fee for each sublicense of our products granted by an original equipment manufacturer licenses to its customer 
+our services revenue consists of fees derived from maintenance  technical support  consulting and training services 
+original equipment manufacturer maintenance agreements covering our products provide for technical and emergency support and minor unspecified product upgrades for a fixed annual fee 
+maintenance agreements covering products that are licensed through channels other than original equipment manufacturers provide for technical support and unspecified product upgrades for an annual fee based on the number of user licenses purchased and the level of service subscribed 
+international sales and operations our international sales are generated primarily through our international sales subsidiaries 
+international revenue  most of which is collectible in foreign currencies  accounted for approximately of our total revenue in  of our total revenue in and of our total revenue in our international revenue increased to million in from million in  and in from million in we believe that our success depends upon continued expansion of our international operations 
+we currently have sales and service offices and resellers located in north america  europe  asia pacific  south america and the middle east  and a development center in india 
+international expansion will require us to establish additional foreign offices  hire additional personnel and recruit new international resellers  resulting in the diversion of significant management attention and the expenditure of financial resources 
+to the extent that we are unable to meet these additional requirements  growth in international sales will be limited  which would have an adverse effect on our business  operating results and financial condition 
+seagate technology transaction on november   we completed a multi party transaction with seagate technology  which we refer to as seagate  and suez acquisition company cayman limited  which we refer to as sac  a company formed by a group of private equity firms led by silver lake partners 
+the transaction was structured as a leveraged buyout of seagate pursuant to which seagate sold all of its operating assets to sac  and sac assumed and indemnified seagate and us for substantially all liabilities arising in connection with those operating assets 
+we did not acquire seagate s disc drive business or any other seagate operating business 
+at the closing  and after the operating assets and liabilities of seagate had been transferred to sac  a wholly owned subsidiary of ours merged with and into seagate  following which seagate became our wholly owned subsidiary and was renamed veritas software technology corporation 
+we issued approximately million shares of our common stock to the seagate stockholders in exchange for approximately million shares of our common stock and certain non operating assets and liabilities held by seagate 
+the transaction resulted in a decrease of approximately million shares of our outstanding common stock 
+at the closing of the transaction  we recorded the non operating assets and liabilities assumed from seagate at their fair values 
+in addition  we accrued million of direct transaction costs 
+acquisition related costs are summarized below in millions direct transaction costs provision accrued at transaction date cash payments balance at december  cash payments reversals balance at december  in  we reversed million of net attorneys fees originally accrued in relation to the delaware lawsuit captioned in re seagate technology  inc shareholders litigation  which we will not have to pay as a result of a delaware chancery court ruling that approved the settlement of the lawsuit and the subsequent distribution of million of additional consideration to the former seagate stockholders that was paid by sac 
+we anticipate that the remaining million of accrued acquisition related costs will be utilized in for the year ended december   the transaction had no impact on our consolidated statement of operations 
+for the year ended december   the transaction had the following significant impacts on our consolidated statement of operations reversal of acquisition and restructuring costs of million  and additional provision for income taxes of million 
+considering the impacts on our consolidated statement of operations  net of tax  and the impacts of the decrease of approximately million shares of our common stock outstanding on the number of shares used in computing the net loss per share  the transaction resulted in incremental net losses per share of the year ended december  and for the year ended we expect the transaction to be accretive when we reach profitability 
+as of december  and  the transaction had impacts on our consolidated balance sheet 
+the impacts on our assets and liabilities were as of december  other non current assets included million of indemnification receivable from sac and million for our ownership in gadzoox networks  inc  accrued acquisition and restructuring costs included million of direct transaction costs  and deferred and other income taxes included an additional million  which was net of a deferred tax asset of million related to our ownership in gadzoox networks  inc as of december  other current assets included million of indemnification receivable from sac  other non current assets included million of indemnification receivable from sac  accrued acquisition and restructuring costs included million of direct transaction costs  income taxes payable included an additional million  and deferred and other income taxes included an additional million 
+as of december  and  deferred and other income taxes payable recorded in connection with the seagate transaction totaled million and million  respectively  and related to certain tax liabilities that we expect to pay after the merger 
+certain of seagate s federal and state tax returns for various fiscal years are under examination by tax authorities 
+in  we recorded a reduction of million in tax liabilities and indemnification receivable from sac due to certain settlements entered into with tax authorities 
+also  we recorded a provision for income taxes of million due to changes in estimates of the amount and timing of other tax liabilities for years under examination 
+we believe that adequate amounts for tax liabilities have been provided for any final assessments that may result from these examinations 
+business combinations nsmg acquisition on may   we acquired the network storage management group business of seagate software  inc  which we refer to as nsmg 
+the nsmg business developed and marketed software products and provided related services enabling information technology professionals to manage distributed network resources and to secure and protect enterprise data 
+we accounted for the nsmg acquisition using the purchase method of accounting  and have been incurring charges of million per quarter primarily related to the amortization of developed technology  goodwill and other intangibles over their estimated useful life of four years 
+the total nsmg purchase price was  million and included  million for the issuance of million shares of our common stock  million for the exchange of options to purchase million shares of our common stock and million of acquisition related costs 
+the purchase price was allocated  based on an independent valuation  to goodwill of  million  distribution channels of million  original equipment manufacturer agreements of million  developed technology of million  assembled workforce of million  trademarks of million  in process research and development of million  net deferred tax liabilities of million  other intangibles of million and tangible net liabilities assumed of million 
+for each of and  we recorded million for the amortization of goodwill and other intangibles  and million for the amortization of developed technology related to this acquisition 
+for  we recorded million for the amortization of goodwill and other intangibles  and million for the amortization of developed technology related to this acquisition 
+the results of operations of the acquired business are included in our consolidated financial statements from the date of acquisition 
+acquisition related costs consisted of direct transaction costs of million  operating lease commitments on duplicative facilities of million and involuntary termination benefits of million 
+non cash charges included in the acquisition related costs approximated million 
+acquisition related costs are summarized below in millions operating lease direct commitments involuntary transaction on duplicative termination costs facilities benefits total provision accrued at acquisition date cash payments non cash charges balance at december  cash payments balance at december  cash payments balance at december  the remaining acquisition related costs accrual of million is anticipated to be utilized primarily for servicing operating lease payments or negotiated buyout of operating lease commitments  the lease terms of which will expire at various times through the year in addition  we recorded a restructuring charge of million in as a result of the nsmg acquisition 
+this restructuring charge related to exit costs with respect to duplicative facilities that we planned to vacate  which include million of write off of redundant equipment and leasehold improvements  and involuntary termination benefits 
+involuntary termination benefits relate to the salary and fringe benefit expense for terminated employees in research and development 
+the involuntarily terminated employees represented of the global workforce 
+in the fourth quarter of  as a result of lower actual exit costs than originally estimated with respect to duplicative facilities  we reversed million of the restructuring charge 
+restructuring costs are summarized below in millions write off of redundant cancellation involuntary equipment of facilities leases termination and leasehold and other contracts benefits improvements total provision accrued at acquisition date cash payments non cash charges balance at december  cash payments reversal balance at december  cash payments balance at december  the remaining restructuring charge accrual of million is anticipated to be utilized for servicing operating lease payments or negotiated buyout of operating lease commitments  the lease terms of which will expire at various times through the year telebackup acquisition on june   we acquired telebackup systems  inc  which we refer to as telebackup 
+telebackup designed  developed and marketed software products for local and remote backup and recovery of electronic information stored on networked  remote and mobile personal computers 
+we accounted for the telebackup acquisition using the purchase method of accounting  and we have been incurring charges of million per quarter  primarily related to the amortization of developed technology  goodwill and other intangibles over their estimated useful life of four years 
+the total purchase price for telebackup was million and included million related to the issuance of million shares of our common stock  million for the issuance of options to purchase million shares of our common stock and million in acquisition related costs 
+the purchase price was allocated  based on an independent valuation  to goodwill of million  distribution channels of million  original equipment manufacturer agreements of million  developed technology of million  assembled workforce of million  trademarks of million  in process research and development of million  net deferred tax liabilities of million and tangible net liabilities assumed of million 
+for each of and  we recorded million for amortization of goodwill and other intangibles  and million for the amortization of developed technology related to this acquisition 
+for  we recorded million for amortization of goodwill and other intangibles  and million for the amortization of developed technology related to this acquisition 
+the results of operations of the acquired business are included in our consolidated financial statements from the date of acquisition 
+the acquisition costs of million consist primarily of direct transaction costs and involuntary termination benefits 
+acquisition related costs are summarized below in millions direct involuntary transaction termination costs benefits total provision accrued at acquisition date cash payments balance at december  cash payments balance at december  cash payments balance at december  nuview acquisition on august   we acquired certain assets of nuview  inc  which we refer to as nuview  for a total cost of approximately million 
+we accounted for the acquisition using the purchase method of accounting  and we have been incurring charges of million per quarter primarily related to the amortization of developed technology  goodwill and other intangibles over their estimated useful life of four years 
+the purchase price included million related to the issuance of our common stock  million for the issuance of options to purchase our common stock  million in acquisition related costs and million paid in cash 
+the purchase price was allocated  based on an independent valuation  to goodwill of million  developed technology of million  assembled workforce of million  trademarks of million  covenant not to compete of million and in process research and development of million 
+for each of and  we recorded million for amortization of goodwill and other intangibles  and million for the amortization of developed technology related to this acquisition 
+for  we recorded million for amortization of goodwill and other intangibles  and million for the amortization of developed technology related to this acquisition 
+the results of operations of the acquired business are included in our consolidated financial statements from the date of acquisition 
+other acquisitions in  we completed three acquisitions of privately held companies for a total cost of approximately million 
+we accounted for these acquisitions using the purchase method of accounting 
+the purchase price included million payable in cash  of which was paid as of december   and million in acquisition related costs  of which million was paid at december  the remaining cash payments of million will be made throughout march and the remaining acquisition related costs accrual of million in direct transaction costs is anticipated to be paid by the end of the purchase price was allocated to goodwill of million  developed technology of million  other intangibles of million  and net of tangible liabilities assumed of million 
+for  we recorded million for the amortization of goodwill and other intangibles  and million for the amortization of developed technology 
+the identifiable intangible assets are amortized over their estimated useful lives of two to four years 
+the results of operations of the acquired businesses are included in our consolidated financial statements from the respective dates of acquisition 
+accounting pronouncements affecting the accounting treatment of previous business combinations for the years ended december   and we incurred net losses due to the amortization of developed technology  goodwill and other intangibles mainly related to the acquisitions of the nsmg business  telebackup and nuview 
+from all of our acquisitions  we incurred charges of million in  million in and million in related to the amortization of developed technology  goodwill and other intangibles 
+on january   upon adoption of newly issued statement of financial accounting standards  or sfas   business combinations  and sfas  goodwill and other intangible assets  the total quarterly charges related to the amortization of developed technology  goodwill and other intangibles has changed 
+because of this change  we expect to become profitable in refer to the new accounting pronouncements section for a discussion on the impacts of the adoption of sfas and sfas on our financial statements 
+critical accounting policies we believe that there are several accounting policies that are critical to understanding our historical and future performance  as these policies affect the reported amounts of revenue and other significant areas that involve management s judgments and estimates 
+these significant accounting policies are revenue recognition  impairment of long lived assets  accounting for income taxes  and impairment of strategic investments 
+these policies  and our procedures related to these policies  are described in detail below and under specific areas within the discussion and analysis of our financial condition and result of operations 
+in addition  please refer to note of the notes to the consolidated financial statements for further discussion of our accounting policies 
+revenue recognition 
+we derive revenue from primarily two sources software licenses and services 
+service revenue includes contracts for software maintenance and technical support  consulting and training 
+we apply the provisions of statement of position sop  software revenue recognition as amended by sop and sop and related interpretations to all transactions to recognize revenue 
+we allocate revenue on software arrangements involving multiple elements to each element based on the relative fair values of the elements 
+the determination of fair value of each element in multiple element arrangements is based on the price charged when the same element is sold separately 
+for the maintenance and technical support elements  we use historical renewal rates to determine the price when sold separately 
+a typical arrangement includes software licenses  software media  and maintenance 
+some arrangements include training and consulting 
+software licenses are sold as site licenses or on a per copy basis 
+site licenses give the customer the right to copy the software on a limited or unlimited basis during a specified term 
+maintenance includes updates unspecified products upgrades and enhancements on a when and if available basis  telephone support  and bug fixes or patches 
+maintenance revenue is recognized ratably over the maintenance term 
+training consists of courses taught by our instructors at our facility or at the customer s site 
+various courses are offered specific to the license products 
+training fees are based on a per course basis and revenue is recognized when the customer has completed the course 
+consulting consists primarily of product installation  which does not involve customization of the software 
+installation services provided by us are not mandatory 
+installation can be performed by us  the customer or a third party 
+consulting fees are based on a daily rate 
+we have analyzed all of the elements included in our multiple element arrangements and determined that we have fair value to allocate revenue to the maintenance  training and consulting 
+accordingly  assuming all other revenue recognition criteria are met  revenue from perpetual licenses is recognized upon delivery of the software license and media using the residual method in accordance with sop revenue from maintenance is recognized ratably over the maintenance term 
+revenue for consulting and training is recognized as the services are performed 
+we define revenue recognition criteria as follows persuasive evidence of an arrangement exists 
+it is our customary practice to have a written contract  which is signed by both the customer and us  or a purchase order or amendment to the written contract from those customers that have previously negotiated a standard end user license arrangement or volume purchase agreement  prior to recognizing revenue on an arrangement 
+delivery has occurred 
+our software is physically delivered to our customers  with standard transfer terms as fob shipping point 
+if undelivered products or services exist that are essential to the functionality of the delivered product in an arrangement  delivery is not considered to have occurred 
+the vendor s fee is fixed or determinable 
+the fee our customers pay for the products is negotiated at the outset of an arrangement  and is generally based on the specific volume of product to be delivered 
+therefore  except in cases where we grant extended payment terms to a specific customer  the fees are considered to be fixed or determinable at the inception of the arrangement 
+arrangements with payment terms extending beyond days from the invoice date are not considered to be fixed or determinable 
+revenue from such arrangements is recognized as the fees become due and payable 
+collection is probable 
+probability of collection is assessed on a customer by customer basis 
+we typically sell to customers where we have a history of successful collection 
+new customers are subjected to a credit review process that evaluates the customers financial position and ultimately their ability to pay 
+if it is determined from the outset of an arrangement that collection is not probable based upon our review process  revenue is recognized on a cash collected basis 
+additionally  we generally recognize revenue from licensing of software products through our indirect sales channel when the reseller  value added reseller  hardware distributor  application software vendor or system integrator sells the software products to its customers 
+for licensing of our software to original equipment manufacturers  royalty revenue is recognized when the original equipment manufacturer reports to us the sale of software to an end user customer 
+in addition to license royalties  some original equipment manufacturers pay an annual flat fee and or support royalties for the right to sell maintenance to the end user 
+we recognize revenue from original equipment manufacturer support royalties fees ratably over the term of the support agreement 
+our arrangements do not generally include acceptance clauses 
+however  if an arrangement includes an acceptance provision  we defer the revenue and recognize it upon acceptance  except for government contracts  as acceptance terms are standard 
+acceptance occurs upon the earlier of receipt of a written customer acceptance or expiration of the acceptance period 
+impairment of long lived assets 
+we review our long lived assets  including property and equipment  goodwill and other intangibles  for impairment when events or changes in facts and circumstances indicate that their carrying amount may not be recoverable 
+events or changes in facts and circumstances that we consider as impairment indicators include the following significant underperformance of our corporation relative to expected operating results  our net book value compared to our market capitalization  significant adverse economic and industry trends  significant decrease in the market value of the asset  the extent that we use an asset or changes in the manner that we use it  and significant changes to the asset since we acquired it 
+when we determine that one or more impairment indicators are present for our long lived assets  excluding enterprise level goodwill  we compare the carrying amount of the asset to net future undiscounted cash flows that the asset is expected to generate 
+if the carrying amount of the asset is greater than the net future undiscounted cash flows that the asset is expected to generate  we would recognize an impairment loss 
+the impairment loss would be the excess of the carrying amount of the asset over its fair value 
+when we determine that one or more impairment indicators are present for our enterprise level goodwill  we compare our net book value to our market capitalization 
+if our net book value was greater than our market capitalization  we would recognize an impairment loss 
+the impairment loss would be  at a minimum  the excess of our net book value over our market capitalization and could affect goodwill and other long lived assets 
+as of december   we had not recorded an impairment loss on our long lived assets 
+we do not expect to record an impairment loss on our long lived assets in the near future 
+accounting for income taxes 
+we are required to estimate our income taxes in each federal  state and international jurisdiction in which we operate 
+this process requires that we estimate the current tax exposure as well as assess temporary differences between the accounting and tax treatment of assets and liabilities  including items such as reserves and accruals not currently deductible for tax purposes 
+the income tax effects of the differences we identify are classified as current or long term deferred tax assets and liabilities in our consolidated balance sheets 
+we must also assess the likelihood that deferred tax assets will be realized from future taxable income and  based on this assessment  establish a valuation allowance if required 
+in  we determined the valuation allowance to be million based on uncertainties related to our ability to recover two main components of our deferred tax assets 
+these two components are tax benefits of certain assets acquired in the nsmg acquisition and tax benefits from employee stock option activity 
+future results may vary from these estimates  and at this time it is not practicable to determine if we will need to establish an additional valuation allowance and if it will have a material impact on our financial statements 
+impairment of strategic investments 
+we hold investments in common and preferred stock of publicly traded and privately held companies 
+we make investments in development stage companies that we believe provide us with strategic opportunities  access to new technologies and emerging markets  and create opportunities for additional sales of our products and services 
+we review our strategic investments quarterly to determine if there is a decline in their fair value that is other than temporary 
+elements we consider in our review include the following actual or up coming rounds of financing of the investee  subsequent to our investment date  cash position of the investee and its cash burn rate  investee s ability to obtain additional financing  investee s actual operating results compared to its forecasted results  status of the investee s product development and its competitive position  investee s management experience and employee headcount growths or reductions  current industry and economic trends relevant to the business of the investee  if privately held  the market value of common stock of the investee s publicly traded competitors  and if publicly traded  the market value of the investee s common stock 
+in the third quarter of  we recognized impairment losses of million on our strategic investments when we determined that there had been a decline in the fair value of our investments that was other than temporary 
+results of operations the following table sets forth  for the periods indicated  selected items in our statements of operations expressed as a percentage of total revenue 
+years ended december  net revenue user license fees services total net revenue cost of revenue user license fees services amortization of developed technology total cost of revenue gross profit operating expenses selling and marketing research and development general and administrative amortization of goodwill and other intangibles stock based compensation acquisition and restructuring costs reversals in process research and development total operating expenses loss from operations interest and other income  net interest expense loss on strategic investments loss before income taxes provision for income taxes net loss net revenue net revenue increased to  million in from  million in  when it increased from million in in  our total net revenue increased more slowly than expected because of a reduction in capital spending by our customers due to weaker general economic and industry conditions and due to the events of september  this reduction in capital spending may stagnate or reduce the demand for our user licenses and services until the economic and industry conditions improve significantly 
+while we believe that the percentage increase in total revenue achieved in these periods is not necessarily indicative of future results  we expect total net revenue to continue to increase in our revenue is comprised of user license fees and service revenue 
+user license fees 
+user license fees increased to  million in from million in  when it increased from million in these increases in and were primarily the result of continued growth in market acceptance of our software products  a greater volume of large end user transactions  and increased revenue from original equipment manufacturers during the first half of the increase in was also attributable to the introduction of new products and to the acquisition of nsmg in may we market and distribute our software products both as individual software products and as integrated products suites  also referred to as application solutions 
+we derive our user license fees from the sale of our core technologies  including data protection and file system and volume management products  from our emerging technologies  including cluster and replication and san products and from our application solutions  which include technologies from both our core and emerging technologies 
+the user license fees from our core technologies increased to million in from million in  when it increased from million in the user license fees from our core technologies accounted for of user license fees in  in and in the user license fees from our emerging technologies increased to million in from million in  when it increased from million in the user license fees from our emerging technologies accounted for of user license fees in  in and in as a result of our research and development efforts to create additional integrated products suites and of our sales and marketing efforts to market and sell these integrated products suites  we expect the user license fees from our application solutions to increase in dollars and as a percentage of total user license fees 
+the user license fees from our application solutions decreased to million in from million in  when it increased from million in the user license fees generated by application solutions are allocated between core technology and emerging technology products 
+most of our application solutions include a major component of emerging technologies 
+we also expect the user license fees from our emerging technology products to increase in dollars and as a percentage of total user license fees 
+in and  we recorded a greater volume of large end user transactions 
+for end user transactions valued at  or more  our user license fees increased to million in from million in  when it increased from million in our user license fees from original equipment manufacturers increased to million from million in  when it increased from million in the user license fees from original equipment manufacturers accounted for of user license fees in  in and in service revenue 
+we derive our service revenue primarily from contracts for software maintenance and technical support and  to a lesser extent  consulting and training services 
+service revenue increased to million in from million in  when it increased from million in these increases were due primarily to increased sales of service and support contracts on new licenses  renewal of service and support contracts on existing licenses and  to a lesser extent  an increase in demand for consulting and training services 
+nevertheless  our service revenue was adversely affected during the third and fourth quarters of by the events of september   which caused air travel delays or cancellations and caused many companies to impose air travel restrictions  all of which resulted in our inability to visit customer sites and in our customers inability to visit our offices 
+the increase in was also attributable to the acquisition of nsmg 
+service revenue represented of total revenue in we expect our service revenue to increase in absolute dollars and as a percentage of net revenue 
+cost of revenue cost of revenue increased to million in from million in  when it increased from million in gross margin on user license fees  excluding amortization of developed technology  is substantially higher than gross margin on service revenue  reflecting the low materials  packaging and other costs of software products compared with the relatively high personnel costs associated with providing maintenance  technical support  consulting and training services 
+cost of service revenue varies depending upon the mix of maintenance  technical support  consulting and training services 
+we expect gross margin to fluctuate in the future  reflecting this mix and the timing differences between increasing our organizational investments and the recognition of revenue that we expect as a result of these investments 
+cost of user license fees including amortization of developed technology 
+cost of user license fees consists primarily of amortization of developed technology  royalties  media  manuals and distribution costs 
+the amortization of developed technology is related primarily to the acquisitions of nsmg  telebackup and nuview in cost of user license fees increased slightly to million in from million in  and increased in from million in the increase in was primarily the result of the amortization of developed technology 
+gross margin on user license fees was in  in  and in the increase in gross margin on user license fees in was due to the stability of the amortization of developed technology 
+if we excluded the amortization of developed technology from the cost of user license fees  the gross margin on user license fees would have consistently been in  and the gross margin on user license fees may vary from period to period based on the license revenue mix  because some products carry higher royalty rates than others 
+we do not expect gross margin on user license fees to increase significantly in the future 
+cost of service revenue 
+cost of service revenue consists primarily of personnel related costs in providing maintenance  technical support  consulting and training to customers 
+cost of service revenue increased to million in from million in  and increased in from million in gross margin on service revenue was in  in and in the gross margin improvement in was the result of our increased productivity and higher service revenue growth due to support fees from a larger installed customer base 
+we expect the cost of service revenue to continue to increase in absolute dollars in future periods and we expect the gross margin on service revenue to remain stable as a percentage 
+amortization of developed technology 
+amortization of developed technology was million in  million in and million in these amounts mainly represent the amortization of the developed technology recorded upon the acquisition of nsmg  telebackup and nuview in the useful life of the developed technology acquired is two to four years and we expect the amortization to be approximately million per quarter 
+operating expenses total operating expenses increased to  million in from  million in  and increased in from million in the and increases are explained in more details below 
+the significant increase in is due largely to the acquisitions of nsmg and telebackup in because was the first full year that both acquisitions were reflected in our results and due to the integration that has taken place  it is not possible to quantify the portion of the increase in that is related directly to these acquisitions 
+we believe that the percentage increase in total operating expenses in these periods is not necessarily indicative of future results 
+our operating expenses include selling and marketing expenses  research and development expenses  general and administrative expenses  and amortization of goodwill and other intangibles 
+selling and marketing 
+selling and marketing expenses consist primarily of salaries  related benefits  commissions  consultant fees and other costs associated with our sales and marketing efforts 
+selling and marketing expenses increased to million in from million in  and increased in from million in as a percentage of net revenue  selling and marketing expenses increased slightly to in  and remained consistent in and at 
+the and increases in absolute dollars were attributable primarily to increased sales and marketing staffing and  to a lesser extent  increased costs associated with new marketing programs 
+we intend to continue to expand our global sales and marketing infrastructure  and accordingly  we expect our selling and marketing expenses to increase in absolute dollars but to decrease slightly as a percentage of net revenue 
+research and development 
+research and development expenses consist primarily of salaries  related benefits  third party consultant fees and other engineering related costs 
+research and development expenses increased to million in from million in  and increased in from million in the and increases in absolute dollars were due primarily to increased staffing levels associated with new hires and  to a lesser extent  costs associated with depreciation and amortization of new equipment purchased for expansion and development efforts for new technology 
+as a percentage of net revenue  research and development expenses were in  in and in we believe that a significant level of research and development investment is required to remain competitive  and expect these expenses will continue to increase in absolute dollars in future periods and will increase slightly as a percentage of net revenue 
+we expect research and development expenses to fluctuate from time to time to the extent that we make periodic incremental investments in research and development 
+general and administrative 
+general and administrative expenses consist primarily of salaries  related benefits and fees for professional services  such as legal and accounting services 
+general and administrative expenses increased to million in from million in  and increased in from million in as a percentage of net revenue  general and administrative expenses were in  and in both and the increase in absolute dollars was due primarily to increased staffing levels  and to a lesser extent  costs associated with fees for outside professional services 
+the increase in absolute dollars was due to additional personnel costs  including additional personnel related to the acquisitions in the second quarter of  and  to a lesser extent  to an increase in other expenses associated with enhancing our infrastructure to support expansion of our operations 
+we expect general and administrative expenses to increase in absolute dollars and to increase slightly as a percentage of net revenue in the next few quarters 
+amortization of goodwill and other intangibles 
+amortization of goodwill and other intangibles increased to million in from million in  and increased from million in these amounts mainly represent amortization of goodwill  distribution channels  trademarks and other intangible assets recorded upon the acquisitions of nsmg  telebackup and nuview in the estimated useful life of the goodwill and the other intangibles is four years 
+refer to the new accounting pronouncements section for a discussion on the impacts of the adoption of sfas  business combinations  and sfas  goodwill and other intangible assets on our financial statements 
+stock based compensation 
+in  we recorded million related to stock based compensation 
+this charge relates primarily to the acceleration of certain stock options held by our former chief executive officer and chairman of the board  upon his resignation in  and  to a lesser extent  to options issued in a business acquisition 
+acquisition and restructuring costs reversals 
+in  in connection with the seagate technology transaction  we accrued million of acquisition related costs 
+in  we reversed million of net attorneys fees originally accrued in relation with the delaware lawsuit captioned in re seagate technology  inc shareholders litigation  which we will not have to pay as a result of a delaware chancery court ruling that approved the settlement of the lawsuit and the subsequent distribution of million of additional consideration to the former seagate technology stockholders originally paid by sac 
+in  in connection with the nsmg acquisition  we recorded a one time charge to acquisition and restructuring costs of million 
+in  mainly as a result of lower actual exit costs than originally estimated with respect to duplicative facilities  we reversed million of the restructuring charge 
+in process research and development 
+upon the acquisition of nsmg  telebackup and nuview in  we recorded one time charges to in process research and development totaling million 
+we obtained outside valuations for these acquisitions  and values were assigned to developed technology  in process research and development and other intangibles 
+the fair value of the in process research and development for each of the acquisitions was determined using the income approach  which discounts expected future cash flows from projects under development to their net present value 
+each project was analyzed to determine the characteristics and applications of the technology  the complexity  cost and time to complete the remaining development efforts  any alternative future use or current technological feasibility  and the stage of completion 
+the projected future cash flows from the projects under development were based on management s estimates of revenues and operating profits related to the projects 
+revenues on the projects related to in process research and development were estimated to begin in through  with the majority of the revenues occurring between and the risk adjusted discount rate applied to after tax cash flows was  compared to an estimated weighted average cost of capital of 
+we believe the amounts determined for in process research and development are representative of fair value and do not exceed the amounts an independent third party would pay for the projects assumed 
+the total charge for in process research and development was estimated to be million for the nsmg acquisition 
+seven in process research and development projects were identified and valued  with two projects under the data protection product group that accounted for approximately of the value assigned to in process research and development 
+the data protection software products provide backup and restore functions  including scheduled automated unattended data backup operations 
+the remaining products identified and valued were under the application solutions and replication product groups 
+the application solutions software provides scaleable solutions for managing the behavior of different types of networks worldwide from one central location and the replication software products deliver flexible and intelligent data replication for windows nt environments 
+costs to complete all of the nsmg in process research and development projects were estimated to be million 
+at the date of acquisition  the development of all products ranged from to complete and averaged approximately complete  with expected completion dates through december at december   all in process research and development projects related to the nsmg acquisition were completed or abandoned 
+all in process research and development projects related to the telebackup and nuview acquisitions were individually insignificant and were completed or abandoned as of december  interest and other income  net 
+interest and other income  net increased to million in from million in  and from million in the increase was mainly due to increased amounts of interest income attributable to the higher level of funds available for investment  which were primarily from the net cash provided by operating activities  partially offset by a lower return on investment due to lower market interest rates in the increase was due primarily to increased amounts of interest income attributable to the higher level of funds available for investment  primarily from the issuance of the convertible subordinated notes in august and from the net cash provided by operating activities 
+interest expense 
+interest expense consisted primarily of interest recorded under the convertible subordinated notes due issued in august and the convertible subordinated notes due issued in october interest expense decreased to million in from million in  and increased in from million in the decrease in was due primarily to the interest expense savings that has been realized from the conversion of approximately million of the convertible subordinated notes that occurred in the third quarter of the increase in was due primarily to interest recorded for the convertible subordinated notes  since this was the first full year that these notes were outstanding 
+loss on strategic investments 
+with the decline in the economy in  companies have experienced extreme volatility and instability in their business and operating results 
+in the third quarter of  we recognized impairment losses of million on our strategic investments when we determined that there had been a decline in the fair value of these investments that was other than temporary 
+these losses represented write downs of the carrying amount of our investments and were determined by using  among other factors  a significant decline in an investee s stock value  its inability to obtain additional private financing  and the uncertainty of its financial condition 
+income taxes 
+we had negative effective tax rates of in  in and in our effective tax rates were negative and differed from the combined federal and state statutory rates due primarily to differences attributable to acquisition related charges that were non deductible for tax purposes 
+new accounting pronouncements on january   we adopted sfas  accounting for derivative instruments and hedging activities 
+the adoption of this accounting standard did not have a material impact on our financial position or results of operations 
+in july  the financial accounting standards board  or fasb  issued sfas  business combinations  and sfas  goodwill and other intangible assets 
+sfas  effective in july  requires that the purchase method of accounting be used for all business combinations initiated after june  sfas also specifies criteria intangible that assets acquired in a purchase method business combination must meet to be recognized and reported apart from goodwill  noting that any purchase price allocable to an assembled workforce may not be accounted for separately 
+upon adoption of sfas on january   we evaluated our existing intangible assets and goodwill that were acquired in a prior purchase business combination  and made necessary reclassifications in order to conform with the new criteria in sfas for recognition apart from goodwill 
+also  we reassessed the useful lives and residual values of all intangible assets acquired  and will make necessary amortization adjustments by march  in addition  to the extent an intangible asset is identified as having an indefinite useful life  we will test the intangible asset for impairment in accordance with the provisions of sfas by march  any impairment loss will be measured as of the january  and recognized as the cumulative effect of a change in accounting principle in the first quarter of we do not believe that sfas will have a material impact on our financial position  results of operations or cash flows 
+sfas requires that goodwill and intangible assets with indefinite useful lives no longer be amortized  but instead be tested for impairment at least annually in accordance with the provisions of sfas sfas also requires that intangible assets with estimable useful lives be amortized over their respective estimated useful lives to their estimated residual values  and reviewed for impairment in accordance with sfas  accounting for the impairment or disposal of long lived assets 
+in connection with sfas s transitional goodwill impairment test  we intend to perform an assessment of whether there is an indication that goodwill is impaired as of the date of adoption in a two step process as follows step we will identify our reporting units and determine the carrying value of each reporting unit by assigning the assets and liabilities  including the existing goodwill and intangible assets  to those reporting units as of january  we have until june  to determine the fair value of each reporting unit and compare it to the reporting unit s carrying amount 
+to the extent a reporting unit s carrying amount exceeds its fair value  an indication exists that the reporting unit s goodwill may be impaired  we will perform the second step of the transitional impairment test 
+if the reporting unit s fair value exceeds its carrying value  no further work is needed 
+step we will compare the implied fair value of the reporting unit s goodwill  determined by allocating the reporting unit s fair value to all of its assets  both recognized and unrecognized  and liabilities in a manner similar to a purchase price allocation in accordance with sfas  to its carrying amount  both of which would be measured as of january  this second step is required to be completed as soon as possible  but no later than december  any transitional impairment loss will be recognized as the cumulative effect of a change in accounting principle in our statement of operations 
+as of the date of adoption  january   we had unamortized goodwill in the amount of approximately  million and unamortized other intangible assets in the amount of approximately million  all of which are subject to the transition provisions of sfas and we expect to complete the transitional goodwill impairment test by june  we do not expect to record an impairment charge upon completion of the test  but there can be no assurance that at the time the test is completed a significant impairment charge may not be recorded 
+the amortization of goodwill represented approximately million per quarter prior to the adoption of sfas we do not believe that sfas and sfas will have a material impact on our financial position or cash flows 
+however  because of the implementation of sfas and sfas  we expect to become profitable in in august  fasb issued sfas  accounting for the impairment or disposal of long lived assets 
+sfas supersedes sfas and apb opinion no 
+ reporting the results of operation reporting the effects of disposal of a segment of a business  and extraordinary  unusual and infrequently occurring events and transactions 
+sfas establishes a single accounting model for long lived assets to be disposed of by sale  whether they were previously held and used or newly acquired  and it also broadens the presentation of discontinued operations to include more disposal transactions 
+we will be required to implement the provisions of sfas as of january  we do not believe that sfas will have a material impact on our financial position  results of operations or cash flows 
+in december  the fasb staff issued topic no 
+d  income statement characterization of reimbursements received for out of pocket expenses incurred topic d 
+topic d requires companies to record certain reimbursements received for out of pocket expenses as revenue instead of an offset to the related expense 
+upon application of topic d  comparative financial statements for prior periods must be reclassified to comply with the guidance in this announcement 
+we will be required to implement the provisions of topic d as of january  we do not believe that topic d will have a material impact on our financial position  results of operations or cash flows 
+liquidity and capital resources cash flows our cash  cash equivalents and short term investments totaled  million at december  and represented of our net tangible assets 
+our cash  cash equivalents and short term investments totaled  million at december  and represented of our net tangible assets 
+cash and cash equivalents are highly liquid with original maturities of ninety days or less 
+short term and long term investments consist mainly of investment grade commercial paper  medium term notes  corporate notes  government securities taxable and non taxable  asset backed securities and market auction preferreds 
+operating activities provided cash of million in  primarily from income after adjustments to exclude non cash charges  including amortization of intangibles related to acquisition activities  tax benefits from stock plans and an increase in deferred revenue  decrease in other assets  partially offset by an increase in accrued acquisition costs 
+operating activities provided cash of million in  primarily from income after adjustments to exclude non cash charges  including amortization of intangibles related to acquisition activities  tax benefits from stock plans and an increase in deferred revenue partially offset by an increase in accounts receivable and other assets  as a result of our overall revenue growth 
+operating activities provided cash of million in  primarily from income after adjustments to exclude non cash charges  including amortization of intangibles related to acquisition activities  and tax benefits from stock plans partially offset by an increase in account receivable  as a result of our overall revenue growth 
+investing activities used cash of  million in  due primarily to the net increase in short term investments of million and purchases of property and equipment of million 
+investing activities provided cash of million in due to the net decrease in short term and long term investments of million  partially offset by purchases of property and equipment of million and strategic investments of million 
+investing activities used cash of million in primarily due to the net increase in short term and long term investments of million  purchases of property and equipment of million and the purchase of certain assets of nuview 
+financing activities provided cash of million in  arising primarily from the issuance of common stock under our employee stock plans 
+financing activities provided cash of million in from the issuance of common stock under our employee stock plans 
+financing activities provided cash of million in from the net proceeds of million related to the issuance of the convertible subordinated notes in august and million from the issuance of common stock under our employee stock plans 
+convertible subordinated notes in october  we issued million of convertible subordinated notes due in the notes  for which we received net proceeds of million 
+we and our wholly owned subsidiary  veritas operating corporation  are co obligors on the notes and are unconditionally  jointly and severally liable for all payments under the notes 
+as of december   a total principal amount of million had been converted into approximately million shares of our common stock 
+based on the aggregate principal amount at maturity of million outstanding as of december   the notes provide for semi annual interest payments of million each may and november the notes are convertible into shares of our common stock at any time prior to the close of business on the maturity date  unless previously redeemed or repurchased  at a conversion price of per share  subject to adjustment in certain events  equivalent to a conversion rate of shares of common stock per  principal amount at maturity 
+on or after november   the notes will be redeemable over a period of time until maturity at our option at declining premiums to par 
+the debt issuance costs are being amortized over the term of the notes using the interest method 
+in august  we and our wholly owned subsidiary  veritas operating corporation  issued million  aggregate principal amount at maturity  of convertible subordinated notes due in the notes for which we received net proceeds of approximately million 
+the interest rate of  together with the accrual of original issue discount  represent a yield to maturity of 
+we and veritas operating corporation are co obligors on the notes and are unconditionally  jointly and severally liable for all payments under the notes 
+as of december   a total principal amount of million had been converted into approximately  shares of our common stock 
+based on the aggregate principal amount at maturity of million outstanding as of december   the notes provide for semi annual interest payments of million each february and august the notes are convertible into shares of our common stock at any time prior to the close of business on the maturity date  unless previously redeemed or repurchased  at a conversion price of per share  subject to adjustment in certain events  equivalent to a conversion rate of shares of common stock per  principal amount at maturity 
+on or after august   the notes will be redeemable over a period of time until maturity at our option at the issuance price plus accrued original issue discount and any accrued interest 
+the debt issuance costs are being amortized over the term of the notes using the interest method 
+at december   we had a ratio of long term debt to total capitalization of approximately 
+the degree to which we will be leveraged could materially and adversely affect our ability to obtain financing for working capital  acquisitions or other purposes and could make us more vulnerable to industry downturns and competitive pressures 
+we will require substantial amounts of cash to fund scheduled payments of principal and interest on our indebtedness  including the notes and the notes  future capital expenditures and any increased working capital requirements 
+if we are unable to meet our cash requirements out of cash flow from operations  we cannot assure you that we will be able to obtain alternative financing 
+commitments during the third and fourth quarters of  we extended and amended the term of our million unsecured credit facility  which we hold with a syndicate of financial institutions 
+at december   no amount was outstanding and the credit facility is due to expire in september borrowings under the credit facility bear interest at to over libor  and are subject to our compliance with financial and other covenants 
+the credit agreement requires us to maintain specified financial covenants such as earnings before interest  taxes  depreciation and amortization ebitda  debt on ebitda and quick ratio  all of which we were in compliance with as of december  in and  we entered into three build to suit lease agreements for office buildings in mountain view  california  roseville  minnesota and milpitas  california 
+we began occupying the roseville and mountain view facilities in may and june respectively 
+the development and acquisition of the properties have been financed by a third party through financial institutions 
+we have accounted for these agreements as operating leases in accordance with sfas  accounting for leases  as amended 
+during the first  third and fourth quarters of  we amended our existing lease agreement  originally signed in the second quarter of  for new corporate campus facilities in mountain view  california 
+the facilities  of  square feet  provide space for sales  marketing  administration and research and development functions 
+the lease term for these facilities is five years beginning in march  with an option to extend the lease term for two successive periods of one year each  if agreed to by the financial institutions 
+we have the option to purchase the property land and facilities for the termination value of million or  at the end of the lease  to arrange for the sale of the property to a third party while we retain an obligation to the owner for the difference between the sales price and the guaranteed residual value up to million if the sales price is less than this amount  subject to certain provisions of the lease 
+in addition  we are entitled to any proceeds from a sale of the property in excess of the termination value 
+we now occupy the new corporate campus facilities and began making lease payments in the second quarter of monthly lease payments under this operating lease are based on libor using day to day libor contracts 
+future minimum lease payments under this lease are included in the table below 
+during the first  third and fourth quarters of  we amended our existing lease agreement  originally signed in the first quarter of  for our existing facilities in roseville  minnesota 
+we improved and expanded our existing facilities of  square feet and developed adjacent property adding  square feet completed in the second quarter of the facilities provide space for technical support and research and development functions 
+the lease term for these facilities is five years beginning in march  with an option to extend the lease term for two successive periods of one year each  if agreed to by the financial institutions 
+we have the option to purchase the property land and facilities for the termination value of million or  at the end of the lease  to arrange for the sale of the property to a third party while we retain an obligation to the owner for the difference between the sales price and the guaranteed residual value up to million if the sales price is less than this amount  subject to certain provisions of the lease 
+in addition  we are entitled to any proceeds from a sale of the property in excess of the termination value 
+we now occupy the new campus facilities and began making lease payments in the second quarter of monthly lease payments under this operating lease are based on libor using day to day libor contracts 
+future minimum lease payments under this lease are included in the table below 
+during the third and fourth quarters of  we amended our existing lease agreement  originally signed in the third quarter of  for the lease of acres of land and subsequent improvements for new research and development campus facilities in milpitas  california 
+we plan to develop the site in two phases  with the first phase of  square feet being completed in the fourth quarter of the facilities will provide space for research and development and general corporate functions 
+the lease term for the first phase is five years beginning in july  with an option to extend the lease term for two successive periods of one year each  if agreed to by the financial institutions 
+we have the option to purchase the property land and first phase facilities for the termination value of million or  at the end of the lease  to arrange for the sale of the property to a third party while we retain an obligation to the owner for the difference between the sales price and the guaranteed residual value up to million if the sales price is less than this amount  subject to certain provisions of the lease 
+in addition  we are entitled to any proceeds from a sale of the property in excess of the termination value 
+we anticipate to begin the lease payments in the third quarter of for the first phase and to commence occupying the new campus facilities in the fourth quarter of monthly lease payments under this operating lease are based on libor using day to day libor contracts 
+future minimum lease payments under this lease are included in the table below 
+we are currently analyzing our construction schedule for the second phase of the campus  but at this time no commitments have been made with respect to the start of construction 
+we have evaluated the expected fair value of the properties at the end of the lease terms by reviewing current real estate market conditions and indicators of expectations for the market in the future 
+in the event that we determine it is probable that the expected fair value of any of the properties at the end of the lease terms will be less than the respective termination values  we will accrue the expected loss on a straight line basis over the remaining lease term 
+currently  we do not believe it is probable that the fair market value of the properties at the end of the lease terms will be less than the termination values 
+the three lease agreements listed above require that we maintain specified financial covenants such as ebitda  debt on ebitda and quick ratio  all of which we were in compliance with as of december  in addition  all the properties covered by the leases  are subject to a deed of trust in favor of the lessor in order to secure our obligations under the leases 
+the future payments due under debt and the future minimum lease payments for facilities and rental equipment as of december  are operating lease notes notes commitments total and thereafter balance at december  we believe that our current cash  cash equivalents and short term investment balances and cash flow from operations will be sufficient to meet our working capital and capital expenditure requirements for at least the next months 
+after that time  we may require additional funds to support our working capital requirements or for other purposes and may seek to raise such additional funds through public or private equity financing or from other sources 
+we cannot assure you that additional financing will be available at all or that if available  we will be able to obtain it on terms favorable to us 
+factors that may affect future results in addition to other information in this annual report on form k  you should consider carefully the following factors in evaluating veritas and our business 
+our revenue may fluctuate significantly  which could cause the market price of our securities to decline we may experience a shortfall in revenue in any given quarter 
+any such shortfall in revenue could cause the market price of securities to fall substantially 
+our revenue in general  and our license revenue in particular  are difficult to forecast and are likely to fluctuate significantly from quarter to quarter due to a number of factors  many of which are outside of our control 
+these factors include the possibility that our customers may cancel  defer or limit purchases as a result of reduced information technology budgets or the current weak or uncertain general economic and industry conditions  the timing and magnitude of sales through our original equipment manufacturer customers  including hewlett packard  ibm  microsoft  oracle and sun microsystems  the possibility that a slowdown in sales by our original equipment manufacturer customers could result in reduced demand for our products and services  the unpredictability of the timing and magnitude of sales to the retail channel by our resellers and sales by our direct sales force  both of which tend to generate sales later in a quarter than original equipment manufacturer sales  the timing of revenue recognition for sales of software products and services  the introduction  timing and market acceptance of new products and services  changes in data storage and networking technology or introduction of new operating system upgrades by our original equipment manufacturer customers  which could require us to modify our products and services or to develop new products or services  the relative growth rates of the windows nt  unix and linux markets  the rate of adoption of storage area networks and network attached storage appliance technology and the timing and magnitude of sales of our storage area networking products and services that incorporate these  the rate of adoption of network attached storage appliance technology and the timing and magnitude of sales of our network attached storage appliance products and services  the extent to which our customers renew their service and maintenance contracts with us  changes in our pricing policies and distribution terms  the timing and amount of revenue attributable to our end user customers whose businesses are substantially dependent on the internet or the telecommunications markets  whose ability to purchase our products may be adversely affected by their inability to raise additional capital or to meet their business objectives  the possibility that our customers may defer purchases in anticipation of new products or product updates by us our by our competitors  the possibility that our customers may cancel  defer or limit purchases as a result of the threat of terrorism or military actions taken by the united states or its allies in reaction to that threat  the possibility that air travel delays or cancellations and air travel restrictions imposed by many companies could adversely affect our licensing efforts or our services revenue  as they result in our inability to visit customer sites and result in our customers inability to visit our offices  the overall demand for data availability products and services  which is likely to be lower in weak or uncertain general economic and industry conditions  and the possibility of a worsening of weak economic and industry conditions 
+in the current uncertain economic environment  our revenue  and our license revenue in particular  are extremely difficult to forecast and will likely be less predictable from quarter to quarter 
+you should not rely on the results of any prior periods as an indication of our future performance 
+if we have a shortfall in revenue in any given quarter  we probably will not be able to reduce our operating expenses quickly in response 
+therefore  any significant shortfall in revenue could have an immediate adverse effect on our operating results for that quarter 
+in addition  it is possible that in some future periods our operating results may be below the expectations of securities analysts or investors 
+if this occurs  the price of our common stock may decline 
+our revenue may fluctuate because we depend on large orders from end user customers for a significant portion of our revenue we depend on large orders from end user customers  which entail lengthy sales cycles  for a significant portion of our revenue 
+our revenue for a quarter could fluctuate significantly based on whether a large sale near the end of a quarter is completed or delayed 
+sales to our end user customers generally range in value from a few thousand to several million dollars 
+in recent quarters  increases in revenue were partially attributable to a greater number of these large end user transactions 
+this trend may not continue 
+the effort to close these large sales is typically complex and lengthy 
+therefore  our revenue for a given period is likely to be affected by the timing of these large orders  which makes it difficult for us to predict that revenue 
+the factors that could delay these large orders include time needed for end user customers to evaluate our software  customer budget restrictions or more lengthy approval processes  particularly in uncertain general economic and industry conditions  customer internal review and testing procedures  and engineering work needed to integrate our software with customers systems 
+our business could be adversely affected if we fail to manage our growth effectively if we fail to manage our growth effectively  our business and operating results could be adversely affected  which could cause the market price of our securities to fall 
+we expect to continue to grow our operations domestically and internationally  and to increase our headcount 
+the growth in our operations and headcount has placed  and will continue to place  a significant strain on our management systems and resources 
+if we fail to manage this growth and our future anticipated growth  we may experience higher operating expenses  and we may be unable to meet the expectations of securities analysts or investors with respect to future operating results 
+to manage this growth we must continue to improve our financial and management controls  reporting systems and procedures and proprietary information control procedures  continue to add and integrate new senior management personnel  improve our licensing models and procedures  hire and train qualified employees  retain qualified employees and manage employee performance  control expenses  integrate geographically dispersed operations  and invest in our internal networking  data center  applications  infrastructure and facilities 
+we have committed a significant amount of money to obtaining additional facilities to accommodate our current and future anticipated growth 
+to the extent that this anticipated growth does not occur or occurs more slowly than we anticipate  we may not be able to reduce expenses to the same degree 
+if we incur operating expenses out of proportion to revenue in any given quarter  our operating results could be adversely impacted 
+to grow our business  we need to attract and retain qualified employees our future growth and success depends on our ability to hire and retain qualified employees  as needed  and to manage our employee base effectively 
+if we are unable to hire and retain qualified employees  our business and operating results could be adversely affected 
+conversely  if we fail to manage employee performance or reduce staffing levels when necessary  our costs would be excessive and our business and operating results could be adversely affected 
+we need to hire additional sales  technical  and senior management personnel to support the planned expansion of our business and to meet the anticipated increased customer demand for our products and services 
+competition for people with the skills we require is intense  particularly in the san francisco bay area where our headquarters are located  and the high cost of living in this area makes our recruiting and compensation costs higher 
+as a result  we expect to continue to experience increases in compensation costs 
+in addition  the exercise of stock options in the us and certain foreign jurisdictions may result in substantial increases in employer payroll tax liabilities 
+we cannot assure you that we will be successful in hiring or retaining new personnel 
+even if we are successful in hiring and retaining new personnel  the resulting growth is likely to be disruptive to our business and could have an adverse effect on our ability to maintain our anticipated growth 
+the loss of key personnel could adversely affect our business our future anticipated growth and success depends on the continued service of our key sales  technical and senior management personnel 
+many of our senior personnel have been with us for a number of years  and we cannot assure you that we will be able to retain them 
+the loss of senior personnel can result in significant disruption to our ongoing operations  and new senior personnel must spend a significant amount of time learning our business and our systems in addition to performing their regular duties 
+even though we have entered into employment agreements with some key management personnel  these agreements cannot prevent their departure 
+we do not have nor do we intend to obtain key person life insurance covering any of our personnel 
+we face intense competition  which could cause us to lose market share we have a number of competitors in the markets for our various products 
+if existing or new competitors gain market share in any of these markets  our business and operating results could be adversely affected 
+our principal competitors are internal development groups with original equipment manufacturers that provide data availability functions to support their systems  as well as hardware and software vendors that offer backup and file system and volume management  clustering and replication  and storage area networking products 
+many of our competitors have greater financial  technical sales  marketing and other resources than we do 
+our future and existing competitors could introduce products with superior features  scalability and functionality at lower prices than our products  and could also bundle existing or new products with other more established products in order to compete with us 
+our competitors could also gain market share by acquiring or forming strategic alliances with our other competitors 
+finally  because new distribution methods offered by the internet and electronic commerce have removed many of the barriers to entry historically faced by start up companies in the software industry  we expect to face additional competition from these companies in the future 
+we distribute our products through multiple distribution channels  each of which is subject to risks we sell our products through original equipment manufacturers  through direct sales and through a retail distribution channel 
+if we fail to manage our distribution channels successfully  they may conflict with one another or otherwise not function as we anticipate  and our business and operating results could be adversely affected 
+retail distribution 
+some of our software products are sold primarily in the retail channel  which poses different challenges than we face in selling most of our products  including the veritas brand does not have high recognition in the retail channel  retail distribution typically involves shorter product life cycles  the retail channel has higher risks of product returns  higher marketing expenses and less predictable market demand  and our retail distributors have no obligation to continue selling our products and may terminate their relationships with us at any time 
+direct sales 
+we also depend on our direct sales force to sell our products 
+this involves a number of risks  including longer sales cycles for direct sales efforts  our need to hire  train  retain and motivate our direct sales force  and the length of time it takes our new sales representatives to become productive 
+original equipment manufacturers 
+a portion of our revenue comes from our original equipment manufacturer customers that incorporate our data availability software into systems they sell 
+risks associated with our original equipment manufacturer customers include we have no control over the shipping dates or volumes of systems they ship  they have no obligation to recommend or offer our software products  they have no minimum sales requirements and can terminate our relationship at any time  a significant period of time may elapse before we realize any associated revenue  due to development work that we must generally undertake under the agreement with our original equipment manufacture customers 
+significant time may be needed for the sales and marketing organizations within these customers and distributors to become familiar with and gain confidence in our products  they could choose to develop their own data availability products and incorporate those products into their systems instead of our products  they could develop enhancements to and derivative products from our products  and they could change their own base products  which could make it difficult for us to adapt our products to theirs 
+finally  our original equipment manufacturer customers compete with one another 
+if one of our original equipment manufacturer customers views the products we have developed for another original equipment manufacturer as competing with its products  it might decide to stop doing business with us  which could adversely affect our business and our operating results 
+some of our original equipment manufacturer agreements may not result in increased product sales we have important original equipment manufacturer agreements with hewlett packard  ibm  microsoft and sun microsystems 
+unlike some of our other original equipment manufacturer agreements under which we sell off the shelf versions of our products  under these agreements we develop unique or limited functionality versions of our products to be included in these original equipment manufacturers systems software and products 
+if we are unable to leverage these relationships to increase product sales  we will have expended significant resources without generating corresponding revenue  which could adversely affect our business and our operating results 
+these relationships require our personnel to develop expertise with respect to the original equipment manufacturers products and markets and to cooperate closely with their personnel 
+we cannot assure you that we will be able to attract and retain qualified employees to work with our original equipment manufacturer customers or to develop and improve the products designed for these customers 
+we face uncertainties porting products to new operating systems and developing new products many of our products operate primarily on the unix computer operating system 
+we are currently redesigning  or porting  these products to operate on the windows nt operating system 
+we are also developing new products for unix and for windows nt 
+in addition  we entered into an agreement with ibm under which we will port our complete set of data availability products to aix monterey for ibm power pc and the intel ia processor system 
+we may not be able to accomplish any of this work quickly or cost effectively  and it is not clear what the relative growth rates of these operating systems are 
+these activities require substantial capital investment  the devotion of substantial employee resources and the cooperation of the owners of the operating systems to or for which the products are being ported or developed 
+for example  our porting and development work for the windows nt market has required us to hire additional personnel with expertise on these platforms and to devote engineering resources to these projects 
+for some operating systems  we must obtain from the owner of the operating system a source code license to portions of the operating system software to port some of our products to or develop products for the operating system 
+operating system owners have no obligation to assist in these porting or development efforts 
+if they do not grant us a license or if they do not renew our license  we may not be able to expand our product line into other areas 
+sales of a small number of product lines make up a substantial portion of our revenue we derive and expect to derive a substantial majority of our revenue from a limited number of software products 
+for the year ended december   we derived approximately million  or  of our user license fees from our core technologies  including data protection and file system and volume management products 
+if our customers do not continue to purchase these products as a result of competition  technological change  budget constraints or other factors  our revenue would decrease and our business and operating results would be adversely affected 
+we derive a significant amount of revenue from only a few customers although in  and no single customer accounted for greater than of our total net revenue  we typically derive significant revenue from a small number of customers  including our original equipment manufacturer customers 
+if any of them were to reduce purchases of products or services from us  our business would be adversely affected unless we were able to increase sales to other customers substantially 
+many of these customers have recently announced that their own businesses are slowing  which could adversely affect their demand for our products and services 
+we do not have a contract with any of these customers that requires the customer to purchase any specified number of software licenses from us 
+therefore  we cannot be sure that these customers will continue to purchase our products at current levels 
+our success depends on our ability to develop new and enhanced products that achieve widespread market acceptance our future success depends on our ability to address the rapidly changing needs of our customers by developing and introducing new products  product updates and services on a timely basis  by extending the operation of our products on new platforms and by keeping pace with technological developments and emerging industry standards 
+in order to grow our business  we are committing substantial resources to developing new software products and services  including software products and services for the storage area networking market and the network attached storage appliance market 
+each of these markets is new and unproven  and industry standards for these markets are evolving and changing 
+if these markets do not develop as anticipated  or demand for our products and services in these markets does not materialize or occurs more slowly than we expect  we will have expended substantial resources and capital without realizing sufficient revenue  and our business and operating results could be adversely affected 
+our international sales and operations create special problems that could adversely affect our operating results an investment in our securities may be riskier than an investment in other businesses because we expect to derive an increasing percentage of our revenue from customers located outside of the us we have significant operations outside of the us  including engineering  sales  customer support and production operations  and we plan to expand our international operations 
+as of december   we had approximately  employees in europe  employees in the asia pacific region  and employees in japan 
+our foreign operations are subject to risks  including potential loss of proprietary information due to piracy  misappropriation or weaker laws regarding intellectual property protection  imposition of foreign laws and other governmental controls  including trade restrictions  fluctuations in currency exchange rates and economic instability such as higher interest rates and inflation  which could reduce our customers ability to obtain financing for software products or which could make our products more expensive in those countries  difficulties in hedging foreign currency transaction exposures  longer payment cycles for sales in foreign countries and difficulties in collecting accounts receivable  difficulties in staffing and managing our foreign operations  including difficulties related to administering our stock option plan in foreign countries and difficulties related to the new organizational structure in europe that we implemented in  difficulties in coordinating the activities of our geographically dispersed and culturally diverse operations  seasonal reductions in business activity in the summer months in europe and other countries  costs and delays associated with developing software in multiple languages  and political unrest or terrorism  particularly in areas in which we have facilities 
+in addition  our foreign sales are denominated in local currency  creating risk of foreign currency translation gains and losses that could adversely affect our business and operating results 
+we receive significant tax benefits from sales to our non us customers 
+these benefits are contingent upon existing tax regulations in both the us and in the countries in which our international customers are located 
+future changes in domestic or international tax regulations could affect our anticipated ability to continue to realize these tax benefits 
+our growth strategy is risky because it includes business acquisitions as part of our growth strategy  we have in the past and expect in the future to acquire other businesses  business units and technologies 
+acquisitions involve a number of special risks and challenges  including diversion of management s attention from our core business  integration of acquired business operations and employees with our existing business  including coordination of geographically dispersed operations  incorporation of acquired business technology into our existing product lines  including consolidating technology with duplicative functionality or designed on different technological architecture  loss or termination of employees  including costly litigation resulting from the termination of those employees  dilution of our then current stockholders percentage ownership  assumption of liabilities of the acquired business  including costly litigation related to alleged liabilities of the acquired business  presentation of a unified corporate image to our customers and our employees  and risk of impairment charges related to potential write down of acquired assets in future acquisitions 
+in the past  our integration of the operations of acquired businesses took longer and was more difficult than we anticipated 
+as a result of the seagate technology leveraged buyout and merger transaction  our subsidiary may be liable to third parties for liabilities resulting from seagate s operations before the transaction in november  in the leveraged buyout and merger transaction involving veritas and seagate technology  seagate technology sold all of its operating assets to suez acquisition cayman company  and seagate technology became our subsidiary 
+as part of the transaction  suez acquisition company assumed and agreed to indemnify our subsidiary and us for substantially all liabilities arising in connection with seagate s operations prior to the transaction 
+however  governmental organizations or other third parties may seek recourse against our subsidiary or us for these liabilities 
+prior to the transaction  seagate was a large  multinational enterprise that owned or leased facilities and offices in numerous states and foreign countries and employed over  people worldwide 
+as a result  our subsidiary could receive claims related to a wide range of possible liabilities 
+some areas of potential liability include environmental cleanup costs and liabilities for claims made under federal  state or foreign environmental laws  tax liabilities  obligations under federal  state and foreign pension and retirement benefit laws  existing or future litigation relating to the leveraged buyout or the merger transaction  existing and future litigation arising from the restructuring that seagate commenced last year  including litigation initiated by terminated employees  and existing and future patent litigation 
+any such claim  with or without merit  could be time consuming to defend  result in costly litigation and divert management attention from our core business 
+moreover  if suez acquisition company is unable or unwilling to indemnify our subsidiary or us under the indemnification agreement for any of these liabilities  we could experience a material adverse effect on our business and operating results 
+the seagate merger consideration may be subject to recovery under fraudulent conveyance laws the leveraged buyout and merger transaction involving veritas and seagate technology may be subject to review under state or federal fraudulent transfer laws in the event that a bankruptcy case or lawsuit is commenced by or on behalf of unpaid creditors of suez acquisition company or any of its affiliates 
+under bankruptcy laws  a court could attempt to proceed against the consideration paid to seagate s stockholders in the merger  or direct that amounts deposited with the trustee administering the distributions of seagate s tax refunds and credits be held for the benefit of creditors 
+a court might take one or more of these actions if it determined that when the leveraged buyout was completed  seagate s operating assets were sold for less then fair value and at that time seagate  suez acquisition company and their affiliates were or became insolvent  were engaged in a business or transaction for which their unencumbered assets constituted unreasonably small capital  or intended to incur or reasonably should have believed that they would incur debts beyond their ability to repay as those debts matured 
+a court could also proceed against the consideration paid to seagate s stockholders in the merger  or against seagate s tax refunds and credits otherwise payable to seagate s former stockholders following the merger  if the court found that seagate effected the leveraged buyout with an actual intent to hinder  delay or defraud its creditors 
+our effective tax rate may increase our effective tax rate could be adversely affected by several factors  many of which are outside of our control 
+our effective tax rate is directly affected by the relative proportions of domestic and international revenue and income before taxes 
+we are also subject to changing tax laws in multiple jurisdictions in which we operate 
+we do not have a history of audit activity from various taxing authorities and while we believe we are in compliance with all federal  state and international tax laws  there are various interpretations of their application that could result in additional tax assessments 
+in addition  in november  we acquired seagate technology  which has significant tax audit and tax litigation activity 
+we believe that we have meritorious defenses against asserted deficiencies and that the likely outcome of a re determination of these asserted deficiencies by the tax settlement authorities will not result in an additional provision for income taxes 
+we have an indemnification agreement with suez acquisition company for these deficiencies 
+if suez acquisition company is unable to or is unwilling to indemnify our subsidiary or us under the indemnification agreement for any of these deficiencies  we could experience a material adverse effect on our business and operating results 
+our strategy of investing in development stage companies involves a number of risks and uncertainties we plan to pursue a strategy of investing in development stage companies 
+each of these investments involves risks and uncertainties  including diversion of management s attention from our core business  failure to leverage our relationship with these companies to access new technologies and new markets  inability to value investments appropriately or to predict changes to the future value of investments  inability to manage investments effectively  and loss of cash invested 
+we are incurring significant accounting charges in connection with our acquisitions that created net losses in the past and could create net losses in the future the significant costs of integration associated with our acquisitions of nsmg  telebackup and nuview in increase the risk that we will not realize the anticipated benefits of those acquisitions 
+because we accounted for these three acquisitions using the purchase method of accounting  we recorded goodwill and other intangible assets of approximately  million in this amount is being amortized over four years  and resulted in charges to operations of approximately million per quarter 
+on january  upon adoption of newly issued sfas  business combinations  and sfas  goodwill and other intangible assets  the quarterly charges related to the amortization of developed technology  goodwill and other intangibles will decrease 
+refer to the new accounting pronouncements section for a discussion on the impacts of the adoption of sfas  business combinations  and sfas  goodwill and other intangible assets on our financial statements 
+we have a significant amount of debt that we may be unable to service or repay in october  we issued million in aggregate principal amount of convertible subordinated notes due  of which million was outstanding as of december  in august  we issued million in aggregate principal amount at maturity of convertible subordinated notes due  of which million was outstanding as of december  as of december   the annual interest payments on our outstanding notes were million and the annual interest payments on our outstanding notes were million  all of which we plan to fund from cash flows from operations 
+we will need to generate substantial amounts of cash from our operations to fund interest payments and to repay the principal amount of debt when it matures  while at the same time funding capital expenditures and our other working capital needs 
+if we do not have sufficient cash to pay our debts as they come due  we could be in default of those debts 
+for example  if we do not make timely payments  the notes could be declared immediately due and payable 
+our substantial leverage could also increase our vulnerability to adverse economic and industry conditions because it makes it more difficult for us to raise capital if needed 
+in addition  any changes in accounting rules regarding our operating leases and built to suit facilities may affect our debt levels and operating expenses in the future 
+we may not be able to protect our proprietary information we rely on a combination of copyright  patent  trademark and trade secret laws  confidentiality procedures  contractual provisions and other measures to protect our proprietary information 
+all of these measures afford only limited protection 
+these measures may be invalidated  circumvented or challenged  and others may develop technologies or processes that are similar or superior to our technology 
+we may not have the proprietary information controls and procedures in place that we need to protect our proprietary information adequately 
+in addition  because we license the source code for some of our products to third parties  there is a higher likelihood of misappropriation or other misuse of our intellectual property 
+we also license some of our products under shrink wrap license agreements that are not signed by licensees and therefore may be unenforceable under the laws of some jurisdictions 
+despite our efforts to protect our proprietary rights  unauthorized parties may attempt to copy our products or to obtain or use information that we regard as proprietary 
+third parties may claim that we infringe their proprietary rights we may from time to time receive claims that we have infringed the intellectual property rights of others 
+as the number of products in the software industry increases and the functionality of these products further overlap  we believe that we may become increasingly subject to infringement claims  including patent and copyright infringement claims 
+we have received several trademark claims in the past and may receive more claims in the future based on the name veritas  which is a word commonly used in trade names throughout europe and the western hemisphere 
+in addition  former employers of our former  current or future employees may assert claims that such employees have improperly disclosed to us the confidential or proprietary information of these former employers 
+any such claim  with or without merit  could be time consuming to defend  result in costly litigation  divert management s attention from our core business  require us to stop selling  to delay shipping or to redesign our product  and require us to pay monetary amounts as damages  for royalty or licensing arrangements  or to satisfy indemnification obligations that we have with some of our customers 
+in addition  we license and use software from third parties in our business 
+these third party software licenses may not continue to be available to us on acceptable terms 
+also  these third parties may from time to time receive claims that they have infringed the intellectual property rights of others  including patent and copyright infringement claims  which may affect our ability to continue licensing this software 
+our inability to use any of this third party software could result in shipment delays or other disruptions in our business  which could materially and adversely affect our operating results 
+we might experience significant defects in our products software products frequently contain errors or failures  especially when first introduced or when new versions are released 
+we might experience significant errors or failures in our products  or they might not work with other hardware or software as expected  which could delay the development or release of new products or new versions of products  or which could adversely affect market acceptance of our products 
+our end user customers use our products for applications that are critical to their businesses  and they have a greater sensitivity to product defects than the market for software products generally 
+if we were to experience significant delays in the release of new products or new versions of products  or if customers were dissatisfied with product functionality or performance  we could lose revenue or be subject to liability for service or warranty costs  and our business and operating results could be adversely affected 
+natural disasters or power outages could disrupt our business we must protect our business and our network infrastructure against damage from earthquake  flood  hurricane and similar events  as well as from power outages 
+many of our operations are subject to these risks  particularly our operations located in california 
+we have already experienced temporary power losses in our california facilities due to power shortages that have disrupted our operations  and we may in the future experience additional power losses that could disrupt our operations 
+while the impact to our business and operating results has not been material  we cannot assure you that power losses will not adversely affect our business in the future  or that the cost of acquiring sufficient power to run our business will not increase significantly 
+a natural disaster or other unanticipated problem could adversely effect our business  including both our primary data center and other internal operations and our ability to communicate with our customers or sell our products over the internet 
+some provisions in our charter documents may prevent or deter certain corporate actions some of the provisions in our charter documents may deter or prevent certain corporate actions  such as a merger  tender offer or proxy contest  which could affect the market value of our securities 
+these provisions include our board of directors is authorized to issue preferred stock with any rights it may determine  our board of directors is classified into three groups  with each group of directors to hold office for three years  our stockholders are not entitled to cumulate votes for directors and may not take any action by written consent without a meeting  and special meetings of our stockholders may be called only by our board of directors  by the chairman of the board or by our chief executive officer  and may not be called by our stockholders 
+we also have in place a stockholder rights plan that is designed to discourage coercive takeover offers 
+our stock price may be volatile in the future  and you could lose the value of your investment the market price of our common stock has experienced significant fluctuations and may continue to fluctuate significantly  and you could lose the value of your investment 
+the market price of our common stock may be adversely affected by a number of factors  including announcements of our quarterly operating results or those of our competitors or our original equipment manufacturer customers  changes in earnings estimates by securities analysts  announcements of planned acquisitions by us or by our competitors  the gain or loss of a significant customer  announcements of new products by us  our competitors or our original equipment manufacturer customers  and slowdowns in the economy generally 
+the stock market in general  and the market prices of stocks of other technology companies in particular  have experienced extreme price volatility  which has adversely affected and may continue to adversely affect the market price of our common stock for reasons unrelated to our business or operating results 
+item a 
+quantitative and qualitative disclosures about market risk foreign currency risk we transact business in various foreign currencies and we have established a foreign currency hedging program  utilizing foreign currency forward exchange contracts forward contracts to hedge certain foreign currency transaction exposures 
+under this program  increases or decreases in our foreign currency transactions are offset by gains and losses on the forward contracts  so as to mitigate the possibility of foreign currency transaction gains and losses 
+we do not use forward contracts for speculative or trading purposes 
+all foreign currency transactions and all outstanding forward contracts are marked to market at the end of the period with unrealized gains and losses included in other income expense 
+the unrealized gain loss on the outstanding forward contracts at december  was immaterial to our consolidated financial statements 
+our outstanding forward contracts as of december  are presented in the table below 
+all forward contract amounts are representative of the expected payments to be made under these instruments 
+all forward contracts mature in days or less as of december  dollars in thousands fair market value local currency at december  contract amount contract amount us contracts to buy us australian dollar  aud usd british pound  gbp  usd euro  eur  usd contracts to sell us brazilian reals brl usd japanese yen  jpy  usd contracts to buy euro australian dollar  aud  eur british pound  gbp  eur japanese yen  jpy  eur swiss franc  chf  eur in september  we entered into a three year cross currency interest rate swap transaction swap for the purpose of hedging fixed interest rate  foreign currency denominated cash flows under an inter company loan receivable 
+under the terms of this derivative financial instrument  euro denominated fixed principal and interest payments to be received under the inter company loan will be swapped for us dollar fixed principal and interest payments 
+as a december   monthly payments of million remained to be swapped at a forward exchange rate of us dollar per euro 
+the fair market value of the swap at december  was million 
+as a result of entering into the swap  we have mitigated our exposure to foreign currency exchange rate fluctuations 
+the gains or losses on the foreign currency loan receivable will be offset by the gains or losses on the swap 
+because we are receiving fixed interest payments under the swap  we are still subject to fluctuations in value due to changes in us dollar interest rates 
+as of december  the impact of these fluctuations was not significant 
+this hedge was deemed to be perfectly effective as of december  interest rate risk we are exposed to interest rate risk primarily on our investment portfolio and long term debt obligations 
+our primary investment objective is to preserve principal while at the same time maximizing yields without significantly increasing risk 
+our portfolio includes money markets funds  commercial paper  medium term notes  corporate notes  government agency securities taxable and non taxable  asset backed securities and market auction preferreds 
+the diversity of our portfolio helps us to achieve our investment objective 
+long term debt of million consists of our notes of million and our notes of million 
+the interest rate of on the notes together with the accrual of original issue discount represent a yield to maturity of 
+the nominal interest rate on these notes is fixed and the notes provide for semi annual interest payments of approximately million each may and november for the notes and approximately million each february and august for the notes 
+the notes are convertible into our common stock at any time prior to the close of business on the maturity date  unless previously redeemed or repurchased  subject to adjustment in certain events 
+the following table presents the amounts of our cash equivalents  investments and long term debt  according to maturity date  that may be subject to interest rate risk and the average interest rates as of december  by year of maturity dollars in thousands amortized amortized cost fair value cost and thereafter cash equivalents and short term investments fixed rate average fixed rate variable rate average variable rate total cash equivalents and short term investments investments average rate long term investments fixed rate average fixed rate long term debt fixed rate average fixed rate equity price risk we are exposed to equity price risk on the marketable portion of our portfolio of equity securities investments 
+we typically do not attempt to reduce or eliminate our market exposure on these equity securities 
+these investments are in companies in the high technology industry 
+as of december   we held one marketable equity security  representing a total market value of million 
+assuming a adverse change  our marketable equity securities investments would decrease in value by approximately million 
+if our marketable equity security investments as of december  had been valued using prices as of march   the value of these securities would have decreased by approximately million  or 
+this estimate is not necessarily indicative of future performance and actual results may differ materially 
+we also made investments in development stage companies that we believe provide strategic opportunities for us 
+we intend that these investments will provide access to new technologies and emerging markets  and create opportunities for additional sales of our products and services 
+during the third quarter of  we recognized impairment losses of million on our strategic investments when we determined that there had been a decline in the fair value of the investment that was other than temporary 
+the losses represented write downs of the carrying amount of our investments and were determined by using  among other factors  an investee s significant decline in stock value  its inability to obtain additional private financing  and the uncertainty of its financial conditions 
+we cannot assure you that our investments will have the above mentioned results  or even that we will not lose all or any part of these investments 
+

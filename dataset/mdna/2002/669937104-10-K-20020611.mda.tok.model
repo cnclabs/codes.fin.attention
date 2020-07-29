@@ -1,0 +1,598 @@
+item management s discussion and analysis of financial condition and results of operations risk factors for a description of these and other risks  uncertainties and factors 
+you should not place undue reliance on any forward looking statements 
+we undertake no obligation to publicly update or revise any forward looking statements  whether as a result of new information  future events  changed circumstances or any other reason after the date of this annual report on form k 
+part i item business the following discussion contains forward looking statements that are subject to risks  uncertainties and other factors  including those discussed under item management s discussion and analysis of financial condition and results of operations risk factors that could cause our actual results  performance  prospects or opportunities to differ materially from those expressed in  or implied by  these forward looking statements 
+see cautionary note regarding forward looking statements 
+all references in this annual report on form k to we  us  our  novadigm and the company refer to novadigm  inc and its subsidiaries 
+overview we develop and market software that automates configuration and change management of digital assets for enterprise information technology it organizations  service providers  outsourcers and software content providers 
+by automating the management of digital assets  our customers can provide their employees  partners  and customers with software enabled services quickly and reliably at reduced costs 
+our adaptive management solutions enable enterprises to manage the discovery  inventory  packaging  deployment  configuration  repair  update and removal of digital assets software and content on computing devices such as servers  desktops  laptops  pdas  automated teller machines  point of sale terminals and internet kiosks 
+our suite of integrated products  built with our proprietary e wrap technology  work seamlessly together as the only end to end solution that can efficiently  reliably and scalably manage the full range of today s software and content  running on a wide range of computing devices  personalized for one individual or millions of users  across virtually any network 
+our products utilize our e wrap technology with its unique desired state process to automate the deployment and management of software and content across complex environments ensuring that the right software components are always available to the right users at the right time  without requiring administrative or user intervention 
+e wrap technology s patented fractional differencing technique deploys only the minimal software and content items necessary for updates and corrections  minimizing network impact and speeding delivery 
+in addition  e wrap technology utilizes a dynamic  policy driven management approach  which leverages enterprise directory services and databases to govern the provisioning and ongoing management of software and content 
+with our e wrap technology solutions  it professionals  software vendors and service providers can manage digital assets with policy based capabilities that enable adaptive configuration and change manage 
+table of contents ment of individual applications or entire portfolios of software and content throughout the extended supply chain of publishers  service providers  enterprise it and users or subscribers 
+our customers include leading public and commercial global enterprises  enterprise outsourcers and service providers around the world in a wide variety of industry sectors  such as lockheed martin corporation in aerospace  american honda motor co  inc in automotive  keybank national association in banking  ppg industries  inc in chemicals  pitney bowes inc 
+in computer hardware  national semiconductor corporation in electronics  schlumberger oilfield services in energy  fluor corporation in engineering construction  cargill  incorporated in food agricultural services  the us navy and marine corps in government  kindred healthcare  inc in healthcare  the prudential insurance company of america in insurance  owens illinois  inc in manufacturing  reuters limited in media  schering plough corporation in pharmaceutical  cap gemini ernst young in professional services  the gap  inc  in retail  british telecommunications plc 
+in telecommunications  jb hunt transportation services  inc in transportation and keyspan corporation in utilities 
+background our target market includes large and medium size enterprises  government organizations and service providers with numerous user communities  such as corporate employees and remote mobile users  as well as customers  partners  suppliers and consumers beyond the corporate firewall 
+our target prospects in this market face the challenges of offering software enabled services  while reducing costs and maintaining high availability and reliability of digital assets on thousands to hundreds of thousands of computing devices  across heterogeneous environments and networks 
+we are involved in markets that are variously called software management  device management  desktop and server management  asset management and configuration and change management 
+gartner dataquest estimates the core markets of desktop management  software distribution  help desk  problem management  asset management and change management will grow from b in to b in  almost a cagr 
+we also serve growth markets where change and configuration management provides significant value  including automated teller machines  point of sale  internet kiosks  telecom and other specialty devices 
+demand for our solutions is fueled by two major information technology trends enterprise it expansion 
+one of the key changes underway in the enterprise is its transformation from a firewall enclosed environment into an extended enterprise that is reaching out to a rapidly growing population of remote mobile users as well as partners and customers via the internet 
+enterprises and government agencies are providing new e services requiring the provisioning of applications and content as part of new software enabled services for internal and external customers 
+enterprise it management evolution 
+the ongoing evolution and adoption of information technologies within the enterprise such as new operating system platforms  directory technologies  business applications and intranets  present significant management challenges 
+for example  migrations to the windows xp platform includes a complete and continuous rollout of operating system and service packs  systems management and application packaging tools  directory server software  as well as new applications and upgrades from software providers 
+the novadigm solution we provide unique configuration and change management solutions that automatically adapt to meet the demands of rapidly changing and increasingly complex it infrastructures 
+with our automated  adaptive management solutions it organizations and service providers can offer a range of services from personalized software for individual end users to configuring software enabled services on web servers handling millions of personalized transactions 
+the following highlights the distinctive capabilities of novadigm s solutions automation of the packaging  configuration analysis  discovery  targeting  deployment  updating  repair and removal of the full range of today s software and content  including shrink wrapped and custom 
+table of contents built applications written in any language or composed of any type of distributed component  virus protection files  operating systems  registry keys  icons  embedded links  digital information  graphics  and full motion video across virtually any kind of network using a variety of protocols  including existing enterprise lans  wans  vans  intranets  extranets and the internet  as well as wireless networks and utilizing a variety of authentication and security techniques to the widest range of enterprise computing devices  including pcs  unix workstations  apple macintosh s and mobile devices  file  application and web servers  automated teller machines  point of sale terminals and internet kiosks 
+we believe that our solutions meet the requirements of today s enterprises and service providers for solutions that automate the end to end lifecycle management process for software  content and other digital assets across large scale networks 
+in addition  we believe that our solutions meet the requirements of enterprises transforming to new business models such as providing financial services to customers over the web  or migrating corporate it infrastructures to new operating platforms such as microsoft windows xp 
+we believe that our customer implementations have proven our solutions to be cost effective  scalable to hundreds of thousands of users  able to reliably deploy software and content  and highly adaptable to each customer s applications  user audiences and computing platforms 
+we also believe that our policy driven solutions support the dynamic and rapidly changing requirements of the customer s business 
+technology our products enterprise desktop manager edm and the radia suite of products share a common e wrap technology architecture and desired state automation approach that automatically determines which software and content components are required for each individual user at the time of a configuration update 
+the following are key attributes of our e wrap technology desired state automation 
+our desired state approach discovers the actual state of each device and or user s software  configuration and content and compares this in real time with its desired state 
+if there is a difference between the two  our differencing technology automatically determines the precise component level changes that are required and sends only those changes to the user s computer 
+using this approach  we believe that components are deployed and updated significantly faster  more efficiently  and with higher levels of reliability  adaptability and scalability than conventional non desired state products 
+adaptive configuration management 
+our e wrap technology can automatically configure software packages and content for highly personalized user environments and install them as dictated by administrative policies or user preferences 
+as program versions  user environments and preferences change  the affected user s actual state is automatically differenced and reconfigured to correspond to the desired state of operation  thus eliminating the need for manual user or administrator involvement 
+policy based management 
+our products use policy based access models to allow it administrators to efficiently and concisely define entitlements controlling the deployment of software and content to authorized users or subscribers 
+for example  within the enterprise  an it administrator may implement a policy permitting access to certain financial databases only to a selected workgroup within an organization s finance department 
+in an e commerce environment  subscribers would be automatically provided with software and content based on their entitlement in the customer database  without any additional activity required by an administrator 
+subsequent changes to policies and entitlements cause software and content to be automatically installed  changed or de installed for all affected users  again without any administrator intervention 
+this seamless integration between changing entitlements and automated provisioning is essential to meeting the personalized needs of users and subscribers in large scale enterprise and e business environments 
+
+table of contents bandwidth optimization 
+e wrap technology optimizes the use of network resources through comprehensive bandwidth management capabilities  which include multicasting  bandwidth throttling  configuration and component differencing  compression  and distributed caching 
+our differencing processes calculate the precise changes needed to bring the software or content into its desired state  assuring a minimum of network traffic and wait time for bandwidth constrained networks 
+rapid deployment and ease of use 
+in addition to the shared architecture of our product suite  the flexible nature of its distributed object technology  and the ease of defining desired state  e wrap technology includes a variety of capabilities to ensure rapid deployment of complete software and content management solutions 
+once installed  our solutions can be operated by a very small team of administrators to rapidly deploy and automatically manage large numbers of software and content 
+we believe that our e wrap technology solutions establish a new standard for adaptive configuration and change management  and provide its customers with the most effective means for managing the next generation of e business applications and digital content  over both enterprise networks and the internet 
+our unique technology completely automates the deployment and ongoing change management requirements of distributed software and content  ensures the necessary scalability to support the high and growing numbers of computing devices  and significantly reduces costs by eliminating manual installation and administration 
+we believe that these advancements result in faster deployments  lower total cost of ownership tco  and higher levels of personalization  reliability  scalability  and auditability  which are key competitive factors for enterprises today and in the future 
+architecture our e wrap technology provides the entire novadigm product suite with a shared set of foundation components  which are installed in varying combinations in customer and provider networks 
+these components consist of management servers 
+server based components containing a distributed multi domain object repository that synchronizes distributed objects application components  computer configurations  policy relationships across the network 
+multiple management servers may be deployed in n tier configurations across enterprise and internet networks as desired to support large numbers of users and large volumes of software and content  to optimize limited network connections  and to allow for distributed administration 
+managed clients 
+lightweight components resident on managed computing devices that communicate with our management servers to identify  obtain  install  repair and delete software or content 
+operating as an extension of standard pc or internet operating environments  the managed client automatically discovers current managed computer contents and synchronizes application versions with new or updated configurations residing on the management server 
+administrators 
+components resident on the administrator s desktop used to manage the object repository and the engine 
+the administrator component contains a variety of graphical tools and utility programs used by customer administrators and technical staff to publish software and content components  specify policies and entitlements for users and control the overall operation of the management servers and managed client components 
+these foundation components can be distributed across a variety of computing platforms component platforms management servers windows xp   and nt  aix  hp ux  mvs  solaris  novell  os  linux managed clients windows xp   nt     os  aix  hp ux  solaris  novell  macintosh  ncr gis  sgi irix  sco  linux communication between components is supported through a variety of protocols  including tcp ip  http  sna  ipx  and netbios 
+
+table of contents integration another key capability of our e wrap technology is that it can be easily extended by us  our customers and partners  without programming  to manage any customer defined or industry standard software component including c  c  visual basic  java  activex  corba  component object model  and javascript or content format such as registry directory  hypertext mark up language  extensible mark up language  multi media  full motion video and animation 
+the benefit of this approach is that it enables us and our customers and partners to quickly deploy emerging technologies and manage rapidly proliferating kinds of software and content across diverse and evolving platforms 
+specialized management extensions and adapters offer our product integration capability with third party products without requiring special application programming interfaces or third party vendor coding 
+we currently provide a variety of management extensions and adapters including network systems management frameworks 
+our software and content management capabilities are integrated directly with the event  security and performance management environments of hewlett packard company s hewlett packard hp openview  microsoft corporation s microsoft microsoft operations management mom  international business machines corporation ibm tivoli systems tivoli management framework and the tivoli enterprise console and computer associates international  inc s computer associates ca unicenter 
+security and policy entitlement 
+our policy management environment integrates with lightweight directory access protocol ldap based directory servers  such as microsoft active directory  novell inc s novell nds and other vendor ldap servers  as well as with microsoft nt domain manager  computer associates acf and top secret  and oracle corporation oracle  sybase  inc sybase and microsoft sql based databases  to enable single source points of control for user authentication  access policies and subscriber entitlement 
+problem help desk management 
+our dynamic change and configuration management facilities are integrated with problem management environments such as peregrine systems  inc s remedy ar system to integrate problem tracking and inventory discovery data 
+custom built application management 
+configuration management models for custom software developed in house using rational software corporation s clearcase and merant plc 
+s pvcs are integrated directly into the distribution process  enabling changes in all phases of application development to be synchronized with deployment across pilot groups and throughout the entire enterprise once development is complete 
+application deployment packaging and component analysis 
+our extensive packaging capabilities encompass native unix and windows packages in addition to integrating with packaging tools such as wise solutions  inc s package studio 
+component analysis can be performed on radia and rd party produced packages to detect  analyze and avoid potential conflicts among radia managed applications before they are deployed throughout the enterprise 
+os imaging and migration 
+our comprehensive configuration and change management capabilities include large scale automation of the os migration process and rapid provisioning of servers  desktops  laptops and other devices through seamless integration with leading os imaging and personality migration tools 
+products our products  built upon our core e wrap technology foundation  provide the extended enterprise with an integrated configuration and change management solution that covers the extended enterprise software and content management needs such as inventory of target configurations and pre deployment impact analysis 
+package msi microsoft windows installer and non msi applications eg unix applications 
+
+table of contents deploy software and content across enterprise networks 
+manage software and content and continuously configure desktop  server  mobile and remote devices automatically 
+distribute shrink wrap software packages over the web and enable self service web servers to install  update and maintain software as a service subscriptions 
+embed just in time management into new extranet and commerce based services  allowing services to be configured in real time and to synchronize components with the latest system updates 
+our core adaptive management applications the radia application manager  radia software manager  radia inventory manager and enterprise desktop manager are available individually  with a variety of optional add on components  or combined in solution suites for server management  desktop management  mobile management and e commerce terminal management 
+we believe our solutions address the unique configuration and change management requirements of desktops  laptops  servers  handheld and specialty devices for the entire extended enterprise 
+radia application manager a change and configuration management tool that enables enterprise it organizations and service providers to deploy self managing software to employees  affiliates  partners and customers over wired and wireless networks without user or administrator intervention 
+administrators control deployments  updates  repairs and removals through policy based entitlements 
+radia software manager a change and configuration management tool that enables enterprise it organizations and service providers to offer self service software and content management over wired and wireless networks 
+administrators control access to software and content through policy based entitlements  while users can download  update  and repair software and content through a self service web based catalog 
+radia inventory manager a policy driven  digital asset discovery and reporting tool that automatically gathers information about software and hardware configurations for computing devices anywhere in the extended enterprise and consolidates the results into web based reports 
+enterprise desktop manager a change and configuration management tool that enables it organizations to centrally manage infrastructure  productivity and application software and content within enterprise wan and lan networks and across dialup remote connections 
+during fiscal we released eleven new or enhanced radia product components 
+at the end of fiscal the radia product family consisted of a total of twenty two product components 
+we expect to continue to release new and enhanced radia product components going forward 
+our future success will depend in large part on our ability to develop and introduce new products that keep pace with technological developments  achieve market acceptance and respond to constantly evolving customer requirements 
+any failure by us to anticipate or respond adequately to technological developments and customer requirements  or any significant delays in product development or introduction  could result in a loss of competitiveness and could materially and adversely affect our operating results 
+there can be no assurance that any of the new products we plan to introduce will in fact be completed  or completed on time  or ultimately brought to market  or if brought to market  gain market acceptance 
+customers and applications our principal customers include enterprises and organizations with widely deployed and heterogeneous networks 
+as of march   our products had been licensed directly by us or through distributors to more than customers worldwide 
+our products manage a broad range of software and content for its customers  including business critical applications such as enterprise resource planning erp software from sap ag  oracle  and peoplesoft  inc and sales force automation software from companies such as siebel systems  inc  digital content found on new e commerce terminals such as automated teller machines  internet kiosks and point of sale terminals including full motion video and animation  e business e commerce applications from broadvision  inc and 
+table of contents commerce one  personal productivity tools  browsers  virus checkers and utilities such as those from microsoft  netscape communications corp  lotus development corporation  network associates  inc and symantec corporation  and just in time applications including applets  supply chain systems  and e commerce sales interfaces for web based consumers 
+our customers also use our products to facilitate upgrades of operating systems and or migrations to new operating systems such as microsoft windows xp  as well as to deploy patches to help ensure existing software is virus inoculated 
+during and  one customer  electronic data systems corporation eds  accounted for approximately and  respectively  of our total revenues 
+during  one customer  amdahl corporation amdahl  accounted for approximately of total revenues 
+the novadigm strategy our objective is to expand our position as a leading provider of change and configuration management solutions for the extended enterprise 
+key components of our strategy include maintaining technology leadership 
+we believe that our unique e wrap technology with desired state automation and patented fractional differencing technologies together with its integrated product set and broad platform coverage distinguish its solutions from those of other vendors 
+we will continue to develop enhancements to existing products as well as new products that are responsive to the configuration and change management needs of the marketplace  thereby extending our coverage  market reach and business opportunities 
+increasing market share 
+our current customer base is comprised of over public and private sector customers around the world 
+our strategy is to continue to increase our customer base and market share by exploiting our competitive technology strengths  continuing to expand our sales and marketing channels in the mid sized and large enterprise marketplace  and developing additional selling channels and partnerships where appropriate 
+expanding customer relationships 
+we believe that our value in meeting the needs of its growing customer base  together with the broad range of adaptive configuration and change management capabilities in its integrated product line  positions it to be a provider of strategic solutions to its customers as they evolve and extend their enterprise it infrastructures 
+our strategy is to expand our relationships and licenses with existing customers by providing additional technology solutions which meet their needs 
+sales  marketing and channels we market our software and services through our direct sales force and indirect channel partners worldwide 
+in the us  we manage sales activities from our offices in mahwah  new jersey  emeryville  california  and chicago  illinois  and in europe from our offices located near paris  france  london  england  and munich  germany 
+for fiscal  revenues from direct and indirect sales accounted for and  respectively  of total revenues  and revenues from north america and international sales accounted for and  respectively  of total revenues 
+our marketing activities are designed to build market awareness  generate qualified leads  and to supply sales channels with positioning  presentation materials  and product collateral to help generate and develop qualified customer prospects 
+our direct sales organization is divided into specialized teams of pre sales specialists  account managers and implementation consultants that work together to provide an integrated selling approach to the customer 
+our indirect channels are based on business arrangements with value added resellers vars  systems integrators  outsourcers and distributors which are selected and trained by us to provide marketing  sales  post sales support and services for our products 
+we also maintain a network of service providers worldwide who offer our customers complementary services to accelerate their implementations 
+these business arrangements are also useful to us in identifying new products and product enhancements that are responsive to customer and market requirements 
+we believe that we have been successful in minimizing marketing conflicts between our worldwide direct and indirect sales channels 
+
+table of contents we participate in the beta programs and partnering programs of the industry s market leaders  including hewlett packard  microsoft  silicon graphics  inc  compaq computer corporation and ibm 
+we intend to continue to expand these technology  marketing and selling relationships 
+in june  we entered into a strategic alliance with hewlett packard to integrate  market and sell our software and content management products with hewlett packard s hp openview management solutions for the enterprise and service provider markets 
+as part of the strategic alliance hewlett packard became an equity owner of us acquiring  shares of our common stock and a warrant for an additional  shares of common stock 
+in addition to the alliance agreement  we have integrated and jointly market our products with hewlett packard and provide customers the opportunity to replace hewlett packard s desktop and server inventory  distribution and application management products with our radia products and services see part i  item management s discussion and analysis of financial condition and results of operations 
+customer service and support to facilitate implementation and integration of its products  we offer a range of support programs and services that complement our products 
+customer support and product maintenance 
+customers who subscribe to our fee based maintenance program have access to our technical support facilities hours a day  seven days a week via our internet site  electronic mail and facsimile lines and are entitled to receive software updates  maintenance releases and documentation for an annual maintenance fee 
+our technical support center located in north america provides routine support am am est monday through friday holidays excepted and emergency support hours a day  seven days a week to customers worldwide 
+our technical support center located in europe provides routine support am am cet 
+consulting 
+our professional services organization in the united states  canada  great britain  france and germany and a growing number of novadigm certified service providers located throughout the world are available to consult with customers on project planning and systems implementation and integration 
+consulting services are typically billed on a time and materials basis 
+education 
+we offer regional and on site training courses for the implementation and administration of our products 
+product training is provided on a scheduled basis at our corporate training facilities in mahwah  new jersey  and in our regional offices in paris  london and munich  as well as at customer sites throughout the world 
+we also offer custom course development for certain of our products 
+we bill our education services on a per class and per student basis 
+revenues from maintenance and services accounted for of fiscal total revenues 
+product development since our inception  we have focused on  and made substantial investments in  product development 
+in fiscal  our total research and development expenses were approximately million 
+to date  we have not capitalized any software development costs 
+we anticipate that we will continue to commit substantial resources to research and development  believing that its future success depends in large part on its ability to maintain and enhance the functionality of its current line of products and to develop and introduce new products that keep pace with technological developments  achieve market acceptance and respond to an ever expanding range of customer requirements 
+we intend to enhance our existing product offerings and to introduce new products for the enterprise software and configuration management market 
+although we expect to develop certain of our new products and product enhancements internally  we may acquire technology and or products from third parties or consultants when considerations of time or cost dictate 
+if the next release of the radia products  or any potential new products and enhancements do not achieve market acceptance  or if for technological or other reasons we are unable to develop  introduce and sell our 
+table of contents products in a timely manner  our business  financial condition and results of operations will be materially and adversely affected 
+competition competition in the markets we serve is diverse and rapidly changing 
+while a variety of vendors have offered some form of software distribution  asset management  infrastructure management or similar solutions with their offerings  our closest competitors today fall into the categories below framework sd vendors 
+these competitors include ibm tivoli software and computer associates who offer software distribution tools as part of their enterprise frameworks 
+we compete against the specific software distribution tools offered with their frameworks 
+desktop management suite vendors 
+these competitors include vendors such as microsoft and intel corporation  who offer software distribution tools as part of a desktop administration package 
+software distribution vendors 
+these competitors include companies such as altiris  inc  marimba  inc 
+and on technology corporation in the desktop and server market segment  and  in the mobile market segment  xcellenet  inc we believe that we compete effectively with all of these vendors in our target market on the basis of our proven end to end solution and broader product line for software and content management 
+additionally  we believe our other technology and business differentiators include comprehensive features functions  patented technologies including fractional differencing  desired state automation and adaptive configuration management  broader platform coverage and support for industry standards  higher product implementation success rates  extensive implementation and support services  and broader sales channels 
+we differentiate our products in the market based on customer results that have proven our solutions are capable of end to end deployment and management of software and content faster  across larger and more diverse environments  with higher reliability and greater adaptability than other similar products 
+however  there can be no assurance that we will be able to continue to compete effectively in the software management market or that our profitability or financial performance will not be adversely affected by increased competition 
+many of our competitors have longer operating histories  and many have significantly greater financial  technical  sales  marketing and other resources  as well as greater name recognition and larger customer installed bases 
+moreover  there can be no assurance that either existing or new competitors will not develop products that are superior to our products or other technologies offering significant advantages over our technology  which could have a material adverse effect on our business  financial condition and results of operation 
+intellectual property and other proprietary rights in december and in september  we were issued patents from the us patent office for key components of its desired state management process used in our software and content management products 
+there can be no assurance that we will develop additional proprietary technologies that are patentable  that any issued patent will provide us with any competitive advantages or will not be challenged by third parties  or that the patents of others will not have an adverse effect on our ability to do business 
+moreover  there can be no assurance that protective measures taken by us will prevent misappropriation of our proprietary technology  and such measures may not preclude competitors from developing products with features similar to those of our products 
+furthermore  effective copyright and trade secret protection may be limited or unavailable under the laws of certain foreign jurisdictions 
+we also rely on a combination of copyright and trademark laws  trade secrets  confidentiality procedures  contractual provisions and technical measures to protect our proprietary rights in our products 
+although we believe that our products and trademarks do not infringe upon the proprietary rights of third parties  there can be no assurance that third parties will not assert infringement claims against us with respect to current or future products 
+any such claims  whether with or without merit  could be time consuming  result in costly litigation  cause product shipment delays or require us to enter into royalty or license 
+table of contents agreements  provided such agreements were available on reasonable terms or at all 
+see part i  item legal proceedings 
+defense of any lawsuit or failure to obtain any required license could have a material  adverse effect on our business  operating results and financial condition 
+we believe  however  that given the rapid pace of technological change in the industry  factors such as the technical expertise  knowledge and innovative skill of our management and technical personnel  our name recognition  the timeliness and quality of the support services we provide and our ability to offer frequent product enhancements and to develop  introduce and market new products are more significant in maintaining our competitive technology leadership position 
+employees as of march   we had a total of full time employees  including in customer support and services  in product development  in sales and marketing and in general and administration 
+a total of employees are based in the united states and employees are based in europe 
+none of our employees are represented by a labor union 
+we have not experienced work stoppages and consider our relations with employees to be good 
+executive officers of the registrant our executive officers are as follows name age position officer since albion j 
+fitzgerald chairman of the board and chief executive officer gerald m 
+labie president  chief operating officer and director robert b 
+anderson executive vice president  secretary and director joseph j 
+fitzgerald vice president  chief technology officer wallace d 
+ruiz vice president  treasurer and chief financial officer albion j 
+fitzgerald co founded novadigm in february and has served as chairman since that time 
+he has also been the chief executive officer since mr 
+fitzgerald has previously served as chief technology officer and president 
+in may  mr 
+fitzgerald founded fitzgerald associates  novadigm s predecessor  and served as the chief architect in the development of the desired state management and fractional differencing technologies that are the basis for all novadigm products 
+gerald m 
+labie joined novadigm in april as president and chief operating officer 
+in september  mr 
+labie became a director 
+from until joining novadigm  mr 
+labie was a partner with core strategies  inc  a market development firm serving it organizations 
+from to the time he joined core strategies  mr 
+labie was employed at tech data corporation  a worldwide provider of it products and services 
+mr 
+labie initially served as president and managing director of tech data s european operations and later as senior vice president of marketing 
+robert b 
+anderson joined novadigm in june as vice president  chief financial officer  secretary and as a director 
+he currently serves as executive vice president of european operations  secretary and as a director 
+joseph j 
+fitzgerald co founded novadigm in february since that time he has served as director of development  vice president of development and as of may as chief technology officer 
+mr 
+fitzgerald is the brother of albion fitzgerald 
+wallace d 
+ruiz joined novadigm in may as vice president  treasurer and chief financial officer 
+mr 
+ruiz is a certified public accountant 
+mr 
+ruiz is the brother in law of albion fitzgerald 
+
+table of contents item properties our corporate headquarters is located in mahwah  new jersey 
+we conduct our americas  asia and australia operations aaa principally out of leased facilities in mahwah  chicago  illinois and emeryville  california 
+we occupy approximately  square feet at our mahwah facilities  principally for product development  customer training and support  east coast sales and technical support and general administration  approximately  square feet at our emeryville facility principally for marketing and west coast sales and technical support  and approximately  square feet at our chicago facility principally for midwest sales and technical support 
+our european headquarters is located outside of paris  france  where we conduct our europe  middle east and africa emea operations 
+our leased facility in france is comprised of approximately  square feet and is used principally for training and telephone support of our european customers  sales and technical support of our french customers and administrative support to our european operations 
+we also have leased sales and technical support offices near london  england approximately  square feet and near munich  germany approximately  square feet 
+we believe that our current facilities are adequate for our needs and will be adequate to meet our needs for the foreseeable future 
+item legal proceedings on july   beck systems  inc filed a complaint against us and two of our customers in the united states district court for the northern district of illinois  alleging infringement of two patents held by beck systems 
+beck systems alleges that our infringement relates to the manufacture and marketing of our edm and radia products 
+beck systems seeks an injunction and damages 
+we intend to defend this suit vigorously 
+however  due to the inherent uncertainties of litigation  we cannot accurately predict the ultimate outcome of this litigation  particularly in cases such as this where sophisticated factual issues must be assessed and complex technical issues must be decided 
+any unfavorable outcome of this litigation could have a material adverse impact on our business  financial condition and results of operations 
+on december   we announced we were required to pay an arbitration award arising out of a dispute related to an employment agreement between us and a former executive 
+subsequently we settled the dispute for a total of million including reimbursement of fees and recorded such amount as a one time charge to our results of operations in the quarter ended december  item submission of matters to a vote of securities holders we did not submit any matter to a vote of our security holders during the quarter ended march  
+table of contents part ii item market for the registrant s common stock and related stockholder matters our common stock has been traded on the nasdaq national market since our initial public offering on july  under the nasdaq symbol nvdm 
+the following table sets forth  for the periods indicated  the high and low sales prices for our common stock as reported by nasdaq high low fiscal year ended march  first quarter second quarter third quarter fourth quarter fiscal year ended march  first quarter second quarter third quarter fourth quarter as of may   the last reported sale price of our common stock was per share and there were approximately holders of record of our common stock 
+we believe there are approximately  beneficial owners of our common stock 
+we have never paid cash dividends on our common stock 
+we currently intend to retain earnings  if any  for use in our business and we do not anticipate paying any cash dividends in the foreseeable future 
+the following table provides information as of march  related to our equity compensation plans in effect at that time number of securities number of securities weighted average remaining available to be issued upon exercise exercise price of for future issuance of outstanding options  outstanding options  under equity plan category warrants and rights warrants and rights compensation plans equity compensation plans approved by security holders equity compensation plans not approved by security holders total in october  the board of directors adopted and approved the nonstatutory stock option plan the plan and reserved  shares of common stock for issuance under the plan 
+the board of directors authorized and reserved an additional  shares for issuance under the plan in february  in june and again in august in november  the board of directors authorized and reserved an additional  shares for issuance under the plan 
+neither the plan nor any of the amendments to the plan were submitted to our stockholders for approval 
+the purposes of the plan are to attract and retain the best available personnel for positions of substantial responsibility  to provide additional incentive to employees  new officers  directors and consultants and to promote the success of the our business 
+under the plan  officers and directors are limited to grants at the time of initial service 
+option terms may not exceed ten years from the date of grant and the plan will continue in effect until october  unless terminated sooner 
+as of march    options have been granted pursuant to this plan  net of cancellations 
+
+table of contents item selected financial data you should read the following selected consolidated financial data along with management s discussion and analysis of financial condition and results of operations and our consolidated financial statements and related notes included in this annual report on form k 
+we derived the consolidated statement of operations data for the years ended march   and and the consolidated balance sheet data as of march  and from our consolidated financial statements that have been audited by arthur andersen llp  independent public accountants  included in this annual report on form k 
+we derived the consolidated statement of operations data for the years ended march  and and the consolidated balance sheet data as of march   and from our audited consolidated financial statements that are not included in this annual report on form k 
+novadigm  inc 
+selected consolidated financial data amounts in thousands  except per share amounts year ended march  consolidated statement of operations data revenues licenses maintenance and services total revenues operating expenses cost of maintenance and services sales and marketing research and development general and administrative amortization of intangible assets total operating expenses operating income loss interest income  net other income expense  net income loss before provision benefit for income taxes provision benefit for income taxes net income loss earnings loss per share basic weighted average common shares outstanding basic earnings loss per share diluted weighted average common and common equivalent shares outstanding diluted 
+table of contents as of march  consolidated balance sheet data cash and cash equivalents working capital total assets deferred revenue stockholders equity 
+table of contents item management s discussion and analysis of financial condition and results of operations you should read the following discussion and analysis along with our audited consolidated financial statements and related notes included in this annual report on form k 
+the following discussion and analysis contains forward looking statements that are subject to risks  uncertainties and other factors  including those discussed under item 
+business risk factors  that could cause our actual results  performance  prospects or opportunities to differ materially from those expressed in  or implied by  these forward looking statements 
+see cautionary note regarding forward looking statements 
+overview we are a leading provider of software and configuration management solutions for enterprise and internet computing environments that enable organizations to reduce software management costs  speed time to market  expand marketing channels and open new sources of revenue 
+our principal customers include the information technology it organizations of large and medium size enterprises and government organizations  service providers  outsourcers and software content providers with digital assets on thousands to hundreds of thousands of computing devices  across heterogeneous environments and networks 
+we were incorporated in delaware in february through september  our primary efforts were devoted to product development 
+in october  version of the enterprise desktop manager edm was released for general availability 
+version was released in february  version in june  and the final version  was released in october in november  we released radia software manager  a publisher managed  internet based software and content management solution 
+in november  we announced the general availability of radia version as well as the radia application manager  a subscriber managed  internet based software and content management solution 
+in december  we followed with the release of radia inventory manager  a policy driven  digital asset inventory tool that automatically discovers information about hardware and software  and consolidates the results into web based reports 
+we continue to develop the radia product family  adding new features  applications and platforms 
+in october  radia management suite was released 
+we have three primary sources of revenue 
+license revenue is generated from licensing the rights to use our software products to end users and from sublicense fees from resellers of our software products 
+we generate maintenance revenues from providing renewable support and software update rights to license customers 
+lastly  we earn revenue from consulting and training activities performed for license customers 
+we recognize revenue in accordance with the provisions of statement of position sop no 
+ software revenue recognition as amended by sop critical accounting policies we believe our critical accounting policies to be revenue recognition  allowance for doubtful accounts and valuation allowance against deferred income tax assets 
+revenue recognition 
+as discussed above and in note to the consolidated financial statements  we recognize revenue in all transactions involving the licensing of software products in accordance with the provisions of sop no 
+ software revenue recognition as amended by sop no 
+most of our licensing transactions are on a perpetual basis and revenue is recognized upon shipment of the software if evidence of an arrangement exists  pricing is fixed and determinable  and collectibility is probable 
+shipment of the software is generally performed by the physical delivery of a cd or by electronic delivery of the licensed software 
+evidence of an arrangement generally takes the form of a software license agreement signed by the customer and by us 
+in the case of an existing license customer  additional orders may come in the form of an addendum to the software license agreement  a purchase order  order letter  or similar authorizing document from the customer 
+we evaluate whether the software transaction has a fixed and determinable price 
+a key factor in this evaluation is the payment terms in relation to our experience with the customer or with a similar class of customers 
+generally  software transactions have terms of less than one year and have no unresolved acceptance criteria or similar contingency 
+if an acceptance period is required  revenues are recognized upon 
+table of contents the earlier of customer acceptance or the expiration of the acceptance period 
+we evaluate the probability of collection based upon the creditworthiness of the customer 
+we allocate revenue on software transactions involving multiple elements to each element based on the relative fair values of the elements 
+our software transactions frequently involve multiple elements  most commonly bundled maintenance and services 
+our determination of fair value of each element in multiple element arrangements is based on vendor specific objective evidence vsoe 
+we analyze all of the elements and determine whether we have sufficient vsoe to allocate revenue to maintenance  consulting and training components included in multiple element arrangements 
+accordingly  assuming all other revenue recognition criteria are met  revenue is recognized upon delivery using the residual method in accordance with sop  where the fair value of the undelivered elements is deferred and the remaining portion of the arrangement fee is recognized as revenue 
+the revenue allocated to licenses generally is recognized upon delivery of the products 
+the revenue allocated to maintenance is generally recognized ratably over the term of the support  typically months  and revenue allocated to consulting and training elements generally is recognized as the services are performed 
+if evidence of the fair value for all undelivered elements does not exist  all revenue from the arrangement is deferred until such evidence exists or until all elements are delivered 
+we enter into reseller arrangements that typically provide for sublicense fees payable to us based on a percentage of list price 
+reseller arrangements may include non refundable payments in the form of guaranteed sublicense fees 
+guaranteed sublicense fees from resellers are recognized as revenue upon shipment of the master copy of all software to which the guaranteed sublicense fees relate if the reseller is creditworthy and if the terms of the agreement are such that the payment obligation is not subject to price adjustment  is non cancelable and non refundable and due within days 
+these guaranteed sublicense fees are applied against sublicense fees reported by the reseller in relicensing our products to end users 
+thousand  and million in guaranteed sublicense fees were recognized in  and  respectively 
+as of march   a substantial majority of all such guaranteed sublicense fees recognized by us have been placed with end users or forfeited by the reseller 
+allowance for doubtful account 
+the allowance for doubtful accounts is established for estimated losses resulting from the inability of our customers to pay 
+the allowance is regularly evaluated  by customer and in the aggregate  for adequacy taking into consideration past experience  credit quality  age of the receivable balances  and current economic conditions 
+the use of different estimates or assumptions could produce different allowance balances 
+valuation allowance against deferred income tax assets 
+we recognize deferred tax assets and liabilities based upon differences between the financial statement carrying amounts and the tax bases of assets and liabilities 
+we regularly review the deferred tax assets for recoverability and establish a valuation allowance 
+we provided a valuation allowance of million against our entire net deferred tax asset as of march  this valuation allowance was recorded given the losses we have incurred through march  and the uncertainties regarding our future operating profitability and taxable income  all of which require significant management judgments 
+all period references in the discussion below and in the remainder of item are to fiscal periods based on our fiscal year ending march 
+table of contents results of operations for the periods indicated  the following table sets forth the percentage of total revenues represented by the respective line items in our statements of operations 
+years ended march  revenues licenses maintenance and services total revenues operating expenses cost of maintenance and services sales and marketing research and development general and administrative amortization of intangible assets total operating expenses operating income loss interest income  net other income expense  net income loss before provision for income taxes provision for income taxes net income loss comparison of fiscal years ended march  and revenues total revenues increased in to million 
+license revenues increased to million in license revenues represented of our total revenues in compared to of our total revenues in this increase in license revenues in over the prior year was primarily the result of closing a greater number of contracts at a higher average contract size 
+demand for our products increased from both new and existing customers due  we believe  to more effective marketing programs  better market awareness and creation of marketing alliances and partnerships 
+maintenance and services revenues increased to million 
+this increase in maintenance and services revenues in over the prior year was primarily due to the increased demand for our consulting services associated with the eds contract for the navy marine corps intranet project as well as higher license activity in in addition  maintenance services increased in over the prior year due to an expanding customer base 
+during  one customer  eds  accounted for approximately of our total revenue 
+operating expenses cost of maintenance and services includes the costs of providing customer support and update rights and consulting and training services to our customers 
+these costs consist primarily of payroll and benefits  travel and lodging expenses  third party consulting fees and allocated overhead 
+cost of maintenance and services increased by to million in the gross margin of maintenance and services was in  
+table of contents slightly lower than the of the prior year 
+the primary reason for the lower gross margin in as compared to the prior year is the faster growth rate of consulting and training services compared to maintenance 
+consulting and training services require higher staffing levels than maintenance operations and therefore have a lower gross margin 
+we expect the cost of maintenance and services to increase in in absolute dollar terms and we expect the gross margin of maintenance and services to remain approximately the same as the level 
+sales and marketing expenses consist primarily of salaries  related benefits  commissions  travel and other costs associated with sales and marketing efforts such as marketing programs  trade shows  and lead generation activities 
+in addition  the expense for doubtful accounts is included in sales and marketing expense 
+sales and marketing expenses increased to million 
+the increase in over the previous year was primarily the result of higher marketing expenses for trade shows  public relations  user conferences and other marketing programs  as well as higher commission expense associated with the recording of higher revenue 
+during  we created a new sales organization to manage and grow our alliances and partnerships  also additional sales management was brought on in to strengthen our sales efforts 
+accordingly  we expect sales and marketing expenses to increase in compared to in absolute dollar terms though not as a percentage of total revenues 
+research and development expenses consist primarily of salaries  related benefits  consultant fees and other costs associated with research and development efforts 
+research and development expenses increased to million 
+the increase in research and development expenses in as compared to the previous year was primarily due to the ongoing development of new products which provide additional functionality and ease of use and operate on additional platforms 
+during  we released a new version of radia  version  as well as announced eleven new products 
+we believe that a significant investment in research and development activities is essential to provide for our future growth 
+we anticipate that we will continue to invest resources to further enhance and develop our products 
+we anticipate growth in research and development expense in though we do not anticipate that research and development expense will increase in terms of a percentage of total revenues 
+under the provisions of statement of financial accounting standards no 
+ accounting for the costs of computer software to be sold  leased or otherwise marketed  software development costs are capitalized upon the establishment of technological feasibility  which we define as establishment of a working model 
+capitalizable amounts are insignificant and  accordingly  we have expensed all software development costs as incurred 
+general and administrative expenses consist primarily of personnel and travel costs for corporate management  finance and administration  information systems and human resources  as well as corporate insurance programs and fees for professional services such as consulting  legal  accounting and recruiting 
+general and administrative expenses increased to million in the increase in as compared with was due primarily to providing approximately million associated with a settlement of an arbitration dispute with a former employee  higher legal fees associated with the arbitration dispute as well as other litigation see part i  item legal proceedings  and higher compensation costs due to expanding our corporate management and administrative staff 
+we expect general and administrative expenses to increase in though we do not anticipate general and administration expense to increase in terms of a percentage of total revenues 
+amortization of intangible was million in and consists of i a charge to earnings for the non cash amortization of the intangible asset acquired in the alliance agreement with hewlett packard and ii an acquisition of intellectual property in october in june  we entered into an alliance agreement with hewlett packard to integrate  market and sell our software and content management products with hewlett packard s hp openview management solutions for the enterprise and service providers markets 
+as part of the agreement  we issued  shares of our common stock to hewlett packard and a warrant for an additional  shares of our common stock 
+both the shares issued and the warrant contained restrictions 
+in addition to the alliance agreement  and for a fee of  hewlett packard was provided a one year  limited license to upgrade certain existing customers to 
+table of contents our radia product 
+the fair value of the equity issued  less the cash received from hewlett packard  or million  was recorded as an intangible asset at june   and will be amortized over the initial term of the agreement two years 
+included in the warrant is a provision that reduces the exercise price of the warrant to if hewlett packard attains certain revenue milestones 
+should hewlett packard meet those milestones  the intangible asset will be adjusted and the new amount will be amortized for the remainder of the term 
+we currently do not expect hewlett packard to meet these milestones 
+in october  we acquired the intellectual property of another company 
+we will embed this acquired technology into our radia product suite 
+along with the intellectual property  we acquired furniture and fixtures  equipment  customer contracts and an office lease 
+four employees joined us upon the closing of the acquisition 
+the cost of the acquisition was  net of acquisition costs of  the purchase price is payable through the issuance of  shares of our common stock and payment of million in cash 
+we will issue  shares of our common stock and pay thousand quarterly through december  we allocated the excess of the purchase price over the fair value of the tangible net assets acquired to acquired software and we are amortizing this amount over three years 
+we currently expect the amortization expense relating to these items for to be approximately million 
+interest income  net interest income  net is comprised primarily of interest income earned on our cash  cash equivalents and investments  partially offset by our interest expenses 
+interest income  net was thousand in as compared to million in interest income  net decreased in as compared to due primarily to lower interest rates 
+interest income  net is dependent upon our average net cash and investment balances and market interest rates 
+we expect our interest income  net to increase in because we anticipate that our cash and investment balances will increase 
+other income expense other income expense was an expense of thousand in it was primarily comprised of a net foreign exchange loss of thousand and miscellaneous corporate expenses and other non operating gains losses 
+the other income expense in the prior year was income of million 
+the prior year income included royalties of million recognized from a settlement of the infringement litigation with marimba  inc in november income taxes we recorded a provision for income taxes of approximately thousand in for foreign income taxes and approximately thousand in for federal and state alternative minimum taxes and foreign taxes 
+as of march   we had net deferred tax assets of approximately million 
+we have provided a full valuation allowance due to the uncertainty surrounding the timing of the realization of the net deferred tax assets 
+as of march   we had federal net operating loss carryforwards of approximately million  which expire in various periods through our ability to utilize the net operating loss carryforwards in future years may be limited in some circumstances  including significant changes in ownership interests  due to certain provisions of the internal revenue code of comparison of fiscal years ended march  and revenues total revenues increased in to million 
+license revenues increased to million in license revenues represented of the total revenues of compared to of the total revenues of the increase in license revenues in over the prior year was the result of closing a greater number of contracts and a higher average contract size 
+demand for our products increased from both new and existing customers due  we believe  to more 
+table of contents effective marketing programs  better market awareness  expansion of our sales force in north america and europe and creation of marketing alliances and partnerships 
+maintenance and service revenues increased to million 
+the increase in maintenance and service revenues in over the prior year was primarily due to the increased demand for our consulting and training services associated with higher licensing activity with new customers and the high rate of renewal of maintenance contracts by existing customers 
+the increase in maintenance revenues in over was at a rate lower than in prior years due to the termination of our agreement with amdahl 
+during  one customer  eds  accounted for approximately of our total revenue 
+during  amdahl accounted for approximately of our total revenue 
+in june  we entered into a seven year  non exclusive oem and distribution agreement with amdahl 
+under the agreement  amdahl was able to sublicense edm throughout the world as part of its bundled solution and sublicense edm stand alone to a limited worldwide market 
+we agreed to provide limited technical support and training 
+the agreement required amdahl to pay us minimum annual royalties 
+amdahl failed to meet the minimum royalty commitment for fiscal and we terminated the agreement effective march  operating expenses cost of maintenance and services increased by to million in the increase in the cost of maintenance and services in as compared to was due primarily to a faster increase in consulting and training services which requires higher staffing levels than maintenance and the increased utilization of third party consulting firms 
+sales and marketing expenses increased to million 
+the increase in over the previous year was primarily the result of higher commission expense associated with the recording of higher revenue and the continued expansion of the direct sales force in north america and europe 
+research and development expenses increased to million 
+the increase in research and development in as compared to the previous year was primarily due to the ongoing development of new products which operate on additional platforms and the development of products to address the requirements of application service providers asps  independent software vendors isvs and enterprise information technology providers for providing software applications to customers as subscription services 
+under the provisions of statement of financial accounting standards no 
+ accounting for the costs of computer software to be sold  leased or otherwise marketed  software development costs are capitalized upon the establishment of technological feasibility  which we define as establishment of a working model 
+capitalizable amounts are insignificant and accordingly  we have expensed all software development costs as incurred 
+general and administrative expenses increased to million in the increase in as compared with was due primarily to thousand of non recurring legal costs incurred to settle patent litigation suits in november  as well as higher compensation costs due to expanding our corporate management and administrative staff 
+amortization of intangible was million in and consisted of a charge to earnings for the non cash amortization of the intangible asset acquired in the alliance agreement with hewlett packard 
+in june  we entered into an alliance agreement with hewlett packard to integrate  market and sell our software and content management products with hewlett packard s hp openview management solutions for the enterprise and service providers markets 
+interest income  net interest income  net was million in compared to million in the increase in interest income  net in as compared to  was due primarily to higher average balances of cash and marketable securities as compared to the prior year average balances 
+
+table of contents other income expense other income expense was income of million in it was primarily comprised of million recognized in connection with the settlement of the infringement litigation with marimba  inc in november  partially offset by thousand of miscellaneous corporate fees 
+other income expense was an expense of thousand in it was primarily comprised of thousand of bank fees and miscellaneous corporate fees offset by a net foreign exchange gain of thousand 
+income taxes we recorded a provision for income taxes of approximately thousand in and approximately thousand in for federal and state alternative minimum taxes and for foreign taxes 
+as of march   we had net deferred tax assets of approximately million 
+we have provided a full valuation allowance due to the uncertainty surrounding the timing of the realization of the net deferred tax assets 
+as of march   we had federal net operating loss carryforwards of approximately million  which expire in various periods through our ability to utilize the net operating loss carryforwards in future years may be limited in some circumstances  including significant changes in ownership interests  due to certain provisions of the internal revenue code of liquidity and capital resources as of march   we had approximately million in cash and cash equivalents 
+net cash provided by operating activities in  and was million  million  and million  respectively 
+fiscal years and reported net losses of million and million  respectively  entirely offset by depreciation and amortization expense of million and million  respectively 
+the cash provided by operating activities in was partially offset by the acquisition of intellectual property in the fiscal year as well as by decreases in our accounts payable and accrued liabilities accounts and deferred revenue accounts 
+the cash provided by operating activities in was partially offset by the increase of million in the accounts receivable balance  net of the allowance for doubtful accounts which in turn was due to the increasing revenues 
+in  the cash provided by operating activities was primarily the result of net profit and an increase in accounts payable and accrued liabilities  partially offset by an increase in the accounts receivable balance 
+property and equipment expenditures were   and  for the fiscal years  and  respectively 
+we had no material commitments to purchase property and equipment at march   and we expect purchases of property and equipment to increase next fiscal year due the expansion of our headquarters in mahwah  nj and to the increase in the number of our employees 
+in june  we entered into an alliance agreement with hewlett packard 
+as part of the agreement we issued  shares of our common stock to hewlett packard and a warrant for an additional  shares of our common stock 
+the warrant  which expires on march   contains restrictions and a provision that reduces the exercise price to if hp attains certain revenue milestones 
+in october  we announced our intention to repurchase up to  of the outstanding shares of our common stock 
+on august   our board of directors increased the number of shares authorized for repurchase to a total of  shares 
+additionally  in september  the securities and exchange commission issued temporary regulations easing restrictions on the repurchases of stock by public companies 
+our board of directors authorized the repurchase of up to another  shares after the temporary regulations were issued 
+during  we spent approximately million to repurchase approximately  shares 
+at march   the remaining authorization for all stock repurchases is approximately  shares 
+in march  we entered into an unsecured revolving line of credit agreement with a bank providing for borrowings of up to million 
+the line of credit has a term of one year and is renewable on an annual basis 
+at march   no amounts were due and outstanding under this revolving line of credit 
+
+table of contents our cost for intellectual property acquired in october was  net of acquisition costs of  and is payable through the issuance of  shares of our common stock and payment of million over quarters 
+as of march    shares of our common stock had been issued and payments totaling thousand had been made 
+we will issue  shares and make a cash payment of thousand quarterly through december  the value of our shares to be issued and cash to be paid have been accrued in the accompanying balance sheet 
+accordingly  million is included in accrued liabilities and million is reflected as long term liabilities 
+we have allocated the excess of the purchase price over the fair value of the tangible net assets acquired to acquired software and are amortizing this amount over three years 
+at march   we held notes receivable with a total value of million due from executive officers and shareholders 
+the notes bear a fair market interest rate determined at the time the note was written 
+the notes are full recourse and are secured by shares of our common stock 
+the notes have a term of one year and allow for prepayment 
+in  the notes matured and were renewed for a term of six months 
+during fiscal  issuers of the notes repaid thousand of the outstanding balance  thousand of new notes were issued and thousand in associated interest was accrued 
+the following table summarizes our contractual obligations as of march  this table should be read in conjunction with the accompanying notes to our consolidated financial statements in thousands note payable operating leases fiscal year ending march  total the note payable represents the associated cash payments in connection with the intellectual property acquired in october  as discussed above 
+although it is difficult for us to predict our future liquidity requirements with certainty  we believe that our existing cash and cash equivalents  together with cash generated from operations  will be adequate to finance our operations for at least the months 
+although operating activities may provide cash in certain periods  to the extent we experience growth in the future  we anticipate that our operating and investing activities may use cash 
+we may decide to raise additional funds  through public or private debt or equity financing  to fund future growth or continuing operations  take advantage of expansion or acquisition opportunities  develop new products or compete effectively in the marketplace 
+however  additional funds may not be available to us on commercially reasonable terms  or at all  when we require them  and any additional capital raised through the sale of equity or equity linked securities could result in dilution to our existing stockholders 
+risk factors you should carefully consider the risks and uncertainties described below because they could materially and adversely affect our business  financial condition  operating results and prospects 
+we have a history of operating losses and we may not be able to achieve or sustain profitability in the future 
+we have reported an operating loss for every quarter since our incorporation in february except for the four consecutive quarters in each of and  and the last three quarters of we may not be able to achieve or sustain profitability on a quarterly or annual basis in the future 
+our quarterly results are subject to significant fluctuations due to many factors and our operating results vary due to seasonality 
+our quarterly operating results have fluctuated in the past and are expected to 
+table of contents fluctuate significantly in the future due to a number of factors  including  among others  the size and timing of customer orders  the timing and market acceptance of our new products  the level and pricing of international sales  foreign currency exchange rates  changes in the level of operating expenses  technological advances and competitive conditions in the industry 
+revenues received from our individual customers vary significantly based on the size of the product installation 
+customer orders for our products have ranged from several thousands of dollars to over million  and have averaged from approximately  to  as a result  our quarterly operating results are likely to be significantly affected by the number and size of customer orders we are able to obtain in any particular quarter 
+in addition  the sales cycle for our products is lengthy and unpredictable  and may range from a few months to over a year  depending upon the interest of the prospective customer in our products  the size of the order which may involve a significant commitment of capital by the customer  the decision making and acceptance procedures within the customer s organization  the complexity of implementation and other factors 
+we generally ship orders as received and as a result typically have little or no backlog 
+quarterly revenues and operating results therefore depend upon the volume and timing of orders received during the quarter  which are difficult to forecast 
+historically  we have recognized the substantial majority of our quarterly license revenues in the last weeks or week of each quarter 
+in addition  because our expenditure levels for product development and other operating expenses are based in large part on anticipated revenues  a substantial portion of which are not typically generated until the end of each quarter  the timing and amount of revenues associated with orders have caused  and may continue to cause  significant variations in operating results from quarter to quarter 
+our operating results are also expected to vary significantly due to seasonal trends 
+historically  we have realized a greater percentage of our annual revenues in the fourth quarter  and a lower percentage in the first and second quarters 
+we believe that this seasonality is in part a result of efforts of our direct sales personnel to meet annual sales quotas  and in part a result of lower international revenues in the summer months when many businesses in europe experience lower sales 
+in addition  capital budgets of our customers  which tend to concentrate spending activity at calendar year end  have had  and may continue to have  a seasonal influence in our quarterly operating results 
+we expect that our operating results will continue to fluctuate in the future as a result of these and other factors  and that seasonality may increase if our efforts to expand our international sales are successful 
+our business may suffer if we are not able to keep pace with rapid technological change and successfully introduce new products 
+the market for software and configuration management is characterized by rapid technological advances  changes in customer requirements and frequent new product introductions and enhancements 
+our future success will depend in large part on our ability to enhance our current products and to develop and introduce new products that keep pace with technological developments  achieve market acceptance and respond to customer requirements that are constantly evolving 
+responding to rapid technological change and the need to develop and introduce new products to meet customers expanding needs will require us to make substantial investments in research and product development 
+during fiscal  among other research and development expenditures  we allocated research and development funding to the development of our e wrap technology to additional platforms in operating systems and a new version of radia 
+we intend to continue to allocate funding to these development projects throughout fiscal if we fail to anticipate or respond adequately to technological developments and customer requirements  and in particular advances in client server enterprise hardware platforms  internet applications and platforms  operating systems and systems management applications  or experience any significant delays in product development or introduction  we could lose competitiveness and our operating results could be materially and adversely affected 
+there can be no assurance that any product enhancements or new products we develop will gain market acceptance 
+the failure to develop on a timely basis new products or product enhancements could cause customers to delay or refrain from purchasing our existing products and thereby adversely affect our operating results 
+if future releases of new products and enhancements do not achieve market acceptance  the business  financial condition and results of our operations will be materially and adversely affected 
+
+table of contents problems with our software could materially affect our business 
+software products as complex as those offered by us may contain undetected errors or failures that  despite our significant testing  are discovered only after a product has been installed and used by customers 
+such errors could cause delays in product introductions and shipments  require design modifications  result in loss of or delay in market acceptance of our products  or loss of existing customers  any of which could adversely affect the business  financial condition and results of our operations 
+intense competition in the markets in which we operate could adversely affect us 
+competition in the markets we serve is diverse and rapidly changing 
+while a variety of vendors have offered some form of software distribution  asset management  infrastructure management or similar solutions with their offerings  our closest competitors today fall into the categories below framework sd vendors 
+these competitors include ibm tivoli software and computer associates who offer software distribution tools as part of their enterprise frameworks 
+we compete against the specific software distribution tools offered with their frameworks 
+desktop management suite vendors 
+these competitors include vendors such as microsoft and intel corporation  who offer software distribution tools as part of a desktop administration package 
+software distribution vendors 
+these competitors include companies such as altiris  inc  marimba  inc 
+and on technology corporation in the desktop and server market segment  and  in the mobile market segment  xcellenet  inc we may not be able to continue to compete effectively in the software management market and our profitability or financial performance could be adversely affected by increased competition 
+many of our competitors have longer operating histories  and many have significantly greater financial  technical  sales  marketing and other resources  as well as greater name recognition and larger customer installed bases 
+moreover  existing or new competitors may develop products that are superior to our products or other technologies offering significant advantages over our technology  which could have a material adverse effect on our business  financial condition and results of operation 
+the market price and trading volume of our common stock have been volatile and may continue to fluctuate significantly 
+the market price for our common stock has been highly volatile 
+the trading price and trading volume of our common stock has been  and could in the future be  subject to wide fluctuations in response to quarterly variations in our operating and financial results  announcements of technological innovations or new products by us or our competitors  changes in prices to our or our competitors products and services  changes in product mix  change in our revenue and revenue growth rates for us as a whole or for individual geographic areas  products or product categories  as well as other events or factors 
+statements or changes in opinions  ratings  or earnings estimates made by brokerage firms or industry analysts relating to the market in which we do business or relating to us specifically have resulted  and could in the future result in  an immediate and adverse effect on the market price of our common stock 
+in addition  the nasdaq national market has from time to time experienced extreme price and volume fluctuations which have particularly affected the market price for the securities of many high technology companies and which often have been unrelated to the operating performance of these companies 
+these broad market fluctuations may adversely affect the market price of our common stock 
+in the past  securities class action litigation has often been brought against a company following periods of volatility in the market price of its securities 
+we may in the future be the target of similar litigation 
+securities litigation could result in substantial costs and divert management s attention and resources  which could have a material adverse effect on our business  operating results and financial condition 
+our business could be materially affected by risks related to our international operations 
+approximately of our net revenues in were derived from our international operations 
+international revenues are a significant percentage of our revenues  and we plan to continue to develop international sales  primarily through our european operations 
+our operations and financial results could be significantly affected by factors associated with international operations  such as changes in foreign currency exchange rates  uncertainties relative to regional economic circumstances  longer payment cycles  greater difficulty in accounts receivable 
+table of contents collection  changes in regulatory requirements and product localization requirements  as well as by other factors associated with international activities 
+a majority of our international revenues and costs have been denominated in foreign currencies 
+we believe that an increasing portion of our international revenues and costs will be denominated in foreign currencies in the future 
+to date  we have not engaged in any foreign exchange hedging transactions and we are therefore subject to foreign currency risk 
+the loss of a major customer could adversely affect our operating results 
+during and  one customer  eds  accounted for approximately and  respectively  of our total revenues 
+during  one customer  amdahl  accounted for approximately of total revenues 
+because we depend on proprietary technology  there are risks of infringement that could materially and adversely affect our results 
+our success will be heavily dependent upon proprietary technology 
+we rely primarily on a combination of copyright and trademark laws  trade secrets  confidentiality procedures and contractual provisions to protect our proprietary rights 
+we seek to protect our software  documentation and other written materials under trade secret and copyright laws  which provide only limited protection 
+it may be possible for unauthorized third parties to copy aspects of our current or future products or to obtain and use information that we regard as proprietary 
+in particular  we may provide our respective licensees with access to our proprietary information underlying our licensed applications 
+the means we use to protect our proprietary rights may not be adequate or our competitors may independently develop similar or superior technology 
+policing unauthorized use of software is difficult and software piracy can be expected to be a persistent problem 
+in addition  the laws of some foreign countries do not protect our proprietary rights to the same extent as do the laws of the united states 
+litigation may be necessary in the future to enforce our intellectual property rights  to protect our trade secrets or to determine the validity and scope of the proprietary rights of others 
+such litigation could result in substantial costs and diversion of our resources and could have a material adverse effect on our business  results of operations  and financial condition 
+there can be no assurance that third parties will not claim infringement with respect to our current or future products 
+we expect that software product developers will increasingly be subject to infringement claims as the number of products and competitors in their industry segment grows and the functionality of products in different industry segments overlaps 
+any such claims  with or without merit  could be time consuming  result in costly litigation  cause product shipment delays  or require us to enter into royalty or licensing agreements 
+such royalty or licensing agreements  if required  may not be available on acceptable terms or at all  which could have a material adverse effect on our business  results of operations and financial condition see part i  item legal proceedings 
+we could be subject to product liability claims that would adversely affect our business 
+the license agreements  which we enter into with our customers  typically contain provisions designed to limit exposure to potential product liability claims 
+however  the limitation of liability provisions contained in such license agreements may not be effective under the laws of certain jurisdictions 
+the sale and support of our products entails the risk of claims  and we may be subject to such claims in the future 
+a product liability claim brought against us could have a material adverse effect on our business  results of operations  and financial condition 
+the loss of our executives and key employees could adversely affect us 
+our future success depends upon the contributions of our executives and key employees 
+the inability to retain our executives and certain key employees in research and development and sales and marketing could have a significant adverse effect on our ability to develop new products  versions of our products and the marketing and selling of those products in the marketplace 
+the loss of the services of one or more of our executives or key employees could have a material adverse effect on our operating results 
+we also believe our future success will depend in large part upon our ability to attract and retain additional highly skilled personnel 
+if changes in our sales organization are not effective  our business will be adversely affected 
+our future success depends upon the ability of our sales channels to generate increased revenues 
+we have made  and will continue to make  substantial organizational  management  process and staff changes in our north american  european  government and alliances sales organizations to enhance coverage and productivity 
+if these changes do not result in increased revenues  our business  operating results and financial condition will be materially and adversely affected 
+
+table of contents our ability to effectively grow depends on our ability to improve our operational systems 
+we have expanded our operations rapidly since inception and intend to continue to expand in the foreseeable future to pursue existing and potential market opportunities 
+this rapid growth places a significant demand on management and operational resources 
+in order to manage growth effectively  we must implement and improve our operational systems  procedures and controls on a timely basis 
+if we fail to implement and improve these systems  our business  operating results and financial condition will be materially and adversely affected 
+the success of potential future acquisitions depends on our ability to integrate and manage the additions to our business 
+we may acquire other businesses in the future  which would complicate our management tasks 
+we may need to integrate widely dispersed operations that have different and unfamiliar corporate cultures 
+these integration efforts may not succeed or may distract management s attention from existing business operations 
+our failure to successfully manage future acquisitions could adversely affect our business 
+our stockholders may experience dilution of their holdings if we finance these acquisitions by issuing additional shares of our equity securities 
+we may need additional capital in the future  which may not be available or may dilute the ownership of existing stockholders 
+in the future  we may need or otherwise decide to raise additional funds and we cannot be certain that we would be able to obtain additional financing on favorable terms  if at all 
+further  if we issue equity securities  our current stockholders may experience additional dilution or the new equity securities may have rights  preferences or privileges senior to those of existing holders of common stock 
+if we cannot raise funds  if needed  on acceptable terms  we may not be able to develop or enhance our products  take advantage of future opportunities or respond to competitive pressures or unanticipated requirements  which could have a material adverse effect on our business  operating results and financial condition 
+recent accounting pronouncements in june  the financial accounting standards board fasb issued statements of financial accounting standards no 
+ business combinations sfas no 
+and no 
+ goodwill and other intangible assets sfas no 
+
+sfas no 
+changes the accounting for business combinations  requiring that all business combinations be accounted for using the purchase method and that intangible assets be recognized as assets apart from goodwill if they arise from contractual or other legal rights  or if they are separable or capable of being separated from the acquired entity and sold  transferred  licensed  rented or exchanged 
+sfas no 
+is effective for all business combinations initiated after june  sfas no 
+specifies the financial accounting and reporting for acquired goodwill and other intangible assets 
+goodwill and intangible assets that have indefinite useful lives will not be amortized but rather will be tested at least annually for impairment 
+sfas no 
+is effective for fiscal years beginning after december  sfas no 
+requires that the useful lives of intangible assets acquired on or before june   be reassessed and the remaining amortization periods adjusted accordingly 
+previously recognized intangible assets deemed to have indefinite lives shall be tested for impairment 
+goodwill recognized on or before june   shall be assigned to one or more reporting units and shall be tested for impairment as of the beginning of the fiscal year in which sfas no 
+is initially applied in its entirety 
+we have not fully assessed the potential impact of the adoption of sfas no 
+ which is effective for us as of april  the reassessment of intangible assets must be completed during the first quarter of fiscal and the assignment of goodwill to reporting units  along with completion of the first step of the transitional goodwill impairment tests  must be completed during the first six months of our fiscal year total amortization of intangible assets for the year ended march  was approximately million 
+in october  the fasb issued sfas no 
+ accounting for the impairment or disposal of long lived assets sfas  which supercedes sfas and certain provisions of apb opinion no 
+ reporting results of operations reporting the effects of disposal of a segment of a business and extraordinary  unusual and infrequently occurring events and transactions 
+sfas requires that long lived assets to be disposed of by sale  including discontinued operations  be measured at the lower of carrying 
+table of contents amount or fair value less cost to sell  whether reported in continuing operations or in discontinued operations 
+sfas also broadens the reporting requirements of discontinued operations to include all components of an entity that have operations and cash flows that can be clearly distinguished  operationally and for financial reporting purposes  from the rest of the entity 
+the provisions of sfas are effective beginning after april  we are currently in the process of assessing the effects of implementing the new standard 
+
+table of contents item a 
+quantitative and qualitative disclosures about market risk our financial instruments consist of cash and cash equivalents  short term investments  trade accounts and contracts receivable and accounts payable 
+we consider investments in highly liquid instruments purchased with a remaining maturity of days or less at the date of purchase to be cash equivalents 
+our exposure to market risk for changes in interest rates relates primarily to our short term investments and short term obligations 
+as a result  we do not expect fluctuations in interest rates to have a material impact on the fair value of these securities 
+we do not use derivative financial instruments in our investment portfolio 
+the majority of our operations are based in the us and  accordingly  the majority of our transactions are denominated in us dollars 
+however  we do have foreign based operations where transactions are denominated in foreign currencies and are subject to market risk with respect to fluctuations in the relative value of currencies 
+these currencies have been relatively stable to somewhat devaluing against the us dollar for the past several years 
+foreign currency fluctuations have not had a material impact historically on our revenues or results of operations 
+currently  we have operations in the united kingdom  france and germany and conduct transactions in the local currency of each location 
+although we currently derive no material revenues from highly inflationary economies  we are expanding our presence in international markets outside europe  including the pacific rim and latin america  whose currencies have tended to fluctuate more relative to the us dollar 
+there can be no assurance that european currencies will remain stable relative to the us dollar or that future fluctuations in the value of foreign currencies will not have a material adverse effect on our business  operating results  revenues or financial condition 
+to date  the impact of fluctuations in these currencies resulted in net transaction gains losses of thousand  thousand and thousand in  and  respectively 
+our interest income is sensitive to changes in the general level of us interest rates  particularly since the majority of our investments are in short term instruments 
+due to the nature of our short term investments  we have concluded that we do not have material market risk exposure 
+our investment policy requires us to invest funds in excess of current operating requirements in obligations of the us government and its agencies  investment grade state and local government obligations securities of us corporations rated a or p by standard poors or the moody s equivalents  and or money market funds  deposits or notes issued or guaranteed by us commercial banks meeting certain credit rating and net worth requirements 
+at march   our cash and cash equivalents consisted primarily of demand deposits and money market funds held by large institutions in the us  and our short term investments were invested in corporate debt maturing in less than days 
+

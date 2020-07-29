@@ -1,0 +1,736 @@
+item  management s discussion and analysis of financial condition and results of operations 
+these forward looking statements speak only as of the date hereof 
+unless required by law  we undertake no obligation to update publicly any forward looking statements 
+in this annual report on form k  references to marvell  we  us  our or the company mean marvell technology group ltd 
+and its subsidiaries  except where it is made clear that the term means only the parent company 
+
+table of contents part i item business overview we are one of the world s largest fabless semiconductor providers of high performance application specific standard products 
+our core strength of expertise is the development of complex system on a chip soc devices  leveraging our extensive technology portfolio of intellectual property in the areas of analog  mixed signal  digital signal processing and embedded and standalone arm based microprocessor integrated circuits 
+our broad product portfolio includes devices for data storage  enterprise class ethernet data switching  ethernet physical layer transceivers phy  mobile handsets and other consumer electronics  wireless networking  personal area networking  ethernet based pc connectivity  control plane communications controllers  video image processing and power management solutions 
+we were incorporated in bermuda in january our registered and mailing address is canon s court  victoria street  hamilton hm  bermuda  and our telephone number there is the address of our united states operating subsidiary is marvell semiconductor  inc  marvell lane  santa clara  california  and our telephone number there is we also have operations in many countries  including canada  china  germany  hong kong  india  israel  italy  japan  korea  malaysia  netherlands  singapore  spain  sweden  switzerland  taiwan and the united kingdom 
+our fiscal year ends on the saturday nearest january in this annual report on form k  we refer to the fiscal year ended january  as fiscal  the fiscal year ended february  as fiscal  the fiscal year ended january  as fiscal  the fiscal year ended january  as fiscal  the fiscal year ended january  as fiscal  the fiscal year ended january  as fiscal and the fiscal year ending february  as fiscal available information our website address is located at www 
+marvell 
+com 
+the information contained in our website does not form any part of this annual report on form k 
+however  we make available free of charge through our website our annual reports on form k  our quarterly reports on form q  our current reports on form k and amendments to those reports filed or furnished pursuant to section a or d of the securities exchange act of  as amended the exchange act  as soon as reasonably practicable after we electronically file this material with  or furnish it to  the united states securities and exchange commission sec 
+industry background the semiconductor industry has evolved over the last five decades primarily due to the rapid and systematic advancements in photolithography techniques and new materials used in the manufacture of semiconductor devices  which has enabled the fabrication of transistor devices with a greater number of features and functions at ever smaller chip sizes and with increasing power efficiency 
+as transistor line widths shrink over time  transistor density increases proportionally  enabling the manufacture of ever more complex devices in a fixed area of silicon 
+this phenomenon  known as moore s law  states that with the transition to each new successive process node  transistor device size will shrink by 
+this can enable a increase in the number of transistors  an increase in device performance  a reduction in size of the chip  or additional functionality 
+furthermore  the transition to ever smaller process geometries results in proportionally lower power consumption of integrated circuits 
+the effect of moore s law on the semiconductor industry has been a rapid increase in the processing speed  the device density of integrated circuits and improved power efficiency 
+this has enabled the integration of multiple complex functions onto a single piece of silicon  which in the past required multiple discrete integrated circuits 
+concurrently  with the advances in semiconductor technology  there has been an evolutionary shift toward standards based communication interconnect protocols  such as ethernet 
+this has given rise to a large and diverse number of electronic systems suppliers to address the simultaneous transmission of voice  video  audio and data through both wired and wireless connections 
+
+table of contents technological innovations have increased the capability to transmit and process information  which has led to both business enterprise and consumer electronic devices sharing and communicating ever larger amounts of information for a wide array of applications 
+due in part to the ongoing evolution of both semiconductor and communications technology  the bandwidth demanded by users has continued to expand at an exponential rate 
+additionally  as the bandwidth demand of both enterprise and consumer users increase  there has been a commensurate increase in the required amount of data storage capacity 
+we believe the market effects enabled by both the advances in semiconductor and communication technologies will provide a large and growing market for our products  technologies and intellectual property capabilities 
+within most modern electronic systems  in both the enterprise and consumer application domain  the device interconnects and data transmission occurs within the analog signal domain 
+however  due to advanced technologies  modern systems approaches and new algorithms  most new products convert the analog signals into digital signals to process the information 
+given the high volume and cost sensitive nature of both enterprise and consumer applications  it is very beneficial to be able to integrate many of the analog and digital functions onto a single integrated circuit  which can help to increase system performance  lower costs and lower overall power consumption 
+as a result  these devices require a combination of both analog and digital integrated circuit technologies  more commonly known as mixed signal technology 
+historically  the ability to manufacture mixed signal technologies required the use of expensive  non scalable semiconductor manufacturing process technologies 
+however  to achieve price points that will accelerate the acceptance of these highly integrated mixed signal devices  a small number of semiconductor suppliers  including us  have invested in the fundamental research and development capability  which allows for the use of high volume  lower cost and scalable complementary metal oxide semiconductor cmos fabrication technology 
+because the processing requirements of these mixed signal integrated circuits continue to expand with the increased performance and sophistication of the devices in which they are embedded  many of these integrated circuits are now also integrating high performance embedded microprocessors and complex digital signal processors to handle this increased workload 
+this minimizes or eliminates the need for a costly host central processing unit cpu 
+with improvements in the performance of such embedded microprocessors  devices can further expand their capabilities while at the same time minimizing power requirements 
+many of these new  sophisticated devices are also handheld battery powered devices in which minimizing the power consumption is critical to maximizing the life of the battery 
+utilizing highly integrated circuits that are optimized for power efficiency is a critical factor for such handheld devices 
+additionally  advanced digital power management solutions that regulate the power supply to the integrated circuits in an efficient and cost effective manner are becoming increasingly important to help reduce overall power consumption and the total size of the solution 
+platform integration over the last several years  we have transitioned from a supplier of standalone semiconductor components to a supplier of fully integrated platform solutions 
+our platform solutions contain multiple intellectual property components in integrated hardware along with software that incorporates digital computing technologies  designed and configured to provide an optimized solution compared to individual components 
+our solutions have become increasingly integrated  with ever more components resulting in an all in one solution for a given customer s end product 
+the demand for such highly integrated platform solutions is generally driven by technological changes and the anticipation of the future needs of the device manufacturer 
+for example  in order to provide a complete solution for a specific handheld consumer electronics device  a device manufacturer may require a solution that integrates a high performance applications processor  along with seamless communications capability with a g g multi band modem  wi fi  bluetooth  radio frequency rf  gps and nfc 
+in addition  a device manufacturer may require graphics processing  high definition audio and power management 
+these platforms will often cross multiple end markets  integrating components and technologies traditionally associated with one end market with components and technologies from another end market 
+for example  we 
+table of contents may integrate an applications processor  traditionally associated with the mobile and wireless end market  with software and other components in an end user product targeting the home cloud 
+therefore  it has become critical that our products across multiple end markets work seamlessly together 
+in addition  software has become increasingly important to our business over the last several years  and we expect software to become even more important in the years to come 
+on chip software  which acts as the driver for the functionality of the chip  has always been a critical part of our business 
+however  the software that we deliver with our chip has become significantly more complex as the range of uses and the needs in application level software have increased 
+for example  a chip that we develop for a smartphone may need to include software that is compatible with the latest version of a specific company s operating system that enables d graphics and that works seamlessly with a variety of popular end user applications 
+this requires a significant amount of up front software development  testing  and often additional licensing 
+lastly  the market for consumer electronics devices is becoming increasingly standards based 
+these standards change rapidly and often several different standards may exist and overlap in a single market 
+our platforms must be designed to operate seamlessly with all relevant standards  which requires us to design products in anticipation of these relevant standards 
+for example  we have communications processors designed to operate on several different cellular standards  including edge  wcdma g  td scdma china g and g lte 
+in summary  while providing the most advanced components at the lowest possible price remains critical to our business  continuing the transformation into a platform company through the integration of multiple components together with on industry leading software capability will continue to increase in importance to our overall success 
+our markets and products when the company began  our core technologies were initially focused on the storage market  where we provide high performance products to storage companies for traditional hdd to companies such as hitachi ltd  samsung semiconductor  seagate technology  toshiba corporation and western digital corporation 
+over the past few years  we have expanded on our core storage technologies by developing solid state flash drive ssd controllers  which are currently sold to flash providers who are building drives based on ssd  such as micron  sandisk  toshiba  and others 
+the storage end markets continue to drive approximately of our revenues on an annual basis 
+as the company developed  we applied our technology to the networking market  where we provide industry leading phy devices and wired and wireless ethernet switching solutions  which enable high speed transmission between communications systems  that are sold by manufacturers of networking and wireless equipment  such as alcatel  brocade communication systems  inc  cisco systems  inc  dell inc  sony ericsson  hewlett packard company  huawei technologies co  ltd  intel corporation  juniper networks  inc  and zte corporation 
+our wireless technology has a variety of uses in consumer electronic devices  including enabling applications such as wireless access routers  gaming devices  streaming audio  video  voice over internet protocol voip and wireless printing  for products offered by companies such as cisco systems  hewlett packard company  microsoft corporation and sony corporation 
+we also provide communications and applications processor products for cellular and handheld solutions to customers  such as research in motion limited  huawei  motorola  samsung  lenovo  vizio and zte corporation 
+lastly  we provide printer soc and system level solutions for both inkjet and laser jet printer systems for companies such as hewlett packard company 
+
+table of contents our current product offerings are primarily in three broad end markets mobile and wireless  storage and networking 
+our net revenue by end market for the last three fiscal years are as follows fiscal years ended january  january  january  in millions  except for percentages mobile and wireless storage networking other total mobile and wireless communications processors our communications processors are highly integrated cellular soc devices that enable mobile handset developers to address edge  wcdma g  td scdma china g and g lte mobile network standards 
+they incorporate high performance multi band baseband modem processors and applications processors in highly integrated  low power soc platforms for voice  computation and multimedia intensive mobile applications for smartphones 
+the pxa is a highly integrated g communications processor solution that targets the td scdma smartphone market with high multimedia performance and mass market appeal 
+the pxa worldphone platform is a single chip g communications processor that features both the latest umts and td scdma modem technologies 
+it combines gigahertz class applications processing performance with advanced d graphics and p multimedia processing capability 
+this device is designed to enable smartphones to have access anywhere in the world on multiple networks 
+the pxa is complemented by power management  rf and wireless connectivity components in an all marvell platform solution 
+modem processors our modem processors are highly optimized multi mode baseband modem devices that enable design of a wide array of high performance  low power internet connected devices  including smartphones  tablets  laptops  automotive  set top boxes and tvs 
+our modem processors incorporate a multiband multimode design  which is capable of addressing evolving g and g mobile standards 
+connectivity our avastar family of wireless products include standalone wi fi products  as well as multi function socs  which include wi fi and other communication protocols  including bluetooth and or fm  delivered on a single chip 
+historically  these devices have been incorporated primarily in mobile handsets  printers and access points 
+in today s increasingly connected and mobile lifestyle  the number and variety of products that require wireless communications have expanded significantly and includes digital still cameras  gaming devices  tablets  televisions  blu ray players  dvrs  in car infotainment and smart appliances 
+our products are well positioned for these devices by delivering low power and high performance functionality with the latest technologies  such as wi fi direct  wps and wi fi display 
+in addition  the avastar family of products provides a high degree of integration of power management features  rf components and memory 
+mobile computing products our armada  and products are socs that are designed to deliver advanced integration  leading multimedia performance and superior power consumption savings for mobile computing products  such as 
+table of contents tablets  ereaders  scanners  printers and educational devices 
+during fiscal  we shipped socs for use in tablets for the first time 
+we have also introduced new thin client products designed to operate on linux based devices  offering a low power cost and efficient alternative to existing desktop computers 
+connected home computing products the armada and products are soc solutions that are designed to enable the next generation of connected consumer platforms and to enhance the digital lifestyle 
+these devices are targeted at powering digital tvs  blu ray players  set top boxes and advanced media players by delivering an immersive viewing experience  d graphics and enhanced security 
+in addition  the armada and products are fully integrated devices that include dual sata interfaces  high performance ddr and nand memory controllers  usb  hdmi and sdio 
+storage products we offer a broad range of integrated data storage products across all major technologies  including hdds  hybrid hdds hhdd and optical disk drives odd 
+in addition  we offer storage system products for complex storage area network solutions 
+these products provide increased performance and reduced power consumption for enterprise  desktop and mobile storage systems 
+these integrated socs feature ultra fast read channels  high performance processors  transceivers  ddr ram controllers and cryptographic engines 
+hard disk drive controllers hard drive controllers provide high performance input output i o interface control between the hdd and the host system 
+we support a variety of host system interfaces  including sata  sas and fiber channel  which can support the complete range of enterprise  desktop and mobile hdds 
+we are the leading hdd controller supplier and currently supply products to all of the major hard drive manufacturers 
+in addition  we were the first to introduce hdd controllers with advanced gigabyte per platter technology for mobile hdds  a technological advantage which enables a higher level of data storage on a smaller form factor 
+solid state drive controllers our ssd controller socs are targeted at the growing market for flash based storage systems  for the enterprise  consumer and mobile markets 
+our ssd controllers leverage significant portions of intellectual property and software developed for the hdd market 
+additionally  we incorporate unique intellectual property and development required to ensure stable device operation 
+we have also leveraged our technology leadership in consumer ssd controllers and have developed a family of ssd controller based solutions designed for the smartphone end market 
+hybrid hard disk drive controllers a hhdd is an hdd that also contains flash memory  thereby leveraging the low cost of a hdd with the performance of a ssd 
+our hhdd controller socs include the technology required for hdd operation as well as a high speed interface for the on drive flash memory 
+optical disk drive controllers our odd controller socs leverage our various storage technologies to support a variety of odd formats  such as blu ray 
+storage system products our storage system products enable customers to manage and aggregate data from arrays of multiple hdds or from multiple servers 
+our portfolio of storage system solutions includes devices which convert data from 
+table of contents multiple formats  as well as devices which aggregate and consolidate data into high bandwidth streams 
+in fiscal  we released dragonfly  a storage accelerator product which enhances performance in virtualization and database applications 
+networking residential  enterprise and service provider networks are experiencing rapid change 
+to meet these challenges  our networking business is evolving by investing and adding technologies required for the buildout of new network architectures 
+we are focusing on cloud infrastructure and service provider infrastructure 
+cloud infrastructure we supply products related to cloud infrastructure  which encompasses home  private and public cloud networks home cloud is where personal applications and data reside within the privacy and control of a residential network 
+our home cloud products are designed to allow a multitude of smart devices to share content and manage home services 
+our home cloud related product offerings include our kirkwood and link street families 
+our kirkwood family of products is based on our embedded cpu technology  which have been designed to maximize overall performance while minimizing power consumption 
+designed for network connected consumer electronics equipment  this family of products is used in home gateways  set top boxes  network storage  printers  media players and point of service terminals 
+our link street family of fast ethernet and gigabit switches are targeted to the small office and home office market  where cost  ease of use and flexibility are critical 
+these devices are targeted at applications  such as standalone switches  media converters  intellectual property phones  firewall appliances  wireless and wired gateway routers  and wireless access points 
+when integrated with a high performance arm based embedded microprocessor  a media access controller and phy interface  our link street family of products provide an integrated single chip solution for small and medium size business applications  as well as residential applications 
+private cloud represents the next generation of the enterprise network that enables a more mobile workforce  global collaboration  increased bandwidth and enhanced security 
+our private cloud product offerings are within our prestera  discovery innovation and alaska families 
+the prestera dx family of gigabit ethernet gbe switches offers integration and performance for small and medium size business networks 
+these products are designed to enable system vendors to design affordable  plug and play  high density and standalone switches  which address the cost sensitive desktop switching market 
+the prestera ex family of enterprise switches is designed to deliver exceptional price and performance 
+the prestera ex family delivers a complete line of fast ethernet  gbe and gbe switching solutions 
+our discovery innovation family of products provides a complete soc solution based on our embedded cpu technology 
+by leveraging our discovery system controllers and deep expertise in arm based cpus  the discovery innovation socs offer high levels of integration 
+the high performance  low power  highly integrated processors are ideally suited to a wide range of applications  ranging from sophisticated routers  switches and wireless base stations to high volume laser printer applications 
+our alaska family of products includes high performance and low power gigabit transceivers  which address enterprise switching  server and telecom applications 
+this family of products enables the accelerated deployment of gbe capable systems for the local area network lan  metropolitan area network man and wide area network wan markets 
+our low power  low cost solutions effectively address network connectivity for client systems  such as pcs  gaming systems and digital tvs 
+public cloud encompasses low power commercial data centers  where we are focused on the convergence of networking  computing and storage technologies 
+our public cloud product offerings are within our prestera  armada xp and yukon families 
+
+table of contents the prestera cx family of gbe and gbe switches is designed for the new generation of high density data centers and optical broadband  as well as the convergence of data and storage networks 
+using standards based congestion management capabilities and dynamic power management  these products enable virtualization  cloud computing and software as a service 
+our armada xp family of products is a quad core processing  enterprise class cloud computing platform 
+this platform integrates four marvell designed arm compliant hz cpu cores along with a host of i o peripherals and is optimized to consume low power while simultaneously delivering high performance per watt 
+our yukon family of connectivity products includes integrated  single chip solutions  based on our proven enterprise class alaska family of products 
+these products are offered in an ultra small form factor  with low power consumption and are targeted for client and server network interface cards 
+service provider infrastructure we are leading the deployment of residential fiber access infrastructure and mobile internet infrastructure with ethernet passive optical network epon  gigabit passive optical network gpon and universal pon technologies  as well as the transition to intellectual property radio access networks  which will allow for the transition to lte g technologies 
+our avanta family provides solutions for next generation broadband  based on epon and gpon architectures 
+these products consist of a highly integrated gateway on a chip solution  ethernet and packet processing  voice processing  power management and applications processors 
+avanta is meant to meet the needs of next generation internet and the significant increases in required bandwidth  including high quality video  online gaming and conferencing 
+during fiscal  we also acquired xelerated ab for further details  please see note business combinations in our notes to the consolidated financial statements set forth in part ii  item of this annual report on form k 
+this acquisition enhances our product portfolio and adds a family of network processors and ultra programmable ethernet switching solutions designed for carrier ethernet  united fiber access  mobile backhaul and transport platforms 
+the xelerated family of products enables customers to quickly scale their services while maintaining low power  low latency and high performance necessary for a reliable mobile internet 
+the prestera mx multi layer switching family of products includes fully integrated mbe  gbe and gbe per second  fast ethernet configurable devices 
+these products are targeted at metropolitan edge and access systems in service provider networks 
+our powerline products for home networking and advanced metering infrastructure ami are designed for performance and robust connectivity 
+our home networking powerline solutions are designed into networking equipment deployed by service providers to deliver intellectual property television services and are also available to consumers through the retail channels 
+we are designing products that support the itu g 
+hn standard  ensure high performance over a variety of media 
+the g 
+hn standard provides support for powerline  as well as phoneline and coax media 
+our g 
+hn transceiver is designed to enable a superior user experience for performance intensive applications  such as voip  multi room dvr  video surveillance and gaming 
+with energy saving features and easy plug and play installation  our g 
+hn product family also enables easy connectivity for blu ray players  iptv ott set top boxes and internet ready tvs in the home 
+our powerline products are also designed to support high performance broadband ami applications for utility providers by supporting current and future smart grid needs  including real time network planning and management  outage avoidance and demand management 
+
+table of contents other products printing solutions our printing solutions include integrated socs that are custom designed asics for customer printing products  as well as application specific standard products designed for various product types 
+our printing solutions address the inkjet  laser and all in one printer markets and offer capabilities which include printing  scanning  copying  user interface  usb  networking  wireless  fax  photo and other applications 
+digital video processing products our digital video format converter products convert pc graphics  standard definition and high definition video into p high definition outputs  removing signal noise and image artifacts 
+these products are targeted for blu ray players and recorders  set top boxes  a v receivers  digital television and media clients 
+power management and green technology products our dsp switcher regulators are designed to provide efficiency  precision and transient response  all in a small form factor 
+we also offer analog switching regulators that are low cost  highly integrated power management solutions 
+our analog switching regulators are available as single or multiple output devices  allowing design flexibility for our customers 
+these solutions feature low power consumption  high efficiency and high switching frequency 
+our integrated power management ic family pmic of products are designed as companion chips for our cellular and applications processor product lines 
+our pmic products are used in cellular handsets and other mobile platforms 
+the pmic devices are highly integrated and designed to support all of the peripheral functions on the platform  including power regulation  battery charging  white led backlight drivers  touch screen control  audio and voice  vibration control and the real time clock 
+smart led lighting our smart led lighting platform enables energy efficient  high quality led lights  promoting an eco friendly and convenient lifestyle 
+it enables end users to control lighting solutions from their mobile and personal computing devices  whereby they can conveniently manage  analyze and maintain a cost saving digital lighting solution from anywhere in the world 
+this platform combines our led processors and a wireless zigbee wi fi gateway with smart lighting software 
+smart energy wi fi microcontroller our new smart energy platform provides a cost effective  flexible and easy to use solution for building a new generation of connected smart appliances 
+this platform is driven by a wi fi enabled microcontroller and integrated software 
+in addition to smart appliances  the smart energy platform also targets sensors  lighting controls  measurement tools  toys  personal medical devices and consumer accessories 
+we have determined that we operate in one reportable business segment the design  development and sale of integrated circuits 
+for further information  please see note segment and geographic information in the notes to the consolidated financial statements set forth in part ii  item of this annual report on form k 
+customers  sales and marketing our direct sales force targets markets that have high intensity data communications processing and high performance storage requirements 
+we complement and support our direct sales force with manufacturers representatives for our products in north america  europe and asia 
+in addition  we have distributors who support our sales and marketing activities in the united states  europe and asia 
+we also use stocking 
+table of contents representatives outside of the united states for some of our products 
+we expect a significant percentage of our sales will continue to come from direct sales to key customers 
+as we expand into other end markets  we will evaluate the best sales channel to service that business 
+we use field application engineers to provide technical support and assistance to existing and potential customers in designing  testing and qualifying systems designs that incorporate our products 
+we believe that superior field applications engineering support plays a pivotal role in building long term relationships with customers by improving our customers time to market  maintaining a high level of customer satisfaction and encouraging customers to use our next generation products 
+our marketing team works in conjunction with our field sales and application engineering force and is organized around our product applications and end markets 
+due to the complexity of our products  we believe that individual meetings with our marketing  sales and engineering teams provide the most effective and rapid means of communicating the capabilities  benefits and extremely technical specifications of each significant new product 
+the target customers for our storage products are manufacturers of hdds and ssds for the enterprise  desktop and mobile computing markets 
+the target customers for our switching  transceiver and connectivity products are manufacturers of high speed networking equipment targeted at lans  mans and wans  in addition to pc client oems 
+the target customers for our communications controller and embedded processor products are the manufacturers and vendors of wireless communications equipment and handsets for the internet voice communications market 
+the target customers for our cellular and applications processor products are manufacturers of cellular handsets  tablets  personal navigation devices and a large variety of other handheld  portable consumer applications 
+our target customers for our wireless and personal area networking products include manufacturers of wireless lan solutions for small and medium size businesses  small office home office and residential gateway solutions as well as manufacturers of a variety of new consumer applications such as cellular handsets  gaming devices  pdas and home entertainment multimedia client devices 
+the target customers for our digital video processing products include manufacturers of consumer electronic devices  such as digital televisions  hd based media players  hd based set top boxes  media clients and audio visual receivers 
+the target customers for our power management and green technology products are very diverse and include manufacturers of many different electronic devices 
+a small number of customers have accounted for a significant portion of our net revenue 
+one customer  western digital  accounted for more than of our net revenue in fiscal  and two customers represented more than of our net revenue in fiscal and western digital represented  and of our net revenue in fiscal  and  respectively 
+research in motion represented of net revenue in fiscal toshiba represented of net revenue in fiscal subsequent to our fiscal  western digital acquired hitachi s hdd unit 
+if this acquisition had occurred at the beginning of fiscal  western digital would have represented of net revenue in fiscal during fiscal  seagate acquired the hdd operations of samsung 
+if this acquisition had occurred at the beginning of fiscal  seagate would have represented of net revenue 
+our sales are made under purchase orders typically received between one week and four months prior to the scheduled delivery date 
+these purchase orders can be cancelled without charge if notice is given within an agreed upon period 
+because of the scheduling requirements of our foundries  we generally place firm orders for products with our suppliers up to weeks prior to the anticipated delivery date and typically prior to an order for the product 
+these lead times typically change based on the current capacity at the foundries 
+
+table of contents an increasing number of our products are being incorporated into consumer electronics products  including gaming devices  which are subject to significant seasonality and fluctuations in demand 
+due to holiday and back to school buying trends  these seasonal demand patterns generally will negatively impact our results in the first and fourth quarter and positively impact our results in the second and third quarter of our fiscal years 
+backlog our sales are made primarily pursuant to standard purchase orders for delivery of products 
+the quantities actually purchased by the customer  as well as the shipment schedules  are frequently revised during the agreement term to reflect changes in the customer s needs 
+due to an industry practice that allows customers to cancel or change purchase orders with limited notice prior to the scheduled shipment dates  we believe that backlog is not a reliable indicator of future revenue 
+in addition  a significant portion of our revenue is related to inventory pulled by customers from third party logistics providers 
+as such  this revenue would not be included in the backlog 
+research and development we believe that our future success depends on our ability to introduce improvements to our existing products and to develop new products that deliver cost effective solutions for both existing and new markets 
+our research and development efforts are directed largely to the development of high performance analog  mixed signal  digital signal processing and embedded microprocessor integrated circuits with the smallest die size and lowest power 
+we devote a significant portion of our resources to expanding our product portfolio based on a broad intellectual property portfolio with designs that enable high performance  reliable communications over a variety of physical transmission media 
+we are also focused on incorporating functions currently provided by stand alone integrated circuits into our integrated platform solutions to reduce our customers overall system costs 
+we have assembled a core team of engineers who have extensive experience in the areas of mixed signal circuit design  digital signal processing  embedded microprocessors  cmos technology and system level architectures 
+we have invested  and expect that we will continue to invest  significant funds for research and development 
+our research and development expense was  million  million and million in fiscal  and  respectively 
+manufacturing integrated circuit fabrication the vast majority of our integrated circuits are substantially fabricated using widely available cmos processes  which provide greater flexibility to engage independent foundries to manufacture integrated circuits at lower costs 
+by outsourcing manufacturing  we are able to avoid the cost associated with owning and operating our own manufacturing facility 
+this allows us to focus our efforts on the design and marketing of our products 
+we currently outsource a substantial percentage of our integrated circuit manufacturing to taiwan semiconductor manufacturing company  with the remaining manufacturing outsourced to other foundries primarily in asia 
+we work closely with our foundry partners to forecast on a monthly basis our manufacturing capacity requirements 
+our integrated circuits are currently fabricated in several advanced  sub micron manufacturing processes 
+because finer manufacturing processes lead to enhanced performance  smaller silicon chip size and lower power requirements  we continually evaluate the benefits and feasibility of migrating to smaller geometry process technology in order to reduce cost and improve performance 
+assembly and test we outsource all product packaging and testing requirements for our production products to several assembly and test subcontractors  including stats chippac ltd 
+in singapore  malaysia  korea  taiwan and china  global testing corporation in singapore  siliconware precision industries in taiwan  ase electronics in singapore  taiwan and malaysia and amkor in korea  philippines and taiwan 
+
+table of contents quality assurance we are certified to the international organization for standardization quality management systems standard iso we build quality into our products starting with the design and development process 
+our designs are subjected to extensive circuit simulation under extreme conditions of temperature  voltage and processing before being committed to manufacture 
+we pre qualify each of our subcontractors and conduct regular in depth quality audits 
+we closely monitor foundry production to ensure consistent overall quality  reliability and yield levels 
+all of our independent foundries and assembly test subcontractors have been awarded iso certification 
+environmental management we monitor the environmental impact of our products 
+the need for lead free and halogen free solutions in electronic components and systems has received increasing attention within the semiconductor industry and many companies are moving towards becoming compliant with the restriction of hazardous substances directive rohs  the european legislation that restricts the use of a number of substances  including lead 
+we believe that our current products are compliant with the rohs directive and the reach regulation  evaluation and authorization of chemicals svhc substances directive 
+intellectual property our future revenue growth and overall success depend in large part on our ability to protect our intellectual property 
+we rely on a combination of patents  copyrights  trademarks  trade secret laws  contractual provisions and licenses to protect our intellectual property 
+we also enter into confidentiality agreements with our employees  consultants  suppliers and customers and seek to control access to and distribution of  our documentation and other proprietary information 
+despite these precautions  it may be possible for a third party to copy or otherwise obtain and use our products and technology without authorization  independently develop similar technology or design around our patents 
+in addition  we often incorporate the intellectual property of other companies into our designs and we have certain obligations with respect to the non use and non disclosure of their intellectual property 
+it is possible  however  that the steps taken by us to prevent misappropriation or infringement of our intellectual property or our customers intellectual property may not be successful 
+as of january   we have been issued and or have acquired over  us patents and over foreign patents and we have more than  us and foreign pending patent applications on various aspects of our technology  with expiration dates ranging approximately from to  however  we cannot be certain whether we will be issued patents as a result of these applications 
+furthermore  it is possible that our patents may be invalidated  circumvented  challenged or licensed to others 
+additionally  the laws of some foreign countries in which our products are or may be developed  manufactured or sold  including various countries in asia  may not protect our products or proprietary information to the same extent as do the laws of the united states and thus make the possibility of piracy of our technology and products more likely in these countries 
+we may need to engage in litigation in the future to enforce our intellectual property rights or the rights of our customers  to protect our trade secrets or to determine the validity and scope of proprietary rights of others  including our customers 
+this litigation could result in substantial costs and diversion of our resources and could materially and adversely affect our business  financial condition and results of operations 
+we have expended and will continue to expend considerable resources in establishing a patent position designed to protect our intellectual property 
+while our ability to compete is enhanced by our ability to protect our intellectual property  we believe that in view of the rapid pace of technological change  the combination of the technical experience and innovative skills of our employees may be as important to our business as the legal protection of our patents and other proprietary information 
+from time to time  we may desire or be required to renew or to obtain licenses from third parties in order to further develop and effectively market commercially viable products 
+we cannot be sure that any necessary licenses will be available or will be available on commercially reasonable terms 
+
+table of contents the integrated circuit industry is characterized by vigorous pursuit and protection of intellectual property rights  which has resulted in significant and often time consuming and expensive litigation 
+from time to time  we receive  and may continue to receive in the future  notices that claim we have infringed upon  misappropriated or misused the proprietary rights of other parties 
+although we defend these claims vigorously  it is possible that we will not prevail in pending or future lawsuits 
+in addition  we may be sued in the future by other parties who claim that we have infringed their patents or misappropriated or misused their trade secrets  or who may seek to invalidate one or more of our patents 
+any of these claims could materially and adversely affect our business  financial condition and results of operations 
+even if claims against us are not valid or successfully asserted  these claims could result in significant costs and a diversion of management and personnel resources to defend 
+in that event  our business  financial condition and results of operations could also be materially and adversely affected 
+in any of the pending or future claims or actions asserted against us  we may seek to obtain licenses under a third party s intellectual property rights  however  we may not be able to obtain such licenses on commercially reasonable terms  if at all 
+competition the markets for our products are intensely competitive  characterized by rapid technological change  evolving standards  short product life cycles and pricing pressures imposed by high volume customers 
+we expect competition to intensify as current competitors expand their product offerings and new competitors enter our markets 
+we believe that our ability to compete successfully in the rapidly evolving markets for our products depends on a number of factors  including the performance  features  quality and price of our products  timing and success of new product introductions by us  our customers and our competitors  emergence of new industry standards  ability to obtain adequate foundry capacity  and number and nature of our competitors in a given market 
+by end market our major competitors are as follows  mobile and wireless storage networking qualcomm incorporated lsi corporation broadcom corporation broadcom corporation stmicroelectronics nv freescale semiconductor holdings i  ltd 
+mediatek  inc texas instruments incorporated lsi corporation spreadtrum communications  inc intel corporation intel corporation cavium  inc nvidia corporation pmc sierra  inc texas instruments incorporated applied micro circuits corporation xilinx  inc altera corporation qualcomm incorporated in addition  we expect increased competition in the future from other emerging and established companies 
+although we believe we will be able to successfully compete with existing and potential competitors  some of 
+table of contents these current and potential competitors have longer operating histories  greater name recognition  access to larger customer bases and significantly greater financial  sales and marketing  manufacturing  distribution  technical and other resources than we do 
+as a result  they may be able to respond more quickly to changing customer demands or to devote greater resources to the development  promotion and sale of their products than we can 
+our current or future competitors could develop and introduce new products that will be priced lower  provide superior performance or achieve greater market acceptance than our products 
+in addition  in the event of a manufacturing capacity shortage  these competitors may be able to manufacture products when our ability to do so may be limited 
+furthermore  current or potential competitors have established or may establish financial and strategic relationships among themselves or with existing or potential customers or other third parties to increase the ability of their products to address the needs of customers 
+accordingly  it is possible that new competitors or alliances among competitors could emerge and rapidly acquire significant market share  which could harm our business 
+in addition  many of our current and potential customers have substantial technological capabilities and financial resources 
+some customers have already developed  or in the future may develop  technologies that could compete directly with our products 
+we may also face competition from suppliers of products based on new or emerging technologies 
+historically  average unit selling prices in the integrated circuit industry in general  and for our products in particular  have decreased over the life of a particular product 
+we expect that the average unit selling prices of our products will continue to be subject to significant pricing pressures 
+in order to offset expected declines in the average unit selling prices of our products  we will need to continue to reduce the cost of our products 
+to accomplish this  we intend to continue to implement design changes that lower the cost of manufacturing and assembling and testing our products 
+we also intend to enter into long term  strategic arrangements with our foundry partners to secure wafer capacity at reduced prices  by negotiating reduced charges from our foundries 
+in addition  we plan to work with multiple foundry partners to ensure that our products are qualified and can be manufactured in multiple locations  which will ensure favorable wafer pricing 
+lastly  we are designing all new products as well as redesigning some existing products with packaging that uses copper wiring  rather than gold wiring 
+due to the rise in the cost of gold over the past year  this transition will lower our overall product cost 
+because we do not operate our own manufacturing  assembly or testing facilities  we may not be able to reduce our costs as rapidly as companies that operate their own facilities 
+if we fail to introduce lower cost versions of our products in a timely manner or to successfully manage our manufacturing  assembly and testing relationships  our business could be adversely impacted 
+employees as of january   we had a total of  employees 
+executive officers of the registrant the following table shows information about our executive officers as of january  name age position s dr 
+sehat sutardja president  chief executive officer and chairman of the board clyde r 
+hosein chief financial officer and secretary dr 
+pantas sutardja vice president  chief technology officer  chief research and development officer and director dr 
+sehat sutardja  one of our co founders  has served as the president  chief executive officer and co chairman of our board of directors since  and chairman of our board of directors since while 
+table of contents remaining deeply involved in the daily challenges of running a global growth company  dr 
+sutardja participates heavily in our engineering and marketing efforts across analog  video processor  and microprocessor design while offering input across all of our other product lines 
+dr 
+sehat sutardja is widely regarded as one of the pioneers of the modern semiconductor age 
+his breakthrough designs and guiding vision have revolutionized numerous industry segments  from data storage to the high performance  low power chips now driving the growing global markets for mobile computing and telephony 
+for his relentless innovation  he has been awarded more than patents and has been named a fellow of ieee 
+in  dr 
+sutardja was recognized as the inventor of the year by the silicon valley intellectual property law association 
+dr 
+sutardja has become an internationally recognized proponent of new energy efficiency standards for consumer electronics 
+to that end  he has been working with the governments in both the us and china to establish efficiency performance standards that could produce significant cost and carbon savings 
+dr 
+sutardja holds a ms and phd in electrical engineering and computer science from the university of california at berkeley 
+dr 
+sehat sutardja received a bs in electrical engineering from iowa state university 
+dr 
+sehat sutardja is the brother of dr 
+pantas sutardja 
+clyde r 
+hosein has served as our chief financial officer since june and our corporate secretary since september mr 
+hosein served as our interim chief operating officer from october to march from march until june  mr 
+hosein served as chief financial officer for integrated device technologies  a publicly traded company that develops and delivers mixed signal semiconductor solutions to the communications  computing and consumer end markets 
+from until  mr 
+hosein served as chief financial officer of advanced interconnect technologies 
+from to  mr 
+hosein was the chief financial officer and senior director of corporate planning of candescent technologies corporation 
+previous to candescent  mr 
+hosein spent over years with ibm corporation  where he held several engineering and financial positions within their storage  microelectronics  data systems and corporate divisions 
+mr 
+hosein serves on the board of directors of cree inc  a publicly traded company that develops and manufactures led products 
+mr 
+hosein holds an mba from new york university stern school of business and a bs in industrial engineering from polytechnic university in new york 
+dr 
+pantas sutardja  one of our co founders  has served as vice president and a director since our inception dr 
+pantas sutardja was appointed chief technology officer in and chief research and development officer in august dr 
+pantas sutardja served as our acting chief operating officer from september until june dr 
+pantas sutardja holds a bs  ms and phd in electrical engineering and computer science from the university of california at berkeley 
+dr 
+pantas sutardja is the brother of dr 
+sehat sutardja 
+item a 
+risk factors additional factors that may affect future results investing in our common shares involves a high degree of risk 
+you should carefully consider the risks and uncertainties described below and all information contained in this report before you decide to purchase our common shares 
+if any of the possible adverse events described below actually occurs  we may be unable to conduct our business as currently planned and our financial condition and operating results could be harmed 
+in addition  the trading price of our common shares could decline due to the occurrence of any of these risks  and you could lose all or part of your investment 
+our financial condition and results of operations may vary from quarter to quarter  which may cause the price of our common shares to decline 
+our quarterly results of operations have fluctuated in the past and could do so in the future 
+because our results of operations are difficult to predict  you should not rely on quarterly comparisons of our results of operations as an indication of our future performance 
+
+table of contents fluctuations in our results of operations may be due to a number of factors  including  but not limited to  those listed below and those identified throughout this risk factors section changes in general economic and political conditions and specific conditions in the markets we address  including the continuing volatility in the technology sector and semiconductor industry  our ability to develop and introduce new and enhanced products in a timely and effective manner  as well as our ability to anticipate and adapt to changes in technology  cancellations  rescheduling or deferrals of significant customer orders or shipments  as well as the ability of our customers to manage inventory  our dependence on a few customers for a significant portion of our revenue  our ability to scale our operations in response to changes in demand for our existing products or demand for new products requested by our customers  gain or loss of a key customer or design win  seasonality in sales of consumer devices in which our products are incorporated  our ability to maintain a competitive cost structure for our manufacturing and assembly and test processes  increases in assembly costs due to commodity price increases  such as the price of gold  failure to qualify our products or our suppliers manufacturing lines  our ability to exercise stringent quality control measures to obtain high yields  our ability to attract and retain highly skilled managerial  engineering  sales and marketing personnel  failure to protect our intellectual property  impact of a significant natural disaster  including earthquakes  floods and tsunamis  and any current and future litigation that could result in substantial costs and a diversion of management s attention and resources that are needed to successfully maintain and grow our business 
+due to fluctuations in our quarterly results of operations and other factors  the price at which our common shares will trade is likely to continue to be highly volatile 
+accordingly  you may not be able to resell your common shares at or above the price you paid 
+in future periods  our stock price could decline if  amongst other factors  our revenues or operating results are below our estimates or the estimates or expectations of public market analysts and investors 
+as a result of stock price volatility  we may be subject to securities class action litigation 
+any litigation could result in substantial costs and a diversion of management s attention and resources that are needed to successfully maintain and grow our business 
+a significant portion of our business is dependent on the hdd industry  which is highly cyclical  experiences rapid technological change  is subject to industry consolidation and is facing increased competition from alternative technologies 
+the hdd industry is intensely competitive  and the technology changes rapidly 
+this industry has historically been cyclical  with periods of increased demand and rapid growth followed by periods of oversupply and subsequent contraction 
+these cycles may affect us because some of our customers are participants in this industry 
+hdd manufacturers tend to order more components than they may need during growth periods  and sharply reduce orders for components during periods of contraction 
+rapid technological changes in the hdd industry often result in shifts in market share among the industry s participants 
+if the hdd manufacturers using our products do not retain or increase their market share  our sales may decrease 
+
+table of contents in addition  the hdd industry has experienced consolidation over the past several years 
+for example  during fiscal  toshiba acquired the hdd operations of fujitsu 
+in december  seagate completed the acquisition of samsung s hdd unit 
+subsequent to our fiscal  western digital completed the acquisition of hitachi s hdd unit 
+consolidation among our customers could lead to changing demand for our products  replacement of our products by the merged entity with those of our competitors and cancellation of orders  each of which could harm our results of operations 
+on the other hand  this could lead to increased opportunities for our products within the combined company if we can leverage our technology and customer relationships 
+furthermore  future changes in the nature of information storage products could reduce demand for traditional hdds 
+for example  products using alternative technologies  such as solid state flash drives and other storage technologies could become a source of competition to manufacturers of hdds 
+because we offer ssd controllers  leveraging our technology in hard drives  we believe we will maintain significant market share even if demand for traditional hdds decreases 
+we operate in the intensely competitive markets  and our failure to compete effectively would harm our results of operations 
+the semiconductor industry and specifically the mobile and wireless communications markets are extremely competitive  and we expect competition to intensify as current competitors expand their product offerings and new competitors enter the market 
+we currently compete with a number of large domestic and international companies in the business of designing integrated circuits and related applications  some of which have greater financial  technical and management resources than us 
+we expect competition to continue to increase as industry standards continue to evolve and become better known  and others realize the market potential of wired and wireless products and services 
+for example  we expect to see increased competition in the td scdma smartphone market in china 
+as competition in the markets in which we operate continues to increase  our revenues and gross margins may decline 
+for example  competitors with greater financial resources may be able to offer lower prices than us  or they may offer additional products  services or other incentives that we may not be able to match 
+in addition  many of our competitors operate and maintain their own fabrication facilities and have longer operating histories  greater name recognition  larger customer bases  and greater sales  marketing and distribution resources than we do 
+furthermore  our current and potential competitors in the mobile and wireless markets have established or may establish financial and strategic relationships among themselves or with existing or potential customers or other third parties to increase the ability of their products to address the needs of customers 
+accordingly  new competitors or alliances among these competitors may acquire significant market share  which would harm our business 
+while we continue to pursue similar strategic relationships  and currently have significant financial and technical resources  we cannot assure you that we will be able to continue to compete successfully against existing or new competitors  which would harm our results of operations 
+in addition  the semiconductor providers competing for the mobile and wireless communication markets have experienced consolidation recently 
+in february  broadcom corporation acquired netlogic microsystems 
+in addition  in september  texas instruments incorporated acquired national semiconductor 
+consolidation among our competitors could lead to a changing competitive landscape  capabilities  and market share  which could harm our results of operations 
+our business  financial condition and results of operations may be adversely impacted by global economic conditions  which may cause a decline in the market price of our common shares 
+we operate in the semiconductor industry  which is cyclical and subject to rapid change and evolving industry standards 
+from time to time  this industry has experienced significant demand downturns 
+these downturns are characterized by decreases in product demand  excess customer inventories and sometimes accelerated erosion of prices  including as a result of volatile global economic conditions 
+these factors could cause substantial fluctuations in our net revenue  gross margin  cash flows and results of operations 
+in addition  during these downturns some competitors may become more aggressive in their pricing practices  which would adversely impact our gross margin 
+any downturns in the current environment may be severe and prolonged  and 
+table of contents any failure of the markets in which we operate to fully recover from downturns could seriously impact our revenue and harm our business  financial condition and results of operations 
+the semiconductor industry is also subject to periodic increases in demand and supply constraints  which may affect our ability to ship products 
+accordingly  our results of operations may vary significantly as a result of the general conditions in the semiconductor industry  which could cause fluctuations in our stock price 
+we cannot predict the timing  strength or duration of any economic slowdown or subsequent global economic recovery in the semiconductor industry 
+if the economy or markets in which we operate deteriorate from current levels  our business  financial condition and results of operations will likely be materially and adversely affected 
+additionally  the combination of our lengthy sales cycle coupled with challenging macroeconomic conditions could adversely impact our results of operations 
+we rely on independent foundries and subcontractors for the manufacture  assembly and testing of our integrated circuit products  and the failure of any of these third party vendors to deliver products or otherwise perform as requested could damage our relationships with our customers  decrease our sales and limit our ability to grow our business 
+we do not have our own manufacturing or assembly facilities and have very limited in house testing facilities 
+therefore  we currently rely on several third party foundries to produce our integrated circuit products 
+we also currently rely on several third party assembly and test subcontractors to assemble  package and test our products 
+this exposes us to a variety of risks  including the following regional concentration substantially all of our products are manufactured by third party foundries located in taiwan 
+our other sources for manufacturing are located in the us  china and singapore 
+in addition  substantially all of our assembly and testing facilities are located in singapore  taiwan  malaysia and the philippines 
+because of the geographic concentration of these third party foundries  as well as our assembly and test subcontractors  we are exposed to the risk that their operations may be disrupted by regional disasters or by political changes 
+for example  the risk of an earthquake in taiwan and elsewhere in the pacific rim region is significant due to the proximity of major earthquake fault lines to the facilities of our foundries and assembly and test subcontractors 
+taiwan has experienced significant earthquakes in the past and may be subject to additional earthquakes that could disrupt manufacturing operations 
+in the event of a significant natural disaster or a quarantine or closure that affects our manufacturers in the pacific rim  our revenues  cost of goods sold and results of operations would be negatively impacted 
+in addition  if we were unable to quickly identify alternate manufacturing facilities  we could experience significant delays in product shipments  which could harm our results of operations 
+no guarantee of capacity or supply the ability of each foundry to provide us with semiconductor devices is limited by its available capacity and existing obligations 
+in addition  when demand is strong  availability of foundry capacity may be constrained  and with limited exceptions  our vendors are not obligated to perform services or supply products to us for any specific period  in any specific quantities  or at any specific price  except as may be provided in a particular purchase order 
+for example  in recent years  we experienced some supply shortages due to the difficulties encountered by the foundries in rapidly increasing their production capacities after the recovery from the severe economic down turn from fiscal to fiscal due to a rapid increase in demand 
+although we have entered into contractual commitments to supply specified levels of products to some of our customers  we may not have sufficient levels of production capacity with all of our foundries 
+in addition  foundry capacity may not be available when we need it or at reasonable prices 
+we place our orders on the basis of our customers purchase orders or our forecast of customer demand  and the foundries can allocate capacity to the production of other companies products and reduce deliveries to us on short notice 
+it is possible that foundry customers that are 
+table of contents larger and better financed than we are or that have long term agreements with our main foundries may induce our foundries to reallocate capacity to those customers 
+this reallocation could impair our ability to secure the supply of components that we need 
+moreover  if any of our third party foundry suppliers are unable to secure necessary raw materials from their suppliers  lose benefits under material agreements  experience power outages  lack sufficient capacity to manufacture our products  encounter financial difficulties or suffer any other disruption or reduction in efficiency  we may encounter supply delays or disruptions  which could harm our business or results of operations 
+despite our strategy to move to a dual source  we currently use several independent foundries to manufacture our semiconductor products  most of our products are not manufactured at more than one foundry at any given time  and our products typically are designed to be manufactured in a specific process at only one of these foundries 
+accordingly  if one of our foundries is unable to provide us with components as needed  it may be difficult for us to transition the manufacture of our products to other foundries  and we could experience significant delays in securing sufficient supplies of those components 
+this could result in a material decline in revenues  net income and cash flow 
+in order to secure sufficient foundry capacity when demand is high and mitigate the risks described in the foregoing paragraph  we may enter into various arrangements with suppliers that could be costly and harm our results of operations  such as non refundable deposits with or loans to foundries in exchange for capacity commitments  and contracts that commit us to purchase specified quantities of integrated circuits over extended periods 
+we may not be able to make any such arrangement in a timely fashion or at all  and any arrangements may be costly  reduce our financial flexibility  and not be on terms favorable to us 
+moreover  if we are able to secure foundry capacity  we may be obligated to use all of that capacity or incur penalties 
+these penalties may be expensive and could harm our financial results 
+we are also subject to risk from fluctuating market prices of certain commodity raw materials  particularly gold  that are incorporated into our end products or used by our suppliers to manufacture our end products 
+supplies for such commodities may from time to time become restricted  or general market factors and conditions may affect pricing of such commodities 
+over the past few years  the price of gold increased significantly and certain of our supply chain partners assessed surcharges to compensate for the resultant increase in manufacturing costs 
+as a result  our gross margins have been adversely affected by significant increases in the price of gold 
+we are currently restructuring certain manufacturing processes to use copper instead of gold in our products 
+in transitioning from gold to copper  because the capacity of either wafer producers or assemblers can be limited from time to time  we may be unable to satisfy the demand of our customers  or may have to accept price increases or other compensation arrangements that increase our operating expenses and erode our gross margins 
+our results may also be materially affected adversely if we fail to execute successfully or if we experience resistance from our customer base in the transition from gold to copper 
+uncertain yields and quality the fabrication of integrated circuits is a complex and technically demanding process 
+our foundries have from time to time experienced manufacturing defects and reduced manufacturing yields 
+changes in manufacturing processes or the inadvertent use of defective or contaminated materials by our foundries could result in lower than anticipated manufacturing yields or unacceptable performance 
+many of these problems are difficult to detect at an early stage of the manufacturing process and may be time consuming and expensive to correct 
+poor yields from our foundries  or defects  integration issues or other performance problems in our products could cause us significant customer relations and business reputation problems  harm our financial results and result in financial or other damages to our customers 
+our customers could also seek damages from us for their losses 
+a product liability claim brought against us  even if unsuccessful  would likely be time consuming and costly to defend 
+in addition  defects in our existing or new products could result in significant warranty  support and repair costs  and divert the attention of our engineering personnel from our product development efforts 
+
+table of contents to the extent that we rely on outside suppliers to manufacture or assemble and test our products  we may have a reduced ability to control directly product delivery schedules and quality assurance 
+this lack of control may result in product shortages or quality assurance problems that could delay shipments of products or increase manufacturing  assembly  testing or other costs 
+our sales are concentrated in a few customers  and if we lose or experience a significant reduction in sales to any of these key customers  or if any of these key customers experience a significant decline in market share  our revenues may decrease substantially 
+we receive a significant amount of our revenues from a limited number of customers 
+net revenue from the three largest customers in each respective fiscal year combined represented  and of our net revenue in fiscal  fiscal and fiscal  respectively 
+sales to our largest customers have fluctuated significantly from period to period and year to year primarily due to the timing and number of design wins with each customer  natural disasters that may divert a customer s operations  as well as the continued diversification of our customer base as we expand into new markets  and will likely continue to fluctuate in the future 
+the loss of any of our large customers or a significant reduction in sales we make to them would likely harm our financial condition and results of operations 
+our operating results in the foreseeable future will continue to depend on sales to a relatively small number of customers  as well as the ability of these customers to sell products that incorporate our products 
+in the future  these customers may decide not to purchase our products at all  purchase fewer products than they did in the past  or alter their purchasing patterns in some other way  particularly because a significant portion of our sales are made on a purchase order basis  which permits our customers to cancel  change or delay product purchase commitments with relatively short notice to us  our customers may purchase integrated circuits from our competitors  our customers may discontinue sales or lose market share in the markets for which they purchase our products  our customers may develop their own solutions  or our customers may be subject to severe business disruptions 
+we are subject to order and shipment uncertainties  and if we are unable to accurately predict customer demand  we may hold excess or obsolete inventory  which would reduce our gross margin  conversely  we may have insufficient inventory  which would result in lost revenue opportunities and potentially in loss of market share and damaged customer relationships 
+we typically sell products pursuant to purchase orders rather than long term purchase commitments 
+customers can generally cancel or defer purchase orders on short notice without incurring a significant penalty 
+due to their inability to predict demand or other reasons  some of our customers may accumulate excess inventories and  as a consequence  defer purchase of our products 
+we cannot accurately predict what or how many products our customers will need in the future 
+anticipating demand is difficult because our customers face unpredictable demand for their own products and are increasingly focused more on cash preservation and tighter inventory management 
+in addition  as an increasing number of our chips are being incorporated into consumer products  we anticipate greater fluctuations in demand for our products  which makes it more difficult to forecast customer demand 
+we place orders with our suppliers based on forecasts of customer demand and  in some instances  may establish buffer inventories to accommodate anticipated demand 
+our forecasts are based on multiple assumptions  each of which may introduce error into our estimates 
+for example  our ability to accurately forecast customer demand may be impaired by the delays inherent in our lengthy sales cycle 
+the sales cycle for many of our products is long and requires us to invest significant resources with each potential customer without any assurance of sales to that customer 
+our sales cycle typically begins with an extended evaluation and test period  also known as qualification  during which our products undergo rigorous reliability 
+table of contents testing by our customers 
+qualification is typically followed by an extended development period by our customers and an additional three to nine month period before a customer commences volume production of equipment incorporating our products 
+this lengthy sales cycle creates the risk that our customers will decide to cancel or change product plans for products incorporating our integrated circuits prior to completion  which makes it even more difficult to forecast customer demand 
+our products are incorporated into complex devices and systems  which may create supply chain cross dependencies 
+for example  in fiscal  many areas of thailand sustained massive damage from flooding  which disrupted the global supply chain for hdds 
+due to cross dependencies  any supply chain disruptions could negatively impact the demand for our products in the short term 
+we have a limited ability to predict the timing of a supply chain correction 
+in addition  the market share of our customers could be adversely impacted on a long term basis due to any continued supply chain disruption  which could negatively affect our results of operations 
+if we overestimate customer demand  our excess or obsolete inventory may increase significantly  which would reduce our gross margin and adversely affect our financial results 
+conversely  if we underestimate customer demand or if insufficient manufacturing capacity is available  we would miss revenue opportunities and potentially lose market share and damage our customer relationships 
+in addition  any future significant cancellations or deferrals of product orders or the return of previously sold products could materially and adversely affect our profit margins  increase product obsolescence and restrict our ability to fund our operations 
+if we fail to appropriately scale our operations in response to changes in demand for our existing products or to the demand for new products requested by our customers  our business and profitability could be materially and adversely affected 
+to achieve our business objectives  it may be necessary from time to time for us to expand or contract our operations 
+in the future  we may not be able to scale our workforce and operations in a sufficiently timely manner to respond effectively to changes in demand for our existing products or to the demand for new products requested by our customers 
+in that event  we may be unable to meet competitive challenges or exploit potential market opportunities  and our current or future business could be materially and adversely affected 
+conversely  if we expand our operations and workforce too rapidly in anticipation of increased demand for our products  and such demand does not materialize at the pace at which we expected  the rate of increase in our costs and operating expenses may exceed the rate of increase in our revenue  which would adversely affect our results of operations 
+in addition  if such demand does not materialize at the pace which we expect  we may be required to scale down our business through expense and headcount reductions as well as facility consolidations or closures that could result in restructuring charges that would materially and adversely affect our results of operations 
+for example  in order to reduce expenses in the challenging economic environment that began during the second half of fiscal  in late fiscal and early in fiscal  we implemented certain cost reduction measures to reduce operating expenses 
+since that time we have hired a significant numbers of employees primarily in the research and development area 
+because many of our expenses are fixed in the short term or are incurred in advance of anticipated sales  we may not be able to decrease our expenses in a timely manner to offset any decrease in customer demand 
+if customer demand does not increase as anticipated  our profitability could be adversely affected due to our higher expense levels 
+our past growth has placed  and any future long term growth is expected to continue to place  a significant strain on our management personnel  systems and resources 
+to implement our current business and product plans  we will need to continue to expand  train  manage and motivate our workforce 
+all of these endeavors will require substantial management effort 
+although we have an enterprise resource planning system to help us improve our planning and management processes  we anticipate that we will also need to continue to implement and improve a variety of new and upgraded operational and financial systems  as well as additional procedures and other internal management systems 
+these systems can be time consuming and expensive to implement  increase management responsibilities and divert management attention 
+if we are unable to effectively manage 
+table of contents our expanding operations  we may be unable to scale our business quickly enough to meet competitive challenges or exploit potential market opportunities  or conversely  we may scale our business too quickly and the rate of increase in our costs and expenses may exceed the rate of increase in our revenue  either of which would materially and adversely affect our results of operations 
+if we are unable to develop and introduce new and enhanced products that achieve market acceptance in a timely and cost effective manner  our results of operations and competitive position will be harmed 
+our future success will depend on our ability  in a timely and cost effective manner  to develop and introduce new products and enhancements to our existing products 
+we sell products in markets that are characterized by rapid technological change  evolving industry standards  frequent new product introductions  short product life cycles and increasing demand for higher levels of integration and smaller process geometries 
+in addition  the development of new silicon devices is highly complex  and due to supply chain cross dependencies and other issues  we may experience delays in completing the development  production and introduction of our new products 
+our past sales and profitability have resulted  to a large extent  from our ability to anticipate changes in technology and industry standards and to develop and introduce new and enhanced products incorporating the new standards and technologies 
+our ability to adapt to these changes and to anticipate future standards  and the rate of adoption and acceptance of those standards  will be a significant factor in maintaining or improving our competitive position and prospects for growth 
+if new industry standards emerge that we do not properly anticipate  our products or our customers products could become unmarketable or obsolete  and we could lose market share 
+we may also have to incur substantial unanticipated costs to comply with these new standards 
+in addition  our target markets continue to undergo rapid growth and consolidation 
+a significant slowdown in any of these markets could materially and adversely affect our business  financial condition and results of operations 
+our success will also depend on the ability of our customers to develop new products and enhance existing products for the markets they serve and to introduce and promote those products successfully 
+even if new and enhanced products are introduced to the market  we and our customers may not be able to achieve market acceptance of them in a timely manner 
+in addition  our long standing relationships with some of our larger customers may also deter other potential customers who compete with these customers from buying our products 
+to attract new customers or retain existing customers  we may offer certain customers certain price concessions  which could cause our average selling prices and gross margins to decline 
+costs related to defective products could have a material adverse effect on us 
+we have experienced  from time to time  hardware and software defects and bugs associated with the introduction of our highly complex products 
+we cannot assure you that  despite our testing procedures  errors will not be found in new products or releases after commencement of commercial shipments in the future  which could result in loss of or delay in market acceptance of our products  material recall and replacement costs  delay in revenue recognition or loss of revenues  writing down the inventory of defective products  the diversion of the attention of our engineering personnel from product development efforts  our having to defend against litigation related to defective products or related property damage or personal injury  and damage to our reputation in the industry that could adversely affect our relationships with our customers 
+in addition  we may have difficulty identifying the end customers of the defective products in the field 
+as a result  we could incur substantial costs to implement modifications to correct defects 
+any of these problems could materially adversely affect our results of operations 
+our gross margin and results of operations may be adversely affected in the future by a number of factors  including decreases in average selling prices of products over time and shifts in our product mix 
+the products we develop and sell are primarily used for high volume applications 
+as a result  the prices of those products have historically decreased rapidly 
+in addition  more recently introduced products tend to have higher associated costs because of initial overall development and production ramp 
+therefore  over time  we 
+table of contents may not be able to maintain or improve our gross margins 
+our financial results could suffer if we are unable to offset any reductions in our average selling prices by other cost reductions through efficiencies  introduction of higher margin products and other means 
+moreover  because of the wide price differences across the markets we serve  the mix and types of performance capabilities of our products sold may affect the average selling prices of our products and have a substantial impact on our revenue and gross margin 
+fluctuations in the mix and types of our products may also affect the extent to which we are able to recover the fixed costs and investments associated with a particular product  and as a result can harm our financial results 
+additionally  because we do not operate our own manufacturing  assembly or testing facilities  we may not be able to reduce our costs as rapidly as companies that operate their own facilities  and our costs may even increase  which could also reduce our gross margins 
+in the past  we have reduced the average selling prices of our products in anticipation of future competitive pricing pressures  new product introductions by us or by our competitors and other factors 
+we expect that we will have to do so again in the future 
+we may experience difficulties in transitioning to smaller geometry process technologies or in achieving higher levels of design integration  which may result in reduced manufacturing yields  delays in product deliveries and increased expenses 
+in order to remain competitive  we expect to continue to transition our semiconductor products to increasingly smaller line width geometries 
+this transition requires us to modify the manufacturing processes for our products and to redesign some products 
+we periodically evaluate the benefits  on a product by product basis  of migrating to smaller geometry process technologies to reduce our costs 
+in the past  we have experienced some difficulties in shifting to smaller geometry process technologies or new manufacturing processes  which resulted in reduced manufacturing yields  delays in product deliveries and increased expenses 
+we may face similar difficulties  delays and expenses as we continue to transition our products to smaller geometry processes 
+we are dependent on our relationships with our foundry subcontractors to transition to smaller geometry processes successfully 
+we cannot assure you that the foundries that we use will be able to effectively manage the transition or that we will be able to maintain our existing foundry relationships or develop new ones 
+if we or any of our foundry subcontractors experience significant delays in this transition or fail to efficiently implement this transition  we could experience reduced manufacturing yields  delays in product deliveries and increased expenses  all of which could harm our relationships with our customers and our results of operations 
+as smaller geometry processes become more prevalent  we expect to continue to integrate greater levels of functionality  as well as customer and third party intellectual property  into our products 
+however  we may not be able to achieve higher levels of design integration or deliver new integrated products on a timely basis  if at all 
+moreover  even if we are able to achieve higher levels of design integration  such integration may have a short term adverse impact on our results of operations  as we may reduce our revenue by integrating the functionality of multiple chips into a single chip 
+as a result of our global operations  we face additional risks  which may harm our results of operations  because a majority of our products and our customers products are manufactured and sold outside of the united states 
+a substantial portion of our business is conducted outside of the united states and  as a result  we are subject to foreign business  political and economic risks 
+all of our products are manufactured outside of the united states 
+our current qualified integrated circuit foundries are located in the same region within taiwan  and our primary assembly and test subcontractors are located in the pacific rim region 
+in addition  many of our customers are located outside of the united states  primarily in asia  which further exposes us to foreign risks 
+sales to customers located in asia represented approximately of our net revenue in fiscal  of our net revenue in fiscal and of our net revenue in fiscal 
+table of contents we also have substantial operations outside of the us these operations are directly influenced by the political and economic conditions of the region in which they are located  and with respect to israel  possible military hostilities that could affect our operations there 
+we anticipate that our manufacturing  assembly  testing and sales outside of the united states will continue to account for a substantial portion of our operations and revenue in future periods 
+accordingly  we are subject to risks associated with international operations  including political  social and economic instability  including wars  terrorism  political unrest  boycotts  curtailment of trade and other business restrictions  compliance with domestic and foreign export and import regulations  and difficulties in obtaining and complying with domestic and foreign export  import and other governmental approvals  permits and licenses  compliance with foreign laws  and laws and practices that favor local companies  difficulties in staffing and managing foreign operations  natural disasters  trade restrictions or higher tariffs  transportation delays  difficulties of managing distributors  less effective protection of intellectual property than is afforded to us in the united states or other developed countries  inadequate local infrastructure  and exposure to local banking  currency control and other financial related risks 
+the sudden disruption of the supply chain and or the manufacture of our customer s products caused by any of the foregoing risks could impact our results of operations by impairing our ability to timely and efficiently deliver our products 
+during fiscal  the earthquake and tsunami that affected japan disrupted the global supply chain for certain components important to our products and the flooding in thailand affected the supply chain and manufacturing of the products for a number of our customers 
+moreover  the international nature of our business subjects us to risk associated with the fluctuation of the us dollar versus foreign currencies 
+decreases in the value of the us dollar versus currencies in jurisdictions where we have large fixed costs or our third party manufacturers have significant cost will increase the cost of such operations  which could harm our results of operations 
+for example  we have large fixed costs in israel  which will become greater if the us dollar declines in value versus the israeli shekel 
+on the other hand  substantially all of our sales have been denominated in us dollars 
+we have made and may continue to make acquisitions and investments  which could divert management s attention  cause ownership dilution to our shareholders  be difficult to integrate and adversely affect our results of operations and share price 
+we expect to continue to make acquisitions of  and investments in  businesses that offer complementary products and technologies  augment our end market coverage  or enhance our technological capabilities 
+we may also enter into strategic alliances or joint ventures to achieve these goals 
+we cannot assure you that we will be able to identify suitable acquisition  investment  alliance or joint venture opportunities in the future  or that we will be able to consummate any such transactions or relationships on terms and conditions acceptable to us  or that such transactions or relationships will be successful 
+
+table of contents integrating newly acquired businesses or technologies typically entails many risks that could put a strain on our resources  could be costly and time consuming  and might not be successful 
+in addition  any acquisitions could materially harm our results of operations or liquidity as a result of either the issuance of dilutive equity securities  new debt or contingent liabilities  or payment of cash 
+moreover  such acquisitions could divert our management s attention from other business concerns and also result in customer dissatisfaction 
+in addition  we might lose key employees of the newly acquired organizations during the acquisition process 
+the acquisition of another company or its products and technologies may also require us to enter into a geographic or business market in which we have little or no prior experience 
+we are exposed to potential impairment charges on certain assets 
+we had approximately billion of goodwill and million of intangible assets on our balance sheet as of january  under us generally accepted accounting principles gaap  we are required to review our intangible assets for impairment whenever events or changes in circumstances indicate that the carrying value of these assets may not be recoverable 
+we perform an annual assessment of goodwill at the beginning of our fiscal fourth quarter and we also assess the impairment of goodwill on an interim basis whenever events or changes in circumstances indicate that the carrying value of such assets may not be recoverable 
+if the businesses acquired fail to meet our expectations set out at the time of the acquisition or if our market capitalization adjusted for control premiums and other factors declines to below our carrying value  we could incur significant goodwill or intangible impairment charges  which could negatively impact our financial results 
+in addition  from time to time  we have made investments in other private companies 
+if the companies that we invest in are unable to execute their plans and succeed in their respective markets  we may not benefit from such investments  and we could potentially lose the amounts we invest 
+we evaluate our investment portfolio on a regular basis to determine if impairments have occurred 
+impairment charges could have a material impact on our results of operations in any period 
+we rely on third party distributors and manufacturers representatives and the failure of these distributors and manufacturers representatives to perform as expected could reduce our future sales 
+from time to time  we enter into relationships with distributors and manufacturers representatives to sell our products  and we are unable to predict the extent to which these partners will be successful in marketing and selling our products 
+moreover  many of our distributors and manufacturers representatives also market and sell competing products  and may terminate their relationships with us at any time 
+our future performance will also depend  in part  on our ability to attract additional distributors or manufacturers representatives that will be able to market and support our products effectively  especially in markets in which we have not previously distributed our products 
+if we cannot retain or attract quality distributors or manufacturers representatives  our sales and results of operations will be harmed 
+changes in financial accounting standards or practices or existing taxation rules or practices may adversely affect our financial results 
+changes in financial accounting standards or practices or changes in existing taxation rules or practices may have a significant effect on our reported results 
+new accounting pronouncements and taxation rules and varying interpretations of accounting pronouncements and taxation practice have occurred and may occur in the future 
+for example  the us congress may consider legislation affecting the taxation of foreign corporations and such legislation if enacted might adversely affect our future tax liabilities and have a material impact on our results of operations 
+changes to existing rules or the questioning of current practices by regulators may adversely affect our reported financial results or the way we conduct our business or cause our stock price to decline 
+
+table of contents tax benefits that we receive may be terminated or reduced in the future  which would harm our results of operations and profitability 
+in prior years  we have entered into agreements with the local governments in certain foreign jurisdictions where we have significant operations to provide us with favorable tax rates in those jurisdictions if certain criteria are met 
+we have obtained from the minister of finance of bermuda under the exempt undertakings tax protection act  as amended  an undertaking that  in the event bermuda enacts legislation imposing tax computed on profits  income  or capital asset  gain or appreciation  then the imposition of any such taxes will not apply to us until march  we cannot assure that any future elected government of bermuda would not amend the exempted undertaking tax protection act such that tax would be imposed in bermuda  however  that act has recently been amended to provide that exempted companies can obtain a further assurance  which extends the tax relief until march  we intend to apply for such extension in fiscal the economic development board of singapore the edb granted pioneer status to our wholly owned subsidiary in singapore in july this tax exemption was to expire after ten years  but the edb in june agreed to extend the term to years 
+as a result  we anticipate that a significant portion of the income we earn in singapore during this period will be exempt from the singapore income tax 
+we are required to meet several requirements as to investment  headcount and activities in singapore to retain this status 
+under the israeli encouragement law of approved or benefited enterprise  two branches of marvell israel misl  the gtl branch and the cellular branch formerly marvell dspc  are entitled to a beneficial tax program that includes reduced tax rates and exemption of certain income 
+the first program was approved for misl in and the most recent was approved in marvell dspc has five approved programs  with the first approved in and the most recent benefited enterprise approved in the benefit period is generally to years and begins in the first year in which our israeli divisions earn taxable income from the approved or benefited enterprises  provided the maximum period has not elapsed 
+income from the approved or benefited enterprises is subject to reduced tax rates ranging between and or tax exemptions for fiscal through a new amendment to the encouragement law  which was approved by the israeli government in december  came into effect january  misl and dspc will not apply the new amendment to the encouragement law prior to fiscal during fiscal  our switzerland subsidiary received a ten year federal and cantonal tax holiday on revenues from research and design and wafer supply trading activities that will expire in in fiscal  we met the requirements of the initial five year period and we will receive the ongoing tax holiday benefits provided that we continue to meet the ongoing requirements 
+if any of our tax agreements in any of these foreign jurisdictions were terminated  our results of our operations and profitability would be harmed 
+we may be unable to protect our intellectual property  which would negatively affect our ability to compete 
+we believe one of our key competitive advantages results from our collection of proprietary technologies that we have developed and acquired since our inception 
+if we fail to protect these intellectual property rights  competitors could sell products based on technology that we have developed that could harm our competitive position and decrease our revenues 
+we believe that the protection of our intellectual property rights is and will continue to be important to the success of our business 
+we rely on a combination of patent  copyright  trademark and trade secret laws  as well as nondisclosure agreements and other methods  to protect our proprietary technologies 
+we also enter into confidentiality or license agreements with our employees  consultants and business partners  and control access to and distribution of our documentation and other proprietary information 
+we have been issued several us and foreign patents and have a number of pending us and foreign patent applications 
+however  a patent may not be issued as a result of any applications or  if issued  claims allowed 
+table of contents may not be sufficiently broad to protect our technology 
+in addition  it is possible that existing or future patents may be challenged  invalidated or circumvented 
+despite our efforts  unauthorized parties may attempt to copy or otherwise obtain and use our products or proprietary technology 
+monitoring unauthorized use of our technology is difficult  and the steps that we have taken may not prevent unauthorized use of our technology  particularly in foreign countries where the laws may not protect our proprietary rights as fully as in the united states 
+if our patents do not adequately protect our technology  our competitors may be able to offer products similar to ours  which would adversely impact our business and results of operations 
+certain of our software as well as that of our customers may be derived from so called open source software that is generally made available to the public by its authors and or other third parties 
+open source software is often made available under licenses  which impose certain obligations on us in the event we were to distribute derivative works of the open source software 
+these obligations may require us to make source code for the derivative works available to the public  and or license such derivative works under a particular type of license  rather than the forms of license customarily used to protect our intellectual property 
+while we believe we have complied with our obligations under the various applicable licenses for open source software  in the event that the copyright holder of any open source software were to successfully establish in court that we had not complied with the terms of a license for a particular work  we could be required to release the source code of that work to the public and or stop distribution of that work 
+we may become involved with costly and lengthy litigation involving our patents and other intellectual property  which could subject us to liability  require us to indemnify our customers  require us to obtain or renew licenses  stop selling our products or force us to redesign our products 
+litigation involving patents and other intellectual property is widespread in the high technology industry and is particularly prevalent in the semiconductor industry  where a number of companies and other entities aggressively bring numerous infringement claims to assert their patent portfolios 
+from time to time our subsidiaries and customers receive  and may continue to receive in the future  notices that allege claims of infringement  misappropriation or misuse of the intellectual property rights of third parties 
+for example  in recent years  multiple claims have been made against our subsidiaries and our customers related to standards based technologies such as wireless lan 
+in addition  we have had certain patent licenses with third parties that have not been renewed  and if we cannot successfully renew these licenses  our subsidiaries and customers could face claims of infringement 
+these claims could result in litigation and or claims for indemnification  which  in turn  could subject us to significant liability for damages  attorneys fees and costs 
+any potential intellectual property litigation also could force us to do one or more of the following stop selling  offering for sale  making  having made or exporting products or using technology that contains the allegedly infringing intellectual property  limit or restrict the type of work that employees involved in such litigation may perform for us  pay substantial damages and or license fees and or royalties to the party claiming infringement that could adversely impact our liquidity or operating results  attempt to obtain or renew licenses to the relevant intellectual property  which licenses may not be available on reasonable terms or at all  and attempt to redesign those products that contain the allegedly infringing intellectual property 
+we may also be required to indemnify some customers under our contracts if a third party alleges  or a court finds  that our products have infringed upon the proprietary rights of other parties 
+from time to time  we have agreed to indemnify select customers for claims made against our products  where such claims allege infringement of third party intellectual property rights  including  but not limited to  patents  registered trademarks and or copyrights 
+
+table of contents we have been named as a party to several lawsuits and we may be named in additional litigation in the future  all of which could result in an unfavorable outcome and have a material adverse effect on our business  financial condition  results of operations  cash flows  and the trading price for our securities 
+we have been named as a party to several lawsuits and we may be named in additional litigation in the future 
+please see note commitments and contingencies of our notes to the consolidated financial statements set forth in part ii  item of this annual report on form k for a more detailed description of a number of the litigation matters we are currently engaged in 
+under certain circumstances  we have contractual and other legal obligations to indemnify and to incur legal expenses on behalf of current and former directors and officers for these lawsuits 
+in addition  due to the high volatility of our stock price  we may be vulnerable to securities class action litigation 
+in addition  as a result of a prior sec settlement  we forfeited for three years our ability to invoke the safe harbor for forward looking statements provided by the private securities litigation reform act of because we could not benefit from the statutory safe harbor from june through june  it may be more difficult for us to defend against any future claims based on any forward looking statements issued during that timeframe 
+the ultimate outcome of any litigation could have a material adverse effect on our business and the trading price for our securities 
+litigation may be time consuming  expensive  and disruptive to normal business operations  and the outcome of litigation is difficult to predict 
+the defense of these lawsuits may result in significant expenditures and the continued diversion of our management s time and attention from the operation of our business  which could impede our business 
+in the event we were to receive an unfavorable outcome in any lawsuit  our business  financial condition  results of operations  cash flows and the trading price of our securities may be materially and adversely affected 
+we depend on key personnel to manage our business  and if we are unable to retain our current personnel and hire additional personnel  our ability to develop and successfully market our products could be harmed 
+we believe our future success will depend in large part upon our ability to attract and retain highly skilled managerial  engineering  sales and marketing personnel 
+the loss of key employees or the inability to attract qualified personnel  including hardware and software engineers and sales and marketing personnel could delay the development and introduction of and harm our ability to sell our products 
+we typically do not enter into employment agreements with any of our key technical personnel  and their knowledge of our business and industry would be extremely difficult to replace 
+the competition for qualified technical personnel with significant experience in the design  development  manufacturing  marketing and sales of integrated circuits is intense 
+our key technical personnel represent a significant asset and serve as the source of our technological and product innovations 
+we may not be successful in attracting and retaining sufficient numbers of technical personnel to develop new products or enhance existing products in a timely manner 
+if our internal control over financial reporting or disclosure controls and procedures are not effective  there may be errors in our financial statements that could require a restatement or our filings may not be filed on a timely basis and investors may lose confidence in our reported financial information  which could lead to a decline in our stock price 
+we believe that effective internal controls are necessary for us to provide reliable financial reports and effectively prevent fraud 
+any inability to provide reliable financial reports or prevent fraud could harm our business 
+the sarbanes oxley act of requires management and our auditors to evaluate and assess the effectiveness of our internal control over financial reporting  as of the end of each year 
+our management is responsible for maintaining effective internal control over financial reporting and for its assessment of the effectiveness of internal control over financial reporting included in each annual report on form k 
+
+table of contents our management  including our chief executive officer and chief financial officer  does not expect that our internal control over financial reporting will prevent all error and all fraud 
+these inherent limitations include the realities that judgments in decision making can be faulty  breakdowns can occur because of simple errors  and errors discovered by personnel within control systems may not be properly disclosed and addressed 
+controls can also be circumvented by the individual acts of some persons  by collusion of two or more people  or by management override of the controls 
+a control system  no matter how well designed and operated  can provide only reasonable  not absolute  assurance that the control system s objectives will be met 
+further  the design of a control system must reflect the fact that there are resource constraints  and the benefits of controls must be considered relative to their costs 
+in addition  we are consistently evaluating the design and operating effectiveness of our internal controls  a process which sometimes leads to modifications in such controls 
+these modifications could affect the overall effectiveness or evaluation of the control system in the future by us or our independent registered public accounting firm 
+the design of any system of controls is based in part on certain assumptions about the likelihood of future events  and we cannot assure you that any design will succeed in achieving its stated goals under all potential future conditions 
+over time  controls may become inadequate because of changes in conditions or deterioration in the degree of compliance with policies or procedures 
+because of the inherent limitations in a cost effective control system  misstatements due to error or fraud may occur and not be detected 
+two of our officers and directors own a large percentage of our voting stock  and  together with another employee who is also a significant shareholder  are related by blood or marriage 
+these factors may allow the officers and directors as a group or the three related employees to influence the election of directors and the approval or disapproval of significant corporate actions 
+dr 
+sehat sutardja  our president and chief executive officer  and weili dai  who serves as the vice president and general manager of communications and consumer business of marvell semiconductor  inc  are husband and wife  and dr 
+sehat sutardja and dr 
+pantas sutardja  our vice president  chief technology officer and chief research and development officer  are brothers 
+together  these three individuals held approximately of our outstanding common shares as of january  as a result  if these individuals act together  they may influence the election of our directors and the approval or disapproval of any significant corporate actions that require shareholder approval 
+this influence over our affairs might be adverse to the interests of other shareholders 
+for example  the voting power of these individuals could have the effect of delaying or preventing an acquisition of us on terms that other shareholders may desire 
+under bermuda law  all of our officers  in exercising their powers and discharging their duties  must act honestly and in good faith with a view to our best interests and exercise the care  diligence and skill that a reasonably prudent person would exercise in comparable circumstances 
+majority shareholders do not owe fiduciary duties to minority shareholders 
+as a result  the minority shareholders will not have a direct claim against the majority shareholders in the event the majority shareholders take actions that damage the interests of minority shareholders 
+class actions are generally not available to shareholders under the laws of bermuda 
+derivative actions may be available in certain circumstances  which would permit a shareholder to bring an action in our name if the directors or officers are alleged to be acting beyond our corporate power  committing illegal acts or violating our memorandum of association or third amended and restated bye laws bye laws 
+furthermore  consideration would be given by a bermuda court to acts that are alleged to constitute a fraud against the minority shareholders or  for example  where an act requiring the approval of a greater percentage of the company s shareholders than those who actually approved it 
+the companies act of bermuda  as amended  provides that when one or more shareholders believes the affairs of a company are being conducted in a manner which is prejudicial to the interest of some of the shareholders  a bermuda court  upon petition  may make such order as it sees fit  including an order regulating the conduct of the company s affairs in the future or ordering the purchase of the shares of any shareholders by other shareholders or by the company  and in the case of a purchase of the shares by the company  for the reduction accordingly of the company s capital or otherwise 
+
+table of contents we rely upon the performance of our information technology systems to process  transmit  store and protect electronic information  and the failure of any critical information technology system may result in serious harm to our reputation  business  results of operations and or financial condition 
+we are heavily dependent on our technology infrastructure and maintain and rely upon certain critical information systems for the effective operation of our business 
+these information technology systems include telecommunications  the internet  our corporate intranet  various computer hardware and software applications  network communications and e mail 
+these information technology systems are subject to damage or interruption from a number of potential sources including natural disasters  viruses  destructive or inadequate code  malware  power failures  cyber attacks  and other events 
+to the extent that these information systems are under our control  we have implemented security procedures  such as virus protection software and emergency recovery processes  to address the outlined risks 
+we may incur significant costs in order to implement  maintain and or update security systems that we feel are necessary to protect our information systems 
+a material breach in the security of our information systems could include the theft of our intellectual property or trade secrets  negatively impact our operations  or result in the compromise of personal and confidential information of our employees  customers or suppliers 
+while we believe that our information technology systems are appropriately controlled and that we have processes in place to adequately mitigate these risks  security procedures for information systems cannot be guaranteed to be failsafe 
+to the extent that any system failure  accident or security breach results in disruptions or interruptions to our operations or the theft  loss or disclosure of  or damage to our data or confidential information  our reputation  business  results of operations and or financial condition could be materially adversely affected 
+in addition  a miscalculation of the level of investment needed to ensure our technology solutions are current and up to date as technology advances and evolves could result in disruptions in our business should the software  hardware  or maintenance of such items become out of date or obsolete 
+furthermore  when we implement new systems and or upgrade existing systems  there is a risk that our business may be temporarily disrupted during the period of implementation 
+we are subject to the risks of owning real property 
+our buildings in santa clara  california  singapore  etoy  switzerland and shanghai  china subject us to the risks of owning real property  which include the possibility of environmental contamination and the costs associated with fixing any environmental problems  adverse changes in the value of these properties  due to interest rate changes  changes in the neighborhood in which the property is located  or other factors  the possible need for structural improvements in order to comply with zoning  seismic and other legal or regulatory requirements  the potential disruption of our business and operations arising from or connected with a relocation due to moving to or renovating the facility  increased cash commitments for improvements to the buildings or the property or both  increased operating expenses for the buildings or the property or both  possible disputes with tenants or other third parties related to the buildings or the property or both  and the risk of financial loss in excess of amounts covered by insurance  or uninsured risks  such as the loss caused by damage to the buildings as a result of earthquakes  floods and or other natural disasters 
+as we carry only limited insurance coverage  any incurred liability resulting from uncovered claims could adversely affect our financial condition and results of operations 
+our insurance policies may not be adequate to fully offset losses from covered incidents  and we do not have coverage for certain losses 
+for example  there is very limited coverage available with respect to the services provided by our third party foundries and assembly and test subcontractors 
+in the event of a natural 
+table of contents disaster such as an earthquake or tsunami  political or military turmoil  widespread health issues or other significant disruptions to their operations  insurance may not adequately protect us from this exposure 
+we believe our existing insurance coverage is consistent with common practice  economic considerations  and availability considerations 
+if our insurance coverage is insufficient to protect us against unforeseen catastrophic losses  any uncovered losses could adversely affect our financial condition and results of operations 
+we are incorporated in bermuda  and  as a result  it may not be possible for our shareholders to enforce civil liability provisions of the securities laws of the united states 
+in addition  our bye laws contain a waiver of claims or rights of action by our shareholders against our officers and directors  which will severely limit our shareholders right to assert a claim against our officers and directors under bermuda law 
+we are organized under the laws of bermuda 
+as a result  it may not be possible for our shareholders to affect service of process within the united states upon us  or to enforce against us in united states courts judgments based on the civil liability provisions of the securities laws of the united states 
+there is significant doubt as to whether the courts of bermuda would recognize or enforce judgments of united states courts obtained against us or our directors or officers based on the civil liability provisions of the securities laws of the united states or any state or hear actions brought in bermuda against us or those persons based on those laws 
+the united states and bermuda do not currently have a treaty providing for the reciprocal recognition and enforcement of judgments in civil and commercial matters 
+therefore  a final judgment for the payment of money rendered by any federal or state court in the united states based on civil liability  whether or not based solely on united states federal or state securities laws  would not be automatically enforceable in bermuda 
+our bye laws contain a broad waiver by our shareholders of any claim or right of action  both individually and on our behalf  against any of our officers and directors 
+the waiver applies to any action taken by an officer or director  or the failure of an officer or director to take any action  in the performance of his or her duties with or for us  other than with respect to any matter involving any fraud or dishonesty on the part of the officer or director or to any matter arising under us securities laws 
+this waiver will limit the rights of our shareholders to assert claims against our officers and directors unless the act complained of involves fraud or dishonesty 
+therefore  so long as acts of business judgment do not involve fraud or dishonesty  they will not be subject to shareholder claims under bermuda law 
+for example  shareholders will not have claims against officers and directors for a breach of trust  unless the breach rises to the level of fraud or dishonesty 
+our bye laws contain provisions that could delay or prevent a change in corporate control  even if the change in corporate control would benefit our shareholders 
+our bye laws contain change in corporate control provisions  which include authorizing the issuance of preferred stock without shareholder approval  providing for a classified board of directors  and requiring a vote of two thirds of votes cast in person or by proxy to approve any change of corporate control in the event the action is not approved by at least of the directors holding office at the date of the board meeting to approve the action 
+these change in corporate control provisions could make it more difficult for a third party to acquire us  even if doing so would be a benefit to our shareholders 
+however  in calendar year  we began phasing out our classified board of directors and by calendar year all directors will be subject to annual election 
+item b 
+unresolved staff comments none 
+
+table of contents item properties our us headquarters  housing research and design functions as well as elements of sales  marketing  administration and operations  is located in santa clara  california 
+we own the santa clara facility  which consists of approximately  square feet on acres of land 
+we also own buildings in china  singapore and switzerland which are used for operations  research and design  sales  marketing and administrative functions 
+in addition to these properties  we lease approximately  square feet in israel for research and design  administration and operations  for which the lease term expires in august we also lease smaller facilities in bermuda  canada  china  finland  germany  india  italy  japan  korea  netherlands  spain  sweden  taiwan  the united kingdom and the united states  which are occupied by administrative  sales  design and field application personnel 
+we also lease a building in california  totaling approximately  square feet  which is currently subleased to tenants as of january  based upon our estimates of future hiring  we believe that our current facilities in most locations will be adequate to meet our requirements at least through the next fiscal year 
+in certain locations where we have plans to hire a significant amount of employees  such as china  we may need to obtain additional facilities 
+item legal proceedings the information set forth under note commitments and contingencies of our notes to the consolidated financial statements set forth in part ii  item of this annual report on form k is incorporated herein by reference 
+for additional discussion of certain risks associated with legal proceedings  please see part i  item a  risk factors above 
+item mine safety disclosures not applicable 
+
+table of contents part ii item market for registrant s common equity  related stockholder matters and issuer purchases of equity securities market information our common shares are traded on the nasdaq global select market under the symbol mrvl 
+our common shares began trading on june   upon completion of our initial public offering 
+the following table shows for the periods indicated the high and low closing market prices for our common shares on the nasdaq global select market and reflects all stock splits to date 
+fiscal year fiscal year high low high low first quarter second quarter third quarter fourth quarter as of march   the approximate number of record holders of our common shares was not including beneficial owners of stock held in street name 
+
+table of contents stock price performance graph this performance graph shall not be deemed filed for purposes of section of the exchange act or incorporated by reference into any filings under the securities act or the exchange act  except as shall be expressly set forth by specific reference in such filing 
+the graph below compares the cumulative total shareholder return of our common shares with the cumulative total return of the s p index and the philadelphia semiconductor index since january  through january  the graph assumes that was invested on january  in our common shares and on january  in each index and that any dividends were reinvested 
+no cash dividends have been declared on our common shares since our initial public offering in shareholder returns over the indicated periods should not be considered indicative of future stock prices or shareholder returns 
+logo marvell technology group ltd 
+s p phlx semiconductor dividends we have never declared or paid a cash dividend on our common shares 
+any future determination with respect to the declaration and payment of dividends will be at the discretion of our board of directors 
+
+table of contents equity compensation plan information information regarding the securities authorized for issuance under our equity compensation plans can be found under part iii  item of this annual report on form k under the caption equity compensation plan information 
+recent sales of unregistered securities none 
+issuer purchases of equity securities the following table presents details of our repurchases during the three months ended january  in thousands  except per share data period total number of shares purchased average price paid per share total number of shares purchased as part of publicly announced plans or programs approximated dollar value of shares that may yet be purchased under the plans or programs october november  november december  december  january  total our board of directors had initially authorized our current share repurchase program to repurchase up to million of our outstanding common shares in fiscal and in fiscal increased the authorization by up to an additional billion  including million authorized on december  this increased the total number of shares authorized for repurchase to billion 
+we intend to effect the repurchase program in accordance with the conditions of rule b under the exchange act 
+the repurchase program will be subject to market conditions and other factors and does not obligate us to repurchase any dollar amount or number of our common shares 
+the program may be extended  modified  suspended or discontinued at any time 
+we may make repurchases in open market or privately negotiated transactions in order to effect our repurchases 
+subsequent to the end of fiscal and through march   we repurchased an additional million common shares for million at an average price per share of  bringing our total repurchases under the share repurchase program to billion 
+
+table of contents item selected financial data the following selected consolidated financial data should be read together with part ii  item  management s discussion and analysis of financial condition and results of operations and part ii  

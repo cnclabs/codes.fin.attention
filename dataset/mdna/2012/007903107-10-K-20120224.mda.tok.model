@@ -1,0 +1,796 @@
+item management s discussion and analysis of financial condition and results of operations  or md a  beginning on page below and such other risks and uncertainties as set forth below in this report or detailed in our other securities and exchange commission sec reports and filings 
+we assume no obligation to update forward looking statements 
+general we are a global semiconductor company with facilities around the world 
+within the global semiconductor industry  we offer primarily i x microprocessors  as standalone devices or as incorporated as an accelerated processing unit  for the commercial and consumer markets  embedded microprocessors for commercial  commercial client and consumer markets and chipsets for desktop and mobile devices  including mobile personal computers  or pcs  and tablets  professional workstations and servers  and 
+table of contents ii graphics  video and multimedia products for desktop and mobile devices  including mobile pcs and tablets  home media pcs and professional workstations  servers and technology for game consoles 
+for financial information about geographic areas and for segment information with respect to revenues and operating results  refer to the information set forth in note of our consolidated financial statements  beginning on page below 
+additional information we were incorporated under the laws of delaware on may  and became a publicly held company in since our common stock has been listed on the new york stock exchange under the symbol amd 
+our mailing address and executive offices are located at one amd place  sunnyvale  california  and our telephone number is references in this report to amd  we  us  management  our  or the company mean advanced micro devices  inc and our consolidated subsidiaries 
+amd  the amd arrow logo  ati  the ati logo  amd athlon  amd opteron  amd phenom  amd sempron  amd turion  firepro  firestream  crossfire  radeon  and combinations thereof are trademarks of advanced micro devices  inc microsoft  windows  and directx are registered trademarks of microsoft corporation in the united states and or other jurisdictions 
+hypertransport is a licensed trademark of the hypertransport technology consortium 
+other names are for informational purposes only and are used to identify companies and products and may be trademarks of their respective owners 
+website access to company reports and corporate governance documents we post on the investor relations pages of our web site  www 
+amd 
+com  a link to our filings with the sec  our principles of corporate governance  our code of ethics for our executive officers and all other senior finance executives  our worldwide standards of business conduct  which applies to our board of directors and all of our employees  and the charters of our audit and finance  compensation and nominating and corporate governance committees of our board of directors 
+our filings with the sec are posted as soon as reasonably practical after they are electronically filed with  or furnished to  the sec 
+you can also obtain copies of these documents by writing to us at corporate secretary  amd  southwest parkway  m s  austin  texas  or emailing us at corporate 
+secretary amd 
+com 
+all of these documents and filings are available free of charge 
+if we make substantive amendments to our code of ethics  or grant any waiver  including any implicit waiver  to our principal executive officer  principal financial officer  principal accounting officer or controller  or persons performing similar functions  we intend to disclose the nature of such amendment or waiver on our web site or in a current report on form k in accordance with applicable rules and regulations 
+please note that information contained on our web site is not incorporated by reference in  or considered to be a part of  this report 
+our industry semiconductors are components used in a variety of electronic products and systems 
+an integrated circuit  or ic  is a semiconductor device that consists of many interconnected transistors on a single chip 
+since the invention of the transistor in  improvements in ic process and design technologies have led to the development of smaller  more complex and more reliable ics at a lower cost per function 
+in order to satisfy the demand for faster  smaller and lower cost ics  semiconductor companies have continually developed improvements in manufacturing and process technology and design 
+ics are increasingly being manufactured using smaller geometries on larger silicon wafers 
+use of smaller process geometries can result in products that are higher performing  use less power and cost less to manufacture on a per unit basis 
+computing solutions the x microprocessor market central processing unit cpu a microprocessor is an ic that serves as the central processing unit  or cpu  of a computer 
+it generally consists of millions of transistors that process data and control other devices in the system  acting as the brain of the computer 
+the performance of a microprocessor is a critical factor impacting the performance of a computer and numerous other electronic systems 
+the principal indicators of cpu performance are work per cycle  or how many instructions are executed per cycle  clock speed  representing the rate at which a cpus internal logic operates  measured in units of hertz  or cycles per second  and power consumption 
+other factors impacting microprocessor performance include the number of cpus  or cores  on a microprocessor  the bit rating of the microprocessor  memory size and data access speed 
+developments in circuit design and manufacturing process technologies have resulted in significant advances in microprocessor performance 
+currently  microprocessors are designed to process bits or bits of information at one time 
+the bit rating of a microprocessor generally denotes the largest size of numerical data that a microprocessor can handle 
+microprocessors with bit processing capabilities enable systems to have greater performance by allowing software applications and operating systems to access more memory 
+
+table of contents moreover  as businesses and consumers require greater performance from their computer systems due to the growth of digital data and increasingly sophisticated software applications  semiconductor companies are designing and developing multi core microprocessors  where multiple processor cores are placed on a single die or in a single processor 
+multi core microprocessors offer enhanced overall system performance and efficiency because computing tasks can be spread across two or more processing cores each of which can execute a task at full speed 
+moreover  multiple processor cores packaged together can increase performance of a computer system without greatly increasing the total amount of power consumed and the total amount of heat emitted 
+this type of symmetrical multiprocessing is effective in both multi tasking environments where multiple cores can enable operating systems to prioritize and manage tasks from multiple software applications simultaneously and also for multi threaded software applications where multiple cores can process different parts of the software program  or threads  simultaneously thereby enhancing performance of the application 
+businesses and consumers also require computer systems with improved power management technology  which allows them to reduce the power consumption of their computer systems thereby reducing the total cost of ownership 
+accelerated processing unit apu while general purpose computer architectures based on the x architecture are sufficient for many customers  we believe that an architecture that optimizes the use of a cpu and graphics processing unit  or gpu  for a given workload can provide a substantial improvement in user experience  performance and energy efficiency 
+as the volume of digital media increases  we believe many customers can benefit from an accelerated computing architecture 
+an accelerated computing architecture enables offloading of selected tasks  thereby optimizing the use of multiple computational units such as the cpu and gpu  depending on the application or workload 
+for example  serial workloads are better suited for cpus  while highly parallel tasks may be better performed by a gpu 
+our amd accelerated processing unit  or apu  combines our cpu and gpu onto a single piece of silicon 
+we believe that high performance computing workloads  workloads that are visual in nature and even traditional applications such as photo and video editing or other multi media applications can benefit from our accelerated computing architecture 
+microprocessor products cpus and apus we currently design  develop and sell microprocessor products for servers  desktop pcs and mobile devices  including mobile pcs and tablets 
+our microprocessors and chipsets are incorporated into computing platforms that also include gpus and core software to enable and advance the computing components 
+a platform is a collection of technologies that are designed to work together to provide a more complete computing solution 
+we believe that integrated  balanced platforms consisting of microprocessors  chipsets and gpus that work together at the system level bring end users improved system stability  increased performance and enhanced power efficiency 
+furthermore  by combining all of these elements onto a single piece of silicon as an apu  we believe system performance and power efficiency is further improved 
+in addition to the enhancements at the end user level  our customers also benefit from an all amd platform  as we are able to provide them with a single point of contact for the key platform components and enable them to bring the platforms to market faster in a variety of client and server system form factors 
+our cpus and apus are manufactured primarily using nanometer nm  nm  and nm process technology 
+we currently base our microprocessors and chipsets on the x instruction set architecture and amd s direct connect architecture  which connects an on chip memory controller and input output  or i o  channels directly to one or more microprocessor cores 
+we typically integrate two or more processor cores onto a single die  and each core has its own dedicated cache  which is memory that is located on the semiconductor die  permitting quicker access to frequently used data and instructions 
+some of our microprocessors have additional levels of cache such as l  or second level cache  and l  or third level cache  to enable faster data access and higher performance 
+energy efficiency and power consumption continue to be key design principles for our products 
+we focus on continually improving power management technology  or performance per watt 
+to that end  we offer cpus  apus and chipsets with features that we have designed to reduce system level energy consumption  with multiple levels of lower clock speed and voltage states that reduce processor power consumption during idle times 
+we design our cpus and apus to be compatible with operating system software such as the microsoft windows family of operating systems  linux  netware  solaris and unix 
+our cpus and chipsets support multiple generations of hypertransport technology  which is a high bandwidth communications interface that enables higher levels of multi processor performance and scalability over traditional front side bus based microprocessor technology 
+our amd family of apus represents a new approach to processor design and software development  delivering serial  parallel and visual compute capabilities for hd video  d and data intensive workloads in the apu 
+apus combine high performance serial and parallel processing cores with other special purpose hardware accelerators 
+we design our apus for improved visual computing  security  performance per watt and smaller device form factors 
+having the cpu and gpu on the same chip reduces the system power and bill of materials  speeds the flow of data between the cpu and gpu through shared memory and allows the gpu to function as both a graphic engine and an application accelerator in high efficient compute platforms 
+
+table of contents building on the integration of our cpu and gpu onto a single piece of silicon  we are focused on evolving our accelerated computing architecture in such a manner so that software programmers see a single multi purpose processing unit 
+heterogeneous systems architecture describes our overarching design for having combinations of cpu and gpu processor cores operate as a unified engine that we intend to be both higher performance and lower power than our previous architectures 
+server 
+a server is a system that performs services for connected clients as part of a client server architecture 
+servers are designed to run an application or applications  often for extended periods of time with minimal human direction 
+examples of servers include web servers  e mail servers  print servers and cloud computing servers 
+these servers run a variety of applications including business intelligence  enterprise resource planning  customer relationship management and advanced scientific or engineering models commonly referred to as high performance computing  or hpc 
+hpc involves the use of supercomputers and computer clusters to solve advanced computational problems in disciplines ranging from financial modeling to weather forecasting to oil and gas exploration 
+cloud computing is a computing model where data  applications and services are delivered over the internet or an intranet 
+in november  we launched the amd opteron series processor  codenamed interlagos  and amd opteron series processor  codenamed valencia  our latest generation of microprocessors for server platforms that consist of  and core versions and are based on our x bulldozer architecture 
+these new processors are designed to specifically enhance the scalability of enterprise applications while enabling web and database center customers to better handle emerging cloud and virtualization workloads 
+virtualization is the use of software to allow multiple discrete operating systems and application environments ie  multiple virtual servers to share a single physical computer 
+by enabling multiple operating systems and applications to run on the same server  virtualization offers the benefit of consolidating workloads and reducing hardware requirements  which can also reduce power  cooling and system management costs 
+we designed the amd opteron series processor to handle multi threaded workloads  such as cloud computing  virtualization  hpc  databases and business application 
+we designed the amd opteron series processor to handle demanding server workloads at the lowest possible energy consumption  which we believe is well suited for power conscious cloud deployments and for it infrastructure and collaboration 
+in february  we introduced five new members of the amd opteron series platform designed to address the demand for low power  balanced systems for small and medium businesses and increased performance per dollar per watt for enterprise and public sector environments 
+mobile devices 
+consumers continue to demand thinner and lighter mobile platforms with better entertainment performance and longer battery life 
+in response to this demand  we continue to invest in designing and developing higher performing and low power mobile platforms 
+our apus for mobile pc platforms consist of our performance  mainstream a series apu  codenamed llano  that we launched in july  the e series apu for mainstream  everyday performance  codenamed zacate  that we launched in january  the c series apu for hd internet experiences in small form factors  codenamed ontario  that we also launched in january and the z series apu for windows based tablets  codenamed desna  that we launched in june our apus for mobile platforms combine discrete level graphics  dedicated hd video processing and multi core cpu processors on a single die for maximum performance and power efficiency in the smallest space 
+our cpus for mobile pc platforms consist of the amd phenom ii dual core mobile processor  amd phenom ii triple core  amd phenom ii quad core mobile processor  amd turion x mobile processor  amd turion ii mobile processor  amd turion ii ultra mobile processor  amd turion neo x mobile processor  amd athlon ii processor  amd athlon ii neo processor  amd athlon neo x dual core processor and the mobile amd sempron processor 
+desktop 
+our apus for desktop pc platforms consist primarily of the amd a series llano apu and the e series zacate apu 
+the desktop a series apu was designed for mainstream desktop platforms and comes in quad  triple and dual core versions 
+we designed the desktop e series apus for all in ones  or desktop computers that combine the apu or cpu with the monitor  and small form factor desktop pcs 
+our cpus for desktop pc platforms consist of the following amd fx processors based on the bulldozer x multi core architecture  which are available with eight  six and quad core versions  amd phenom ii processors  which are available with six  quad  triple and dual core technology  amd athlon ii processors  which are available in quad  triple and dual core versions  and amd sempron processors 
+we designed the amd fx processors for multitasking  high resolution gaming  and hd media processing 
+embedded processor products our embedded products address customer needs in pc adjacent markets 
+typically  our embedded products are used in applications that require high to moderate levels of performance where key features include low cost  mobility  low power and small form factor 
+high performance graphics are increasingly important in many embedded systems 
+customers of our embedded products include vendors in industrial controls  digital signage  point of sale self service kiosks  medical imaging  set top box and casino gaming machines as well as enterprise class telecommunications  networking  security  storage systems and thin clients  or computers that serve as an access device on a network 
+
+table of contents the embedded market has moved from developing proprietary  custom designs to leveraging the industry standard x instruction set architecture as a way to reduce costs and speed time to market 
+customer requirements for these systems include very low power for small enclosures and x operation  support for linux  windows and other operating systems  and high performance for increasingly sophisticated applications 
+other requirements include advanced specifications for industrial temperatures  shock and vibration  and reliability 
+our embedded platforms include options from the amd opteron  amd athlon  amd turion  and amd sempron processor families  the amd embedded g series  which is the embedded version of our apus  the amd radeon graphics processor family  and numerous amd chipsets 
+these products are part of the amd longevity program  which provides for an availability period of up to five years in some cases in order to support lengthy development and qualification cycles and long term life of the system in the market 
+in may  we announced two additional amd embedded g series apus 
+these low power processors are designed for compact  fanless embedded systems like digital signage  kiosks  and mobile industrial devices 
+also in may  we introduced the amd radeon e embedded discrete graphics processor  which offers embedded system designers the combination of opencl  and amd eyefinity enhanced support 
+opencl  or open computing language  is the programming standard for general purpose computations on systems that use more than one kind of processor  such as an apu 
+amd eyefinity is a technology that allows a game to be played across multiple screens in a panoramic view with minimal distortion by allowing up to six monitors to be connected to one graphics processor 
+chipset market and products chipsets send data between the microprocessor and input  display and storage devices  such as the keyboard  mouse  monitor  hard drive and cd or dvd drive 
+chipsets perform essential logic functions  such as balancing the performance of the system and removing bottlenecks 
+chipsets also extend the graphics  audio  video and other capabilities of computer systems 
+all desktop and mobile pcs as well as servers incorporate a chipset 
+in many pcs  the chipset is integrated with additional functions such as a gpu 
+an integrated chipset solution is commonly known as an integrated graphics processor  or igp  chipset 
+chipsets that do not integrate a graphics core are connected to what is known as a discrete gpu 
+igp chipsets offer a lower cost solution and in some circumstances can offer reduced power consumption or smaller system form factors 
+a majority of pcs make use of igp chipsets  while discrete gpus are used in higher performance pcs and servers 
+our apu architecture replaces an igp type chipset with an amd fusion controller hub chip which performs the input and output functions of the chipset 
+we believe that the combination of an apu and the amd fusion controller hub will eventually replace our market for igp chipsets 
+in june  we launched our series chipsets designed to help our customers develop next generation high performance desktop platforms 
+graphics graphics market the primary product of a semiconductor graphics supplier is the gpu 
+the gpu is specifically architected for high performance graphics processing  unlike the cpu 
+in this way  a dedicated gpu and cpu work in tandem to increase overall speed and performance of the system 
+a graphics solution can be in the form of either a discrete gpu  an integrated chipset  an embedded graphics processor or a combination of the discrete gpu and integrated embedded solution working in tandem 
+the semiconductor graphics market addresses the need for visual or parallel processing in various computing and entertainment platforms such as desktop pcs  mobile pcs and workstations 
+users of these products value a rich visual experience  particularly in the high end enthusiast market where consumers often seek out the fastest and highest performing visual processing products to enable the most compelling and immersive gaming experiences 
+moreover  for many consumers  the pc is evolving from a traditional data and communications processing machine to an entertainment platform 
+visual realism and graphical display capabilities are key elements of product differentiation among various product platforms 
+this has led to the increasing creation and use of processing intensive multimedia content for pcs and to pc manufacturers designing pcs for playing games  displaying photos and capturing tv and other multimedia content  viewing online videos  photo editing and managing digital content 
+in turn  the trend has contributed to the development of higher performance graphics solutions 
+graphics products our customers generally use our graphics solutions to increase the speed of rendering images and to improve image resolution and color definition 
+we develop our products for use in desktop and mobile pcs  professional workstations  servers and gaming consoles 
+with each of our graphics products  we provide drivers and supporting software packages that enable the effective use of these products under a variety of operating systems and applications 
+in addition  our recent generation graphics products have linux driver support 
+
+table of contents heavy computational workloads have traditionally been processed on a cpu  but we believe that the industry is shifting to a new computing paradigm that increasingly relies more on the gpu or a combination of gpu and cpu 
+amd accelerated parallel processing or gpgpu general purpose gpu refers to a set of advanced hardware and software technologies that enable amd gpus  working in concert with the computer system s cpus  to accelerate applications beyond traditional graphics and video processing by allowing the cpus and gpus to process information cooperatively 
+heterogeneous computing enables pcs and servers to run computationally intensive tasks more efficiently  providing a superior application experience to the end user 
+our apu is a heterogeneous system that incorporates microsoft directx directx discrete level gpu capabilities for graphics processing and other mathematically intensive computations on very large data sets  to handle visual tasks such as d rendering as well as certain fixed functions 
+the apu continues to utilize a cpu to run the operating system and most traditional pc applications 
+with our apus  we offer discrete level gpu performance at value and mainstream price points with the added benefit of long battery life in mobile pcs and lower power computing devices 
+additionally  a mainstream apu  when paired with an amd discrete gpu  in multi gpu configuration will enable greater graphics performance and parallel processing 
+we believe that high performance computing workloads  workloads that are visual in nature and even traditional applications such as photo and video editing or other multi media applications can benefit from our accelerated computing architecture 
+discrete desktop graphics 
+we believe that discrete graphic solutions will continue to be popular across desktop pc configurations and platforms designed for gaming  multimedia  photo and video editing as well as other graphic intensive applications 
+our discrete gpus for desktop pcs include the amd radeon hd series  amd radeon hd series  ati radeon hd series  ati radeon hd series and ati radeon hd series 
+in december  we introduced the amd radeon hd  and in january  we launched amd radeon hd  our first graphics processors based on nm process technology and on our graphics core next  or gcn  architecture 
+gcn is our new architecture for consumer gpus 
+in april  we added the amd radeon hd  radeon hd and radeon hd graphic cards to our amd radeon hd family of graphics cards 
+these graphics cards are designed for budget conscious gamers and are intended to provide affordable solutions that are ideal for hd game play  video playback and productivity applications 
+discrete mobile graphics 
+when selecting a graphics solution  key considerations for mobile pc manufacturers are graphics performance  visual experience  power efficiency  dedicated memory support and ease of design integration 
+our discrete gpus for mobile pcs include the following amd radeon hd m series  ati mobility radeon hd series and ati mobility radeon hd series 
+in july  we launched our amd radeon hd m  designed to expand gaming enthusiasts computing experience with amd crossfire technology  amd eyefinity multiple display technology  directx support and amd hdd technology 
+amd crossfire technology combines the output of two gpus and is designed to improve gaming performance and enhance image resolution and quality 
+we designed amd hdd technology to enable stereoscopic d display capabilities in games  movies and or photos 
+in january  we launched the amd radeon hd m series  which features amd dynamic switchable graphics technology  amd vari bright technology and amd powerplay technology 
+we designed amd dynamic switchable graphics technology to engage discrete gpus only when needed and use energy efficient built in graphics capabilities the rest of the time 
+with amd vari bright technology  battery life can be enhanced by optimizing the brightness of the display to save power 
+amd powerplay technology is a combination of hardware and software power management components designed to configure the gpu for minimal power consumption 
+professional graphics 
+our amd firepro family of professional graphics products consist of d and d multi view graphics cards and gpus that we designed for integration in mobile and desktop workstations  as well as business pcs 
+we designed our amd firepro d graphics cards for demanding applications such as those found in the cad and digital content creation dcc markets  with drivers specifically tuned for maximum performance  stability and reliability across a wide range of software packages 
+our amd firepro d graphics cards with dual and quad display outputs are designed for financial  corporate  and command and control environments 
+we also provide graphics products for the server market  such as the amd firepro vp and the amd fire pro vp  where we leverage our graphics expertise and align our offerings to provide the stability  video quality and bus architectures desired by our customers 
+through our ati crossfire pro  we enable cad and dcc professionals to connect two identical amd firepro d graphics cards with a flex cable connection that can enhance performance of geometry limited applications 
+in january  we introduced amd firepro and ati firepro v dvi  and in may  we introduced amd firepro v and amd firepro v  designed for professionals in the medical  financial  design and engineering fields who require the ability to view and interact with multiple applications simultaneously 
+also in may  we launched amd firepro vp for server and data center environments 
+in november  we introduced amd firepro v designed for dcc and cad professionals at an entry level price point 
+firestream processors 
+we designed our amd firestream series of products to utilize the parallel stream processing power of the gpu for heavy floating point computations and to meet the requirements of various industries  such as the high performance computing and the scientific and financial sectors 
+
+table of contents game consoles 
+semiconductor graphics suppliers have leveraged their core visual and graphics processing technologies developed for the pc market by providing graphic solutions to game console manufacturers 
+in this market  semiconductor graphics suppliers work alongside game console manufacturers to enhance the visual experience for users of sophisticated video games 
+we leverage our core visual processing technology into the game console market by licensing customized gpus for graphics in videogame consoles such as the microsoft xbox and nintendo wii 
+marketing and sales we sell our products through our direct sales force and through independent distributors and sales representatives in both domestic and international markets pursuant to non exclusive agreements 
+our sales arrangements generally operate on the basis of product forecasts provided by the particular customer  but do not typically include any commitment or requirement for minimum product purchases 
+we primarily use purchase orders  sales order acknowledgments and contractual agreements as evidence of our sales arrangements 
+our agreements typically contain standard terms and conditions covering matters such as payment terms  warranties and indemnities for issues specific to our products 
+we generally warrant that our products sold to our customers will conform to our approved specifications and be free from defects in material and workmanship under normal use and service for one year 
+subject to certain exceptions  we also offer a three year limited warranty to end users for only those cpu and amd a series apu products that are commonly referred to as processors in a box and for pc workstation products 
+we have also offered extended limited warranties to certain customers of tray microprocessor products and or workstation graphics products who have written agreements with us and target their computer systems at the commercial and or embedded markets 
+we market and sell our products under the amd trademark 
+our desktop pc product brands for microprocessors are amd a series apu  amd e series apu  amd fx  amd phenom  amd athlon and amd sempron 
+our mobile pc brands for microprocessors are amd a series apu  amd e series apu  amd c series apu  amd z series apu  amd phenom  amd turion  amd athlon and amd sempron 
+amd athlon processors and amd turion processors are sometimes marketed using the neo model designator for low power products targeted at the thin and light mobile segment 
+our server brand for microprocessors is amd opteron 
+we also sell low power versions of our amd opteron  amd athlon  amd turion  amd sempron and amd embedded a series processors as embedded processor solutions 
+our product brand for the consumer graphics market is amd radeon 
+our product brand for professional graphics products is amd firepro 
+we also market and sell our chipsets under the amd trademark 
+we launch or update new platforms for consumers in the desktop and mobile markets under our vision technology from amd brand 
+we designed vision technology to simplify the buying process for consumers by more clearly connecting our brand to the level of activities that consumers want to perform on the pc 
+vision technology contains multiple levels of increasingly rich pc system capabilities to address the diverse needs of today s pc users 
+vision technology initially was comprised of four levels of pc system capabilities vision  vision premium  vision ultimate and vision black 
+in january  we introduced our vision technology brand for our low power apu products  consisting of vision e and vision e for our entry level pcs 
+in june  we launched our vision technology brand for performance series apus consisting of four levels of pc system capabilities vision a  vision a  vision a  and vision fx 
+these vision tiers are for and later systems powered by our apus and provide increasingly higher pc capabilities 
+vision e  e  and a based desktops and notebooks are targeted at pc users who require basic digital media consumption such as watching dvds  photo viewing  casual gaming  listening to music  and internet browsing 
+vision a and a based desktops and notebooks are designed to allow a greater computing performance for digital consumption and creation 
+these activities include watching hd movies  photo editing  directx gaming  multi tasking  and video editing 
+vision fx desktops are based on the amd fx processor and an amd radeon hd or hd series graphics card 
+these vision fx systems are designed to enable the highest capabilities sought by enthusiasts and are only available on desktop pcs 
+there is also vision pro technology  which is designed for business users and extends the approach of vision technology to commercial pc platforms 
+we market our products through our direct marketing and co marketing programs 
+in addition  we have cooperative advertising and marketing programs with customers or third parties  including market development programs  pursuant to which we may provide product information  training  marketing materials and funds 
+under our co marketing development programs  eligible customers can use market development funds as partial reimbursement for advertisements and marketing programs related to our products  subject to meeting defined criteria 
+original equipment manufacturers  or oems  customers may qualify for market development funds based on purchases of eligible products 
+customers our microprocessor customers consist primarily of oems  original design manufacturers  or odms  system builders and independent distributors in both domestic and international markets 
+odms provide design and or manufacturing services to branded and unbranded private label resellers  oems and system builders 
+our graphics products customers include the foregoing as well as aibs  or add in board manufacturers 
+
+table of contents customers of our chipset products consist primarily of pc and server oems  often through odms or other contract manufacturers who build the oem motherboards  as well as desktop and server motherboard manufacturers who incorporate chipsets into their channel motherboards 
+our sales and marketing teams work closely with our customers to define product features  performance and timing of new products so that the products we are developing meet our customers needs 
+we also employ application engineers to assist our customers in designing  testing and qualifying system designs that incorporate our products in order to assist in optimizing product compatibility 
+we believe that our commitment to customer service and design support improves our customers time to market and fosters relationships that encourage customers to use the next generation of our products 
+original equipment manufacturers we focus on three types of oems multi nationals  selected regional accounts and target market customers 
+large multi nationals and regional accounts are our core oem customers 
+our oem customers include numerous foreign and domestic manufacturers of servers and workstations  desktop and mobile pcs  and pc motherboards 
+in  hewlett packard company accounted for more than of our consolidated net revenues 
+sales to hewlett packard consisted primarily of products from our computing solutions segment 
+five customers  including hewlett packard  accounted for approximately of the net revenue attributable to our computing solutions segment 
+in addition  five customers accounted for approximately of the net revenue attributable to our graphics segment 
+a loss of any of these customers could have a material adverse effect on our business 
+third party distributors our authorized distributors resell to sub distributors and mid sized and smaller oems and odms 
+typically  distributors handle a wide variety of products  including those that compete with our products 
+distributors typically maintain an inventory of our products 
+in most instances  our agreements with distributors protect their inventory of our products against price reductions and provide return rights with respect to any product that we have removed from our price book that is not more than twelve months older than the manufacturing code date 
+in addition  some agreements with our distributors may contain standard stock rotation provisions permitting limited levels of product returns 
+aib manufacturers and system integrators we strive to establish and broaden our relationships with aib manufacturers 
+we offer component level graphics and chipset products to aib manufacturers who in turn build and sell board level products using our technology to system integrators  or sis  and at retail 
+our agreements with aibs protect their inventory of our products against price reductions 
+we also sell directly to our si customers 
+sis typically sell from positions of regional or product based strength in the market 
+they usually operate on short design cycles and can respond quickly with new technologies 
+sis often use discrete graphics solutions as a means to differentiate their products and add value to their customers 
+competition generally  the ic industry is intensely competitive 
+products typically compete on product quality  power consumption including battery life  reliability  speed  performance  size or form factor  cost  selling price  adherence to industry standards and the creation of open industry standards  software and hardware compatibility and stability  brand recognition  timely product introductions and availability 
+technological advances in the industry result in frequent product introductions  regular price reductions  short product life cycles and increased product capabilities that may result in significant performance improvements 
+our ability to compete depends on our ability to develop  introduce and sell new products or enhanced versions of existing products on a timely basis and at competitive prices  while reducing our costs 
+competition in the microprocessor market intel corporation has dominated the market for microprocessors for many years 
+intel s market share  margins and significant financial resources enable it to market its products aggressively  to target our customers and our channel partners with special incentives  and to discipline customers who do business with us 
+these aggressive activities have in the past and are likely in the future to result in lower unit sales and a lower average selling price for our products and adversely affect our margins and profitability 
+
+table of contents intel exerts substantial influence over computer manufacturers and their channels of distribution through various brand and other marketing programs 
+as a result of intel s dominant position in the microprocessor market  intel has been able to control x microprocessor and computer system standards and benchmarks and to dictate the type of products the microprocessor market requires of us 
+intel also dominates the computer system platform  which includes core logic chipsets  graphics chips  motherboards and other components necessary to assemble a computer system 
+oems that purchase microprocessors for computer systems are highly dependent on intel  less innovative on their own and  to a large extent  are distributors of intel technology 
+additionally  intel is able to drive de facto standards for x microprocessors that could cause us and other companies to have delayed access to such standards 
+intel has substantially greater financial resources than we do and accordingly spends substantially greater amounts on research and development than we do 
+we expect intel to maintain its dominant position and to continue to invest heavily in marketing  research and development  new manufacturing facilities and other technology companies 
+to the extent intel manufactures a significantly larger portion of its microprocessor products using more advanced process technologies  or introduces competitive new products into the market before we do  we may be more vulnerable to intel s aggressive marketing and pricing strategies for microprocessor products 
+intel also leverages its dominance in the microprocessor market to sell its integrated chipsets 
+intel manufactures and sells integrated graphics chipsets bundled with their microprocessors and is a dominant competitor with respect to this portion of our business 
+the continued improvement of the quality of intel s integrated graphics  along with higher unit shipments of our apu products  may drive computer manufacturers to reduce the number of systems they build paired with discrete graphics components  particularly for mobile pcs  because they may offer satisfactory graphics performance for most mainstream pc users  at a lower cost 
+intel could also take actions that place our discrete gpus at a competitive disadvantage  including giving one or more of our competitors in the graphics market  such as nvidia corporation  preferential access to its proprietary graphics interface or other useful information 
+as long as intel remains in this dominant position  we may be materially adversely affected by intel s business practices  including rebating and allocation strategies and pricing actions  designed to limit our market share and margins  product mix and introduction schedules  product bundling  marketing and merchandising strategies  exclusivity payments to its current and potential customers and channel partners  control over industry standards  pc manufacturers and other pc industry participants  including motherboard  memory  chipset and basic input output system  or bios  suppliers and software companies as well as the graphics interface for intel platforms  and marketing and advertising expenditures in support of positioning the intel brand over the brand of its oem customers 
+intel s dominant position in the microprocessor market and integrated graphics chipset market  its existing relationships with top tier oems and its aggressive marketing and pricing strategies could result in lower unit sales and a lower average selling price for our products  which could have a material adverse effect on us 
+other competitors include companies providing arm based designs used in the mobile and embedded electronics market as relatively low cost and small microprocessors and also in form factors that offer an alternative to mainstream pcs such as netbooks and tablets 
+arm limited designs and licenses its arm architecture and offers supporting software and services 
+our ability to compete with companies who use arm based solutions depends on our ability to design energy efficient  high performing products at an attractive price point 
+in addition  nvidia has begun to build custom cpu cores based on arm architecture to support future products ranging from pcs and servers to workstations and super computers 
+competition in the chipset market in the chipset market  our competitors include suppliers of integrated graphics chipsets 
+pc manufacturers use integrated chipsets because they cost less than traditional discrete gpus while offering acceptable graphics performance for most mainstream pc users 
+intel manufactures and sells integrated graphics chipsets bundled with their microprocessors and is a dominant competitor in this market 
+
+table of contents competition in the graphics market in the graphics market  our competitors include suppliers of discrete graphics  embedded graphics processors and integrated graphics chipsets 
+intel manufactures and sells embedded graphics processors and integrated graphics igp chipsets  and is a dominant competitor with respect to this portion of our business 
+the continued improvement of the quality of intel s integrated graphics  along with higher unit shipments of our apus  may drive computer manufacturers to reduce the number of systems they build paired with discrete graphics components  particularly for mobile pcs  because they may offer satisfactory graphics performance for most mainstream pc users  at a lower cost 
+intel could take actions that place our discrete gpus and integrated chipsets at a competitive disadvantage such as giving one or more of our competitors in the graphics market  such as nvidia  preferential access to its proprietary graphics interface or other useful information 
+other than intel  our principal competitor in the graphics market is nvidia 
+amd and nvidia are the two principal players offering discrete graphics solutions 
+other competitors include a number of smaller companies  which may have greater flexibility to address specific market needs  but less financial resources to do so  especially as we believe that the growing complexity of visual processors and the associated research and development costs represent an increasingly higher barrier to entry in this market 
+in the game console category  we compete primarily against nvidia 
+other competitors include intel and arm 
+research and development we focus our research and development activities on improving and enhancing product design 
+one main area of focus is on delivering the next generation of products with greater system level integration of the cpu and gpu  improved system performance and performance per watt characteristics 
+for example  we are focusing on improving the battery life of our microprocessors and apu products for mobile pcs and the power efficiency of our microprocessors for servers 
+we are also focusing on delivering a range of low power integrated platforms to serve key markets  including commercial clients  mobile computing  and gaming and media computing  as well as developing a heterogeneous system architecture  which is designed for software developers to easily program apus by combining scalar processing on the cpu with parallel processing on the gpu  all while providing high bandwidth access to memory at low power 
+we believe that these integrated platforms will bring customers better time to market and increased performance and energy efficiency 
+we also work with industry leaders on process technology  software and other functional intellectual property and we work with others in the industry  public foundations  universities and industry consortia to conduct early stage research and development 
+our research and development expenses for  and were approximately billion  billion and billion  respectively 
+for more information  see part ii  item management s discussion and analysis of financial condition and results of operations  or md a 
+we conduct product and system research and development activities for our products in the united states with additional design and development engineering teams located in canada  india  china  singapore  taiwan  germany  united kingdom  israel and japan 
+manufacturing arrangements and assembly and test facilities third party wafer foundry facilities globalfoundries  inc on march   together with advanced technology investment company llc atic and west coast hitech lp  wch  acting through its general partner  west coast hitech gp  ltd  we formed globalfoundries  inc gf  a manufacturing joint venture that manufactures semiconductor products and provides certain foundry services to us 
+wafer supply agreement 
+at the closing of the transactions  we entered into a wafer supply agreement wsa  which governs the terms by which we purchase products manufactured by gf 
+pursuant to the wsa  we are required to purchase all of our microprocessor unit and apu product requirements from gf with limited exceptions 
+on april   we amended the wsa 
+the primary effect of the amendment was to change the pricing methodology applicable to wafers delivered in for our microprocessors  including apu products 
+the amendment also modified our existing commitments regarding the production of certain gpu and chipset products at gf 
+pursuant to the amendment  gf committed to provide us with  and we committed to purchase  a fixed number of nm and nm wafers per quarter in we paid gf a fixed price for nm wafers delivered in our price for nm wafers varied based on the wafer volumes and manufacturing yield of such wafers and was based on good die 
+in addition  we also agreed to pay an additional quarterly amount to gf during totaling up to million if gf met specified conditions related to continued availability of nm capacity as of the beginning of under the current terms of the wsa  in  we will compensate gf on a cost plus basis for projected manufacturing capacity that we have requested for our microprocessors  including our apu products 
+however  we are currently in the process of negotiating a second amendment to the wsa  including the pricing methodology 
+if we do not successfully conclude our negotiations  it could have a material adverse impact on our gross margins and our results of operations 
+
+table of contents the wsa terminates no later than march  gf has agreed to use commercially reasonable efforts to assist us to transition the supply of products to another provider  and to continue to fulfill purchase orders for up to two years following the termination or expiration of the wsa 
+during the transition period  pricing for microprocessor products will remain as set forth in the wsa  but our purchase commitments to gf will no longer apply 
+gf manufactures our microprocessors on millimeter wafers using primarily nm and nm process technology 
+taiwan semiconductor manufacturing company 
+we also have foundry arrangements with taiwan semiconductor manufacturing company tsmc for the production of certain graphics processors and chipsets  embedded processors  and apu products 
+we are in production in tsmc s millimeter and millimeter fabrication facilities in technologies ranging from nm to nm 
+smaller process geometries can lead to gains in performance  lower power consumption and lower per unit manufacturing costs 
+we continue to have our products manufactured on more advanced process technology because using more advanced process technology can contribute to lower product manufacturing costs and improve a product s performance and power efficiency 
+other third party manufacturers 
+we outsource board level graphics product manufacturing to third party manufacturers 
+assembly  test  mark and packaging facilities we own and operate three assembly  test  mark and packaging facilities 
+some wafers for our microprocessor  graphics processor and embedded processor products are delivered from third party foundries to our assembly  test  mark and packaging facilities 
+our assembly  test  mark and packaging facilities are described in the chart set forth below facility location approximate manufacturing area square footage activity penang  malaysia  assembly  test  mark packaging singapore  test  mark packaging suzhou  china  assembly  test  mark packaging the remaining wafers for our graphics products are delivered from third party foundries to our test  assembly and packaging partners located in asia pacific region who package and test the final semiconductor products 
+intellectual property and licensing we rely on contracts and intellectual property rights to protect our products and technologies from unauthorized third party copying and use 
+intellectual property rights include copyrights  patents  patent applications  trademarks  trade secrets and maskwork rights 
+as of december  we had approximately  patents in the united states and approximately  patent applications pending in the united states 
+in certain cases  we have filed corresponding applications in foreign jurisdictions 
+we expect to file future patent applications in both the united states and abroad on significant inventions  as we deem appropriate 
+we do not believe that any individual patent  or the expiration thereof  is or would be material to our business 
+as is typical in the semiconductor industry  we have numerous cross licensing and technology exchange agreements with other companies under which we both transfer and receive technology and intellectual property rights 
+one such agreement is the cross license agreement that we entered into with intel on november   in connection with the settlement of our litigation 
+under the cross license agreement  intel has granted to us and our subsidiaries  and we have granted intel and its subsidiaries  non exclusive  royalty free licenses to all patents that are either owned or controlled by the parties at any time that have a first effective filing date or priority date prior to the five year anniversary of the effective date of the cross license agreement  referred to as the capture period  to make  have made  use  sell  offer to sell  import and otherwise dispose of certain semiconductor and electronic related products anywhere in the world 
+under the cross license agreement  intel has rights to make semiconductor products for third parties  but the third party product designs are not licensed as a result of such manufacture 
+we have rights to perform assembly and testing for third parties but not rights to make semiconductor products for third parties 
+the term of the cross license agreement continues until the expiration of the last to expire of the licensed patents  unless earlier terminated 
+a party can terminate the cross license agreement or the rights and licenses of the other party if the other party materially breaches the cross license agreement and does not correct the noticed material breach within days 
+upon such termination  the terminated party s license rights terminate but the terminating party s license rights continue  subject to that party s continued compliance with the terms of the cross license agreement 
+the cross license agreement and the capture period will automatically terminate if a party undergoes a change of control as defined in the cross license agreement and both parties licenses will terminate 
+upon the bankruptcy of a party  that party may assume  but may not assign  the cross license agreement  and in the event that the cross license agreement cannot be assumed  the cross license agreement and the licenses granted will terminate 
+
+table of contents we also have a patent cross license agreement with gf pursuant to which each party granted to the other a non exclusive license under patents filed by a party or are otherwise acquired by a party within a certain number of years following the effective date of the agreement 
+in  under the agreements with gf  we assigned approximately  patents and approximately  patent applications to gf 
+gf owns its allocation of patents and applications subject to pre existing rights  licenses or immunities granted to third parties relating to such patents and applications 
+the patents and patent applications to be owned by each party after the division were licensed to the other party pursuant to the agreement 
+in addition  we entered into a non patent intellectual property and technology transfer agreement with gf pursuant to which we assigned to gf all of our right  title and interest in technology and non patent intellectual property rights used exclusively in the manufacture  sorting and or intermediate testing of semiconductor products 
+we retained technology and non patent intellectual property rights used exclusively in the design and or post fabrication delivery testing of semiconductors 
+technology and non patent intellectual property rights used both in the manufacture  sorting and or intermediate testing of semiconductor products and in the design and or post fabrication delivery testing of semiconductor products is owned jointly by us and gf 
+backlog we sell standard lines of products 
+sales are made primarily pursuant to purchase orders for current delivery or agreements covering purchases over a period of time 
+some of these orders or agreements may be revised or cancelled without penalty 
+generally  in light of current industry practice  we do not believe that such orders or agreements provide meaningful backlog figures or are necessarily indicative of actual sales for any succeeding period 
+employees as of december   we had approximately  employees 
+environmental regulations many aspects of our business operations and products are regulated by domestic and international environmental laws and regulations 
+these regulations include limitations on discharge of pollutants to air  water  and soil  remediation requirements  product chemical content limitations  manufacturing chemical use and handling restrictions  pollution control requirements  waste minimization considerations  and requirements with respect to treatment  transport  storage and disposal of solid and hazardous wastes 
+if we fail to comply with any of the applicable environmental regulations we may be subject to fines  suspension of production  alteration of our manufacturing processes  import export restrictions  sales limitations  and or criminal and civil liabilities 
+existing or future regulations could require us to procure expensive pollution abatement or remediation equipment  to modify product designs  or to incur other expenses to comply with environmental regulations 
+any failure to adequately control the use  disposal or storage  or discharge of hazardous substances could expose us to future liabilities that could have a material adverse effect on our business 
+we believe we are in material compliance with applicable environmental requirements and do not expect those requirements to result in material expenditures in the foreseeable future 
+environmental laws are complex  change frequently and have tended to become more stringent over time 
+we face increasing complexity in our product design and procurement operations as we adjust to new and future requirements relating to the chemical and material composition of our products 
+for example  the european union eu and china are two among a growing number of jurisdictions that have enacted in recent years restrictions on the use of lead  among other chemicals  in electronic products with other countries implementing similar restrictions 
+these regulations affect semiconductor devices and packaging 
+there is a risk that the cost  quality and manufacturing yields of products that are required to be lead free  as defined by these regulations  or that are subject to other chemical restrictions  may be less favorable compared to products that are not subject to chemical restrictions  or that the transition to products subject to lead free or other chemical restrictions may produce sudden changes in demand  which may result in excess inventory 
+the dodd frank wall street reform and consumer protection act requires the sec to establish new disclosure and reporting requirements for those companies who use conflict minerals mined from the democratic republic of congo and adjoining countries in their products  whether or not these products are manufactured by third parties 
+when these new requirements are implemented  they could affect the sourcing and availability of minerals used in the manufacture of semiconductor devices  and there will be additional costs associated with complying with the disclosure requirements  such as costs related to determining the source of any conflicting minerals used in our products 
+also  since our supply chain is complex  we may face reputational challenges if we are unable to sufficiently verify the origins for all metals used in our products through the due diligence procedures that we implement 
+moreover  we may encounter challenges to satisfy those customers who require that all of the components of our products are certified as conflict free 
+
+table of contents other regulatory requirements potentially affecting our back end manufacturing processes and the design and marketing of our products are in development throughout the world 
+in addition  a number of jurisdictions including the eu  australia and china are developing or finalizing market entry requirements or public procurement for computers and servers based on energy star specification as well as additional energy consumption limits 
+some of these regulations are expected to be approved and implemented by the end of if such requirements are implemented in the proposed time frame and do not contain recommended modifications as proposed by industry associations  there is the potential for certain of our microprocessor  chipset and gpu products  as incorporated in desktop and mobile pcs  workstations  servers and other information and communications technology products being excluded from these markets which could materially adversely affect us 
+while we have budgeted for foreseeable associated expenditures  we cannot assure you that future environmental legal requirements will not become more stringent or costly in the future 
+therefore  we cannot assure you that our costs of complying with current and future environmental and health and safety laws  and our liabilities arising from past and future releases of  or exposure to  hazardous substances will not have a material adverse effect on us 
+item a 
+risk factors the risks and uncertainties described below are not the only ones we face 
+if any of the following risks actually occurs  our business  financial condition or results of operations could be materially adversely affected 
+in addition  you should consider the interrelationship and compounding effects of two or more risks occurring simultaneously 
+intel corporation s dominance of the microprocessor market and its aggressive business practices may limit our ability to compete effectively 
+intel corporation has dominated the market for microprocessors for many years 
+intel s market share  margins and significant financial resources enable it to market its products aggressively  to target our customers and our channel partners with special incentives  and to discipline customers who do business with us 
+these aggressive activities have in the past and are likely in the future to result in lower unit sales and a lower average selling price for our products and adversely affect our margins and profitability 
+intel exerts substantial influence over computer manufacturers and their channels of distribution through various brand and other marketing programs 
+as a result of intel s dominant position in the microprocessor market  intel has been able to control x microprocessor and computer system standards and benchmarks and to dictate the type of products the microprocessor market requires of us 
+intel also dominates the computer system platform  which includes core logic chipsets  graphics chips  motherboards and other components necessary to assemble a computer system 
+oems that purchase microprocessors for computer systems are highly dependent on intel  less innovative on their own and  to a large extent  are distributors of intel technology 
+additionally  intel is able to drive de facto standards for x microprocessors that could cause us and other companies to have delayed access to such standards 
+intel has substantially greater financial resources than we do and accordingly spends substantially greater amounts on research and development than we do 
+we expect intel to maintain its dominant position and to continue to invest heavily in marketing  research and development  new manufacturing facilities and other technology companies 
+to the extent intel manufactures a significantly larger portion of its microprocessor products using more advanced process technologies  or introduces competitive new products into the market before we do  we may be more vulnerable to intel s aggressive marketing and pricing strategies for microprocessor products 
+intel also leverages its dominance in the microprocessor market to sell its integrated chipsets 
+intel manufactures and sells integrated graphics chipsets bundled with their microprocessors and is a dominant competitor with respect to this portion of our business 
+the continued improvement of the quality of intel s integrated graphics  along with higher unit shipments of our apu products  may drive computer manufacturers to reduce the number of systems they build paired with discrete graphics components  particularly for mobile pcs  because they may offer satisfactory graphics performance for most mainstream pc users  at a lower cost 
+intel could also take actions that place our discrete gpus at a competitive disadvantage  including giving one or more of our competitors in the graphics market  such as nvidia corporation  preferential access to its proprietary graphics interface or other useful information 
+as long as intel remains in this dominant position  we may be materially adversely affected by intel s business practices  including rebating and allocation strategies and pricing actions  designed to limit our market share and margins  product mix and introduction schedules  product bundling  marketing and merchandising strategies  exclusivity payments to its current and potential customers and channel partners  
+table of contents control over industry standards  pc manufacturers and other pc industry participants  including motherboard  memory  chipset and basic input output system  or bios  suppliers and software companies as well as the graphics interface for intel platforms  and marketing and advertising expenditures in support of positioning the intel brand over the brand of its oem customers 
+intel s dominant position in the microprocessor market and integrated graphics chipset market  its existing relationships with top tier oems and its aggressive marketing and pricing strategies could result in lower unit sales and a lower average selling price for our products  which could have a material adverse effect on us 
+the success of our business is dependent upon our ability to introduce products on a timely basis with features and performance levels that provide value to our customers while supporting and coinciding with significant industry transitions 
+our success depends to a significant extent on the development  qualification  implementation and acceptance of new product designs and improvements that provide value to our customers 
+our ability to develop  qualify and distribute new products and related technologies to meet evolving industry requirements  at prices acceptable to our customers and on a timely basis are significant factors in determining our competitiveness in our target markets 
+if we fail to or are delayed in developing  qualifying or shipping new products or technologies  we may lose competitive positioning  which could cause us to lose market share and require us to discount the selling prices of our products 
+delays in developing  qualifying or shipping new products can also cause us to miss our customers product design windows 
+if our customers do not include our products in the initial design of their computer systems  they will typically not use our products in their systems until at least the next design configuration 
+the process of being qualified for inclusion in a customer s system can be lengthy and could cause us to further miss a cycle in the demand of end users  which also could result in a loss of market share and harm our business 
+moreover  market demand requires that products incorporate new features and performance standards on an industry wide basis 
+over the life of a specific product  the average selling price undergoes regular price reductions 
+the introduction of new products and enhancements to existing products is necessary to maintain an overall corporate average selling price 
+if we are unable to introduce new products with sufficient increases in average selling price or increased unit sales volumes capable of offsetting the reductions in the average selling price of existing products  our business could be materially adversely affected 
+with the introduction of our apu products  computer manufacturers have increasingly selected apus for their amd product based solutions  particularly for mobile pcs  because the apu platforms cost less than the combined cost of a legacy microprocessor  discrete graphics card and chipset  while offering comparable performance to mainstream discrete graphics cards  which we believe is sufficient for most mainstream pc users 
+we believe that demand for additional discrete graphic cards may decrease in the future due to both the continued improvement of the quality of intel s integrated graphics and the discrete level graphics performance of our apus 
+we rely on third parties to manufacture our products  and if they are unable to do so on a timely basis in sufficient quantities and using competitive technologies  our business could be materially adversely affected 
+we rely on third party wafer foundries to fabricate the silicon wafers for all of our products 
+we also rely on third party providers to assemble  test  mark and pack certain of our products 
+it is important to have reliable relationships with all of these third party manufacturing suppliers to ensure adequate product supply to respond to customer demand 
+we cannot assure you that these manufacturers or our other third party manufacturing suppliers will be able to meet our near term or long term manufacturing requirements 
+for example  during the fourth quarter of  we experienced reduced supply of nm products from gf because of a manufacturing disruption that reduced the number of nm wafers available for production 
+if we experience future supply constraints  such as was the case with gf in the second half of  we may be required to allocate the affected products amongst our customers  which could have a material adverse effect on our relationships with these customers and on our financial condition 
+in addition  depending on the timing of supply of products during any given quarter  customer demand may fluctuate 
+we do not have long term commitment contracts with some of our third party manufacturing suppliers 
+we obtain these manufacturing services on a purchase order basis and these manufacturers are not required to provide us with any specified minimum quantity of product 
+accordingly  we depend on these suppliers to allocate to us a portion of their manufacturing capacity sufficient to meet our needs  to produce products of acceptable quality and at acceptable manufacturing yields and to deliver those products to us on a timely basis at acceptable prices 
+the manufacturers we use also fabricate wafers and assemble  test and package products for other companies  including certain of our competitors 
+they could choose to prioritize capacity for other users  increase the prices that they charge us on short notice or reduce or eliminate deliveries to us  which could have a material adverse effect on our business 
+
+table of contents other risks associated with our dependence on third party manufacturers include limited control over delivery schedules and quality assurance  lack of capacity in periods of excess demand  misappropriation of our intellectual property  dependence on several small undercapitalized subcontractors  and limited ability to manage inventory and parts 
+moreover  if any of our third party manufacturing suppliers suffer any damage to facilities  lose benefits under material agreements  experience power outages  lack sufficient capacity to manufacture our products  encounter financial difficulties  are unable to secure necessary raw materials from their suppliers  or suffer any other disruption or reduction in efficiency  we may encounter supply delays or disruptions 
+if we are unable to secure sufficient or reliable supplies of products  our ability to meet customer demand may be adversely affected and this could materially affect our business 
+if we transition the production of some of our products to new manufacturers  we may experience delayed product introductions  lower yields or poorer performance of our products 
+if we experience problems with product quality or are unable to secure sufficient capacity from a particular third party manufacturing supplier  or if we for other reasons cease utilizing one of those suppliers  we may be unable to secure an alternative supply for any specific product in a short time frame 
+we could experience significant delays in the shipment of our products if we are required to find alternative third party manufacturing suppliers  which could have a material adverse effect on our business 
+we rely on gf to manufacture most of our microprocessor products 
+if gf is not able to satisfy our manufacturing requirements  our business could be adversely impacted 
+the wsa governs the terms by which we purchase products manufactured by gf 
+pursuant to the wsa  we are required to purchase all of our microprocessor unit and apu product requirements from gf with limited exceptions 
+if gf is unable to remain competitive using advanced process technologies or is unable to manufacture our products on a timely basis  at competitive prices  or meet our capacity requirements  our business could be materially adversely affected 
+for example  during the third quarter of  gf experienced yield and other manufacturing difficulties related to nm wafer fabrication  resulting in lower than expected supply of nm products to us 
+also in the third quarter  we experienced supply constraints for our nm microprocessor products from gf due to complexities related to the use of common tools across both nm and nm technology nodes and because we made the decision to shift volume away from products manufactured using the nm technology node in order to obtain additional nm products 
+because we were supply constrained with respect to nm and nm wafers  our revenues and gross margin in the third quarter of were adversely impacted 
+also  during the fourth quarter of  we experienced reduced supply of nm product from gf because of a manufacturing disruption that reduced the number of nm wafers available for production 
+if gf is unable to achieve anticipated manufacturing yields for nm or nm wafers or future technology nodes  then we may experience supply shortages for certain products which may have a material adverse impact on our revenue and gross margins and our ability to effectively manage our business 
+in addition  gf relies on atic for its funding needs 
+if atic failed to adequately fund gf on a timely basis  or at all  gf s ability to manufacture products for us would be materially adversely effected 
+we are currently in the process of negotiating a second amendment to the wsa  including the pricing methodology 
+if we do not successfully conclude our negotiations  it could have a material adverse impact on our gross margins and our results of operations 
+failure to achieve expected manufacturing yields for our products could negatively impact our financial results 
+semiconductor manufacturing yields are a result of both product design and process technology  which is typically proprietary to the manufacturer  and low yields can result from either design or process technology failures 
+our third party foundries are responsible for the process technologies used to fabricate silicon wafers 
+if our third party foundries experience manufacturing inefficiencies or encounter disruptions  errors or difficulties during production  we may fail to achieve acceptable yields or experience product delivery delays 
+we cannot be certain that our third party foundries will be able to develop  obtain or successfully implement leading edge process technologies needed to manufacture future generations of our products profitably or on a timely basis or that our competitors will not develop new technologies  products or processes earlier 
+moreover  during periods when foundries are implementing new process technologies  their manufacturing facilities may not be fully productive 
+a substantial delay in the technology transitions to smaller process technologies could have a material adverse effect on us  particularly if our competitors transition to more cost effective technologies before us 
+any decrease in manufacturing yields could result in an increase in per unit costs  which would adversely impact our gross margin and or force us to allocate our reduced product supply amongst our customers  which could harm our relationships with our customers and reputation and materially adversely affect our business 
+
+table of contents global economic uncertainty may adversely impact our business and operating results 
+uncertain global economic conditions have in the past and may in the future adversely impact our business 
+during challenging economic times  our current or potential future customers may experience cash flow problems and as a result may modify  delay or cancel plans to purchase our products 
+additionally  if our customers are not successful in generating sufficient revenue or are unable to secure financing  they may not be able to pay  or may delay payment of  accounts receivable that they owe us 
+any inability of our current or potential future customers to pay us for our products may adversely affect our earnings and cash flow 
+moreover  our key suppliers may reduce their output or become insolvent  thereby adversely impacting our ability to manufacture our products 
+in addition  uncertain economic conditions may make it more difficult for us to raise funds through borrowings or private or public sales of debt or equity securities 
+our ability to design and introduce new products in a timely manner is dependent upon third party intellectual property 
+in the design and development of new products and product enhancements  we rely on third party intellectual property such as software development tools and hardware testing tools 
+furthermore  certain product features may rely on intellectual property acquired from third parties 
+the design requirements necessary to meet consumer demands for more features and greater functionality from semiconductor products in the future may exceed the capabilities of the third party intellectual property or development tools available to us 
+if the third party intellectual property that we use becomes unavailable or fails to produce designs that meet consumer demands  our business could be materially adversely affected 
+we depend on third party companies for the design  manufacture and supply of motherboards  bios software and other computer platform components to support our microprocessor and graphics businesses 
+we depend on third party companies for the design  manufacture and supply of motherboards  bios software and other components that our customers utilize to support our microprocessor and gpu offerings 
+we also rely on our add in board partners aibs to support our gpu business 
+in addition  our microprocessors are not designed to function with motherboards and chipsets designed to work with intel microprocessors 
+if the designers  manufacturers  aibs and suppliers of motherboards and other components decrease their support for our product offerings  our business could be materially adversely affected 
+if we lose microsoft corporation s support for our products or other software vendors do not design and develop software to run on our products  our ability to sell our products could be materially adversely affected 
+our ability to innovate beyond the x instruction set controlled by intel depends partially on microsoft designing and developing its operating systems to run on or support our microprocessor products 
+with respect to our graphics products  we depend in part on microsoft to design and develop its operating system to run on or support our graphics products 
+similarly  the success of our products in the market  such as our amd apu products  is dependent on independent software providers designing and developing software to run on our products 
+if microsoft does not continue to design and develop its operating systems so that they work with our x instruction sets or does not continue to develop and maintain their operating systems to support our graphics products  independent software providers may forego designing their software applications to take advantage of our innovations and customers may not purchase pcs with our products 
+in addition  some software drivers sold with our products are certified by microsoft 
+if microsoft did not certify a driver  or if we otherwise fail to retain the support of microsoft or other software vendors  our ability to market our products would be materially adversely affected 
+the loss of a significant customer may have a material adverse effect on us 
+collectively  our top five customers accounted for approximately of our net revenue in on a segment basis  during  five customers accounted for approximately of the net revenue of our computing solutions segment and five customers accounted for approximately of the net revenue of our graphics segment 
+we expect that a small number of customers will continue to account for a substantial part of revenues of our microprocessor and graphics businesses in the future 
+if one of our top microprocessor or graphics business customers decided to stop buying our products  or if one of these customers were to materially reduce its operations or its demand for our products  our business would be materially adversely affected 
+our inability to continue to attract and retain qualified personnel may hinder our product development programs 
+much of our future success depends upon the continued service of numerous qualified engineering  marketing  sales and executive personnel 
+if we are not able to continue to attract  train  and retain qualified personnel necessary for our business  the progress of our product development programs could be hindered  and we could be materially adversely affected 
+
+table of contents if we cannot generate sufficient revenues and operating cash flow or obtain external financing  we may face a cash shortfall and be unable to make all of our planned investments in research and development or other strategic investments 
+although we make substantial investments in research and development  we cannot be certain that we will be able to develop  obtain or successfully implement new products and technologies on a timely basis 
+our ability to fund research and development expenditures depends on generating sufficient cash flow from operations and the availability of external financing  if necessary 
+our research and development expenditures  together with ongoing operating expenses  will be a substantial drain on our cash flow and may decrease our cash balances 
+if new competitors  technological advances by existing competitors or other competitive factors require us to invest significantly greater resources than anticipated in our research and development efforts  our operating expenses would increase 
+if we are required to invest significantly greater resources than anticipated in research and development efforts without an increase in revenue  our operating results could decline 
+we regularly assess markets for external financing opportunities  including debt and equity financing 
+additional debt or equity financing may not be available when needed or  if available  may not be available on satisfactory terms 
+the health of the credit markets may adversely impact our ability to obtain financing when needed 
+in addition  any downgrades from credit rating agencies such as moody s or standard poor s may adversely impact our ability to obtain external financing or the terms of such financing 
+credit agency downgrades may also impact relationships with our suppliers  who may limit our credit lines 
+our inability to obtain needed financing or to generate sufficient cash from operations may require us to abandon projects or curtail planned investments in research and development or other strategic initiatives 
+if we curtail planned investments in research and development or abandon projects  our products may fail to remain competitive and our business would be materially adversely affected 
+the markets in which our products are sold are highly competitive 
+the markets in which our products are sold are very competitive  and delivering the latest and best products to market on a timely basis is critical to achieving revenue growth 
+we believe that the main factors that determine our product competitiveness are timely product introductions  product quality  power consumption including battery life  reliability  selling price  speed  size or form factor  cost  adherence to industry standards and the creation of open industry standards  software and hardware compatibility and stability and brand awareness 
+we expect that competition will continue to be intense due to rapid technological changes  frequent product introductions by our competitors of products that provide better performance or include additional features that render our products uncompetitive and aggressive pricing by competitors  especially during challenging economic times 
+for example  arm based processors are used in mobile and embedded electronics products as relatively low cost and small microprocessors and also in form factors such as tablets and smartphones 
+to the extent consumers adopt new form factors and have different requirements than those consumers in the pc market  it could negatively impact pc sales  which could negatively impact our business 
+also  intel announced plans to implement d tri gate transistor architecture on nm process technology  which  intel expects  can improve power consumption and performance of its products 
+using a more advanced process technology can contribute to lower product manufacturing costs and improve a product s performance and power efficiency 
+if competitors introduce competitive new products into the market before us  our business could be adversely affected 
+some competitors may have greater access or rights to companion technologies  including interface  processor and memory technical information 
+competitive pressures could adversely impact the demand for our products  which could harm our business 
+we have a substantial amount of indebtedness which could adversely affect our financial position and prevent us from implementing our strategy or fulfilling our contractual obligations 
+our debt and capital lease obligations as of december  were billion  which reflects the debt discount adjustment on our convertible senior notes due notes and senior notes due notes 
+our substantial indebtedness may make it difficult for us to satisfy our financial obligations  including making scheduled principal and interest payments  limit our ability to borrow additional funds for working capital  capital expenditures  acquisitions and general corporate and other purposes  limit our ability to use our cash flow or obtain additional financing for future working capital  capital expenditures  acquisitions or other general corporate purposes  require us to use a substantial portion of our cash flow from operations to make debt service payments  place us at a competitive disadvantage compared to our less leveraged competitors  and increase our vulnerability to the impact of adverse economic and industry conditions 
+
+table of contents we may not be able to generate sufficient cash to service our debt obligations 
+our ability to make payments on and to refinance our debt will depend on our financial and operating performance  which may fluctuate significantly from quarter to quarter  and is subject to prevailing economic conditions and financial  business and other factors  many of which are beyond our control 
+in august  the remaining outstanding aggregate principal amount of our convertible senior notes due notes of million will mature 
+we cannot assure you that we will be able to generate sufficient cash flow or that we will be able to borrow funds in amounts sufficient to enable us to service our debt or to meet our working capital requirements 
+if we are not able to generate sufficient cash flow from operations or to borrow sufficient funds to service our debt  we may be required to sell assets or equity  reduce expenditures  refinance all or a portion of our existing debt or obtain additional financing 
+we cannot assure you that we will be able to refinance our debt  sell assets or equity or borrow more funds on terms acceptable to us  if at all 
+our debt instruments impose restrictions on us that may adversely affect our ability to operate our business 
+the indentures governing our notes and senior notes due notes contain various covenants which limit our ability to incur additional indebtedness  pay dividends and make other restricted payments  make certain investments  including investments in our unrestricted subsidiaries  create or permit certain liens  create or permit restrictions on the ability of certain restricted subsidiaries to pay dividends or make other distributions to us  use the proceeds from sales of assets  enter into certain types of transactions with affiliates  and consolidate or merge or sell our assets as an entirety or substantially as an entirety 
+the agreements governing our borrowing arrangements contain cross default provisions whereby a default under one agreement would likely result in cross defaults under agreements covering other borrowings 
+for example  the occurrence of a default with respect to any indebtedness or any failure to repay debt when due in an amount in excess of million would cause a cross default under the indentures governing our notes  notes  notes and notes 
+the occurrence of a default under any of these borrowing arrangements would permit the applicable note holders to declare all amounts outstanding under those borrowing arrangements to be immediately due and payable 
+if the note holders or the trustee under the indentures governing our notes  notes  notes or notes accelerate the repayment of borrowings  we cannot assure you that we will have sufficient assets to repay those borrowings 
+in the event of a change of control  we may not be able to repurchase our outstanding debt as required by the applicable indentures  which would result in a default under the indentures 
+upon a change of control  we will be required to offer to repurchase all of the notes and notes then outstanding at of the principal amount thereof  plus accrued and unpaid interest  if any  up to  but excluding  the repurchase date 
+moreover  the indentures governing our notes and notes require us to offer to repurchase these securities upon certain change of control events 
+as of december   the aggregate outstanding principal amount of the outstanding notes  notes  notes and notes was billion 
+future debt agreements may contain similar provisions 
+we may not have the financial resources to repurchase our indebtedness 
+the semiconductor industry is highly cyclical and has experienced severe downturns that materially adversely affected  and may in the future materially adversely affect  our business 
+the semiconductor industry is highly cyclical and has experienced significant downturns  often in conjunction with constant and rapid technological change  wide fluctuations in supply and demand  continuous new product introductions  price erosion and declines in general economic conditions 
+we have incurred substantial losses in recent downturns  due to substantial declines in average selling prices  the cyclical nature of supply demand imbalances in the semiconductor industry  a decline in demand for end user products such as pcs that incorporate our products  and excess inventory levels in the channels of distribution  including those of our customers 
+
+table of contents global economic uncertainty and weakness have also impacted the semiconductor market as consumers and businesses have deferred purchases  which negatively impacted demand for our products 
+recent flooding in thailand is disrupting the supply of hard disk drives 
+if our customers are unable to obtain sufficient quantities of hard disk drives they need for their systems that include our products and the supply of their products is substantially reduced  then they may postpone or cancel their orders for our products  which could also have a material adverse impact on our business 
+for example  during the fourth quarter of  we believe the results of our graphics segment were adversely impacted because some of our customers were impacted by the flooding in thailand and the disruption in the supply of hard disk drives 
+we expect the hard disk drive shortage to continue through at least the first quarter of  which could have a material adverse impact on our business 
+our financial performance has been  and may in the future be  negatively affected by these downturns 
+the demand for our products depends in part on the market conditions in the industries and geographies into which they are sold 
+fluctuations in demand for our products or a market decline in any of these industries or geographies would have a material adverse effect on our results of operations 
+our business is dependent upon the market for desktop and mobile pcs and servers 
+over the past three years  form factors have steadily shifted from desktop pcs to mobile pcs  and we expect that this trajectory will continue and extend to include additional form factors like tablets and slates 
+historically  a significant portion of our computing solutions revenue has been related to desktop pcs 
+industry wide fluctuations in the computer marketplace have materially adversely affected us in the past and may materially adversely affect us in the future 
+as a result of ongoing macroeconomic challenges affecting the global economy  end user demand for pcs and servers remains unpredictable 
+the growth of our business is also dependent on continued demand for our products from high growth  emerging global markets 
+in addition  our ability to be successful in such markets depends in part on our ability to establish adequate local infrastructure  as well as our ability to cultivate and maintain local relationships in these markets 
+if demand from these markets is below our expectations  sales of our products may decrease  which would have a material adverse effect on us 
+our operating results are subject to quarterly and seasonal sales patterns 
+a substantial portion of our quarterly sales have historically been made in the last month of the quarter 
+this uneven sales pattern makes prediction of revenues for each financial period difficult and increases the risk of unanticipated variations in quarterly results and financial condition 
+in addition  our operating results tend to vary seasonally 
+for example  historically  demand in the retail sector of the pc market is often stronger during the fourth quarter as a result of the winter holiday season and weaker in the first quarter 
+european sales have also been historically weaker during the summer months 
+many of the factors that create and affect seasonal trends are beyond our control 
+if essential equipment or materials are not available to manufacture our products  we could be materially adversely affected 
+we purchase equipment and materials for our internal back end manufacturing operations from a number of suppliers and our operations depend upon obtaining deliveries of adequate supplies of equipment and materials on a timely basis 
+our third party manufacturing suppliers also depend on the same timely delivery of adequate quantities of equipment and materials in the manufacture of our products 
+certain equipment and materials that are used in the manufacture of our products are available only from a limited number of suppliers 
+we also depend on a limited number of suppliers to provide the majority of certain types of integrated circuit packages for our microprocessors  including apu products 
+similarly  certain non proprietary materials or components such as memory  printed circuit boards pcbs  substrates and capacitors used in the manufacture of our graphics products are currently available from only a limited number of sources 
+because some of the equipment and materials that we and our third party manufacturing suppliers purchase are complex  it is sometimes difficult to substitute one supplier for another 
+from time to time  suppliers may extend lead times  limit supply or increase prices due to capacity constraints or other factors 
+also  some of these materials and components may be subject to rapid changes in price and availability 
+interruption of supply or increased demand in the industry could cause shortages and price increases in various essential materials 
+dependence on a sole supplier or a limited number of suppliers exacerbates these risks 
+if we are unable to procure certain of these materials  or our foundries are unable to procure materials for manufacturing our products  our business would be materially adversely affected 
+our issuance to west coast hitech lp wch of warrants to purchase  shares of our common stock  if and when exercised by wch  will dilute the ownership interests of our existing stockholders  and the conversion of the remainder of our notes and notes may dilute the ownership interest of our existing stockholders 
+the warrants issued to wch became exercisable in july any issuance by us of additional shares to wch upon exercise of the warrants will dilute the ownership interests of our existing stockholders 
+any sales in the public market by wch of any shares owned by wch could adversely affect prevailing market prices of our common stock  and the anticipated exercise by wch of the warrants could depress the price of our common stock 
+
+table of contents moreover  the conversion of our remaining notes and notes may dilute the ownership interests of our existing stockholders 
+the conversion of the notes and the notes could have a dilutive effect on our earnings per share to the extent that the price of our common stock exceeds the conversion price of the notes and notes 
+any sales in the public market of our common stock issuable upon conversion of the notes or notes could adversely affect prevailing market prices of our common stock 
+in addition  the conversion of the notes into shares of our common stock and notes into cash and shares of our common stock could depress the price of our common stock 
+if our products are not compatible with some or all industry standard software and hardware  we could be materially adversely affected 
+our products may not be fully compatible with some or all industry standard software and hardware 
+further  we may be unsuccessful in correcting any such compatibility problems in a timely manner 
+if our customers are unable to achieve compatibility with software or hardware after our products are shipped in volume  we could be materially adversely affected 
+in addition  the mere announcement of an incompatibility problem relating to our products could have a material adverse effect on our business 
+costs related to defective products could have a material adverse effect on us 
+products as complex as those we offer may contain defects or failures when first introduced or when new versions or enhancements to existing products are released 
+we cannot assure you that  despite our testing procedures  errors will not be found in new products or releases after commencement of commercial shipments in the future  which could result in loss of or delay in market acceptance of our products  material recall and replacement costs  delay in recognition or loss of revenues  writing down the inventory of defective products  the diversion of the attention of our engineering personnel from product development efforts  defending against litigation related to defective products or related property damage or personal injury  and damage to our reputation in the industry and could adversely affect our relationships with our customers 
+in addition  we may have difficulty identifying the end customers of the defective products in the field 
+as a result  we could incur substantial costs to implement modifications to correct defects 
+any of these problems could materially adversely affect our business 
+we could be subject to potential product liability claims if one of our products causes  or merely appears to have caused  an injury 
+claims may be made by consumers or others selling our products  and we may be subject to claims against us even if an alleged injury is due to the actions of others 
+a product liability claim  recall or other claim with respect to uninsured liabilities or for amounts in excess of insured liabilities could have a material adverse effect on our business 
+our receipt of royalty revenues is dependent upon our technology being designed into third party products and the success of those products 
+our graphics technology is used in game consoles  including the nintendo wii and microsoft xbox the revenues that we receive from these products are in the form of non recurring engineering fees charged for design and development services  as well as royalties paid to us by these third parties 
+our royalty revenues are directly related to the sales of these products and reflective of their success in the market 
+if these third parties do not include our graphics technology in future generations of their game consoles  our revenues from royalties would decline significantly 
+moreover  we have no control over the marketing efforts of these third parties and we cannot make any assurances that sales of those products will achieve expected levels in the current or future fiscal years 
+consequently  the revenues from royalties expected by us from these products may not be fully realized  and our operating results may be adversely affected 
+if we fail to maintain the efficiency of our supply chain as we respond to increases or changes in customer demand for our products  our business could be materially adversely affected 
+our ability to meet customer demand for our products depends  in part  on our ability to deliver the products our customers want on a timely basis 
+accordingly  we rely on our supply chain for the manufacturing  distribution and fulfillment of our products 
+as we continue to grow our business  acquire new oem customers and strengthen relationships with existing oem customers  the efficiency of our supply chain will become increasingly important because oems tend to have specific requirements for particular products  and specific time frames in which they require delivery of these products 
+if we are unable to consistently deliver the right products to our customers on a timely basis in the right locations  our customers may reduce the quantities they order from us  which could have a material adverse affect on our business 
+
+table of contents we outsource to third parties certain supply chain logistics functions  including portions of our product distribution  transportation management  and information technology support services 
+we rely on third party providers to operate our regional product distribution centers and to manage the transportation of our work in process and finished products among our facilities  our manufacturing suppliers and to our customers 
+in addition  we rely on third parties to provide certain information technology services to us  including helpdesk support  desktop application services  business and software support applications  server and storage administration  data center operations  database administration  and voice  video and remote access 
+we cannot guarantee that these providers will fulfill their respective responsibilities in a timely manner in accordance with the contract terms  in which case our internal operations and the distribution of our products to our customers could be materially adversely affected 
+also  we cannot guarantee that our contracts with these third party providers will be renewed  in which case we would have to transition these functions in house or secure new providers  which could have a material adverse effect on our business if the transition is not executed appropriately 
+we may be subject to disruptions or failures in our information technology systems and network infrastructures that could have a material adverse effect on us 
+we maintain and rely extensively on information technology systems and network infrastructures for the effective operation of our business 
+we also hold large amounts of data in various data center facilities around the world which our business depends upon 
+a disruption  infiltration or failure of our information technology systems or any of our data centers as a result of software or hardware malfunctions  computer viruses  cyber attacks  employee theft or misuse  power disruptions  natural disasters or accidents could cause breaches of data security and loss of critical data  which in turn could materially adversely affect our business 
+our security procedures  such as virus protection software and our business continuity planning  such as our disaster recovery policies and back up systems  may not be adequate or implemented properly to fully address the adverse effect of such events  which could adversely impact our operations 
+in addition  our business could be adversely affected to the extent we do not make the appropriate level of investment in our technology systems as our technology systems become out of date or obsolete and are not able to deliver the type of data integrity and reporting we need to run our business 
+furthermore  when we implement new systems and or upgrade existing systems  we could be faced with temporary or prolonged disruptions that could adversely affect our business 
+uncertainties involving the ordering and shipment of our products could materially adversely affect us 
+we typically sell our products pursuant to individual purchase orders 
+we generally do not have long term supply arrangements with our customers or minimum purchase requirements except that orders generally must be for standard pack quantities 
+generally  our customers may cancel orders more than days prior to shipment without incurring significant fees 
+we base our inventory levels on customers estimates of demand for their products  which may not accurately predict the quantity or type of our products that our customers will want in the future or ultimately end up purchasing 
+our ability to forecast demand is even further complicated when we sell indirectly through distributors  as our forecasts for demand are then based on estimates provided by multiple parties 
+moreover  pc and consumer markets are characterized by short product lifecycles  which can lead to rapid obsolescence and price erosion 
+in addition  our customers may change their inventory practices on short notice for any reason 
+we may build inventories during periods of anticipated growth  and the cancellation or deferral of product orders or overproduction due to failure of anticipated orders to materialize  could result in excess or obsolete inventory  which could result in write downs of inventory and an adverse effect on gross margins 
+factors that may result in excess or obsolete inventory  which could result in write downs of the value of our inventory  a reduction in the average selling price  and or a reduction in our gross margin include a sudden and significant decrease in demand for our products  a higher incidence of inventory obsolescence because of rapidly changing technology and customer requirements  a failure to accurately estimate customer demand for our older products as our new products are introduced  or our competitors taking aggressive pricing actions 
+because market conditions are uncertain  these and other factors could materially adversely affect our business 
+our reliance on third party distributors and aibs subjects us to certain risks 
+we market and sell our products directly and through third party distributors and aibs pursuant to agreements that can generally be terminated for convenience by either party upon prior notice to the other party 
+these agreements are non exclusive and permit both our distributors and aibs to offer our competitors products 
+we are dependent on our distributors and aibs to supplement our direct marketing and sales efforts 
+if any significant distributor or aib or a substantial number of our distributors or aibs terminated their relationship with us or decided to market our competitors products over our products  our ability to bring our products to market would be impacted and we would be materially adversely affected 
+
+table of contents additionally  distributors and aibs typically maintain an inventory of our products 
+in most instances  our agreements with distributors protect their inventory of our products against price reductions  as well as provide return rights for any product that we have removed from our price book and that is not more than twelve months older than the manufacturing code date 
+some agreements with our distributors also contain standard stock rotation provisions permitting limited levels of product returns 
+our agreements with aibs protect their inventory of our products against price reductions 
+we defer the gross margins on our sales to distributors and aibs  resulting from both our deferral of revenue and related product costs  until the applicable products are re sold by the distributors or the aibs 
+however  in the event of a significant decline in the price of our products  the price protection rights we offer would materially adversely affect us because our revenue would decline 
+our worldwide operations are subject to political and economic risks and natural disasters  which could have a material adverse effect on us 
+we maintain operations around the world  including in the united states  canada  europe and asia 
+we rely on third party wafer foundries in europe and asia 
+nearly all product assembly and final testing of our products is performed at manufacturing facilities  operated by us as well as third party manufacturing facilities  in china  malaysia  singapore and taiwan 
+we also have international sales operations 
+international sales  as a percent of net revenue were in we expect that international sales will continue to be a significant portion of total sales in the foreseeable future 
+the political and economic risks associated with our operations in foreign countries include  without limitation expropriation  changes in a specific country s or region s political or economic conditions  changes in tax laws  trade protection measures and import or export licensing requirements  difficulties in protecting our intellectual property  difficulties in managing staffing and exposure to different employment practices and labor laws  changes in foreign currency exchange rates  restrictions on transfers of funds and other assets of our subsidiaries between jurisdictions  changes in freight and interest rates  disruption in air transportation between the united states and our overseas facilities  loss or modification of exemptions for taxes and tariffs  and compliance with us laws and regulations related to international operations  including export control regulations and the foreign corrupt practices act 
+in addition  our worldwide operations could be subject to natural disasters such as earthquakes  tsunamis  flooding  typhoons and volcanic eruptions that disrupt manufacturing or other operations 
+for example  our sunnyvale operations are located near major earthquake fault lines in california 
+any conflict or uncertainty in the countries in which we operate  including public health or safety  natural disasters  fire  disruptions of service from utilities  nuclear power plant accidents  or general economic or political factors  could have a material adverse effect on our business 
+for example  flooding in thailand is disrupting the supply of hard disk drives 
+some of our customers have been unable to obtain sufficient quantities of hard disk drives 
+as a result  we believe during the fourth quarter of  they postponed or canceled their orders for our gpu products 
+we expect the hard disk drive shortage to continue through at least the first quarter of  which could have a material adverse impact on our business 
+any of the above risks  should they occur  could result in an increase in the cost of components  production delays  general business interruptions  delays from difficulties in obtaining export licenses for certain technology  tariffs and other barriers and restrictions  potentially longer payment cycles  potentially increased taxes  restrictions on the repatriation of funds and the burdens of complying with a variety of foreign laws  any of which could ultimately have a material adverse effect on our business 
+
+table of contents worldwide economic and political conditions may adversely affect demand for our products 
+continued uncertainty over the worldwide economic environment may adversely impact consumer confidence and spending  causing our customers to postpone purchases 
+moreover  political conditions may create uncertainties that could adversely affect our business 
+the united states has been and may continue to be involved in armed conflicts that could have a further impact on our sales and our supply chain 
+the consequences of armed conflict  political instability or civil or military unrest are unpredictable and we may not be able to foresee events that could have a material adverse effect on us 
+also  the occurrence and threat of terrorist attacks have in the past  and may in the future  adversely affect demand for our products 
+terrorist attacks or other hostile acts may negatively affect our operations  directly or indirectly  and such attacks or related armed conflicts may directly impact our physical facilities or those of our suppliers or customers 
+furthermore  these attacks or hostile acts may make travel and the transportation of our products more difficult and more expensive  which could materially adversely affect us 
+any of these events could cause consumer spending to decrease or result in increased volatility in the united states economy and worldwide financial markets 
+unfavorable currency exchange rate fluctuations could continue to adversely affect us 
+we have costs  assets and liabilities that are denominated in foreign currencies  primarily the canadian dollar 
+as a consequence  movements in exchange rates could cause our foreign currency denominated expenses to increase as a percentage of revenue  affecting our profitability and cash flows 
+whenever we believe appropriate  we hedge a portion of our short term foreign currency exposure to protect against fluctuations in currency exchange rates 
+we determine our total foreign currency exposure using projections of long term expenditures for items such as payroll 
+we cannot assure you that these activities will be effective in reducing foreign exchange rate exposure 
+failure to do so could have an adverse effect on our business  financial condition  results of operations and cash flow 
+in addition  the majority of our product sales are denominated in us dollars 
+fluctuations in the exchange rate between the us dollar and the local currency can cause increases or decreases in the cost of our products in the local currency of such customers 
+an appreciation of the us dollar relative to the local currency could reduce sales of our products 
+our inability to effectively control the sales of our products on the gray market could have a material adverse effect on us 
+we market and sell our products directly to oems and through authorized third party distributors 
+from time to time  our products are diverted from our authorized distribution channels and are sold on the gray market 
+gray market products result in shadow inventory that is not visible to us  thus making it difficult to forecast demand accurately 
+also  when gray market products enter the market  we and our distribution channel compete with these heavily discounted gray market products  which adversely affects demand for our products and negatively impact our margins 
+in addition  our inability to control gray market activities could result in customer satisfaction issues because any time products are purchased outside our authorized distribution channel there is a risk that our customers are buying counterfeit or substandard products  including products that may have been altered  mishandled or damaged  or are used products represented as new 
+if we cannot adequately protect our technology or other intellectual property in the united states and abroad  through patents  copyrights  trade secrets  trademarks and other measures  we may lose a competitive advantage and incur significant expenses 
+we rely on a combination of protections provided by contracts  including confidentiality and nondisclosure agreements  copyrights  patents  trademarks and common law rights  such as trade secrets  to protect our intellectual property 
+however  we cannot assure you that we will be able to adequately protect our technology or other intellectual property from third party infringement or from misappropriation in the united states and abroad 
+any patent licensed by us or issued to us could be challenged  invalidated or circumvented or rights granted there under may not provide a competitive advantage to us 
+furthermore  patent applications that we file may not result in issuance of a patent or  if a patent is issued  the patent may not be issued in a form that is advantageous to us 
+despite our efforts to protect our intellectual property rights  others may independently develop similar products  duplicate our products or design around our patents and other rights 
+in addition  it is difficult to monitor compliance with  and enforce  our intellectual property on a worldwide basis in a cost effective manner 
+in jurisdictions where foreign laws provide less intellectual property protection than afforded in the united states and abroad  our technology or other intellectual property may be compromised  and our business would be materially adversely affected 
+we are party to litigation and may become a party to other claims or litigation that could cause us to incur substantial costs or pay substantial damages or prohibit us from selling our products 
+from time to time  we are a defendant or plaintiff in various legal actions 
+we also sell products to consumers  which could increase our exposure to consumer actions such as product liability claims 
+on occasion  we receive claims that individuals were allegedly exposed to substances used in our former semiconductor wafer manufacturing facilities and that this alleged exposure caused harm 
+litigation can involve complex factual and legal questions  and its outcome is uncertain 
+any claim that is successfully asserted against us may result in the payment of damages that could be material to our business 
+
+table of contents with respect to intellectual property litigation  from time to time  we have been notified  or third parties may bring or have brought actions against us  based on allegations that we are infringing the intellectual property rights of others 
+if any such claims are asserted against us  we may seek to obtain a license under the third parties intellectual property rights 
+we cannot assure you that we will be able to obtain all of the necessary licenses on satisfactory terms  if at all 
+in the event that we do not obtain a license  these parties may file lawsuits against us seeking damages potentially up to and including treble damages or an injunction against the sale of our products that incorporate allegedly infringed intellectual property or against the operation of our business as presently conducted  which could result in our having to stop the sale of some of our products or to increase the costs of selling some of our products or which could damage our reputation 
+the award of damages  including material royalty payments  or the entry of an injunction against the manufacture and sale of some or all of our products  would have a material adverse effect on us 
+we could decide  in the alternative  to redesign our products or to resort to litigation to challenge such claims 
+such challenges could be extremely expensive and time consuming regardless of their merit  could cause delays in product release or shipment  and or could have a material adverse effect on us 
+we cannot assure you that litigation related to our intellectual property rights or the intellectual property rights of others can always be avoided or successfully concluded 
+even if we were to prevail  any litigation could be costly and time consuming and would divert the attention of our management and key personnel from our business operations  which could have a material adverse effect on us 
+certain individuals have been charged by federal authorities with illegally trading in our stock using certain amd confidential information 
+several individuals have pled guilty to conspiracy and securities fraud charges and  among other things  providing confidential information about us to a person who has been charged by federal authorities with illegally trading in our stock on the basis of that confidential information 
+in addition  one former employee pled guilty to conspiracy to commit securities fraud and wire fraud 
+at this time  we cannot give any assurances as to whether any facts that may be discovered during the proceedings relating to this matter or other similar matters will be damaging to our business  results of operations or reputation 
+failures in the global credit markets have impacted and may continue to impact the liquidity of our auction rate securities 
+as of december   the par value of all our auction rate securities  or ars  was million with an estimated fair value of million 
+as of december   our investments in ars included estimated fair values of approximately million of student loan ars and million of municipal and corporate ars 
+the uncertainties in the credit markets have affected all of our ars and auctions for these securities have failed to settle on their respective settlement dates since february the auctions failed because there was insufficient demand for these securities 
+a failed auction does not represent a default by the issuer of the ars 
+for each unsuccessful auction  the interest rate is reset based on a formula set forth in each security  which is generally higher than the current market unless subject to an interest rate cap 
+when auctions for these securities fail  the investments may not be readily convertible to cash until a future auction of these investments is successful  a buyer is found outside of the auction process  the issuers of the ars establish a different form of financing to replace these securities or redeem them  or final payment is due according to contractual maturities currently  ranging from to for our ars 
+although we have had redemptions since the failed auctions began  the liquidity of these investments continues to be adversely impacted 
+if market illiquidity worsens  we may be required to record additional impairment charges with respect to these investments in the future  which could adversely impact our results of operations 
+the conflict minerals related provisions of the dodd frank wall street reform and consumer protection act as well as a variety of environmental laws that we are subject to could result in additional costs and liabilities 
+our operations and properties have in the past and continue to be subject to various united states and foreign environmental laws and regulations  including those relating to materials used in our products and manufacturing processes  discharge of pollutants into the environment  the treatment  transport  storage and disposal of solid and hazardous wastes  and remediation of contamination 
+these laws and regulations require us to obtain permits for our operations  including the discharge of air pollutants and wastewater 
+although our management systems are designed to maintain compliance  we cannot assure you that we have been or will be at all times in complete compliance with such laws  regulations and permits 
+if we violate or fail to comply with any of them  a range of consequences could result  including fines  suspension of production  alteration of manufacturing processes  import export restrictions  sales limitations  criminal and civil liabilities or other sanctions 
+we could also be held liable for any and all consequences arising out of exposure to hazardous materials used  stored  released  disposed of by us or located at  under or emanating from our facilities or other environmental or natural resource damage 
+
+table of contents certain environmental laws  including the us comprehensive  environmental response  compensation and liability act of  or the superfund act  impose strict  or under certain circumstances  joint and several liability on current and previous owners or operators of real property for the cost of removal or remediation of hazardous substances and impose liability for damages to natural resources 
+these laws often impose liability even if the owner or operator did not know of  or was not responsible for  the release of such hazardous substances 
+these environmental laws also assess liability on persons who arrange for hazardous substances to be sent to disposal or treatment facilities when such facilities are found to be contaminated 
+such persons can be responsible for cleanup costs even if they never owned or operated the contaminated facility 
+we have been named as a responsible party at three superfund sites in sunnyvale  california 
+although we have not yet been  we could be named a potentially responsible party at other superfund or contaminated sites in the future 
+in addition  contamination that has not yet been identified could exist at our other facilities 
+environmental laws are complex  change frequently and have tended to become more stringent over time 
+we face increasing complexity in our product design and procurement operations as we adjust to new and future requirements relating to the chemical and material composition of our products 
+for example  the european union eu and china are two among a growing number of jurisdictions that have enacted in recent years restrictions on the use of lead  among other chemicals  in electronic products with other countries implementing similar restrictions 
+these regulations affect semiconductor devices and packaging 
+there is a risk that the cost  quality and manufacturing yields of products that are required to be lead free  as defined by these regulations  or that are subject to other chemical restrictions  may be less favorable compared to products that are not subject to chemical restrictions  or that the transition to products subject to lead free or other chemical restrictions may produce sudden changes in demand  which may result in excess inventory 
+in addition  the dodd frank wall street reform and consumer protection act requires the sec to establish new disclosure and reporting requirements for those companies who use conflict minerals mined from the democratic republic of congo and adjoining countries in their products  whether or not these products are manufactured by third parties 
+when these new requirements are implemented  they could affect the sourcing and availability of minerals used in the manufacture of semiconductor devices  and there will be additional costs associated with complying with the disclosure requirements  such as costs related to determining the source of any conflicting minerals used in our products 
+also  since our supply chain is complex  we may face reputational challenges if we are unable to sufficiently verify the origins for all metals used in our products through the due diligence procedures that we implement 
+moreover  we may encounter challenges to satisfy those customers who require that all of the components of our products are certified as conflict free 
+other regulatory requirements potentially affecting our back end manufacturing processes and the design and marketing of our products are in development throughout the world 
+in addition  a number of jurisdictions including the eu  australia and china are developing or finalizing market entry requirements or public procurement for computers and servers based on energy star specification as well as additional energy consumption limits 
+some of these regulations are expected to be approved and implemented by the end of if such requirements are implemented in the proposed time frame and do not contain recommended modifications as proposed by industry associations  there is the potential for certain of our microprocessor  chipset and gpu products  as incorporated in desktop and mobile pcs  workstations  servers and other information and communications technology products being excluded from these markets which could materially adversely affect us 
+while we have budgeted for foreseeable associated expenditures  we cannot assure you that future environmental legal requirements will not become more stringent or costly in the future 
+therefore  we cannot assure you that our costs of complying with current and future environmental and health and safety laws  and our liabilities arising from past and future releases of  or exposure to  hazardous substances will not have a material adverse effect on us 
+our business is subject to potential tax liabilities 
+we are subject to income taxes in the united states  canada and other foreign jurisdictions 
+significant judgment is required in determining our worldwide provision for income taxes 
+in the ordinary course of our business  there are many transactions and calculations where the ultimate tax determination is uncertain 
+although we believe our tax estimates are reasonable  we cannot assure you that the final determination of any tax audits and litigation will not be materially different from that which is reflected in historical income tax provisions and accruals 
+should additional taxes be assessed as a result of an audit or litigation  there could be a material adverse effect on our cash  income tax provision and net income in the period or periods for which that determination is made 
+item b 
+unresolved staff comments we have not received any written comments that were issued not less than days before december   the end of the fiscal year covered by this report  from the sec staff regarding our periodic or current reports under the securities exchange act of that remain unresolved 
+
+table of contents item properties at december   we owned principal research and development  engineering  manufacturing  warehouse and administrative facilities located in the united states  canada  taiwan  china  singapore and malaysia 
+these facilities totaled approximately million square feet 
+our main facility with respect to our graphics and chipset products is located in markham  ontario  canada 
+this facility consists of approximately  square feet of office and research and development space 
+we occupy two other facilities in markham  ontario that comprise over  square feet  including approximately  square feet of manufacturing and warehouse space 
+we also currently own and operate three microprocessor assembly and test facilities comprising an aggregate of  square feet 
+our current microprocessor assembly and test facilities are located in malaysia  singapore and china and are described in further detail in the section entitled assembly  test  mark and packaging facilities  above 
+in some cases  we lease all or a portion of the land on which our facilities are located 
+we lease approximately  square feet of land in singapore and  square feet of land in suzhou  china for our microprocessor assembly and test facilities 
+as of december   we also leased approximately million square feet of space for engineering  manufacturing  warehouse and administrative use  including a number of smaller regional sales offices located in commercial centers near customers  principally in the united states  latin america  europe and asia 
+these leases expire at varying dates through we also have approximately  square feet of building space that is currently vacant 
+we continue to have lease obligations with respect to this space that expire at various dates through we are actively marketing this space for sublease 
+we currently do not anticipate difficulty in either retaining occupancy of any of our facilities through lease renewals prior to expiration or through month to month occupancy  or replacing them with equivalent facilities 
+we believe that our existing facilities are suitable and adequate for our present purposes  and that  except as discussed above  the productive capacity of such facilities is substantially being utilized or we have plans to utilize it 
+item legal proceedings environmental matters we are named as a responsible party on superfund clean up orders for three sites in sunnyvale  california that are on the national priorities list 
+since  we have discovered hazardous material releases to the groundwater from former underground tanks and proceeded to investigate and conduct remediation at these three sites 
+the chemicals released into the groundwater were commonly used in the semiconductor industry in the united states in the wafer fabrication process prior to in  the company received final site clean up requirements orders from the california regional water quality control board relating to the three sites 
+we have entered into settlement agreements with other responsible parties on two of the orders 
+during the term of such agreements other parties have agreed to assume most of the foreseeable costs as well as the primary role in conducting remediation activities under the orders 
+we remain responsible for additional costs beyond the scope of the agreements as well as all remaining costs in the event that the other parties do not fulfill their obligations under the settlement agreements 
+to address anticipated future remediation costs under the orders  we have computed and recorded an estimated environmental liability of approximately million and have not recorded any potential insurance recoveries in determining the estimated costs of the cleanup 
+the progress of future remediation efforts cannot be predicted with certainty and these costs may change 
+we believe that the potential liability  if any  in excess of amounts already accrued  will not have a material adverse effect on our financial condition or results of operations 
+other matters we are a defendant or plaintiff in various actions that arose in the normal course of business 
+in the opinion of management  the aggregate liability  if any  with respect to these matters will not have a material adverse effect on our financial condition or results of operations 
+item mine safety disclosures not applicable 
+
+table of contents part ii item market for registrant s common equity  related stockholder matters and issuer purchases of equity securities our common stock symbol amd is listed on the new york stock exchange 
+on february   there were  registered holders of our common stock 
+the following table sets forth on a per share basis the high and low intra day sales prices on the new york stock exchange for our common stock for the periods indicated high low year ended december  first quarter second quarter third quarter fourth quarter high low year ended december  first quarter second quarter third quarter fourth quarter currently  we do not have any plans to pay dividends on our common stock 
+under the terms of our indenture for the notes and our indenture for the notes  we are prohibited from paying cash dividends if the aggregate amount of dividends and other restricted payments made by us since entering into each indenture would exceed the sum of specified financial measures including fifty percent of consolidated net income as that term is defined in the indentures 
+for information about our equity compensation plans  see part iii  item  below 
+
+table of contents performance graph comparison of five year cumulative total returns advanced micro devices  s p index and s p semiconductor index the following graph shows a five year comparison of cumulative total return on our common stock  the s p index and the s p semiconductor index from december  through december  the past performance of our common stock is no indication of future performance 
+logo base period company index advanced micro devices  inc s p index s p semiconductors index 
+table of contents item selected financial data five years ended december  in millions except per share amounts net revenue income loss from continuing operations loss from discontinued operations  net of tax net income loss attributable to amd common stockholders net income loss attributable to amd common stockholders per common share basic continuing operations discontinued operations basic net income loss attributable to amd common stockholders per common share diluted continuing operations discontinued operations diluted net income loss attributable to amd common stockholders per common share shares used in per share calculation basic diluted long term debt  capital lease obligations  less current portion  and other long term liabilities total assets consisted of weeks  whereas   and consisted of weeks 
+in and  we recorded pre tax goodwill impairment charges of  million and  million 
+in  we entered into a comprehensive settlement agreement with intel 
+pursuant to the settlement agreement  intel paid us  million and we recorded a  million gain  net of certain expenses in in  we entered into a settlement agreement with samsung 
+pursuant to the settlement agreement  samsung agreed to pay us million  net of withholding taxes 
+we recorded this amount as a gain in during  we deconsolidated gf and began to account for our ownership interest in gf under the equity method of accounting 
+we recorded a one time  non cash gain of million on deconsolidation of gf and a loss of million for our share of gf s operating results in during  we changed the method of accounting for our investment in gf from the equity method to the cost method of accounting 
+as a result of the change  we recognized a non cash gain of approximately million  net of certain transaction related charges 
+during the fourth quarter of  we recorded a non cash impairment charge of approximately million related to our investment in gf 
+in and  we implemented restructuring plans and incurred net restructuring charges of million and million  respectively  which primarily were comprised of severance and costs related to the continuation of certain employee benefits  contract or program termination costs and asset impairments 
+during  we decided to divest our digital television business and classified it as discontinued operations and recorded related losses 
+has been recast to conform to this presentation 
+also in  we sold our digital television business to broadcom corporation for million 
+in  we recorded a charge of million in connection with a payment to broadcom related to this asset sale 
+total long term debt  capital lease obligations  less current portion  and other long term liabilities decreased by million from to  primarily due to the repurchase of million principal amount of our convertible senior notes due in and reclassification of the million principal amount outstanding of our convertible senior notes due to the current portion of long term debt 
+total long term debt  capital lease obligations  less current portion  and other long term liabilities decreased by  million from to  primarily due to the deconsolidation of gf and the repurchase of  million principal amount of our notes in total assets decreased by  million from to  primarily due to the deconsolidation of gf 
+total assets increased by  million from to  primarily due to higher cash  cash equivalents and marketable securities due to the cash received  including gf s cash  which we consolidated in connection with the consummation of the gf manufacturing joint venture transaction 
+total assets decreased by  million from to  primarily due to the impairment of ati acquisition related goodwill and acquired intangible assets  lower cash  cash equivalents and marketable securities used to fund our operations  and the sale and impairment of assets associated with the divestiture of the digital television business unit in 
+table of contents item management s discussion and analysis of financial condition and results of operations the following discussion should be read in conjunction with the consolidated financial statements as of december  and december  and for each of the three years in the period ended december  and related notes  which are included in this form k as well as with the other sections of this form k  including part i  item business  part ii  item selected financial data  and part ii  

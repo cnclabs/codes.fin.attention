@@ -1,0 +1,388 @@
+item management s discussion and analysis of financial condition and results of operations the following discussion should be read in conjunction with the consolidated financial statements and the related notes that appear elsewhere in the document 
+the information in this annual report on form k contains forward looking statements within the meaning of section a of the securities act of  as amended securities act  and section e of the securities exchange act of  as amended exchange act  which are subject to the safe harbor created by those sections 
+forward looking statements are based on our management s beliefs and assumptions and on information currently available to our management 
+in some cases  you can identify forward looking statements by terms such as may  will  should  could  would  estimate  project  predict  potential  continue  strategy  believe  anticipate  plan  expect  intend and similar expression intended to identify forward looking statements 
+these statements involve known and unknown risks  uncertainties and other factors  which may cause our actual results  performance  time frames or achievements to be materially difference from any future results  performance  time frames or achievements expressed or implied by the forward looking statements 
+we discuss many of these risks  uncertainties and other factors in this annual report on form k in greater detail under the heading risk factors 
+given these risks  uncertainties and other factors  you should not place undue reliance on these forward looking statements 
+also  these forward looking statements represent our estimates and assumptions only as of the date of this filing 
+you should read this annual report on form k completely and with the understanding that our actual future results may be materially different from what we expect 
+we hereby qualify our forward looking statements by these cautionary statements 
+except as required by law  we assume no obligation to update these forward looking statements publicly  or to update the reasons actual results could differ materially from those anticipated in these forward looking statements  even if new information becomes available in the future 
+octeon  octeon plus tm  octeon ii  nitrox  neuron tm  celestial tm  econa and purevu are trademarks or registered trademarks of cavium  inc overview we are a provider of highly integrated semiconductor processors that enable intelligent processing for networking  communications  storage  wireless  security  video and connected home and office applications 
+our product allow our customers to develop networking  wireless  storage and electronic equipment that is application aware and content aware and securely processes voice  video and data traffic at high speeds 
+our products are systems on a chip  or socs  which incorporate single or multiple processor cores  a highly integrated architecture and customizable software that is based on a broad range of standard operating systems 
+we focus our resources on the design  sales and marketing of our products  and outsource the manufacturing of our products 
+from our incorporation in through  we were primarily engaged in the design and development of our first processor family  nitrox  which we began shipping commercially in in  we introduced and commenced commercial shipments of nitrox soho 
+in  we commenced our first commercial shipments of our octeon family of multi core mips processors 
+we introduced a number of new products within all three of these product families in in we introduced our new line of octeon based storage services processors designed to address the specific needs in the storage market  as well as other new products in the octeon and nitrox families 
+in  we expanded our octeon and nitrox product families with new products including wireless services processors to address the needs for wireless infrastructure equipment 
+in  we announced the octeon ii internet application processor iap family multi core mips processors  with one to cores to address next generation networking applications support converged voice  video  data mobile traffic and services 
+in  we announced the next generation nitrox iii  a processor family with to cores that delivers security and compression processors for application delivery  cloud computing and wide area network optimization 
+in  we introduced neuron  a new search processor product family that targets a wide range of high performance  l l network search applications in enterprise 
+table of contents and service provider infrastructure equipment 
+in  we also introduced another new product family  the octeon fusion  a single chip socs with up to x mips cores and up to x lte g baseband dsp cores which enable macro base station class features for small cell base stations 
+in  we introduced octeon iii  cavium s core ghz multi core processor family that can deliver up to gbps of application processing  up to ghz of bit compute processing per chip and can be connected in multi chip configurations 
+in august  we acquired substantially all of the assets of star communications  inc for a purchase price of approximately million 
+with the acquisition of star  we added the star arm based processors to our portfolio to address connected home and office applications and have since introduced our econa line of dual core arm processors that address a large variety of connected home and office applications 
+in december  we acquired w w communications  inc for a total purchase price of million 
+this acquisition launched us into the video processor market with our purevu product line 
+these products address the need for video processing in wireless displays  teleconferencing  gaming and other applications 
+in december  we acquired montavista software  inc for a total purchase price of million 
+in addition  per the merger agreement  we paid million  consisting of a mix of shares of our common stock and cash to certain individuals in connection with the termination of montavista s retention compensation plan 
+this acquisition complements our broad portfolio of multi core processors to deliver integrated and optimized embedded solutions to the market 
+in october  we acquired celestial systems  inc for aggregate cash consideration of million 
+in addition  we paid the full earn out of million in cash upon the achievement of certain milestone as set forth in the asset purchase agreement 
+with the acquisition of celestial systems  we gained additional professional services such as automotive infotainment systems  digital media product development and android commercialization and support 
+in january  we completed the acquisition of substantially all of the assets and assumed certain liabilities of wavesat inc we paid million in cash  plus the aggregate amount of certain liabilities  which were specified in the related purchase agreement 
+we also made advances to wavesat in the form of a loan prior to the closing of the acquisition amounting to  to fund wavesat s operations 
+this acquisition added multicore wireless digital system processing to our embedded processor product line 
+in march  we completed the acquisition of substantially all of the assets and assumed certain liabilities of celestial semiconductor  ltd 
+under the terms of the asset purchase agreement and related supplemental agreement  we paid approximately million in total cash consideration and issued  shares of our common stock 
+with the acquisition of celestial semiconductor  we have added a processor family targeted for the large and growing market of digital media players 
+for a complete discussion on our acquisitions from through  see note business combinations in item of this annual report  which is incorporated herein by reference 
+since inception  we have invested heavily in new product development and our net revenue has grown from million in to million in driven primarily by demand in the enterprise network and data center markets and increased demand in the broadband and consumer markets 
+we expect sales of our products for use in the enterprise network and data center markets to continue to represent a significant portion of our revenue in the foreseeable future  however  we do expect growth in the broadband and consumer as well as the access and servicer provider markets 
+we primarily sell our products to oems  either directly or through their contract manufacturers 
+contract manufacturers purchase our products only when an oem incorporates our product into the oem s product  not as commercial off the shelf products 
+our customers products are complex and require significant time to define  design and ramp to volume production 
+accordingly  our sales cycle is long 
+this cycle begins with our 
+table of contents technical marketing  sales and field application engineers engaging with our customers system designers and management  which is typically a multi month process 
+if we are successful  a customer will decide to incorporate our product in its product  which we refer to as a design win 
+because the sales cycles for our products are long  we incur expenses to develop and sell our products  regardless of whether we achieve the design win and well in advance of generating revenue  if any  from those expenditures 
+we do not have long term purchase commitments from any of our customers  as sales of our products are generally made under individual purchase orders 
+however  once one of our products is incorporated into a customer s design  it is likely to remain designed in for the life cycle of the product 
+we believe this to be the case because a redesign would generally be time consuming and expensive 
+we have experienced revenue growth due to an increase in the number of our products  an expansion of our customer base  an increase in the number of average design wins within any one customer and an increase in the average revenue per design win 
+our revenue from montavista is mainly from sale of software subscriptions of embedded linux operating system  related development tools  support and professional services 
+the net revenue for our software and services are primarily derived from the sale of time based software licenses  software maintenance and support  and from professional services arrangements and training 
+key business metrics design wins 
+we closely monitor design wins by customer and end market on a periodic basis 
+we consider design wins to be a key ingredient in our future success  although the revenue generated by each design win can vary significantly 
+our long term sales expectations are based on internal forecasts from specific customer design wins based upon the expected time to market for end customer products deploying our products and associated revenue potential 
+pricing and margins 
+pricing and margins depend on the features of the products we provide to our customers 
+in general  products with more complex configurations and higher performance tend to be priced higher and have higher gross margins 
+these configurations tend to be used in high performance applications that are focused on the enterprise network  data center  and access and service provider markets 
+we tend to experience price decreases over the life cycle of our products  which can vary by market and application 
+in general  we experience less pricing volatility with customers that sell to the enterprise and data center markets 
+sales volume 
+a typical design win can generate a wide range of sales volumes for our products  depending on the end market demand for our customers products 
+this can depend on several factors  including the reputation  market penetration  the size of the end market that the product addresses  and the marketing and sales effectiveness of our customer 
+in general  our customers with greater market penetration and better branding tend to develop products that generate larger volumes over the product life cycle 
+in addition  some markets generate large volumes if the end market product is adopted by the mass market 
+customer product life cycle 
+we typically commence commercial shipments from nine months to three years following a design win 
+once our product is in production  revenue from a particular customer may continue for several years 
+we estimate our customers product life cycles based on the customer  type of product and end market 
+in general  products that go into the enterprise network and data center take longer to reach volume production but tend to have longer lives 
+products for other markets  such as broadband and consumer  tend to ramp relatively quickly  but generally have shorter life cycles 
+we estimate these life cycles based on our management s experience with providers of networking equipment and the semiconductor market as a whole 
+critical accounting policies and estimates our management s discussion and analysis of our financial condition and results of operations are based on our consolidated financial statements  which have been prepared in accordance with united states generally accepted accounting principles  or gaap 
+these accounting principles require us to make certain estimates and 
+table of contents judgments that can affect the reported amounts of assets and liabilities as of the dates of the consolidated financial statements  the disclosure of contingencies as of the dates of the consolidated financial statements  and the reported amounts of revenue and expenses during the periods presented 
+we base our estimates on historical experience and on various other assumptions that we believe to be reasonable under the circumstances  the results of which form the basis for making judgments about the carrying values of assets and liabilities 
+if actual results or events differ materially from those contemplated by us in making these estimates  our reported financial condition and results of operations for future periods could be materially affected 
+see risk factors for certain matters that may affect our future financial condition or results of operations 
+an accounting policy is deemed to be critical if it requires an accounting estimate to be made based on assumptions about matters that are uncertain at the time the estimate is made  if different estimates reasonably could have been used  or if the changes in estimate that are reasonably likely to occur could materially impact the financial statements 
+our management has discussed the development  selection and disclosure of these estimates with the audit committee of our board of directors 
+see note of the consolidated financial statements for a more comprehensive discussion of our significant accounting policies 
+we believe the following critical accounting policies reflect significant judgments and estimates used in the preparation of our consolidated financial statements revenue recognition  stock based compensation  inventory valuation  accounting for income taxes  mask costs  business combinations  and goodwill and purchased intangible assets 
+revenue recognition we derive our revenue primarily from sales of semiconductor products and sales of software licenses and services 
+we recognize revenue when all of the following criteria have been met persuasive evidence of a binding arrangement exists  ii delivery has occurred  iii the price is deemed fixed and free of contingencies and significant uncertainties  and iv collection is probable 
+our price is considered fixed or determinable at the execution of an agreement  based on specific products and quantities to be delivered at specified prices  which is often memorialized with a customer purchase order 
+our agreements with non distributor customers do not include rights of return or acceptance provisions 
+we assess the ability to collect from our customers based on a number of factors  including credit worthiness and any past transaction history of the customers 
+shipping charges billed to customers are included in product revenue and the related shipping costs are included in cost of revenue 
+we generally recognize revenue at the time of shipment to our customers 
+revenue from the sales of semiconductor products consists of sales of our products for a new design are usually made directly to networking original equipment manufacturers  or oems  their contract manufacturers or distributors 
+once their design enters production  they often outsource their manufacturing and their contract manufacturers purchase our products directly from us or from our distributors 
+revenue is recognized upon shipment for sales to distributors with limited rights of returns and price protection if we conclude we can reasonably estimate the credits for returns and price adjustments issuable 
+we record an estimated allowance  at the time of shipment  based on our historical patterns of returns and pricing credits of sales recognized upon shipment 
+the credits issued to distributors or other customers have historically not been material 
+the inventory at these distributors at end of the period may fluctuate from time to time mainly due to the oem production ramps or new customer demands 
+
+table of contents revenue and costs relating to sales to distributors are deferred if we grant more than limited rights of returns and price credits or if we cannot reasonably estimate the level of returns and credits issuable 
+deferred margin on these shipments is reported and are included in deferred revenue and accounts receivable is recognized and inventory is relieved when title of inventories transfers  which typically takes place at the time of shipment  which is the point in time at which we have a legal enforceable right to collection under normal payment terms 
+we also derive revenue from licensing software and providing software maintenance and support 
+software arrangements typically include i an end user license fee paid in exchange for the use of our products for a specified period of time  generally months time based license  and ii a support arrangement that provides for technical support and unspecified product updates and upgrades on a when and if available basis over the period of the related license 
+revenue from software and service arrangements is recorded when all of the following criteria are met persuasive evidence of an arrangement exists we require either a written contract signed by both the customer and us  or a shrink wrap or click through contract whereby the customer agrees to our standard license terms  together with a non cancellable purchase order  or a purchase order from these customers that have previously negotiated an end user license arrangement or volume purchase arrangement 
+delivery has occurred we deliver software to our customers electronically and consider delivery to have occurred once the access codes are provided that allow the customer to take immediate possession of the software 
+the fee is fixed or determinable our determination that an arrangement fee is fixed or determinable depends principally on the arrangement s payment terms 
+collectibility is probable we assess the collectibility of an arrangement on a case by case basis  based on the financial condition of the customer as well as any established payment history 
+for multiple element arrangements entered into prior to the adoption of the amended guidance on multiple delivery arrangements effective january   which contain software or software related elements 
+we allocate revenue between elements in a multiple element revenue arrangement based on vendor specific objective evidence of fair value vsoe for each undelivered element 
+vsoe is based on the price charged when an element is sold separately 
+we enter into multiple element arrangements that generally include time based licenses and support that are typically not sold separately 
+revenue from these arrangements is deferred and recognized ratably over the term that support is offered  which is typically months 
+the software arrangement may also include professional services  and these services may be purchased separately 
+professional services engagements are billed on either a fixed fee or time and materials basis 
+for fixed fee arrangements  professional services revenue is recognized under the proportional performance method  with the associated costs included in cost of revenue 
+we estimate the proportional performance of the arrangements based on an analysis of progress toward completion 
+we periodically evaluate the actual status of each project to ensure that the estimates to complete each contract remain accurate  and a loss is recognized when the total estimated project cost exceeds project revenue 
+if the amount billed exceeds the amount of revenue recognized  the excess amount is recorded as deferred revenue 
+revenue recognized in any period is dependent on progress toward completion of projects in progress 
+to the extent we are unable to estimate the proportional performance then the revenue is recognized on a completed performance basis 
+revenue for time and materials engagements is recognized as the effort is incurred 
+in addition  we also enter into multiple element arrangements  which consist of the combination of licensed software  support and professional services 
+professional services in these arrangements do not involve significant customization  modification or development of software licensed under the time based licenses and 
+table of contents are not essential to the functionality of these software 
+provided that the total arrangement consideration is fixed and determinable at the inception of the arrangement  we allocate the total arrangement consideration to professional services and time based licenses bundled with support based on vsoe for professional services and vsoe for time based licenses bundled with support 
+each unit of accounting is then accounted for under the applicable revenue recognition guidance 
+for arrangements with services that are essential to the functionality of the software  the license and related service revenues are recognized using the proportional performance method 
+if we are unable to establish vsoe for each undelivered element of the arrangement  revenue for the entire arrangement is deferred until the time that we are able to establish vsoe for the undelivered elements or there is only one remaining undelivered element 
+when the revenue is deferred  the direct costs incurred in relation to the professional services arrangement are deferred and are recorded as deferred costs in prepaid expenses and other current assets 
+effective january   we adopted the updated guidance on multiple deliverable revenue arrangements 
+for transactions entered into subsequent to the adoption of this updated guidance  when a sales arrangement contains multiple elements with combinations of hardware  software  post contract support and or professional services  and if the different elements in the arrangement qualify as separate units of accounting  we allocate the total arrangement consideration to each element based on relative selling price 
+the selling price for a deliverable is based on its vsoe if available  third party evidence tpe if vsoe is not available  or estimated selling price esp if neither vsoe nor tpe is available 
+we then recognize revenue on each deliverable in accordance with its policies for products and services revenue recognition 
+vsoe of selling price is based on the price charged when the element is sold separately 
+tpe is determined by evaluating competitor prices for similar deliverables when sold separately 
+generally  our product offerings related to these arrangements contain a significant level of customization and contain a significant portion of proprietary technology which are not exactly comparable to its peers  therefore pricing of products with similar functionality cannot be obtained  and thus we cannot determine tpe 
+when we are unable to establish selling price using vsoe or tpe  we use esp in our allocation of arrangement consideration 
+the objective of esp is to determine the price at which we would transact a sale if the product or service were sold on a standalone basis 
+the esp is determined by considering multiple factors including  but not limited to pricing practices in different geographies and through different sales channels  gross margin objectives  internal costs  competitor pricing strategies  and industry technology lifecycles 
+the adoption of this new standard did not have a material impact on our consolidated financial position  results of operations or cash flows 
+stock based compensation we apply the fair value recognition provisions of stock based compensation 
+the stock based compensation expense is measured at the grant date based on the fair value of the award and is recognized as compensation expense net of an estimated forfeiture rate over the vesting period 
+we use the black scholes option pricing model to determine the fair value of stock options  which require various subjective assumptions  including expected volatility  expected term and the risk free interest rates 
+we estimate the expected volatility based on the historical stock price volatility of comparable companies over the estimated expected term of our stock based awards 
+we use the simplified method as permitted under the provisions of stock based compensation to determine the expected term of our share based awards 
+we calculate the expected forfeiture rate based on average historical trends 
+the assumptions used in calculating the fair value of share based payment awards represent management s best estimates and judgment 
+if factors change and we use different assumptions  our stock based compensation expense could be materially different in the future 
+if our actual forfeiture rate is materially different from our estimate  the stock based compensation expense could be significantly different from what we have recorded in the current period 
+inventory valuation inventory is carried at cost except where we make provision for excess and obsolete inventory based on its age and forecasted demand  generally over a month period 
+demand is impacted by market and economic 
+table of contents conditions  technology changes  new product introductions and changes in strategic direction and require management to make estimates that may include uncertain elements 
+if actual market conditions or demand for our products are less favorable than those projected  additional inventory write downs may be required  which would negatively affect gross margins in the period when these write downs are recorded 
+accounting for income taxes we account for income taxes under the asset and liability approach 
+this process involves estimating our actual current tax exposure  including assessing the risks associated with tax audits  and assessing temporary differences resulting from different treatment of items for tax and accounting purposes 
+these differences result in deferred tax assets and liabilities 
+we must then assess the likelihood that our deferred tax assets will be recovered from future taxable income and  to the extent we believe that recovery is not likely  we must establish a valuation allowance 
+significant judgment is required in determining whether the valuation allowance should be recorded against deferred tax assets 
+in assessing the need for valuation allowance  we consider all available evidence including past operating results and estimates of future taxable income 
+our net deferred tax assets relate predominantly to our united states federal tax jurisdiction 
+if our assumptions and consequently our estimates change in the future  the valuation allowances may be increased or decreased  resulting in a respective increase or decrease in income tax expense 
+we believe that our reserve for uncertain tax positions  including related penalties and interest  is adequate 
+the amounts ultimately paid upon resolution of audits could be materially different from the amounts previously included in our income tax expense and therefore could have a material impact on our tax provision  net income and cash flows 
+in the event that actual results differ from these estimates or we adjust these estimates in future periods  we may need to record additional income tax expense or establish an additional valuation allowance  which could materially impact our financial position and results of operations 
+see note of the notes to consolidated financial statements 
+mask costs we incur costs for the fabrication of masks used by our contract manufacturers to manufacture wafers that incorporate our products 
+we capitalize the costs of fabrication masks that are reasonably expected to be used during production manufacturing 
+these amounts are included within property and equipment and are generally depreciated over a period of months to cost of revenue 
+if we do not reasonably expect to use the fabrication mask during production manufacturing  the related mask costs are expensed to research and development in the period in which the costs are incurred 
+business combinations we account for business combinations using the purchase method of accounting 
+we determine the recognition of intangible assets based on the following criteria i the intangible asset arises from contractual or other rights  or ii the intangible is separable or divisible from the acquired entity and capable of being sold  transferred  licensed  returned or exchanged 
+in accordance with the guidance provided under business combinations  we allocate the purchase price of business combinations to the tangible assets  liabilities and intangible assets acquired  including in process research and development ipr d  based on their estimated fair values 
+the excess purchase price over those fair values is recorded as goodwill 
+management makes valuation assumptions that require significant estimates  especially with respect to intangible assets 
+critical estimates in valuing certain intangible assets include  but are not limited to future expected cash flows from customer contracts  customer lists  and distribution agreements and acquired developed technologies  expected costs to develop ipr d into commercially viable products  estimated cash flows from projects when completed and discount rates 
+we estimate fair value based upon assumptions we believe to be reasonable  but which are inherently uncertain and unpredictable and  as a result  actual results may differ from estimates 
+other estimates associated with the accounting for acquisitions may change as additional information becomes available regarding the assets acquired and liabilities assumed 
+
+table of contents effective january   we adopted the updated authoritative guidance on business combinations which establishes principles and requirements for how the acquirer of a business recognizes and measures in its financial statements the identifiable assets acquired  the liabilities assumed  and any non controlling interest in the acquiree 
+it also provides guidance for recognizing and measuring the goodwill acquired in the business combination and determines what information to disclose to enable users of the financial statements to evaluate the nature and the financial effects of the business combination 
+the updated guidance also provides guidance for recognizing changes in an acquirer s existing income tax valuation allowances and tax uncertainty accruals that result from a business combination transaction as adjustments to income tax expense 
+similarly  under the updated guidance  we expensed related transaction costs of million  million and  in  and  respectively  associated with the acquisitions  which would have been capitalized under the prior accounting standards 
+the updated guidance also addresses application issues regarding the initial recognition and measurement  subsequent measurement and accounting of disclosures of assets and liabilities arising from contingencies in business combination 
+in circumstances where the acquisition date fair value for a contingency cannot be determined during the measurement period and it is concluded that it is probable that an asset or liability exists as of the acquisition date and the amount cannot be reasonably estimated  a contingency is recognized as of the acquisition date based on the estimated amount 
+goodwill and purchased intangible assets goodwill is measured as the excess of the cost of an acquisition over the sum of the amounts assigned to tangible and identifiable intangible assets and liabilities assumed 
+we review goodwill and finite lived purchased intangible assets for impairment whenever there is evidence that recent events or changes in circumstances have made recovery of an asset s carrying value not recoverable 
+we also assess potential impairment of our goodwill on an annual basis in the fourth quarter of the calendar year regardless if there is evidence of impairment 
+we perform the goodwill impairment test for each reporting unit 
+a two step impairment test is used to identify potential goodwill impairment and measure the amount of the goodwill impairment loss to be recognized 
+in the first step  the fair value of each reporting unit is compared to its carrying value to determine if the goodwill is impaired 
+if the fair value of the reporting unit exceeds the carrying value of the net assets assigned to that unit  then goodwill is not impaired and no further testing is required 
+if the carrying value of the net assets assigned to the reporting unit were to exceed its fair value  then the second step is performed in order to determine the implied fair value of the reporting unit s goodwill and an impairment loss is recorded for an amount equal to the difference between the implied fair value and the carrying value of the goodwill 
+determining the fair value of a reporting unit and intangible asset is judgmental and involves the use of significant estimates and assumptions 
+we based our fair value estimates on assumptions that are believed to be reasonable but are uncertain and subject to changes in market conditions 
+the goodwill impairment analysis did not result in an impairment charge during the years ended december   and for purposes of step one analyses for our annual goodwill impairment test  the fair value of each reporting unit was determined based on the weighted fair value using market and income approach 
+determining the fair value of each reporting unit is judgmental in nature and requires the use of significant estimates and assumptions 
+the income approach was based on discounted cash flows which were derived from internal forecasts and economic expectations 
+key assumptions used to determine the fair value under the income approach include the cash flow period  terminal values based on a terminal growth rate and the discount rate 
+the market approach utilized valuation multiples based on operating and valuation metrics from comparable companies in the industry 
+the result of the impairment analysis showed that the estimated fair value of the semiconductor reporting unit exceeded its carrying value with a significant headroom  while for software and services reporting unit  the estimated fair value exceeded by approximately 
+we continue to monitor the impact of recent market and economic events to determine if impairment indicators exist 
+should a triggering event occur in  we will perform an interim impairment test 
+certain estimates of discounted cash flows involves businesses with limited financial history and with developing revenue models which increase the risk of differences between the projected and actual performance 
+
+table of contents in addition to the goodwill impairment  we also perform an impairment review of finite lived intangibles for the carrying value and the remaining useful lives of the assets if there are indicators of impairment 
+if the carrying value or the remaining useful life of the intangible assets or asset group is not recoverable  we record a charge equal to the difference between carrying and fair value of the asset or asset group 
+significant management judgment is required in the grouping of long lived assets and forecasts of future operating results that are used in the evaluation of the carrying value of goodwill and finite lived intangible assets 
+if our actual results  or the plans and estimates used in future impairment analyses  are lower than the original estimates used to assess the recoverability of these assets  we could incur additional impairment charges 
+during the year ended december   we wrote off acquired ipr d amounting to million as a result of the abandonment of certain research and development projects 
+in addition  we recorded an impairment charge to write down certain acquired intangible assets of million 
+we did not have impairment of the carrying value of our long lived assets during the years ended december  and results of operations our revenue  cost of revenue  gross profit and gross margin for the years ended december   and were year ended december  in thousands net revenue cost of revenue gross profit gross margin net revenue 
+our net revenue consists primarily of sales of our semiconductor products to providers of networking equipment and their contract manufacturers and distributors 
+initial sales of our products for a new design are usually made directly to providers of networking equipment as they design and develop their product 
+once their design enters production  they often outsource their manufacturing to contract manufacturers that purchase our products directly from us or from our distributors 
+we price our products based on market and competitive conditions and periodically reduce the price of our products  as market and competitive conditions change  and as manufacturing costs are reduced 
+we do not experience different margins on direct sales to providers of networking equipment and indirect sales through contract manufacturers because in all cases we negotiate product pricing directly with the providers of networking equipment 
+to date  most of our revenue has been denominated in us dollars 
+our end customers representing greater than of consolidated net revenue for each of the years ended were year ended december  percentage of total net revenue cisco actiontec represents less than of consolidated net revenue revenue and costs relating to sales to distributors are deferred if we grant more than limited rights of returns and price credits or if we cannot reasonably estimate the level of returns and credits issuable 
+during the quarter ended june   we signed a distribution agreement with avnet to distribute our products primarily in the united states 
+given the terms of the distribution agreement  for sales to avnet  revenue and costs are deferred until products are sold by avnet to their end customers 
+for the years ended december   and   and of our net revenues were from products sold by avnet  respectively 
+revenue recognition depends on notification from avnet that product has been sold to avnet s end customers 
+
+table of contents our distributors  other than avnet are used primarily to support international sale logistics in asia  including importation and credit management 
+total net revenue through such distributors was million  million and million for the years ended december   and  respectively  which accounted for  and of net revenue for the years ended december   and  respectively 
+the inventory at these distributors at the end of the period may fluctuate from time to time mainly due to the oem production ramps or new customer demands 
+while we have purchase agreements with our distributors  the distributors do not have long term contracts with any of the equipment providers 
+our distributor agreements limit the distributor s ability to return product up to a portion of purchases in the preceding quarter 
+given our experience  along with our distributors limited contractual return rights  we believe we can reasonably estimate expected returns from our distributors 
+accordingly  we recognize sales through distributors at the time of shipment  reduced by our estimate of expected returns 
+revenue derived from licensing software and providing software maintenance  support and training amounted to million  million and million for the years ended december   and  respectively 
+revenue from professional service arrangements amounted to million  million and million for the years ended december   and  respectively 
+the following table is based on the geographic location of the original equipment manufacturers or the distributors who purchased our products 
+for sales to our distributors  their geographic location may be different from the geographic locations of the ultimate end customers 
+sales by geography for the periods indicated were year ended december  in thousands united states china taiwan japan malaysia other countries total cost of revenue and gross margin 
+we outsource wafer fabrication  assembly and test functions of our products 
+a significant portion of our cost of revenue consists of payments for the purchase of wafers and for assembly and test services  amortization of acquired intangibles and amortization related to capitalized mask costs 
+to a lesser extent  cost of revenue includes expenses relating to our internal operations that manage our contractors  stock based compensation  the cost of shipping and logistics  royalties  inventory valuation expenses for excess and obsolete inventories  warranty costs and changes in product cost due to changes in sort  assembly and test yields 
+in general  our cost of revenue associated with a particular product declines over time as a result of yield improvements  primarily associated with design and test enhancements 
+we use third party foundries and assembly and test contractors  which are primarily located in asia  to manufacture  assemble and test our semiconductor products 
+we purchase processed wafers on a per wafer basis from our fabrication suppliers  which are currently tsmc  samsung  fujitsu and umc 
+we also outsource the sort  assembly  final testing and other processing of our product to third party contractors  primarily ase and ise 
+we negotiate wafer fabrication on a purchase order basis and do not have long term agreements with any of our third party contractors 
+a significant disruption in the operations of one or more of these contractors would impact the production of our products which could have a material adverse effect on our business  financial condition and results of operations 
+cost of revenue also includes amortized costs of certain identifiable intangible assets from our business acquisitions to the extent those identifiable intangible assets are directly associated with cost of revenue 
+the 
+table of contents total amortization expense from intangible assets acquired from business acquisitions included in cost of revenue was million  million and million for the years ended december   and  respectively 
+we also incur costs for the fabrication of masks used by our contract manufacturers to manufacture wafers that incorporate our products 
+during the years ended december   and  we capitalized million  million and  of mask costs  respectively 
+as our product processes continue to mature and as we develop more history and experience  we expect to capitalize most or all of our mask costs in the future 
+we amortize the cost of fabrication masks that we reasonably expect to use for production manufacturing generally over a month period 
+total amortized expenses for the masks included in cost of revenue were million  million and million for the years ended december   and  respectively 
+the unamortized balance of capitalized mask costs at december  and was million and million  respectively 
+our gross margin has been and will continue to be affected by a variety of factors  including the product mix  average sales prices of our products  the amortization expense associated with the acquired intangible assets  the timing of cost reductions for fabricated wafers and assembly and test service costs  inventory valuation charges  the cost of fabrication masks that are capitalized and amortized  and the timing and changes in sort  assembly and test yields 
+overall gross margin is impacted by the mix between higher performance  higher margin products and services and lower performance  lower margin products and services 
+in addition  we typically experience lower yields and higher associated costs on new products  which improve as production volumes increase 
+research and development expenses 
+research and development expenses primarily include personnel costs  engineering design development software and hardware tools  allocated facilities expenses and depreciation of equipment used in research and development and stock based compensation 
+we expect research and development expenses to continue to increase in total dollars to support the development of new products and improvement of existing products 
+additionally  as a percentage of revenue  these costs fluctuate from one period to another 
+total research and development expenses for the years ended december   and were year ended december  in thousands research and development expenses percent of total net revenue sales  general and administrative expenses 
+sales  general and administrative expenses primarily include personnel costs  accounting and legal fees  information systems  sales commissions  trade shows  marketing programs  depreciation  allocated facilities expenses and stock based compensation 
+we expect sales  general and administrative expenses to increase in absolute dollars to support our growing sales and marketing activities resulting from our expanded product portfolio 
+total sales  general and administrative costs for the years ended december   and were year ended december  in thousands sales  general and administrative percent of total net revenue 
+table of contents other income expense  net 
+other income expense  net primarily includes interest income on cash and cash equivalents  foreign currency gains and losses  financing expenses and interest expense associated with the installment payment of capital leases 
+total other income expense net for the years ended december   and was year ended december  in thousands interest expense other  net total other income expense  net provision for benefit from income taxes 
+the following table presents the provision for benefit from income taxes and the effective tax rates for the three years ended december   and were year ended december  in thousands income loss before income taxes provision for benefit from income taxes effective tax rate fiscal compared to fiscal net revenue 
+our net revenue in increased by million or compared to the increase in net revenue in was mainly attributable to an increase in sales to our enterprise  data center and service provider markets by million as a result of continued strong unit shipment growth driven largely by sales of wireless infrastructure equipment to our major customers 
+revenue in our broadband and consumer markets also increased by million due to the increase in demand for our products 
+in addition  revenue in our software and services market increased by million which was mainly driven by increased in number of professional service contracts with our existing and new customers 
+in  we derived of our revenue from distributors compared to in cost of revenue and gross margin 
+cost of revenue increased in by million or compared to primarily due to the increase in net revenue 
+gross margin decreased by percentage points from in to in the decrease in the overall gross margin percentage was primarily due to the increase in inventory reserves related to the product inventories from acquired companies in  as well as reduced average selling prices for selected customers  which was partially offset by the overall decrease of product cost associated with fabricated wafers  assembly and test costs and improved overhead absorption as a result of the increased production volume 
+research and development expenses 
+research and development expenses increased by million  or in compared to the increase was primarily due to higher salaries and benefit expenses of million and stock based compensation expenses and related taxes of million as a result of an increase in headcount mainly from acquisitions and additional expense associated with stock option and restricted stock unit grants 
+research and development headcount increased to at end of from at the end of depreciation and amortization expense increased by million as a result of the increased purchased technology licenses used for research and development projects 
+in addition  facilities expense  design tools and other miscellaneous research and development expenses increased by million as a result of the increase in research and development activities to support the development of our new products 
+
+table of contents sales  general and administrative expenses 
+sales  general and administrative expenses increased by million  or in compared to the increase was primarily attributable to higher salaries and employee benefits of million and stock based compensation and related taxes of million as a result of the increase in headcount and additional expense associated with stock option and restricted stock unit grants 
+sales  general and administrative headcount increased to at end of from at end of in addition  outsourced services  which includes legal  audit and consulting fees increased by million mainly as a result of the business acquisitions 
+in  we also recorded total restructuring costs of million associated with severance payments to certain employees and excess facility related costs 
+other miscellaneous sales  general and administrative expenses which include rent  facilities and utilities increased by million as a result of the overall business growth and development 
+the overall increase as a result of above was partially offset by the net one time adjustments of million related to the reversal of the contingent earn out liability of million  reversal of an assumed liability from business acquisition of million  net of ipr d written off of million and write down of acquired intangible assets of million 
+income tax benefit expense 
+income tax benefit decreased from million in to million in the tax benefit for the year ended december  was primarily related to the federal research and development credits and stock based compensation related to the joint research and development arrangement with our foreign affiliate  partially offset by the foreign rate differential due to foreign loss being tax benefited at lower rates than the us statutory rate 
+the tax benefit for the year ended december  primarily consists of a million tax benefit due to the release of valuation allowance for federal income tax assets  partially offset by tax provision of million from federal tax expense primarily relating to an adjustment to unrecognized tax benefit reserves for transfer pricing and various state and international taxes 
+the release of the valuation allowance in was due to our history of earnings and expectation of future taxable income for us federal income tax purposes 
+other income expense  net 
+other income expense  net  decreased by million in compared to the decrease in interest income and other  net was primarily due to the provision for a note receivable of million that was deemed uncollectible in interest expense decreased as a result of lower long term capital lease payable  which was offset by the increase in foreign exchange losses resulting from balance sheet remeasurement 
+fiscal compared to fiscal net revenue 
+our net revenue in increased by million or compared to the increase in net revenue in was mainly attributable to an increase in sales to our enterprise  data center and service provider markets by million as a result of continued strong unit shipment growth driven largely by sales of wireless infrastructure equipment to our major customers 
+revenue in our broadband and consumer markets also increased by million due to the increase in demand for our products 
+in addition  revenue in our software and services market increased by million which was mainly driven by increased subscription and service contracts with our existing and new customers as a result of our acquisition of montavista at the end of in  we derived of our revenue from distributors compared to in cost of revenue and gross margin 
+cost of revenue increased in by million or compared to primarily due to the increase in net revenue 
+gross margin increased by percentage points in compared to primarily due to decreased product cost associated with fabricated wafers and assembly and test costs 
+in addition  to a lesser extent  gross margin improvement was a result of a favorable sales mix  with increased sales of higher margin products and services 
+research and development expenses 
+research and development expenses increased by million  or in compared to the increase was primarily due to higher salaries and benefit expenses of million and stock based compensation expenses and related taxes of million as a result of an increase in 
+table of contents headcount 
+research and development headcount increased to at end of from at the end of in addition  outsourced engineering services increased by million  depreciation and amortization expense increased by million and other miscellaneous research and development expenses increased by million 
+the increase was mainly attributable to our increased research and development efforts to support our new product developments 
+sales  general and administrative expenses 
+sales  general and administrative expenses increased by million  or in compared to the increase was primarily attributable to higher salaries and employee benefits of million and stock based compensation and related taxes of million mainly due to an increase in headcount and to the lesser extent due to retention bonuses as a result of business acquisitions 
+sales  general and administrative headcount increased to at end of from at end of the headcount includes employees from montavista which were employed in december upon the completion of the acquisition 
+in addition  commission and bonuses increased by million due to the increase in revenue resulting in higher sales commissions and business acquisition retention bonuses 
+outside services which includes legal and audit fees increased by million generally as a result of business acquisitions 
+the remaining increase was mainly due to our overall business growth and development 
+income tax benefit expense 
+income tax changed from expense of  in to a benefit of million in the tax benefit in was due to release of valuation allowance for federal deferred tax asset of million offset by the income tax provision of million for foreign and state income taxes 
+the release of valuation allowance is due to our history of earnings and expectation of future taxable income for us federal income tax purposes 
+other income expense  net 
+other income expense  net  decreased by million in compared to the total decrease consists of the decrease in other  net of million and an increase in total interest expense of  the decrease in other  net was primarily due to the provision for a note receivable of million that was deemed uncollectible in  and to a lesser extent due to lower interest income resulting from lower short term us interest rates 
+the increase in interest expense was primarily due to a higher interest expense associated with the installment payment of capitalized leases 
+
+table of contents quarterly results of operations the following table sets forth our unaudited consolidated statements of operations data for each of the quarters in the periods ended december  and the quarterly data have been prepared on the same basis as the audited consolidated financial statements 
+you should read this information together with our consolidated financial statements and related notes included elsewhere in this annual report 
+we anticipate that the rate of new sales orders may vary significantly from quarter to quarter 
+consequently  if anticipated sales and shipments in any quarter do not occur when expected  expenses and inventory levels could be disproportionately high  and our operating results for that quarter and future quarters may be adversely affected 
+in addition  because of the rapidly evolving nature of our business  we believe that period to period comparisons of revenue and operating results  including gross margin and operating expenses as a percentage of total revenue should not be relied upon as indications of future performance 
+although we have experienced significant percentage growth in revenue  we do not believe that our historical growth rates are necessarily indicative of future growth 
+net income loss per common share  basic and diluted  for the four quarters of each fiscal year may not sum to the total for the fiscal year because of the different number of shares outstanding during each period 
+quarter ended dec 
+sep 
+jun 
+mar 
+dec 
+sep 
+jun 
+mar 
+in thousands  except per share data net revenue cost of revenue gross profit operating expenses research and development sales  general and administrative total operating expenses income loss from operations other income expense  net interest expense other  net total other income expense  net income loss before income taxes provision for benefit from income taxes net income loss net income loss per common share  basic net income loss per common share  diluted income tax benefit of million for the quarter ended december  includes a one time income tax benefit from the release of valuation allowance primarily from federal deferred tax assets of million 
+sales  general and administrative expense for the quarter ended september  includes a one time adjustment related to the release of the contingent earn out liability from the celestial semiconductor acquisition of million 
+sales  general and administrative expense for the quarter ended december  includes a one time adjustment related to the write offs of ipr d from wavesat and celestial semiconductor acquisitions of million and write down of intangibles from wavesat acquisition of million 
+
+table of contents liquidity and capital resources in may  we received net proceeds of approximately million after underwriters discounts of million and additional offering related costs of approximately million 
+our other primary sources of cash historically have been cash generated from operations and cash received from the exercise of employee stock options 
+as of december   we had cash and cash equivalents of million and net accounts receivable of million 
+following is a summary of our working capital and cash and cash equivalents as of december  and as of december  in thousands working capital cash and cash equivalents following is a summary of our cash flows from operating activities  investing activities and financing activities for the years ended december   and year ended december  in thousands net cash provided by used in operating activities net cash used in investing activities net cash provided by used in financing activities cash flows from operating activities net cash flows from operating activities decreased by million from million in compared to million in the total cash inflow from net income loss  net of non cash expenses in and were million and million  respectively  which were offset by the net cash outflow from changes in assets and liabilities of million and million  respectively 
+non cash expenses increased as a result of higher stock based compensation expense  depreciation and amortization expense  write off of ipr d and write down of intangible assets  which was partially offset by the decrease of the changes in deferred income taxes and change in contingent earn out liability 
+the increase in changes in assets and liabilities in compared to resulted mainly from the increase in accounts receivable resulting from higher revenue and increase in inventory as a result of higher inventory build up  which was partially offset by the decrease in deferred revenue 
+net cash flows from operating activities increased by million from net cash outflow of  in to net cash inflow of million in the total cash inflow from net income loss  net of non cash expenses in and were million and million  respectively  which were offset by the net cash outflow from changes in assets and liabilities of million and million  respectively 
+non cash expenses decreased due to the increase in net deferred tax assets mainly as a result of the release of valuation allowance  partially offset by higher stock based compensation  provision for note receivable and higher depreciation and amortization expense 
+the increase in changes in assets and liabilities was mainly due to the increase in inventories as a result of higher inventory build up in anticipation for higher shipments and an increase in accounts receivable due to higher revenue 
+the increase was partially offset by higher accounts payable  accrued expense and other liabilities as a result of the expansion of our operations 
+cash flows from investing activities net cash used in investing activities increased by million in compared to the increase was mainly due to higher cash outflow for business acquisitions of million  increased purchases of intangible assets of million and increased purchases of property and equipment of million  partially offset by the note receivable written off in of  
+table of contents net cash used in investing activities decreased by million in compared to the decrease was mainly due to lower acquisition related cash payments in compared to of approximately million 
+the decrease was partially offset by higher purchases of property and equipment of million in compared to cash flows from financing activities net cash used in financing activities was million in compared to net cash provided from financing activities of million in net cash used in financing activities in resulted from higher principal payments of capital lease and technology license obligations of million  partially offset by the proceeds from issuance of common stock upon exercise of options of million 
+net cash provided from financing activities in resulted from higher proceeds from issuance of common stock upon exercise of options of million  partially offset by the principal payment of capital lease and technology license obligations of million 
+net cash provided by financing activities was million in compared to net cash used in financing activities of  in net cash provided from financing activities in resulted from higher proceeds from issuance of common stock upon exercise of options of million  partially offset by the principal payment of capital lease and technology license obligations of million 
+net cash used in financing activities in resulted from higher principal payment of capital lease and technology license obligations of million  partially offset by the proceeds from issuance of common stock upon exercise of options of million 
+cash equivalents consist primarily of an investment in a money market fund 
+we believe that our million of cash and cash equivalents at december  and expected cash flow from operations  if any  will be sufficient to fund our projected operating requirements for at least twelve months 
+our future capital requirements will depend on many factors  including our rate of revenue growth  the expansion of our engineering  sales and marketing activities  the timing and extent of our expansion into new territories  the timing of introductions of new products and enhancements to existing products and the continuing market acceptance of our products 
+although we currently are not a party to any agreement with respect to potential material investments in  or acquisitions of  complementary businesses  services or technologies  other than disclosed in note  we may enter into these types of arrangements in the future  which could also require us to seek additional equity or debt financing 
+additional funds may not be available on terms favorable to us or at all 
+indemnities in the ordinary course of business  we have entered into agreements with customers that include indemnity provisions 
+based on historical experience and information known as of december   we believe our exposure related to the above indemnities at december  is not material 
+we also enter into indemnification agreements with our officers and directors and our certificate of incorporation and bylaws include similar indemnification obligations to our officers and directors 
+it is not possible to determine the amount of our liability related to these indemnification agreements and obligations to our officers and directors due to the limited history of prior indemnification claims and the unique facts and circumstances involved in each particular agreement 
+off balance sheet arrangements during the periods presented  we did not have  nor do we currently have  any relationships with unconsolidated entities or financial partnerships  such as entities often referred to as structured finance or special purpose entities  which would have been established for the purpose of facilitating off balance sheet arrangements or other contractually narrow or limited purposes 
+
+table of contents contractual obligations the following is a summary of our contractual obligations as of december  payments due by period total less than year to years to years more than years in thousands operating lease obligations capital lease obligations total the increase in our operating lease obligations as of december  compared to december  was mainly due to the new operating lease of our new principal office which was signed on march  as of december   we had  of accrued liabilities from uncertain tax positions and related interest that could result in an additional tax assessment if successfully challenged by the taxing authorities 
+the timing of any payments which could result from these unrecognized tax benefits will depend upon a number of factors 
+accordingly  the timing of payment cannot be estimated 
+we do not expect a significant tax payment related to these obligations to occur within the next months 
+in addition to the enforceable and legally binding obligations quantified in the table above  we have other obligations for goods and services entered into in the normal course of business 
+these obligations  however  are either not enforceable or legally binding or are subject to change based on our business decisions 
+recent accounting pronouncements see recent accounting pronouncements in note organization and significant accounting policies in item of this annual report  which is incorporated herein by reference 
+item a 
+quantitative and qualitative disclosure about market risk foreign currency risk most of our sales are denominated in united states dollars 
+we therefore have minimal foreign currency risk associated with sale of products 
+our international sales and marketing and research and development operations incur expenses that are denominated in foreign currencies 
+these expenses could be materially affected by currency fluctuations  however  we do not consider this currency risk to be material as the related costs do not constitute a significant portion of our total spending 
+we outsource our wafer fabrication  assembly  testing  warehousing and shipping operations  however  all expenses related thereto are denominated in united states dollars 
+interest rate risk we had cash and cash equivalents of million and million at december  and  respectively  which was held for working capital purposes 
+our cash equivalents at december  and consisted primarily of investments in a money market fund 
+we do not enter into investments for trading or speculative purposes 
+we do not believe that we have any material exposure to changes in the fair value of these investments as a result of changes in interest rates due to their short term nature 
+declines in interest rates  however  will reduce future investment income 
+
+table of contents 

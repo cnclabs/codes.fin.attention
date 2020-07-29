@@ -1,0 +1,865 @@
+item management s discussion and analysis of financial condition and results of operations executive overview and item management s discussion and analysis of financial condition and results of operations gross margin  the commercial success of our new products see item business and item management s discussion and analysis of financial condition and results of operations executive overview  our research and development expenditures and efforts see item management s discussion and analysis of financial condition and results of operations research and development expenses  our capital expenditures see item management s discussion and analysis of financial condition and results of operations financial condition  liquidity  and capital resources  the growth prospects of the semiconductor industry and pld market  including the fpga and cpld product sub segments see item business strategy and competition and item management s discussion and analysis of financial condition and results of operations executive overview  the risk of exposure to product liability claims see item a risk factors we may be subject to product liability claims  our provision for tax liabilities and other critical accounting estimates see item management s discussion and analysis of financial condition and results of operations executive overview  our market share in relation to competitors see item management s discussion and analysis of financial condition and results of operations executive overview  the growth of our revenues generally and revenues from specific products such as hardcopy devices see item management s discussion and analysis of financial condition and results of operations executive overview  projections regarding if and when certain product sales may peak or decline see item management s discussion and analysis of financial condition and results of operations executive overview  the impact of accounting pronouncements see item management s discussion and analysis of financial condition and results of operations executive overview  and trends in our future sales  including our opportunities for growth by displacing asics  assps and other fixed chip alternatives see item business strategy and competition and item management s discussion and analysis of financial condition and results of operations executive overview 
+forward looking statements are not guarantees of future performance and involve risks and uncertainties 
+the forward looking statements contained in this report are based on information currently available to us and expectations and assumptions that we deem reasonable at the time the statements were made 
+we do not undertake any obligation to update any forward looking statements in this report or in any of our other communications  except as required by law 
+all such forward looking statements should be read as of the time the statements were made and with the recognition that these forward looking statements may not be complete or accurate at a later date 
+many factors may cause actual results to differ materially from those expressed or implied by the forward looking statements contained in this report 
+these factors include  but are not limited to  those risks set forth in item a risk factors 
+
+table of contents part i item business 
+founded in  altera corporation designs  manufactures  and markets programmable logic devices  or plds  hardcopy application specific integrated circuit  or asic  devices  pre defined design building blocks known as intellectual property  or ip  cores  and associated development tools 
+our headquarters facility is located at innovation drive  san jose  california  and our web site is www 
+altera 
+com 
+our common stock trades on the nasdaq global market under the symbol altr 
+our plds  which consist of field programmable gate arrays  or fpgas  and complex programmable logic devices  or cplds  are semiconductor integrated circuits  or chips  that are manufactured as standard chips that our customers program to perform desired logic functions within their electronic systems 
+our hardcopy asic devices enable our customers to transition from a high density fpga to a low cost non programmable implementation of their designs for volume production 
+because they are customized only on the last few mask layers  hardcopy devices deliver performance that is comparable to traditional asic devices  but with reduced development costs and shorter production lead times 
+our customers can license ip cores from us for implementation of standard functions in their pld designs 
+customers develop  compile  and verify their pld designs  and then program their designs into our plds using our proprietary development software  which operates on personal computers and engineering workstations 
+
+table of contents we were one of the first suppliers of complementary metal oxide semiconductor  or cmos  plds and are currently a global leader in this market 
+today  we offer a broad range of plds that offer unique features as well as differing densities and performance specifications 
+our products serve a wide range of customers within the communications  computer and storage  consumer  and industrial market segments 
+an overview of typical pld applications within these markets is shown in the table below 
+market segment market sub segment application product communications networking routers switches wireline access systems metropolitan area networks optical networks wireless cellular base stations wireless local area networks computer and storage computer mainframes servers office automation copiers multi function peripherals printers storage redundant array of inexpensive disks raid systems storage area networks consumer broadcast studio editing equipment satellite equipment broadcasting equipment entertainment flat panel televisions cable set top boxes industrial automotive car entertainment systems navigation systems instrumentation manufacturing systems medical diagnostic systems test equipment military guidance and control systems radar systems secure communications systems security energy management surveillance systems card readers energy management systems digital logic overview three principal types of digital integrated circuits are used in most electronic systems processors  memory  and logic 
+processors  which include microprocessors  microcontrollers  and digital signal processors  are typically used for control  central computing tasks  and signal processing  memory is used to store programming instructions and data  and logic is typically used to manage the interchange and manipulation of digital signals within a system 
+while system designers employ a relatively small number of standard architectures to meet their processor and memory needs  they require a wide variety of logic circuits to differentiate their end products 
+
+table of contents the majority of the digital logic market is made up of three product sub segments asics  application specific standard products  or assps  and plds 
+in a broad sense  all of these products are competitive with each other as they generally may be used in the same types of applications in electronic systems 
+however  differences in cost  performance  density  flexibility  ease of use  and time to market dictate the extent to which they may be directly competitive for particular applications 
+the table below summarizes key characteristics of asic  assp  and pld products from the perspective of the end customer 
+asic assp pld customizable yes  by chip fabrication facility no yes  by end user erasability re programmability no no yes relative time to market slow immediate fast relative unit cost low moderate moderate to high customer s development cost high low moderate asics  also frequently referred to as standard cells  are defined by the end customer and customized during manufacturing at the chip fabrication facility 
+as a result  a given asic has a fixed function for use by a single customer in a single application 
+assps are defined by the assp supplier and sold as standard devices that usually cannot be customized by the end user 
+rather than being built for a single customer as in the case of an asic  an assp is built for a specific type of application and is typically targeted and sold to a limited number of customers 
+for simplicity  an assp may be viewed as an asic developed for more than one customer 
+in contrast to the fixed nature of both asics and assps  plds are customized by the end customer and hence can be used in a wide range of applications 
+as a result  a given pld is typically sold to hundreds or thousands of customers 
+the inherent flexibility of plds provides significant advantages to the end customer over asics  including design change simplicity  shorter design cycles  and lower development cost 
+in contrast to asic users  pld users program their design directly into the pld and can have custom chips that are fully functional and verified at the time the design is completed  thereby bypassing the lengthy and complex cycles involved in the verification and fabrication of asics 
+as a result of user programmability  pld customers may experiment with and revise their designs in a relatively short amount of time and with minimum development cost 
+the ease of use and time to market advantages of plds are complemented by the added benefit of field upgradeability  which generally enables pld users to modify the pld design after the electronic system has been shipped 
+due to their programmability  however  plds generally have a larger die size and associated higher per unit cost when compared to asics 
+while the customized manufacturing of asics can result in more optimized chip performance and lower per unit cost than plds  asics require higher up front costs and longer manufacturing lead times 
+historically  due to their lower per unit costs  asics have been viewed as more cost effective than plds for large volume  low cost applications such as consumer electronics 
+consequently  the unit volume of a pld implementation is typically lower than that of an asic implementation 
+additionally  some customers may choose to prototype with plds for initial engineering development and then re design to an asic in volume production for lower per unit cost 
+while such re designs have always been an aspect of the pld business  we believe that the following factors are driving electronic systems manufacturers to use plds for their systems entire life cycle the continual reduction in the price premium of programmable logic  the ever shortening product life cycle of many electronic systems  and the use of more advanced chip manufacturing technology  which heightens the failure risk of asics and the up front costs of design  verification and mask development  known as non recurring engineering costs 
+assps have been used in applications where specific fixed functions are needed and where little differentiation is required  such as in implementing certain electronic industry standards 
+however  the fixed functionality of assps limits the range of applications they can address 
+in contrast to assps  the flexibility found in plds allows users to define circuitry to suit their value added and differentiated system architecture  rather than restrict their system 
+table of contents architecture based upon the assp manufacturer s device specification 
+furthermore  the emergence of ip design blocks in plds has allowed the implementation of standardized functions otherwise performed by assps 
+we believe that the adoption of more advanced chip manufacturing technology  which is increasing the total cost of chip development  is reducing the cost advantage of asics and assps 
+the cost and time for us to develop a pld is comparable to the cost and time for others to develop an asic or assp 
+since each of our plds is sold to hundreds or thousands of customers  we generally spread development costs and generate revenue across a wide customer base 
+in contrast  asic and assp suppliers build fixed  custom chips for a single customer or for a single application 
+because it is increasingly difficult for asic and assp suppliers to identify opportunities that generate enough revenue to compensate for the high development costs  we believe that asic suppliers are imposing ever higher up front costs and minimum order quantities on customers  and assp manufacturers may be developing fewer products 
+in an attempt to lessen the high development costs associated with advanced process technology  we believe some asic and assp suppliers may choose to utilize non leading edge process technology for new designs 
+for current customer design evaluations  we believe the process technology for plds is typically two process generations more advanced than that of asics and assps 
+while using lagging process technology helps reduce development cost for a given asic or assp design  it typically lessens the advantages in unit cost and system performance relative to a pld implementation developed on a more advanced process technology 
+we believe that the process technology gap between plds and asic and assp alternatives may increase over time and further drive the adoption of plds 
+strategy and competition we believe that the increasing cost associated with the use of advanced chip manufacturing technology is driving the development and use of standard  programmable digital integrated circuits 
+as with microprocessors and memory  plds provide the flexibility for the end user to change and define circuits without incurring the cost  risk and delays of custom chip fabrication 
+consequently  we believe that customers will increasingly use plds for prototyping and production rather than asics or assps  despite the higher per unit cost of plds 
+in order to capture a larger percentage share of the semiconductors purchased by our customers  we are focused on providing the most advanced programmable solutions 
+to accomplish this goal  we strive to offer our customers plds with the speed  density  low power consumption  functionality  and package types to meet their specific needs  plds optimized for low cost and high volume applications  hardcopy devices that enable our customers to easily move from our largest plds to a low cost asic implementation of their designs  optimized  pre verified system level ip cores to speed their design process  state of the art development tools that offer low cost  ease of use and compatibility with other industry standard electronic design automation  or eda  tools  and a complete customer support system 
+we believe that the greatest opportunity for our growth is displacing asics and assps 
+as a result  our strategy in recent years has not only been to add more prototyping customers  but more importantly  to use cost optimized products to increase our penetration into high volume customers and end markets 
+through the use of innovation and the most advanced process technology  pld vendors have rapidly reduced pld cost structure and power consumption while increasing device speed and density 
+we believe this makes plds an increasingly competitive alternative to asics and assps and will lead to increasing pld usage 
+we compete with other pld vendors to realize this opportunity and for market share within the pld market 
+the programmable logic market is highly concentrated with two vendors accounting for a majority of the total market ourselves and xilinx  inc using publicly available data and information obtained from gartner dataquest  we estimate that the smaller vendors  including lattice semiconductor corporation and actel corporation  together comprise approximately of the pld market 
+within the pld market  sales of fpgas and cplds constitute the majority of revenues 
+cplds and fpgas are often viewed as two distinct sub segments of the pld market and  due to product differences  generally do not compete directly for the same customer designs 
+the fpga sub segment has outgrown the cpld sub segment over the last several years 
+fpgas 
+table of contents now comprise approximately of total pld sales  and it is generally accepted by participants and observers of the industry that the fpga sub segment will continue to be the fastest growing sub segment of the pld market 
+based on our estimates  we believe that in we had a share in the fpga sub segment  in  in  in and in  and that maintaining or increasing market share in this sub segment is important to our long term growth 
+competition among pld vendors is most intense in the design win phase of the customer s design 
+the design win phase refers to the customer s selection of a particular vendor s product for use in the customer s electronic system 
+because each vendor s product offering is proprietary  the cost to switch pld devices after a system has been designed and prototyped is very high 
+therefore  customers rarely switch pld vendors after this initial selection for a particular design 
+from the time a design win is secured it can be as long as two years  and sometimes longer  before the customer starts volume  or production  purchases of our devices 
+typically  the customer selects the pld vendor relatively early in the customer s design program 
+it generally takes several years from that point before the customer has completed its entire system design  built prototypes  sampled the marketplace for customer acceptance  made any modifications  and established volume manufacturing capacity 
+thus  movements in pld market share often occur some time after the change in relative competitiveness that gave rise to the market share shift 
+because of this time lag  market share is a lagging indicator of relative competitive strength 
+because it is extremely difficult to forecast the degree of success or timing of a customer s program  and because the end markets are so fragmented we have over  pld customers  it is difficult even for pld vendors to gauge their competitive strength in securing design wins as of a particular point in time 
+principal competitive factors in the pld sub segment include technical innovation  device performance  power consumption and features  capability of software development tools and ip cores  pricing and availability  quality and reliability  technical service and customer support  manufacturing and operational competence  and customer familiarity with existing vendors and entrenched products 
+we believe that we compete favorably with respect to these factors and that our proprietary device architecture and our installed base of software development systems may provide some competitive advantage 
+we have been able to introduce new product families that  as compared to their predecessors  provide greater functionality and lower power consumption at a lower price for any given density because of unique architectural innovation and advanced technologies 
+we also believe that these new product families compete favorably against asics and assps  as well as against other types of chips such as microcontrollers  microprocessors  and digital signal processors 
+some of the functionality offered by these other types of chips can be implemented in plds using pre built and pre verified ip cores 
+an ip core is typically offered in either a hard or soft form 
+a hard ip core is embedded into the actual circuitry of our chips 
+a soft ip core is a licensed design file that our customers incorporate into their design and program onto the pld 
+by incorporating more functionality and logic capacity on a programmable chip while providing the necessary design tools and ip cores to design a reliable system  we believe we can enhance the advantages of plds over competing solutions 
+as is true of the semiconductor industry as a whole  the digital logic segment and the pld sub segment are intensely competitive and each successive product generation is characterized by rapid technological change  and price decline 
+all of these factors may adversely affect our future operating results 
+for a discussion of risk factors associated with our strategy and competition  see item a risk factors our failure to compete successfully in the highly competitive semiconductor industry would adversely affect our financial results and business prospects and our failure to define  develop  and manufacture technologically advanced products would adversely affect the success and growth of our company 
+
+table of contents products our products consist primarily of devices  ip cores  and proprietary development tools 
+a brief overview of these products follows 
+devices our devices fall into the following four categories fpgas  cplds  low cost hardcopy asic devices  and configuration devices that store the programming code for our fpgas 
+these devices span multiple architectures and device families  with numerous product options 
+each device family offers unique functional benefits and differing density and performance specifications 
+sales of fpgas accounted for of our total sales in  in  and in sales of cplds accounted for of our total sales in  in  and in sales of our other products accounted for of our total sales in  and in both and some of our latest device families  which are typically designed into new end equipment  are summarized and described below 
+some of our more mature device families  which are not now typically designed into new end equipment but may still comprise significant portions of our total revenue  have been omitted from the descriptions below 
+stratix ii and stratix iii high end  system level fpgas our stratix product families are built using advanced cmos process technology and address a broad range of applications in communications  computing and storage  consumer  and industrial markets 
+architectural innovations within stratix fpgas help provide high logic density and performance and low power consumption  while offering high speed and flexible embedded system functionality such as memory and digital signal processing dsp blocks 
+additionally  our stratix ii gx fpga devices offer advanced transceiver capabilities for applications that require reliable  multi gigabit data transfer rates 
+our stratix iii devices utilize unique architectural innovations to offer the lowest power consumption amongst high performance fpgas in the marketplace 
+cyclone ii and cyclone iii low cost  high volume fpgas our cyclone product families are built using advanced cmos process technology and bring programmable flexibility to cost sensitive applications across a vast array of end markets within the communications  computing and storage  consumer  and industrial markets 
+our cyclone iii family utilizes low power process technology to meet market requirements for low power consumption 
+architectural innovation allows cyclone devices to combine a low cost structure with abundant device resources  making them ideal for high volume applications across all our served markets in areas such as digital set top boxes  dvd player recorder systems  automotive telematics  and flat panel televisions 
+arria gx low cost  transceiver equipped fpgas our arria product family is built using advanced cmos process technology and enables a simplified transceiver based design for applications requiring high performance protocols including pci express  gigabit ethernet and serial rapidio 
+arria gx fpgas offer best in class signal integrity  providing designers a risk free solution to develop next generation high bandwidth systems in the communications  storage  computer and industrial markets 
+max ii cplds our max cpld product families are instant on  non volatile devices that address a wide range of high speed glue logic functions found in a broad range of electronics equipment in the communications  computing and storage  consumer  and industrial markets 
+glue logic enables the interaction of multiple subsystem components 
+our max ii devices are based on a newly developed and revolutionary architecture that reduces costs by up to percent or more  consumes percent less power  and increases performance by as much as percent over the previous generation max family 
+for the most demanding low power and battery operated portable applications  our max iiz devices offer microamp standby current in ultra small chip packaging 
+hardcopy and hardcopy ii asic devices our hardcopy products offer customers a migration path from the highest density fpga families to a low cost asic device for high volume production applications 
+in contrast to traditional cell based asics  in which every mask layer is custom and unique to the customer s design  our hardcopy asic devices  sometimes referred to as structured 
+table of contents asics  share a common set of base layers and the customer s design is implemented in the device by customizing only the last few mask layers 
+for a given process technology  hardcopy asic devices deliver nearly the performance of comparable cell based asics  but with reduced development costs and shorter production lead times 
+the functionality of hardcopy devices is equivalent to that implemented on the fpga 
+the hardcopy devices have smaller die sizes than the fpgas by removing the configuration circuitry  programmable routing  and programmability for logic and memory 
+this scheme reduces the device cost while providing seamless migration of the customer design to a hardcopy device 
+as a result  customers get the flexibility and time to market advantages of a high density fpga during the prototyping and early volume phases  and then convert the design seamlessly to a hardcopy device for high volume 
+hardcopy devices are therefore used in high volume cost sensitive applications historically served by traditional cell based asics 
+intellectual property cores ip cores are pre verified building blocks that implement standard system level functions that customers incorporate in their pld design by using our proprietary development software 
+soft ip cores available for use in our devices consist of our nios and nios ii soft core embedded processors  our portfolio of megacore functions  which we license to our customers  and our altera megafunction partners program  or ampp sm cores  which are pre verified by us and licensed to our customers by third parties 
+the nios and nios ii embedded processors utilize a reduced instruction set computing  or risc  architecture and are a cost competitive and flexible alternative to discrete microcontroller solutions 
+the nios embedded processors can be efficiently implemented in all of our newer fpga devices 
+the nios ii soft core embedded processor provides up to a improvement in price performance when compared to the original nios embedded processor and competes favorably with many discrete microcontrollers 
+with ip cores  system designers can focus more time and energy on improving and differentiating the unique aspects of their system design  rather than spending time designing common off the shelf functions 
+ip cores are essential to providing our customers solutions that enable higher levels of integration and faster time to market 
+today  we offer a broad range of soft ip cores for various system blocks for dsp algorithms  bus interfaces  memory controllers  telecommunications  data communications  microprocessors  and peripherals 
+prior to licensing a soft ip core  customers may download an encrypted soft ip core from our web site and verify that it works in their own system design 
+while licensing soft ip cores represents a small portion of our total revenues  we believe a broad product offering in this area is necessary to compete with asic and assp vendors as well as other pld vendors 
+development tools our proprietary development tools  consisting primarily of the quartus ii software  enable our customers to successfully complete all necessary pld design steps 
+our tools enhance engineering productivity by facilitating design entry  design compilation  design verification  and device programming during the initial design and subsequent design revisions 
+our development tools can be used on a variety of computing platforms and have built in interfaces with other engineering design software  thus making it possible for customers to utilize their existing design environment 
+our quartus ii software development tools run under the microsoft windows  unix including solaris and hp ux  and linux operating environments 
+our development tools also provide interfaces to many industry standard eda tools  including those offered by cadence design systems  inc  mentor graphics corporation  synopsys  inc  and synplicity  inc like ip cores  our development tools generate less than of our total revenues  but are a critical and necessary element of our product portfolio because they are used to program our devices and can drive our success in competing for design wins against asic and assp vendors as well as other pld vendors 
+research and development our research and development activities have focused primarily on plds and on associated ip cores  development software  and hardware 
+we have developed these related products in parallel to provide comprehensive design support to customers 
+as a result of our research and development efforts  we have introduced a number of new families during the past three years  including the stratix iii  stratix ii  stratix ii gx  cyclone iii  cyclone ii  arria gx  max ii  
+table of contents max iiz  and hardcopy ii device families  as well as major enhancements to our ip core offerings and the quartus ii development platform 
+our research and development expenditures were million in  million in  and million in research and development costs are charged to expense as incurred 
+we intend to continue to spend substantial amounts on research and development in order to continue to develop and achieve market acceptance of our new products 
+for a discussion of risk factors associated with our research and development efforts  see item a risk factors our failure to define  develop  and manufacture technologically advanced products would adversely affect the success and growth of our company 
+patents  trademarks  and licenses we generally rely on intellectual property law  including patent  copyright  trademark  and trade secret laws  to establish and maintain our proprietary rights in products and technology  and have increased our investment in intellectual property protection in the last several years 
+as of december   we owned more than  united states and foreign patents 
+we also have more than patent applications currently pending 
+also  we have used  registered  and applied to register certain trademarks and service marks to distinguish our products  technologies  and services from those of our competitors in the united states and foreign countries 
+in addition  we file registrations in the united states under the semiconductor chip protection act to protect our chip designs 
+when appropriate  we file lawsuits to protect our intellectual property rights 
+we have entered into technology licensing agreements that give us rights to design  manufacture  and sell products using certain intellectual property owned by others 
+in july  we entered into a settlement agreement with xilinx under which we settled all pending patent litigation 
+as part of the settlement agreement  we entered into a royalty free patent cross license agreement with xilinx  including a prohibition of further patent litigation between the two companies through july in connection with the settlement agreement  we paid xilinx a one time payment of million 
+similarly  in july  we entered into a settlement agreement with lattice under which we settled all pending patent litigation 
+as part of the settlement agreement  we entered into a royalty free patent cross license agreement with lattice  including a multi year prohibition of further patent litigation between the two companies 
+no payments were made by altera or lattice as part of the settlement 
+although we believe that protection afforded by our intellectual property rights has value  the rapidly changing technology in the semiconductor industry makes our future success dependent primarily on the innovative skills  technological expertise  and management abilities of our employees rather than on our patent  trademark  or other proprietary rights 
+for a discussion of risk factors associated with our patents  trademarks  and licenses  see item a risk factors the failure of our intellectual property rights to provide meaningful protection from our competitors could harm our competitive position and intellectual property infringement claims could adversely affect our ability to manufacture and market our products 
+marketing and sales we market our products worldwide through a network of distributors  independent sales representatives  and direct sales personnel 
+from time to time  we may add or remove independent sales representatives or distributors from our selling organization as we deem appropriate 
+altera distributors we engage distributors in all major geographic markets that we serve 
+these distributors are franchised by component manufacturers to sell a wide variety of products to many customers  and they may sell competing products or solutions 
+we have contracts with our distributors  which can be terminated by either party in a relatively short period of time 
+the main roles of our independent distributors are to provide demand creation for the broad base of customers and order fulfillment services for most of our customers 
+all of our distributors stock inventory of our products 
+the distributors purchase products from us at a set distributor cost denominated in us dollars 
+title and risk of loss generally transfer upon shipment from our stocking locations  which are primarily located at the independent subcontractors we employ for test and assembly services in the asia pacific region or our warehouse in san jose 
+upon shipment to the distributor  we generally defer revenue on the sale 
+table of contents in accordance with our revenue recognition policy 
+consequently  the deferred revenue and the corresponding deferred cost of sales are recorded as a current liability under the caption titled deferred income and allowances on sales to distributors 
+all payments to us are denominated in us dollars 
+for a detailed discussion of our revenue recognition policy  see note significant accounting policies revenue recognition to our consolidated financial statements 
+our sales cycle begins with a design win phase  which is generally lengthy and often requires the ongoing participation of sales  engineering  and managerial personnel 
+once customer demand has been created and a design is ready to move into prototyping or production  the order fulfillment process begins 
+regardless of whether altera  an independent sales representative  or the distributor created the demand  a local distributor will process and fulfill over of all orders from customers 
+our distributors are the legal sellers of the products and therefore bear all risks  such as credit loss  inventory shrinkage and theft  and foreign currency fluctuations that are generally related to the sale of commercial goods 
+in accordance with our distribution agreements and industry practice  we have granted our distributors the contractual right to return certain amounts of unsold product on a periodic basis and also to receive price concessions for unsold product in the case of a subsequent decrease in list prices 
+we also provide price concessions to our distributors for a portion of their original purchase price in order for them to address individual negotiations involving high volume or competitive situations 
+typically  a customer purchasing a small quantity of product for prototyping or development from a distributor will pay list price 
+however  a customer using our products in volume production  purchasing thousands or even hundreds of thousands of units will often negotiate a substantial price discount from the distributor 
+under such circumstances  the distributor will often negotiate and receive a price concession from altera 
+in recent years  such concessions have exceeded of list price on average 
+this is a standard practice in the semiconductor industry  and we provide some level of price concession to every distributor 
+total sales are the sum of our own direct sales to oems and our distributors resale of altera products 
+for the fiscal year ended december   worldwide sales through distributors for subsequent resale to oems or their subcontract manufacturers accounted for of total sales 
+arrow electronics  inc  or arrow  continues to be our largest distributor 
+arrow on a worldwide basis accounted for of total sales in  in  and in our second largest distributor  altima corporation  located in japan  accounted for of total sales in  in  and in no other distributor accounted for greater than of total sales in   or for a discussion of the risk factors associated with our distribution model  see item a risk factors we rely heavily on distributors to generate a significant portion of our sales and fulfill our customer orders 
+the failure of our distributors to perform as expected would materially reduce our future sales and conditions outside the control of our independent subcontractors and distributors may impact their business operations and thereby adversely interrupt our manufacturing and sales processes 
+see also note significant accounting policies concentrations of credit risk to our consolidated financial statements 
+altera sales  marketing  and customer support altera also maintains a dedicated global sales and marketing organization to create customer demand and manage our network of distributors and independent sales representatives 
+in general  we focus our direct demand creation efforts on a limited number of key accounts  as well as providing technical  business  and marketing support to distributors and independent sales representatives 
+independent sales representatives are mostly located in north america and in select european countries 
+independent sales representatives create demand and provide customer support in a defined territory and  in many cases  with a defined set of customers 
+they stock no inventory and provide no order fulfillment services 
+all of our contracts with independent sales representatives may be terminated by either party in a relatively short period of time 
+customer support and service are important aspects of selling and marketing our products 
+we provide several levels of technical user support  including applications assistance  design services  and customer training 
+also  we publish data sheets and application notes  conduct technical seminars  and provide design assistance via the internet and electronic links to the customer 
+throughout the united states  we have domestic sales offices in numerous major metropolitan areas 
+in addition  we maintain international sales support offices in various metropolitan areas including bangalore  beijing  cork  helsinki  hong kong  london  munich  osaka  ottawa  paris  seoul  shanghai  shenzhen  singapore  stockholm  taipei  tokyo  turin and chengdu 
+
+table of contents no single end customer accounted for more than of our total sales in   or international sales international sales  which consist of all sales outside of north america  constituted of total sales in  of total sales in  and of total sales in sales to japan accounted for of total sales in  of total sales in  and of total sales in except for the united states  china and japan  no other country accounted for sales in excess of of total sales during   or we expect international sales to continue to increase as a percentage of our total sales in the future 
+all of our sales to foreign entities are denominated in united states dollars 
+for a detailed description of our sales by geographic region  see item results of operations sales by geography and note segment and geographic information to our consolidated financial statements 
+for a discussion of the risk factors associated with our foreign operations  see item a risk factors because we depend on international sales for a majority of our total sales  we may be subject to political  economic and other conditions that could increase our operating expenses and disrupt our business and our business is subject to tax risks associated with being a multinational corporation 
+the information regarding geographic breakdown of our property and equipment  included in note of the notes to consolidated financial statements  is hereby incorporated by reference 
+backlog our backlog consists mostly of distributor orders  as well as limited oem orders  that are for delivery within the next three months 
+our backlog of orders on december   was approximately million  compared to million on december  historically  backlog has been a poor predictor of future customer demand 
+while our backlog can increase during periods of high demand and supply constraints  purchasers may generally cancel product orders up to days prior to the scheduled delivery date without incurring significant cancellation penalties 
+further  we generally defer recognition of revenue on shipments to distributors until the product is resold 
+lastly  our backlog is valued at list price  which is substantially higher than the actual price in most cases 
+for all of these reasons  backlog as of any particular date should not be used as a predictor of future sales 
+manufacturing wafer supply die  cut from silicon wafers  are the essential components of all our devices and a significant portion of the total device cost 
+our manufacturing strategy is known as a fabless business model since we do not directly manufacture our silicon wafers 
+instead  our silicon wafers are produced by independent semiconductor foundries 
+this enables us to take advantage of these suppliers high volume economies of scale and also gives us direct and timely access to advanced process technology 
+we purchase nearly all of our silicon wafers from taiwan semiconductor manufacturing company  or tsmc  an independent semiconductor foundry 
+we have no formalized long term supply or allocation commitments from tsmc 
+the remaining portion of our silicon wafers are produced by sharp corporation in japan 
+in the past  we have used other foundry vendors  and we may establish additional foundry relationships as they become economically beneficial or technically necessary 
+for a discussion of risk factors associated with our wafer supply arrangements  see item a risk factors we depend entirely on independent subcontractors to supply us with finished silicon wafers 
+the failure of these subcontractors to satisfy our demand could materially disrupt our business  shortages of  and or increased costs for  our silicon wafers could lower our gross margins  reduce our sales  or otherwise materially disrupt our business  the manufacture of our products is complex  and the foundries on which we depend may not achieve the necessary yields or product reliability that our business requires  and conditions outside the control of our independent subcontractors and distributors may impact their business operations and thereby adversely interrupt our manufacturing and sales processes 
+testing and assembly after wafer manufacturing is completed  each silicon wafer is tested using a variety of test and handling equipment 
+the vast majority of our silicon wafer testing is performed at tsmc or our san jose pilot line facility  which is used primarily for new product development 
+this testing is performed on equipment owned by us and consigned to our partners 
+
+table of contents the wafers are then shipped to various assembly suppliers in asia  where good die are separated into individual chips that are then encapsulated in packages 
+we employ a number of independent suppliers for assembly purposes 
+this enables us to take advantage of these subcontractors high volume economies of scale and supply flexibility  and gives us direct and timely access to advanced packaging technology 
+we purchase almost all of our assembly services from amkor electronics  inc  in korea and the philippines  and advanced semiconductor engineering  inc  or ase  in malaysia and taiwan 
+following assembly  each of the packaged units receives final testing  marking  and inspection prior to being packaged for storage as finished goods 
+we obtain almost our entire final test and back end operation services from amkor and ase 
+final testing by these assembly suppliers is accomplished through the use of our proprietary test software operating on hardware that is consigned to or owned by our suppliers 
+the majority of our inventory  including finished goods  is warehoused at our subcontract test and assembly partners located in asia with a smaller portion located at our corporate facility in san jose  california 
+on our behalf  these suppliers also ship our products to oems and distributors 
+for a discussion of risk factors associated with our testing and assembly arrangements  see item a risk factors we depend on independent subcontractors  located in asia  to assemble  test  and ship our semiconductor products 
+the failure of these subcontractors to satisfy our demand could materially disrupt our business and conditions outside the control of our independent subcontractors and distributors may impact their business operations and thereby adversely interrupt our manufacturing and sales processes 
+executive officers of the registrant our executive officers and their ages as of february  are as follows name age position john p 
+daane chairman  president and chief executive officer misha r 
+burich senior vice president  research and development william y 
+hata vice president  worldwide operations and engineering lance m 
+lissner senior vice president  business development and chief information officer kevin h 
+lyman vice president  human resources timothy r 
+morse senior vice president and chief financial officer george a 
+papa senior vice president  worldwide sales jordan s 
+plofsky senior vice president  marketing katherine e 
+schuelke vice president  general counsel and secretary there are no family relationships among our executive officers or between any executive officer and any of our directors 
+john p 
+daane joined us as our president and chief executive officer in november and was elected as one of our directors in december and our chairman of the board in may prior to joining us  mr 
+daane spent years at lsi logic corporation  a semiconductor manufacturer  most recently as executive vice president  communications products group  with responsibility for asic technology development and the computer  consumer  and communications divisions 
+misha r 
+burich joined us as our senior vice president of software engineering in december  and assumed the role of senior vice president research and development in march prior to joining us  he served as a vice president of r d at various electronic design automation eda companies  including cadence design systems  mentor graphics  silicon compiler systems  and silicon design labs  which he co founded in dr 
+burich began his career at bell laboratories research in william y 
+hata joined us as vice president of product engineering in december in march of  mr 
+hata was promoted to vice president  worldwide operations and engineering  prior to joining us  he was a director of foundry operations and product engineering at national semiconductor 
+
+table of contents lance m 
+lissner joined us in may as vice president of business development and investor relations and was appointed senior vice president  business development in november prior to that time  mr 
+lissner was a corporate officer of measurex corporation  a developer of computer integrated measurement  control  and information systems  where he was employed since and held various positions in sales  marketing  engineering  and business development 
+kevin h 
+lyman joined us in january as our vice president of human resources 
+prior to joining us  mr 
+lyman most recently served as senior vice president of corporate human resources at advanced micro devices 
+prior to that  mr 
+lyman held a variety of human resources management roles at lockheed  genrad  and general datacomm industries 
+timothy r 
+morse joined us in january as senior vice president and chief financial officer 
+prior to joining us  mr 
+morse most recently served as chief financial officer and general manager of business development  ge plastics 
+as a year veteran of the general electric company  mr 
+morse has also held positions at ge appliances and ge capital  in north america  europe  and asia 
+george a 
+papa joined us in february as senior vice president  worldwide sales 
+from february to february  mr 
+papa served as vice president of worldwide sales of the communications business group of marvell semiconductor  inc  a semiconductor company 
+from march to february  he served as vice president of worldwide sales for level one communications  inc  a subsidiary of intel corporation  a semiconductor company 
+from february to march  mr 
+papa served as vice president of north american sales for siemens corporation  a diversified global technology com 
+jordan s 
+plofsky joined us in february as senior vice president  vertical markets and embedded processor products and became senior vice president  applications business groups in march and senior vice president  marketing in november prior to joining us  mr 
+plofsky was employed by lsi logic from october to february  most recently as executive vice president  enterprise infrastructure group from november to february and vice president and general manager  networking products division from june to november katherine e 
+schuelke joined us in march as corporate attorney 
+she became senior corporate attorney in july and assistant general counsel and assistant secretary in july in october  she was appointed vice president  general counsel and secretary 
+prior to march  ms 
+schuelke was an attorney at the law firm of morrison foerster llp for seven years 
+employees as of december   we had  regular employees 
+of these employees   were located in the united states 
+none of our employees is represented by a labor union or collective bargaining agreement 
+we have not experienced any work stoppages  and we believe that our employee relations are good 
+access to company s reports our annual reports on form k  quarterly reports on form q  current reports on form k  and amendments to reports filed  or furnished pursuant to sections a and d of the securities exchange act of  are available free of charge on our web site at www 
+altera 
+com  as soon as reasonably practical after these reports are electronically filed with  or furnished to  the securities and exchange commission sec 
+we will also provide a copy  free of charge  upon request made to altera corporation  attn investor relations  innovation drive  san jose  california our sec filings are available at the sec s web site at www 
+sec 
+gov 
+in addition  our sec filings may be read and or copied at the sec s public reference room at f street  ne  washington  ne  please call the sec at sec for more information about the operation of the public reference room 
+this annual report includes trademarks and service marks of altera and other companies that are unregistered and registered in the united states and other countries 
+
+table of contents item a 
+risk factors 
+the following risk factors  among others  could in the future affect our actual results of operations and could cause our actual results to differ materially from those expressed in forward looking statements made by us 
+before you decide to buy  hold  or sell our common stock  you should carefully consider the risks described below  in addition to the other information contained elsewhere in this report 
+the following risk factors are not the only risk factors facing our company 
+additional risks and uncertainties not presently known to us or that we currently deem immaterial may also affect our business 
+our business  financial condition  and results of operation could be seriously harmed if any of the events underlying any of these risks or uncertainties actually occurs 
+in that event  the market price for our common stock could decline  and you may lose all or part of your investment 
+our failure to compete successfully in the highly competitive semiconductor industry would adversely affect our financial results and business prospects 
+the semiconductor industry  including the pld market  is intensely competitive 
+our ability to compete successfully in the semiconductor industry will depend on our ability to provide our customers with solutions offering greater value than solutions offered by competing programmable logic vendors  such as xilinx and lattice  and other semiconductor companies that indirectly compete with us 
+because we develop plds for applications that are presently served by vendors of asics  assps  microcontrollers  and digital signal processors  we indirectly compete against vendors of these products 
+many of these vendors  including international business machines corporation and texas instruments inc  have substantially greater financial  technical  and marketing resources than we do and have well established market positions and solutions that have proven technically feasible and economically competitive over several decades 
+we may not be able to displace these vendors in the targeted applications and densities 
+further  other programmable logic vendors are targeting these applications and may be successful in securing market share from us 
+moreover  some of our customers have historically used standard cell technologies to achieve greater integration in their systems  this may not only impede our efforts to penetrate the markets for asics  assps  microcontrollers  and digital signal processors  but may also displace our products in the applications that we presently serve 
+our failure to define  develop  and manufacture technologically advanced products would adversely affect the success and growth of our company 
+as a semiconductor company  we operate in a dynamic market characterized by rapid technological change 
+the manufacture of our products is a highly complex and precise process  requiring production in a tightly controlled environment 
+our current product development efforts focus on developing new plds  related development software and hardware  and advanced semiconductor wafer fabrication processes 
+our development efforts may not result in the timely introduction of competitive new products  or enhancements to existing products 
+additionally  we may not be successful in developing new products or using and converting established products to new and more advanced process technologies 
+for example  our current generation product families  the stratix iii and cyclone iii families are manufactured on a nanometer process technology 
+our next generation product families will be manufactured on smaller circuit geometries for which we have no production history 
+the use of advanced process technology entails inherent technological risks and start up difficulties that can adversely affect research and development spending  yields  product costs  and timeliness of delivery of our products 
+we depend entirely on independent subcontractors to supply us with finished silicon wafers 
+the failure of these subcontractors to satisfy our demand could materially disrupt our business 
+nearly all of our silicon wafers are produced by tsmc in its manufacturing facilities located primarily in taiwan 
+the remaining portion of our silicon wafers are produced by sharp corporation in japan 
+silicon wafer production facilities have at any given time a fixed capacity  the allocation of which is determined solely by our vendors and over which we have no direct control 
+we have no formalized long term supply or allocation commitments from our foundry suppliers 
+our operations would be disrupted if tsmc terminates its relationship with us and we are unable to arrange a satisfactory alternative to fulfill customer orders on a timely basis and in a cost effective manner 
+to ensure the continued supply of wafers  we may establish other sources of wafer supply for our products as these arrangements become economically advantageous or technically necessary 
+however  there are only a few foundry 
+table of contents vendors that have the capabilities to manufacture our most advanced products 
+if we engage alternative sources of supply  we may encounter start up difficulties and incur additional costs 
+also  shipments could be delayed significantly while these sources are qualified for volume production 
+furthermore  as a result of our reliance on third party foundries  we have little or no direct control over production costs  delivery schedules  and wafer quality 
+we also face increased exposure to potential misappropriation of our intellectual property 
+shortages of  and or increased costs for  our silicon wafers and assembly material could lower our gross margins  reduce our sales  or otherwise materially disrupt our business 
+if market demand for silicon wafers or assembly material suddenly exceeds market supply  our supply of silicon wafers or assembly material could quickly become limited 
+a shortage in manufacturing capacity could hinder our ability to meet demand for our products 
+moreover  silicon wafers constitute more than half of our product cost 
+if we are unable to procure wafers at favorable prices  our gross margins will be adversely affected 
+the manufacture of our products is complex  and the foundries on which we depend may not achieve the necessary yields or product reliability that our business requires 
+the manufacture of our products is a highly complex and precise process  requiring production in a tightly controlled environment 
+in addition to sufficient foundry manufacturing capacity and wafer prices  we depend on good production yields the number of good die per wafer and timely delivery of silicon wafers to meet our customers demand for products and to maintain profit margins 
+wafer production yields depend on a wide variety of factors including the level of contaminants in the manufacturing environment  impurities in the materials used  and the performance of personnel and equipment 
+as is common in the semiconductor industry  we have experienced  and may experience  from time to time  problems with achieving acceptable production yields and timely delivery from our foundry vendors 
+difficulties in production yields can often occur when we begin production of new products  when we transition to new processes  or when our principal wafer supplier  tsmc  moves production of a product from one manufacturing plant to another  or manufactures the same product at multiple factories 
+as a result of manufacturing defects  tsmc has also  from time to time  scrapped wafers  resulting in longer manufacturing lead times 
+further  production throughput times vary considerably among the various factories used by our wafer suppliers  and we may experience delays from time to time in processing some of our products 
+these difficulties and delays can potentially result in significantly higher costs and lower product availability 
+conditions outside the control of our independent subcontractors and distributors may impact their business operations and thereby adversely interrupt our manufacturing and sales processes 
+the economic  market  social  and political situations in countries where certain independent subcontractors and distributors are located are unpredictable  can be volatile  and can have a significant impact on our business because we may not be able to obtain or distribute product in a timely manner 
+market and political conditions  including currency fluctuation  terrorism  political strife  war  labor disruption  and other factors  including natural or man made disasters  adverse changes in tax laws  tariff  import or export quotas  power and water shortages  or interruption in air transportation  in areas where our independent subcontractors and distributors are located also could have a severe negative impact on our operating capabilities 
+for example  because we rely heavily on tsmc to produce a significant portion of our silicon wafers  earthquakes or other natural disasters in taiwan and asia generally could limit our supply of silicon wafers and thereby harm our business  financial condition  and results of operation 
+our business is subject to the risks of earthquakes and other catastrophic events 
+our corporate headquarters in san jose  california is located near major earthquake faults 
+some of our international facilities and those of our key suppliers  including tsmc  are also located near major earthquake faults 
+any catastrophic event  such as an earthquake or other natural disaster  could significantly impair our ability and the ability of our independent subcontractors to meet product design deadlines  maintain our records  pay our suppliers  or manufacture or ship our products 
+
+table of contents any prolonged disruption to our global communications infrastructure could impair our ability to plan factory activity and respond to customer demand 
+demand for our products is highly volatile  especially at the detailed ordering code level 
+to achieve short delivery lead times and superior levels of customer service  while maintaining low levels of inventory  we constantly adjust our manufacturing subcontractors production schedules 
+we develop and adjust these schedules based on end customer demand as placed on our distributors and based on our inventory levels  manufacturing cycle times  component lead times  and projected production yields 
+we aggregate and disseminate all of this information electronically over a complex global communications network 
+our ability to aggregate demand and to adjust our production schedules is highly dependent on this network  we have no manual back up 
+if a portion of this network were to experience a prolonged disruption or failure in service  our ability to plan factory activity and respond to demand would be impaired 
+the failure of our intellectual property rights to provide meaningful protection from our competitors could harm our competitive position 
+we rely significantly on patents to protect our intellectual property rights 
+we have increased investment in intellectual property protection in the last several years and  as of december  we owned more than  united states patents and foreign patents 
+we also have more than united states patent applications currently pending 
+our patents and patent applications may not provide meaningful protection from our competitors as the status of any patent involves complex legal and factual questions  and the breadth of claims allowed is uncertain 
+our competitors may be able to circumvent our patents or develop new patentable technologies that displace our existing products 
+in addition to patent protection  we rely on trademark  trade secret  copyright  and mask work laws to protect our unpatented proprietary information or technologies 
+despite our efforts to protect our proprietary rights from unauthorized use or disclosure  other parties  including our former employees or consultants  may attempt to disclose  obtain  or use our proprietary information or technologies without our authorization 
+if other companies obtain our proprietary information or technologies  or develop substantially equivalent information or technologies  they may develop products that compete against our products 
+moreover  the laws of certain countries in which our products are or may be developed  manufactured or sold may not protect our products and intellectual property rights to the same extent as the laws of the united states 
+policing the unauthorized use of our products is difficult and may result in significant expense to us and could divert the efforts of our technical and management personnel 
+even if we spend significant resources and efforts to protect our intellectual property  we may not be able to prevent misappropriation of our technology 
+use by others of our proprietary rights could materially harm our business and expensive litigation may be necessary in the future to enforce our intellectual property rights 
+intellectual property infringement claims could adversely affect our ability to manufacture and market our products 
+from time to time in the normal course of business  we receive inquiries from other parties with respect to possible patent infringements 
+as a result of these inquiries  it may be necessary or desirable for us to obtain licenses relating to one or more of our current or future products 
+we may not be able to obtain licenses on reasonable terms 
+additionally  license agreements may have set durations and or have limited license grants and therefore may not provide complete protection against infringement claims involving all of our current or future products 
+for example  the settlement agreement that we entered into with xilinx in july  which prohibited patent litigation between the two companies  expired in july if we are sued for patent infringement  the costs and outcome of litigation will be unpredictable and may have a negative impact on our financial results 
+intellectual property claims  regardless of their merit  can result in costly litigation and divert the efforts of our technical and management personnel 
+legal proceedings also tend to be unpredictable and may be affected by events outside of our control 
+if we are unsuccessful in defending against intellectual property infringement claims  we may be required to pay significant monetary damages or be subject to an injunction against the manufacture and sale of one or more of our product families 
+alternatively  we could be required to expend significant resources to develop non infringing technology  the success of which may be uncertain 
+intellectual property litigation may have an adverse effect on our financial position  results of operation  or cash flows 
+
+table of contents product quality problems could lead to reduced revenue  gross margins  and net income 
+we produce highly complex products that incorporate leading edge technology  including both hardware and software 
+our pre shipment testing programs may not detect all defects  either ones in individual products or ones that could affect numerous shipments 
+because we generally warrant our products for varying lengths of time against defects in materials and workmanship and non conformance to our specifications  we have on occasion been required to repair or replace certain components or refund the purchase price paid by our customers due to product defects 
+if there are material increases in customer claims or the costs to service warranty claims compared with our historical experience  our revenue  gross margins  and net income may be adversely affected 
+for example  an inability to cure a product defect in a timely manner could result in product reengineering expenses  increased inventory costs  or damage to our reputation  any of which could materially impact our revenue  gross margins  and net income 
+we may be subject to product liability claims 
+we sell to customers in the automotive  military  aerospace  avionics  medical equipment  and other industries where our devices are used in systems that could cause damage to property or persons if those systems were to fail 
+we may be subject to product liability claims if our devices are the cause of system failures 
+based on our historical experience  we believe that the risk of exposure to product liability claims is currently low 
+however  we will face increased exposure to product liability claims if there are substantial increases in both the volume of our sales into these applications and the frequency of system failures caused by our devices 
+we rely heavily on distributors to generate a significant portion of our sales and fulfill our customer orders 
+the failure of our distributors to perform as expected could materially reduce our future sales 
+worldwide sales through distributors accounted for of our total sales during we rely on many distributors to assist us in creating customer demand  providing technical support and other value added services to our customers  filling customer orders  and stocking our products 
+our contracts with our distributors may be terminated by either party in a relatively short period of time 
+our distributors are located all over the world and are of various sizes and financial conditions 
+lower sales  lower earnings  debt downgrades  the inability to access capital markets  and higher interest rates could potentially impact our distributors operations 
+we are highly dependent on arrow electronics  inc  in many locations across the world  particularly in north america 
+during  arrow electronics  inc on a worldwide basis accounted for approximately of total sales  while our next largest distributor accounted for approximately of total sales 
+at december   arrow accounted for of net accounts receivable  and no other distributor accounted for more than of net accounts receivable 
+our complex communications infrastructure limits our ability to add or replace distributors or manufacturing subcontractors 
+our distributors are contracted by altera to perform two primary  yet distinct functions for us 
+the first is logistics functions such as order entry  credit  forecasting  inventory management  and shipment of product to our end customers 
+the process of integrating systems to allow for electronic data interchange is complex and can be time consuming 
+the second function involves putting the necessary capability in place to create demand for our products at the engineering level 
+this mandates the training of the extended sales force of a distributor as well as the hiring and training of specialized applications engineers skilled in promoting and servicing products at the engineering level 
+other issues which contribute to the complexity of adding or replacing a distributor relate to the determination and stocking of acceptable inventory levels and the eventual customer acceptance necessary to place their business with that new distributor 
+the length of our design in and sales cycle could impact our ability to forecast future sales 
+our sales depend on our products being designed into our end customers products and those products achieving volume production 
+our products are very complex in nature  and the time from design in to volume production ranges from months to years or more 
+from initial product design in to volume production  many factors could impact the timing and or amount of sales actually realized 
+these factors include  but are not limited to  changes in the 
+table of contents competitive position of our technology  the competitiveness of our customers products in the markets they serve  our customers financial stability  customer program delays and cancellations  and our ability to ship products according to our customers schedule 
+our business is characterized by a general decline in selling prices of semiconductor products that may materially adversely affect our profitability 
+we have experienced and continue to experience a decrease in the selling prices of our products 
+we have attempted to offset the decrease in selling prices through manufacturing cost reductions  improving our yields  and increasing unit sales 
+however  there is no guarantee that our ongoing efforts will be successful or that they will keep pace with the anticipated  continued decline in selling prices of our products  which could ultimately lead to a decline in revenues and have a negative effect on our gross margins 
+because we depend on international sales for a majority of our total sales  we may be subject to political  economic and other conditions that could increase our operating expenses and disrupt our business 
+during each of the last three years  international sales were a majority of our total sales 
+during  international sales constituted approximately of our total sales 
+we expect that international sales will continue to account for a significant portion of our total sales 
+risks related to our foreign operations include unfavorable economic  market  political  and social conditions in a specific country or region  fluctuation in foreign currency exchange rates  adverse changes in tax laws  increased freight costs  interruptions in air transportation  reduced protection for intellectual property rights in some countries  generally longer receivable collection periods  and natural or man made disasters in a specific country or region where we sell our products 
+our business is also subject to the burdens of complying with a variety of foreign laws and risks associated with the imposition of legislation and regulations relating specifically to the importation or exportation of semiconductor products 
+quotas  duties  tariffs  taxes  or other charges  restrictions  or trade barriers may be imposed by the united states or other countries on the import or export of our products in the future 
+our business is subject to tax risks associated with being a multinational corporation 
+as a multinational corporation  we conduct our business in many countries and are subject to taxation in many jurisdictions 
+the taxation of our business is subject to the application of multiple and sometimes conflicting tax laws and regulations as well as multinational tax conventions 
+the application of tax law is subject to legal and factual interpretation  judgment  and uncertainty  and tax laws themselves are subject to change 
+consequently  taxing authorities may impose tax assessments or judgments against us that could result in a significant charge to earnings relating to prior periods and or an increase in our effective income tax rate 
+our gross margins are subject to fluctuations due to many factors 
+our gross margins may fluctuate depending on many factors  including  but not limited to  our product mix  market acceptance of our new products  competitive pricing dynamics  geographic and or market segment pricing strategies  changes in the mix of our business between prototyping and production based demand  and various manufacturing cost variables including product yields  wafer prices  package and assembly costs  provisions for excess and obsolete inventory  and absorption of manufacturing overhead 
+additionally  since the majority of our business books and ships on sales generated through our distributors within the same quarter  forecasting our gross margins is difficult 
+our financial results are affected by general economic conditions and the highly cyclical nature of the semiconductor industry 
+semiconductor companies  such as altera  experience significant fluctuations in sales and profitability 
+the semiconductor industry has been in the past significantly impacted by the economic downturn and business contractions in the market segments we operate 
+the down cycles can result in significant reductions in sales demand  excess customer inventories and price erosion 
+in addition  we may experience inventory write downs  especially if our inventory becomes out of mix with  or excess to  customer demand 
+in addition to reductions in sales  our industry profitability decreases during downturns as we may not be able to reduce expenses at the same rate as our sales decline 
+similarly  our gross margins tend to deteriorate and fluctuate during down cycles 
+
+table of contents as we carry only limited insurance coverage  any incurred liability resulting from uncovered claims could adversely affect our financial condition and operating results 
+our insurance policies may not be adequate to fully offset losses resulting from covered incidents 
+additionally  we do not have coverage for certain losses 
+we have made certain judgments regarding our existing insurance coverage that we believe are consistent with common practice and economic and availability considerations 
+if our insurance coverage is inadequate to protect us against unforeseen catastrophic losses  any uncovered losses could adversely affect our financial condition and operating results 
+we depend on independent subcontractors  located in asia  to assemble  test  and ship our semiconductor products 
+the failure of these subcontractors to satisfy our demand could materially disrupt our business 
+because we rely on independent subcontractors to assemble  test  and ship our semiconductor products  we cannot directly control our product delivery schedules or quality levels 
+we are dependent upon sufficient subcontractor assembly and test capacities  both in raw materials and services  to enable us to meet the demand for our own products 
+our future success also depends on the financial viability of our independent subcontractors 
+if market demand for subcontractor material and services exceeds available supply or if the subcontractors capital structures weaken  we may experience product shortages  quality assurance problems  and or increased manufacturing costs 
+we have been named as a party to several lawsuits related to our historical stock option practices and related accounting and reporting  and we may be named in additional litigation in the future  all of which could result in an unfavorable outcome and have a material adverse effect on our business  financial condition  results of operations  cash flows and the trading price for our securities 
+lawsuits are currently pending against certain of our current and former directors and officers relating to our historical stock option practices and related accounting and reporting 
+see part i  item legal proceedings and note legal proceedings for a more detailed description of these proceedings 
+under certain circumstances  we have contractual and other legal obligations to indemnify and to incur legal expenses on behalf of current and former directors and officers in connection with these lawsuits 
+these actions are in the preliminary stages  and their ultimate outcome could have a material adverse effect on our business and the trading price for our securities 
+litigation may be time consuming  expensive and disruptive to normal business operations  and the outcome of litigation is difficult to predict 
+the defense of these lawsuits may result in significant expenditures and the continued diversion of our management s time and attention from the operation of our business  which could impede our business 
+item b 
+unresolved staff comments 
+none 
+item properties 
+our headquarters facility is located on approximately acres of land that we own in san jose  california 
+the campus for the headquarters facility currently consists of four interconnected buildings totaling approximately  square feet 
+design  research  marketing  administrative  and limited manufacturing activities are performed in this facility 
+we also have a  square foot design and test engineering facility in penang  malaysia 
+this facility is situated on land leased on a long term basis 
+also  we lease our domestic and international offices  including our technology centers in the united kingdom  toronto  canada and ho chi minh  vietnam 
+we are making an additional investment in facilities having signed an agreement for the construction of a  square foot building to be built on land leased on long term basis near our existing facility in penang  malaysia 
+we expect completion of the building during the first quarter of fiscal we believe that our existing facilities and planned construction of the building in penang are adequate for our current and foreseeable future needs 
+item legal proceedings 
+we have been named as a party to several lawsuits concerning our historical stock option practices and related accounting and reporting 
+
+table of contents in may and july  we were notified that three shareholder derivative lawsuits had been filed in the superior court of the state of california  county of santa clara  by persons identifying themselves as altera shareholders and purporting to act on behalf of altera  naming altera corporation as a nominal defendant and naming some of our current and former officers and directors as defendants 
+on july   one of these derivative actions was voluntarily dismissed by the plaintiff shareholder 
+the remaining two derivative lawsuits pending in santa clara superior court were consolidated into a single action on september  plaintiffs filed a second amended consolidated complaint on december  on january   altera and the defendants filed a motion to stay this action pending resolution of the federal derivative action discussed below 
+there were no material developments in this action since january  the consolidated california state court action names altera corporation as a nominal defendant and the following current and former altera officers and directors as defendants john p 
+daane  nathan m 
+sarkisian  denis m 
+berlan  robert w 
+reed  robert j 
+finocchio  jr  kevin mcgarity  paul newhagen  william e 
+terry  susan wang  charles m 
+clough  rodney smith  michael b 
+jacobs  katherine e 
+schuelke  deborah reiman  michael j 
+ellison  c 
+wendell bergere  clive mccarthy  and peter smyth 
+plaintiffs assert claims against these individual defendants for breach of fiduciary duty  abuse of control  gross mismanagement  waste of corporate assets  unjust enrichment  violations of california corporation code sections and  breach of fiduciary duty for insider selling and misappropriation of information  rescission  constructive trust  accounting  and deceit 
+plaintiffs claims concern the granting of stock options by altera between and and the alleged filing of false and misleading financial statements between and all of these claims are asserted derivatively on behalf of altera 
+plaintiffs seek  among other relief  an indeterminate amount of damages from the individual defendants and a judgment directing altera to reform its corporate governance practices 
+during the months of may  june  and july  four other derivative lawsuits were filed by purported altera shareholders  on behalf of altera  in the united states district court for the northern district of california 
+on august   these actions were consolidated  and the plaintiffs filed a consolidated complaint on november  during the third quarter of  altera moved to dismiss this action for lack of standing and for failure to state a claim 
+a hearing on the motion was held in february  and the motion is currently pending before the court 
+among the defendants named in these derivative actions are altera corporation as a nominal defendant and the following current and former officers and directors of altera john p 
+daane  nathan m 
+sarkisian  denis m 
+berlan  robert w 
+reed  robert j 
+finocchio  jr  kevin mcgarity  paul newhagen  william e 
+terry  susan wang  charles m 
+clough  rodney smith  michael b 
+jacobs  katherine e 
+schuelke  john r 
+fitzhenry  deborah reiman  michael j 
+ellison  c 
+wendell bergere  clive mccarthy  and peter smyth 
+the consolidated complaint includes claims for violations of sections b  a  and a of the securities exchange act of  breach of fiduciary duty  corporate waste  gross mismanagement  unjust enrichment  abuse of control  insider selling and misappropriation of information  rescission  accounting  and violations of california corporation code sections and plaintiffs claims concern the granting of stock options by altera between and and the alleged filing of false and misleading financial statements between and item submission of matters to a vote of security holders 
+none 
+
+table of contents part ii item market for registrant s common equity  related stockholder matters  and issuer purchases of equity securities 
+our common stock trades on the nasdaq global market under the symbol altr 
+as of february   there were approximately stockholders of record 
+the majority of our shares are held by brokers and other institutions on behalf of approximately  stockholders as of february  the closing price of our common stock on february  was per share as reported by the nasdaq global market 
+the following table sets forth  for the periods indicated  the high and low closing sale prices for our common stock as reported by the nasdaq global market high low high low first quarter second quarter third quarter fourth quarter our policy has been to reinvest our earnings to fund future growth and to repurchase shares of our common stock 
+in fiscal  we initiated payment of a cash dividend and declared three quarterly cash dividends of per common share  for a total of per common share 
+on january   our board of directors declared a cash dividend of per common share payable on march  to stockholders of record on february  we periodically review our policy regarding share repurchases and cash dividends 
+equity compensation plan information information regarding our equity compensation plans  including both stockholder approved plans and non stockholder approved plans  will be contained in our definitive proxy statement with respect to our annual meeting of stockholders under the caption equity compensation plan information  and is incorporated by reference into this report 
+issuer purchases of equity securities during the fourth quarter of  we repurchased shares of our common stock as follows in thousands  except per share amounts total number of shares purchased average price paid per share total number of shares purchased as part of publicly announced plans or programs maximum number of shares that may yet be purchased under the plans or programs no shares were purchased outside of publicly announced plans or programs 
+we repurchase shares under our stock purchase program announced on july   which has no specified expiration 
+as of december   the board of directors had authorized  since the inception of the program  a total of million shares for repurchase 
+no existing repurchase plans or programs have expired  nor have we decided to terminate any repurchase plans or programs prior to expiration 
+we plan to continue making purchases under our stock purchase program 
+during  we entered into agreements pursuant to sec rule b under which we authorized third party brokers to purchase shares on our behalf during our normal blackout periods according to predetermined trading instructions 
+in addition  we may repurchase shares of our common stock under the guidelines of sec rule b 
+table of contents company performance the following graph shows a comparison  since december   of cumulative total return for altera  standard and poor s semiconductors sub industry index comparison of cumulative total return logo assumes invested on december  in our common stock  standard poor s index  standard and poor s semiconductors sub industry index 
+total return is based on historical results and is not intended to indicate future performance 
+total return assumes reinvestment of dividends for altera common stock  standard poor s index and standard and poor s semiconductors sub industry index 
+
+table of contents item selected consolidated financial data 
+following selected consolidated financial data should be read in conjunction with management s discussion and analysis of financial condition and results of operations and consolidated financial statements and related notes there to  five years ended in thousands  except per share amounts statements of income data net sales cost of sales gross margin research and development expenses selling  general  and administrative expenses income from operations interest and other  net income before income taxes provision for income taxes net income net income per share basic diluted shares used in computing net income per share basic diluted cash dividends per common share balance sheet data working capital total assets long term credit facility other non current liabilities stockholders equity book value per share in and cost of sales  research and development expenses and selling  general  and administrative expenses include the effect of the adoption of sfas no 
+r 
+see note stock based compensation to our consolidated financial statements for additional information 
+includes million of non current income taxes payable reclassified as non current in connection with the initial adoption of fin see note income taxes to our consolidated financial statements for additional information 
+
+table of contents item management s discussion and analysis of financial condition and results of operations 
+critical accounting estimates the preparation of our consolidated financial statements and related disclosures in conformity with accounting principles generally accepted in the united states us requires our management to make judgments and estimates that affect the amounts reported in our consolidated financial statements and accompanying notes 
+our management believes that we consistently apply these judgments and estimates and the consolidated financial statements and accompanying notes fairly represent all periods presented 
+however  any differences between these judgments and estimates and actual results could have a material impact on our consolidated statements of income and financial condition 
+critical accounting estimates  as defined by the securities and exchange commission sec  are those that are most important to the portrayal of our financial condition and results of operations and require our management s most difficult and subjective judgments and estimates of matters that are inherently uncertain 
+our critical accounting estimates include those regarding revenue recognition  valuation of inventories  income taxes  and stock based compensation 
+revenue recognition we sell our products to original equipment manufacturers  or oems  and to electronic components distributors who resell these products to oems  or their subcontract manufacturers 
+we sell more than of our products to distributors for subsequent resale to oems or their subcontract manufacturers 
+in almost all cases  sales to distributors are made under agreements allowing for returns and subsequent price adjustments  and we defer recognition of revenue until the products are resold by the distributor 
+our revenue reporting is highly dependent on receiving pertinent and accurate data from our distributors in a timely fashion 
+distributors provide us periodic data regarding the product  price  quantity  and end customer when products are resold as well as the quantities of our products they still have in stock 
+because the data set is so large and because there are errors in the reported data  we must use estimates and apply judgments to reconcile distributors reported inventories to their activities 
+any error in our judgment could lead to inaccurate reporting of our revenues  deferred income and allowances on sales to distributors  and net income 
+valuation of inventories inventories are recorded at the lower of cost determined on a first in first out basis approximated by standard cost or market 
+we establish provisions for inventory if it is in excess of projected customer demand  and the creation of such provisions results in a write down of inventory to net realizable value and a charge to cost of goods sold 
+historically  it has been difficult to forecast customer demand especially at the part number level 
+many of the orders we receive from our customers and distributors request delivery of product on relatively short notice and with lead times less than our manufacturing cycle time 
+in order to provide competitive delivery times to our customers  we build and stock a certain amount of inventory in anticipation of customer demand that may not materialize 
+moreover  as is common in the semiconductor industry  we allow customers to cancel orders with minimal advance notice 
+thus  even product built to satisfy specific customer orders may not ultimately be required to fulfill customer demand 
+we routinely compare our inventory against projected demand and record provisions for excess and obsolete inventories as necessary 
+however  actual demand may materially differ from our projected demand  and this difference could have a material impact on our gross margin and inventory balances based on additional provisions for excess or obsolete inventory or a benefit from inventory previously written down 
+income taxes we make certain estimates and judgments in the calculation of tax liabilities and the determination of net deferred tax assets  which arise from temporary differences between tax and financial statement recognition methods 
+we record valuation allowances  when necessary  to reduce our deferred tax assets to the amount that management estimates is more likely than not to be realized 
+if in the future we determine that we are not likely to realize all or part of our net deferred tax assets  an adjustment to the deferred tax asset valuation allowance would be recorded as a charge to earnings in the period such determination is made 
+in addition  the calculation of our tax liabilities involves the inherent uncertainty associated with the application of complex tax laws 
+we are subject to examination by various taxing authorities 
+we believe we have adequately provided in our financial statements for additional taxes that we estimate under fin  accounting for uncertainty in 
+table of contents income taxes  may be required to be paid as a result of such examinations 
+if the payment ultimately proves to be unnecessary  the reversal of the tax liabilities would result in tax benefits being recognized in the period we determine the liabilities are no longer necessary 
+if an ultimate tax assessment exceeds our estimate of tax liabilities  an additional charge to expense will result 
+see note income taxes to our consolidated financial statements for additional information 
+we calculate our current and deferred tax provision based on estimates and assumptions that could differ from the actual results reflected in income tax returns filed 
+adjustments for differences between our tax provisions and tax returns are recorded when identified  which is generally in the third or fourth quarter of our subsequent year 
+stock based compensation we account for stock based compensation in accordance with the provisions of statement of financial accounting standards sfas no 
+revised  share based payment sfas r 
+under the fair value recognition provisions of sfas r  stock based payment expense is estimated at the grant date based on the fair value of the award and is recognized as expense ratably over the requisite service period of the award 
+determining the appropriate fair value model and calculating the fair value of stock based awards requires judgment  including estimating stock price volatility  forfeiture rates and expected life 
+upon adoption of sfas no 
+r on december   we selected the black scholes option pricing model as the most appropriate method for determining the estimated fair value for stock based awards 
+the black scholes model requires the use of highly subjective and complex assumptions which determine the fair value of stock based awards  including the option s expected term and the price volatility of the underlying stock 
+our current estimate of volatility is based on a blend of average historical and implied volatility for publicly traded options on our stock with a term of one year or more 
+to the extent volatility of our stock price increases in the future  our estimates of the fair value of options granted in the future could increase  thereby increasing stock based payment expense in future periods 
+in addition  we apply an expected forfeiture rate when amortizing stock based payment expense 
+our estimate of the forfeiture rate is based primarily upon our historical experience 
+to the extent we revise this estimate in the future  our stock based payment expense could be materially impacted in the quarter of revision  as well as in following quarters 
+we derive the expected term assumption based on our historical settlement experience 
+in the future  as empirical evidence regarding these input estimates is available to provide more directionally predictive results  we may change or refine our approach of deriving these input estimates 
+these changes could impact our fair value of stock options granted in the future 
+see note stock based compensation to our consolidated financial statements for further information regarding the valuation of stock based compensation 
+executive overview company and market overview we are a global semiconductor company  serving over  customers in communications  computer and storage  industrial  and consumer market segments 
+we design  manufacture  and market programmable logic devices  or plds  hardcopy application specific integrated circuit  or asic  devices  pre defined design building blocks known as intellectual property  or ip  cores  and associated development tools 
+plds are semiconductor integrated circuits that are built as standard chips that customers program to perform desired logic functions within their electronic systems 
+our plds consist of field programmable gate arrays  or fpgas  and complex programmable logic devices  or cplds 
+approximately of our revenue is generated from the sales of our plds 
+the majority of the remainder of our revenue is derived from the sale of our hardcopy devices  which enable our customers to move from a high density fpga to a low cost  high volume non programmable implementation of their designs  the sale of configuration devices used in conjunction with our fpgas  and the licensing of ip cores and proprietary development tools 
+our ip cores enable customers to easily implement standard functions in their pld designs  and our development tools are necessary to program our plds 
+market opportunity we believe that the greatest opportunity for our growth is displacing asics and application specific standard products assps 
+we estimate based on publicly available data  and with information derived from gartner dataquest  that the pld market was approximately billion in  whereas the digital logic market  consisting primarily of 
+table of contents asics and assps  amounted to approximately billion 
+because plds can be quickly programmed by the customer to perform the specific function the customer desires  we believe that plds provide greater advantages in flexibility  development cost  and time to market than asic and assp alternatives 
+however  plds generally have a higher cost structure than these alternatives 
+thus plds are particularly favored in applications where there is a substantial premium afforded to time to market and in end applications where unit volumes are low 
+because of the relatively higher cost of plds  customers often use plds for their system development and prototyping and then use asic technology in volume production 
+due to greater architectural innovation and faster adoption of advanced process technology  we believe that customers will increasingly favor plds over asics and assps 
+we believe that advances in pld technology and in semiconductor manufacturing technology in general are lowering the relative cost  performance and power consumption differential between plds and fixed chip alternatives  we have been and can continue to be increasingly successful in selling plds into applications and markets that have been traditionally served by asics and assps  and we can compete successfully for customers volume production needs as well as their initial prototyping and development needs 
+the pld market peaked at approximately billion in and declined over the next two years to approximately billion in from to  the pld market has grown with a compound average growth rate of approximately 
+due to the broad customer base for pld vendors  and the diverse market segments that they serve  future growth rates for the pld market are difficult to forecast and they may be lower than in recent years 
+pld market growth will be driven by the rate at which pld vendors can grow their customer base in both prototyping and production opportunities 
+the two leading pld vendors serve an extremely large and diverse customer base and the opportunity to expand the number of customers may be limited 
+as a result  a critical objective for pld vendors is not simply to add more prototyping customers  but rather to penetrate customers and end markets in high volume applications 
+the pld vendors ability to access higher levels of production volume is contingent upon several factors  including their ability to offer cost effective solutions versus asic and assp products 
+publicly available data suggests that the number of asic design starts is in decline and the amount of pld logic consumed is growing rapidly 
+at the same time  the price per effective unit of logic of plds has declined at a rate that partially offsets the increase in the amount of pld logic consumed 
+in the future  as pld vendors seek penetration into high volume applications by offering lower cost devices  we expect the price per effective unit of logic to continue to decrease and partially offset revenue increases driven by higher pld logic consumption 
+competing for design wins we compete with other pld vendors to displace fixed chip logic alternatives and for market share within the pld market 
+the programmable logic market is highly concentrated with two vendors accounting for a majority of the total market ourselves and xilinx  inc competition between pld vendors is most intense in the design win phase of the customer s design 
+a design win occurs when a customer selects a particular vendors product for use in the customer s electronic system 
+because each pld vendor s product offering is proprietary  the cost to switch pld devices after a system has been designed and prototyped is very high 
+therefore  a design win can provide the pld vendor with a profitable revenue stream through the life of the customer s program 
+from the time a design win is secured  it can be as long as two years  and sometimes longer  before a customer starts the volume production of its system 
+typically  a pld vendor for a particular application is selected relatively early in a customer s design program 
+it may take several years from that point before the customer has completed its entire system design  built prototypes  sampled the marketplace for customer acceptance  made any modifications  and established volume manufacturing capacity 
+thus  movements in pld market share often occur some time after the change in relative competitiveness that gave rise to the market share shift 
+because of this time lag  market share is a lagging indicator of relative competitive strength 
+because it is extremely difficult to forecast the degree of success and timing of customers programs  and because the end markets are so fragmented we have over  pld customers  it is difficult even for pld vendors to gauge their own competitive strength in securing design wins as of a particular point in time 
+developing competitive products a pld vendor s ability to secure design wins and to maintain or increase market share is highly dependent on the cost and quality of the pld vendor s products  particularly the effectiveness and reliability of a pld vendor s proprietary development software 
+all pld vendors provide proprietary development software at little or no cost to the customer 
+
+table of contents the software  working in tandem with device logic architecture and features  creates the functionality desired by the customer 
+as customers gain familiarity with a particular pld vendor s software  there is often an increasing likelihood that the customer will want to use that same software again in another design  giving that pld vendor a potential advantage as the next system is designed 
+we develop our software in parallel with device development  and there are schedule and integration risks between the two processes 
+if we fail to create adequate software to support our new devices as they are introduced  we weaken our competitive position  which can have long lasting effects if customers switch to competing solutions and become less familiar and less skilled in using our software 
+we focus the majority of our research and development resources on new generation fpga devices because increasing market share in the fpga sub segment is important to our long term growth and profitability 
+due to the higher integration density and lower cost per function  the fpga sub segment has outgrown the cpld sub segment in recent times  and it is generally accepted by participants and observers of the industry that this trend will continue 
+since the initial introduction of our stratix and cyclone fpga families in  we have introduced several more fpga families  including the stratix ii  stratix ii gx  stratix iii  cyclone ii  cyclone iii and arria gx families 
+as a result of these product introductions  we estimate based on publicly available data  and with information derived from gartner dataquest  that our fpga market share versus our main competitor has increased from percent in to percent in our current overall pld market share is percent 
+adding to our stratix fpgas is our hardcopy family of asics 
+we first shipped hardcopy devices in  offering to our customers low cost  non programmable production devices that use our highest density fpgas as an integrated development vehicle 
+the conversion from the fpga is virtually seamless and requires very little additional customer engineering 
+hardcopy devices are targeted specifically at those applications and customers that have used plds for prototyping and development and traditional cell based asics from other vendors for their volume production needs 
+in  our hardcopy device revenues were less than percent of total revenues and we believe hardcopy may increase as a percentage of revenues over the long term 
+the presence of a hardcopy conversion path for high density designs differentiates our fpga offering competitively 
+since  we have introduced newer versions of the hardcopy family to support newer generations of fpgas 
+our approach is unique in the industry and may under perform our expectations 
+as we develop new generations of fpgas  we may create parallel hardcopy devices  which would entail ongoing engineering effort and expense 
+in  we improved our cpld offering with the introduction of the max ii family and in we introduced the max iiz family 
+the max ii products offer pricing and features that we believe are competitively attractive  with economics  performance  power consumption and density that are superior to our previous offerings 
+since the unit price of these devices is low compared to our other new products  we will need to ship substantial unit quantities to increase market share in the cpld market 
+an fpga family typically reaches peak sales four to five years after product introduction 
+as a result  the original stratix and cyclone families we introduced in  which comprised approximately percent of total sales in  may be at or near peak sales 
+we believe the products we introduced from to have yet to reach peak sales  but will eventually experience sales declines 
+for us to improve or even sustain our rate of growth  we must successfully introduce successor generations of devices 
+to the degree other pld vendors have improved or will improve the competitiveness and execution of their products  our ability to improve our rate of growth may be impaired 
+within the next several quarters  we plan to ship newer families of fpga devices using more advanced production techniques that will further improve product performance and lower cost 
+our foundry partner  taiwan semiconductor manufacturing company tsmc  will manufacture these die using production processes that are new to the industry 
+given the extreme complexity of semiconductor fabrication  tsmc may encounter difficulties that could delay our product launch or limit supply so that we would be unable to meet customer commitments 
+we may discover manufacturing errors after we begin shipping  which would harm customer relations and cause us to incur additional unforeseen costs 
+simultaneous introduction of new pld architectures and ramp of new technology processes are inherently risky 
+diagnosing failures  identifying root causes  and implementing corrective actions in a production wafer fabrication facility are expensive and time consuming processes 
+we may not successfully commercialize our new products  or our new products may not enable us to maintain or increase market share 
+some of our competitive offerings may be offered later than the competition and it is possible that our competitive offerings will be less effective  thus weakening our market share 
+
+table of contents it is also possible that our primary competitor may have secured design wins that  when they enter production  will reverse some of our current market share success 
+our main competitor is larger in size with more sales resources  and we may not enjoy the same success that we saw with previous fpga generations 
+customer intimacy and cost optimized product strategy in general  we rely on interaction with our customers to gain product development insights  and we make development decisions years before a product begins to ship 
+we have been able to gain market share on the strength of our product definition methodology and the successful rollout of new products 
+however  because our products are complex  we assume considerable risk with every new product introduction 
+if we misinterpret customer requirements or changes in demand  our products may become uncompetitive 
+our competitors are knowledgeable and skilled and  in some cases  larger than we are 
+since it is difficult to gauge competitive success until the design win phase is well underway  it may be too late to make any changes to a generation of products if those products are uncompetitive 
+if a generation of our products is uncompetitive and we lose market share  regaining customers subsequently is very challenging 
+since and following the semiconductor industry correction  our strategy to displace asics and assps has emphasized the development of cost optimized products 
+these products have contributed to growth across all of our market segments and are increasingly being used by our customers in production volumes  not just as prototyping or low volume solutions 
+production volumes vary by industry  but customers buying our products for use in production volumes expect lower unit pricing 
+consequently  our business today is subject to a wider range of gross margins than the range of gross margins associated with a less diverse  largely prototyping business 
+depending on the mix of high and low volume business  our gross margins can vary more quarter to quarter than in the past 
+since the majority of our business books and ships in the same quarter  forecasting our gross margins has also become more difficult 
+while we believe that growth will occur across all of our market segments  our gross margins could move upward or downward if our growth pattern favors a low volume or high volume market segment 
+results of operations results of operations expressed as a percentage of net sales were as follows years ended december  december  december  net sales cost of sales gross margin research and development expenses selling  general  and administrative expenses income from operations interest and other  net provision for income taxes net income we classify our products into three categories new  mainstream  and mature and other products 
+the composition of each product category is as follows new products include the stratix ii  stratix iii  stratix ii gx  arria gx  cyclone ii  cyclone iii  max ii  hardcopy  and hardcopy ii devices  mainstream products include the stratix  stratix gx  cyclone  and max a devices  and mature and other products include the classic  max  max a  max b  max s  max  flex  flex  flex k  flex ka  flex ke  apex k  apex ke  apex kc  apex ii  acex k  mercury  excalibur  configuration and other devices  intellectual property cores  and software and other tools 
+in january  we changed our product categories new  mainstream and mature and other products 
+all prior period data has been adjusted to conform to the current classification 
+
+table of contents sales overview net sales were billion in  billion in  and billion in net sales decreased in from  and increased in from sales in were driven by four primary business dynamics strong double digit growth in new products  which was more than offset by declines in the mainstream and mature product categories pld expansion into new applications across all four major market segments  enabled by advances in technology and performance increasing programmable content in electronic systems and displacement of alternative products rising demand in emerging markets despite the favorable long term growth dynamics for programmable logic devices  sales in were characterized by lackluster demand in the communications and computer and storage market 
+our industrial segment grew but below the projected long term growth rate 
+our consumer segment  however  grew substantially as altera s new product offerings gained traction in a number of digital media applications 
+the increase in net sales in was driven by sales of our new products which increased year over year predominantly due to higher sales of our stratix ii and cyclone ii families 
+our sales reflected higher unit sales of new and mainstream products  with new product unit sales increasing the most 
+during  the communications  industrial and computer and storage market segments grew as a result of increased customer demand and penetration into new applications 
+no single end customer provided more than of our total sales for any of the fiscal years ended   or sales by product category sales by product category were as follows years ended annual growth rate december  december  december  new mainstream mature and other total sales sales by market segment the following market segment data is derived from data that is provided to us by our distributors and end customers 
+with a broad base of customers  who in some cases manufacture end products spanning multiple market segments  the assignment of revenue to a market segment requires the use of estimates  judgment  and extrapolation 
+as such  actual results may differ from those reported 
+sales by market segment were as follows years ended annual growth rate december  december  december  communications industrial consumer computer and storage total sales 
+table of contents sales of fpgas and cplds our plds consist of fpgas and cplds 
+fpgas consist of our stratix families  arria gx  cyclone families  apex  flex  acex  excalibur  and mercury families  and cplds consist of our max  max ii  and classic families 
+our other products consist of hardcopy  hardcopy ii and other masked programmed logic devices  configuration devices  software and other tools and intellectual property cores 
+our sales of fpgas  cplds  and other products were as follows years ended annual growth rate december  december  december  fpga cpld other total sales sales by geography the following table is based on the geographic location of the distributors or the oems who purchased our products 
+for sales to our distributors  their geographic locations may be different from the geographic locations of the ultimate end users 
+sales by geography were as follows years ended annual growth rate december  december  december  north america asia pacific europe japan total international total sales gross margin years ended december  december  december  gross margin percentage gross margin percentages declined in compared to primarily as a result of market segment mix 
+gross margin rates are heavily influenced by both market segment mix and the timing of material cost improvements 
+while these variables will continue to fluctuate on a quarterly basis  the company is targeting a gross margin over the long term 
+we believe the gross margin target affords the company the right mix of growth opportunities across all served markets 
+gross margin percentages declined in compared to primarily due to a reduction in the amount of benefit from previously written down inventory 
+stock based compensation expense recognized in and  and included in cost of sales  had an immaterial impact on our gross margin 
+
+table of contents research and development expenses years ended dollars in millions december  december  december  vs 
+change vs 
+change research and development percentage of net sales research and development expenses include expenditures for labor and benefits  stock based compensation expense  masks  prototype wafers  depreciation and amortization 
+these expenditures are for the design of new pld and asic families  the development of process technologies  new package technology  software to support new products and design environments  and ip cores 
+also included in research and development expenses is the mark to market impact of the altera non qualified deferred compensation plan nqdc plan of million in  million in  and million in  which is completely offset in interest and other  net 
+research and development expenses increased million in compared to primarily due to increased labor costs and increased spending on masks and prototype wafers  partially offset by a decrease in stock based compensation expense 
+spending on masks and prototype wafers increased by million in due to new product launches 
+stock based compensation expense decreased by million to million in compared to during the fourth quarter of  we recorded a million restructuring charge  of which million was related to employee severance costs 
+research and development expenses increased million in compared to primarily due to increased stock based compensation expense resulting from our adoption of sfas r effective december  the stock based compensation expense classified as research and development expense was million in  compared to zero in research and development expenses also increased year over year due to higher spending on labor and benefit costs due to increased headcount 
+historically  the level of our research and development expenses has fluctuated in part due to the timing of the purchase of masks and prototype wafers used in the development of new products 
+we will continue to make significant investments in the development of new products and focus our efforts on the development of new programmable logic devices that utilize advanced semiconductor wafer fabrication processes  as well as related development software 
+we are currently investing in the development of our stratix iii  and cyclone iii families  our quartus ii software  our library of ip cores  and other future products 
+selling  general  and administrative expenses years ended dollars in millions december  december  december  vs 
+change vs 
+change selling  general  and administrative percentage of net sales selling  general  and administrative expenses primarily include labor and benefit expenses related to sales  marketing  and administrative personnel  stock based compensation expense for those personnel  commissions and incentives  depreciation  legal  advertising  facilities  and travel expenses 
+also included in selling  general  and administrative expenses is the mark to market impact of our nqdc plan of million in  million in  and million in which is completely offset in interest and other  net 
+selling  general  and administrative expenses decreased by million in compared to the decrease was primarily due to our goal of increasing efficiency and cost reductions in areas including but not limited to legal and consulting services  commissions and incentives and lower stock based compensation expense  partially offset by an increase in labor costs 
+legal and consulting costs decreased by million in due primarily to the absence of costs related to the stock option investigation carried out in benefit costs declined by million in as a result of lower incentives and annual bonuses 
+stock based compensation expense decreased by million to 
+table of contents million in compared to during the fourth quarter of  we recorded a million restructuring charge  of which million was related to employee severance costs 
+selling  general  and administrative expenses increased by million in compared to the increase was primarily due to an increase in stock based compensation expense resulting from our adoption of sfas r effective december  the stock based compensation expense classified as selling  general  and administrative expense increased to million in  compared to million in selling  general and administrative expenses increased year over year also due to higher labor and benefit costs as we added sales and marketing personnel to drive our revenue growth  higher consulting expenses relating to the implementation of a new enterprise resource planning erp system  and higher professional fees of approximately million associated with our stock option investigation  financial statement restatement  and related litigation 
+interest and other  net years ended dollars in millions december  december  december  vs 
+change vs 
+change interest and other  net percentage of net sales interest and other  net consists mainly of interest income generated from investments in high quality fixed income securities  as well as the mark to market impact of our nqdc plan of million in  million in  and million in  offset by interest expense for capital leases and our long term credit facility 
+interest and other  net increased by in compared to primarily as a result of higher investment yields 
+interest and other  net increased by in compared to primarily as a result of higher investment yields and higher cash and investment balances 
+provision for income taxes our effective tax rate reflects the impact of significant amounts of our income being taxed in foreign jurisdictions at rates substantially below the us statutory rate 
+our effective tax rates were for  for  and for the increase in our effective tax rate in compared to was due to a one time tax benefit in for closure of a foreign tax examination  a change in the geographical mix of income  and a decrease in tax exempt income as a percentage of total income in our effective tax rate also included an additional income tax provision related to the repatriation of foreign earnings under the american jobs creation act of ajca  partially offset by an income tax benefit from the settlement of federal and california income tax audits 
+financial condition  liquidity  credit facility and capital resources years ended dollars in millions december  december  cash and cash equivalents short term investments long term investments total cash  cash equivalents  and investments percentage of total assets net cash provided by operating activities net cash provided by used for investing activities net cash used for financing activities net increase decrease in cash and cash equivalents 
+table of contents liquidity we derive our liquidity and capital resources primarily from our cash flows from operations and long term credit facility 
+we continue to generate positive operating cash flows 
+we currently use cash from operations and from our credit facility for repurchases of our common stock  cash dividends  and capital expenditures 
+based on past performance and current expectations  we believe our current available sources of funds including cash  cash equivalents  investments  and credit facility  plus anticipated cash generated from operations  will be adequate to finance our operations  stock repurchases  cash dividends and capital expenditures for at least the next year 
+during the fiscal we announced restructuring of our operations  with total restructuring cost of million 
+we do not expect the restructuring to have material impact on our liquidity 
+year on august   the company entered into a five year million unsecured revolving credit facility which is also available for future cash requirements 
+as of december   we have borrowed million using this credit facility 
+we classified the credit facility as long term as of december  the applicable interest rate on the long term credit facility was at december  as at december  we are in compliance with all covenants related to the long term credit facility 
+during the twelve months ended december   we used billion of cash for the repurchase of shares of our common stock  compared to million in we intend to repurchase up to billion of our common stock from the beginning of through the first half of we used million of cash for capital expenditures in  compared to million in capital expenditures in were primarily for the implementation of a new erp system  research and development assets 
+as of december   we have spent approximately million on the erp implementation of which million represents capital expenditures included in property and equipment  net on our consolidated balance sheet as at december  the total planned expenditures for our erp implementation are estimated to be approximately million 
+the new erp system became operational for our us and certain other international offices in july of during the twelve months ended december   we paid out cash dividends of million 
+our dividend policy could be impacted in the future by  among other items  our views on potential future capital requirements relating to research and development  investments and acquisitions  legal risks  common stock repurchases  and other strategic investments 
+on january   the company entered into an agreement for approximately million for the construction of a building adjacent to our current facility in penang  malaysia 
+completion of the building is expected during the first quarter of fiscal cash flows our positive cash flows from operating activities for the fiscal year ended december  were primarily attributable to net income of million  adjusted for non cash items including stock based compensation expense of million  depreciation and amortization of million  offset by outflows of million from changes in our working capital  excluding cash 
+outflows from our changes in non cash working capital were due primarily to an increase in accounts receivable balance of million related to the timing of distributor billings in  a million increase in other assets partially offset by a million decrease in deferred income and allowances on sales to distributors as a result of decreased shipments into the channel and a million decrease in inventories 
+cash provided by investing activities for the fiscal year ended december  primarily consisted of proceeds from the maturities and sales of available for sale investments of million  offset by purchases of available for sale investments of million  and capital expenditures of million 
+cash used for financing activities for the fiscal year ended december  consisted of repurchases of common stock of billion  dividend payments of million  which were partially offset by proceeds from the credit facility of million and net proceeds of million from the issuance of common stock to employees through our stock option and employee stock purchase plans 
+year in  we spent million to repurchase our common stock  compared to million in the decrease was due to the temporary suspension of our stock repurchase program during may to october which was necessitated by our failure to timely file our periodic reports as a result of the restatement of our consolidated financial statements in connection with our internal stock option investigation 
+we spent million on capital expenditures in  compared to million in 
+table of contents cash flows our positive cash flows from operating activities for the fiscal year ended december  were primarily attributable to net income of million  adjusted for non cash items including stock based compensation expense of million  depreciation and amortization of million  and cash inflows of million from changes in our working capital  excluding cash 
+non cash working capital changes primarily included a million increase in deferred income and allowances on sales to distributors as a result of increased shipments into the channel  offset by a million increase in inventories and million increase in other assets 
+cash used for investing activities for the fiscal year ended december  primarily consisted of purchases of available for sale investments  net of proceeds from the maturities and sales of available for sale investments of million  and capital expenditures of million 
+cash used for financing activities for the fiscal year ended december  consisted of repurchases of common stock of million  which was partially offset by net proceeds of million from the issuance of common stock to employees through our stock option and employee stock purchase plans 
+contractual obligations the following table summarizes our significant contractual cash obligations at december   and the effect that such obligations are expected to have on liquidity and cash flows in future periods payments due by period dollars in millions total less than year years years more than years operating lease obligations capital lease obligations wafer purchase obligations long term credit facility interest on long term credit facility other non current liabilities total contractual cash obligations we lease facilities under non cancelable lease agreements expiring at various times through rental expense under all operating leases amounted to million in  million in  and million in due to lengthy subcontractor lead times  we must order materials from these subcontractors well in advance  and we are obligated to pay for the materials once they are completed 
+we expect to receive and pay for these materials in interest is based on the outstanding credit facility balance and rate in effect at december  the contractual amounts to be paid are affected by changes in market interest rates 
+future changes in market interest rates could materially affect the contractual amounts to be paid 
+we sponsor a retiree medical plan providing medical benefits to eligible retirees and their spouses 
+benefits are available to employees hired on or before july  who retires from altera at or after age if they have at least years of service 
+effective january   future participation is also limited to existing employees who were age or older as of january  in addition  we provide a defined benefit retirement plan to our japan employees 
+we also offer to our u 
+s and non us employees participation in the service award program sap 
+the sap provides employees with one to three weeks of additional paid vacation upon their attainment of five  ten  fifteen  twenty and twenty five year service anniversaries 
+due to the uncertainty with respect to the timing of future cash flows associated with our unrecognized tax benefits at december   we are unable to make reasonably reliable estimates of the period of cash settlement with the respective taxing authority 
+therefore  million of unrecognized tax benefits classified as income tax payable non current in the accompanying consolidated balance sheet as of december   have been excluded from the contractual obligations table above 
+see note income taxes to our consolidated financial statements for a discussion on income taxes 
+in addition to these leases and purchase obligations  in the normal course of business  we enter into a variety of agreements and financial commitments 
+it is not possible to predict the maximum potential amount of future payments under these or similar agreements due to the conditional nature of our obligations and the unique facts and circumstances involved in each particular agreement 
+historically  payments pursuant to such agreements have not been material 
+we believe that any future payments required pursuant to such agreements would not be material to our financial condition or results of operations 
+
+table of contents impact of currency translation and inflation we purchase the majority of our materials and services in us dollars and sell our products to oems and distributors in us dollars 
+as of december   we had no open forward contracts 
+in january we have entered into foreign exchange forward contracts for approximately million to purchase malaysian ringgit 
+these contracts are intended to reduce our exposure to foreign currency rate changes related to the building construction cost for our new proposed facility in penang  malaysia 
+we do not enter into foreign exchange transactions for trading or speculative purposes 
+common stock repurchases since the inception of our stock repurchase program in through december   our board of directors has authorized million shares for repurchase and we have repurchased a total of million shares of our common stock for an aggregate cost of billion 
+all shares were retired upon acquisition 
+on december   million shares remained authorized for repurchases under our stock repurchase program 
+common stock repurchase activities for   and were as follows in millions  except per share amounts shares repurchased cost of shares repurchased average price per share during  we entered into agreements pursuant to sec rule b under which we authorized third party brokers to purchase shares on our behalf during our normal blackout period according to predetermined trading instructions 
+in addition  we have repurchased shares of our common stock under the guidelines of sec rule b off balance sheet arrangements as of december   we did not have any off balance sheet arrangements  as defined in item a ii of sec regulation s k 
+new accounting pronouncements in december  the financial accounting standards board fasb issued sfas no 
+revised  business combinations sfas r 
+sfas r establishes principles and requirements for how an acquirer recognizes and measures in its financial statements the identifiable assets acquired  the liabilities assumed  any noncontrolling interest in the acquiree and the goodwill acquired 
+sfas r also establishes disclosure requirements to enable the evaluation of the nature and financial effects of the business combination 
+sfas r is effective for fiscal years beginning after december   and will be adopted by us in the first quarter of fiscal we are currently evaluating the potential impact  if any  of the adoption of sfas r on our consolidated balance sheet  statement of income and statement of cash flows 
+in december  the fasb issued sfas no 
+ noncontrolling interests in consolidated financial statements an amendment of accounting research bulletin no 
+sfas no 
+
+sfas no 
+establishes accounting and reporting standards for ownership interests in subsidiaries held by parties other than the parent  the amount of consolidated net income attributable to the parent and to the noncontrolling interest  changes in a parent s ownership interest  and the valuation of retained noncontrolling equity investments when a subsidiary is deconsolidated 
+sfas no 
+also establishes disclosure requirements that clearly identify and distinguish between the interests of the parent and the interests of the noncontrolling owners 
+sfas no 
+is effective for fiscal years beginning after december   and will be adopted by us in the first quarter of fiscal we are currently evaluating the potential impact  if any  of the adoption of sfas no 
+on our consolidated balance sheet  statement of income and statement of cash flows 
+in february  fasb issued statement of financial accounting standards no 
+ the fair value option for financial assets and financial liabilities sfas 
+sfas no 
+expands the use of fair value accounting but does not affect existing standards which require assets or liabilities to be carried at fair value 
+the objective of sfas no 
+is to improve financial reporting by providing companies with the opportunity to mitigate volatility in reported earnings caused by measuring related assets and liabilities differently without having to apply complex hedge accounting provisions 
+under sfas no 
+ a company may elect to use fair value to measure eligible items at specified election dates and report unrealized gains and losses on items for which the fair value option has been elected in earnings at each subsequent reporting date 
+eligible items include  but are not limited to  accounts and loans receivable  available for sale and held to maturity securities  equity method investments  accounts payable  guarantees  
+table of contents issued debt and firm commitments 
+if elected  sfas no 
+is effective for fiscal years beginning after november  we are currently assessing whether fair value accounting is appropriate for any of our eligible items and cannot estimate the impact  if any  on our consolidated balance sheet  statement of income or statement of cash flows 
+in september  the fasb issued statement of financial accounting standards no 
+ fair value measurements sfas 
+sfas establishes a framework for measuring fair value and expands disclosures about fair value measurements 
+the changes to current practice resulting from the application of sfas relate to the definition of fair value  the methods used to measure fair value  and the expanded disclosures about fair value measurements 
+sfas is effective for fiscal years and interim periods beginning after november  we do not believe that the adoption of the provisions of sfas will materially impact our consolidated balance sheet  statement of income or statement of cash flows 
+in july  the fasb issued fasb interpretation no 
+ accounting for uncertainty in income taxes an interpretation of sfas fin 
+fin prescribes a comprehensive model for recognizing  measuring  presenting and disclosing in the financial statements tax positions taken or expected to be taken on a tax return  including a decision whether to file or not to file in a particular jurisdiction 
+fin is effective for fiscal years beginning after december  we adopted the provisions of fin on december   the first day of our fiscal year 
+on may  the fasb issued fasb staff position no 
+fin  definition of settlement in fasb interpretation no 
+fsp fin 
+fsp fin provides guidance on how an entity should determine whether a tax position is effectively settled for the purpose of recognizing previously unrecognized tax benefits 
+the adoption of fin did not have any impact on our condensed consolidated statement of income or statement of cash flows 
+the effect of adoption of fin on our consolidated balance sheet as at december  is summarized in note income taxes 
+subsequent events on january   we entered into an agreement for approximately million for the construction of a building adjacent to our current facility in penang  malaysia 
+completion of the building is expected during the first quarter of fiscal on january   our board of directors declared a cash dividend of per common share payable on march  to stockholders of record on february  in january  we entered into foreign exchange forward contracts for approximately million to purchase malaysian ringgit 
+on february   we completed the sale of approximately acres of land located in santa clara county  california 
+we received net proceeds of approximately million from the sale  and will record a gain of approximately million 
+on february   we borrowed an additional million under our long term credit facility 
+item a 
+quantitative and qualitative disclosures about market risk investment and interest rate risk the primary objective of our investment activities is to preserve principal while at the same time maximizing yields without significantly increasing risk 
+we maintain investment portfolio holdings of various issuers  types and maturity dates totaling billion as of december  the market value of these investments on any given day during the investment term may vary as a result of market interest rate fluctuations 
+a hypothetical movement in interest rates during the investment term would not likely have a material impact on the fair value of the portfolio 
+the actual impact on the fair value of the portfolio in the future may differ materially from this analysis  depending on actual balances and changes in the timing and the amount of interest rate movements 
+our net income is dependent on  among other factors  interest income and realized gains from the sale of marketable securities 
+if interest rates decline or we are unable to realize gains from the sale of marketable securities  our net income may be negatively impacted 
+
+table of contents foreign currency risk although we purchase the majority of our materials and services in us dollars and sell our products to oems and distributors in us dollars  we do have international operations and are  therefore  subject to foreign currency rate exposure especially as it relates to our operating expenses in international locations 
+to date  our exposure to exchange rate volatility has not been material 
+if foreign currency rates were to fluctuate by from rates at december   our consolidated financial position  results of operations and cash flows would not be materially affected 
+however  we cannot guarantee that there will not be a material impact in the future 
+
+table of contents 

@@ -1,0 +1,980 @@
+item management s discussion and analysis of financial condition and results of operations results of operations revenue product groups 
+ic implementation products synopsys ic implementation products include most of the products used in the logic synthesis and physical design phases of ic design  including the company s logic synthesis  physical synthesis  design planning  place and route  extraction and reliability analysis products 
+the company s ic implementation products include the largest proportion of the products acquired from avant 
+historically  the key technologies for ic implementation were logic synthesis and place and route 
+logic synthesis is the process by which a high level description of desired chip functions is mapped into a connected collection of logic gates and other circuit elements that perform the desired functions 
+place and route is the process by which an ic designer takes the logical description of an ic design created by design compiler and translates it into a physical design 
+design compiler tm is the market leading logic synthesis tool and is used by a broad range of companies engaged in the design of ics to optimize their designs for performance and area 
+design compiler was introduced in and has been updated regularly since then 
+design compiler features significant enhancements  including improved optimization algorithms  run times and capacity 
+design compiler expert is the company s basic logic synthesis product 
+customers seeking additional features can purchase the higher priced design compiler ultra 
+an upgrade path from design compiler expert to design compiler ultra is also available 
+design compiler has become a cornerstone of ic designers design methodology  and the company expects that it will continue to be an important element in designers overall suite of design tools  especially for performing logic synthesis on non timing critical portions of a design 
+as the size of the transistors on a chip shrink and the number of transistors on a chip increase  however  designers are increasingly faced with problems that are best addressed by physical design tools  or by physical synthesis products  which combine elements of logic and physical design 
+consequently  the company believes that its orders and revenue from design compiler peaked in fiscal year orders for this product as a percentage of synopsys orders declined from to in and  respectively  and may decline further 
+the company released its first physical synthesis product  physical compiler  in fiscal physical compiler unites logic synthesis and placement functionality  and was designed to addresses the critical timing problems encountered in designing advanced ics and systems on a chip 
+prior to the avant merger  the company was developing routing and related physical design technologies  and its route compiler and clock tree compiler products had been released to beta customers 
+the company also offered separate point tools for physical analysis arcadia  top level routing flexroute and floor planning chip architect and floorplan compiler 
+our strategy was to transition customers from design compiler to physical compiler and to introduce additional physical design products integrated with physical compiler that enabled customers to more efficiently complete the design of their system on a chip products 
+in the merger with avant  the company acquired avant s full suite of physical design products  including the place and route products apollo and astro avant s successor place and route product  the floor planning product jupiter  the analysis product star rc  the reliability testing product mars rail and the chip finishing product saturn 
+based on a full technical evaluation  we have decided to base the physical synthesis and physical design portions of our implementation platform on physical compiler and astro 
+during we made progress on integrating these products  while beginning development of new products that unify logic and physical design 
+route compiler is no longer being sold to customers and we are determining how to integrate some of its features into astro 
+with respect to other products containing overlapping functions  we determined the products on which to focus our efforts and began developing smooth transition paths to these products for our customers 
+most of the products acquired from avant shared data through a common proprietary database known as milkyway 
+milkyway enables these products to exchange critical data  algorithms and language in a highly efficient manner 
+the milkyway database facilitates faster convergence of critical design properties including timing  area  power and signal integrity by allowing certain point tools to directly access critical data 
+use of the milkyway database is a critical element in the integration plan for the synopsys and avant products 
+we are actively working on putting milkyway functionality into the core products of the company s implementation platform  and expect this project to be completed during fiscal the company s ic implementation products also include logic synthesis products for field programmable gate arrays fpgas and complex programmable logic devices cplds 
+verification products the company s verification products consist of high level  or logic  simulation and verification products and system level design and verification tools 
+these products enable ic designers to quickly and reliably verify the behavior of a design before it is committed to the expensive and time consuming process of gate level design and ic fabrication and also assist in the testing of the chip after manufacturing 
+simulation and related products 
+simulation software exercises an ic design by running it through a series of tests and comparing the actual outputs from the design with the expected output 
+the goal of simulation is to make sure that the functionality of the design meets the original specifications of the chip 
+synopsys offers two products for high level simulation vcs tm  for designs written in verilog one of the two principal languages and scirocco tm  for designs written in vhdl the other principal language 
+simulation products are distinguished principally by their runtime and capacity ie  how fast they can fully simulate a proposed design and how large a design they can handle 
+the company is focused on providing the industry s fastest and highest capacity simulation technology and believes that both vcs and scirocco are industry leaders in performance and capacity 
+vcs is supported by all major semiconductor manufacturers and many third party eda software providers 
+vcs  which is expected to be released during the first calendar quarter of  will increase vcs capabilities by integrating significant new functionality  including advanced assertion verification  testbench capability and next generation coverage 
+these capabilities are integrated into a single open platform that is also highly automated  which improves designer productivity 
+in addition to focusing on building the fastest simulator  synopsys is focused on developing a suite of products that help simulation products work smarter 
+the company estimates that ic designers spend more time writing verification testbenches than creating the design description 
+testbenches  which create stimuli for chips and check the results  are used in conjunction with simulation tools to verify that a design functions as expected 
+synopsys vera r is a tool that automates the design of testbenches  thereby offering the ic designer significant reductions in overall design and verification time 
+vera is integrated with the company s other simulation products to provide increased productivity benefits 
+in addition  synopsys acquisition of co design automation  inc provides the company with next generation hardware language verification technology that will be used in future releases of its verification products 
+synopsys has bundled verification tools such as vcs and vera to provide a comprehensive verification environment for its customers  with particular emphasis on mixed signal analog and digital chip verification 
+systems design and verification products 
+currently  automated design generally begins at the register transfer level  with logic synthesis 
+the goal of system level products is to permit designers to design and verify their products at a level of abstraction above rtl 
+synopsys systems products consist of the cocentric tm family of tools and methodologies for concurrent design  validation  refinement and implementation of an electronic system 
+the company offers two principal products based on systemc  tm a standard language developed by synopsys and now available under an open source license 
+systemc enables designers to create  validate and share system level models of a complex ic or system incorporating the chip  and therefore can be used to explore and verify design alternatives at an early stage of the design process 
+cocentric system studio is a system level design environment for the rapid creation of executable system specifications that can be verified and implemented as hardware and software functions 
+system studio enables designers to use hierarchical graphical and language modeling to capture system complexity in a unified environment based on c  c and systemc 
+cocentric systemc compiler is a synthesis tool that allows designers to implement complex circuits from systemc  enabling design to progress from an initial c c executable specification into a database readable by synopsys design compiler 
+through the acquisition of avant  synopsys acquired its saber product  which offers mixed signal system level design tools for the power  test  automotive  telecommunications and military aerospace markets 
+nanometer  analysis and test products synopsys nanometer  analysis and test products include a broad range of software tools in the areas of physical verification  timing analysis  gate level circuit simulation  power management and parasitic extraction 
+these products  which are used after the completion of physical design  help customers analyze the increasingly important electrical effects resulting from designing at micron and below  and to locate implementation errors that can be costly and time consuming to correct during or after production 
+as the logic and physical design phases of ic implementation grow more and more integrated  the company is also integrating many of its nanometer  analysis and test products with its high level verification products  particularly in the areas of simulation  timing  and power analysis 
+static timing analysis 
+synopsys provides a complete tool suite to help designers perform static timing analysis at the gate and transistor levels and analyze signal integrity issues such as cross talk 
+synopsys gate level analysis tool is called primetime r 
+primetime is a full chip  gate level static timing analysis tool targeted for complex multimillion gate designs  which is used by designers to verify  at various stages of the design process  the speed at which a design will operate when it is fabricated 
+primetime s analysis of a design s speed is accepted as a sign off tool by virtually all major semiconductor manufacturers  which means that they accept its analysis as determinative 
+in fiscal  synopsys extended primetime s capabilities with the introduction of primetime si  which analyzes the effect of cross talk on timing  an increasingly important issue at chip geometries below micron 
+primetime si is sold as an add on to primetime 
+synopsys transistor level tools include pathmill r  pathmill plus and amps r 
+pathmill is a transistor level static timing analysis tool for custom microprocessor and dsp designs 
+pathmill s analysis provides spice level accuracy with x performance improvement over traditional spice 
+pathmill plus extends pathmill to offer advanced modeling  model merging and verification to speed characterization of custom ip blocks 
+the combination of primetime and pathmill offers full chip static timing analysis that covers transistor to gate level designs 
+formal verification 
+formal verification is a method for comparing two versions of a design to determine if they are equivalent 
+usually an rtl version of the design is validated using simulation and other dynamic verification tools  establishing it as the golden version 
+subsequent versions ie  after each step of the design process are then compared to the golden version  using mathematical algorithms  to determine if they are functionally equivalent 
+the use of formal verification greatly reduces the need to perform simulation  which is substantially more time consuming  at each stage of the design process  thus potentially saving a significant amount of time in the overall design process 
+synopsys formal verification product is formality r 
+formality was one of the industry s first commercial equivalency checkers to employ a multi solver architecture  which enables the verification of complex multimillion gate system on a chip designs in days or minutes 
+circuit simulation 
+while synopsys high level verification tools such as vcs simulate an ic design at a logical or higher level of abstraction  synopsys circuit simulation products perform simulation at the gate and transistor level 
+these products include the taurus and hspice tools acquired in the avant and the nanosim product  which synopsys introduced during fiscal taurus is a tcad tool used for new process simulation at semiconductor foundaries 
+the hspice product is a highly accurate circuit simulation tool used to simulate designs at transistor level 
+nanosim is an advanced circuit simulator for memory and mixed signal verification  which offers circuit simulation  timing  and power analysis in a single tool 
+nanosim is tightly integrated with synopsys vcs simulator to deliver high speed  high capacity verification of complex ics 
+nanosim and vcs together address verification challenges at rtl  gate and transistor levels  and enable mixed signal multi level verification of complex ics 
+in addition  through the acquisition of starsim and starsim xt from avant  synopsys suite of circuit simulation tools has expanded to include simulators for nanometer level processes and applications such as graphics  memory  communications and mixed signal ic designs 
+synopsys is offering customers a smooth migration path from starsim and starsim xt to nanosim while adding some of the key features from starsim into nanosim 
+power management 
+synopsys delivers a complete solution to help designers manage and verify power consumption at different levels of the design process  based principally on power compiler  which offers push button power optimization and is fully integrated into the design compiler environment 
+in addition  through the acquisition of starmtb from avant  synopsys extends its solution in this area by offering library characterization capability with power information complementing the existing power arc product 
+test automation 
+in order to meet today s stringent quality requirements  chips must pass through rigorous testing after manufacturing 
+synopsys design for test dft tools offer a complete dft solution 
+synopsys dft compiler  the industry standard pass test synthesis product  inserts all functional and test logic required to enable efficient  high coverage testing of the chip after manufacturing  while complying with the customer s design rules and constraints timing  area  power  etc automatic test pattern generation atpg is the other component of synopsys complete dft solution 
+tetramax tm atpg  the company s atpg product is optimized for ease of use  capacity  speed  coverage and vector compaction 
+tetramax atpg works in concert with dft compiler to enable total automation of the dft flow 
+synopsys test methodology also includes software to facilitate the failure diagnosis of chips after manufacturing test  expediting the time consuming and expensive post fabrication activities required to determine the cause of manufacturing defects 
+physical verification 
+synopsys offers class leading physical verification products that provide geometric and electrical verification of physical design layouts in designs containing hundreds of millions of transistors 
+these products verify a design at the gate level rather than at the higher  rtl level of abstraction 
+synopsys physical verification product family is called hercules 
+design for manufacturing 
+synopsys markets products for optical proximity correction  circuit packaging and final design validation used in order to help ensure the final ic design will be manufacturable by the semiconductor foundry 
+synopsys opc product family is called proteus 
+in addition  in january  synopsys entered into an agreement to acquire numerical technologies  inc  a developer of subwavelength lithography solutions 
+this acquisition is expected to complement synopsys existing design for manufacturing tools 
+intellectual property ip and systems level design the company s ip products include our designware ip library and systems design and verification products  as well as the physical library products acquired from avant synopsys also offers a full range of professional services to help customers improve their internal design methodologies  as well as design services ranging from specialized assistance to turnkey design 
+intellectual property products 
+as ic designs continue to grow in size  reusing design blocks is becoming a more important method for reducing overall design cycle time 
+by reusing portions of a design  and particularly those that implement basic or standardized functions  a company can let its ic design team focus on designing the chip features that will give its product a competitive advantage 
+it can also reduce its verification risk by ensuring that these portions of the chip are of high quality 
+enabling reuse of intellectual property ip requires a significant methodology shift from traditional ic design 
+in the past  designs were intimately tied to a particular semiconductor process technology or design methodology  making reuse of design blocks from one chip design to the next  both difficult and costly 
+synopsys designware r library products provide ic designers with a single library of pre designed and pre verified synthesizable ip cores as well as over  verification ip models 
+both groups of cores range in complexity from the simple to the very complex  giving designers access to a broad range of models to assist them with verification of their designs 
+during  synopsys introduced a complete amba on chip bus to designware  providing designers with access to the most popular bus architecture for designers using microprocessor cores from third party vendors 
+through the acquisition of insilicon corporation in september  synopsys expanded its offering of standards based connectivity ip to include usb  ieee  and other products 
+these cores are sold on a per use basis  sometimes with a royalty based on the number of chips produced  rather than as perpetual licenses or technology subscription licenses tsls  as designware foundation libraries are sold 
+the company expects to expand its inventory of cores sold on a per use basis during in synopsys announced its star ip program in which designware users can gain access to popular microprocessors from mips technologies  infineon technologies  nec and other providers 
+professional services synopsys professional services provides a comprehensive portfolio of consulting services covering all critical phases of the system on a chip development process  as well as systems development in wireless and broadband applications 
+customers are offered a variety of engagement models ranging from project assistance which helps a customer design  verify and or test its chips and improve its design process to full turn key development 
+fiscal was a challenging year for the professional services business  as customers continued to reduce their use of outside consultants as part of their own cost cutting efforts 
+customer service and support synopsys devotes substantial resources to providing customers with technical support  customer education  and consulting services 
+the company believes that a high level of customer service and support is critical to the adoption and successful utilization of its products 
+in fiscal  service revenue as a percentage of total revenue decreased to as compared to in fiscal  and overall revenue from services declined from million to million 
+factors contributing to the decrease in services revenue are discussed in management s discussion and analysis of financial condition and results of operations results of operations revenue 
+technical support technical support for the company s products is provided through both field and corporate based technical application engineering groups 
+technical support is bundled with the license fee when a customer purchases a tsl and may be purchased separately when the customer purchases a perpetual license 
+technical support includes minor enhancements to the products developed during the year  bug fixes and access to synopsys application consultants  our worldwide network of product experts  for problem resolution 
+customers also have access via electronic mail and the world wide web to solvnet r  a direct access service available worldwide  hours per day  that lets customers quickly seek answers to design questions or more insight into design problems 
+solvnet combines synopsys complete design knowledge database with sophisticated information retrieval technology 
+updated daily  it includes documentation  design tips  and answers to user questions 
+during fiscal  synopsys introduced the directconnect feature to its technical support offerings 
+using directconnect  synopsys support engineers in a synopsys facility can view a customer s computer screen in the customer s facility to more rapidly and efficiently diagnose and resolve the customer s product issues 
+customer education services synopsys offers training workshops designed to increase customer design productivity with the company s products 
+an extensive curriculum covers the tools and methodology required to successfully complete the full design implementation and verification process 
+areas covered include system design  design synthesis  physical design  simulation and test 
+regularly scheduled workshops are offered in mountain view  california  austin  texas  burlington  massachusetts  reading  england  rungis  france  munich  germany  tokyo and osaka  japan  seoul  korea and other locations 
+on site workshops are available worldwide at customers facilities or other locations 
+over  design engineers attended synopsys workshops during fiscal product warranties synopsys generally warrants its products to be free from defects in media and to substantially conform to material specifications for a period of days 
+synopsys has not experienced significant returns to date 
+support for industry standards synopsys actively creates and supports standards it believes will help its customers increase productivity and solve design problems  including key interfaces and modeling languages that promote system on a chip design and facilitate interoperability of tools from different vendors 
+standards in the eda industry can be established by formal accredited committees  by licensing made available to all  or through open source licensing 
+synopsys products support many formal standards  including the two most commonly used hardware description languages  vhdl and verilog hdl  and numerous industry standard data formats for the exchange of data between synopsys tools and other eda products 
+synopsys is a board member and or participant in the following major eda standards organizations accellera  a not for profit formal standards organization that drives language based standards for systems  semiconductor  and design tools companies  the interoperability committee of the eda consortium  which helps promote interoperability among eda products from different vendors  and the virtual socket interface alliance vsia  an industry group formed to promote standards that facilitate the integration and reuse of functional blocks of intellectual property 
+synopsys tap in program provides interface standards to all companies through an open source licensing model 
+interface formats and reference implementations  such as parsers and screeners  are available to everyone at no cost through the internet 
+synopsys manages changes and enhancements that come from the community of licensees 
+the open source standards and reference implementations are used by synopsys  other eda companies and eda customers to interface tools with each other to produce flexible design flows 
+the standards provided by synopsys as open sources include liberty for library modeling  sdc for design constraints  and openvera for hardware verification 
+synopsys is a member of the board of directors of the open systemc initiative osci  a not for profit organization that manages systemc  a language developed by synopsys and donated to osci 
+osci includes representation from the systems  semiconductor  ip  embedded software and eda industries 
+the osci board of directors is composed of representatives from arm ltd  cadence design systems  coware  fujitsu microelectronics  mentor graphics  motorola  nec  and synopsys 
+synopsys products are written mainly in the c and c languages and utilize industry standards for graphical user interfaces 
+synopsys software runs under unix operating systems  such as solaris and hp ux  and most products also run on the open source linux operating system 
+synopsys products are offered on the most widely used hardware platforms  including those from sun microsystems  hewlett packard  ibm  and intel microprocessor based pcs 
+sales  distribution and backlog synopsys markets its products and services primarily through its direct sales and application service forces in the united states and principal foreign markets 
+synopsys employs highly skilled engineers and technically proficient sales persons in order to understand our customer s needs and to explain and demonstrate the value of synopsys products 
+for fiscal  and  foreign sales represented  and  respectively  of synopsys total revenue 
+additional information relating to domestic and foreign operations is contained in note of notes to synopsys consolidated financial statements 
+the company has sales support centers throughout the united states  in addition to its mountain view  california headquarters 
+outside the united states  the company has sales support offices in canada  denmark  finland  france  germany  hong kong  india  israel  italy  japan  korea  the people s republic of china  singapore  sweden  taiwan and the united kingdom  including foreign headquarters offices in ireland 
+the company s offices are further described under item properties 
+the company utilizes a distributor for sales of certain products in korea 
+see part iii  item certain relationships and related transactions below 
+synopsys backlog on december  was approximately billion  compared to approximately million on december  this backlog consists of orders for system and software products sold under perpetual licenses and tsls with customer requested ship dates within three months which have not been shipped  orders for customer training and consulting services which are expected to be completed within one year  and subscription services  maintenance and support with contract periods extending up to fifteen months 
+in the case of a tsl  backlog includes the full amount of the committed non cancelable order  less any amount of revenue that has been recognized on such tsl 
+the company has not historically experienced significant cancellations of orders 
+customers frequently reschedule or revise the requested service performance dates for service orders  however  which can have the effect of deferring recognition of service revenue for these orders beyond the expected time period 
+research and development the company s future performance depends in large part on its ability to maintain and enhance its current product lines  develop new products  maintain technological competitiveness and meet an expanding range of customer requirements 
+in addition to research and development conducted within each business unit  the company maintains an advanced research group that is responsible for exploring new directions and applications of its core technologies  migrating new technologies into the existing product lines and maintaining strong research relationships outside the company within both industry and academia 
+during fiscal  and  research and development expenses  net of capitalized software development costs  were million  million and million  respectively 
+synopsys capitalized software development costs of approximately million  million and million in fiscal  and  respectively 
+the company anticipates that it will continue to commit substantial resources to research and development in the future 
+manufacturing synopsys manufacturing operations consist of assembling  testing  packaging and shipping its system and software products and documentation needed to fulfill each order 
+manufacturing is currently coordinated through contract vendors located near synopsys mountain view  california and dublin  ireland facilities 
+the contract vendors provide the majority of cd rom replication and on demand printing and distribution of product media and documentation 
+synopsys delivers an increasing proportion of its software products by electronic means rather than by shipping disks 
+when specified by the customer or required by law  synopsys delivers disks to the customer s site 
+synopsys typically delivers its software products within days of acceptance of customer purchase orders and execution of software license agreements unless the customer has requested otherwise 
+competition the eda industry is highly competitive 
+we compete against other eda vendors  and with customers internally developed design tools and internal design capabilities for a share of the overall eda budgets of our potential customers 
+in general  competition is based on product quality and features  post sale support  interoperability with other vendors products  price  payment terms and  as discussed below  the ability to offer a complete design flow 
+our competitors include companies that offer a broad range of products and services  such as cadence design systems  inc and mentor graphics corporation  as well as companies that offer products focused on a discrete phase of the integrated circuit design process 
+in the current economic environment  price and payment terms have increased in importance as a basis for competition 
+during fiscal  we have increasingly agreed to extended payment terms on our tsls  which has had a negative effect on cash flow from operations 
+in addition  in certain situations our competitors are offering aggressive discounts on their products 
+as a result  average prices may fall 
+increasingly  eda companies compete on the basis of design flows involving integrated logic and physical design products rather than on the basis of individual point tools performing a discrete phase of the design process 
+the need to offer an integrated design flow will become increasingly important as ics grow more complex 
+after the acquisition of avant  we offer all of the point tools required to design an ic  some of which integrate logic and physical design capabilities 
+our products compete principally with design flow products from cadence and magma design automation  which in some respects may be more integrated than our products 
+our future success depends on our ability to integrate synopsys logic design and physical synthesis products with the physical design products acquired from avant  which will require significant engineering and development work 
+success in this project is especially important as the company believes that its orders and revenue from design compiler  which has accounted for and of synopsys orders in and  respectively peaked in fiscal year  as predicted  and are likely to continue to decline over time 
+there can be no guarantee that we will be able to offer a competitive complete design flow to customers 
+if we are unsuccessful in developing integrated design flow products on a timely basis or if we are unsuccessful in developing or convincing customers to adopt such products  our competitive position could be significantly weakened 
+in order to sustain revenue growth over the long term  we will have to enhance our existing products  introduce new products that are accepted by a broad range of customers and to generate growth in our consulting services business 
+in addition to the development of integrated logic and physical design products  synopsys is attempting to integrate its verification products into a comprehensive functional verification platform  and is expanding its offerings of intellectual property design components 
+product success is difficult to predict 
+the introduction of new products and growth of a market for such products cannot be assured 
+in the past we  like all companies  have introduced new products that have failed to meet our revenue expectations 
+there can be no assurance that we will be successful in expanding revenue from existing or new products at the desired rate  and the failure to do so would have a material adverse effect on our business  financial condition and results of operations 
+product sales and licensing agreements synopsys typically licenses its software to customers under non exclusive license agreements that transfer title to the media only and that restrict use of the software to specified purposes within specified geographical areas 
+the company currently licenses the majority of its software as a network license that allows a number of individual users to access the software on a defined network 
+license fees are dependent on the type of license  product mix and number of copies of each product licensed 
+synopsys currently offers its software products under either a perpetual license or a tsl 
+under a perpetual license a customer pays a one time license fee for the right to use the software 
+the vast majority of customers buying perpetual licenses also purchase annual software support services  under which they receive minor enhancements to the products developed during the year  bug fixes and technical assistance 
+during the past two years a number of customers have discontinued software support on perpetual licenses 
+see management s discussion and analysis of financial condition and results of operations results of operations revenue 
+a tsl operates like a rental of software and includes software support services for the tsl term 
+a customer pays a fee for license and support over a fixed period of time  and at the end of the time period the license expires unless the customer pays for a renewal 
+tsls are offered with a range of terms  the average length of tsls sold during fiscal was approximately years 
+see management s discussion and analysis of financial condition and results of operations results of operations revenue 
+during fiscal  orders for tsls accounted for of total product orders  compared to in fiscal during fiscal  synopsys has established a target for ratable license orders as a proportion of total license orders of between and  and for perpetual license orders as a proportion of total product orders of between to 
+this range may be subject to change in market conditions during the year synopsys offers its hardware modeler products for sale or lease 
+proprietary rights the company primarily relies upon a combination of copyright  patent  trademark and trade secret laws and license and nondisclosure agreements to establish and protect proprietary rights in its products 
+the source code for synopsys products is protected both as a trade secret and as an unpublished copyrighted work 
+however  it may be possible for third parties to develop similar technology independently 
+in addition  effective copyright and trade secret protection may be unavailable or limited in certain foreign countries 
+the company currently holds us and foreign patents on some of the technologies included in its products and will continue to pursue additional patents in the future 
+although the company believes that its products  trademarks and other proprietary rights do not infringe on the proprietary rights of third parties  there can be no assurance that infringement claims will not be asserted against the company in the future or that any such claims will not require the company to enter into royalty arrangements or result in costly and time consuming litigation 
+employees as of november   synopsys had a total of  employees  of whom  were based in north america and  were based outside of north america 
+synopsys future financial results depend  in part  upon the continued service of its key technical and senior management personnel and its continuing ability to attract and retain highly qualified technical and managerial personnel 
+competition for such personnel is intense 
+our success is dependent on technical and other contributions of key employees 
+we participate in a dynamic industry  with significant start up activity  and our headquarters is in silicon valley  where skilled technical  sales and management employees are in high demand 
+there are a limited number of qualified eda and ic design engineers  and the competition for such individuals is intense 
+experience at synopsys is highly valued in the eda industry and the general electronics industry  and our employees are recruited aggressively by our competitors and by start up companies in many industries 
+in the past  we have experienced  and may continue to experience  significant employee turnover 
+there can be no assurance that synopsys can retain its key managerial and technical employees or that it can attract  assimilate or retain other highly qualified technical and managerial personnel in the future 
+none of synopsys employees is represented by a labor union 
+synopsys has not experienced any work stoppages and considers its relations with its employees to be good 
+item properties synopsys principal offices are located in four adjacent buildings in mountain view  california  which together provide approximately  square feet of available space 
+this space is leased through february within one half mile of these buildings  in sunnyvale  california  synopsys occupies approximately  square feet of space in two adjacent buildings  which are under lease through  and approximately  square feet of space in a third building  which is under lease until april in addition  synopsys leases  square feet of space in pleasanton and fremont  california as telecommute centers 
+the company owns two buildings with approximately  square feet in hillsborough  oregon  which are used for administrative  marketing  research and development and support activities 
+in addition  the company leases approximately  square feet of space in marlboro  massachusetts for sales and support  research and development and customer education activities 
+this facility is leased through march synopsys owns a fourth building in sunnyvale  with approximately  square feet  which is leased to a third party through june synopsys also owns thirty four acres of undeveloped land held for sale in san jose  california and acres of undeveloped land in marlboro  massachusetts the company currently leases other offices throughout the united states primarily for sales and support 
+the company leases approximately  square feet in dublin  ireland for its foreign headquarters and for research and development purposes 
+this space is leased through april in addition  synopsys leases foreign sales and service offices in canada  denmark  finland  france  germany  hong kong  india  israel  italy  japan  korea  the people s republic of china  singapore  sweden  switzerland  taiwan and the united kingdom 
+the company also leases research and development facilities in france  germany  india and the people s republic of china 
+item legal proceedings avant litigation avant  which upon completion of the synopsys avant merger became a wholly owned subsidiary of synopsys  is or was a party to a number of material civil litigation matters 
+on november   synopsys entered into a settlement agreement by and among synopsys  cadence design systems  inc  avant corporation llc and the individuals named in the litigation entitled cadence design systems  inc et al 
+v 
+avant corporation et al 
+pursuant to which cadence  avant and such individuals agreed to dismiss all pending claims and counterclaims in such litigation and to release all claims they made or could have made in the litigation 
+under the agreement  cadence has been paid million and the litigation has been dismissed by all parties 
+in addition  under the settlement agreement  cadence  avant and synopsys  as the acquirer of avant  have granted each other reciprocal licenses covering the intellectual property that was at issue in the litigation 
+the payment was made by illinois national insurance company  a subsidiary of the american international group aig  insurer for synopsys  under an insurance policy purchased by synopsys upon the completion of its acquisition of avant as a result of the payment  synopsys recorded expense in the fourth quarter of its fiscal year of approximately million  which is equal to the contingently refundable portion of the insurance premium recorded as a long term restricted asset on the company s balance sheet plus interest earned on the restricted asset 
+the expense and the reversal of the restricted asset are reflected in the financial statements included in this annual report on form k 
+see note of notes to synopsys consolidated financial statements 
+prior to the merger  avant leased five buildings in fremont  california for its headquarters 
+after the merger  the functions performed in the buildings were consolidated into synopsys mountain view and sunnyvale facilities  the fremont buildings were closed  and avant stopped paying rent on the underlying leases 
+in november  synopsys settled all claims of the landlord of two of the buildings 
+the other three buildings  located at  and bayside parkway and owned by renco investment company  are the subject of litigation 
+as of october   synopsys maintained an accrual of million with respect to closure of these three buildings 
+synopsys believes that the amount accrued will be sufficient to satisfy any current or future claims relating to former avant facilities  but cannot assure stockholders that this will be the case 
+on february  renco filed suit in alameda county superior court claiming damages against avant on account of rejection of the lease on the premises at bayside parkway by comdisco  inc comdisco occupied the premises pursuant to an assignment dated september  between avant and comdisco 
+comdisco filed chapter bankruptcy in july and rejected the lease in the bankruptcy proceeding in september renco is alleging that under the assignment  avant remained obligated to pay rent and common area maintenance charges on its underlying lease with renco  renco is arguing that the assignment documentation obligated avant to guarantee renco s portion of the additional rent to be owed by comdisco 
+accordingly  renco s complaint asks for rent damages in the sum of approximately million and approximately million in build out damages 
+avant is vigorously defending these claims  though no assurances can be given regarding the outcome of the litigation or the amount that avant may ultimately be required to pay to renco 
+the court in the comdisco bankruptcy proceeding has reserved million in aggregate for rent payable to renco or avant 
+there is no assurance that avant and renco will ultimately be able to collect such amount in such proceeding  but the reserve acts as a cap on their collective recovery from comdisco 
+renco has declared a default on the avant leases on and bayside parkway based on the cross default provisions in those leases and in november  renco filed suit to recover unpaid rent on those buildings 
+on august   silicon valley research  inc svr filed an action against avant in the united states district court for the northern district of california 
+the complaint purports to state claims for statutory unfair competition  receipt  sale and concealment of stolen property  interference with prospective economic advantage  conspiracy  false advertising  violation of the lanham act and violation of usca ss 
+usca in the complaint  svr alleges that avant s use of cadence trade secrets damaged svr by allowing avant to develop and market products more quickly and cheaply than it could have otherwise 
+the complaint seeks an accounting  the imposition of a constructive trust  and actual and exemplary damages 
+in september  the court granted motions to dismiss filed by avant and co defendant stephen wuu and in october  svr filed an amended complaint substantially repeating its prior claims 
+avant has moved to dismiss the complaint and each of the claims and each of the co defendants has joined that motion 
+the motion to dismiss is currently scheduled to be heard in february avant believes it has defenses to svr s claims and intends to defend itself vigorously 
+these defenses include  but are not limited to  defenses based on the authority granted to avant by the written release agreement signed between cadence and avant in and the settlement agreement signed in november  avant s denial of any post release misappropriation of cadence trade secrets  avant s belief that any use by avant of cadence trade secrets did not confer any competitive advantage on avant over svr  and avant s belief that svr s loss of market share resulted from factors other than any use by avant of cadence trade secrets 
+should svr s claims succeed  however  avant could be required to pay monetary damages to svr 
+accordingly  an adverse judgment could seriously harm avant s business  financial position and results of operations 
+between july and october  three derivative actions were filed against avant and certain of its officers and directors scott v 
+muraki  et al  no 
+cal 
+superior ct  louisiana school employees retirement system v 
+muraki  et al  ca no 
+del 
+chancery ct  and peterson v 
+hsu  et al  ca no 
+del 
+chancery ca the actions allege  in substance  that certain present and former avant officers and directors caused damage to avant by misappropriating trade secrets from competitors  making false representations to investors and the public  and causing avant to award lucrative employment contracts  bonuses  stock option grants  and valuable consulting contracts and ownership interests in companies affiliated with avant 
+the louisiana school employees retirement system case was dismissed in august also in august  the plaintiffs in the remaining actions have agreed to a settlement involving payment of attorneys fees only for the plaintiffs 
+other litigation in july  synopsys entered into an agreement to acquire ikos systems  inc in december  mentor graphics  inc 
+mentor submitted an unsolicited offer to acquire ikos and  in connection therewith  filed a lawsuit in the court of chancery of the state of delaware ca no 
+against ikos  the members of ikos board of directors  synopsys and synopsys subsidiary oak merger corporation oak 
+the lawsuit claimed that certain provisions of the synopsys ikos merger agreement merger agreement  were entered into in breach of the ikos directors fiduciary duties  and that synopsys and oak aided and abetted those breaches 
+a second lawsuit was filed by an alleged shareholder of ikos on essentially the same grounds 
+in march  synopsys and ikos entered into a termination agreement by which they mutually agreed to terminate the merger agreement 
+subsequently  mentor acquired ikos 
+as a result  the company believes this suit to be moot and expects it to be dismissed during the first half of a third lawsuit relating to this matter  filed in california superior court in santa clara county  california  was dismissed with prejudice in august there are no other material legal proceedings pending against the company or avant 
+item submission of matters to a vote of security holders no matters were submitted for a vote of security holders during the fourth quarter of the fiscal year covered by this report 
+executive officers of the company the executive officers of the company and their ages  as of january   are as follows name age position aart j 
+de geuschief executive officer and chairman of the board of directors chi foon chanpresident  chief operating officer vicki l 
+andrewssenior vice president  worldwide sales steven k 
+shevicksenior vice president  finance and chief financial officer dr 
+aart j 
+de geus co founded synopsys and currently serves as chief executive officer and chairman of the board of directors 
+since the inception of synopsys in december  he has held a variety of positions including senior vice president of engineering and senior vice president of marketing 
+from to  dr 
+de geus served as chairman of the board 
+he served as president from to dr 
+de geus has served as chief executive officer since january and has held the additional title of chairman of the board since february he has served as a director since from to  dr 
+de geus was employed by general electric corporation  where he was the manager of the advanced computer aided engineering group 
+dr 
+de geus holds an msee from the swiss federal institute of technology in lausanne  switzerland and a phd in electrical engineering from southern methodist university 
+dr 
+chi foon chan joined synopsys as vice president of application engineering services in may since april he has served as chief operating officer and since february he has held the additional title of president 
+dr 
+chan also became a director of the company in february from september to february he served as executive vice president  office of the president 
+from february until april he served as senior vice president  design tools group and from october until april as acting senior vice president  design reuse group 
+additionally  he has held the titles of vice president  engineering and general manager  designware operations and senior vice president  worldwide field organization 
+from march to may  dr 
+chan was employed by nec electronics  where his last position was general manager  microprocessor division 
+from to  dr 
+chan held a number of senior engineering positions at intel corporation 
+dr 
+chan holds an ms and ms in computer engineering from case western reserve university 
+vicki l 
+andrews joined synopsys in may and currently serves as senior vice president  worldwide sales 
+before holding that position  she served in a number of senior sales roles at synopsys  including vice president  global and strategic sales  vice president  north america sales and director  western united states sales 
+she has more than years of experience in the eda industry 
+ms 
+andrews holds a bs in biology and chemistry from the university of miami 
+steven k 
+shevick joined synopsys in july and currently serves as senior vice president  finance and chief financial officer  and as the company secretary 
+mr 
+shevick was appointed senior vice president and chief financial officer in january from october to january  he was vice president  investor relations and legal and secretary 
+from march to october  he was vice president  legal  general counsel and assistant corporate secretary 
+from july to march he served as deputy general counsel and assistant corporate secretary 
+mr 
+shevick holds an ab from harvard college and a jd from georgetown university law center 
+there are no family relationships among any executive officers of the company 
+part ii item market for registrant s common equity and related stockholder matters the information required by this item is set forth on page of this synopsys annual report on form k 
+item selected financial data financial summary fiscal year ended october  september  in thousands  except per share data revenue      loss income before income taxes and extraordinary items      benefit provision for income taxes      extraordinary items  net of income tax expense  net loss income      loss earnings per share basic diluted working capital      total assets      long term debt    stockholders equity      amounts and per share data for periods presented have been retroactively restated to reflect the mergers accounted for under the pooling of interests method with viewlogic systems  inc  effective december   and everest automation  inc  effective november  synopsys has a fiscal year that ends on the saturday nearest october fiscal years   and were week years while fiscal years and were week years 
+for presentation purposes  the consolidated financial statements refer to the calendar month end 
+prior to fiscal year  synopsys fiscal year ended on the saturday nearest to september the period from october  through october  was a transition period 
+during the transition period  revenue  loss before income taxes  benefit for income taxes and net loss were million  million  million  and million  respectively  and basic and diluted loss per share was 
+the net loss during the transition period is due to the fact that sales in the first month following a quarter end are historically weak 
+as of october   working capital  total assets  long term debt  and stockholders equity were million  billion  million and million  respectively 
+includes charges of million  million  million and million for the fiscal years ended october  and and september  and respectively  for in process research and development 
+includes merger related and other costs of million and million for the years ended october  and september   respectively 
+includes insurance premium costs of million for the fiscal year ended october  related to the avant merger 
+on october   synopsys sold a segment of the viewlogic business for million in cash 
+as a result of the transaction  synopsys recorded an extraordinary gain of million  net of income tax expense  in the fourth quarter of fiscal item management s discussion and analysis of financial condition and results of operations the following discussion contains forward looking statements within the meaning of section e of the securities exchange act of for example  statements including terms such as projects  expects  believes  anticipates or targets are forward looking statements 
+actual results could differ materially from those anticipated in such forward looking statements as a result of certain factors  including those set forth under factors that may affect future results 
+critical accounting policies the discussion and analysis of our financial condition and results of operations are based upon our consolidated financial statements  which have been prepared in accordance with accounting principles generally accepted in the united states 
+the preparation of these financial statements requires management to make estimates and judgments that affect the reported amounts of assets  liabilities  revenues and expenses and related disclosure of contingent assets and liabilities 
+on an on going basis  we evaluate our estimates  including those related to revenue recognition  bad debts  investments  intangible assets and income taxes 
+our estimates are based on historical experience and on various other assumptions we believe are reasonable under the circumstances 
+actual results may differ from these estimates 
+the accounting policies described below are those that most frequently require us to make estimates and judgments  and are therefore critical to understanding our results of operations 
+revenue recognition 
+our revenue recognition policy is detailed in note of the notes to consolidated financial statements 
+management has made significant judgments related to revenue recognition  specifically  in connection with each transaction involving our products referred to as an arrangement in the accounting literature we must evaluate whether our fee is fixed or determinable and we must assess whether collectibility is probable 
+these judgments are discussed below 
+the fee is fixed or determinable 
+with respect to each arrangement  we must make a judgment as to whether the arrangement fee is fixed or determinable 
+if the fee is fixed or determinable  then revenue is recognized upon delivery of software assuming other revenue recognition criteria are met 
+if the fee is not fixed or determinable  then the revenue recognized in each quarter subject to application of other revenue recognition criteria will be the lesser of the aggregate of amounts due and payable or the amount of the arrangement fee that would have been recognized if the fees had been fixed or determinable 
+except in cases where we grant extended payment terms to a specific customer  we have determined that our fees are fixed or determinable at the inception of our arrangements based on the following o the fee our customers pay for our products is negotiated at the outset of an arrangement and is generally based on the specific volume of products to be delivered 
+o our license fees are not a function of variable pricing mechanisms such as the number of units distributed or copied by the customer or the expected number of users of the product delivered 
+a determination that an arrangement fee is fixed or determinable also depends upon the payment terms relating to such an arrangement 
+our customary payment terms supported by historical practice require that a minimum of of the arrangement fee is due within one year or less 
+arrangements with payment terms extending beyond the customary payment terms are considered not to be fixed or determinable 
+a determination of whether the arrangement fee is fixed or determinable is particularly relevant to revenue recognition on perpetual licenses 
+collectibility is probable 
+in order to recognize revenue  we must make a judgment of the collectibility of the arrangement fee 
+our judgment of the collectibility is applied on a customer by customer basis pursuant to our credit review policy 
+we typically sell to customers for which there is a history of successful collection 
+new customers are subjected to a credit review process  which evaluates the customers financial positions and ability to pay 
+new customers are typically assigned a credit limit based on a formulated review of their financial position 
+such credit limits are only increased after a successful collection history with the customer has been established 
+if it is determined from the outset of an arrangement that collectibility is not probable based upon our credit review process  revenue is recognized on a cash collected basis 
+valuation of strategic investments 
+as of october   the adjusted cost of our strategic investments totaled million  excluding unrealized gains and losses 
+we review our investments in non public companies on a quarterly basis and estimate the amount of any impairment incurred during the current period based on specific analysis of each investment  considering the activities of and events occurring at each of the underlying portfolio companies during the quarter 
+our portfolio companies operate in industries that are rapidly evolving and extremely competitive 
+for equity investments in non public companies where there is not a market in which their value is readily determinable  we assess each investment for indicators of impairment at each quarter end based primarily on achievement of business plan objectives and current market conditions  among other factors  and information available to us at the time of this quarterly assessment 
+the primary business plan objectives we consider include achievement of planned financial results  completion of capital raising activities  the launching of technology  the hiring of key employees and overall progress on the portfolio company s business plan 
+if it is determined that an impairment has occurred with respect to an investment in a portfolio company  in the absence of quantitative valuation metrics  management estimates the impairment and or the net realizable value of the portfolio investment based on public and private company market comparable information and valuations completed for companies similar to our portfolio companies 
+based on these measurements  impairment losses aggregating million were recorded during fiscal future adverse changes in market conditions  poor operating results of underlying investments and other information obtained after our quarterly assessment could result in additional losses or an inability to recover the current carrying value of the investments thereby requiring a further impairment charge in the future 
+valuation of intangible assets 
+intangible assets  net of accumulated amortization  totaled million as of october  we periodically evaluate our intangible assets for indications of impairment whenever events or changes in circumstances indicate that the carrying value may not be recoverable 
+intangible assets consist of goodwill  purchased technology  contract rights intangibles as defined under results of operations acquisition of avant corporation contract rights intangible  customer installed base relationship  trademarks and tradenames  covenants not to compete  customer backlog and capitalized software 
+factors we consider important which could trigger an impairment review include significant under performance relative to expected historical or projected future operating results  significant changes in the manner of our use of the acquired assets or the strategy for our overall business or significant negative industry or economic trends 
+if this evaluation indicates that the value of the intangible asset may be impaired  an assessment of the recoverability of the net carrying value of the asset over its remaining useful life is made 
+if this assessment indicates that the intangible asset is not recoverable  based on the estimated undiscounted future cash flows of the entity or technology acquired over the remaining amortization period  the net carrying value of the related intangible asset will be reduced to fair value and the remaining amortization period may be adjusted 
+any such impairment charge could be significant and could have a material adverse effect on our reported financial statements 
+based on these measurements  we recorded an impairment charge of approximately million during fiscal and an impairment charge of million related to the avant merger as described under integration costs below 
+allowance for doubtful accounts 
+as of october   our allowance for doubtful accounts totaled million 
+management estimates the collectibility of our accounts receivable on an account by account basis 
+in addition  we provide for a general reserve on all accounts receivable  using a specified percentage of the outstanding balance in each aged group 
+management specifically analyzes accounts receivable and historical bad debt experience  customer creditworthiness  current economic trends  international exposures such as currency devaluation  and changes in our customer payment terms when evaluating the adequacy of the allowance for doubtful accounts 
+if the financial condition of our customers were to deteriorate  resulting in an impairment of their ability to make payments  additional allowances may be required 
+during the current year  write offs net of recoveries and additional allowances totaled million and million  respectively 
+income taxes 
+our effective tax rate is directly affected by the relative proportions of our domestic and foreign revenue and income 
+we are also subject to changing tax laws in the multiple jurisdictions in which we operate 
+as of october   deferred tax assets and liabilities totaled million and million  respectively 
+we believe that it is more likely than not that the results of future operations will generate sufficient taxable income to utilize these net deferred tax assets 
+while we have considered future taxable income and ongoing prudent and feasible tax planning strategies in assessing the need for any valuation allowance  should we determine that we would not be able to realize all or part of our net deferred tax assets in the future  an adjustment to the deferred tax assets would be charged to income in the period such determination was made 
+results of operations mergers and acquisitions 
+on june   we completed our merger with avant 
+avant was a leader in the development of software used in the physical design and physical verification phases of chip design 
+as a result of the merger  we are now able to offer a comprehensive array of products for the design and verification of chips 
+products obtained in the merger are key components of the implementation and verification platforms discussed above 
+under the terms of the merger agreement between synopsys and avant  avant merged with and into a wholly owned subsidiary of synopsys 
+the aggregate merger consideration  including the fair value of stock issued  was approximately billion  and was determined primarily as a result of competitive bidding with other potential acquirors 
+as a result of the merger  we recorded goodwill of million  which is reflected on the consolidated balance sheet as of october  we believe that the value of the products acquired from avant  when combined with the pre merger synopsys products  justifies the price paid 
+the results of operations of avant are included in the accompanying consolidated financial statements for the period from june  through october  on september   we completed our acquisition of co design  a private company which was developing simulation software used in the high level verification stage of the chip design process  and a new design language that permits designers to describe the behavior of their chips more efficiently than current standard languages 
+the aggregate purchase price for co design was million  which was determined principally by competitive bidding with another potential acquiror 
+as a result of the merger we recorded goodwill of million  which is reflected on the consolidated balance sheet as of october  we believe that we will derive a competitive advantage through the use of co design s new design language in our design and verification products and the expertise of its employees  and therefore the price is justified 
+the results of operations of co design are included in the accompanying consolidated financial statements for the period from september  through october  on september   we completed our acquisition of insilicon  a company that developed  marketed and licensed an extensive portfolio of complex intellectual property blocks  or pre designed  pre verified subportions of a chip that can be used as building blocks for complex systems on a chip  and therefore accelerate the development of such chips 
+the aggregate purchase price for insilicon was million 
+as a result of the merger  we recorded goodwill of million which is reflected on the consolidated balance sheet as of october  we believe that the combination of insilicon s portfolio of intellectual property with our own portfolio will provide us with a competitive advantage over other providers of intellectual property blocks  and therefore justifies the price 
+the results of operations of insilicon are included in the accompanying consolidated financial statements for the period from the september  through october  revenue 
+revenue consists of fees for perpetual and ratable licenses of our software products  post contract customer support pcs  customer training and consulting 
+we classify revenues as product  service or ratable license 
+product revenue consists primarily of perpetual software licenses 
+service revenue consists of pcs under perpetual licenses and fees for consulting services and training 
+ratable license revenue consists of all revenue from our tsls and from time based licenses sold prior to the adoption of tsls in august that include extended payment terms or unspecified additional products 
+adoption of subscription licenses  impact on revenue 
+in the fourth quarter of fiscal we introduced a new type of license called a technology subscription license 
+a tsl is a license to use one or more of our software products  and to receive support services such as hotline support and updates for a limited period of time  usually one to three years 
+since tsls include bundled products and services  both product and service revenue is generally recognized ratably over the term of the license  or  if later  as payments become due 
+the terms of tsls  and the payments due thereon  may be structured flexibly to meet the needs of the customer 
+in certain situations  customers have limited rights to new technology through reconfiguration clauses under their agreements 
+prior to the adoption of tsls  we sold perpetual licenses and term licenses a type of time based license 
+under these types of licenses  software support is purchased separately 
+revenue from the license sale is generally recognized in the quarter that the product is shipped or upfront and revenue from software support is recognized ratably over the support period 
+term licenses were discontinued when tsls were introduced 
+due to the different treatment of tsls and perpetual term licenses under applicable accounting rules  each type of license has a different impact on our financial statements 
+when a customer buys a tsl  relatively little revenue is recognized during the quarter the product is initially delivered 
+the remaining amount not recognized will either be recorded as deferred revenue on our balance sheet or considered backlog by us and not recorded on the balance sheet 
+the amount recorded as deferred revenue is equal to the portion of the license fee that has been invoiced or paid but not recognized 
+the amount considered backlog moves out of backlog and is recorded as deferred revenue as invoiced or as additional payments are made 
+deferred revenue is reduced as revenue is recognized 
+under perpetual licenses and term licenses  a high proportion of all license revenue is recognized in the quarter that the product is delivered  with relatively little recorded as deferred revenue or as backlog 
+therefore  an order for a tsl will result in significantly lower current period revenue than an equal sized order under the prior form of time based licenses 
+conversely  an order for a tsl will result in higher revenues recognized in future periods than an equal sized order for a perpetual or term license 
+for example  a  order for a perpetual license will result in  of revenue recognized in the quarter the product is shipped and no revenue in future quarters 
+the same order for a year tsl shipped at the beginning of the quarter will result in  of revenue recognized in the quarter the product is shipped and in each of the succeeding quarters 
+on an aggregate basis  the introduction of tsls has had  and will continue to have  a significant impact on our reported revenue and on our balance sheet 
+in the quarter immediately following the adoption of tsls  reported revenue dropped significantly 
+in each quarter since adoption  ratable revenue has grown  as tsl orders received in each quarter contribute revenue that is layered over the revenue recognized from tsl orders received in prior quarters 
+this effect will repeat itself each quarter in varying degrees until the tsl model is fully phased in  during this transition period ratable revenue will continue to grow even if the overall level of tsl orders does not grow  and could grow even if the overall level of tsl orders declines 
+the phase in period of the tsl model is difficult to predict 
+absent any acquisitions  the model would be substantially phased in approximately years following the adoption of the model 
+the phase in period has been extended by the acquisition of avant  and will be extended to some extent by any future acquisitions we make 
+over the long term  as the tsl model becomes more fully phased in  average revenue growth will closely track average orders growth 
+synopsys license revenue in any given quarter is dependent upon the volume of perpetual orders shipped during the quarter and the amount of tsl revenue amortized from deferred revenue  recognized out of backlog and  to a small degree  recognized on tsl orders received during the quarter 
+we set our revenue targets for any given period based  in part  upon an assumption that we will achieve a certain level of orders and a certain license mix of perpetual licenses and tsls 
+the precise mix of orders is subject to substantial fluctuation in any given quarter or multiple quarter periods  and the actual mix of licenses sold affects the revenue we recognize in the period 
+if we achieve the target level of total orders but are unable to achieve our target license mix  we may not meet our revenue targets if we deliver more than expected tsls or may exceed them if we deliver more than expected perpetuals 
+if we achieve the target license mix but the overall level of orders is below the target level  then we will not meet our revenue targets 
+since our introduction of tsls  the average tsl duration has been approximately quarters 
+our historical license order mix from august to the present ie  since our adoption of tsls  has been perpetual licenses and ratable licenses 
+our target license mix for total new software license orders for the first quarter of fiscal year is to perpetual licenses and to ratable licenses 
+the precise mix of orders is subject to substantial fluctuation in any given quarter or multiple quarter periods 
+in the fourth quarter of fiscal  the license mix was approximately perpetual licenses and tsls  in comparison to perpetual licenses and tsls in the fourth quarter of fiscal the license mix for full fiscal year was approximately perpetual licenses and tsls  in comparison to perpetual licenses and tsls for fiscal our target license mix for new software license orders for fiscal is to perpetual licenses and to ratable licenses 
+this range may be subject to change based on market conditions during the year 
+revenue 
+total revenue for fiscal increased to million as compared to million for fiscal the increase in total revenue for fiscal as compared to fiscal is due primarily to the avant acquisition  and to the additional quarters that the tsl license model has been used 
+total revenue for fiscal decreased to million as compared to million for fiscal the decrease in total revenue for fiscal as compared to fiscal is due to the utilization for the full fiscal year of the tsl license model and the related inherent decrease in current period revenue due to the timing of revenue recognition under this license model 
+product revenue for fiscal increased to million as compared to million for fiscal the increase in product revenue for fiscal as compared to fiscal is due to an increase in perpetual licenses delivered during the period  which resulted in large part from the increased volume of perpetual licenses after the avant merger 
+during the second quarter of  we began offering variable maintenance arrangements vmp to certain customers that entered into perpetual license technology arrangements in excess of million 
+under these arrangements  the annual fee for pcs is calculated as a percentage of the net license fee rather than a fixed percentage of the list price 
+product revenue for fiscal decreased to million as compared to million for fiscal the decrease in product revenue for fiscal as compared to fiscal was due to the adoption of the tsl model under which  as explained above  revenue is recognized ratably from a license model under which virtually all license revenue was recognized in the quarter shipped 
+service revenue for fiscal decreased to million as compared to million for fiscal the decrease in service revenue for fiscal as compared to fiscal is due to economic factors and the impact of our adoption of tsls 
+economic conditions have led our customers to reduce their costs by curtailing their use of outside consultants and  in some cases  discontinuing maintenance on their perpetual licenses 
+as a result  we received a lower volume of new consulting orders and maintenance renewal orders than expected 
+in addition  certain projects in our consulting backlog were deferred or cancelled 
+customer expenditures on training have also been reduced  which has accordingly reduced revenue from training 
+these conditions are expected to continue at least until research and development spending by the semiconductor industry returns to historic levels of growth 
+the shift to tsls has impacted service revenue in two ways 
+first  new licenses structured as tsls include bundled pcs  which means that revenue attributable to pcs is recognized as ratable license revenue 
+if such licenses were perpetual licenses or time based licenses similar to the type formerly offered  the pcs revenue relating to such licenses would be recognized as service revenue 
+second  customers with existing perpetual licenses are entering into new tsls rather than renewing the pcs on the existing perpetual licenses 
+in each case  revenue attributable to pcs that otherwise would have been reflected in service revenue is now reflected in ratable license revenue 
+the decline in service revenue was partly offset by revenue recognized from services contracts acquired in the avant merger 
+synopsys recognized less revenue on these contracts than avant would have recognized due to the fact that under purchase accounting rules the deferred revenue balance of these contracts was significantly reduced upon acquisition 
+service revenue for fiscal remained relatively flat at million as compared to million in fiscal  as growth in consulting services business in the first half of the year was offset by reduction in business attributable to cost cutting efforts by customers 
+ratable license revenue for fiscal increased to million as compared to million in fiscal the increase in ratable license revenue for fiscal compared to fiscal is due to the additional quarters that the tsl license model has been used 
+ratable license revenue for fiscal increased to million as compared to million in fiscal the increase in ratable license revenue for fiscal compared to fiscal is due to the fact that we introduced tsls in the fourth quarter of fiscal august and therefore  relatively little tsl revenue was recognized in fiscal because under the tsl model relatively little revenue is recognized in the quarter the product is initially delivered 
+related party transaction 
+approximately of fiscal revenues were derived from a company whose chief financial and enterprise officer serves on the synopsys board of directors 
+management believes the transactions between the two parties were carried out under the company s normal terms and conditions 
+revenue seasonality 
+our revenue is seasonal 
+in general  revenue in the first quarter of our fiscal year is the lowest of any quarter  and revenue in the fourth quarter is the largest of any quarter  with revenue in the second and third quarters roughly in the middle of the first and fourth quarters 
+this seasonal pattern may be attributed to a variety of factors  including customer buying patterns  the timing of major contract renewals and sales compensation incentives 
+revenue product groups 
+for management reporting purposes  our products have been organized into four distinct product groups design implementation  verification and test  design analysis  intellectual property ip and a services group professional services 
+the following table summarizes the revenue attributable to the various groups as a percentage of total company revenue for the last eight quarters 
+revenue attributable to products acquired from avant that was recognized by avant prior to june  is not reflected in the following tables 
+revenue attributable to such products from june  through october  is included in fiscal revenue 
+as a result of the avant merger  we redefined our product groups  effective in the third quarter of fiscal prior period amounts have been reclassified to conform to the new presentation 
+q q q q q q q q revenue design implementation verification and test design analysis ip professional services total company design implementation 
+design implementation includes products used in the logic design and physical design phases of chip design as described above under business products ic implementation products for the design of a chip from a high level functional description to a complete description of the transistors and connections that implement such functions that can be delivered to a semiconductor company for manufacturing 
+design implementation technologies include logic synthesis  physical synthesis  floor planning and place and route products and technologies 
+the principal products in this category as of the end of fiscal are design compiler  physical compiler  chip architect  floorplan compiler  jupiter  apollo and astro 
+as a percent of revenue  design implementation fluctuated between and in the period from the first quarter of fiscal through the second quarter of fiscal  and exhibited a generally increasing trend from the first quarter of fiscal through the second quarter of fiscal this trend reflects the company s growing portfolio of design implementation products during the period  most notably the introduction of physical compiler 
+the increase from the second quarter of fiscal to the third quarter of fiscal is due principally to the addition of avant products to this category  since the largest portion of avant s revenue was derived from products including its principal place and route products that were added to the design implementation category 
+verification and test 
+verification and test includes products used for verification and analysis performed at the system level  register transfer level rtl and gate level of design  including simulation  system level design and verification  timing analysis  formal verification  test and related products 
+the principal products in this category are vcs  polaris  vera  pathmill  cocentric system studio  primetime  formality  design verifyer  dft compiler and tetramax  which are used in several different phases of chip design 
+as a percent of revenue  revenue from this product family fluctuated between and in the period from the first quarter of fiscal through the second quarter of fiscal  principally attributable to the mix of perpetual versus tsl orders received for verification and test products during any given quarter 
+beginning in the third quarter of fiscal  verification and test revenues as a percent of total company revenue were lower  principally because the verification and test product group does not include many products acquired from avant 
+design analysis 
+design analysis includes products used for verification and analysis performed principally during the physical verification phase of chip design  including analog and mixed signal circuit simulation  design rule checking  power analysis  customer design  semiconductor process modeling and reliability analysis 
+the principal products in this category are nanosim  starsim  hspice  starrc  arcadia  tcad  hercules  venus  opc  primepower and cosmos 
+revenue from this product group as a percentage of total revenues has ranged between and since the introduction of tsls as a result of the mix of perpetual versus time based license orders received during a particular quarter 
+during the third quarter of fiscal  revenue from this product group as a percentage of total revenues increased to  due primarily to the avant acquisition  as the second largest portion of avant s revenue was derived from products that were added to the design analysis category 
+intellectual property 
+our ip products include the designware library of design components and verification models  and the products acquired in the insilicon transaction effective in the fourth quarter of 
+ip revenue as a percent of total revenue was relatively stable from the fourth quarter of fiscal to the second quarter of fiscal  reflecting growth consistent with the company average 
+beginning with the third quarter of fiscal  ip revenues as a percent of total company revenue decreased principally because the ip product group does not include many products acquired from avant professional services 
+the professional services group includes consulting and training activities 
+this group provides consulting services  including design methodology assistance  specialized telecommunications systems design services and turnkey design 
+revenue from professional services as a percentage of total revenues has declined from in the first quarter of fiscal to in the third quarter of fiscal  reflecting  as described above under revenue  the impact of the economic environment 
+cost of revenue 
+cost of revenue consists of the cost of product revenue  cost of service revenue  cost of ratable license revenue and amortization of intangible assets and deferred stock compensation 
+cost of product revenue includes personnel and related costs  production costs  product packaging  documentation  and amortization of capitalized software development costs and purchased technology 
+the cost of internally developed capitalized software is amortized on the straight line method over the software s estimated economic life of approximately two years 
+cost of service revenue includes consulting services  personnel and related costs associated with providing training and pcs on perpetual licenses 
+cost of ratable license revenue includes the costs of product and services related to our tsls tsls include bundled product and services 
+cost of product revenue  cost of service revenue and cost of ratable license revenue during any period are heavily dependent on the mix of software orders received during such period 
+cost of revenue amortization of intangible assets and deferred stock compensation includes the amortization of the contract rights intangible and customer backlog assets associated with certain executory contracts  as discussed under acquisition of avant corporation and acquisition of insilicon corporation  respectively  below  and the amortization of core developed technology acquired in the avant  insilicon and co design mergers 
+total amortization of intangible assets  which commenced on the date of the respective acquisition  included in cost of revenues for fiscal was million which includes million and million for core developed technology and contract rights intangible  respectively 
+cost of revenue amortization also includes the amortization of deferred stock compensation as discussed below under amortization of intangible assets totaling million for the year ended october total cost of revenue as a percentage of total revenue for fiscal remained relatively flat at as compared to fiscal cost of goods sold which excludes amortization of intangible assets and deferred stock compensation as a percentage of total revenue decreased due to the increase in quarterly amortization of deferred revenue and backlog  which is an inherent result of the use of the ratable license model and due to the fact that other cost of goods sold components remained relatively flat 
+however  the decrease in cost of goods sold as a percentage of total revenue in fiscal was offset by the commencement of amortization of the contract rights intangible and core developed technology recorded as a result of current year acquisitions 
+total cost of revenue as a percentage of total revenue for fiscal increased to as compared to in fiscal this increase in cost of revenue as a percentage of total revenue for fiscal as compared to fiscal is due to the write off of intangible assets relating to a discontinued product totaling million and an increase in the inventory reserve totaling million related to our hardware modeling product 
+work force reduction 
+during the first quarter of fiscal  as part of an overall cost reduction program  we implemented a workforce reduction affecting all departments  both domestic and foreign 
+as a result  our workforce was reduced by approximately employees and a charge of approximately million was included in operating expenses during the second quarter of fiscal this charge consists of severance and other special termination benefits 
+these costs are reflected in the statement of operations as follows in thousands cost of revenue research and development  sales and marketing  general and administrative  total  research and development 
+research and development expenses for fiscal increased to million as compared to million for fiscal the increase in expenses is due to increases of million in compensation and compensation related costs as a result of an increase in research and development headcount due to the avant acquisition  million in human resources  technology and facilities costs as a result of increased research and development staffing and million in depreciation expense 
+these increases were offset by decreases of million in consulting expenses and million of other expenses including facilities  travel  communications  supplies and recruiting as a result of our cost reduction programs 
+research and development expenses for fiscal remained relatively flat at million as compared to million in fiscal research and development expenses increased in fiscal as compared to fiscal due to increases in personnel related costs  recruiting costs and depreciation expense 
+these increases were offset by a decrease in facilities expense due to the fact that during the fourth quarter of fiscal we closed certain facilities acquired in the gambit acquisition and to decreases in equipment repairs  advertising expenses and travel and entertainment costs 
+sales and marketing 
+sales and marketing expenses for fiscal decreased to million as compared to million in fiscal the overall decrease is due to decreases of million in human resources  technology and facilities costs as a result of a decrease in sales and marketing headcount as a percentage of total headcount  million in employee functions  million in consulting expenses and million in other expenses including communications and supplies  charitable contributions  professional services  subscriptions and memberships as a result of our cost reduction efforts 
+these decreases are offset by increases of million in compensation and related costs attributable to an increase in sales and marketing headcount resulting from the avant merger and million in travel relating to customer visits to discuss the potential integration of synopsys and avant products 
+sales and marketing expenses for fiscal decreased to million as compared to million in fiscal the decrease in fiscal compared to fiscal was due to decreases in annual commissions  bonuses  travel  consulting expenses  recruiting  advertising and depreciation expense 
+these decreases were offset in part by an increase in personnel related costs 
+general and administrative 
+general and administrative expenses for fiscal increased to million as compared to million in fiscal the overall increase is due to increases of million in facilities costs as a result of an increased number of sites due to the avant merger  million in compensation and compensation related costs as a result of increased headcount due to the avant merger  million in professional service fees  million in communications costs  million in equipment to update licenses for our internal enterprise application systems  million in depreciation and million in other expenses including travel and property tax assessments 
+these increases were offset by decreases of million as a result of decreased general and administrative headcount as a percentage of total headcount and million in consulting costs as a result of our cost reduction efforts 
+general and administrative expenses for fiscal increased to as compared to million 
+the increase in fiscal as compared to fiscal was due to increases in bad debt expense  facility expenditures and consulting services related to the upgrade of our current computer systems 
+these increases are offset by a decrease in personnel costs 
+integration costs 
+non recurring integration costs incurred relate to merger activities which are not included in the purchase consideration under emerging issues task force number eitf  recognition of liabilities in connection with a purchase business combination 
+these costs are expensed as incurred 
+during fiscal  integration costs totaled million 
+these costs consisted primarily of i million related to the premium for the insurance policy acquired in conjunction with the avant merger  ii million related to write downs of synopsys facilities and property under the management approved facility exit plan for the avant merger  iii million and million related to severance costs for synopsys employees who were terminated and costs associated with transition employees as a result of the avant and insilicon mergers  respectively  iv million related to the write off of software licenses owned by synopsys which were originally purchased from avant  v million goodwill impairment charge related to a prior synopsys acquisition as a result of the acquisition of avant and vi million and million of other expenses including travel and certain professional fees for the avant and co design mergers  respectively 
+in process research and development 
+the following paragraphs contain forward looking statements within the meaning of section e of the securities exchange act of  including statements and assumptions regarding percentage of completion  expected product release dates  dates for which we expect to begin generating benefits from projects  expected product capabilities and product life cycles  costs and efforts to complete projects  growth rates  royalty rates and projected revenue and expense information used by us to calculate discounted cash flows and discount rates 
+these forward looking statements involve risks and uncertainties  and the cautionary statements set forth below and in factors that may affect future results identify important factors that could cause actual results to differ materially from those predicted in any such forward looking statement 
+purchased in process research and development iprd of million and million in fiscal and  respectively  represents the write off of in process technologies associated with our acquisitions of avant and insilicon in fiscal and leda in fiscal there were no acquisitions during fiscal at the date of each acquisition  the projects associated with the iprd efforts had not yet reached technological feasibility and the research and development in process had no alternative future uses 
+accordingly  these amounts were charged to expense on the respective acquisition dates of each of the acquired companies 
+also see note  business combinations  of notes to synopsys consolidated financial statements 
+valuation of iprd 
+we use an independent third party valuation firm to assist us valuing the tangible and intangible assets and the in process technologies acquired in each of our business combinations 
+the value assigned to acquired in process technology is determined by identifying products under research in areas for which technological feasibility had not been established 
+the value of in process technology is then segmented into two classifications i developed technology completed and ii in process technology to be completed  giving explicit consideration to the value created by the research and development efforts of the acquired business prior to the date of acquisition and to be created by synopsys after the acquisition 
+these value creation efforts were estimated by considering the following major factors i time based data  ii cost based data and iii complexity based data 
+the value of the in process technology was determined using a discounted cash flow model similar to the income approach  focusing on the income producing capabilities of the in process technologies 
+under this approach  the value is determined by estimating the revenue contribution generated by each of the identified products within the classification segments 
+revenue estimates were based on i individual product revenues  ii anticipated growth rates  iii anticipated product development and introduction schedules  iv product sales cycles and v the estimated life of a product s underlying technology 
+from the revenue estimates  operating expense estimates  including costs of sales  general and administrative  selling and marketing  income taxes and a use charge for contributory assets  were deducted to arrive at operating income 
+revenue growth rates were estimated by management for each product and gave consideration to relevant market sizes and growth factors  expected industry trends  the anticipated nature and timing of new product introductions by us and our competitors  individual product sales cycles  and the estimated life of each product s underlying technology 
+operating expense estimates reflect synopsys historical expense ratios 
+additionally  these projects will require continued research and development after they have reached a state of technological and commercial feasibility 
+the resulting operating income stream was discounted to reflect its present value at the date of the acquisition 
+these estimates are subject to change  given the uncertainties of the development process  and no assurance can be given that deviations from these estimates will not occur or that we will realize any anticipated benefits of the acquisition 
+the rate used to discount the net cash flows from purchased in process technology is our weighted average cost of capital wacc  taking into account our required rates of return from investments in various areas of the enterprise  and reflecting the inherent uncertainties in future revenue estimates from technology investments including the uncertainty surrounding the successful development of the acquired in process technology  the useful life of such technology  the profitability levels of such technology  if any  and the uncertainty of technological advances  all of which are unknown at this time 
+avant 
+the iprd expense related to the avant merger was million 
+at the date of the avant merger  the principal in process technologies were identified based on the following avant product families physical products division ppd  verification products division vpd  analysis products division apd  logical products division lpd  mtb  technology computer aided design tcad and analogy 
+for purposes of valuing the iprd in accordance with the methodology discussed above  the following estimates were used revenue growth ranging from beginning in year two to in year nine  cost of sales of revenue in each year  general and administrative expenses of revenue in each year  and sales and marketing of revenue in each year 
+in addition  it was assumed there would be no expense reduction due to economic synergies as a result of the acquisition 
+the rate used to discount the net cash flows from the purchased in process technology was in the range of 
+the technologies were approximately to complete at the acquisition date 
+the nature of the efforts to complete these projects related  in varying degrees  to the completion of all planning  designing  prototyping  verification  and testing activities that are necessary to establish that the proposed technologies met their design specifications  including functional  technical  and economic performance requirements 
+expenditures to complete the acquired in process technologies are expected to total approximately million 
+insilicon 
+the iprd expense related to the insilicon acquisition was million 
+at the date of the insilicon merger  the principal in process technologies were identified based on the following insilicon product lines ethernet  joint photographic experts group jpeg  java technology  peripheral component interconnect pci  pci x and universal serial business usb 
+for purposes of valuing the iprd in accordance with the methodology discussed above  the following estimates were used revenue growth ranging from beginning in year three for certain products to revenue decline of in year ten  cost of sales of revenue in each year  and selling  general and administrative expenses ranging from of revenue in year two to of revenue in year seven 
+in addition  it was assumed there would be no expense reduction due to economic synergies as a result of the acquisition 
+the rates used to discount the net cash flows from the purchased in process technology range from to 
+the technologies were approximately to complete at the acquisition date 
+the nature of the efforts to complete these projects related  in varying degrees  to the completion of all planning  designing  prototyping  verification  and testing activities that are necessary to establish that the proposed technologies met their design specifications  including functional  technical  and economic performance requirements 
+expenditures to complete the acquired in process technologies are expected to total approximately million 
+during fiscal  we made an acquisition resulting in aggregate iprd charges of million which was not individually material to the results of our operations in the respective year 
+the fair value of the related iprd was determined in a manner substantially similar to that described above 
+the risks associated with acquired research and development are considered high and no assurance can be made that these products will generate any benefit to us or meet market expectations 
+amortization of intangible assets 
+goodwill represents the excess of the aggregate purchase price over the fair value of the tangible and identifiable intangible assets we have acquired 
+goodwill for our pre fiscal acquisitions and intangible assets are amortized over their estimated useful lives of three to ten years 
+we assess the recoverability of goodwill by estimating whether the unamortized cost will be recovered through estimated future undiscounted cash flows 
+amortization of intangible assets charged to operating expenses for fiscal increased to million as compared to million for fiscal the increase in amortization of intangible assets charged to operations for fiscal as compared to fiscal is due to the amortization of intangible assets acquired in the avant  insilicon and co design mergers during the current year 
+the financial accounting standards board recently issued new guidance with respect to the amortization and evaluation of goodwill 
+this new guidance is discussed below under effect of new accounting standards 
+in connection with the current year mergers  we also assumed unvested stock options held by avant  insilicon and co design employees 
+we have recorded deferred stock compensation totaling million  million and million based on the intrinsic value of these assumed unvested stock options for avant  insilicon and co design  respectively 
+the deferred stock compensation is amortized over the options remaining vesting period of one to three years 
+during fiscal  we recorded amortization of deferred stock compensation in each of the following expense classifications in the statement of operations in thousands cost of revenue research and development sales and marketing general and administrative total  amortization of intangible assets charged to operating expenses for fiscal increased to million as compared to million in fiscal the increase in amortization of intangible assets charged to operations for fiscal as compared to fiscal is due to the write off of certain technology totaling million acquired from  and goodwill totaling million related to  the acquisition of eagle design automation  inc in and to the fact that the goodwill and intangible assets related to certain acquisitions completed during fiscal were amortized for the full year of fiscal we periodically evaluate our intangible assets for indications of impairment whenever events or changes in circumstances indicate that the carrying value may not be recoverable 
+if this evaluation indicates that the value of the intangible asset may be impaired  an assessment of the recoverability of the net carrying value of the asset over its remaining useful life is made 
+if this assessment indicates that the intangible asset is not recoverable  based on the estimated undiscounted future cash flows of the entity or technology acquired over the remaining amortization period  the net carrying value of the related intangible asset will be reduced to fair value and the remaining amortization period may be adjusted 
+in fiscal  we recognized an aggregate impairment charge of million to reduce the amount of certain intangible assets associated with prior acquisitions to their estimated fair value 
+approximately million and million are included in integration expense and amortization of intangible assets  respectively  on the statement of operations 
+the impairment charge is primarily attributable to certain technology acquired from  and goodwill related to  the acquisition of stanza  inc in during the fourth quarter of fiscal  we determined that we would not allocate future resources to assist in the market growth of this technology as products acquired in the merger with avant provide customers with superior capabilities and we do not anticipate any future sales of the product 
+in fiscal  we recognized an aggregate impairment charge of million to reduce the amount of certain intangible assets associated with prior acquisitions to their estimated fair value 
+approximately million and million are included in cost of revenues and amortization of intangible assets  respectively  on the statement of operations 
+the impairment charge is attributable to certain technology acquired from  and goodwill related to the acquisition of eagle design automation  inc in during the fourth quarter of fiscal  we determined that we would not allocate future resources to assist in the market growth of this technology and we do not anticipate any future sales of the product 
+there were no impairments of intangible assets in fiscal other expense income  net 
+other expense  net of other income is million in fiscal the balance consists primarily of the following i million expense due to the settlement of the cadence litigation as described under cadence litigation  ii million in impairment charges related to certain assets in our venture portfolio  iii realized gains on investments of million  iv a gain of million for the termination fee on the ikos agreement  v rental income of million  vi interest income of million and vii and other miscellaneous expenses including amortization of premium forwards and foreign exchange gains and losses recognized during the fiscal year of million 
+in fiscal  other income  net of other expense was million 
+the balance consists primarily of the following i a gain of million on the sale of our silicon libraries business to artisan ii million in impairment charges related to certain assets in our venture portfolio  iii realized gains on investments of million  iv rental income of million  v interest income of million and vi and other miscellaneous expenses including amortization of premium forwards and foreign exchange gains and losses recognized during the fiscal year of million 
+in fiscal  other income  net of other expense was million 
+the balance consists primarily of the following i realized gains on investments of million  ii interest income of million and iii and other miscellaneous expenses including amortization of premium forwards and foreign exchange gains and losses recognized during the fiscal year of million 
+interest rate risk 
+our exposure to market risk for changes in interest rates relates primarily to our short term investment portfolio 
+we place our investments in a mix of tax exempt and taxable instruments that meet high credit quality standards  as specified in our investment policy 
+the policy also limits the amount of credit exposure to any one issue  issuer and type of instrument 
+we do not anticipate any material losses due to this risk with respect to our investment portfolio 
+the following table presents the carrying value and related weighted average total return for our investment portfolio 
+the carrying value approximates fair value at october  in accordance with our investment policy  the weighted average duration of our total invested funds does not exceed one year 
+principal notional amounts in us dollars weighted average after tax carrying amount return in thousands short term investments fixed rate  cash equivalent investments variable rate  money market funds variable rate  total interest bearing instruments  see note  financial instruments  in the accompanying notes to consolidated financial statements for additional information on investment maturity dates  long term debt and equity price risk related to our long term investments 
+foreign currency risk 
+at the present time  we do not generally hedge anticipated foreign currency cash flows but hedge only i those currency exposures associated with certain assets and liabilities denominated in nonfunctional currencies and ii forecasted accounts receivable generally associated with sales contracts with extended payment terms and accounts payable denominated in non functional currencies 
+hedging activities undertaken are intended to offset the impact of currency fluctuations on these balances 
+the success of this activity depends upon the accuracy of our estimates of balances denominated in various currencies and in fluctuations in foreign currencies  primarily the euro  japanese yen  taiwan dollar  british pound sterling  canadian dollar  singapore dollar  korean won and israeli shekel 
+at october   we had forward contracts for the sale and purchase of currencies with a notional value expressed in us dollars of million 
+looking forward  we do not anticipate any material adverse effect on our consolidated financial position  results of operations  or cash flows resulting from the use of these instruments 
+there can be no assurance that these hedging transactions will be effective in the future 
+these foreign currency contracts contain credit risk in that the counterparty may be unable to meet the terms of the agreements 
+we have limited these agreements to major financial institutions to reduce such credit risk 
+furthermore  we monitor the potential risk of loss with any one financial institution 
+we do not enter into forward contracts for speculative purposes 
+the realized gain loss on these contracts as they matured have not been material to our consolidated financial position  results of operations or cash flows 
+the following table provides information about our foreign currency contracts at october  due to the short term nature of these contracts  the contract rates approximate the weighted average currency exchange rates at october  these forward contracts mature in approximately thirty days and contracts are rolled forward on a monthly basis to match firmly committed transactions 
+short term forward contracts to sell and buy foreign currencies in us dollars usd amount contract rate in thousands forward net contract values euro  japanese yen  taiwan dollar  british pound sterling  korean won  israeli shekel canadian dollar  singapore dollar  the unrealized gains of approximately million on the outstanding forward contracts at october  are presented net of tax in accumulated other comprehensive income 
+the realized gain loss on these contracts as they matured were not material to our consolidated financial position  results of operations  or cash flows for the periods presented 
+termination of agreement to acquire ikos systems  inc 
+on july   we entered into an agreement and plan of merger and reorganization the ikos merger agreement with ikos systems  inc ikos 
+the ikos merger agreement provided for the acquisition of all outstanding shares of ikos common stock by synopsys 
+on december   mentor graphics corporation mentor commenced a cash tender offer to acquire all of the outstanding shares of ikos common stock at per share  subject to certain conditions 
+on march   synopsys and ikos executed a termination agreement by which the parties terminated the ikos merger agreement and pursuant to which ikos paid synopsys the million termination fee required by the ikos merger agreement 
+this termination fee and million of expenses incurred in conjunction with the acquisition are included in other income  net on the consolidated statement of operations for the year ended october  synopsys subsequently executed a revised termination agreement with mentor and ikos in order to add mentor as a party thereto 
+acquisition of avant corporation on june  the closing date  we completed the merger with avant 
+reasons for the acquisition 
+our board of directors unanimously approved the merger with avant at its december  meeting 
+in approving the merger agreement  the board of directors consulted with legal and financial advisors as well as with management and considered a number of factors 
+these factors include the fact that the merger is expected to enable synopsys to offer its customers a complete end to end solution for system on chip design that includes synopsys logic synthesis and design verification tools with avant s advanced place and route  physical verification and design integrity products  thus increasing customers design efficiencies 
+by increasing customer design efficiencies  synopsys expects to be able to better compete for customers designing the next generation of semiconductors 
+further  by gaining access to avant s physical design and verification products  as well as its broad customer base and relationships  synopsys will gain new opportunities to market its existing products 
+the foregoing discussion of the information and factors considered by our board of directors is not intended to be exhaustive but includes the material factors considered by our board of directors 
+purchase price 
+holders of avant common stock received of a share of synopsys common stock including the associated preferred stock rights in exchange for each share of avant common stock owned as of the closing date  aggregating million shares of synopsys common stock 
+the fair value of the synopsys shares issued was based on a per share value of  which is equal to synopsys average last sale price per share as reported on the nasdaq national market for the trading day period two days before and after december   the date of the merger agreement 
+the total purchase consideration consists of the following in thousands fair value of synopsys common stock issued  acquisition related costs  facilities closure costs  employee severance costs  fair value of options to purchase synopsys common stock issued  less million representing the portion of the intrinsic value of avant s unvested options applicable to the remaining vesting period  the acquisition related costs of million consist primarily of banking  legal and accounting fees  printing costs  and other directly related charges including contract termination costs of million 
+facilities closure costs at the closing date include million related to avant s corporate headquarters 
+after the merger  the functions performed in the buildings were consolidated into synopsys corporate facilities 
+the lessors have brought a claim against avant for the future amounts payable under the lease agreements 
+the amount accrued at the closing date is equal to the future amounts payable under the related lease agreements  without taking into consideration in the accrual any defenses the company may have to the claim 
+resolution of this contingency at an amount different from that accrued will result in an increase or decrease in the purchase consideration and the amount will be allocated to goodwill 
+subsequent to october   synopsys settled all of the claims of the landlord of two of these buildings for million 
+the remaining facilities closure costs at the closing date totaling million represents the present value of the future obligations under certain of avant s lease agreements which the company has or intends to terminate under an approved facilities exit plan plus additional costs expected to be incurred directly related to vacating such facilities 
+employee severance costs include i million in cash paid to avant s chairman of the board  consisting of severance plus a cash payment equal to the intrinsic value of his in the money stock options at the closing date  ii million in cash severance payments paid to redundant employees primarily sales and corporate infrastructure personnel terminated on or subsequent to the consummation of the merger under an approved plan of termination and iii million in termination payments to certain executives in accordance with their respective pre merger employment agreements 
+the total number of avant employees terminated as a result of the merger was approximately as of october   million of costs described in the three preceding paragraphs have been paid and million of these costs have not yet been paid 
+the following table presents the components of acquisition related costs recorded  along with amounts paid during fiscal payments through balance at initial october  october  in thousands total cost additions subtotal acquisition related costs     facilities closure costs     employee severance costs    total     during the fourth quarter of fiscal  additions were made to increase the total acquisition related costs including an increase to employee severance costs totaling million for actual amounts paid to such employees 
+the total purchase consideration has been allocated to the assets and liabilities acquired  including identifiable intangible assets  based on their respective fair values at the acquisition date and resulting in excess purchase consideration over the net tangible and identifiable intangible assets acquired of million 
+the following unaudited condensed balance sheet data presents the fair value of the assets and liabilities acquired after certain adjustments made during the fourth quarter to the preliminary fair values of the assets and liabilities acquired 
+in thousands assets acquired cash  cash equivalents and short term investments  accounts receivable  prepaid expenses and other current assets  intangible assets  goodwill  other assets  total assets acquired  liabilities acquired accounts payable and accrued liabilities  deferred revenue  income taxes payable  other liabilities  total liabilities acquired  the initial allocation of the purchase price included certain assets and liabilities that we recorded using preliminary estimates of fair value 
+during the fourth quarter of  the value assigned to avant s investment in a venture capital fund was reduced from the preliminary value of million to million upon obtaining additional information on the venture fund s non public investments and subsequent sale of the investment to a third party 
+the decrease in the fair value of the investment increased the consideration allocated to goodwill by million 
+during the fourth quarter of  the company also increased the value of the acquired customs and use tax liabilities by million  resulting in a corresponding increase in goodwill 
+asset held for sale 
+as a result of the merger  synopsys acquired avant s physical libraries business  and was obligated to offer and sell such business to artisan components  inc under the terms of a january non compete agreement  under which we agreed not to engage  directly or indirectly  in the physical libraries business before january  as of the closing date  the value allocated to the acquired libraries business had been recorded as net assets held for sale  based on the estimated future net cash flows from the libraries business in accordance with eitf  allocation of purchase price to assets to be sold 
+during the fourth quarter of fiscal  management determined that the libraries business would not be sold and  accordingly  allocated the fair value of the libraries business as of the closing date to the underlying tangible assets and intangible assets 
+the fair value allocated to the tangible and intangible assets was million  with the remaining fair value allocated to goodwill 
+this allocation is reflected in the balance sheet as of october  goodwill and intangible assets 
+goodwill  representing the excess of the purchase price over the fair value of tangible and identifiable intangible assets acquired in the merger  will not be amortized  consistent with the guidance in sfas as discussed under effect of new accounting standards below 
+the goodwill associated with the avant acquisition is not deductible for tax purposes 
+in addition  a portion of the purchase price was allocated to the following identifiable intangible assets intangible asset in thousands estimated useful life core developed technology  years contract rights intangible  years customer installed base relationship  years trademarks and tradenames  years covenants not to compete  the life of the related agreement to years customer backlog  years total  contract rights intangible 
+avant had executed signed license agreements and delivered the initial configuration of licensed technologies under ratable license arrangements and had executed signed contracts to provide pcs over a one to three year period  for which avant did not consider the fees to be fixed or determinable at the outset of the arrangement 
+there were no receivables or deferred revenues recorded on avant s historical financial statements at the closing date as the related payments were not yet due under extended payment terms and deliveries are scheduled to occur over the terms of the arrangements 
+these ratable licenses and pcs arrangements require future performance by both parties and  as such  represent executory contracts 
+the contract rights intangible asset associated with these arrangements is being amortized to cost of revenue over the related contract lives of three years 
+the amortization of intangible assets  with the exception of the contract rights intangible and core developed technology  is included in operating expenses in the statement of operations for the fiscal year ended october  amortization of core developed technology and contract rights intangible is included in cost of revenue 
+cadence litigation 
+at the time of the acquisition of avant  avant was engaged in civil litigation with cadence regarding alleged misappropriation of trade secrets  among other things  by avant and certain individuals 
+in connection with the merger  synopsys entered into a policy with a subsidiary of american international group  inc  a aaa rated insurance company  whereby insurance was obtained for certain compensatory  exemplary and punitive damages  penalties and fines and attorneys fees arising out of pending litigation between avant and cadence 
+the policy did not provide coverage for litigation other than the avant cadence litigation 
+we paid a total premium of million for the policy  of which million was contingently refundable 
+the balance of the premium paid to the insurer million is included in integration expense for the year ended october  under the policy the insurer is obligated to pay covered loss up to a limit of liability equaling a million plus b interest accruing at the fixed rate of  compounded semi annually  on million the interest component  as reduced by previous covered losses 
+interest earned on million is included in other income  net in the post merger statement of operations 
+on november   cadence and synopsys reached a settlement of the litigation 
+under the terms of the agreement  cadence will be paid million in two installments million on november  and million on december  in addition  cadence and synopsys have entered into reciprocal licenses arrangements covering the intellectual property at issue in the litigation 
+as a result of the payment  synopsys has recognized expense of approximately million  which is equal to the contingently refundable portion of the insurance premium plus interest accrued on the restricted asset 
+this expense is included in other income and expense on the statement of operations 
+acquisition of co design on september   we completed the acquisition of co design 
+reasons for the acquisition 
+in approving the merger agreement  management considered a number of factors  including i the acquisition will help promote the development and adoption of the superlog language  which we believe can increase designer productivity  ii the combination of co design s technology with our high level verification and design implementation tools is expected to improve the performance of our software products  and iii the acquisition gives us access to co design s highly skilled employees who will help us improve our existing products and facilitate the development of new products 
+the foregoing discussion of the information and factors considered by synopsys management is not intended to be exhaustive but includes the material factors considered 
+purchase price 
+holders of co design common stock received consideration consisting of cash and notes totaling million in exchange for all shares of co design common stock owned as of the merger date 
+the total purchase consideration consists of the following in thousands cash paid and notes issued of million for co design common stock  acquisition related costs  fair value of options to purchase synopsys common stock issued  less million representing the portion of the intrinsic value of co design s unvested options applicable to the remaining vesting period the acquisition related costs of approximately million consist primarily of legal and accounting fees 
+as of october   substantially all of these acquisition related costs have been paid 
+total consideration for the acquisition and services provided has been allocated to the total assets acquired of million  total liabilities assumed of million and notes payable of million  including identifiable intangible assets  based on their respective fair values at the acquisition date 
+the identifiable intangible assets consist of core developed technology totaling million which is being amortized over an estimated useful life of years due to the fact that this technology is essentially a programming language 
+the million of notes are payable to former co design shareholders in of which million has been included in integration expense for services performed in the statement of operations 
+if certain milestones are met  the notes may be prepaid in fiscal and upon prepayment  an additional interest component totaling approximately million is also payable 
+the total purchase consideration has been allocated to the assets and liabilities acquired  including identifiable intangible assets  based on their respective fair values at the acquisition date and resulted in excess purchase consideration over the net tangible and identifiable intangible assets acquired of million 
+acquisition of insilicon on september   we completed the acquisition of insilicon 
+reasons for the acquisition 
+in approving the merger agreement  management considered a number of factors  including the complementary nature of insilicon s portfolio of intellectual property blocks and synopsys own portfolio  the fact that insilicon had established a per use license model for its ip products  which would accelerate synopsys adoption of a per use model for its new and development stage ip  insilicon s relationships with chip design teams  insilicon s positive reputation as a vendor of high quality ip and insilicon s highly skilled employee base 
+the foregoing discussion of the information and factors considered by our management is not intended to be exhaustive but includes the material factors considered 
+purchase price 
+holders of insilicon common stock received in exchange for each share of insilicon common stock owned as of the merger date  or approximately million 
+the total purchase consideration consists of the following in thousands cash paid for insilicon common stock  acquisition related costs  fair value of options to purchase synopsys common stock issued  less million representing the portion of the intrinsic value of insilicon s unvested options applicable to the remaining vesting period  the acquisition related costs of million consist primarily of legal and accounting fees of million  and other directly related charges including contract termination costs of million  and restructuring costs of approximately million 
+as of october   million of acquisition related costs have been paid 
+of the balance remaining at october   million represents outstanding contract termination costs 
+the total purchase consideration has been allocated to the assets and liabilities acquired  including identifiable intangible assets  based on their respective fair values at the acquisition date  resulting in goodwill of million 
+the following unaudited condensed balance sheet data presents the fair value of the assets and liabilities acquired 
+in thousands assets acquired cash  cash equivalents and short term investments  accounts receivable  prepaid expenses and other current assets  core developed technology  customer backlog  goodwill  other assets  total assets acquired  liabilities acquired accounts payable and accrued liabilities  deferred revenue  income taxes payable other liabilities  total liabilities acquired  goodwill and intangible assets 
+goodwill  representing the excess of the purchase consideration over the fair value of tangible and identifiable intangible assets acquired in the merger will not be amortized  consistent with the guidance in sfas as discussed under effect of new accounting standards below 
+the goodwill associated with the insilicon acquisition is not deductible for tax purposes 
+insilicon had executed signed contracts with five of its major customers to provide ip licenses  including significant modifications to the ip license in order to meet unique customer requirements 
+the value associated with these contracts was determined by quantifying the projected cash flow related to these contracts  discounted to present value  and is recorded as customer backlog in intangible assets in the consolidated balance sheets 
+intangible assets are being amortized over their estimated useful life of years 
+the amortization of intangible assets is included in cost of revenue in the statement of operations for the fiscal year ended october  unaudited pro forma results of operations 
+the following table presents pro forma results of operations and gives effect to the avant and insilicon mergers as if the mergers were consummated on november  the unaudited pro forma results of operations are not necessarily indicative of the results of operations had the avant and insilicon mergers actually occurred at the beginning of fiscal  nor is it necessarily indicative of future operating results year ended october  in thousands  except per share amounts revenues   net income   basic earnings per share weighted average common shares outstanding   diluted earnings per share weighted average common shares and dilutive stock options outstanding   the unaudited pro forma results of operations for each of the periods presented exclude non recurring merger costs of million for the avant insurance policy premium  million for iprd resulting from the avant merger  million for iprd resulting from the insilicon merger and million and million for avant s pre merger litigation settlement and other related costs incurred in fiscal and  respectively 
+these expenses are included in the historical consolidated statement of operations 
+prior year business combinations and divestitures 
+on january   we sold the assets of our silicon libraries business to artisan components  inc for a total sales price of million  including common stock with a fair value on the date of sale of million  and cash of million 
+the net book value of the assets sold was million 
+expenses incurred in connection with the sale were million 
+we recorded a gain on the sale of the business of million  which is included in other income  net in direct revenue for the silicon libraries business was million and million for the fiscal years and  respectively 
+there were no business combinations completed in fiscal in fiscal  we acquired i virsim  a software product  from innoveda  inc  for a purchase price of approximately million in cash  ii the silicon group  inc  a privately held provider of integrated circuit design and intellectual property integration services  for a purchase price of million  including cash payments of million and a reserve of approximately  shares of common stock for issuance under the silicon group s stock option plan which was assumed in the transaction  and iii leda  sa leda  a privately held provider of rtl coding style checkers  for a purchase price of million  including cash payments of million 
+approximately million of the leda purchase price was allocated to in process research and development and charged to operations because the acquired technology had not reached technological feasibility and had no alternative uses 
+the purchase price of each of these transactions was allocated to the acquired assets and liabilities based on their estimated fair values as of the date of the respective acquisition 
+amounts allocated to developed technology  workforce and goodwill have been amortized on a straight line basis over periods ranging from three to five years 
+effective november   goodwill will no longer be amortized in accordance with sfas as discussed below under effect of new accounting standards 
+subsequent events renewal of stock repurchase program 
+in december  our board of directors renewed our stock repurchase program originally approved in july under the renewed program  we may repurchase synopsys common stock with a market value up to million not including amounts purchased to date under the july program on the open market 
+common shares repurchased are intended to be used for ongoing stock issuances  such as for existing employee stock option and stock purchase plans and acquisitions 
+proposed acquisition of numerical technologies  inc 
+on january   we entered into an agreement and plan of merger with numerical technologies  inc numerical under which we commenced a cash tender offer to acquire all of the outstanding shares of numerical common stock at per share  followed by a second step merger in which we would acquire any untendered numerical shares at the same price per share 
+the total transaction value is expected to be approximately million 
+following the consummation of the cash tender offer  numerical will merge with and into a wholly owned subsidiary of synopsys 
+the acquisition is subject to certain conditions  including the tender of a majority of the fully diluted shares of numerical  compliance with regulatory requirements and customary closing conditions 
+workforce reduction 
+during the first quarter of fiscal  we implemented a workforce reduction 
+the purpose was to reduce expenses by decreasing the number of employees in all departments in domestic and foreign locations 
+as a result  we expect to record a charge of between million and million during the first quarter of fiscal the charge consists of severance and other special termination benefits 
+effect of new accounting standards in july  the financial accounting standards board fasb issued statements of financial accounting standards no 
+ business combinations sfas  and financial accounting standards no 
+ goodwill and other intangible assets sfas 
+sfas requires that the purchase method of accounting be used for all business combinations initiated after june  and specifies criteria intangible assets acquired in a purchase method business combination must meet to be recognized apart from goodwill 
+sfas requires that goodwill and intangible assets with indefinite useful lives no longer be amortized  but instead be tested for impairment at least annually in accordance with the provisions of sfas we adopted sfas on november  as of october   unamortized goodwill is million  which will no longer be amortized subsequent to the adoption of sfas related goodwill amortization expense for fiscal  and is million  million and million  respectively 
+we adopted the provisions of sfas on july  under sfas  goodwill and intangible assets with indefinite useful lives acquired in a purchase business combination completed after june   but before sfas is adopted  will not be amortized but will continue to be evaluated for impairment in accordance with sfas goodwill and intangible assets acquired in business combinations completed before july  will continue to be amortized and tested for impairment in accordance with current accounting guidance until the date of adoption of sfas upon adoption of sfas  we must evaluate our existing intangible assets and goodwill acquired in purchase business combinations prior to july   and make any necessary reclassifications in order to conform with the new criteria in sfas for recognition apart from goodwill 
+upon adoption of sfas  we have assessed useful lives and residual values of all intangible assets acquired 
+we have also tested goodwill for impairment in accordance with the provisions of sfas in completing our impairment analysis  we have determined that we have one reporting unit as the company operates in one reportable segment 
+in conjunction with the implementation of sfas no 
+ we have completed a goodwill impairment review as of the beginning of fiscal and found no impairment 
+this impairment review was based on the fair value of the company as determined by its market capitalization 
+in july  the fasb issued statement of financial accounting standards no 
+ accounting for asset retirement obligations sfas 
+sfas requires that asset retirement obligations that are identifiable upon acquisition  construction or development and during the operating life of a long lived asset be recorded as a liability using the present value of the estimated cash flows 
+a corresponding amount would be capitalized as part of the asset s carrying amount and amortized to expense over the asset s useful life 
+we are required to adopt the provisions of sfas effective november  the adoption of sfas will not have a significant impact on our financial position and results of operations 
+in august  the fasb issued statement of financial accounting standards no 
+ accounting for the impairment or disposal of long lived assets sfas  which addresses financial accounting and reporting for the impairment or disposal of long lived assets and supersedes sfas no 
+ accounting for the impairment of long lived assets and for long lived assets to be disposed of  and the accounting and reporting provisions of apb opinion no 
+ reporting the results of operations for a disposal of a segment of a business 
+we are required to adopt the provisions of sfas no later than november  the adoption of sfas will not have a significant impact on our financial position and results of operations 
+in july  the fasb issued statement of financial accounting standards no 
+sfas  accounting for exit or disposal activities 
+sfas addresses the recognition  measurement  and reporting of costs that are associated with exit and disposal activities  including costs related to terminating a contract that is not a capital lease and termination benefits that employees who are involuntarily terminated receive under the terms of a one time benefit arrangement that is not an ongoing benefit arrangement or an individual deferred compensation contract 
+sfas supersedes emerging issues task force issue no 
+ liability recognition for certain employee termination benefits and other costs to exit an activity including certain costs incurred in a restructuring and requires liabilities associated with exit and disposal activities to be expensed as incurred 
+sfas will be effective for exit or disposal activities of ours that are initiated after december  we believe that the adoption of sfas will not have a significant impact on our financial position and results of operations 
+in december  the fasb issued statement of financial accounting standards no 
+sfas  accounting for stock based compensation transition and disclosure 
+sfas amends fasb statement no 
+sfas  accounting for stock based compensation  to provide alternative methods of transition for a voluntary change to the fair value based method of accounting for stock based employee compensation 
+in addition  sfas amends the disclosure requirements of sfas to require prominent disclosures in both annual and interim financial statements about the method of accounting for stock based employee compensation and the effect of the method used on reported results 
+the transition guidance and annual disclosure provisions of sfas are effective for fiscal years ending after december  the interim disclosure provisions are effective for financial reports containing financial statements for interim periods beginning after december  we are currently evaluating the impact of adoption of sfas on our financial position and results of operations 
+in november  the eitf reached a consensus on issue no 
+eitf  revenue arrangements with multiple deliverables 
+eitf addresses certain aspects of the accounting by a vendor for arrangements under which the vendor will perform multiple revenue generating activities 
+eitf will be effective for fiscal years beginning after june  we do not expect the adoption of eitf to have a material impact on our financial position and results of operations 
+in november  the fasb interpretation no 
+interpretation  guarantor s accounting and disclosure requirements for guarantees  including indirect guarantees of indebtedness of others  which clarifies disclosure and recognition measurement requirements related to certain guarantees 
+the disclosure requirements are effective for financial statements issued after december  and the recognition measurement requirements are effective on a prospective basis for guarantees issued or modified after december  we are currently evaluating the impact of adoption of interpretation on our financial position and results of operations 
+liquidity and capital resources cash  cash equivalents and short term investments were million at october   a decrease of million  or  from million at october  cash used in operating activities was million for fiscal compared to cash provided by operating activities of million in fiscal the decrease in cash flows from operating activities is due primarily to the insurance premium payments totaling million related to the avant acquisition and payments for income taxes and other liabilities made during the year 
+cash provided by investing activities was million in fiscal compared to million provided by investing activities during fiscal the increase of million in in cash provided by investing activities is due primarily to the cash acquired in the acquisitions  net of cash received  of million 
+net proceeds from the sale of short and long term investments totaled million for fiscal as compared to net proceeds of investments of million for fiscal the cash received from the sales of investments during fiscal was primarily used to purchase treasury stock 
+capital expenditures totaled million during fiscal compared to million in fiscal during fiscal  we invested in fixed assets  primarily related to construction of our oregon facilities and computing equipment to upgrade our internal engineering and enterprise application systems 
+we used million in net cash for financing activities during compared to in fiscal the primary financing uses of cash during were the repurchase of million shares of common stock at an average price of per share 
+financing proceeds from the sale of shares pursuant to our employee stock plans during fiscal were million compared to million during fiscal accounts receivable increased million  or  to million at october  from million at october  largely due to the avant merger 
+days sales outstanding  which is calculated based on revenues for the most recent quarter and accounts receivable as of the balance sheet date decreased to days as of october  from days at october  the decrease in days sales outstanding is due in part to the timing of large cash collections realized during the fourth quarter of fiscal we believe that our current cash  cash equivalents  short term investments and cash generated from operations will satisfy our business requirements for at least the next twelve months 
+stock option plans under our stock option plan the plan   shares of common stock have been authorized for issuance 
+pursuant to the plan  the board of directors may grant either incentive or non qualified stock options to purchase shares of common stock to eligible individuals at not less than of the fair market value of those shares on the grant date 
+stock options generally vest over a period of four years and expire ten years from the date of grant 
+as of october    stock options remain outstanding and  shares of common stock are reserved for future grants under the plan 
+under our non statutory stock option plan the plan   shares of common stock have been authorized for issuance 
+pursuant to the plan  the board of directors may grant non qualified stock options to employees  excluding executive officers 
+exercisability  option price and other terms are determined by the board of directors  but the option price shall not be less than of the fair market value of the stock at the grant date 
+stock options generally vest over a period of four years and expire ten years from the date of grant 
+at october    stock options remain outstanding and  shares of common stock were reserved for future grants 
+under our non employee directors stock option plan the directors plan  a total of  shares have been authorized for issuance 
+the directors plan provides for automatic grants to each non employee member of the board of directors upon initial appointment or election to the board  reelection and for annual service on board committees 
+stock options are granted at not less than of the fair market value of those shares on the grant date 
+stock options granted upon appointment or election to the board vest annually but may be exercised immediately 
+stock options granted upon reelection to the board and for committee service vest after the first year of continuous service 
+as of october    stock options remain outstanding and  shares of common stock were reserved for future grants 
+we have assumed certain option plans in connection with business combinations 
+generally  these options were granted under terms similar to the terms of our stock option plans at prices adjusted to reflect the relative exchange ratios 
+all assumed plans were terminated as to future grants upon completion of each of the business combinations 
+we monitor dilution related to our option program by comparing net option grants in a given year to the number of shares outstanding 
+the dilution percentage is calculated as the new option grants for the year  net of options forfeited by employees leaving the company  divided by the total outstanding shares at the end of the year 
+the option dilution percentages were and for fiscal and  respectively 
+we also have a share repurchase program where we regularly repurchase shares from the open market to offset dilution related to our option program 
+a summary of the distribution and dilutive effect of options granted is as follows year ended october  net grants during the period as percentage of outstanding shares grants to named executive officers during the period as percentage of total options granted grants to named executive officers during the period as percentage of outstanding shares total outstanding options held by named executive officers as percentage of total options outstanding a summary of our stock option activity and related weighted average exercise prices for fiscal is as follows options outstanding weighted shares average available for number exercise options of shares price in thousands  except per share amounts balance at october    grants   options assumed in acquisitions  exercises  cancellations   additional shares reserved  balance at october    as of october   a total of million  million and  shares were reserved for issuance under our  and directors plans  respectively  of which million shares were available for future grants 
+for additional information regarding our stock option activity during fiscal  please see note of notes to consolidated financial statements 
+a summary of outstanding in the money and out of the money options and related weighted average exercise prices as of october  is as follows exercisable unexercisable total weighted weighted weighted average average average exercise exercise exercise shares price shares price shares price in thousands  except per share amounts in the money    out of the money    total options outstanding    out of the money options are those options with an exercise price equal to or above the closing price of on november   the last trading day of the fiscal year 
+exercisable shares represent those options that have vested and exclude  options granted to directors that are exercisable prior to the vesting date 
+the following table sets forth further information regarding individual grants of options during fiscal for each of the named executive officers 
+potential realizable value at assumed annual rates of stock price appreciation for option individual grants term number of percent of securities total range of under lying options exercise prices name options granted to share expiration date granted employees aart j 
+de geus    chi foon chan    vicki l 
+andrews    robert b 
+henske    steven k 
+shevick    sum of all option grants made during the fiscal year to such person 
+options become exercisable ratably in a series of monthly installments over a four year period from the grant date  assuming continued service to synopsys  subject to acceleration under certain circumstances involving a change in control of synopsys 
+each option has a maximum term of years  subject to earlier termination upon the optionee s cessation of service 
+based on total of  shares subject to options granted to employees under synopsys option plans during fiscal the following table provides the specified information concerning exercises of options to purchase our common stock and the value of unexercised options held by our named executive officers at october  shares number of securities value of in the money acquired on value underlying unexercised options at name exercise realized options at october  october  exercisable unexercisable exercisable unexercisable aart j 
+de geus     chi foon chan     vicki l 
+andrews       robert b 
+henske     steven k 
+shevick       market value at exercise less exercise price 
+market value of underlying securities on november  minus the exercise price 
+the following table provides information regarding equity compensation plans approved and not approved by security holders as of october  in thousands  except price per share amounts number of securities number of remaining available securities to be weighted average for future issuance issued upon exercise price of under equity exercise of outstanding compensation plans outstanding options  excluding securities options  warrants  warrants  and reflected in column and rights rights a plan category a b c employee equity compensation plans approved by stockholders stock option plan   employee equity compensation plans not approved by stockholders non statutory stock option plan   total   does not include information for options assumed in connection with mergers and acquisitions 
+as of october   a total of  shares of our common stock were issuable upon exercise of such outstanding options 
+does not include information for options under the directors plan 
+as of october   a total of  shares of our common stock were issuable upon exercise of such outstanding options and  were available for future issuance 
+factors that may affect future results weakness in the semiconductor and electronics businesses may negatively impact synopsys business 
+synopsys business depends on the semiconductor and electronics industries 
+during and  these industries experienced steep declines in orders and revenue 
+in february  for example  semiconductor sales on a three month rolling average basis were down approximately from their all time peak  reached in october by october  sales remained below the peak 
+despite this marginal improvement  customers report a significant lack of visibility in their businesses  and this has affected their buying behavior 
+customers are scrutinizing their purchases of eda software very carefully 
+in addition  they are increasingly demanding  and we have granted  extended payment terms on their purchases  which has affected our cash flow 
+based on our interactions with customers  synopsys does not expect a material recovery in the semiconductor and electronics industries in  if recovery continues we believe that it will be very gradual  at best 
+consequently  synopsys is not expecting material growth in the eda industry in demand for electronic design automation products is largely dependent upon the commencement of new design projects by semiconductor manufacturers and their customers  the increasing complexity of designs and the number of design engineers 
+during and many semiconductor and electronic companies cancelled or deferred design projects and reduced their design engineering staffs  the formation of new companies engaged in semiconductor design  traditionally an important source of new business for the company  slowed significantly  and a small number of existing customers went out of business 
+each of these developments negatively impacted our orders and revenue 
+demand for our products and services may also be affected by partnerships and or mergers in the semiconductor and systems industries 
+given current market conditions  the rate of mergers and acquisitions may increase during such combinations may reduce the aggregate level of purchases of our products and services by the companies involved 
+continuation or worsening of the current conditions in the semiconductor and electronics industries  and continued consolidation among our customers  all could have a material adverse effect on our business  financial condition and results of operations 
+synopsys revenue and earnings may fluctuate 
+many factors affect our revenue and earnings  which makes it difficult to predict revenue and earnings for any given fiscal period 
+among these factors are customer product and service demand  product license terms  and the timing of revenue recognition on products and services sold 
+the following are some of the specific factors that could affect our revenue and earnings in a particular quarter or over several quarterly or annual periods o our products are complex  and before buying them customers spend a great deal of time reviewing and testing them 
+our customers evaluation and purchase cycles do not necessarily match our quarterly periods 
+in the past  we have received a disproportionate volume of orders in the last week of a quarter 
+this trend has become more pronounced in recent quarters 
+in addition  a large proportion of our business is attributable to our largest customers 
+as a result  if any order  and especially a large order  is delayed beyond the end of a fiscal period  our orders for that period could be below our plan and our revenue for that period or future periods could be below our plan and any targets we may have published 
+o our business is seasonal 
+orders and revenue are typically lowest in our first fiscal quarter and highest in our fourth fiscal quarter  with a material decline between the fourth quarter of one fiscal year and the first quarter of the next fiscal year 
+this difference is driven largely by the volume of perpetual licenses shipped during the quarter  which  following the seasonal pattern of overall orders  typically declines from the fourth quarter to the first quarter 
+o our revenue and earnings targets for any fiscal period are based  in part  upon an assumption that we will achieve a certain volume of overall orders  and a mix of perpetual licenses on which revenue is recognized in the quarter shipped and tsls on which revenue is recognized over the term of license within a specified range  which is adjusted from time to time 
+if we receive the targeted volume of overall orders but a lower than expected proportion of perpetual orders  then our revenue for the quarter will be below our target for the quarter though the shortfall will be recognized in future quarters 
+conversely  if we receive a lower than expected volume of overall orders but the expected volume of perpetual orders  then our revenue for the period may be on target  though revenue in future periods will be lower than expected 
+o accounting rules determine when revenue is recognized on our orders  and therefore impact how much revenue we will report in any given fiscal period 
+in general  revenue is recognized on tsls ratably over the term of the license and on perpetual licenses upon delivery of the license 
+for any given order  however  the specific terms agreed to with a customer may have the effect under the accounting rules of requiring revenue treatment different from the treatment we intended and  in developing our financial plans  expected 
+as a result  revenue for the fiscal period may be higher or lower than it otherwise would have been  and different than our plan or any announced targets for such period 
+competition may have a material adverse effect on synopsys results of operations 
+the eda industry is highly competitive 
+we compete against other eda vendors  and with customers internally developed design tools and internal design capabilities for a share of the overall eda budgets of our potential customers 
+in general  competition is based on product quality and features  post sale support  interoperability with other vendors products  price  payment terms and  as discussed below  the ability to offer a complete design flow 
+our competitors include companies that offer a broad range of products and services  such as cadence design systems  inc and mentor graphics corporation  as well as companies that offer products focused on a discrete phase of the integrated circuit design process 
+in the current economic environment price and payment terms have increased in importance as a basis for competition 
+during fiscal we have increasingly agreed to extended payment terms on our tsls  which has had a negative effect on cash flow from operations 
+in addition  in certain situations our competitors are offering aggressive discounts on their products 
+as a result  average prices may fall 
+if we are unable to develop an integrated design flow product and other new products we may be unable to compete effectively 
+increasingly  eda companies compete on the basis of design flows involving integrated logic and physical design products rather than on the basis of individual point tools performing a discrete phase of the design process 
+the need to offer an integrated design flow will become increasingly important as ics grow more complex 
+after the acquisition of avant  we offer all of the point tools required to design an ic  some of which integrate logic and physical design capabilities 
+our products compete principally with design flow products from cadence and magma design automation  which in some respects may be more integrated than our products 
+our future success depends on our ability to integrate synopsys logic design and physical synthesis products with the physical design products acquired from avant  which will require significant engineering and development work 
+success in this project is especially important as the company believes that its orders and revenue from design compiler  which has accounted for and of synopsys orders in and  respectively peaked in fiscal year  as predicted  and are likely to continue to decline over time 
+there can be no guarantee that we will be able to offer a competitive complete design flow to customers 
+if we are unsuccessful in developing integrated design flow products on a timely basis or if we are unsuccessful in developing or convincing customers to adopt such products  our competitive position could be significantly weakened 
+in order to sustain revenue growth over the long term  we will have to enhance our existing products  introduce new products that are accepted by a broad range of customers and to generate growth in our consulting services business 
+in addition to the development of integrated logic and physical design products  synopsys is attempting to integrate its verification products into a comprehensive functional verification platform  and is expanding its offerings of intellectual property design components 
+product success is difficult to predict 
+the introduction of new products and growth of a market for such products cannot be assured 
+in the past we  like all companies  have introduced new products that have failed to meet our revenue expectations 
+there can be no assurance that we will be successful in expanding revenue from existing or new products at the desired rate  and the failure to do so would have a material adverse effect on our business  financial condition and results of operations 
+businesses that synopsys has acquired or that synopsys may acquire in the future may not perform as projected 
+we have acquired or merged with a number of companies in recent years  and as part of our efforts to increase revenue and expand our product and services offerings we may acquire additional companies 
+during  we acquired avant  insilicon corporation and co design automation  inc in addition to direct costs  acquisitions pose a number of risks  including potential dilution of earnings per share  problems in integrating the acquired products and employees into our business  the failure to realize expected synergies or cost savings  the failure of acquired products to achieve projected sales  the drain on management time for acquisition related activities  adverse effects on customer buying patterns and assumption of unknown liabilities 
+while we attempt to review proposed acquisitions carefully and negotiate terms that are favorable to us  there is no assurance that any acquisition will have a positive effect on our performance 
+delays or cancellation of consulting projects or customer payment defaults could have a material adverse effect on the company s financial condition and results of operations 
+as of december   the company had approximately billion in backlog  as defined in item business sales  distribution and backlog 
+the company expects that this backlog will turn into revenue 
+orders for professional services  which constitute less than million of the total backlog  may be deferred or cancelled by the customer in the event that a project is delayed or cancelled  though in some cases the company is paid a cancellation fee 
+in the case of orders for the company s software  backlog includes only amounts subject to committed  non cancelable orders 
+such orders are not subject to cancellation or delay by the customer  but may fail to yield the expected revenue in the event that the customer defaults and fails to pay amounts owed 
+in such cases the company will generally institute legal proceedings to recover amounts owed 
+to date  the company has not experienced a material level of defaults  though in the current economic environment it is possible that the level of defaults will increase 
+see management s discussion and analysis of results of operation and financial condition critical accounting policies allowance for doubtful accounts 
+any material payment default by the company s customers could have a material adverse effect on the company s financial condition and results of operations 
+continued stagnation of foreign economies would adversely affect our performance 
+during fiscal  of our revenue was derived from outside north america  as compared to during fiscal foreign sales are vulnerable to regional or worldwide economic or political conditions 
+the global electronics industry has experienced steep declines in and  and the company does not expect material recovery in in particular  a number of our largest european customers are in the telecommunications equipment business  which has been disproportionately affected during this period 
+the japanese economy has been stagnant for several years  and there is no expectation of improvement in the near future 
+if the japanese economy remains weak  revenue and orders from japan  and perhaps the rest of asia  could be adversely affected 
+foreign sales are also vulnerable to changes in foreign currency exchange rates  either by making the company s products more expensive to foreign customers or by reducing the reported revenue realized from overseas sales 
+the company is particularly exposed to the euro and the japanese yen 
+though the company attempts to hedge its risks related to forecasted accounts receivable generally associated with sales contracts with extended payment terms and accounts payable denominated in non functional currencies  the yen dollar and euro dollar exchange rates remain subject to unpredictable fluctuations 
+weakness of either currency could adversely affect revenue and orders from those regions 
+conversely  if those currencies strengthen  our expenses denominated in those currencies  which are not hedged  could increase 
+asian countries other than japan also have experienced economic and currency problems in recent years  and in some cases they have not fully recovered 
+although the asia pacific region is growing it is relatively small as a percentage of our business and it could be difficult to sustain growth in the region if the rest of the world s economies continue to stagnate 
+if economic conditions worsen orders and revenues from the asia pacific region would be adversely affected 
+a failure to recruit and retain key employees would have a material adverse effect on our ability to compete 
+our success is dependent on our ability to attract and retain key technical  sales and managerial employees  including those who join synopsys in connection with acquisitions 
+despite recent economic conditions  skilled technical  sales and management employees are in high demand 
+there are a limited number of qualified eda and ic design engineers  and the competition for such individuals is intense 
+experience at synopsys is highly valued in the eda industry and the general electronics industry  and our employees  including employees that have joined synopsys in connection with acquisitions  are recruited aggressively 
+in the past  we have experienced a high rate of employee turnover  which may recur in the future 
+there can be no assurance that we can continue to recruit and retain the technical and managerial personnel we need to run our business successfully 
+failure to do so could have a material adverse effect on our business  financial condition and results of operations 
+in addition  new regulations proposed by the nasdaq national market requiring shareholder approval for all stock option plans as well as new regulations proposed by the new york stock exchange prohibiting nyse member organizations from giving a proxy to vote on equity compensation plans unless the beneficial owner of the shares has given voting instructions could make it more difficult for us to grant options to employees in the future 
+to the extent that new regulations make it more difficult or expensive to grant options to employees  we may incur increased cash compensation costs or find it difficult to attract  retain and motivate employees  either of which could materially and adversely affect our business 
+a failure to protect our proprietary technology would have a material adverse effect on synopsys financial condition and results of operations 
+our success is dependent  in part  upon our proprietary technology and other intellectual property rights 
+we rely on agreements with customers  employees and others  and intellectual property laws  to protect our proprietary technology 
+there can be no assurance that these agreements will not be breached  that we would have adequate remedies for any breach or that our trade secrets will not otherwise become known or be independently developed by competitors 
+moreover  effective intellectual property protection may be unavailable or limited in certain foreign countries 
+failure to obtain or maintain appropriate patent  copyright or trade secret protection  for any reason  could have a material adverse effect on our business  financial condition and results of operations 
+in addition  there can be no assurance that infringement claims will not be asserted against us and any such claims could require us to enter into royalty arrangements or result in costly and time consuming litigation or could subject us to damages or injunctions restricting our sale of products or could require us to redesign products 
+our operating expenses do not fluctuate proportionately with fluctuations in revenues  which could materially adversely affect our results of operations in the event of a shortfall in revenue 
+our operating expenses are based in part on our expectations of future revenue  and expense levels are generally committed in advance of revenue 
+since only a small portion of our expenses varies with revenue  a shortfall in revenue translates directly into a reduction in net income 
+if we are unsuccessful in generating anticipated revenue or maintaining expenses within the expected range  however  our business  financial condition and results of operations could be materially adversely affected 
+synopsys has adopted anti takeover provisions  which may have the effect of delaying or preventing changes of control or management 
+we have adopted a number of provisions that could have anti takeover effects 
+our board of directors has adopted a preferred shares rights plan  commonly referred to as a poison pill 
+in addition  our board of directors has the authority  without further action by its stockholders  to issue additional shares of common stock and to fix the rights and preferences of  and to issue authorized but undesignated shares of preferred stock 
+these and other provisions of synopsys restated certificate of incorporation and bylaws and the delaware general corporation law may have the effect of deterring hostile takeovers or delaying or preventing changes in control or management of synopsys  including transactions in which the stockholders of synopsys might otherwise receive a premium for their shares over then current market prices 
+synopsys is subject to changes in financial accounting standards  which may affect our reported revenue  or the way we conduct business 
+we prepare our financial statements in conformity with accounting principles generally accepted in the united states of america gaap 
+gaap are subject to interpretation by the financial accounting standards board  the american institute of certified public accountants aicpa  the sec and various bodies appointed by these organizations to interpret existing rules and create new accounting policies 
+accounting policies affecting software revenue recognition  in particular  have been the subject of frequent interpretations  which have had a profound affect on the way we license our products 
+as a result of the recent enactment of the sarbanes oxley act and the related scrutiny of accounting policies by the sec and the various national and international accounting industry bodies  we expect the frequency of accounting policy changes to accelerate 
+future changes in financial accounting standards  including pronouncements relating to revenue recognition  may have a significant effect on our reported results and may even affect our reporting of transactions completed before the change is effective 
+the fasb and other accounting bodies are currently considering a change to us gaap that  if implemented  would require us to account for options as a compensation expense in the period in which they are granted 
+synopsys currently accounts for stock options under statement of financial accounting standards no 
+ accounting for stock based compensation sfas 
+as permitted by sfas  the company has elected to use the intrinsic value method prescribed by accounting principles board opinion no 
+ accounting for stock issued to employees apb  to measure compensation expense for stock based awards to employees  under which the granting of a stock option is not considered compensation  although the impact of expensing stock options is disclosed in note of the notes to the consolidated financial statements 
+we cannot predict whether such a requirement will be adopted  but if it is there would be a significant negative effect on our reported results of operations 
+item a 
+quantitative and qualitative disclosure about market risk information relating to quantitative and qualitative disclosure about market risk is set forth in synopsys annual report on form k under the captions interest rate risk and foreign currency risk in management s discussion and analysis of financial condition and results of operations  and foreign exchange hedging in note of notes to consolidated financial statements 
+

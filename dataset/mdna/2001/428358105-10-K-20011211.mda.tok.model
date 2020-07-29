@@ -1,0 +1,658 @@
+item management s discussion and analysis of financial condition and results of operations and reports filed by hifn with the securities and exchange commission  specifically forms k  q and s such risks  uncertainties and changes in condition  significance  value and effect could cause our actual results to differ materially from those anticipated events 
+although we believe that the assumptions underlying the forward looking statements are reasonable  any of the assumptions could prove inaccurate  including  but not limited to  statements as to our future operating results and business plans 
+we disclaim any intention or obligation to update or revise any forward looking statements  whether as a result of new information  future events or otherwise 
+part i item business overview hi fn  inc  together with its subsidiary  referred to as hifn  we  us or our is a flow classification and network security specialist company supplying most major network equipment vendors with patented technology to improve network packet processing 
+hifn designs  develops and markets high performance  multi protocol packet processors semiconductor devices and software designed to enable secure  high bandwidth network connectivity  comprehensive differentiation of business critical application network traffic from other general purpose network traffic and efficient compression  encryption compression and public key cryptography  providing our customers with high performance  interoperable implementations of a wide variety of industry standard networking and storage protocols 
+our products are used in networking and storage equipment such as routers  remote access concentrators  switches  broadband access equipment  network interface cards  firewalls and back up storage devices 
+hifn s encryption compression and public key processors allow network equipment vendors to add bandwidth enhancement and security capabilities to their products 
+our encryption compression and public key processors provide key algorithms used in virtual private networks vpns  which enable businesses to reduce wide area networking costs by replacing dedicated leased lines with lower cost ip based networks such as the internet 
+using vpns  businesses can also provide trading partners and others with secure  authenticated access to the corporate network  increasing productivity through improved communications 
+storage equipment vendors use our compression processor products to improve the performance and capacity of mid to high end tape back up systems 
+hifn s flow classification technology enables network equipment vendors to add unique traffic differentiation capabilities to their products 
+our flow classification solutions provide precise details about packets and data traversing a network and are used in deploying quality of service qos and classes of service cos  which enables businesses to enhance the effectiveness of using the public internet network 
+using qos or cos enabled network equipment  businesses can maintain more consistent and reliable interactions with their customers and business partners 
+
+table of contents industry background the need for a more effective use of and efficient communication utilizing the public network infrastructure in a business environment is one of the main drivers of the extensive deployment of network based communications systems 
+the resulting increase in connectivity has further driven the need for technology that safeguards and manages the access to information available over these expanding global networks 
+the network computing market has undergone three major transitions over the past decade and it is the convergence of these transitions that contributed to the recent increase in global connectivity 
+the first of these transitions was the migration of corporate computing environments from centralized mainframe systems to distributed client server environments 
+the ability to access and share information through client server technology expanded the need for connectivity beyond workgroup local area networks lans to enterprise wide networks spanning multiple lans and wide area networks wans 
+the second major transition was the widespread adoption of the internet for business to business communications 
+internet based business applications have expanded beyond e mail to a broad range of business applications and services including electronic publishing  direct to customer transactions  product marketing  advertising and customer support 
+the last of these transitions was the emergence of consumer to business or e commerce communications 
+the convergence of these major transitions led to the need for secure  managed communications and the emergence of virtual private networks that use the public internet infrastructure and associated protocols and applications to share information and services both within the enterprise and with business partners and customers 
+as a result  businesses are able to share internal information and run enterprise applications across geographically dispersed facilities as well as enable customers  suppliers and other business partners to inexpensively link into their enterprise information systems 
+as internet protocols and infrastructure gain increasing and widespread acceptance for global communication  new wide area connectivity services such as database access  transaction processing services  audio and telephone services as well as video teleconferencing services are emerging at a rapid rate 
+this expansion of services and applications is further accelerating the use of networks as global communication systems 
+the emergence of e business increased the challenges in enabling secure access to information and applications 
+the complexity of and need for network security driven to provide the tremendous benefits of connectivity and information exchange  organizations potentially expose sensitive information and mission critical applications to unauthorized access  both through connections to the public internet and from within the enterprise 
+in addition  transmission of data over the internet may also expose such data to unauthorized interception 
+these risks create a critical need for enterprises to protect their information and information systems from unauthorized access and use 
+historical methods for securing information resources are no longer adequate to meet the security requirements of today s global networks 
+today s distributed network environments provide multiple points of access and multiple network resources  making it impractical to individually secure every application and resource on the network 
+therefore  additional layers of security at the network level are required to control access to the network and to regulate and protect the flow of data between network segments 
+the increasing demands placed on data communication security systems by the expansion of internet services and global enterprise networking is quickly outpacing the capabilities of many traditional internet security appliance architectures 
+these demands include the need to define and transparently enforce an integrated  enterprise wide security policy that can be managed centrally and implemented on a distributed basis 
+an effective network security solution also needs to be open and extensible to enable it to address the rapidly changing requirements of the internet and intranets  including the addition of new security applications  such as authentication  encryption  url filtering  anti virus protection  and java and activex security services and functions 
+this increased complexity  along with the higher demand placed by ever increasing bandwidths and the increasing number of users has driven the creation of data communications semiconductors specifically designed for the security task 
+these high performance security integrated circuits create the next generation security platform for the internet based on a combination of protocol features  customer 
+table of contents complex core logic and standards based buses and interfaces 
+this is at the core of hifn s security network processor products 
+the hifn solution hifn is a flow classification and network security specialist company supplying most major network equipment vendors with patented technology to improve network packet processing 
+we design  develop and market high performance  multi protocol packet processors semiconductor devices and software designed to enable secure  high bandwidth network connectivity  comprehensive differentiation of business critical application network traffic from other general purpose network traffic and efficient compression  encryption compression and public key cryptography  providing our customers with high performance  interoperable implementations of a wide variety of industry standard networking and storage protocols 
+we believe that our patented compression technology comprises the fundamental know how for the design and implementation of low cost  high performance implementations of lossless data compression and gives our products a strong competitive advantage 
+by offering a wide range of high performance implementations of our patented  standards compliant technology  we are able to sell products to network and storage equipment vendors that allow them to reduce development costs and get their products to market faster 
+our patented lempel ziv stac compression technology lzs is incorporated into several networking protocol standards  including point to point protocol ppp and the frame relay protocol  allowing network equipment vendors to rapidly integrate proven solutions for mitigating the costs associated with traditional private leased line network architectures 
+the microsoft point to point compression mppc implementation of our patents  developed by microsoft  is incorporated into the ppp and point to point tunneling protocol pptp implementations of the windows   me  nt  and xp operating systems 
+we offer high performance compression processors that implement lzs and mppc 
+we also license software implementations of lzs and mppc to industry leading network equipment vendors for use in their networking products 
+in support of emerging vpn architectures  we have led the industry by introducing the first network security processors  integrating the critical functions of compression  encryption and data authentication in compliance with the internet protocol security ipsec protocol 
+this integration allows network equipment vendors to add highly integrated  high performance vpn capabilities to their routers  remote access concentrators  switches  broadband access equipment and firewalls 
+furthermore  we also license a complete and portable software implementation of the ipsec protocol  allowing network vendors to get to market more quickly with their vpn implementations at a fraction of the cost of internal software development efforts 
+businesses are increasingly dependent upon the public internet in conducting their normal business operations 
+unlike the traditional telecommunications network used by businesses to communicate  the public internet is vastly more complex and unreliable 
+in addition  there is currently an overall lack of differentiation or prioritization of business critical functions from general use of the internet 
+rather  these functions are bundled together and use the same resources throughout the public internet 
+our flow classification solutions enable the integration of precise differentiation and measurement of business critical transactions within network equipment vendors devices 
+this feature allows the creation of differentiated services within the public internet 
+hifn s line of compression processors targeted at back up storage applications provides storage equipment vendors high performance implementations of our patented compression technology  doubling the capacity and performance of mid to high end tape drive systems 
+the lzs implementation of our patents is used in the digital linear tape dlt tape drive products from quantum 
+the adaptive lossless data compression aldc implementation of our patents  developed by ibm  is used in a variety of tape storage products  including the travan style of quarter inch cartridge tape drives 
+
+table of contents customers and products a number of leading manufacturers of network and storage equipment have designed products that incorporate our products 
+to date  we have secured several design wins with networking and storage equipment vendors 
+to qualify as a design win  an equipment vendor must have ordered samples of our packet processors or an evaluation board and initiated a product design that incorporates our packet processors 
+during the design in process  we work with each customer  providing training on our products  assisting in resolving technical questions and providing price and delivery information to assist the customer in getting our products into volume production 
+we cannot assure that any of the design wins we have secured will result in demand for our products 
+see item management s discussion and analysis of financial condition and results of operations trends and uncertainties our business depends upon the development of the packet processor market and we face risks associated with evolving industry standards and rapid technological change 
+at september   we had a backlog of semiconductor orders representing million of products deliverable to customers over the months following the placement of these orders 
+at september   we had a backlog of million 
+because we quote product lead times to customers of approximately three months  most products shipped during a quarter are ordered during the previous quarter 
+since customers may reschedule or cancel orders  subject to negotiated windows  orders scheduled for shipment in a quarter may be moved to a subsequent quarter or cancelled altogether 
+therefore  backlog is not necessarily indicative of future sales 
+hifn s products compression processors  encryption compression processors  public key processors  flow classification processors and software provide a broad range of price performance alternatives for the implementation of intelligent  secure  high performance networks and efficient  high performance tape storage devices 
+we also offer evaluation boards to assist customers in the evaluation of our products 
+network bandwidth enhancement products 
+hifn s  and high performance compression processors provide essential bandwidth enhancement for network equipment such as routers  remote access concentrators  broadband access equipment and switches 
+these products provide flexible bus interfaces and a variety of memory configuration options to allow customers to tailor their uses to meet a variety of network system requirements 
+we license a line of software compression libraries that provide similar functionality to our line of compression processor products for low performance applications such as modems and isdn links 
+the software products are offered in source and object code toolkits 
+network security products 
+the hifn public key processor provides acceleration of the mathematical computations involved in public key cryptography  supporting key exchange algorithms such as the rivest shamir adelman rsa public key cryptosystem as developed by rsa data security  inc and diffie hellman as well as digital signature algorithms such as rsa and the digital signature algorithm dsa 
+hifn s  and encryption processors provide essential bandwidth enhancement and security for network equipment such as routers  remote access concentrators  switches and firewalls 
+for high performance security requirements  hifn s  and processors are the first to incorporate the hifn intelligent packet processing hipp architecture for complete processing from to megabits per second 
+at the multi gigabit speed range  hifn provides the  and  members of the hipp ii family of security processors 
+these devices provide public key acceleration for e commerce secure session handling as well as secure packet processing for multi gigabit speeds 
+for data communication applications such as xdsl and cable modems  the hifn  and provide the industry s first complete broadband security processors implementing support of data compression  encryption and authentication algorithms 
+in addition  these devices also include a public key math processor and a true hardware random number generator rng to support the public key cryptography required for key generation  exchange and authentication 
+network flow classification products 
+hifn s meterflow products provide comprehensive data to support the differentiation of business critical application network traffic from other general purpose network traffic 
+meterflow provides additional information on the performance of these application transactions and flows in network equipment devices to support the deployment of integrated and differentiated services 
+
+table of contents these functions are the key to enabling firewalls  security  network address translation nat and port address translation pat transforms  qos and cos in routers  switches and network security appliances 
+meterflow based flow classification also enables monitoring  metering  billing  service level agreement sla validation  and other statistics gathering applications 
+storage enhancement products 
+hifn s  and high performance compression processors provide a typical doubling of capacity and performance for mid to high end tape drive products 
+evaluation boards 
+to facilitate the adoption of our semiconductor devices  we design system level boards that resemble actual end products or subsystems 
+our evaluation boards include basic hardware and software that enable customers to expedite their designs by using the evaluation boards as a reference or by incorporating portions of them into their own designs 
+these boards are used as evaluation and development vehicles for each semiconductor device designed by hifn 
+technology hifn s multi protocol packet processors are high performance compression  encryption compression  public key and flow classification processors that have been designed to meet the needs of networking and storage equipment vendors 
+we believe that our patented compression technology  employed in our compression and encryption compression processors  gives us a strong competitive advantage 
+in addition to core technologies that we have developed  we enhance the features and functionality of our products through the licensing of certain technologies from third parties 
+compression algorithms and architectures 
+hifn holds key patents that cover a wide variety of lossless compression algorithms and their implementations 
+specific implementations of our compression patents include the following compression algorithms lzs  developed by stac  mppc  developed by microsoft  and aldc  developed by ibm 
+we have continued to improve the performance  functionality and architectures of these compression techniques 
+for example  semiconductor implementations of the lzs algorithm have improved in performance by a factor of in under four years 
+through the use of various architectural implementations of our compression algorithms  we are able to provide compression solutions over a broad price performance spectrum 
+encryption  data authentication and public key algorithms 
+hifn develops high performance implementations of industry standard encryption algorithms eg  advanced encryption standard aes  digital encryption standard des  triple des and alternative rivest chiper arc and data authentication algorithms eg  message digest md and secure hash algorithm sha 
+coupled with our patent position in compression  we are positioned to combine compression with encryption and data authentication as specified in the most widely used network security protocols  such as ipsec and pptp 
+in addition  we also implement public key cryptography algorithms which are used in a wide variety of network security protocols 
+public key cryptography algorithms implemented by us include the rsa compatible and diffie hellman algorithms as well as the rsa compatible and dsa digital signature algorithms 
+our semiconductor products  including the rsa compatible public key cryptosystem and the arc and alternative rivest cipher arc symmetric key encryption algorithms are compatible with rsa data security  inc s rivest cipher rc and rc algorithms 
+flow classification and measurement architectures 
+in august  we extended our reach into the packet processing area through the acquisition of apptitude 
+we have incorporated apptitude s flow classification technology into a software solution for network equipment vendors 
+this technology has six patents pending that cover the ability to discover applications within the content of network packets and flows 
+meterflow  our flow classification technology  enables network equipment vendors to add unique traffic differentiation capabilities to their products 
+our flow classification solutions provide precise details about packets and data traversing a network and are used in deploying qos and cos  which enables businesses to enhance the effectiveness of using the public internet network 
+using qos or cos enabled network equipment  businesses can maintain more consistent and reliable interactions with their customers and business partners 
+further  use of meterflow technology can enable firewalls  nat pat transforms  billing  metering  monitoring and sla validation applications to be application aware 
+
+table of contents integrated  high performance packet processing 
+hifn is continuing to develop additional packet processing functionality  including the implementation of advanced public key encryption algorithms  continued integration of computation intensive security protocol processing functions  and integration of the meterflow classification capabilities 
+ongoing product and technology development is expected to increase product integration and increase product performance in the future 
+intellectual property our future success and ability to compete are dependent  in part  upon our proprietary technology 
+we rely in part on patent  trade secret  trademark  maskwork and copyright laws to protect our intellectual property 
+we own united states patents and four foreign patents 
+we also have two pending patent applications in japan 
+the issued patents and patent applications primarily cover various aspects of our compression  bandwidth management and rate shaping technologies and have expiration dates ranging from to in addition to compression  we have six pending patent applications in the united states  four in europe and asia japan covering our flow classification technology 
+we cannot assure that any patents will be issued under our current or future patent applications or that the patents issued under such patent applications will not be invalidated  circumvented or challenged 
+we cannot assure that any patents issued to us will be adequate to safeguard and maintain our proprietary rights  to deter misappropriation or to prevent an unauthorized third party from copying our technology  designing around the patents we own or otherwise obtaining and using our products  designs or other information 
+in addition  we cannot assure that others will not develop technologies that are similar or superior to our technology 
+as is typical in the semiconductor industry  we may in the future receive communications from third parties asserting patents  mask work rights  intellectual property or copyrights on certain of our products and technologies 
+although we are not currently a party to any material litigation regarding intellectual property  in the event a third party were to make a valid intellectual property claim and a license relating to such intellectual property was not available on commercially reasonable terms  our operating results could be materially and adversely affected 
+litigation  which could result in substantial cost to us and diversion of our resources  may also be necessary to enforce our patents or other intellectual property rights or to defend against claimed infringement of the rights of others 
+the failure to obtain necessary licenses or the occurrence of litigation relating to patent infringement or other intellectual property matters could have a material adverse effect on our business and operating results 
+we cannot assure that the steps we take to protect our intellectual property will be adequate to prevent misappropriation or that others will not develop competitive technologies or products 
+in addition  we claim copyright protection for certain proprietary software and documentation 
+we attempt to protect our trade secrets and other proprietary information through agreements with our customers  suppliers  employees and consultants  and through other security measures 
+although we intend to protect our rights vigorously  we cannot assure that these measures will be successful 
+furthermore  the laws of certain countries in which our products are or may be manufactured or sold may not protect our products and intellectual property 
+export restrictions on encryption algorithms a key element of hifn s packet processor architecture is the encryption algorithms embedded in our semiconductor and software products 
+these products are subject to export control regulations administered by the us department of commerce 
+the regulations permit our domestic network equipment customers to export non military specific products incorporating our encryption technology only after the finished product has received a one time technical review from the department of commerce 
+in addition  those us export control laws prohibit the export of many products  including any products with encryption  to a number of countries deemed hostile by the us government currently there are nine such countries 
+furthermore  us government regulations require export licenses from the department of state for all military specific products 
+
+table of contents us export regulations have recently been liberalized to allow for the export of most encryption hardware  software  and technology to foreign non government entities after the product receives a one time technical review from the commerce department 
+the technical review process generally takes days from the date the government logs the application into its computer system 
+in addition  the us government now allows us exporters to immediately ship products to both government and non government end users in the european union eu and eight other friendly countries eu immediately upon submission of the required technical review paperwork 
+if exports to government end users are required to countries outside of the eu group  an individual export license is required from the department of commerce 
+as a result of the recent liberalizations  our network equipment customers may be able to effectively compete with eu competitors 
+however  foreign competitors facing less stringent controls and who may have effectively established markets for their products prior to the relaxation of us export restrictions may be able to compete more effectively than our network equipment customers in the global market 
+furthermore  us regulations are constantly changing and we cannot assure that the liberalizing trends will continue  that the list of products and countries for which export approval is required  or the regulatory policies with respect thereto  will not be revised from time to time  or that laws limiting the domestic use of encryption will not be enacted 
+the sale of our packet processors could be hindered or harmed by the failure of our network equipment customers to obtain the required technical reviews or by the costs of compliance 
+see sales  marketing technical support 
+competition the networking and storage equipment markets into which we sell our products are intensely competitive and are subject to frequent product introductions with improved price performance characteristics  rapid technological change  unit price erosion and the continued emergence of new industry standards 
+the semiconductor industry is also intensely competitive and is characterized by rapid technological change  product obsolescence and unit price erosion 
+we expect competition to increase in the future from existing competitors and from companies that may enter our existing or future markets  including certain customers  with similar or substitute solutions that may be less costly or provide better performance or features than our products 
+to be successful in the future  we must continue to respond promptly and effectively to changing customer performance  feature and pricing requirements  technological change and competitors innovations 
+we cannot assure that we will be able to compete successfully against current and future competitors or that competitive pressures faced by us will not materially adversely affect our business  financial condition and results of operations 
+our products compete with products from companies such as analog devices  inc  safenet  inc  international business machines ibm  broadcom corporation  motorola  inc and philips corporation 
+in  stac entered into two license agreements with ibm where stac granted ibm the right to use  but not sublicense  our patented compression technology in ibm hardware and software products 
+stac also entered into a license agreement with microsoft in whereby stac granted microsoft the right to use  but not sublicense  our compression technology in their software products 
+stac s license agreement with microsoft  however  prohibits microsoft from creating hardware implementations of our patents 
+we also compete against software solutions that use general purpose microprocessors to run encryption algorithms and our software compression libraries 
+in addition  as noted above  our encryption compression and public key processors are subject to export control restrictions administered by the us department of commerce  which permit our network equipment customers to export products incorporating encryption technology only after receiving a one time technical review 
+as a result of these regulations  sales by foreign competitors facing less stringent controls on their encryption products could hinder or harm the sale of our encryption compression and public key processors to network equipment customers in the global market 
+we believe that the recent change to the us export regulations will enable us and our network equipment customers to obtain comparable footing with our european competitors 
+however  we expect significant future competition from major domestic and international semiconductor suppliers 
+several established electronics and semiconductor suppliers have recently entered or indicated an intent to enter the network equipment market 
+we may also face competition from suppliers of products based on new or emerging technologies 
+furthermore  many 
+table of contents of our existing and potential customers internally develop asics  general purpose microprocessors and other devices which attempt to perform all or a portion of the functions performed by our products 
+many of our current and potential competitors have longer operating histories  greater name recognition  access to larger customer bases and significantly greater financial  technical  marketing and other resources than us 
+as a result  they may be able to adapt more quickly to new or emerging technologies and changes in customer requirements or to devote greater resources to the promotion and sale of their products than us 
+in particular  companies such as intel corporation  lucent technologies inc  motorola  national semiconductor corporation and texas instruments incorporated have proprietary semiconductor manufacturing ability  preferred vendor status with many of our customers  extensive marketing power and name recognition  greater financial resources than us and other significant advantages over us 
+in addition  current and potential competitors may determine  for strategic reasons  to consolidate  to lower the price of their products substantially or to bundle their products with other products 
+current and potential competitors have established or may establish financial or strategic relationships among themselves or with existing or potential customers  resellers or other third parties 
+accordingly  it is possible that new competitors or alliances among competitors could emerge and rapidly acquire significant market share 
+we cannot assure that we will be able to compete successfully against current and future competitors 
+increased competition may result in price reductions  reduced gross margins and loss of market share  any of which could materially adversely affect our business  financial condition and results of operations 
+we believe that important competitive factors in our markets are price performance characteristics  rapid technological change  the continued emergence of new industry standards  length of development cycles  design wins with major network and storage equipment vendors  support for new network and storage standards  features and functionality  adaptability of products to specific applications  reliability  technical service and support and protection of products by effective utilization of intellectual property laws 
+our failure to successfully develop products that compete successfully with those of other suppliers in the market would harm our business  financial condition and results of operations 
+in addition  we must compete for the services of qualified distributors and sales representatives 
+to the extent that our competitors offer such distributors or sales representatives more favorable terms on a higher volume of business  such distributors or sales representatives may decline to carry  or discontinue carrying  our products 
+our business  financial condition and results of operations could be harmed by any failure to maintain and expand our distribution network 
+see item management s discussion and analysis of financial condition and results of operations trends and uncertainties our markets are highly competitive 
+research and development our success will depend to a substantial degree upon our ability to develop and introduce in a timely fashion new products and enhancements to our existing products that meet changing customer requirements and emerging industry standards 
+we have made  and plan to continue to make  substantial investments in research and development 
+extensive product development input is obtained from customers and through our participation in industry organizations and standards setting bodies such as the internet engineering task force ietf 
+as of september   our research and development staff consisted of employees 
+our research and development expenditures were million in the fiscal year ended september   million in the fiscal year ended september  and million in the fiscal year ended september   representing  and of revenues for such periods  respectively 
+research and development expenses primarily consist of salaries and related costs of employees engaged in ongoing research  design and development activities  costs of fabricating chip mask sets and subcontracting costs 
+research and development costs in fiscal and also include amortization of deferred stock compensation related to the acquisition of apptitude 
+we perform our research and product development activities at our facilities in los gatos  california and carlsbad  california 
+we seek to hire additional skilled development engineers 
+the acquisition of apptitude in august further strengthened our development efforts  adding to our pool of software expertise and intellectual properties 
+furthermore  we are able to expand our product base to 
+table of contents include acceleration for firewall applications  bandwith management  load balancing  qos and cos 
+also in august  we purchased unique patented traffic flow control technology to further enhance the bandwith management features of apptitude s technology 
+in april  we acquired a software implementation of the ipsec protocol from cylan technologies  inc as part of the acquisition  we gained expertise in the development of software implementations of a wide range of networking protocol functions  including ipsec and transmission control protocol internet protocol tcp ip 
+our future performance depends on a number of factors  including our ability to identify emerging technological trends in our target markets  develop and maintain competitive products  enhance our products by adding innovative features that differentiate our products from those of our competitors  bring products to market on a timely basis at competitive prices  properly identify target markets and respond effectively to new technological changes or new product announcements by others 
+in evaluating new product decisions  we must anticipate well in advance the future demand for product features and performance characteristics  as well as available supporting technologies  manufacturing capacity  industry standards and competitive product offerings 
+we cannot assure that our design and introduction schedules for any additions and enhancements to our existing and future products will be able to be sold at prices that are favorable to us 
+we must also continue to make significant investments in research and development in order to continue enhancing the performance and functionality of our products to keep pace with competitive products and customer demands for improved performance  features and functionality 
+the technical innovations required for us to remain competitive are inherently complex and require long development cycles 
+such innovations must be completed before developments in networking technologies or standards render them obsolete and must be sufficiently compelling to induce network and storage equipment vendors to favor them over alternative technologies 
+moreover  we must generally incur substantial research and development costs before the technical feasibility and commercial viability of a product line can be ascertained 
+we cannot assure that revenues from future products or product enhancements will be sufficient to recover the development costs associated with such products or enhancements or that we will be able to secure the financial resources necessary to fund future development 
+the failure to successfully develop new products on a timely basis could have a material adverse effect on our business  financial condition and results of operations 
+see item management s discussion and analysis of financial condition and results of operations trends and uncertainties we face risks associated with evolving industry standards and rapid technological change 
+sales  marketing technical support we market our products through a direct sales and marketing organization  headquartered in los gatos  california  with sales offices in massachusetts  colorado  north carolina and quebec  canada  and through independent contract sales representatives in the united states  europe  japan and other areas 
+we also retain account managers to focus on individual customer relationships 
+we do not have any foreign operations and sales of our products to foreign companies  other than product shipments to contract manufacturers of domestic customers  have not been material 
+sales representatives are selected for their understanding of the marketplace and their ability to provide effective field sales support for our products 
+our relationships with some of our sales representatives have been established within the last two years  and we are unable to predict the extent to which some of these representatives will be successful in marketing and selling our products 
+sales to us customers account for the substantial majority of our revenues 
+due to the export controls imposed by the us government until recently on encryption products  our shipments to international customers have been limited to compression processors and compression software 
+the recent relaxation of controls has opened new opportunities for our products sales around the world 
+in early  we entered into a distribution agreement with a worldwide electronics distribution company which we believe provides us with the ability to respond to significant pent up demand for network security products around the world 
+we continue to actively work with our network equipment customers and the us government to comply with us export controls to facilitate the export of our customers products which incorporate our encryption 
+table of contents products 
+we cannot assure that we will be successful in these efforts and that competitors outside of the us will not develop encryption products to meet the needs of our customers  thereby reducing the opportunity for us to sell our products 
+see item management s discussion and analysis of financial condition and results of operations trends and uncertainties our products are subject to export restrictions 
+hifn has a number of marketing programs designed to inform network and storage equipment vendors about the capabilities and benefits of our products 
+our marketing efforts include participation in industry trade shows  technical conferences  preparation of competitive analyses  sales training  publication of technical and educational articles in industry journals  maintenance of our website  advertising and direct mail distribution of our literature 
+technical support to customers is provided through field applications engineers and  if necessary  product designers 
+local field support is provided in person or by telephone 
+we believe that providing customers with comprehensive product service and support is critical to maintaining a competitive position in the market and is critical to shortening the time required to design in our products 
+we work with our customers to monitor the performance of our product designs and to provide support at each stage of customer product development 
+manufacturing currently  we subcontract all semiconductor manufacturing on a turnkey basis  with our suppliers delivering fully assembled and tested products based on our proprietary designs 
+the use of the fabless model allows us to focus substantially all of our resources on determining customer requirements and on the design  development and support of our products 
+this model also allows us to have significantly reduced capital requirements 
+we subcontract our semiconductor manufacturing to atmel corporation  motorola and toshiba corporation 
+the selection of these manufacturers was based on the breadth of available technology  quality  manufacturing capacity and support for design tools used by us 
+none of our products are currently manufactured by more than one supplier 
+however  we expect that in the event one of our suppliers notifies us that it intends to cease manufacturing a product  we will have an adequate opportunity to order sufficient quantities of the affected products so that shipments to customers will not be adversely affected while we qualify a new manufacturer 
+at any given time  we use mainstream processes for the manufacture of our products  avoiding dependence on the latest process technology available 
+this approach reduces our technical risks and avoids the risks related to production capacity constraints typically associated with leading edge semiconductor processes 
+this approach allows us to focus on providing differentiated functionality  the primary value add in our products 
+our current main products are manufactured using   
+and 
+micron complementary metal oxide semiconductor cmos processes 
+products under development are being designed with the 
+micron cmos process 
+we believe that transitioning our products to increasingly smaller semiconductor dimensions will be important for us to remain competitive 
+we cannot assure that future process migration will be achieved without difficulty 
+we intend to continue for the foreseeable future to rely on our subcontract manufacturers for substantially all of our manufacturing  assembly and test requirements 
+all of our subcontract manufacturers produce products for other companies 
+we do not have long term manufacturing agreements with any of our subcontract manufacturers 
+our subcontract manufacturers are not obligated to supply products to us for any specific period  in any specific quantity or at any specific price  except as may be provided in a particular purchase order that has been accepted by one of our subcontract manufacturers 
+we must place orders approximately to weeks in advance of expected delivery 
+as a result  we have only a limited ability to react to fluctuations in demand for our products  which could cause us to have an excess or a shortage of inventory of a particular product 
+failure of worldwide semiconductor manufacturing capacity to rise along with a rise in demand could result in our subcontract manufacturers allocating available capacity to customers that are larger or have long term supply contracts in place 
+our inability to obtain adequate foundry capacity at acceptable prices  or any delay or interruption in supply  could reduce our 
+table of contents product revenue or increase our cost of revenue and could harm our business  financial condition and results of operations 
+see item management s discussion and analysis of financial condition and results of operations trends and uncertainties we depend upon independent manufacturers and limited sources of supply 
+employees as of september   hifn employed a total of full time employees 
+of the total number of employees  were employed in research and development  in sales and marketing  nine in operations and in finance and administration 
+our employees are not represented by any collective bargaining agreement and we have never experienced a work stoppage 
+we believe our employee relations are good 
+our future success is heavily dependent upon our ability to hire and retain qualified technical  marketing  sales and management personnel 
+the competition for such personnel is intense  particularly for engineering personnel with related security  networking and integrated circuit design expertise  and applications support personnel with networking product design expertise 
+see item management s discussion and analysis of financial condition and results of operations trends and uncertainties we depend upon key personnel 
+item properties hifn s corporate and technical headquarters are located in los gatos  california 
+we lease approximately  and  square feet of space in los gatos  california  under leases that expire in september and december  respectively 
+we also lease other facilities including  square feet of space for our design and operations center in carlsbad  california and small field sales offices in charlotte  north carolina and westford  massachusetts as well as in monument  colorado and quebec  canada 
+item legal proceedings in october and november  six purported class action complaints were filed in the united states district court for the northern district of california against hifn and certain of its officers and directors 
+these complaints were consolidated into in re hi fn sec 
+litig  no 
+si 
+the consolidated complaint was filed on behalf of a class of purchasers of hifn s stock during the period july  through october  the class period 
+the complaint seeks unspecified money damages and alleges that hifn and certain of its officers and directors violated federal securities laws in connection with various public statements made by hifn and certain of its officers and directors during the class period 
+in august  the court dismissed the complaint as to all defendants  other than raymond j 
+farnham and hifn 
+mr 
+farnham and hifn answered the complaint in september discovery has commenced 
+a trial date has been tentatively scheduled for october we believe that the allegations contained in the complaint are without merit and intend to defend the action vigorously 
+due to the nature of the allegations  management cannot estimate the possible loss  if any  or range of loss that may ultimately be incurred in connection with the allegations 
+however  based on the facts currently known  management does not believe that these matters will have a material adverse effect on our financial position 
+in december  a former employee of hifn filed suit against hifn and one of its former employees alleging wrongful termination  invasion of privacy  violation of fair employment and housing act  based on sexual harassment  sexual discrimination and retaliation  defamation  breach of the covenant of good faith and fair dealing  negligence and conversion 
+on april   we filed an answer to the complaint  generally denying its allegations and asserting various affirmative defenses 
+discovery has recently commenced  and no trial date has been set 
+the parties have voluntarily agreed to participate in a mediation session in an effort to amicably resolve the matter 
+in the event the matter is not amicably resolved  we intend to defend the matter vigorously 
+while the ultimate outcome of this matter cannot be determined at this time  management does not believe that this matter will have a material adverse effect on our financial position 
+
+table of contents item submission of matters to a vote of security holders no matters were submitted to a vote of security holders during the fourth quarter of the fiscal year covered by this report 
+part ii item market for the registrant s common equity and related stockholder matters price range of common stock hifn s common stock is traded on the nasdaq national market under the symbol hifn 
+the only class of hifn securities that is traded is hifn common stock 
+the following table lists quarterly information on the price range of the common stock based on the high and low reported closing bid prices for the common stock as reported on the nasdaq national market for the periods indicated below high low fiscal year ended september  first quarter second quarter third quarter fourth quarter fiscal year ended september  first quarter second quarter third quarter fourth quarter on december   the reported last sale price of common stock on the nasdaq national market was per share and there were approximately holders of record of our common stock 
+dividend policy we have never declared or paid any dividends on our capital stock 
+we intend to retain any future earnings to finance the growth and development of our business and do not expect to pay any cash dividends in the foreseeable future 
+
+table of contents item selected financial data the following selected financial data should be read in conjunction with the management s discussion and analysis of financial condition and results of operations and the consolidated financial statements and notes included elsewhere in this annual report on form k year ended september  in thousands  except per share amounts statement of operations data net revenues costs and operating expenses cost of revenues research and development sales and marketing general and administrative amortization of intangibles and goodwill purchased in process research development income loss from operations interest income expense  net other income expense  net provision for benefit from income taxes net income loss net income loss per share  basic net income loss per share  diluted weighted average shares outstanding  basic weighted average shares outstanding  diluted september  in thousands balance sheet data cash and short term investments total assets working capital total debt total stockholders equity in august  we completed our acquisition of apptitude in a transaction accounted for as a purchase 
+the statement of operations for fiscal year ended september  include the operating results of apptitude from the date of acquisition 
+on march   we issued  shares of common stock at a price of per share in an equity offering  which raised approximately million  net of offering expenses 
+on april  our underwriters exercised their option to purchase an additional  shares of our common stock  which yielded an additional million in proceeds to us 
+we operated as a division of our parent company  stac  until september  and as a subsidiary of stac until december  accordingly  our selected financial data as of and for the fiscal year ended september  and has been derived from audited financial statements not included herein 
+the financial information may not reflect our future performance or our future financial position or results of operations  nor does it provide or reflect data as if we had actually operated as a separate  stand alone entity during all of the periods covered 
+
+table of contents item management s discussion and analysis of financial condition and results of operations the following discussion should be read in conjunction with the consolidated financial statements and notes included elsewhere in this annual report on form k 
+the results shown in this report are not necessarily indicative of the results to be expected in any future periods 
+this discussion contains forward looking statements based on current expectations which involve risks and uncertainties 
+actual results and the timing of certain events may differ significantly from those projected in such forward looking statements due to the factors set forth in the section entitled trends and uncertainties and appearing elsewhere in this report 
+overview hi fn  inc  together with its subsidiary referred to as hifn  we  us or our  is a flow classification and network security specialist company supplying most major network equipment vendors with patented technology to improve network packet processing 
+we design  develop and market high performance  multi protocol packet processors semiconductor devices and software designed to enable secure  high bandwidth network connectivity  comprehensive differentiation of business critical application network traffic from other general purpose network traffic and efficient compression  encryption compression and public key cryptography  providing our customers with high performance  interoperable implementations of a wide variety of industry standard networking and storage protocols 
+our products are used in networking and storage equipment such as routers  remote access concentrators  switches  broadband access equipment  network interface cards  firewalls and back up storage devices 
+hifn s encryption compression and public key processors allow network equipment vendors to add bandwidth enhancement and security capabilities to their products 
+our encryption compression and public key processors provide key algorithms used in vpns  which enable businesses to reduce wide area networking costs by replacing dedicated leased lines with lower cost ip based networks such as the internet 
+using vpns  businesses can also provide trading partners and others with secure  authenticated access to the corporate network  increasing productivity through improved communications 
+storage equipment vendors use our compression processor products to improve the performance and capacity of mid to high end tape back up systems 
+hifn s flow classification technology enables network equipment vendors to add unique traffic differentiation capabilities to their products 
+our flow classification solutions provide precise details about packets and data traversing a network and are used in deploying quality of service qos and classes of service cos  which enables businesses to enhance the effectiveness of using the public internet network 
+using qos or cos enabled network equipment  businesses can maintain more consistent and reliable interactions with their customers and business partners 
+revenues from one customer and its manufacturing subcontractor represented  and of our net revenues for fiscal years ended september   and  respectively 
+revenues from another customer and its manufacturing subcontractors represented  and of our net revenues for fiscal years ended september   and  respectively 
+in august  hifn completed its acquisition of apptitude  a provider of embedded internet traffic analysis solutions through a merger of apptitude with and into a wholly owned subsidiary of hifn 
+the aggregate purchase consideration was million  million in cash and million in stock 
+in exchange  we received tangible assets and assumed liabilities as well as intangible assets including developed and core technology  workforce and patents 
+additionally  we acquired in process research and development costs which were expensed at the time of the acquisition 
+hifn s quarterly and annual operating results are affected by a wide variety of factors that could materially and adversely affect net sales  gross margins and operating income 
+these factors include the volume and timing of orders received  changes in the mix of proprietary and second source products sold  market acceptance of our and our customers products  competitive pricing pressures  our ability to introduce new products on a timely basis  the timing and extent of research and development expenses  fluctuations in 
+table of contents manufacturing yields  cyclical semiconductor industry conditions  our access to advanced process technologies and the timing and extent of process development costs 
+historically in the semiconductor industry  average selling prices of products have decreased over time 
+if we are unable to introduce new products with higher margins  maintain our product mix between proprietary and second source products  or reduce manufacturing cost to offset decreases in the prices of our existing products  then our operating results will be adversely affected 
+our business is characterized by short term orders and shipment schedules  and customer orders typically can be canceled or rescheduled without penalty to the customer 
+since most of our backlog is cancelable without penalty  we typically plan our production and inventory levels based on internal forecasts of customer demand 
+customer demand remains highly unpredictable and variances to the forecast can fluctuate substantially 
+in addition  because of high fixed costs in the semiconductor industry  we are limited in our ability to reduce costs quickly in response to any revenue shortfalls 
+as a result of the foregoing or other factors  we have experienced  and may in the future experience  material adverse fluctuations in our operating results on a quarterly or annual basis  which have in the past  and would in the future  materially affect our business  financial condition and results of operations 
+results of operations the following table sets forth certain statement of operations data as a percentage of total revenue for the periods indicated year ended september  net revenues costs and operating expenses cost of revenues research and development sales and marketing general and administrative amortization of intangibles and goodwill purchased in process research development total operating expenses income from operations interest and other income expense  net income before income taxes provision for income taxes net income years ended september   and net revenues 
+revenue from sales of semiconductors and licenses of software libraries decreased in fiscal to million compared to million in fiscal in fiscal  revenue increased compared to million in fiscal the decrease in revenue in fiscal from fiscal was primarily due to a decrease in sales of our data compression and encryption processors to network equipment manufacturers partially offset by an increase in license and software revenues 
+the increase in revenue in fiscal from fiscal was primarily due to increasing sales of our data compression and encryption processors to network equipment manufacturers 
+semiconductor sales to quantum  an original equipment manufacturer of high performance tape storage devices  through its manufacturing subcontractor  comprised  and of revenue in each of fiscal years  and  respectively 
+semiconductor sales to lucent  an original equipment manufacturer of networking equipment  through its manufacturing subcontractors  comprised  and of revenue in fiscal years  and  respectively 
+
+table of contents cost of revenues 
+cost of revenues consists primarily of semiconductors which were manufactured to our specifications by third parties for resale by us 
+cost of revenues as a percentage of net revenues increased to for fiscal from for fiscal the increase in cost of revenues as a percentage of net revenues in fiscal primarily reflects a million charge during the third quarter of fiscal for excess inventory 
+this charge resulted from a decrease in demand below our previous expectations 
+excluding the excess inventory charge  cost of revenues for fiscal was of net revenues 
+in addition to the charge there was a shift in the revenue mix from to and an increase in overhead expenses including supplies and facility rental costs 
+research and development 
+research and development expenses were million  or of revenues  in fiscal  million  or of revenues  in fiscal and million  or of revenues  in fiscal research and development expenses increased in fiscal and in fiscal the increase in research and development costs in each successive period was due to increases in labor  benefits  building expenses and depreciation costs related to the addition of research and development personnel related to the acquisition of apptitude in august  offset by a reduction in outside services costs for contractors previously used to develop new products 
+amortization of deferred stock compensation related to the acquisition of apptitude of million and  in fiscal and  respectively  also contributed to the increase in research and development expense in each of these fiscal years 
+we expect our investments in research and development to continue to increase in coming periods on an absolute basis as we continue to develop products targeted at meeting market needs 
+however  we cannot assure that product development programs invested in by us will be successful or that products resulting from such programs will achieve market acceptance 
+sales and marketing 
+sales and marketing expenses were million  or of revenues  in fiscal  million  or of revenues  in fiscal and million  or of revenues  in fiscal the increase in sales and marketing expenses in each successive fiscal year was primarily due to increased headcount and outside services to support sales and marketing efforts 
+general and administrative 
+general and administrative expenses were approximately million  or of revenues  in fiscal  million  or of revenues  in fiscal and million  or of revenues  in fiscal the continued increase in general and administrative expenses is mainly due to higher salaries and benefits costs as a result of increased headcount as well as office administration and depreciation costs 
+additionally  amortization of deferred stock compensation related to the acquisition of apptitude of million and  for fiscal and  respectively  contributed to the increase 
+legal and accounting costs for the fiscal years ended  and were   and  respectively 
+amortization of intangibles and goodwill 
+amortization of intangibles and goodwill of million  or of net revenues  in fiscal and million  or of revenues  in fiscal related to the acquisition of apptitude and other intellectual property in august purchased in process research and development 
+purchased in process research and development ipr d related to the acquisition of apptitude in august was million or of revenues 
+purchased ipr d related to the value assigned to apptitude s meterflow asic product which had not reached technological feasibility at the time of the acquisition 
+interest and other income expense  net 
+interest and other income expense  net  for fiscal were million  or of revenues  as compared to million  or of revenues  for fiscal and million  or of revenues  for fiscal the decrease was primarily a result of a shift in the investment mix from stock instruments to commercial paper and municipal bonds  lower average cash and short term investments balance during fiscal as compared to fiscal as well as an overall decrease in interest rates 
+income taxes 
+the effective tax rates for fiscal  and were  and  respectively 
+we recorded a benefit from income taxes of million in fiscal and income tax provisions of million in fiscal and million in fiscal the resulting effective tax rates are primarily the 
+table of contents result of the non deductibility of certain acquisition related costs consisting primarily of the amortization of intangibles and goodwill 
+the effective tax rate for fiscal of is below the combined statutory tax rate of due primarily to the fact that there is no tax benefit from the accounting amortization of intangible assets and stock based compensation 
+we recognize deferred income tax asset for the expected future benefits attributable to the differences between the financial reporting and income tax basis of assets and liabilities and from net operating loss and credit carryforwards 
+deferred income tax expense or benefit represents the net change during the year in the deferred income tax liability or asset 
+liquidity and capital resources operating activities 
+in fiscal  we generated cash from operating activities of approximately million comprised of net loss as adjusted for non cash items including amortization of intangibles and deferred stock compensation of million  depreciation and amortization costs of million  tax benefit from employee stock plans of million and an increase in deferred income taxes of million as well as a decrease in accounts receivable of million and an increase in accrued expenses and other current liabilities of  these adjustments were offset mainly by increases in prepaid expenses and other current assets of million  other assets of million  inventory of  and a decrease in accounts payable of  in fiscal  we generated cash from operating activities of approximately million comprised of net income as adjusted for non cash items including purchased in process research and development of million  amortization of intangibles and deferred stock compensation of million  deferred income taxes of million  depreciation and amortization costs of million and tax benefit from employee stock plans of million as well as a decrease in accounts receivable of million 
+these adjustments were offset mainly by decreases in income taxes payable of million and in accrued expenses and other liabilities of million 
+investing activities 
+cash used in investing activities in fiscal was million  resulting from the purchase of short term investments of million and the acquisition of million in property and equipment 
+cash used in investing activities in fiscal was million  consisting primarily of the acquisition of apptitude and the purchase of intellectual property aggregating million  the purchase of short term investments of million and the acquisition of million in property and equipment 
+our capital expenditures in fiscal reflect costs incurred in relation to the consolidation of our northern california facilities as well as the additional facilities in los gatos and carlsbad 
+we expect capital expenditures in the foreseeable future to approximate those levels as in fiscal financing activities 
+cash provided by financing activities in fiscal and fiscal of million and million  respectively  reflect proceeds from the issuance of common stock for stock option exercises and stock purchase plan purchases slightly offset by payments on debt obligations 
+in march  hifn paid a million loan and paid a total of million in transfers to our former parent  stac 
+also during  we raised approximately million in an equity offering 
+in april  our underwriters exercised their option to purchase additional shares of our common stock  which yielded an additional million in proceeds to us 
+we use a number of independent suppliers to manufacture substantially all of our products 
+as a result  we rely on these suppliers to allocate to us a sufficient portion of foundry capacity to meet our needs and deliver sufficient quantities of our products on a timely basis 
+these arrangements allow us to avoid utilizing our capital resources for manufacturing facilities and work in process inventory and to focus a substantial proportion of our resources on the design  development and marketing of our products 
+we require funds to finance our working capital  particularly accounts receivable and manufactured inventory  and to finance investments in property and equipment 
+our need to raise capital in the future will depend on many factors including the rate of sales growth  market acceptance of our existing and new products  the amount and timing of research and development expenditures  the timing and size of acquisitions 
+table of contents of businesses or technologies  the timing of the introduction of new products and the expansion of sales and marketing efforts 
+in august  we completed our acquisition of apptitude 
+the purchase price of the acquisition of million  which included  in estimated acquisition related costs  was used to acquire the net assets of apptitude 
+the allocation of the purchase price was as follows property and equipment current and other assets deferred tax asset liabilities assumed goodwill purchased in process research and development acquired developed and core technology  workforce and patents the goodwill  acquired developed and core technology  workforce and patents are recorded on the balance sheet as intangibles and other assets and are being amortized on a straight line basis over periods ranging from two to five years 
+the purchased in process research and development was expensed at the time of the acquisition as a one time charge 
+however  as a result of scheduled adoption of sfas see note of notes to consolidated financial statements  we will cease amortization of goodwill beginning october  goodwill amortization expense aggregated million and million in fiscal and  respectively 
+trends and uncertainties in future periods  hifn s business  financial condition and results of operations may be affected by many factors  including but not limited to the following our operating results may fluctuate significantly 
+our operating results have fluctuated significantly in the past and we expect that they will continue to fluctuate in the future 
+this fluctuation is a result of a variety of factors including the following general business conditions in our markets as well as global economic uncertainty  increases or reductions in demand for our customers products  the timing and volume of orders we receive from our customers  cancellations or delays of customer product orders  acquisitions or mergers involving us  our competitors or customers  any new product introductions by us or our competitors  our suppliers increasing costs or changing the delivery of products to us  increased competition or reductions in the prices that we are able to charge  the variety of the products that we sell as well as seasonal demand for our products  and the availability of manufacturing capacity necessary to make our products 
+we depend upon a small number of customers 
+quantum corporation quantum  through its manufacturing subcontractor  accounted for approximately  and  respectively  of our revenues in fiscal  and lucent  through its manufacturing subcontractors  accounted for approximately  and of our revenues during fiscal 
+table of contents  and  respectively 
+neither quantum nor lucent are under any binding obligation to order from us 
+if our sales to quantum or lucent decline  our business  financial condition and results of operations could suffer 
+we expect that our most significant customers in the future could be different from our largest customers today for a number of reasons  including customers deployment schedules and budget considerations 
+as a result  we believe we may experience significant fluctuations in our results of operations on a quarterly and an annual basis 
+limited numbers of network and storage equipment vendors account for a majority of packet processor purchases in their respective markets 
+in particular  the market for network equipment that would include packet processors  such as routers  remote access concentrators and firewalls  is dominated by a few large vendors  including cisco systems  inc  lucent technologies inc  nortel networks  inc 
+and com corporation 
+as a result  our future success will depend upon our ability to establish and maintain relationships with these companies 
+if these network equipment vendors do not incorporate our packet processors into their products  our business  financial condition and results of operations could suffer 
+our business depends upon the development of the packet processor market 
+our prospects are dependent upon the acceptance of packet processors as an alternative to other technology traditionally utilized by network and storage equipment vendors 
+many of our current and potential customers have substantial technological capabilities and financial resources and currently develop internally the application specific integrated circuit components and program the general purpose microprocessors utilized in their products as an alternative to our packet processors 
+these customers may in the future continue to rely on these solutions or may determine to develop or acquire components  technologies or packet processors that are similar to  or that may be substituted for  our products 
+in order to be successful  we must anticipate market trends and the price  performance and functionality requirements of such network and storage equipment vendors and must successfully develop and manufacture products that meet their requirements 
+in addition  we must make products available to these large customers on a timely basis and at competitive prices 
+if orders from customers are cancelled  decreased or delayed  or if we fail to obtain significant orders from new customers  or any significant customer delays or fails to pay  our business  financial condition and results of operations could suffer 
+our business depends upon the continued growth and our penetration of the virtual private network market 
+we want to be a leading supplier of packet processors that implement the network security protocols necessary to support the deployment of virtual private networks 
+this emerging market  which is still evolving  may not grow and if it does continue to grow  our products may not successfully serve this market 
+our ability to generate significant revenue in the virtual private network market will depend upon  among other things  the following our ability to demonstrate the benefits of our technology to distributors  original equipment manufacturers and end users  and the increased use of the internet by businesses as replacements for  or enhancements to  their private networks 
+if we are unable to penetrate the virtual private network market  or if that market fails to develop  our business  financial condition and results of operations could suffer 
+
+table of contents we face risks associated with evolving industry standards and rapid technological change 
+the markets in which we compete are characterized by rapidly changing technology  frequent product introductions and evolving industry standards 
+our performance depends on a number of factors  including our ability to do the following properly identify emerging target markets and related technological trends  develop and maintain competitive products  enhance our products by adding innovative features that differentiate our products from those of competitors  bring products to market on a timely basis at competitive prices  and respond effectively to new technological changes or new product announcements by others 
+our past success has been dependent in part upon our ability to develop products that have been selected for design into new products of leading equipment manufacturers 
+however  the development of our packet processors is complex and  from time to time  we have experienced delays in completing the development and introduction of new products 
+we may not be able to adhere to our new product design and introduction schedules and our products may not be accepted in the market at favorable prices  if at all 
+in evaluating new product decisions  we must anticipate future demand for product features and performance characteristics  as well as available supporting technologies  manufacturing capacity  competitive product offerings and industry standards 
+we must also continue to make significant investments in research and development in order to continue to enhance the performance and functionality of our products to keep pace with competitive products and customer demands for improved performance  features and functionality 
+the technical innovations required for us to remain competitive are complicated and require a significant amount of time and money 
+we may experience substantial difficulty in introducing new products and we may be unable to offer enhancements to existing products on a timely or cost effective basis  if at all 
+for instance  the performance of our encryption compression and public key processors depends upon the integrity of our security technology 
+if any significant advances in overcoming cryptographic systems are made  then the security of our encryption compression and public key processors will be reduced or eliminated unless we are able to develop further technical innovations that adequately enhance the security of these products 
+our inability to develop and introduce new products or enhancements directed at new industry standards could harm our business  financial condition and results of operations 
+our markets are highly competitive 
+we compete in markets that are intensely competitive and are expected to become more competitive as current competitors expand their product offerings and new competitors enter the market 
+the markets that we compete in are subject to frequent product introductions with improved price performance characteristics  rapid technological change  and the continued emergence of new industry standards 
+our products compete with offerings from companies such as analog devices  inc  safenet  inc  ibm  broadcom corporation  motorola  inc and philips corporation 
+in  stac entered into two license agreements with ibm in which stac granted ibm the right to use  but not sublicense  our patented compression technology in ibm hardware and software products 
+stac also entered into a license agreement with microsoft corporation microsoft in whereby stac granted microsoft the right to use  but not sublicense  our compression technology in their software products 
+we expect significant future competition from major domestic and international semiconductor suppliers 
+several established electronics and semiconductor suppliers have recently entered  or expressed an interest to enter  the network equipment market 
+we also may face competition from suppliers of products based on new or emerging technologies 
+furthermore  many of our existing and potential customers internally develop solutions which attempt to perform all or a portion of the functions performed by our products 
+a key element of our packet processor architecture is our encryption technology 
+until recently  in order to export our encryption related products  the us department of commerce required us to obtain a license 
+
+table of contents foreign competitors that were not subject to similar requirements have an advantage over us in their ability to establish existing markets for their products and rapidly respond to the requests of customers in the global market 
+although the export restriction has been liberalized  we may not be successful in entering or competing in the foreign encryption markets 
+see our products are subject to export restrictions 
+many of our current and prospective competitors offer broader product lines and have significantly greater financial  technical  manufacturing and marketing resources than us 
+as a result  they may be able to adapt more quickly to new or emerging technologies and changes in customer requirements or to devote greater resources to promote the sale of their products 
+in particular  companies such as intel corporation  lucent technologies inc  motorola  inc  national semiconductor corporation  and texas instruments incorporated have a significant advantage over us given their relationships with many of our customers  their extensive marketing power and name recognition and their much greater financial resources 
+in addition  current and potential competitors may decide to consolidate  lower the prices of their products or to bundle their products with other products 
+any of the above would significantly and negatively impact our ability to compete and obtain or maintain market share 
+if we are unable to successfully compete against our competitors  our business  results of operations and financial condition will suffer 
+we believe that the important competitive factors in our markets are the following performance  price  the time that is required to develop a new product or enhancements to existing products  the ability to achieve product acceptance with major network and storage equipment vendors  the support that exists for new network and storage standards  features and functionality  adaptability of products to specific applications  reliability  and technical service and support as well as effective intellectual property protection 
+if we are unable to successfully develop and market products that compete with those of other suppliers  our business  financial condition and results of operations could be harmed 
+in addition  we must compete for the services of qualified distributors and sales representatives 
+to the extent that our competitors offer distributors or sales representatives more favorable terms  these distributors and sales representatives may decline to carry  or discontinue carrying  our products 
+our business  financial condition and results of operations could be harmed by any failure to maintain and expand our distribution network 
+our business depends upon the growth of the network equipment and storage equipment markets 
+our success is largely dependent upon continued growth in the market for network security equipment  such as routers  remote access concentrators  switches  broadband access equipment  security gateways  firewalls and network interface cards 
+in addition  our success depends upon storage equipment vendors incorporating our packet processors into their systems 
+the network security equipment market has in the past  and may in the future  fluctuate significantly based upon numerous factors  including the lack of industry standards  adoption of alternative technologies  capital spending levels and general economic conditions 
+we are unable to determine the rate or extent to which these markets will grow  if at all 
+any decrease in the growth of the network or storage equipment market or a decline in demand for our products could harm our business  financial condition and results of operations 
+our success depends upon protecting our intellectual property 
+our proprietary technology is critical to our future success 
+we rely in part on patent  trade  trademark  maskwork and copyright law to protect our intellectual property 
+we own united states patents and four 
+table of contents foreign patents 
+we also have pending patent applications in japan 
+our issued patents and patent applications primarily cover various aspects of our compression technology and have expiration dates ranging from to in addition to compression  we have six pending patent applications in the united states  four in europe and asia japan covering our flow classification technology 
+there are pending patent applications in the united states covering our bandwidth management and rate shaping technology 
+patents may not be issued under our current or future patent applications  and the patents issued under such patent applications could be invalidated  circumvented or challenged 
+in addition  third parties could make infringement claims against us in the future 
+such infringement claims could result in costly litigation 
+we may not prevail in any such litigation or be able to license any valid and infringed patents from third parties on commercially reasonable terms  if at all 
+regardless of the outcome  an infringement claim would likely result in substantial cost and diversion of our resources 
+any infringement claim or other litigation against us or by us could harm our business  financial condition and results of operations 
+the patents issued to us may not be adequate to protect our proprietary rights  to deter misappropriation or to prevent an unauthorized third party from copying our technology  designing around the patents we own or otherwise obtaining and using our products  designs or other information 
+in addition  others could develop technologies that are similar or superior to our technology 
+we also claim copyright protection for certain proprietary software and documentation 
+we attempt to protect our trade secrets and other proprietary information through agreements with our customers  employees and consultants  and through other security measures 
+however  our efforts may not be successful 
+furthermore  the laws of certain countries in which our products are or may be manufactured or sold may not protect our products and intellectual property 
+the length of time it takes to develop our products and make a sale to our customers may impair our operating results 
+our customers typically take a long time to evaluate our products 
+in fact  it usually takes our customers to months or more to test our products with an additional to months or more before they commence significant production of equipment incorporating our products 
+as a result of this lengthy sales cycle  we may experience a delay between increasing expenses for research and development and sales and marketing efforts on the one hand  and the generation of higher revenues  if any  on the other hand 
+in addition  the delays inherent in such a lengthy sales cycle raise additional risks of customer decisions to cancel or change product plans  which could result in the loss of anticipated sales 
+our business  financial condition and results of operations could suffer if customers reduce or delay orders or choose not to release products using our technology 
+we depend upon independent manufacturers and limited sources of supply 
+we rely on subcontractors to manufacture  assemble and test our packet processors 
+we currently subcontract our semiconductor manufacturing to atmel corporation  toshiba corporation and motorola  inc since we depend upon independent manufacturers  we do not directly control product delivery schedules or product quality 
+none of our products are manufactured by more than one supplier 
+since the semiconductor industry is highly cyclical  foundry capacity has been very limited at times in the past and may become limited in the future 
+we depend on our suppliers to deliver sufficient quantities of finished product to us in a timely manner 
+since we place orders on a purchase order basis and do not have long term volume purchase agreements with any of our suppliers  our suppliers may allocate production capacity to other products while reducing deliveries to us on short notice 
+for example  in june  one of our suppliers delayed the delivery of one of our products 
+as a result  we switched production of the product to a new manufacturer 
+this caused a month delay in shipments to customers 
+we also experienced yield and test anomalies on a different product manufactured by another subcontractor that could have interrupted our customer shipments 
+in this case  the manufacturer was able to correct the problem in a timely manner and customer shipments were not affected 
+the delay and expense associated with qualifying a new supplier or foundry and commencing volume 
+table of contents production can result in lost revenue  reduced operating margins and possible harm to customer relationships 
+the steps required for a new manufacturer to begin production of a semiconductor product include adapting our product design  if necessary  to the new manufacturer s process  creating a new mask set to manufacture the product  having the new manufacturer prepare sample products so we can verify the product specification  and providing sample products to customers for qualification 
+in general  it takes from to months for a new manufacturer to begin full scale production of one of our products 
+we could have similar or more protracted problems in the future with existing or new suppliers 
+both toshiba corporation and motorola  inc manufacture products for us in plants located in asia 
+to date  the financial and stock market dislocations that have occurred in the asian financial markets in the past have not harmed our business 
+however  present or future dislocations or other international business risks  such as currency exchange fluctuations or recessions  could force us to seek new suppliers 
+we must place orders approximately to weeks in advance of expected delivery 
+this limits our ability to react to fluctuations in demand for our products  and could cause us to have an excess or a shortage of inventory of a particular product 
+in addition  if global semiconductor manufacturing capacity fails to increase in line with demand  foundries could allocate available capacity to larger customers or customers with long term supply contracts 
+if we cannot obtain adequate foundry capacity at acceptable prices  or our supply is interrupted or delayed  our product revenues could decrease or our cost of revenues could increase 
+this could harm our business  financial condition and results of operations 
+we regularly consider using smaller semiconductor dimensions for each of our products in order to reduce costs 
+we have begun to decrease the dimensions in our new product designs  and believe that we must do so to remain competitive 
+we may have difficulty decreasing the dimensions of our products 
+in the future  we may change our supply arrangements to assume more product manufacturing responsibilities 
+we may subcontract for wafer manufacturing  assembly and test rather than purchase finished products 
+however  there are additional risks associated with manufacturing  including variances in production yields  the ability to obtain adequate test and assembly capacity at reasonable cost and other general risks associated with the manufacture of semiconductors 
+we may also enter into volume purchase agreements that would require us to commit to minimum levels of purchases and which may require up front investments 
+if we fail to effectively assume greater manufacturing responsibilities or manage volume purchase arrangements  our business  financial condition and results of operations will suffer 
+network and storage equipment prices typically decrease 
+average selling prices in the networking  storage and semiconductor industries have rapidly declined due to many factors  including rapidly changing technologies  price performance enhancements  and product obsolescence 
+the decline in the average selling prices of our products may cause substantial fluctuations in our operating results 
+we anticipate that the average selling prices of our products will decrease in the future due to product introductions by our competitors  price pressures from significant customers and other factors 
+therefore  we must continue to develop and introduce new products that incorporate features which we can sell at higher prices 
+if we fail to do so  our revenues and gross margins could decline  which would harm our business  financial condition and results of operations 
+
+table of contents we face product return  product liability and product defect risks 
+complex products such as ours frequently contain errors  defects and bugs when first introduced or as new versions are released 
+we have discovered such errors  defects and bugs in the past 
+delivery of products with production defects or reliability  quality or compatibility problems could hinder market acceptance of our products 
+this could damage our reputation and harm our ability to attract and retain customers 
+errors  defects or bugs could also cause interruptions  delays or a cessation of sales to our customers 
+we would have to expend significant capital and resources to remedy these problems 
+errors  defects or bugs could be discovered in our new products after we begin commercial production of them  despite testing by us and our suppliers and customers 
+this could result in additional development costs  loss of  or delays in  market acceptance  diversion of technical and other resources from our other development efforts  claims by our customers or others against us or the loss of credibility with our current and prospective customers 
+any such event would harm our business  financial condition and results of operations 
+we face order and shipment uncertainties 
+we generally make our sales under individual purchase orders that may be canceled or deferred by customers on short notice without significant penalty  if any 
+cancellation or deferral of product orders could cause us to hold excess inventory  which could harm our profit margins and restrict our ability to fund our operations 
+we recognize revenue upon shipment of products to our customers  net of an allowance for estimated returns 
+an unanticipated level of returns could harm our business  financial condition and results of operations 
+business interruptions could adversely affect our business 
+our operations are vulnerable to interruption by fire  earthquake  power loss  telecommunications failure  acts of terrorism and other events beyond our control 
+our facilities and the facilities of our subcontractors in the state of california have in the past and may again in the future be subject to electrical black outs as a consequence of a shortage of available electrical power 
+in the event these blackouts resume or increase in severity  they could disrupt the operation of our facilities and the affected facilities of our subcontractors and such disruptions could have an adverse effect on our results of operations 
+we depend upon key personnel 
+our success greatly depends on the continued contributions of our key management and other personnel  many of whom would be difficult to replace 
+we do not have employment contracts with any of our key personnel  nor do we maintain any key man life insurance on any of our personnel 
+several members of our management team have joined us in the last months 
+it may be difficult for us to integrate new members of our management team 
+we must also attract and retain experienced and highly skilled engineering  sales and marketing and managerial personnel 
+competition for such personnel is intense in the geographic areas and market segments in which we compete  and we may not be successful in hiring and retaining such people 
+if we lose the services of any key personnel  or cannot attract or retain qualified personnel  particularly engineers  our business  financial condition and results of operations could suffer 
+in addition  companies in technology industries whose employees accept positions with competitors have in the past claimed that their competitors have engaged in unfair competition or hiring practices 
+we could receive such claims in the future as we seek to hire qualified personnel 
+these claims could result in material litigation 
+we could incur substantial costs in defending against any such claims  regardless of their merits 
+our rapid growth may strain our operations 
+we have experienced a period of rapid growth and expansion which has placed  and continues to place  a significant strain on our resources 
+to accommodate this growth  in fiscal  we implemented a variety of new and upgraded operational and financial systems  procedures and controls  including the improvement of the retained accounting and other internal management systems which were provided by stac 
+this required and may continue to require substantial management effort  and our efforts to do so may not continue to be 
+table of contents successful 
+in addition  we have had to hire additional employees to accommodate this growth and our product development activities 
+this has resulted in increased responsibilities for our management 
+our systems  procedures and controls may not be adequate to support our operations 
+if we fail to improve our operational  financial and management information systems  or to hire  train  motivate or manage our employees  our business  financial condition and results of operations could suffer 
+our products are subject to export restrictions 
+the encryption algorithms embedded in our products are a key element of our packet processor architecture 
+these products are subject to us department of commerce export control restrictions 
+our network equipment customers may only export products incorporating encryption technology if they obtain a one time technical review 
+these us export laws also prohibit the export of encryption products to a number of countries deemed by the us to be hostile 
+many foreign countries also restrict exports to many of these countries deemed to be terrorist supporting states by the us government 
+because the restrictions on exports of encryption products have been liberalized  we  along with our network equipment customers have an opportunity to effectively compete with our foreign competitors 
+the existence of these restrictions until recently may have enabled foreign competitors facing less stringent controls on their products to become more established and  therefore  more competitive in the global market than our network equipment customers 
+in addition  the list of products and countries for which export approval is required  and the regulatory policies with respect thereto  could be revised  and laws limiting the domestic use of encryption could be enacted 
+while the us government now allows us companies to assume that exports to non government end users will be approved within days of official registration with the department of commerce  the sale of our packet processors could be harmed by the failure of our network equipment customers to obtain the required approvals or by the costs of compliance 
+we face risks associated with our international business activities 
+we sell most of our products to customers in the united states 
+if our international sales increase  particularly in light of decreased export restrictions  we may encounter risks inherent in international operations 
+all of our international sales to date are denominated in us dollars 
+as a result  if the value of the us dollar increases relative to foreign currencies  our products could become less competitive in international markets 
+we also obtain some of our manufacturing  assembly and test services from suppliers located outside the united states 
+international business activities could be limited or disrupted by any of the following the imposition of governmental controls  export license technical review requirements  restrictions on the export of technology  currency exchange fluctuations  political instability  financial and stock market dislocations  military and related activities  trade restrictions  and changes in tariffs 
+demand for our products also could be harmed by seasonality of international sales and economic conditions in our primary overseas markets 
+these international factors could harm future sales of our products to international customers and our business  financial condition and results of operations in general 
+
+table of contents we face risks associated with acquisitions 
+we continually evaluate strategic acquisitions of businesses and technologies that would complement our product offerings or enhance our market coverage or technological capabilities 
+while we are not currently negotiating any acquisitions  we may make additional acquisitions in the future 
+future acquisitions could be effected without stockholder approval  and could cause us to dilute shareholder equity  incur debt and contingent liabilities and amortize acquisition expenses related to goodwill and other intangible assets  any of which could harm our operating results and or the price of our common stock 
+acquisitions entail numerous risks  including difficulties in assimilating acquired operations  technologies and products  in particular  if we fail to successfully integrate the acquisition of apptitude  the anticipated benefits of this transaction will not occur  diversion of management s attention from other business concerns  risks of entering markets in which we have little or no prior experience  and loss of key employees of acquired organizations 
+we may not be able to successfully integrate businesses  products  technologies or personnel that we acquire 
+if we fail to do so  our business  financial condition and results of operations could suffer 
+the cyclicality of the semiconductor industry may harm our business 
+the semiconductor industry has experienced significant downturns and wide fluctuations in supply and demand 
+the industry has also experienced significant fluctuations in anticipation of changes in general economic conditions 
+this has caused significant variances in product demand  production capacity and rapid erosion of average selling prices 
+industry wide fluctuations in the future could harm our business  financial condition and results of operations 
+our stock price may be volatile 
+the market price of our common stock has fluctuated in the past and is likely to fluctuate in the future 
+in addition  the securities markets have experienced significant price and volume fluctuations and the market prices of the securities of technology related companies including networking  storage and semiconductor companies have been especially volatile 
+such fluctuations can result from quarterly variations in operating results  announcements of new products by us or our competitors  the gain or loss of significant customers  changes in analysts estimates  short selling of our common stock  and events affecting other companies that investors deem to be comparable to us 
+we are currently engaged in several securities class action lawsuits 
+in october and november  six purported class action complaints were filed in the united states district court for the northern district of california against hifn and certain of its officers and directors 
+these complaints were consolidated into in re hi fn sec 
+litig  no 
+si 
+the consolidated complaint was filed on behalf of a class of purchasers of hifn s stock during the period july  through october  the class period 
+the complaint seeks unspecified money damages and alleges that hifn and certain of its officers and directors violated federal securities laws in connection with various public statements made by hifn and certain of its officers and directors during the class period 
+in august  the court dismissed the complaint as to all defendants  other than raymond j 
+farnham and hifn 
+mr 
+farnham 
+table of contents and hifn answered the complaint in september discovery has commenced 
+a trial date has been tentatively scheduled for october we believe that the allegations contained in the complaint are without merit and intend to defend the action vigorously 
+due to the nature of the allegations  management cannot estimate the possible loss  if any  or range of loss that may ultimately be incurred in connection with the allegations 
+however  based on the facts currently known  management does not believe that these matters will have a material adverse effect on our financial position 
+in december  a former employee of hifn filed suit against hifn and one of its former employees alleging wrongful termination  invasion of privacy  violation of fair employment and housing act  based on sexual harassment  sexual discrimination and retaliation  defamation  breach of the covenant of good faith and fair dealing  negligence and conversion 
+on april   we filed an answer to the complaint  generally denying its allegations and asserting various affirmative defenses 
+discovery has recently commenced  and no trial date has been set 
+the parties have voluntarily agreed to participate in a mediation session in an effort to amicably resolve the matter 
+in the event the matter is not amicably resolved  we intend to defend the matter vigorously 
+while the ultimate outcome of this matter cannot be determined at this time  management does not believe that this matter will have a material adverse effect on our financial position 
+recent accounting pronouncements in june  the fasb issued sfas no 
+ business combinations sfas and sfas no 
+ goodwill and other intangible assets sfas 
+sfas will apply to all business combinations that we enter into after june   and eliminates the pooling of interests method of accounting 
+sfas is effective for fiscal years beginning after december  under the new statements  goodwill and intangible assets deemed to have indefinite lives will no longer be amortized but will be subject to annual impairment tests in accordance with the statements 
+other intangible assets will continue to be amortized over their useful lives 
+in addition  the statements include provisions upon adoption for the reclassification of certain existing recognized intangibles as goodwill  reassessment of the useful lives of existing recognized intangibles  reclassification of certain intangibles out of previously reported goodwill and the testing for impairment of existing goodwill and other intangibles 
+we are required to adopt these statements for accounting for goodwill and other intangible assets beginning october  at which time the company will cease amortization of goodwill 
+goodwill amortization expense aggregated million and million in fiscal and  respectively 
+as of september   we have not determined the effect the adoption of these statements and we intend to continue to perform an impairment analysis of the remaining goodwill through the end of fiscal year upon adoption on october   we will perform the required impairment tests of goodwill and has not yet determined the effect of these tests on our earnings and financial position 
+in august  the fasb issued sfas no 
+ accounting for the impairment or disposal of long lived assets sfas 
+sfas supersedes sfas no 
+ accounting for the impairment of long lived assets and for long lived assets to be disposed of  and provides further guidance regarding the accounting and disclosure of long lived assets 
+we are required to adopt sfas effective october   and have not yet determined the impact  if any  of adoption 
+item a 
+quantitative and qualitative disclosures about market risk interest rate risk we do not use derivative financial instruments in our investment portfolio 
+our investment portfolio is generally comprised of commercial paper and municipal bonds 
+we place investments in instruments that meet high credit quality standards 
+these securities are subject to interest rate risk  and could decline in value if interest rates fluctuate 
+due to the short duration and conservative nature of our investment portfolio  we do not expect any material loss with respect to our investment portfolio 
+a move in interest rates as of september  would have an immaterial effect on our pre tax earnings and the carrying value of our investments over the next fiscal year 
+
+table of contents foreign currency exchange rate risk all of our sales  cost of manufacturing and marketing are transacted in us dollars 
+accordingly  our results of operations are not subject to foreign exchange rate fluctuations 
+gains and losses from such fluctuations have not been incurred by us to date 
+
+table of contents 

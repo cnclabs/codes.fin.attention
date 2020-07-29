@@ -1,0 +1,429 @@
+item management s discussion and analysis of financial condition and results of operations  beginning below at page  and elsewhere in this form k 
+although we believe that the matters reflected in the forward looking statements are reasonable  we cannot guarantee future results  levels of activity  performance or achievements 
+you should not place undue reliance on these forward looking statements 
+we disclaim any obligation to update information contained in any forward looking statement 
+item business we develop and manufacture specialized semiconductor products used by our customers for a wide variety of embedded control applications 
+our product portfolio comprises our picmicro field reprogrammable flash risc microcontrollers which serve bit and bit embedded control applications  and a broad spectrum of high performance linear and mixed signal  power management and thermal management devices 
+we also offer complementary microperipheral products including interface devices  serial eeproms  and application specific standard products assps 
+our synergistic product portfolio targets thousands of applications and a growing demand for high performance designs in the automotive  communications  computing  consumer and industrial control markets 
+our quality systems are iso ts version certified 
+microchip technology incorporated was incorporated in delaware in in this form k  we  us  and our each refers to microchip technology incorporated and its subsidiaries 
+our executive offices are located at west chandler boulevard  chandler  arizona and our telephone number is our internet address is www 
+microchip 
+com 
+we post the following filings on our web site as soon as reasonably practicable after they are electronically filed with or furnished to the securities and exchange commission our annual report on form k our quarterly reports on form q our current reports on form k  and any amendments to the above listed reports filed or furnished pursuant to sections a or d of the securities exchange act of all sec filings on our web site are available free of charge 
+the information on our web site is not incorporated into this form k 
+industry background competitive pressures require manufacturers of a wide variety of products to expand product functionality and provide differentiation while maintaining or reducing cost 
+to address these requirements  manufacturers often use integrated circuit based embedded control systems that enable them to differentiate their products replace less efficient electromechanical control devices reduce the number of components in their system add product functionality decrease time to market for their products  and significantly reduce product cost 
+embedded control systems have been incorporated into thousands of products and subassemblies in a wide variety of applications and markets worldwide  including automotive comfort  safety and entertainment applications remote control devices handheld tools home appliances portable computers robotics cordless and cellular telephone accessories motor controls security systems educational and entertainment devices  and consumer electronics 
+embedded control systems also facilitate the emergence of new classes of products when applications not previously existing become possible 
+embedded control systems typically incorporate a microcontroller as the principal active  and sometimes sole  component 
+a microcontroller is a self contained computer on a chip consisting of a central processing unit  non volatile program memory  random access memory for data storage and various input output peripheral capabilities 
+in addition to the microcontroller  a complete embedded control system incorporates application specific software and may include specialized peripheral device controllers  non volatile memory components such as eeproms  and various analog and interface products 
+the increasing demand for embedded control has made the market for microcontrollers one of the largest segments of the semiconductor market 
+microcontrollers are currently available in bit through bit architectures 
+although bit microcontrollers are relatively inexpensive  they generally lack the minimum functionality required in most applications and are typically used in relatively simple applications 
+while traditional bit and bit microcontrollers provide very high performance and functionality  they are generally too expensive for many high volume embedded control applications 
+as a result  many manufacturers of competitive  high volume products have found bit microcontrollers to be the most cost effective embedded control solution 
+most microcontrollers shipped today are rom based and must be programmed by the semiconductor supplier during manufacturing  resulting in week lead times  based on market conditions  for delivery of such microcontrollers 
+in addition to delayed product introduction  these long lead times can result in potential inventory obsolescence and temporary factory shutdowns when changes in the firmware are required 
+to address these issues  some suppliers offer programmable microcontrollers that can be configured by the customer in the customer s manufacturing line  thus significantly reducing lead time and inventory risks when the inevitable firmware changes occur 
+while these microcontrollers were initially expensive relative to rom based microcontrollers  manufacturing technology has evolved over the last several years to the point where reprogrammable microcontrollers are now available for little to no premium over rom based microcontrollers  thus providing significant value to microcontroller customers 
+as a result  reprogrammable microcontrollers are the fastest growing segment of the microcontroller market 
+our products our strategic focus is on embedded control solutions  including microcontrollers digital signal controllers high performance linear and mixed signal devices power management and thermal management devices patented keeloq security assps smart battery management assps  and serial eeproms we provide highly cost effective embedded control solutions that also offer the advantages of small size  high performance  low voltage power operation and ease of development  enabling timely and cost effective embedded control product integration by our customers 
+microcontrollers we offer a broad family of microcontroller products featuring a unique  proprietary architecture marketed under the pic brand name 
+we believe that our pic product family is a price performance leader in the worldwide microcontroller market 
+we have shipped over billion pic microcontrollers to customers worldwide since their introduction in our pic products are designed for applications requiring field programmability  high performance  low power and cost effectiveness 
+they feature a variety of memory technology configurations  low voltage and power  small footprint and ease of use 
+our performance results from an exclusive product architecture which features dual data and instruction pathways  referred to as a harvard dual bus architecture  a reduced instruction set computer  referred to as risc  and variable length instructions  all of which provide significant speed advantages over alternative single bus  complex instruction set computer architectures  referred to as cisc 
+with over microcontrollers in our product portfolio  we target the entire performance range of bit microcontrollers 
+additionally  our scalable product architecture allows us to successfully target both the entry level of the bit microcontroller market  as well as the bit microcontroller marketplace  significantly enlarging our addressable market 
+we have used our manufacturing experience and design and process technology to bring additional enhancements and manufacturing efficiencies to the development and production of our pic family of microcontroller products 
+our extensive experience base has enabled us to develop our advanced  low cost user programmability feature by incorporating non volatile memory  such as flash  eeprom and eprom memory  into the microcontroller  and to be a leader in reprogrammable microcontroller product offerings 
+digital signal controllers we recently began production shipments of our digital signal controller product line 
+our family of dspic digital signal controllers  currently products  integrates control features of high performance bit microcontrollers with the processing capabilities of digital signal processors dsps 
+during the last three fiscal years  all of our digital signal controller product development has been focused on reprogrammable flash products 
+these controllers integrate a wide variety of peripheral functions making them suitable for a large number of embedded control applications 
+our dspic product family offers a broad suite of hardware and software development tools  software application libraries  development boards and reference designs to ease and expedite the customer application development cycle 
+with its field re programmability  large selection of peripheral functions  small footprint and ease of use  we believe that our dspic controllers will significantly enlarge our addressable market 
+development systems we offer a comprehensive set of low cost and easy to learn application development tools 
+these tools enable system designers to quickly and easily program a pic microcontroller and dspic digital signal controllers for specific applications and are a key factor for obtaining design wins 
+our family of development tools operates in the standard windows environment on standard pc hardware 
+these tools range from entry level systems  which include an assembler and programmer or in circuit debugging hardware  to fully configured systems that provide in circuit emulation hardware 
+customers moving from entry level designs to those requiring real time emulation are able to preserve their investment in learning and tools as they migrate to future pic devices since all of our systems share the same integrated development environment 
+many independent companies also develop and market application development tools and systems that support our standard microcontroller product architecture 
+currently  there are more than third party tool suppliers worldwide whose products support our proprietary microcontroller architecture 
+we believe that familiarity with and adoption of our  and third party  development systems by an increasing number of product designers will be an important factor in the future selection of our embedded control products 
+these development tools allow design engineers to develop thousands of application specific products from our standard microcontrollers 
+to date  we have shipped more than  development systems 
+assps our application specific standard products  referred to as assps  are specialized products designed to perform specific end user applications  compared to our other products that are more general purpose in nature 
+our assp device families currently include  among others  our keeloq family of secure data transmission products and smart battery management products 
+analog and interface products our analog and interface products now consist of several families with over power management  linear  mixed signal  thermal management and interface products 
+at the end of fiscal  our mixed signal analog and interface products were being shipped to more than  end customers 
+we continue marketing and selling our analog and interface products into our existing microcontroller customer base  which we refer to as our analog attach strategy  as well as to new customers 
+in addition to our attach strategy  we market and sell other products that may not fit our traditional pic microcontroller and memory products customer base 
+we market these  and all of our products  based on an application segment approach  targeted to solve different problems in development of our customers products 
+memory products our memory products consist primarily of serial electrically erasable programmable read only memory  referred to as eeproms 
+we sell these devices primarily into the embedded control market  and we are one of the largest suppliers of such devices worldwide 
+eeprom products are used for non volatile program and data storage in systems where such data must be either modified frequently or retained for long periods 
+serial eeproms have a very low i o pin requirement  permitting production of very small devices 
+we address customer requirements by offering products with extremely small package sizes and very low operating voltages for both read and write functions 
+our memory products also feature long data retention and high erase write endurance 
+manufacturing our manufacturing operations include wafer fabrication and assembly and test 
+the ownership of our manufacturing resources is an important component of our business strategy  enabling us to maintain a high level of manufacturing control resulting in us being one of the lowest cost producers in the embedded control industry 
+by owning our wafer fabrication facilities and much of our assembly and test operations  and by employing proprietary statistical process control techniques  we have been able to achieve and maintain high production yields 
+direct control over manufacturing resources allows us to shorten our design and production cycles 
+this control also allows us to capture the wafer manufacturing and a portion of the assembly and testing profit margin 
+our manufacturing facilities are located in tempe  arizona fab chandler  arizona probe operations puyallup  washington fab non operational gresham  oregon fab  and bangkok  thailand assembly and test 
+wafer fabrication fab currently produces inch wafers and supports manufacturing processes between and microns 
+during fiscal  fab operated at approximately of its capacity compared to approximately during fiscal operating at higher percentages of capacity has a positive impact on our operating results due to the relatively high fixed costs inherent in wafer fabrication manufacturing 
+on june   we completed closure of our chandler  arizona fab wafer fabrication facility and integrated certain fab personnel and processes into our tempe  arizona fab wafer fabrication facility 
+the facility where fab is located is an integral part of our overall campus in chandler  arizona 
+within this same facility resides our wafer probe  mask making and other manufacturing related activities 
+we have no specific plans for utilizing the space formerly housing the wafer fabrication operations  and intend to leave it in an idle status 
+fab is currently non operational and being held for future use 
+see item management s discussion and analysis of financial condition and results of operations special charges fab impairment charge  below at page  for a discussion of the status of fab fab was acquired by us in august and began production on october  fab produces inch wafers using micron manufacturing processes and is capable of supporting technologies below microns 
+fab has reached a level of production where costs and efficiencies have met our initial expectations 
+fab costs on comparable technologies are in fact lower than those of fab we have a significant amount of clean room capacity and equipment still to be placed in service at fab that was acquired in the original acquisition of fab that we can bring on line in the future to support incremental wafer fabrication capacity needs 
+we believe the combined capacity of fab  fab and fab will provide sufficient capacity to allow us to respond to increases in future demand 
+we continue to transition products to more advanced process technologies to reduce future manufacturing costs 
+we believe that our ability to successfully transition to more advanced process technologies is important for us to remain competitive 
+our future operating results could be adversely affected if any such transition is substantially delayed or inefficiently implemented 
+we also contract with third party wafer foundries to fabricate less than of our total production 
+on a strategic basis  we will continue to use third party foundries to shorten our product design cycle on certain key technologies and products 
+assembly and test we perform product assembly and testing at our facilities located near bangkok  thailand 
+at march   approximately of our assembly requirements were being performed in our thailand facility 
+as of march   our thailand facility was testing substantially all of our wafer production 
+a  square foot expansion area that was placed in service in fiscal provides the thailand facility with sufficient space for our projected expansion needs in fiscal we also use third party assembly and test contractors in several asian countries for the balance of our assembly and test requirements 
+general matters impacting our manufacturing operations we employ proprietary design and manufacturing processes in developing our microcontroller and memory products 
+we believe our processes afford us both cost effective designs in existing and derivative products and greater functionality in new product designs 
+while many of our competitors develop and optimize separate processes for their logic and memory product lines  we use a common process technology for both microcontroller and non volatile memory products 
+this allows us to more fully absorb our process research and development costs and to deliver new products to market more rapidly 
+our engineers utilize advanced computer aided design tools and software to perform circuit design  simulation and layout  and our in house photomask and wafer fabrication facilities enable us to rapidly verify design techniques by processing test wafers quickly and efficiently 
+due to the high fixed costs inherent in semiconductor manufacturing  consistently high manufacturing yields have significant positive effects on our gross profit and overall operating results 
+during fiscal  our focus on manufacturing productivity allowed us to maintain excellent manufacturing yields at our facilities 
+our manufacturing yields are primarily driven by a comprehensive implementation of statistical process control  extensive employee training and selective upgrading of our manufacturing facilities and equipment 
+maintenance of manufacturing productivity and yields are important factors in the achievement of our operating results 
+the manufacture and assembly of integrated circuits  particularly non volatile  erasable cmos memory and logic devices  such as those that we produce  are complex processes 
+these processes are sensitive to a wide variety of factors  including the level of contaminants in the manufacturing environment  impurities in the materials used and the performance of our wafer fabrication personnel and equipment 
+as is typical in the semiconductor industry  we have from time to time experienced lower than anticipated manufacturing yields 
+our operating results will suffer if we are unable to maintain yields at approximately the current levels 
+our semiconductor manufacturing operations require raw materials and equipment that must meet exacting standards 
+we generally have more than one source for these supplies  but there are only a limited number of suppliers capable of delivering various raw materials and equipment that meet our standards 
+in addition  the raw materials and equipment necessary for our business could become more difficult to obtain as worldwide use of semiconductors in product applications increases 
+we have experienced supply shortages from time to time in the past  and on occasion our suppliers have told us they need more time than expected to fill our orders 
+an interruption of any raw materials or equipment sources could harm our business 
+our reliance on third parties for a portion of wafer fabrication and assembly and testing involves some reduction in our level of control over the portions of our business that we subcontract 
+while we review the quality  delivery and cost performance of these third party contractors  our future operating results could suffer if any third party contractor is unable to maintain manufacturing yields  assembly and test yields and costs at approximately their current levels 
+the foregoing statements related to the combined capacity of fab  fab and fab providing sufficient capacity to allow us to respond to future increases in demand and the transition to more advanced process technologies to reduce future manufacturing costs are forward looking statements 
+actual results could differ materially because of the following factors  among others changes in utilization of our current manufacturing capacity  unanticipated costs in ramping production at fab  our ability to increase production at fab  the ability to attract and retain qualified personnel in the portland  oregon area  changes in demand for products and the products of our customers  supply disruption  absorption of fixed costs  labor and other direct manufacturing costs  fluctuations in production yields  production efficiencies and overall capacity utilization  changes in product mix  competitive pressures on prices  labor unrest  political instability and expropriation  and other general economic conditions 
+at the end of fiscal  we owned long lived assets consisting of property  plant and equipment and goodwill in the united states amounting to million and million in other countries  including million in thailand 
+at the end of fiscal  we owned long lived assets in the united states amounting to million and million in other countries  including million in thailand 
+research and development r d we are committed to continuing our investment in new and enhanced products  including development systems  and in our design and manufacturing process technologies 
+we believe these investments are significant factors in maintaining our competitive position 
+our current r d activities focus on the design of new microcontrollers  digital signal controllers  assps  memory and mixed signal products  new development systems  software and application specific software libraries 
+we are also developing new design and process technologies to achieve further cost reductions and performance improvements in existing products 
+in fiscal  our r d expenses were million  compared to million in fiscal and million in fiscal sales and distribution general we market our products worldwide primarily through a network of direct sales personnel and distributors 
+our direct sales force focuses primarily on major strategic accounts in three geographical markets the americas  europe and asia 
+we currently maintain sales and support centers in major metropolitan areas in north america  europe and asia 
+we believe that a strong technical service presence is essential to the continued development of the embedded control market 
+the majority of our field sales engineers fses  field application engineers faes  and sales management have technical degrees and have been previously employed in an engineering environment 
+we believe that the technical knowledge of our sales force is a key competitive advantage in the sale of our products 
+the primary mission of our fae team is to provide technical assistance to strategic accounts and to conduct periodic training sessions for fses and distributor sales teams 
+faes also frequently conduct technical seminars in major cities around the world  and work closely with our distributors to provide technical assistance and end user support 
+distribution our distributors focus primarily on servicing the product and technical support requirements of a broad base of diverse customers 
+we believe that distributors provide an effective means of reaching this broad and diverse customer base 
+in fiscal  we derived of our net sales from sales through distributors and of our net sales from direct sales to original equipment manufacturers  referred to as oem customers 
+distributors accounted for of our net sales in fiscal and of our net sales in fiscal our largest distributor accounted for approximately of our net sales in fiscal and fiscal our second largest distributor accounted for approximately of our net sales in fiscal and fiscal in fiscal  one distributor accounted for of our net sales 
+no other distributor or end customer accounted for more than of our net sales in fiscal  or distributors generally have broad based rights to return product to us 
+as revenue on distributor shipments is not recognized until the distributors sell our product to their end customers  distributor returns have no impact on our revenue 
+we also grant certain credits to our third party distributors and also offer these distributors price protection 
+the credits are granted to the distributors on specifically identified pieces of the distributors business to allow them to earn a competitive gross margin on the sale of our products to their end customers 
+the credits are on a per unit basis and are not given to the distributor until they provide information regarding the sale to their end customer 
+the effect of granting these credits establishes the net selling price from us to our distributors for the products and results in the net revenue recognized by us when the product is sold by the distributors to their end customers 
+we reduce product pricing through price protection based on market conditions  competitive considerations and other factors 
+price protection is granted to third party distributors on the inventory that they have on hand at the date the price protection is offered 
+when we reduce the selling price of our products  it allows the distributors to claim a credit against their outstanding accounts receivables balances based on the new price of the inventory they have on hand as of the date of the price reduction 
+there is no revenue recognition impact from the price protection activity 
+we do not offer material incentive programs to our third party distributors 
+we do not have long term agreements with our distributors and we  or our distributors  may terminate our relationships with each other with little or no advanced notice 
+the loss of  or the disruption in the operations of  one or more of our distributors could reduce our future net sales in a given quarter and could result in an increase in inventory returns 
+sales by geography sales by geography for fiscal  and were as follows dollars in thousands year ended march  americas europe asia total sales sales to customers in asia have increased as a percentage of sales from fiscal to fiscal and from fiscal to fiscal we attribute this primarily to many of our customers transitioning their manufacturing operations to asia 
+sales to foreign customers accounted for approximately of our net sales in fiscal and of our net sales in fiscal and fiscal our sales to foreign customers have been predominately in asia and europe  which we attribute to the manufacturing strength in those areas for automotive  communications  computing  consumer and industrial control products 
+americas sales include sales to customers in the united states  canada  central america and south america 
+sales to customers in china  including hong kong  accounted for approximately of our net sales in fiscal  approximately of our net sales in fiscal and of our net sales in fiscal in fiscal  sales to customers in taiwan accounted for approximately of our net sales 
+we did not have sales into any other foreign countries that exceeded of our net sales during fiscal  or our international sales are predominately us dollar denominated 
+although foreign sales are subject to certain government export restrictions  we have not experienced any material difficulties as a result of export restrictions to date 
+our foreign operations are subject to a number of risks as described under the heading  we are highly dependent on foreign sales and operations  which exposes us to foreign political and economic risks  on page backlog as of april   our backlog was approximately million  compared to million as of april  our backlog includes all purchase orders scheduled for delivery within the subsequent months 
+we primarily produce standard products that can be shipped from inventory within a short time after we receive an order 
+our business and  to a large extent  that of the entire semiconductor industry  is characterized by short term orders and shipment schedules 
+orders constituting our current backlog are subject to changes in delivery schedules  or to cancellation at the customer s option without significant penalty 
+thus  while backlog is useful for scheduling production  backlog as of any particular date may not be a reliable measure of sales for any future period 
+competition the semiconductor industry is intensely competitive and has been characterized by price erosion and rapid technological change 
+we compete with major domestic and international semiconductor companies  many of which have greater market recognition and greater financial  technical  marketing  distribution and other resources than we have with which to pursue engineering  manufacturing  marketing and distribution of their products 
+emerging companies may also increase their participation in the market for embedded control applications 
+furthermore  capacity in the semiconductor industry is generally increasing over time and such increased capacity or improved product availability could adversely affect our competitive position 
+we currently compete principally on the basis of the technical innovation and performance of our embedded control products  including the following product characteristics speed functionality density power consumption reliability packaging alternatives price  and availability 
+we believe that other important competitive factors in the embedded control market include ease of use functionality of application development systems dependable delivery and quality  and technical service and support 
+we believe that we compete favorably with other companies on all of these factors  but we may be unable to compete successfully in the future  which could harm our business 
+patents  licenses and trademarks we maintain a portfolio of united states and foreign patents  expiring on various dates between and we also have numerous additional united states and foreign patent applications pending 
+we do not expect that the expiration of any particular patent will have a material impact on our business 
+while we intend to continue to seek patents on our inventions and manufacturing processes  we believe that our continued success depends primarily on the technological skills and innovative capabilities of our personnel and our ability to rapidly commercialize product developments  rather than on our patents 
+our existing patents and any new patents that are issued may not be of sufficient scope or strength to provide meaningful protection or any commercial advantage to us 
+in addition  the laws of certain foreign countries do not protect our intellectual property rights to the same extent as the laws of the united states 
+we have entered into certain intellectual property licenses and cross licenses with other companies related to semiconductor products and manufacturing processes 
+as is typical in the semiconductor industry  we and our customers have from time to time received  and may in the future receive  communications from third parties asserting patent or other intellectual property rights on certain of our products or technologies 
+we investigate all such notices and respond as we believe is appropriate 
+based on industry practice  we believe that in most cases we can obtain any necessary licenses or other rights on commercially reasonable terms  but we cannot assure that licenses would be on acceptable terms  that litigation would not ensue or that damages for any past infringement would not be assessed 
+litigation  which could result in substantial cost to us and require significant attention from management  may be necessary to enforce our patents or other intellectual property rights  or to defend us against claimed infringement of the rights of others 
+the failure to obtain necessary licenses or other rights  or litigation arising out of infringement claims  could harm our business 
+environmental regulation we must comply with many different federal  state and local governmental regulations related to the use  storage  discharge and disposal of certain chemicals and gases used in our manufacturing processes 
+our facilities have been designed to comply with these regulations and we believe that our activities are conducted in compliance with such regulations 
+any changes in such regulations or in their enforcement could require us to acquire costly equipment or to incur other significant expenses to comply with environmental regulations 
+any failure by us to control adequately the storage  use and disposal of regulated substances could result in future liabilities 
+increasing public attention has been focused on the environmental impact of electronic manufacturing operations 
+while we have not experienced any materially adverse effects on our operations from environmental regulations  our business and results of operations could suffer if for any reason we fail to control the use of  or to restrict adequately the discharge of  hazardous substances under present or future environmental regulations 
+employees as of april   we had  employees 
+none of our employees are represented by a labor organization 
+we have never had a work stoppage and believe that our employee relations are good 
+executive officers the following sets forth certain information regarding our executive officers as of april  name age position steve sanghi chairman of the board  president and chief executive officer steven v 
+drehobl vice president  security  microcontroller and technology division david s 
+lambert vice president  fab operations mitchell r 
+little vice president  worldwide sales and applications ganesh moorthy vice president  advanced microcontroller and memory division gordon w 
+parnell vice president  chief financial officer richard j 
+simoncic vice president  analog and interface products division mr 
+sanghi has been president since august  ceo since october  and chairman of the board since october he has served as a director since august mr 
+sanghi holds an ms degree in electrical and computer engineering from the university of massachusetts and a bs degree in electronics and communication from punjab university  india 
+mr 
+drehobl has served as vice president of the security  microcontroller  and technology division since july he has been employed by microchip since august and has served as a vice president in various roles since february mr 
+drehobl holds a bachelor of technology degree from the university of dayton 
+mr 
+lambert has served as vice president  fab operations since november from to november  he served as director of manufacturing engineering  and from to  he served as engineering manager of fab operations 
+mr 
+lambert holds a bs degree in chemical engineering from the university of cincinnati 
+mr 
+little has served as vice president  worldwide sales and applications since july from april through july  he served as vice president  americas sales 
+from november to april  he served as vice president  standard microcontroller and assp division 
+joining microchip in  mr 
+little also held positions with the memory products division including vice president of that division 
+mr 
+little holds a bset degree from united electronics institute 
+mr 
+moorthy has served as vice president  advanced microcontroller and memory division  since december from november to december  he served as vice president  advanced microcontroller and automotive division 
+from august through november  he served as chairman and ceo of cybercilium  inc  a business intelligence solutions provider for mid market companies 
+from through july  mr 
+moorthy worked at intel corporation in various operations and management capacities  including his last assignment as director of operations for intel s home products group 
+mr 
+moorthy holds an mba in marketing from national university  a bs degree in electrical engineering from the university of washington and a bs degree in physics from the university of bombay 
+mr 
+parnell has served as vice president and chief financial officer since may he served as vice president  controller and treasurer from april to may mr 
+parnell holds a finance accounting qualification with the association of certified accountants from edinburgh college  scotland 
+mr 
+simoncic has served as vice president  analog and interface products division since september from january to september  he served as vice president  memory and specialty products division 
+mr 
+simoncic holds a bs degree in electrical engineering technology from devry institute of technology 
+additional factors that may affect our results of operations when evaluating microchip and its business  you should give careful consideration to the factors listed below  in addition to the information provided elsewhere in this form k and in other documents that we file with the securities and exchange commission 
+our quarterly operating results may fluctuate due to factors that could reduce our net sales and profitability 
+our quarterly operating results are affected by a wide variety of factors that could reduce our net sales and profitability  many of which are beyond our control 
+some of the factors that may affect our quarterly operating results include changes in demand or market acceptance of our products and products of our customers the mix of inventory we hold and our ability to satisfy orders from our inventory levels of inventories at our customers changes in utilization of our manufacturing capacity and fluctuations in manufacturing yields our ability to secure sufficient assembly and testing capacity competitive developments including pricing pressures the level of orders that are received and can be shipped in a quarter the level of sell through of our products through distribution changes or fluctuations in customer order patterns and seasonality constrained availability from other electronic suppliers impacting our customers ability to ship their products  which in turn may adversely impact our sales to those customers costs and outcomes of any tax audits or any litigation involving intellectual property  customers or other issues disruptions in our business or our customers businesses due to terrorist activity  armed conflict  war  worldwide oil prices and supply  public health concerns or disruptions in the transportation system property damage or other losses which are not covered by insurance  and general economic  industry or political conditions in the united states or internationally 
+we believe that period to period comparisons of our operating results are not necessarily meaningful and that you should not rely upon any such comparisons as indications of future performance 
+in future periods our operating results may fall below our public guidance or the expectations of public market analysts and investors  which would likely have a negative effect on the price of our common stock 
+our operating results will suffer if we ineffectively utilize our manufacturing capacity or fail to maintain manufacturing yields 
+the manufacture and assembly of integrated circuits  particularly non volatile  erasable cmos memory and logic devices such as those that we produce  are complex processes 
+these processes are sensitive to a wide variety of factors  including the level of contaminants in the manufacturing environment  impurities in the materials used and the performance of our wafer fabrication personnel and equipment 
+as is typical in the semiconductor industry  we have from time to time experienced lower than anticipated manufacturing yields 
+our operating results will suffer if we are unable to maintain yields at approximately the current levels 
+our operating results are also adversely affected when we operate at less than optimal capacity 
+lower capacity utilization results in certain costs being charged directly to expense and lower gross margins 
+we are dependent on orders that are received and shipped in the same quarter and therefore limited in our visibility of future product shipments 
+our net sales in any given quarter depend upon a combination of shipments from backlog and orders received in that quarter for shipment in that quarter  which we refer to as turns orders 
+we measure turns orders at the beginning of a quarter based on the orders needed to meet the shipment targets that we set entering the quarter 
+historically  we have proven our ability to respond quickly to customer orders as part of our competitive strategy  resulting in customers placing orders with relatively short delivery schedules 
+shorter lead times generally mean that turns orders as a percentage of our business are relatively high in any particular quarter and reduces our backlog visibility on future product shipments 
+turns orders correlate to overall semiconductor industry conditions and product lead times 
+because turns orders are difficult to predict  varying levels of turns orders make our net sales more difficult to forecast 
+if we do not achieve a sufficient level of turns orders in a particular quarter relative to our revenue targets  our revenue and operating results may suffer 
+intense competition in the markets we serve may lead to pricing pressures  reduced sales of our products or reduced market share 
+the semiconductor industry is intensely competitive and has been characterized by price erosion and rapid technological change 
+we compete with major domestic and international semiconductor companies  many of which have greater market recognition and substantially greater financial  technical  marketing  distribution and other resources than we do with which to pursue engineering  manufacturing  marketing and distribution of their products 
+emerging companies are also increasing their participation in the market for embedded control applications 
+we may be unable to compete successfully in the future  which could harm our business 
+our ability to compete successfully depends on a number of factors both within and outside our control  including the quality  performance  reliability  features  ease of use  pricing and diversity of our products our success in designing and manufacturing new products including those implementing new technologies the rate at which customers incorporate our products into their own applications product introductions by our competitors the number  nature and success of our competitors in a given market our ability to obtain adequate supplies of raw materials and other supplies at acceptable prices our ability to protect our products and processes by effective utilization of intellectual property rights the quality of our customer service and our ability to address the needs of our customers  and general market and economic conditions 
+historically  average selling prices in the semiconductor industry decrease over the life of any particular product 
+the overall average selling prices of our microcontroller and proprietary analog and interface products have remained relatively constant  while average selling prices of our serial eeprom and non proprietary analog and interface products have declined over time 
+we have experienced  and expect to continue to experience  modest pricing declines in certain of our more mature proprietary product lines  due primarily to competitive conditions 
+we have been able to moderate average selling price declines in many of our proprietary product lines by continuing to introduce new products with more features and higher prices 
+we have experienced in the past and expect to continue to experience in the future varying degrees of competitive pricing pressures in our serial eeprom products 
+we may be unable to maintain average selling prices for our products as a result of increased pricing pressure in the future  which could adversely impact our operating results 
+our business is highly dependent on selling through distributors 
+sales through distributors accounted for of our net sales in fiscal  of our net sales in fiscal and of our net sales in fiscal our two largest distributors together accounted for approximately of our net sales in fiscal and fiscal and approximately of our net sales in fiscal we do not have long term agreements with our distributors and our distributors may terminate their relationships with us with little or no advanced notice 
+the loss of  or a disruption in the operations of  one or more of our distributors could reduce our net sales in a given quarter and could result in an increase in inventory returns 
+our success depends on our ability to introduce new products on a timely basis 
+our future operating results will depend on our ability to develop and introduce new products on a timely basis that can compete effectively on the basis of price and performance and which address customer requirements 
+the success of our new product introductions depends on various factors  including proper new product selection timely completion and introduction of new product designs development of support tools and collateral literature that make complex new products easy for engineers to understand and use  and market acceptance of our customers end products 
+because our products are complex  we have experienced delays from time to time in completing development of new products 
+in addition  our new products may not receive or maintain substantial market acceptance 
+we may be unable to design  develop and introduce competitive products on a timely basis  which could adversely impact our future operating results 
+our success also depends upon our ability to develop and implement new design and process technologies 
+semiconductor design and process technologies are subject to rapid technological change and require significant r d expenditures 
+we and other companies in the industry have  from time to time  experienced difficulties in effecting transitions to advanced process technologies and  consequently  have suffered reduced manufacturing yields or delays in product deliveries 
+our future operating results could be adversely affected if any transition to future process technologies is substantially delayed or inefficiently implemented 
+we must attract and retain qualified personnel to be successful  and competition for qualified personnel is intense in our market 
+our success depends upon the efforts and abilities of our senior management  engineering and other personnel 
+the competition for qualified engineering and management personnel is intense 
+we may be unsuccessful in retaining our existing key personnel or in attracting and retaining additional key personnel that we require 
+the loss of the services of one or more of our key personnel or the inability to add key personnel could harm our business 
+we have no employment agreements with any member of our senior management team 
+we are dependent on several third party contractors to perform key manufacturing functions for us 
+we use several third party contractors located in asia for a portion of the assembly and testing of our products 
+we also rely on outside wafer foundries for a portion of our wafer fabrication 
+although we own the majority of our manufacturing resources  the disruption or termination of any of our third party contractors could harm our business and operating results 
+our use of third parties involves some reduction in our level of control over the portions of our business that we subcontract 
+our future operating results could suffer if any third party contractor were to experience financial  operations or production difficulties or situations when demand exceeds capacity  or if they were unable to maintain manufacturing yields  assembly and test yields and costs at approximately their current levels  or if due to their locations in foreign countries they were to experience political upheaval or infrastructure disruption 
+in such case  we may not be able to qualify additional manufacturing sources for our products in a timely manner or at all  and such arrangements  if any  may not be on favorable terms to us 
+in such event  our business and operating results could be adversely affected 
+we may lose sales if our suppliers of raw materials and equipment fail to meet our needs 
+our semiconductor manufacturing operations require raw materials and equipment that must meet exacting standards 
+we generally have more than one source for these supplies  but there are only a limited number of suppliers capable of delivering various raw materials and equipment that meet our standards 
+the raw materials and equipment necessary for our business could become more difficult to obtain as worldwide use of semiconductors in product applications increases 
+we have experienced supply shortages from time to time in the past  and on occasion our suppliers have told us they need more time than expected to fill our orders or that they will no longer support certain equipment with updates or spare and replacements parts 
+an interruption of any raw materials or equipment sources  or the lack of supplier support for a particular piece of equipment  could harm our business 
+our operating results may be impacted by the wide fluctuations of supply and demand in the semiconductor industry 
+the semiconductor industry is characterized by wide fluctuations of supply and demand 
+the industry has experienced significant economic downturns  characterized by diminished product demand and production over capacity 
+we have sought to reduce our exposure to this industry cyclicality by selling proprietary products that cannot be easily or quickly replaced  to a geographically diverse base of customers across a broad range of market segments 
+however  we have experienced substantial period to period fluctuations in operating results and expect  in the future  to experience period to period fluctuations in operating results due to general industry or economic conditions 
+we are exposed to various risks related to legal proceedings or claims 
+we are currently  and in the future may be  involved in legal proceedings or claims regarding patent infringement  intellectual property rights  contracts and other matters 
+from october to october  we were involved in patent infringement litigation with philips corporation which has since been settled 
+however  as is typical in the semiconductor industry  we receive notifications from customers from time to time who believe that we owe them indemnification or other obligations related to infringement claims made against the customers by third parties 
+these legal proceedings and claims  whether with or without merit  could result in substantial cost to us and divert our resources 
+if we are not able to resolve a claim  negotiate a settlement of a matter  obtain necessary licenses on commercially reasonable terms  and or successfully prosecute or defend our position  we could incur uninsured liability in any one of them and our business  financial condition or results of operations could be harmed 
+it is also possible that from time to time we may be subject to warranty or product liability claims that could lead to significant expenses related to the defense of such claims or any requirement to pay damages claims 
+we do have product liability insurance  but there is no certainty that insurance will cover all claims or be of a sufficient amount to fully protect against such claims 
+costs or payments we may make in connection with warranty or product liability claims may adversely affect the results of our operations 
+failure to adequately protect our intellectual property could result in lost revenue or market opportunities 
+our ability to obtain patents  licenses and other intellectual property rights covering our products and manufacturing processes is important for our success 
+to that end  we have acquired certain patents and patent licenses and intend to continue to seek patents on our inventions and manufacturing processes 
+the process of seeking patent protection can be long and expensive  and patents may not be issued from currently pending or future applications 
+in addition  our existing patents and any new patents that are issued may not be of sufficient scope or strength to provide meaningful protection or any commercial advantage to us 
+we may be subject to or may initiate interference proceedings in the us patent and trademark office  which can require significant financial and management resources 
+in addition  the laws of certain foreign countries do not protect our intellectual property rights to the same extent as the laws of the united states 
+infringement of our intellectual property rights by a third party could result in uncompensated lost market and revenue opportunities for us 
+we do not have long term contracts with our customers 
+we do not typically enter into long term contracts with our customers and we cannot be certain about future order levels from our customers 
+when we do enter into customer contracts  the contract is generally cancelable at the convenience of the customer 
+in the event of any early termination of a contract by one of our major customers  it is unlikely that we would be able to rapidly replace that revenue source which could harm our financial results 
+business interruptions could harm our business 
+operations at any of our manufacturing facilities  or at any of our wafer fabrication or test and assembly subcontractors  may be disrupted for reasons beyond our control  including work stoppages  power loss  incidents of terrorism or security risk  political instability  public health issues  telecommunications  transportation or other infrastructure failure  fire  earthquake  floods  or other natural disasters 
+if operations at any of our facilities  or our subcontractors facilities are interrupted  we may not be able to shift production to other facilities on a timely basis 
+if this occurs  we would likely experience delays in shipments of products to our customers and alternate sources for production may be unavailable on acceptable terms 
+this could result in reduced revenues and profits and the cancellation of orders or loss of customers 
+in addition  business interruption insurance will likely not be enough to compensate us for any losses that may occur and any losses or damages incurred by us as a result of business interruptions could significantly harm our business 
+we are highly dependent on foreign sales and operations  which exposes us to foreign political and economic risks 
+sales to foreign customers account for a substantial portion of our net sales 
+during fiscal  approximately of our net sales were made to foreign customers 
+during fiscal  approximately of our net sales were made to foreign customers 
+we purchase a substantial portion of our raw materials and equipment from foreign suppliers 
+in addition  we own product assembly and testing facilities located near bangkok  thailand 
+we also use various foreign third party contractors for a portion of our assembly and testing and for a portion of our wafer fabrication requirements 
+substantially all of our finished goods inventory is maintained in thailand 
+our reliance on foreign operations  foreign suppliers  maintenance of substantially all of our finished goods in inventory at foreign locations and significant foreign sales exposes us to foreign political and economic risks  including political  social and economic instability public health conditions trade restrictions and changes in tariffs import and export license requirements and restrictions difficulties in staffing and managing international operations employment regulations disruptions in international transport or delivery fluctuations in currency exchange rates difficulties in collecting receivables economic slowdown in the worldwide markets served by us  and potentially adverse tax consequences 
+if any of these risks materialize  our sales could decrease and our operating results could suffer 
+we are subject to stringent environmental regulations  which may force us to incur significant expenses 
+we must comply with many different federal  state and local governmental regulations related to the use  storage  discharge and disposal of toxic  volatile or otherwise hazardous chemicals used in our manufacturing process 
+although we believe that our activities conform to presently applicable environmental regulations  our failure to comply with present or future regulations could result in the imposition of fines  suspension of production or a cessation of operations 
+any such environmental regulations could require us to acquire costly equipment or to incur other significant expenses to comply with such regulations 
+any failure by us to control the use of or adequately restrict the discharge of hazardous substances could subject us to future liabilities 
+environmental problems may occur that could subject us to future costs or liabilities 
+further  certain of our customers shipping their products into european markets are also subject to governmental environmental regulations such as the restriction of hazardous substances in electrical and electronic equipment directive rohs which will be effective july   and the directive on waste electrical and electronic equipment 
+these directives focus on limiting the amounts of certain elements  such as lead  in electrical devices  and providing for the proper disposal of the electrical devices and their components 
+the inability of this sub set of our customers to use microchip products which contain lead after july may adversely affect our results of operations 
+recently enacted and proposed changes in securities laws and related regulations have resulted in increased costs to us 
+recently enacted and proposed changes in the laws and regulations affecting public companies  including the provisions of the sarbanes oxley act of and recent rules enacted and proposed by the sec  nasdaq and the nyse  have resulted in significantly increased costs to us as we respond to their requirements 
+in particular  complying with the internal control audit requirements of sarbanes oxley section has resulted in increased internal efforts and significantly higher fees from our independent accounting firm 
+this report on form k contains a report by our management on our internal control over financial reporting including an assessment of the effectiveness of our internal control over financial reporting as of march  this form k also contains an attestation and report by our auditors with respect to our management s assessment of the effectiveness of internal control over financial reporting under section while these assessments and reports did not reveal any material weaknesses in our internal control over financial reporting  compliance with section is an ongoing process and will be required for each future fiscal year 
+we expect that the ongoing compliance with section will continue to be both very costly and very challenging and there can be no assurance that material weaknesses with not be identified in future periods 
+any adverse results from such ongoing compliance efforts could result in a loss of investor confidence in our financial reports and have an adverse effect on our stock price 
+recent regulations related to equity compensation could adversely affect our earnings and our ability to attract and retain key personnel 
+since our inception  we have used stock options and other long term equity incentives as a fundamental component of our employee compensation packages and have accounted for them using the intrinsic value method of apb no 
+ accounting for stock issued to employees 
+we believe that stock options and other long term equity incentives directly motivate our employees to maximize long term stockholder value and  through the use no of vesting  encourage employees to remain with microchip 
+in december  the financial accounting standards board fasb issued statement of financial accounting standards sfas no 
+revised  share based payments  sfas r which changed us generally accepted accounting principles in such a way to require us to record a charge to earnings for the fair value of employee stock option grants and other share based compensation beginning in the first quarter of fiscal this regulation will negatively impact our earnings for those share based awards that vest beginning in fiscal for example  recording a charge for employee stock options under sfas would have decreased our net income by million  million and million for fiscal  and  respectively 
+the impact on net income of sfas r may differ significantly than the impact as calculated under sfas furthermore  adoption of sfas r will require us to make certain assumptions and judgments in the valuation of stock options that we may grant in the future 
+a change in any of those assumptions or judgments could change the compensation expense that is charged against our earnings and  consequently  adversely affect our results of operations 
+see also note to the consolidated financial statements significant accounting policies share based payment 
+in addition  recent regulations implemented by the nasdaq stock market requiring shareholder approval for all stock option plans as well as recent regulations implemented by the new york stock exchange prohibiting nyse member organizations from giving a proxy to vote on equity compensation plans unless the beneficial owner of the shares has given voting instructions could make it more difficult for us to grant equity based awards to employees in the future 
+to the extent that these or other new regulations make it more difficult or expensive to grant options to employees  we may incur compensation costs  productivity losses  change our equity compensation strategy or find it difficult to attract  retain and motivate employees  each of which could materially and adversely affect our business 
+the future trading price of our common stock could be subject to wide fluctuations in response to a variety of factors 
+the market price of our common stock has fluctuated significantly in the past and is likely to fluctuate in the future 
+the future trading price of our common stock could be subject to wide fluctuations in response to a variety of factors  many of which are beyond our control  including quarterly variations in our operating results and the operating results of other technology companies actual or anticipated announcements of technical innovations or new products by us or our competitors changes in analysts estimates of our financial performance or buy sell recommendations changes in our financial guidance or our failure to meet such guidance general conditions in the semiconductor industry  and worldwide economic and financial conditions 
+in addition  the stock market has experienced significant price and volume fluctuations that have particularly affected the market prices for many high technology companies and that often have been unrelated to the operating performance of such companies 
+these broad market fluctuations and other factors may harm the market price of our common stock 
+item properties at march   we owned the facilities described below location approx 
+total sq 
+ft 
+uses chandler  arizona executive and administrative offices  wafer probe  r d center  sales and marketing  and computer and service functions tempe  arizona wafer fabrication fab  r d center  administrative offices  and warehousing puyallup  washington wafer fabrication fab  r d center  administrative offices  and warehousing non operational  held for future use gresham  oregon wafer fabrication fab  r d center  administrative offices  and warehousing chacherngsao  thailand test and assembly  sample center  warehousing  and administrative offices on june   we closed fab on our chandler campus  and integrated certain of the personnel and processes from fab into fab currently non operational and being held for future use 
+fab consists of manufacturing buildings and land  with no equipment 
+acquired in august production commenced on october  located in the alphatechnopolis industrial park near bangkok on land to which we expect to acquire title in accordance with our agreement with the landowner 
+progress towards obtaining full title of the land has been delayed due to a complex financial restructuring situation relating to the seller of the land 
+at this time it is not possible to estimate when  or if  full title transfer will be completed 
+we have provided reserves that we estimate will be adequate to obtain full title 
+such reserves are set at the estimated fair value of the land 
+in addition to the facilities we own  we lease several research and development facilities and sales offices in north america  europe and asia 
+our aggregate monthly rental payment for our leased facilities is approximately million 
+we currently believe that our existing facilities will be adequate to meet our production requirements for the next months 
+the foregoing statements related to the acquisition of title to the land on which the thailand facility is situated and the adequacy of existing facilities for the next months are forward looking statements 
+actual results could differ materially because of the following factors  among others developments in the financial restructuring of the seller of the land where the thailand facility is situated  demand for our products  fluctuations in production yields  production efficiencies and overall capacity utilization  competitive pressures on prices  political instability and expropriation  and other economic conditions 
+see also the factors set forth under item business additional factors that may affect results of operations  beginning at page of this report 
+item legal proceedings in the ordinary course of our business  we are involved in a limited number of legal actions  both as plaintiff and defendant  and could incur uninsured liability in any one or more of them 
+although the outcome of these actions is not presently determinable  we believe that the ultimate resolution of these matters will not harm our business and will not have a material adverse effect on our financial position  cash flows or results of operations 
+litigation relating to the semiconductor industry is not uncommon  and we are  and from time to time have been  subject to such litigation 
+no assurances can be given with respect to the extent or outcome of any such litigation in the future 
+item submission of matters to a vote of security holders not applicable 
+part ii item market for registrant s common equity  related stockholder matters and issuer purchases of equity securities our common stock is traded on the the nasdaq national market under the symbol mchp 
+our common stock has been quoted on the nasdaq national market since our initial public offering on march  the following table sets forth the quarterly high and low closing prices of our common stock as reported by the nasdaq national market for the last two years 
+fiscal high low fiscal high low first quarter first quarter second quarter second quarter third quarter third quarter fourth quarter fourth quarter on may   there were approximately holders of record of our common stock 
+this figure does not reflect beneficial ownership of shares held in nominee names 
+we have been declaring and paying quarterly cash dividends since the third quarter of fiscal our total cash dividends paid were million  million and million in fiscal  fiscal and fiscal  respectively 
+the following table sets forth our quarterly cash dividends per common share and the total amount of the dividend payment each quarter in fiscal and fiscal amounts in thousands  except per share amounts 
+fiscal dividends per common share amount of dividend payment fiscal dividends per common share amount of dividend payment first quarter first quarter second quarter second quarter third quarter third quarter fourth quarter fourth quarter on april   we declared a quarterly cash dividend of per share  which will be paid on june  to stockholders of record on may  and is estimated to be million 
+our board is free to change its dividend practices at any time and to decrease or increase the dividend paid  or not to pay a dividend  on our common stock on the basis of our results of operations  financial condition  cash requirements and future prospects  and other factors deemed relevant by our board 
+our current intent is to provide for ongoing quarterly cash dividends depending upon market conditions and our results of operations 
+the following table sets forth our purchases of our common stock and the information below the table designates the repurchase program that the shares were purchased under period total number of shares purchased average price paid per share total number of shares purchased as part of publicly announced programs maximum number of shares that may yet be purchased under the programs january  january  february  february  march  march  on april   our board of directors authorized the repurchase of up to  shares of our common stock in the open market or privately negotiated transactions 
+as of march    shares related to this authorization remained available to be purchased under this program 
+please refer to item  security ownership of certain beneficial owners and management and related stockholder matters  at page below  for the information required by item d of regulation s k with respect to securities authorized for issuance under our equity compensation plans at march  item selected financial data you should read the following selected consolidated financial data for the five year period ended march  in conjunction with our consolidated financial statements and notes thereto and  management s discussion and analysis of financial condition and results of operations included in item of this form k 
+our consolidated statements of income data for each of the years in the three year period ended march   and the balance sheet data as of march  and  are derived from our audited consolidated financial statements  included in item of this form k for information below all amounts are in thousands  except per share data 
+statement of income data year ended march  net sales cost of sales research and development selling  general and administrative special charges operating income interest income expense  net other income expense  net net loss in equity investment gain on sale of investment income before income taxes income tax provision income before cumulative effect of change in accounting principle cumulative effect of change in accounting principle net income basic net income per common share diluted net income per common share dividends declared per common share basic common shares outstanding diluted common shares outstanding balance sheet data year ended march  working capital total assets long term obligations  less current portion stockholders equity on january   we merged with telcom semiconductor  inc and accounted for the merger as a pooling of interests 
+accordingly  the selected financial data has been restated to include the operations of telcom for all periods presented 
+telcom had a december fiscal year end  and we have conformed the telcom financial data to a march year end for the march  fiscal year 
+there were no special charges during the fiscal year ended march  detailed discussions of the special charges for the fiscal years ended march   and are contained in note to the consolidated financial statements 
+detailed explanations of the special charges for the fiscal year ended march  are provided below 
+the following table presents a summary of special charges for the five year period ended march  year ended march  intellectual property settlement contract cancellation  severance and other costs related to fab closure fab impairment charge in process research and development charge restructuring charges telcom merger charges totals we changed our revenue recognition policy as it relates to asia regional distributors during fiscal see item management s discussion and analysis of financial condition and results of operations change in accounting principle  beginning at page below  for a discussion of this change 
+fiscal during the march quarter  we implemented capacity and cost reduction actions necessitated by adverse business conditions in the semiconductor industry 
+we reduced cumulative wafer fab capacity at fabs and by approximately  compared to our december  levels 
+we also decided to close our hong kong test facility  acquired as part of the telcom transaction  and migrate these test requirements to our thailand test facility 
+the capacity reduction at fabs and was completed by the end of the march quarter 
+the closure of the hong kong facility was completed by june  these actions resulted in a restructuring charge of million in the march quarter 
+these actions were undertaken to reduce both manufacturing capacity and manufacturing costs 
+the reduction in wafer fab capacity was required due to reduced customer demand 
+the closure of the hong kong facility was undertaken to rationalize our test manufacturing capacity and migrate the test requirements to our more cost effective test facility in thailand 
+included in the restructuring charges resulting from these actions were million related to equipment that was written off million related to employee severance costs  and million related to other restructuring costs 
+on january   we completed our merger with telcom 
+under the terms of the merger agreement  we exchanged each share of telcom common stock for of a share of our common stock 
+we issued  shares of our common stock and assumed all outstanding telcom stock options 
+the transaction was structured as a tax free reorganization and has been accounted for as a pooling of interests 
+during the march quarter  we recognized a special charge of million for costs associated with the telcom transaction 
+these costs included million associated with investment banking fees million associated with legal and accounting fees million of severance costs  and million related to other costs 
+all reserves relating to the special charges for the fiscal actions have been fully utilized and there were no reversals of previously provided amounts 
+item management s discussion and analysis of financial condition and results of operations our management s discussion and analysis of financial condition and results of operations contains certain forward looking statements that involve risks and uncertainties  including statements regarding our strategy  financial performance and revenue sources 
+we use words such as anticipate  believe  plan  expect  estimate  future  intend and similar expressions to identify forward looking statements 
+our actual results could differ materially from the results anticipated in these forward looking statements as a result of certain factors including those set forth in this item  and under item business additional factors that may affect our results of operations  beginning at page  above  and elsewhere in this form k 
+although we believe that the expectations reflected in the forward looking statements are reasonable  we cannot guarantee future results  levels of activity  performance or achievements 
+you should not place undue reliance on these forward looking statements 
+we disclaim any obligation to update information contained in any forward looking statement 
+we begin our management s discussion and analysis of financial condition and results of operations md a with a summary of microchip s overall business strategy to give the reader an overview of the goals of our business and the overall direction of our business and products 
+this is followed by a discussion of the critical accounting policies and estimates that we believe are important to understanding the assumptions and judgments incorporated in our reported financial results 
+in the next section  beginning at page  we discuss our results of operations for fiscal compared to fiscal  and for fiscal compared to fiscal we then provide an analysis of changes in our balance sheet and cash flows  and discuss our financial commitments in sections titled liquidity and capital resources  contractual obligations and off balance sheet arrangements 
+this md a should be read in conjunction with other sections of this annual report on form k  including item business  item selected financial data  and 

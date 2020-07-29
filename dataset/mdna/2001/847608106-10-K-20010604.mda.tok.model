@@ -1,0 +1,674 @@
+item management s discussion and analysis of financial condition and results of operation and this section 
+all subsequent written and oral forward looking statements by or attributable to the company or persons acting on its behalf are expressly qualified in their entirety by such factors 
+all forward looking statements included in this document are based on information available to the company on the date hereof  and the company assumes no obligation to update any such forward looking statements 
+investors are cautioned that any forward looking statements are not guarantees of future performance and are subject to risks and uncertainties and that actual results may differ materially from those included within the forward looking statements as a result of various factors 
+these forward looking statements are made in reliance upon the safe harbor provision of the private securities litigation reform act of general spectrian corporation spectrian or the company designs  manufacturers and markets high power radio frequency rf amplifiers for the global wireless communications industry 
+the company s power amplifiers support a broad range of transmission standards  including advanced mobile phone services amps  time division multiple access tdma  code division multiple access cdma and cdma  personal communications system pcs  global system for mobil communications gsm  wireless local loop wll  universal mobile telephone service umts  and imt spectrian s power amplifiers are utilized as part of the infrastructure for both wireless voice and data networks 
+the company s power amplifiers boost the power of a signal so that it can reach a wireless phone or other device within a designated geography 
+on december   the company completed the sale of substantially all of the assets and external liabilities comprising its semiconductor division  ultrarf  to cree inc cree pursuant to the asset purchase agreement dated as of november  the asset purchase agreement among cree  zoltar acquisition  inc zoltar and the company for  shares of common stock of cree plus common stock with a guaranteed realizable value of million  less  owed by the company to cree due to a change in the net assets of ultrarf between october  and december  as part of the definitive agreement  the company and cree entered into a two year supply agreement under which spectrian is obligated to purchase from cree an aggregate of million of semiconductors 
+ultrarf operated its own wafer fabrication facility that utilized bipolar and laterally diffused metal oxide semiconductor ldmos technologies to produce high power  high performance rf power semiconductors for use in the design and manufacture of second and third generation wireless infrastructure equipment 
+industry background the market for cellular  pcs and wll communications services collectively known as wireless services has grown significantly during the past decade  due to decreasing prices for wireless handsets  increasing competition among service providers and a greater availability of high quality services and rf spectrum 
+in addition  several developing countries are installing wireless telephone networks as an alternative to installing  expanding or upgrading traditional wireline networks 
+emerging bi directional wireless data applications have the potential to further expand the market for wireless communications by allowing service providers to increase revenue generating traffic on their networks 
+a typical wireless communications system comprises a geographic region containing a number of cells  each of which contains a cell site or base station  which are networked to form a service provider s coverage area 
+each base station houses the equipment that sends telephone calls to from the switching office of the local wireline telephone company and transmits and receives calls to the wireless users within the cell 
+a base station contains a fixed number of rf channels  in a single carrier system  each separate channel requires a separate transceiver  single channel power amplifier and tunable cavity filter  feeding an antenna to transmit the outgoing signal to the wireless telephone user 
+wireless carriers are also increasing system capacity by implementing dynamic channel allocation  which allows the service provider to automatically move available unused channels from less active base stations to busier adjacent base stations as the demand load moves  such as during commuter rush hours 
+systems with dynamic channel allocation require multicarrier power amplifiers  which can simultaneously broadcast signals using multiple transmission modulation formats over a variable number of channels 
+the need to increase system capacity  combined with the development of multicarrier power amplifiers  has also led many wireless carriers to transition from macrocell base stations  which typically have a five mile radius  to microcells 
+when the number of subscribers within the macrocell exceeds the capacity of its equipment  the cell can be split into several smaller microcells to avoid degradation in service 
+the geographic range of these microcells is smaller  hence more microcells are required in order to increase the capacity of the overall system 
+microcells also require equipment that consumes less power and is less expensive per channel at each base station than macrocells 
+the power amplifier receives a low level signal from the transceiver and significantly boosts the power of that signal so that it can be broadcast throughout the cell  which typically covers a geographic area up to five miles in radius 
+the rf power levels necessary to transmit the signal over the required range must be achieved without distorting the modulation characteristics of the signal 
+traditional cellular systems based on analog technology operate in the frequency range of mhz to mhz and are capable of carrying only one call per channel in the allocated spectrum 
+analog cellular systems are being supplanted by digital systems  which convert voice transmissions into bits of electronic information and thereby more efficiently use the finite rf spectrum allocated to wireless transmissions to serve growing demand 
+the three dominant digital transmission modulation formats for cellular and pcs networks gsm  tdma and cdma allow a digital network to have a call capacity of three to eight times that of an analog network 
+in addition to the growth in digital cellular networks  the new digital pcs networks continue to grow 
+pcs networks operate in the mhz to mhz frequency range and typically have a smaller coverage area per base station than their digital cellular counterparts 
+thus  pcs networks need two to three times as many base stations and power amplifiers as digital cellular networks 
+the implementation of these digital and pcs networks has resulted in an increased demand for network infrastructure equipment 
+wireless carriers ability to more effectively manage the scarce spectrum resources and accommodate a larger number of subscribers is dependent on their ability to broadcast signals with high linearity 
+linearity is the degree to which amplified signals remain within their prescribed band of the spectrum with low distortion or interference from adjacent channels 
+in the base station network  rf power amplification is generally the greatest source of signal distortion 
+consequently  obtaining rf power amplifiers with high linearity is critical to a service provider s ability to reduce interference levels and thereby increase system capacity 
+not surprisingly  higher network linearity is required as the industry transitions from analog to digital technologies to prevent interference between adjacent frequency channels 
+multicarrier power amplifiers  which are critical to the use of dynamic channel allocation and microcells  require leading edge linearity technology to function properly 
+substantial investment and technical expertise are required to design and manufacture single and multicarrier rf power amplifiers with high linearity  low cost  high efficiency and high reliability  all of which are critical to the network and the service 
+an emerging trend in the wireless communications industry is the convergence of internet high speed access with mobile and fixed wireless systems 
+cellular and pcs systems are currently adopting limited internet capability  and many traditional mobile communications systems providers are attempting to provide high internet access speeds which  spectrian anticipates  will create opportunities for new systems to gain market acceptance 
+spectrian has been involved in initial deployments of early wireless internet systems such as cdma or xrtt systems in korea  wireless local loop systems  and field trials of xev do systems 
+initial consumer acceptance of wireless internet services in japan has indicated a growing demand for wireless data equipment 
+the growth of infrastructure equipment purchases is  however  impacted by the industry s focus on price reductions 
+cellular telecommunications industry association ctia indicates that minutes of use has increased by in the united states during  however  the average household wireless charges have been flat or declined 
+competition between network operators for subscribers is significant and influenced by subscriber plans that include a single rate  free long distance  no roaming charges and free minutes of use 
+this pricing pressure extends to the equipment manufacturers  including suppliers of amplifiers and components 
+therefore the demand for amplifier hardware is growing rapidly but the power amplifier market experiences severe price pressures 
+the spectrian solution spectrian designs  manufactures and markets highly linear rf power amplifiers that seek to address the needs of wireless infrastructure original equipment manufacturers oems and their service provider customers 
+the company s amplifiers provide significant advantages to its customers  including high linearity and efficiency 
+the company has developed the multiple technological competencies and disciplines required to achieve high linearity and efficiency in its amplifiers 
+these competencies and disciplines include thermal and mechanical packaging design  advanced circuit design  linear correction technologies  advanced signal processing techniques  control systems and computer aided design and modeling 
+spectrian believes that the high degree of linearity of the company s power amplifiers enables its customers to furnish wireless g services with high capacity base station equipment at low capital cost per subscriber 
+in addition  spectrian believes that the high efficiency of the company s power amplifiers reduce its customers operating costs 
+time to market and volume manufacturing 
+the company s design processes aid it in addressing wireless infrastructure equipment suppliers quantity and time to market requirements for power amplification products 
+the company designs its amplifiers to be manufactured in high volumes at low cost 
+power amplifiers have historically been difficult to manufacture in high volumes due to the labor intensive nature of the manufacturing process and the complexities of rf power technology 
+the company s experience with automated testing  which is faster than manual testing with replicable results  enables the company to transfer manufacturing to outsource partners in lower cost areas of the world and to achieve high volume at low cost with a variable cost model 
+standards independence 
+the company s technologies support every major wireless modulation standard  and its multicarrier power amplifiers support several standards simultaneously  including g modulation standards 
+certain of the company s single carrier products support both analog and digital standards in a dual mode format 
+the company believes that this breadth of product functionality is important to wireless service providers as they upgrade their cellular infrastructure equipment and implement digital systems in an environment characterized by evolving industry standards and new spectrum allocation 
+quality and reliability 
+the company strives to design its power amplifiers to be reliable in the field 
+the company s integrated design and manufacturing processes are important factors contributing to its ability to develop and produce reliable power amplifiers 
+in order to further address customer requirements for power amplifier quality and reliability and to ensure process quality control  the company has implemented a continuous process improvement program throughout its operations and the company is iso certified 
+multicarrier functionality 
+the company develops and supplies multicarrier amplifiers that integrate the functions of multiple single carrier power amplifiers into a single smaller unit while simultaneously eliminating the need for certain filters 
+the company believes the ability of its multicarrier products to combine multiple digital and analog channel schemes enables carriers to maintain backward compatibility as they add digital transmission and implement dynamic channel allocation solutions 
+in addition  high efficiency multicarrier units can reduce service providers equipment and maintenance costs and space requirements  thereby lowering the total costs of ownership 
+spectrian strategy the company s objectives in fiscal were to focus on growing multicarrier power amplifier sales  to diversify its customer base  and to maintain the company s position in single carrier power amplifier markets 
+focus on growing multicarrier power amplifier sales 
+with a new suite of multicarrier power amplifiers  the company has enabled network operators to address some of the challenges of deploying high power digital base stations  including those operators which are adding digital signals to an existing analog network  without decreasing the analog cell site coverage 
+spectrian increased multicarrier amplifier sales from million in fiscal to million in fiscal diversify the customer base 
+in fiscal  the company diversified its customer base by adding new network operators in north and south america and oem customers  such as samsung 
+maintain its market position in single carrier power amplifiers 
+in fiscal  the company maintained its market position in single carrier power amplifiers through volume manufacturing with outsource partners while making minimal redesigns for cost reductions 
+generally  the single carrier market is declining  but from time to time  the company will pursue new opportunities with single carrier designs if the return on investment is competitive with multicarrier or broadband opportunities 
+outsource power amplifier manufacturing 
+from fiscal through the third quarter of fiscal  the company transferred the manufacturing of its power amplifiers to a contract manufacturer in thailand 
+this transition allowed the company to lower overhead spending through a reduction in fixed costs and labor rates while maintaining its manufacturing and quality standards 
+markets wireless systems have historically employed analog transmission formats  certain of which have been adopted as industry standards 
+the need to accommodate a growing wireless customer base within a finite amount of spectrum has  however  encouraged a worldwide transition from analog standards to various digital technologies which are significantly more efficient 
+current analog standards include amps  total access communications system tacs and nordic mobile telephone nmt 
+current digital standards include tdma  gsm and edge  cdma arb  cdma c and personal digital cellular pdc 
+the following chart illustrates these existing and developing standards for wireless communications  and the shaded areas represent markets and or regions served and standards supported by the company s current product offerings 
+major wireless standards by region frequencies in mhz americas europe asia pacific japan mhz mhz mhz mhz analog amps nmt  nmt  ntt cellular tacs tacs jtacs amps amps digital cdma gsm cdma  pdc cellular tdma edge cdma  jdc gsm gsm cdma edge edge hdr tdma  pcs cdma gsm cdma phs cdma  edge cdma  tdma gsm gsm edge edge wideband cdma umts ghz imt ghz imt ghz g wcdma cdma korean wll ghz wcs ghz the company believes that the potential for wireless communications in countries without reliable or extensive wireline systems may be significant 
+the cost of building and maintaining a wireless network is generally less than the cost of building and maintaining a comparable wireline network 
+thus  in many less developed countries  wireless service may be the primary service platform for both mobile and fixed telecommunications 
+in addition  if technological advances and price decreases continue to occur  a market in the united states and other developed countries for wireless data service may emerge 
+products the company designs highly linear power amplifiers that address the specific requirements of its oem customers and the market in general 
+the company s product strategy is to support multiple wireless systems and standards 
+most existing wireless systems use lower cost single carrier power amplifiers 
+the following table provides a list of standards for which the company currently provides in its single carrier amplifiers spectrian single carrier amplifier configurations standard frequency power mhz watts analog cellular amps  cdpd  tacs digital cellular tdma tdma  cdma gsm pcs gsm cdma  gsm cdma wcs qam wll wideband cdma  while many existing wireless systems use single carrier power amplifiers  the company believes that more wireless systems will use multicarrier power amplifiers in the future 
+to meet this potential market trend  the company also offers multicarrier amplification products 
+the following table provides a list of the standards for multicarrier amplifiers offered by the company spectrian multicarrier amplifier configurations standard frequency power typical mhz watts linearity dbc amps tdma cdma cdpd cdma xev cdma tdma cdma xev cdma tdma cdma xev gsm edge imt umts carrier to intermodulation distortion ratio 
+the company s amplifiers can be configured as either separate plug in amplifier units or integrated subsystems and range in price from approximately to  a plug in amplifier unit consists of a cast housing  which provides thermal management  and contains a rf amplifier pallet combined with a digital control interface module 
+a power amplifier subsystem consists of multiple cast housings and adds signal processing to enhance linearity 
+the company s products are integrated into base station systems designed and or manufactured by its oem customers  and therefore must be engineered to be compatible with industry standards  as well as customer specifications including frequency  power and linearity 
+oem and network operator customers  sales and marketing network operators obtain their equipment from a concentrated group of large wireless infrastructure oems 
+the company believes that lucent technologies  inc lucent  ericsson wireless communications  inc 
+ericsson  motorola corporation motorola  lg information and communications limited lgic  siemens ag siemens  samsung electronics co  ltd 
+samsung  nortel networks corporation nortel  and nokia oy nokia supplied over of the wireless infrastructure equipment installed worldwide in according to allied business intelligence 
+many of these oems manufacture most of their base station components  including the power amplifier  internally 
+in response to competition and as the performance requirements of certain components increase  many of these oems have begun to outsource power amplifier manufacturing to companies like spectrian 
+to succeed in capturing orders from these oems  independent power amplifier suppliers must rapidly bring to market products that are highly linear  can be produced in volume cost effectively  support multiple standards and are reliable in the field 
+the company sells power amplifiers to a limited number of oems in north america  europe and asia principally through its direct sales organization 
+other current customers include worldwide operators of wireless networks such as at t wireless services at t wireless  cingular wireless cingular  a joint venture between the wireless divisions of sbc communications inc and bellsouth corporation  and verizon communications verizon 
+as these operators upgrade their networks  they often work directly with independent power amplifier manufacturers to ensure new products are compatible with their existing network  support increased coverage areas  and provide high linearity 
+during the year ended march  fiscal  nortel  verizon and samsung accounted for approximately   and of net revenues  respectively 
+during the year ended march  fiscal  nortel accounted for approximately of net revenues 
+during the year ended march  fiscal  nortel and lgic accounted for approximately and of net revenues  respectively 
+furthermore  a substantial portion of revenues from nortel in the past has resulted from sales of a limited number of the company s products 
+the company s business  financial condition and results of operations have been materially adversely affected in the past by anticipated orders failing to materialize and by deferrals or cancellations of orders as a result of changes in customer requirements 
+the company and nortel have a supply agreement  renegotiated annually  pursuant to which nortel commits to purchase a certain volume of its annual power amplifier requirements for specified prices from the company 
+this agreement allows nortel to change the product mix requirements  which can significantly affect the company s gross margins  and to change requested delivery dates without significant financial consequences to nortel  which affects the company s ability to efficiently manage production schedules and inventory levels and to accurately forecast product sales 
+there can be no assurance that the company will not experience such fluctuations in the future 
+if the company is unable to find customers to generate demand for its new products  the company s revenues may be materially adversely affected 
+if the company were to lose nortel  verizon  samsung or any other major customer  or if orders by nortel  verizon  samsung or any other major customer were to otherwise materially decrease either in unit quantity or in price  the company s business  financial condition and results of operations would be materially adversely affected 
+the market for the company s products is becoming increasingly competitive 
+the company is selling its power amplifier products in south korea  as well as directly to cellular service providers where its competitors are already established as suppliers 
+in addition  the company competes with at least one merchant amplifier manufacturer for business from nortel 
+this competition has resulted in  and will continue to result in reduced average selling prices for the company s products  which accordingly will negatively impact gross margins 
+see management s discussion and analysis of financial condition and results of operations md a factors affecting future operating results customer concentration  dependence on nortel 
+sales and marketing the company employs a customer focused  team based direct sales approach to satisfy the power amplification needs of its customers 
+sales to large oem customers require close account management by company personnel and relationships at multiple levels of its customers organizations  including management  engineering and purchasing personnel 
+in addition  the company s application specific amplification products require experienced sales personnel to match the customer s amplification requirements to the company s product capabilities 
+the company believes that close technical collaboration with the customer during the design phase of new wireless infrastructure equipment is critical to the integration of its amplification products into the new equipment 
+this allows the company s engineering personnel to work closely with their counterparts at the oem customer to assure compliance of the spectrian product to the customer s specification 
+as part of the effort to diversify its product base  the company began to sell multicarrier amplifier systems including filters and combiners directly to service providers in fiscal the company recognizes that these sales may be in conflict with potential or current oem sales and is willing to work with its oem equipment suppliers so that the service provider receives a spectrian power amplifier system directly or through the oem 
+there can be no assurance that the company s direct sales to service providers will not cause its oem equipment suppliers to reduce orders or terminate their relationship with the company 
+any such reduction or termination could have a material adverse effect on the company s business  financial condition and results of operations 
+the company also markets its products with the assistance of independent sales representatives in various parts of the world 
+the company has one independent sales representative in the united states  four sales representatives in europe covering austria  finland  france  germany  italy  sweden and switzerland  six sales representatives in south america covering argentina  brazil  colombia  chile  venezuela  one sales representative dedicated to each of canada  japan  israel and china and a sales support organization in south korea 
+the company continuously evaluates whether to establish direct sales forces or to utilize independent representatives in a particular region or for a given potential customer depending upon the scope of potential sales opportunities 
+the company s direct sales staff provides sales direction and support to its international sales representatives 
+sales outside of the united states represented  and of net revenues in fiscal  fiscal  and fiscal  respectively 
+sales outside of the united states are denominated in us dollars in order to reduce the risks associated with the fluctuations of foreign currency exchange rates 
+the company expects that international sales will continue to account for a significant portion of its revenues 
+manufacturing in sunnyvale  california  the company services its power amplifier products 
+in september  the company completed the transfer of its power amplifier production to a contract manufacturer located in thailand on a turnkey basis 
+the company utilizes contract manufacturing to decrease the company s manufacturing overhead and costs of its products  to increase flexibility to respond to fluctuations in product demand and to leverage the strengths of the contract manufacturer s focus on high volume  high quality manufacturing 
+demands of its customers drive the company to frequently introduce and rapidly expand volume of the manufacture of new products 
+this has caused the company to experience high materials and manufacturing costs  including high scrap and material waste  significant material obsolescence  labor inefficiencies and overtime expenses  inefficient material procurement and an inability to realize economies of scale 
+these high manufacturing costs and production interruptions have had an adverse effect on the company s results of operations 
+in addition  the company has made and expects to continue to make pricing commitments to oem customers in anticipation of achieving manufacturing cost reductions 
+the company expects that its customers will continue to establish demanding specifications for quality  performance and reliability that must be met by the company s products 
+products as complex as those offered by the company often encounter development delays and may contain undetected defects or failures when first introduced or after commencement of commercial shipments 
+the company has from time to time in the past experienced product quality  performance or reliability problems 
+in addition  multicarrier power amplifiers have a higher probability of malfunction than single carrier power amplifiers because of their greater complexity 
+see md a factors affecting future operating results product quality  performance and reliability 
+amplifier assembly and test 
+during fiscal  the company completed the transfer of the production of power amplifiers to a contract manufacturer in thailand 
+regardless of whether the company assembles an amplifier in house or relies on a turnkey contractor  each of the company s products receives extensive in process and final quality inspections and tests 
+the company attempts to utilize standard parts and components that are available from multiple vendors 
+however  certain components used in the company s products are currently available only from single sources  and other components are available from only a limited number of sources 
+despite the risks associated with purchasing components from single sources or from a limited number of sources  the company has made the strategic decision to select single source or limited source suppliers in order to obtain lower pricing  receive more timely delivery and maintain quality control 
+after the sale of ultrarf to cree in december  the company no longer manufactures ldmos rf semiconductors  which are one critical component in the company s power amplifier products 
+as part of the asset purchase agreement  the company and cree entered into a two year supply agreement under which the company is obligated to purchase from cree an aggregate of million of semiconductors 
+consequently  cree is the company s sole source vendor of certain bipolar and ldmos rf power semiconductors 
+if the company were unable to obtain sufficient quantities of components  delays or reductions in product shipments could occur which would have a material adverse effect on the company s business  financial condition and results of operations 
+see md a factors affecting future operations sole or limited sources of materials and services 
+research and development the company s research and development organization designs high performance low cost  highly manufacturable power amplifiers 
+the company s r d group focuses on rapid development of new power amplifiers that are manufacturable in large volumes at low cost 
+this group creates new product platforms and leverages existing ones  reuses existing circuit topologies and introduces into production new correction  control and amplification concepts created by the group 
+the company uses an automated design environment to model amplifiers 
+this design environment  together with the company s modular product architecture and configurable core technologies  allow it to rapidly define  develop and deliver on a timely basis the new and enhanced products demanded by its oem customers 
+the company historically has devoted a significant portion of its resources to research and development programs and expects to continue to do so 
+the company s research and development expenses were   and  for fiscal  and  respectively 
+competition the company s principal competitors in the market for wireless amplification products provided by merchant suppliers currently include aml communications  amplidyne  fujitsu  mitsubishi  nec corporation and powerwave technologies 
+certain of these competitors have  and potential future competitors could have  substantially greater technical  financial  marketing  distribution and other resources than the company and have  or could have  greater name recognition and market acceptance of their products and technologies 
+no assurance can be given that the company s competitors will not develop new technologies or enhancements to existing products or introduce new products that will offer superior price or performance features compared to the company s products 
+to the extent that oems increase their reliance on external sources for their power amplification needs  more competitors could be attracted to the market 
+the company expects its competitors to offer new and existing products at prices necessary to gain or retain market share 
+the company has experienced significant price competition  which has in the past affected gross margins 
+certain of the company s competitors have substantial financial resources which may enable them to withstand sustained price competition or downturns in the power amplification market 
+there can be no assurance that the company will not be subject to increased price competition or that the company will be able to compete successfully in the future 
+see md a factors affecting future operating results internal amplifier design and production capabilities of oems and market for the company s products is highly competitive 
+the company believes that a majority of the present worldwide production of power amplifiers is captive within the manufacturing operations of wireless equipment oems  many of which have chosen not to purchase amplifiers from outside suppliers 
+in addition  these manufacturers could decide to sell amplifiers to other wireless equipment oems 
+if this should occur  the competition for power amplifiers would significantly increase and could have a material adverse effect on the company s business  financial condition and results of operations 
+the markets in which the company and its oem customers compete are characterized by rapidly changing technology  evolving industry standards and continuous improvements in products and services 
+in particular  because the company s strategy of rapidly bringing to market products customized for numerous and evolving modulation standards requires developing and achieving volume production of a large number of distinct products  the company s ability to rapidly design and produce individual products for which there is significant oem customer demand will be a critical determinant of the company s future success 
+a softening of demand in the markets served by the company or a failure of a modulation standard in which the company has invested substantial development resources may have a material adverse effect on the company s business  financial condition and results of operations 
+no assurance can be given that the company s product development efforts will be successful  that its new products will meet customer requirements and be accepted or that its oem customers product offerings will achieve customer acceptance 
+if a significant number of development projects  including the company s new multicarrier products  do not result in substantial volume production or if technologies or standards supported by the company s or its customers products become obsolete or fail to gain widespread commercial acceptance  the company s business may be materially adversely affected 
+see md a factors affecting future operating results internal amplifier design and production capabilities of oems and market for the company s products is highly competitive 
+patents and proprietary technology the company s ability to compete successfully and achieve future revenue growth will depend  in part  on its ability to protect its proprietary technology and operate without infringing the rights of others 
+the company has a policy of seeking patents on inventions resulting from its ongoing research and development activities 
+there can be no assurance that the company s pending patent applications will be allowed or that the issued or pending patents will not be challenged or circumvented by competitors 
+notwithstanding the company s active pursuit of patent protection  the company believes that the success of its business depends more on the collective value of its patents  specifications  computer aided design and modeling tools  technical processes and employee expertise 
+the company has been awarded united states patents and no foreign patents  has united states patents and foreign patent that have been allowed and has united states patent and foreign patent applications pending 
+the data presented excludes united states patents and foreign patents that were awarded to the company and assigned to cree at the time of the sale of ultrarf  to which the company has been granted a royalty free license 
+the company generally enters into confidentiality and nondisclosure agreements with its employees  suppliers  oem customers  and potential customers and limits access to and distribution of its proprietary technology 
+however  there can be no assurance that such measures will provide adequate protection for the company s trade secrets or other proprietary information  or that the company s trade secrets or proprietary technology will not otherwise become known or be independently developed by competitors 
+the failure of the company to protect its proprietary technology could have a material adverse effect on its business  financial condition and results of operations 
+see md a factors affecting future operating results uncertain protection of intellectual property 
+the communications equipment industry is characterized by vigorous protection and pursuit of intellectual property rights or positions  which have resulted in significant and often protracted and expensive litigation 
+although there is currently no pending intellectual property litigation against the company  the company or its suppliers may from time to time be notified of claims that the company may be infringing patents or other intellectual property rights owned by third parties 
+if it is necessary or desirable  the company may seek licenses under such patents or other intellectual property rights 
+however  there can be no assurance that licenses will be offered or that the terms of any offered licenses will be acceptable to the company 
+the failure to obtain a license from a third party for technology used by the company or otherwise secure rights to use such technology could cause the company to incur substantial liabilities  to suspend the manufacture of products or expend significant resources to develop noninfringing technology 
+there can be no assurance that the company would be successful in such development or that such licenses would be available on reasonable terms  if at all 
+in the event that any third party makes a successful claim against the company or its customers and either a license is not made available to the company on commercially reasonable terms or a design around is not practicable  the company could be required to pay substantial damages  to indemnify its customers  to cease the manufacture  use and sale of infringing products  to expend significant resources to develop noninfringing technology  to discontinue the use of certain processes or to obtain licenses to the infringing technology 
+see md a factors affecting future operating results risk of third party claims of infringement 
+furthermore  the company may initiate claims or litigation against third parties for infringement of the company s proprietary rights or to establish the validity of the company s proprietary rights 
+litigation by or against the company could result in significant expense to the company and divert the efforts of the company s technical and management personnel  whether or not such litigation results in a favorable determination for the company 
+in the event of an adverse result in any such litigation  the company s business  financial condition and results of operations would be materially adversely affected 
+see md a factors affecting future operating results risk of third party claims of infringement backlog the company does not believe that its backlog as of any particular date is representative of actual sales for any succeeding period 
+as part of the company s close working relationships with its major customers  such customers expect the company to respond quickly to changes in the volume and delivery schedule of their power amplifiers  and if necessary  to inventory products at the company s facilities for just in time delivery 
+therefore  although contracts with such customers typically specify aggregate dollar volumes of products to be purchased over an extended time period  such contracts also provide that scheduled shipment dates of particular volumes are generally released to the company only a few days or weeks prior to the actual required delivery dates 
+in addition  these delivery schedules are shorter than the company s manufacturing cycle time  which have required the company to commit working capital to build and hold inventory and to take significant excess and obsolete inventory risks 
+the company s customers may also cancel or defer orders without significant penalty 
+employees as of march   the company had a total of employees 
+the company s future success will depend  in part  on its ability to continue to attract  retain and motivate highly qualified technical and management personnel 
+none of the company s employees is represented by a collective bargaining agreement  nor has the company experienced any work stoppage 
+the company considers its relations with its employees to be good 
+executive officers of the registrant the executive officers of the company are and certain information about them as of may  is as follows name age position thomas h 
+waechter president  chief executive officer and director garrett a 
+garrettson chairman of the board of directors michael d 
+angel executive vice president  finance and administration  chief financial officer and secretary warren dumanski vice president  sales tim jones vice president  human resources joseph madden vice president  marketing christopher a 
+menicou vice president  operations harry oh vice president and general manager  asia pacific david s 
+piazza vice president  development mr 
+waechter joined the company in march as its president and chief executive officer  and as a director 
+from january until he joined the company  mr 
+waechter was employed by asyst technologies  inc  a company that provides mini environment and manufacturing automation systems  as its senior vice president of global business operations 
+from september until january  mr 
+waechter was employed by schlumberger ltd  a company providing oilfield services  natural resource management  smart card based technology and associated systems  and semiconductor test equipment  in various management positions  most recently as its vice president of global operations 
+mr 
+waechter holds a bba in business management from the college of william and mary 
+mr 
+garrettson joined the company in april and is currently its chairman of the board of directors 
+from april to march  mr 
+garrettson served as president  chief executive officer and a director of the company 
+from march until he joined the company  mr 
+garrettson was president and chief executive officer of censtor corporation  a company that designs and sells technology related to magnetic recording heads for the disk drive industry 
+mr 
+garrettson has also held various executive management positions with control data corporation  a computer system company  from november to october  and then with seagate technology inc  a company that designs and manufactures disk drives  from october to march from october to november  mr 
+garrettson also held various engineering management positions with hewlett packard laboratories  a division of hewlett packard company  a company providing computing and imaging products 
+mr 
+garrettson also serves on the boards of directors of the san jose symphony and healthhelper corporation 
+mr 
+garrettson holds a bs and an bs in engineering physics and a phd in mechanical engineering from stanford university 
+mr 
+angel joined the company in september as its executive vice president  finance and administration  chief financial officer and secretary 
+from april until he joined spectrian  mr 
+angel was employed by national semiconductor corporation  a company that designs and manufactures semiconductor products  in various management positions  most recently as its director of finance of worldwide manufacturing and central technology operations 
+mr 
+angel has also held various positions with hitachi data systems  a manufacturer of mainframe computers  storage systems  open systems hardware and software  and pricewaterhousecoopers llp  an accounting and professional consulting firm 
+mr 
+angel holds a bs degree in business administration with a concentration in accounting from california state university  chico 
+mr 
+dumanski joined the company in september and is currently its vice president  sales 
+from september until he joined spectrian  mr 
+dumanski was employed by nortel networks  a global supplier of networking solutions and services  in various management positions  most recently as its accounting manager responsible for sprint pcs account 
+mr 
+dumanski holds a bachelors of science degree in engineering from university of waterloo in canada and a mba from mcmaster university in canada 
+mr 
+jones joined the company in april as its vice president  human resources 
+from december until he joined spectrian  mr 
+jones was employed by gn resound  inc  a manufacturer of high technology hearing instruments  as its senior vice president of global human resources 
+mr 
+jones has also held various positions with tristrata corporation  a company that develops internet security technology  from february to august and with forte sun microsystems  a provider of computer systems  high speed microprocessors and high performance software  from august to february mr 
+jones holds a bachelors degree in psychology from baldwin wallace college and a masters of science degree from iowa state university 
+mr 
+madden joined the company in june and is currently its vice president  marketing 
+from may until he joined spectrian  mr 
+madden was employed by superconductor technologies  inc  a manufacturer of high performance filters for the mobile wireless telecommunications industry  in various management positions  most recently as its director of product management 
+mr 
+madden holds a bachelors degree in physics from university of california  los angeles 
+mr 
+menicou joined the company in january and is currently its vice president  operations 
+prior to the current position  mr 
+menicou was vice president  quality of the company 
+from february until he joined spectrian  mr 
+menicou was employed by credence systems corporation  a company that designs and manufactures equipment for testing semiconductor integrated circuits  as vice president of quality 
+mr 
+menicou has also held quality and operations management positions with ltx corporation  a company that designs and manufactures test equipment for the semiconductor industry 
+mr 
+menicou holds a bachelors of science degree in business management from san jose state university 
+mr 
+oh joined the company in may as its vice president and general manager  asia pacific 
+from april to may  mr 
+oh was the company s senior advisor for far east sales and executive managing director in asia pacific with a consultant status 
+from february until he joined spectrian  mr 
+oh was self employed as president of capitalend corporation 
+mr 
+oh holds a bachelors of science degree in industrial system engineering from university of southern california 
+mr 
+piazza joined the company in february and is currently its vice president  development 
+mr 
+piazza has held various positions since joining the company including general manager  semiconductor division and vice president  semiconductor research and development 
+mr 
+piazza holds a bachelors of science degree in electrical engineering from university of california  davis 
+item properties the company s principal administrative  engineering and repair facilities are located in one building of approximately  square feet in sunnyvale  california 
+in connection with the sale of ultrarf in december  the company subleased another building of approximately  in sunnyvale  california  to cree for a term of years with three options to extend the lease an additional five years under the substantially the same terms and conditions as the company s lease 
+in november  the company entered into several agreements in connection with a transaction with respect to these two properties 
+pursuant to these agreements  the company sold these properties to spec ca qrs  inc spec  and pursuant to the terms of a lease agreement  spec agreed to lease these properties to the company for a term of years with two options to extend the lease for up to an additional ten years 
+this lease agreement also provides that the company shall have the right of first refusal to purchase the properties from spec upon the occurrence of certain conditions 
+during the third quarter of fiscal  the company signed an agreement to lease a facility of approximately  square feet in folsom  california  commencing in the first quarter of fiscal and terminating in april this facility will be used for research and development functions 
+in the first quarter of fiscal  the company entered into an agreement to lease  square feet of development and manufacturing space for its engineering design center in quincy  illinois 
+pursuant to the terms of the lease agreement  the company has agreed to lease this property for a term of two years with two options to extend the lease for up to an additional four years from may and this lease expires in april during the second quarter of fiscal  the company subleased its ancillary  square foot manufacturing facility in rocklin  california to gps management services  inc gps 
+gps subsequently assigned the sublease to the gap  inc for the remainder of the company s lease term 
+the rocklin facility has a sixty month term and expires in june the company leases approximately  square feet of a facility on a month to month basis in seoul  south korea for administrative  development  manufacturing and repair functions for the asia pacific region 
+item legal proceedings not applicable 
+item submission of matters to a vote of security holders not applicable 
+part ii item market for registrant s common equity and related stockholder matters a market information the company s common stock has been traded on the nasdaq national market tier of the nasdaq stock market under the trading symbol spct since august  the following table sets forth for the period indicated the high and low sale prices for the common stock  as reported by the nasdaq national market 
+fiscal year ended march  high low fourth quarter third quarter second quarter first quarter fiscal year ended march  high low fourth quarter third quarter second quarter first quarter the reported last sale price of the company s common stock on the nasdaq national market on may  was 
+the approximate number of holders of record of the shares of the company s common stock was as of may  this number does not include stockholders whose shares are held in trust by other entities 
+the actual number of stockholders is greater than this number of holders of record 
+based on the number of annual reports requested by brokers  the company estimates that it has approximately  beneficial owners of its common stock 
+the company has never paid any cash dividends on its common stock and does not anticipate paying cash dividends in the foreseeable future 
+the company has entered into a bank line of credit and the company s agreement with such lender prohibits the payment of cash dividends without the prior written consent of the lender 
+b report of offering securities and use of proceeds therefrom not applicable 
+item selected consolidated financial data fiscal year ended march  in thousands  except per share data statement of operations data net revenues      costs and expenses cost of revenues      research and development      selling  general and administrative      restructuring  total costs and expenses      operating income loss      interest income     interest expense other income  net   income loss before income taxes      income taxes net income loss      net income loss per share basic diluted shares used in computing per share amounts basic      diluted      march  in thousands balance sheet data working capital      total assets      debt and capital lease obligations  net of current portion     total stockholders equity      see note of notes to consolidated financial statements herein for details of the restructuring 
+see note of notes to consolidated financial statements herein for information concerning the per share computations 
+see note of notes to consolidated financial statements herein for a description of the company s debt and lease obligations 
+item management s discussion and analysis of financial condition and results of operations the statements contained in the following discussion that are not purely historical are forward looking statements within the meaning of section a of the securities act of the securities act and section e of the securities exchange act of the exchange act  including statements regarding spectrian corporation s the company expectations  hopes  intentions or strategies regarding the future 
+when used herein  the words may  will  expect  anticipate  continue  estimate  project  intend and similar expressions are intended to identify forward looking statements within the meaning of the securities act and the exchange act 
+forward looking statements include  but are not limited to the statements in the second paragraph of overview regarding the recognition in the future of gains on the sale of ultrarf and the effect of the sale of ultrarf on the company s semiconductor cost  in the third paragraph regarding the impact on the company of a loss of a major oem customer  in the fourth paragraph regarding international sales as a percentage of future revenues and the impact of currency fluctuations on future revenues  and in the last paragraph regarding average selling prices and gross margins  the statements in the second paragraph under results of operations cost of revenues regarding the gross margin as a percentage of net revenues  the statements under results of operations research and development regarding new product development initiatives  the statements in the second paragraph under liquidity and capital resources concerning renewal of a line of credit and the statements in the last paragraph regarding the availability of the line of credit  the anticipated spending for capital additions for the next twelve months  the sufficiency of the company s available resources to meet cash requirements and the factors which will determine the company s future cash requirements  and the statements in factors affecting future operating results 
+results could differ materially based on various factors including  but not limited to  those described below  under the heading factors affecting future operating results and elsewhere in this annual report on form k 
+among such factors  those which could cause results to differ materially in the case of the above referenced forward looking statements include  but are not limited to the risks of international sales  fluctuations in operating results  customer concentration  the highly competitive market for the company s products  declining average sales prices  rapid technological change  evolving industry standards  and dependence on new products  and product quality  performance and reliability 
+all forward looking statements included in this document are based on information available to the company on the date hereof  and the company assumes no obligation to update any such forward looking statements 
+investors are cautioned that any forward looking statements are not guarantees of future performance and are subject to risks and uncertainties and that actual results may differ materially from those included within the forward looking statements as a result of various factors 
+these forward looking statements are made in reliance upon the safe harbor provision of the private securities litigation reform act of overview spectrian designs  manufacturers and markets high power rf amplifiers  for the global wireless communications industry 
+the company s power amplifiers support a broad range of transmission standards  including amps  tdma  cdma  pcs  gsm  wll  imt  cdma and umts 
+spectrian s power amplifiers are utilized as part of the infrastructure for both wireless voice and data networks 
+the company s power amplifiers boost the power of a signal so that it can reach a wireless phone or other device within a designated geography 
+on december   the company completed the sale of substantially all of the assets and external liabilities comprising its semiconductor division  ultrarf  to cree pursuant to the asset purchase agreement dated as of november  the asset purchase agreement among cree  zoltar acquisition  inc zoltar and the company for  shares of common stock of cree plus common stock with a guaranteed realizable value of million  less  owed by the company to cree due item management s discussion and analysis of financial condition and results of operations continued to a change in the net assets of ultrarf between october  and december  as part of the definitive agreement  the company and cree entered into a two year supply agreement under which spectrian is obligated to purchase from cree an aggregate of million of semiconductors 
+in the event spectrian fails to make these purchases  it is obligated to purchase excess inventory that it may never utilize or to pay cree the amount of the shortfall 
+accordingly  spectrian deferred million of the gain on sale of ultrarf and is recognizing it in periods as the related purchase commitments to cree are being fulfilled 
+during the quarter ended march   spectrian fulfilled its purchase obligation under the contract and recognized million of the deferred gain 
+spectrian and cree entered into a one year joint development agreement to develop advanced technologies related to laterally diffused metal oxide semiconductors ldmos  linear high gain ldmos driver modules  high efficiency ldmos power modules and sic mesfet components 
+following the close of the sale of ultrarf  the company no longer has revenues related to the sale of ultrarf products to third party customers 
+additionally  as a result of the sale  the company s cost of semiconductors used in the manufacturing of amplifier products have increased because purchases from ultrarf are at fair market value rather than at manufacturing cost as has historically been the case 
+for the year ended march  fiscal  nortel  verizon and samsung accounted for approximately  and of net revenues  respectively 
+for the year ended march  fiscal  nortel accounted for approximately of net revenues 
+for the year ended march  fiscal  nortel and lgic accounted for approximately and of net revenues  respectively 
+the company and nortel have a supply agreement  renegotiated annually  pursuant to which nortel commits to purchase a certain volume of its annual power amplifier requirements for specified prices from the company 
+this agreement allows nortel to change the product mix requirements  which can significantly affect the company s gross margins  and to change requested delivery dates without significant financial consequences to nortel  which affects the company s ability to efficiently manage production schedules and inventory levels and to accurately forecast product sales 
+the company s business  financial condition and results of operations have been materially adversely affected in the past by anticipated orders failing to materialize and by deferrals or cancellations of orders as a result of changes in customer requirements 
+in fiscal  the first and fourth quarters of fiscal  product orders from nortel fell sharply and in the first and second quarters of fiscal  the company did not receive any revenues from nortel for several of its products which adversely affected the company s revenues and earnings in those fiscal periods 
+there can be no assurance that the company will not experience such fluctuations in the future 
+if the company is unable to find customers to generate demand for its new products  the company s revenues may be materially adversely affected 
+if the company were to lose nortel  verizon  samsung or any other major customer  or if orders by nortel  verizon  samsung or any other major customer were to otherwise materially decrease either in unit quantity or in price  the company s business  financial condition and results of operations would be materially adversely affected 
+during fiscal  and  sales outside of the united states were  and respectively 
+the company expects that international sales will continue to account for a significant percentage of the company s net revenues for the foreseeable future 
+financial market turmoil  economic downturn  consolidation or merger of customers  and other changes in business conditions in any of the company s current or future markets  such as canada  south korea and france  may have a material adverse effect on the company s sales of its products 
+furthermore  because the company s products are priced in us dollars  currency fluctuations and instability in the financial markets that are served by the company may have the effect of making the company s products more expensive than those of other manufacturers whose products are priced in the local currency of the customer and may result in reduced revenues for the company 
+in sunnyvale  california  the company services its power amplifier products 
+in september  the company completed the transfer of its power amplifier production to a contract manufacturer located in item management s discussion and analysis of financial condition and results of operations continued thailand on a turnkey basis 
+the company utilizes contract manufacturing to decrease the company s manufacturing overhead and costs of its products  to increase flexibility to respond to fluctuations in product demand and to leverage the strengths of the contract manufacturer s focus on high volume  high quality manufacturing 
+the cost of transitioning manufacturing activities to the contract manufacturer were higher than the savings from costs of products  which adversely affected the company s gross margins from january to november as a result of its infrastructure  the company has a high level of fixed costs and is dependent upon substantial revenue to achieve and maintain profitability 
+the market for the company s products is becoming increasingly competitive 
+the company is selling its power amplifier products in south korea  as well as directly to cellular service providers where its competitors are already established as suppliers 
+in addition  the company competes with at least one merchant amplifier manufacturer for business from nortel 
+this competition has resulted in  and will continue to result in reduced average selling prices for the company s products  which accordingly will negatively impact gross margins 
+results of operations the following table sets forth for the periods indicated certain statement of operations data of the company expressed as a percentage of total revenues and gross margin on sales 
+fiscal year ended march  net revenues costs and expenses cost of revenues research and development selling  general and administrative restructuring total costs and expenses operating loss interest income interest expense other income  net income loss before income taxes income taxes net income loss gross margin on revenues years ended march  and net revenues 
+the company s net revenues increased to million for fiscal from million for fiscal the growth in net revenue was primarily due to higher demand in the multi channel power amplifier mcpa product line and broadband product line  partially offset by a decline in item management s discussion and analysis of financial condition and results of operations continued the single carrier power amplifier scpa product line  sold primarily to nortel 
+mcpa revenues increased to million for fiscal from million for fiscal broadband revenues increased to million for fiscal from million for fiscal broadband revenues were recognized primarily in the first and second quarters of fiscal scpa revenues decreased to million for fiscal from million for fiscal on lower average selling prices and volumes 
+cost of revenues 
+cost of revenues consists primarily of turnkey amplifier costs for the company s products  internal amplifier assembly and test costs  radio frequency rf semiconductor fabrication  assembly and test costs  raw materials  manufacturing overhead and warranty costs 
+the company s cost of revenues increased by to million for fiscal from million for fiscal the increase on a dollar basis for fiscal year was due primarily to higher production volumes associated with the increased revenues  especially the increase in mcpa production volumes  lower yields on semiconductor production and higher inventory obsolescence expense 
+gross margin on sales was for fiscal as compared to for fiscal the decrease in gross margin reflected lower average selling prices  lower yields on semiconductor production  higher inventory obsolescence expense  and higher semiconductor prices in the fourth quarter of fiscal  partially offset by decreased manufacturing costs due to the increased use of contract manufacturing and product mix 
+the company anticipates that gross margin as a percentage of net revenues will decrease as a result of the sale of the ultrarf division to cree as the company is required to purchase the ldmos rf semiconductor parts at market price rather than recognizing the cost of revenues at the actual cost of production and continued lower average selling prices 
+research and development 
+research and development r d expenses include the cost of designing  developing or reducing the manufacturing cost of amplifiers and rf semiconductors 
+the company s r d expenses decreased by to million in fiscal from million in fiscal as a percentage of net revenues  r d expenses represented of net revenues for fiscal as compared to of net revenues for fiscal the decrease in r d expenses on both a dollar and percentage of net revenues basis reflected higher revenue levels on a year to year basis  reduced expenses associated with completion of the initial products in the new mcpa product line in early fiscal  the sale of ultrarf  and the use of a product development methodology that allows for the reuse of designs in several products 
+the company anticipates spending at the current or higher levels on new product development initiatives which the company believes are required to meet current and future market and customer requirements 
+selling  general and administrative 
+selling  general and administrative sg a expenses include compensation and benefits for sales  marketing  senior management and administrative personnel  commissions paid to independent sales representatives  professional fees and other expenses 
+the company s sg a expenses increased by to million in fiscal from million in fiscal as a percentage of net revenues  sg a expenses represented of net revenues for fiscal as compared to of net revenues for fiscal the increase in sg a expenses on a dollar basis for fiscal was principally due to increased commissions  marketing efforts to diversify the customer base  creation of the ultrarf sales force and network  increased sales and marketing activities in south korea  and costs incurred to evaluate strategic alternatives for ultrarf 
+restructuring costs 
+during fiscal  the company transitioned the assembly and test of its higher volume single carrier power amplifier products to a contract manufacturer located in thailand on a turnkey basis 
+during the fourth quarter of fiscal  the company decided to transfer the remaining power amplifier production in sunnyvale  california  to the contract manufacturer to utilize lower labor costs than available domestically and to reduce fixed overheads 
+in connection with the decision  the item management s discussion and analysis of financial condition and results of operations continued company recognized in fiscal an approximately million restructuring charge for estimated severance costs related to organizational changes and a planned reduction in work force 
+in fiscal  the company reversed  of unused restructuring charge due to changes in the restructuring plan 
+approximately employees engaged in manufacturing and production related functions were terminated as a result of the restructuring during fiscal the transfer of production to thailand was completed during the third quarter of fiscal interest income 
+interest income decreased to million in fiscal from million in fiscal the decrease in interest income for the year was a result of lower interest bearing investment balances associated with the reduced average cash and cash equivalent balances 
+interest expense 
+interest expense decreased to million in fiscal from million in fiscal the decrease in interest expense for the year was a result of substantially reduced average borrowing levels due to repayments made in association with the sale of property in december and the sale of ultrarf in december other income 
+other income increased to million in fiscal from million in fiscal other income for fiscal represents an million gain recognized on sale of ultrarf recognized in the third and fourth quarter of fiscal and a million realized loss on the sale of cree common stock in the fourth quarter of fiscal other income for fiscal  represents a million gain on the sale of a light industrial building in december income taxes 
+due to the losses incurred by the company in years prior to fiscal and the related net operating loss carryforwards available to the company  the company did not record income tax expense except for foreign taxes in fiscal and foreign taxes and the minimum state income tax expense in fiscal due to the uncertainties surrounding the realization of the deferred tax assets resulting from the company s accumulated deficit and net losses in fiscal and  the company has provided a valuation allowance against deferred tax assets where the realization is uncertain 
+the valuation allowance reduces the net deferred tax asset to the amount that is estimated may be recovered through carryback from future periods 
+the company will continue to evaluate positive and negative evidence on the recoverability of its net deferred tax asset each quarter and will record the net deferred tax asset when it is more likely than not that it will be recovered 
+years ended march  and net revenues 
+the company s net revenues increased to million for fiscal from million for fiscal the growth in net revenue was primarily due to higher demand in the scpa product line from nortel and achieving volume shipments of the new mcpa product line 
+scpa revenues increased to million for fiscal from million for fiscal mcpa revenues increased to million for fiscal from million for fiscal ultrarf revenues from external customers increased to  in fiscal from none in fiscal cost of revenues 
+cost of revenues consists primarily of turnkey amplifier costs for the company s higher volume products  internal amplifier assembly and test costs for its lower volume and new products  rf semiconductor fabrication  assembly and test costs  raw materials  manufacturing overhead and warranty costs 
+the company s cost of revenues increased by to million for fiscal from million for fiscal the increase on a dollar basis for fiscal year was due primarily to higher production volumes associated with the increased revenues 
+gross margin on sales was for fiscal as compared to for fiscal the increase in gross margin reflected lower per unit manufacturing costs driven by higher production volumes  item management s discussion and analysis of financial condition and results of operations continued product cost reduction initiatives  the increased use of contract manufacturing  and product mix 
+however  these cost improvements were partially offset by declining average sales prices in certain volume products 
+research and development 
+r d expenses include the cost of designing  developing or reducing the manufacturing cost of amplifiers and rf semiconductors 
+the company s r d expenses decreased by to million in fiscal from million in fiscal this decrease reflects reduced expenses associated with completion of the initial products in the new mcpa product line in early fiscal as a percentage of net revenues  r d expenses represented of net revenues for fiscal as compared to of net revenues for fiscal the decrease in r d expenses as percentage of net revenues basis reflected substantially higher revenue levels on a year to year basis 
+selling  general and administrative 
+sg a expenses include compensation and benefits for sales  marketing  senior management and administrative personnel  commissions paid to independent sales representatives  professional fees and other expenses 
+the company s sg a expenses increased by to million in fiscal from million in fiscal as a percentage of net revenues  sg a expenses represented of net revenues for fiscal as compared to of net revenues for fiscal the increase in sg a expenses on a dollar basis for fiscal was in principal due to increased commissions and added maintenance and support for the new enterprise resource planning erp system 
+the decrease in sg a expenses as a percentage of revenue was due primarily to the increased revenue levels 
+restructuring costs 
+during fiscal  the company transitioned the assembly and test of its higher volume single carrier power amplifier products to a contract manufacturer located in thailand on a turnkey basis 
+during the fourth quarter of fiscal  the company decided to transfer the remaining power amplifier production in sunnyvale  california  to the contract manufacturer to utilize lower labor costs than available domestically and to reduce fixed overheads 
+in connection with the decision  the company recognized in fiscal an approximately million restructuring charge for estimated severance costs related to organizational changes and a planned reduction in work force 
+the transfer of production to thailand was completed during the third quarter of fiscal interest income 
+interest income decreased to million in fiscal from million in fiscal the decrease in interest income for the year was a result of lower interest bearing investment balances associated with the reduced average cash and cash equivalent balances 
+interest expense 
+interest expense decreased to million in fiscal from million in fiscal the decrease in interest expense for the year was a result of substantially reduced average borrowings levels due to repayments made at the time of the sale of property 
+other income 
+other income increased to million in fiscal from none in fiscal the increase in other income resulted from the sale of a light industrial building in december by the company for million  net of selling expenses 
+a gain  net of selling expenses  of million was recognized on the sale 
+the related bank debt of million that was secured by the building was retired upon the closing of the building sale 
+income taxes 
+due to the losses incurred by the company in fiscal and prior years and the related net operating loss carryforwards available to the company  the company did not record income tax expense except for the minimum state income tax expense for fiscal and fiscal item management s discussion and analysis of financial condition and results of operations continued segment information the company operated and reported its financial information as one vertical integrated unit in the fiscal year ended march  and therefore did not identify or report separate segment information 
+the company began reporting its operations by segment as of the fiscal period beginning april  under the management approach  the company divided its business into two divisions based upon product type amplifier division and semiconductor division  which operated under the tradename of ultrarf 
+ultrarf derived virtually all of its net revenues from sales to the amplifier division 
+the company allocated operating expenses to these segments but did not allocate interest income and expense 
+corporate expenses were allocated to the operating segments based on predetermined annual allocation methods 
+appropriate intersegment eliminations were made in the consolidation of the company s consolidated financial statements 
+following the sale of ultrarf on december   the company began operating as one vertical integrated unit 
+see note to the condensed consolidated financial statements sale of ultrarf 
+segment information for fiscal and fiscal is as follows in thousands consolidated statement of operations data fiscal year ended march  amplifier ultrarf other total net revenues  external    net revenues  intersegment   amortization and depreciation     income loss before income taxes    consolidated statement of operations data fiscal year ended march  amplifier ultrarf other total net revenues  external   net revenues  intersegment   amortization and depreciation     income loss before income taxes     data in the other column represents the elimination of intersegment revenues  interest income and expense  other income  the provision for income taxes  certain unallocated corporate expenses and corporate amortization and depreciation that is subsequently allocated to the operating segments 
+recent accounting pronouncements in june  the financial accounting standards board fasb issued statement of financial accounting standards no 
+ accounting for derivative instruments and hedging activities 
+the standard  as amended by statement of financial accounting standards no 
+ accounting for derivative instruments and hedging activities deferral of the effective date of fasb statement no 
+ an amendment of fasb statement no 
+ and statement of financial accounting standards no 
+ accounting for certain derivative instruments and certain hedging activities  an amendment of fasb statement no 
+referred to hereafter as fas  is effective for all fiscal quarters of all fiscal years beginning after june  april  for the company 
+fas requires that all derivative instruments be recorded on the balance sheet at their fair value 
+changes in the fair value of derivatives are recorded each period in current earnings or in other comprehensive income  depending on whether a derivative is designated as part of a hedging relationship and  if it is  depending on the type of item management s discussion and analysis of financial condition and results of operations continued hedging relationship 
+for fair value hedges in which the company is hedging changes in an asset s fair value  the fair value of the derivative instrument will generally be offset in the income statement by changes in the hedged item s fair value 
+the ineffective portion of all hedges will be recognized in current period earnings 
+while fas provides a significant change in the accounting guidance related to derivative instruments and hedging activities  the company has determined that the more stringent accounting and documentation requirements under fas will not cause any significant changes in its overall risk management strategy and in its overall hedging activities 
+on april   the company adopted fas and accordingly recorded a net of tax cumulative effective type gain adjustment of less than million 
+liquidity and capital resources the company has financed its growth through sales of common stock  private sales of equity securities  capital equipment leases  bank lines of credit and cash flows from operations 
+principal sources of liquidity at march  consisted of cash and cash equivalents  restricted cash and short term debt investments of million  investment in cree common stock and options of million and bank borrowing arrangements 
+the company has a revolving line of credit of million with a bank collateralized by the majority of the company s assets 
+the line of credit was scheduled to expire on june  in may  the company renewed the line of credit for one additional year with terms substantially similar to the old line 
+under the terms of the master agreement governing this credit instrument  as amended  the company is required to maintain certain minimum working capital  net worth  profitability and other specific financial ratios 
+the master agreement also has certain restrictions on other indebtedness and the payment of dividends 
+in february  the company was in default of certain covenants and the bank has granted a waiver of the default 
+the company was in compliance with all debt covenants as of march  the amount available to borrow at march  was million 
+the company can borrow at either i a variable rate equal to the prime rate or ii a fixed rate equal to basis points above the libor rate  which at march  was and  respectively 
+the company had no borrowings under the line of credit at march  in january  the company borrowed million under a term loan collateralized by certain capital equipment 
+the company paid off the outstanding principal balance of this term loan in december the company s working capital increased by million to million as of march  from million as of march  the increase was primarily attributable to the million in proceeds received for the sale of ultrarf  less the unrealized loss on the market value of cree common stock of million and the short term portion of the deferred gain on the sale of ultrarf of million at march   a million increase in accounts receivable  and the recognition of a deferred tax asset of million  which were partially offset by a decrease in inventories of million due to the transfer of manufacturing to a subcontract manufacturer in thailand and the sale of ultrarf and an increase in accounts payable  accrued liabilities and income taxes payable of million 
+the company s short term debt investments were principally invested in investment grade  interest bearing securities 
+the company s working capital increased by million to million as of march  from million as of march  however  cash  cash equivalents and short term investments decreased by million during the same period 
+the company s short term investments were principally invested in investment grade  interest bearing securities 
+item management s discussion and analysis of financial condition and results of operations continued cash provided by operations was million for fiscal compared to cash used by operations of million and million for fiscal and fiscal  respectively 
+cash provided by operations in fiscal was principally the result of a million net income  depreciation and amortization of million  a million decrease in net inventories due to the transfer of manufacturing to a subcontract manufacturer in thailand and the write down of inventory  a million increase in accounts payable due to the timing of purchases to support the higher revenue level  a million increase in income taxes payable  which were partially offset by a recognized million non cash gain on the sale of ultrarf net assets  a million increase in deferred tax assets  a million increase in accounts receivable due to the higher revenue levels and the timing of shipments in the quarter  a million decrease in accrued liabilities due to lower payroll and commission related accruals primarily due to the decrease in headcount and the utilization of the restructuring reserve which was partially offset by the increase in the warranty reserve and a million increase in prepaid expenses and other current assets 
+cash used by operations in fiscal was principally the result of a million net increase in inventory  which is partially a result of the timing difference between nortel s requested delivery dates and the company s vendor purchase commitments to support the customer s delivery requirements  a million increase in accounts receivable  which increased proportionately with revenue growth and also reflects the longer standard payment terms in europe  partially offset by an million increase in accounts payable  which increased proportionately with production levels 
+in addition  accrued liabilities decreased by million due primarily to the reduction of warranty reserves based upon repairing defective products previously accrued for and the timing of the payment of certain expenses  primarily payroll related 
+the company s investing activities provided cash of approximately million as compared to using cash of million during fiscal and providing cash of million during fiscal cash provided by investment activities during fiscal resulted primarily from million proceeds from sale and maturities of short term investments which were partially offset by million in purchases of short term investments  million in additions to property and equipment and million in payments for transaction costs associated with the sale of ultrarf 
+proceeds from sale of short term investments in fiscal included the liquidation of cree common stock with a guaranteed realizable value of million  which was part of the consideration received for the sale of ultrarf to cree 
+capital additions during fiscal included manufacturing test and production equipment required to support new products and test equipment to support various research and development projects 
+cash used for investing activities during fiscal resulted primarily from million of additions to property and equipment  partially offset by million in proceeds from the sale of a light industrial building by the company 
+capital expenditures during fiscal included manufacturing test and production equipment required to support new products  test equipment to support various research and development projects  and the erp system 
+the company s financing activities provided cash of approximately million in fiscal as compared to providing cash of million during fiscal  and using cash of million in fiscal cash provided by financing activities during fiscal was the result of million proceeds from the issuance of common stock  through the exercise of employee stock options and employee stock purchase plan activity  which was partially offset by million in repayments of debt and capital lease obligations 
+cash provided by financing activities during fiscal was the result of million in proceeds from the issuance of common stock  through the exercise of employee stock options and employee stock purchase plan activity  which was partially offset by million in repayments of debt and capital lease obligations 
+as part of the sale of ultrarf  the company has committed to purchase million of semiconductors over a two year period starting from the fourth quarter of fiscal the company met its quarterly purchase commitment for the quarter ended march  the company anticipates spending approximately million over the next twelve months for capital additions primarily to support manufacturing production and test requirements  development projects and facilities improvements 
+based on the company s current working capital position and the available line of credit  the company believes item management s discussion and analysis of financial condition and results of operations continued that sufficient resources will be available to meet the company s cash requirements for at least the next twelve months 
+cash requirements for future periods will depend on the company s profitability  timing and level of capital expenditures  working capital requirements and rate of growth 
+factors affecting future operating results customer concentration  dependence on nortel and verizon 
+the wireless infrastructure equipment market is dominated by a small number of large oems and wireless service providers  including ericsson  lucent  motorola  nortel  verizon and siemens 
+the company s revenues are derived primarily from sales to a limited number of these customers  in particular  nortel and verizon 
+furthermore  a substantial portion of revenues from nortel in the past has resulted from sales of a limited number of the company s products 
+the company s business  financial condition and results of operations have been materially adversely affected in the past by anticipated orders failing to materialize and by deferrals or cancellations of orders as a result of changes in customer requirements 
+the company and nortel have a supply agreement  renegotiated annually  pursuant to which nortel commits to purchase a certain volume of its annual power amplifier requirements for specified prices from the company 
+this agreement allows nortel to change the product mix requirements  which can significantly affect the company s gross margins  and to change requested delivery dates without significant financial consequences to nortel  which affects the company s ability to efficiently manage production schedules and inventory levels and to accurately forecast product sales 
+any reduction in the level of purchases of the company s amplifiers by nortel  verizon or samsung  or any material reduction in pricing without significant offsets  would have a material adverse effect on the company s business  financial condition and results of operations 
+for example  in the first and second quarters of fiscal product orders from nortel fell drastically and as a result the company s revenues and earnings were adversely affected 
+if the company s current or new customers do not generate sufficient demand for the company s new products replacing prior demand from nortel  the company s business  financial condition and results of operations could be materially adversely affected 
+further  if the company were to lose nortel  verizon or samsung or any other major customer  the company s business  financial condition and results of operations would be materially adversely affected 
+in addition  wireless infrastructure equipment oems have come under increasing price pressure from wireless service providers  which in turn has resulted in downward pricing pressure on the company s products 
+the company expects to incur increasing pricing pressures from nortel  verizon  samsung and other major customers in future periods  which could result in declining average sales prices and gross margins for the company s products 
+fluctuations in operating results 
+the company s quarterly and annual results have in the past been  and will continue to be  subject to significant fluctuations due to a number of factors  any of which could have a material adverse effect on the company s business  financial condition and results of operations 
+in particular  the company s results of operations are likely to vary due to the timing  cancellation  delay or rescheduling of oem customer orders and shipments  the timing of announcements or introductions of new products by the company  its competitors or their respective oem customers  the acceptance of such products by wireless equipment oems and their customers  relative variations in manufacturing efficiencies and costs  competitive factors such as the pricing  availability  and demand for competing amplification products  changes in average sales prices and related gross margins which vary significantly based upon product mix  subcontractor performance  variations in operating expenses  changes in manufacturing capacity and variations in the utilization of this capacity  shortages of key supplies  the long sales cycles associated with the company s products  the timing and level of product and process development costs  changes in inventory levels  and the relative strength or weakness of international financial markets 
+anticipated orders from the company s oem customers have in the past failed to materialize and delivery schedules have been deferred or canceled as a result of changes in oem customer requirements and the company expects this pattern to continue as customer requirements continue to change and industry standards continue to evolve 
+reduced demand for wireless infrastructure equipment in the item management s discussion and analysis of financial condition and results of operations continued past has caused significant fluctuations in the company s product sales 
+there can be no assurance that the company will not experience such fluctuations in the future or that the company will experience in the future the same annual revenue growth that it did in fiscal and the company establishes its expenditure levels for product development and other operating expenses based on its expected revenues  and expenses are relatively fixed in the short term 
+as a result  variations in timing of revenues can cause significant variations in quarterly results of operations 
+there can be no assurance that the company will be profitable on a quarter to quarter basis in the future 
+the company believes that period to period comparisons of its financial results are not necessarily meaningful and should not be relied upon as an indication of future performance 
+due to all the foregoing factors  it is likely that in some future quarter or quarters the company s revenues or operating results will not meet the expectations of public stock market analysts or investors 
+in such event  the market price of the company s common stock would be materially adversely affected 
+declining average sales prices 
+the company has experienced  and expects to continue to experience  declining average sales prices for its products  especially in the market for its single carrier power amplifiers 
+wireless infrastructure equipment manufacturers have come under increasing price pressure from wireless service providers  which in turn has resulted in downward pricing pressure on the company s products 
+in addition  competition has increased the downward pricing pressure on the company s products 
+since wireless infrastructure equipment manufacturers frequently negotiate supply arrangements far in advance of delivery dates  the company often must commit to price reductions for its products before it is aware of how  or if  cost reductions can be obtained 
+to offset declining average sales prices  the company believes that it must achieve manufacturing cost reductions 
+if the company is unable to achieve such cost reductions  the company s gross margins will decline  and such decline will have a material adverse effect on the company s business  financial condition and results of operations 
+product quality  performance and reliability 
+the company expects that its customers will continue to establish demanding specifications for quality  performance and reliability that must be met by the company s products 
+power amplifiers as complex as those offered by the company often encounter development delays and may contain undetected defects or failures 
+the company has from time to time in the past experienced product quality  performance and reliability problems 
+in addition  a multicarrier power amplifier has a higher probability of malfunction than a single carrier power amplifier because of its greater complexity 
+there can be no assurance that defects or failures relating to the company s product quality  performance and reliability will not occur in the future that may have a material adverse effect on the company s business  financial condition and results of operations 
+internal amplifier design and production capabilities of oems 
+the company believes that a majority of the present worldwide production of power amplifiers is captive within the manufacturing operations of wireless equipment oems  many of which have chosen not to purchase amplifiers from outside suppliers 
+in addition  these manufacturers could decide to sell amplifiers to other wireless equipment oems 
+if this should occur  the competition for power amplifiers would significantly increase and could have a material adverse effect on the company s business  financial condition and results of operations 
+the company also believes that those oems that purchase from third party amplifier vendors are reluctant to switch once committed to a particular merchant vendor 
+consequently  the company has only limited opportunities to increase revenues by replacing internal oem amplifier production or displacing other merchant amplifier suppliers 
+moreover  given the limited opportunities for merchant power amplifier suppliers  any decision by an oem to employ a second source merchant supplier for a product currently purchased from a merchant supplier may reduce the existing merchant supplier s ability to maintain a given level of product sales to such oem or  possibly  to retain the oem as a customer due to price competition from the second source merchant supplier 
+there can be no assurance that the company s major oem item management s discussion and analysis of financial condition and results of operations continued customers will continue to rely  or increase their reliance  on the company as an external source of supply for their power amplifiers  or that other wireless equipment oems will become customers of the company 
+if the major wireless infrastructure equipment suppliers do not purchase or continue to purchase their power amplifiers from merchant suppliers  the company s business  results of operations and financial condition will be materially adversely affected 
+rapid technological change  evolving industry standards  dependence on new products 
+the markets in which the company and its oem customers compete are characterized by rapidly changing technology  evolving industry standards and continuous improvements in products and services 
+in particular  because the company s strategy of rapidly bringing to market products customized for numerous and evolving modulation standards requires developing and achieving volume production of a large number of distinct products  the company s ability to rapidly design and produce individual products for which there is significant oem customer demand will be a critical determinant of the company s future success 
+a softening of demand in the markets served by the company or a failure of modulation standard in which the company has invested substantial development resources may have a material adverse effect on the company s business  financial condition and results of operations 
+no assurance can be given that the company s product development efforts will be successful  that its new products will meet customer requirements and be accepted or that its oem customers product offerings will achieve customer acceptance 
+if a significant number of development projects  including the company s new multicarrier products  do not result in substantial volume production or if technologies or standards supported by the company s or its customers products become obsolete or fail to gain widespread commercial acceptance  the company s business may be materially adversely affected 
+purchase and supply agreement with cree 
+in connection with the company s completion of the sale of ultrarf to cree  the company entered into a purchase and supply agreement  dated as of december  by and between the company and zoltar subsequently renamed ultrarf  inc 
+pursuant to the purchase and supply agreement  the company committed to purchase and accept delivery from ultrarf  inc certain components at a minimum aggregate purchase price 
+the company s need for ultrarf  inc components during a calendar quarter may be insufficient to satisfy its minimum commitments for such calendar quarter 
+in such event  the company would be obligated to purchase excess inventory that it may never utilize or to pay a shortfall surcharge  either of which could have a material adverse effect on the company s business  financial condition  and cash flows 
+arm s length relationship 
+the company relies on ultrarf for the supply of a substantial amount of components used in the manufacture of its products 
+when the company operated ultrarf as a separate division  it may have obtained more favorable terms for semiconductor products than through negotiations with unaffiliated third parties 
+with the sale of ultrarf  the company must now deal with ultrarf on an arm s length basis 
+accordingly  the prices and other terms for ultrarf semiconductor products may now be less favorable to the company 
+sole or limited sources of products  materials and services 
+the company currently procures from single sources power amplifier assemblies  certain specialized semiconductors  components and services for its products 
+the company purchases these products  components and services on a purchase order basis  does not carry significant inventories of these components and does not have any long term supply contracts with its sole source vendors 
+during fiscal  the company completed the transfer of the production of power amplifiers to a contract manufacturer in thailand 
+as a result of this transfer  the company no longer has significant manufacturing capacity 
+the company issues non cancelable purchase orders to the contract manufacturer days in advance of requested delivery  which is greater than the committed delivery schedule of some of its customers  such as nortel 
+on december   the company completed the sale of substantially all of the assets and liabilities comprising the company s item management s discussion and analysis of financial condition and results of operations continued semiconductor division  ultrarf  pursuant to the asset purchase agreement dated as of november  to cree 
+as a result  the company no longer manufactures bipolar and ldmos rf power semiconductors  which are critical components in the company s power amplifier products 
+as part of the definitive agreement  the company and cree entered into a two year supply agreement under which the company is obligated to purchase from cree an aggregate of million of semiconductors 
+consequently  cree is the company s sole source vendor of certain bipolar and ldmos rf power semiconductors 
+the company s reliance on sole sources for certain components and its migration to an outsourced  turnkey manufacturing strategy entail certain risks including reduced control over the price  timely delivery  reliability and quality of the components 
+if the company were to change any of its sole source vendors or contract manufacturer  the company would be required to requalify the components with each new vendor or contract manufacturer  respectively 
+any inability of the company to obtain timely deliveries of components or assembled amplifiers of acceptable quality in required quantities or a significant increase in the prices of components for which the company does not have alternative sources could materially and adversely affect the company s business  financial condition and results of operations 
+the company has occasionally experienced difficulties in obtaining some components  and no assurance can be given that shortages will not occur in the future 
+risks of international sales 
+the company operates in an international market and expects that international sales will continue to account for a significant percentage of the company s total revenues for the foreseeable future 
+these sales involve a number of inherent risks  including imposition of government controls  currency exchange fluctuations  potential insolvency of international distributors  representatives and customers  reduced protection of intellectual property rights in some countries  the impact of recessionary environments in economies outside the united states  political instability and generally longer receivables collection periods  as well as tariffs and other trade barriers 
+in addition  because substantially all of the company s foreign sales are denominated in us dollars  increases in the value of the dollar relative to the local currency would increase the price of the company s products in foreign markets and make the company s products relatively more expensive and less price competitive than competitors products that are priced in local currencies 
+there can be no assurance that these factors will not have a material adverse effect on the company s future international sales and  consequently  on the company s business  financial condition and results of operations 
+the company anticipates that turmoil in financial markets and the deterioration of the underlying economic conditions in certain countries where the company has significant sales may have an impact on its sales to customers located in or whose projects are based in those countries due to the impact of currency fluctuations on the relative price of the company s products and restrictions on government spending imposed by the international monetary fund the imf on those countries receiving the imf s assistance 
+in addition  customers in those countries may face reduced access to working capital to fund component purchases  such as the company s products  due to higher interest rates  reduced funding of wireless infrastructure by domestic governments  reduced bank lending due to contractions in the money supply or the deterioration in the customer s or its bank s financial condition or the inability to access equity financing 
+a substantial majority of the company s products are sold to oems who incorporate the company s products into systems sold and installed to end user customers 
+these oems are not required by contract and do not typically provide the company with information regarding the location and identity of their end user customers  and  therefore  the company is not able to determine what portion of its product sales have been or future orders will be incorporated into oem sales to end users in countries experiencing financial market turmoil and or deterioration of economic conditions 
+furthermore  a large portion of the company s existing customers and potential new customers are servicing new markets in developing countries that the company s customers expect will deploy wireless communication networks as an alternative to the construction of a wireline infrastructure 
+if such countries decline to construct wireless communication systems  or construction of such systems is delayed for any reason  including business and economic conditions and changes in economic stability due to factors such as increased inflation and item management s discussion and analysis of financial condition and results of operations continued political turmoil  such delays could have a material adverse effect on the company s business  financial condition and results of operations 
+reliance upon growth of wireless services 
+sales of power amplifiers to wireless infrastructure equipment suppliers and network operators have in the past accounted  and are expected in the future to account  for substantially all of the company s product sales 
+demand for wireless infrastructure equipment is driven by demand for wireless service 
+although demand for power amplifiers has grown in recent years  if demand for wireless services fails to increase or increases more slowly than the company or its customers currently anticipate  the company s business  financial condition and results of operations would be materially and adversely affected 
+market for the company s products is highly competitive 
+the wireless communications equipment industry is extremely competitive and is characterized by rapid technological change  new product development and product obsolescence  evolving industry standards and significant price erosion over the life of a product 
+the ability of the company to compete successfully and sustain profitability depends in part upon the rates at which wireless equipment oems incorporate the company s products into their systems and the company captures market share from other merchant suppliers 
+the company s major oem customers continuously evaluate whether to manufacture their own amplification products or purchase them from outside sources 
+there can be no assurance that these oem customers will incorporate the company s products into their systems or that in general they will continue to rely  or expand their reliance  on external sources of supply for their power amplifiers 
+these customers and other large manufacturers of wireless communications equipment could also elect to enter the merchant market and compete directly with the company  and at least one oem  nec  has already done so 
+such increased competition could materially adversely affect the company s business  financial condition and results of operations 
+the company s principal competitors in the market for wireless amplification products provided by merchant suppliers currently include aml communications  amplidyne  fujitsu  mitsubishi and powerwave technologies 
+no assurance can be given that the company s competitors will not develop new technologies or enhancements to existing products or introduce new products that will offer superior price or performance features compared to the company s products 
+uncertain protection of intellectual property 
+the company s ability to compete successfully and achieve future revenue growth will depend  in part  on its ability to protect its proprietary technology and operate without infringing the rights of others 
+the company has a policy of seeking patents on inventions resulting from its ongoing research and development activities 
+there can be no assurance that the company s pending patent applications will be allowed or that the issued or pending patents will not be challenged or circumvented by competitors 
+notwithstanding the company s active pursuit of patent protection  the company believes that the success of its business depends more on the collective value of its patents  specifications  computer aided design and modeling tools  technical processes and employee expertise 
+in addition  the company assigned of its united states patents and of its foreign patents to cree in connection with the sale of ultrarf 
+the company has been granted by cree a non exclusive  royalty free license to each of these patents  however  there can be no assurance that cree will adequately protect this proprietary information and any such failure could adversely affect the company s business  financial condition and results of operations 
+the company generally enters into confidentiality and nondisclosure agreements with its employees  suppliers  oem customers  and potential customers and limits access to and distribution of its proprietary technology 
+however  there can be no assurance that such measures will provide adequate protection for the company s trade secrets or other proprietary information  or that the company s trade secrets or proprietary technology will not otherwise become known or be item management s discussion and analysis of financial condition and results of operations continued independently developed by competitors 
+the failure of the company to protect its proprietary technology could have a material adverse effect on its business  financial condition and results of operations 
+risk of third party claims of infringement 
+the communications equipment industry is characterized by vigorous protection and pursuit of intellectual property rights or positions  which have resulted in significant and often protracted and expensive litigation 
+although there is currently no pending intellectual property litigation against the company  the company or its suppliers may from time to time be notified of claims that the company may be infringing patents or other intellectual property rights owned by third parties 
+if it is necessary or desirable  the company may seek licenses under such patents or other intellectual property rights 
+however  there can be no assurance that licenses will be offered or that the terms of any offered licenses will be acceptable to the company 
+the failure to obtain a license from a third party for technology used by the company or otherwise secure rights to use such technology could cause the company to incur substantial liabilities  to suspend the manufacture of products or expend significant resources to develop noninfringing technology 
+there can be no assurance that the company would be successful in such development or that such licenses would be available on reasonable terms  if at all 
+in the event that any third party makes a successful claim against the company or its customers and either a license is not made available to the company on commercially reasonable terms or a design around is not practicable  the company s business  financial condition and results of operations would be materially adversely affected 
+furthermore  the company may initiate claims or litigation against third parties for infringement of the company s proprietary rights or to establish the validity of the company s proprietary rights 
+litigation by or against the company could result in significant expense to the company and divert the efforts of the company s technical and management personnel  whether or not such litigation results in a favorable determination for the company 
+in the event of an adverse result in any such litigation  the company could be required to pay substantial damages  indemnify its customers  cease the manufacture  use and sale of infringing products  expend significant resources to develop noninfringing technology  discontinue the use of certain processes or obtain licenses to the infringing technology 
+government regulation of communications industry 
+radio frequency transmissions and emissions  and certain equipment used in connection therewith are regulated in the united states  canada and throughout the rest of the world 
+regulatory approvals generally must be obtained by the company in connection with the manufacture and sale of its products  and by wireless service providers to operate the company s products 
+the united states federal communications commission the fcc and regulatory authorities abroad constantly review rf emission issues and promulgate standards based on such reviews 
+if more stringent rf emission regulations are adopted  the company and its oem customers may be required to alter the manner in which radio signals are transmitted or otherwise alter the equipment transmitting such signals  which could materially adversely affect the company s products and markets 
+the enactment by federal  state  local or international governments of new laws or regulations or a change in the interpretation of existing regulations could also materially adversely affect the market for the company s products 
+although deregulation of international communications industries along with radio frequency spectrum allocations made by the fcc have increased the potential demand for the company s products by providing users of those products with opportunities to establish new wireless personal communications services  there can be no assurance that the trend toward deregulation and current regulatory developments favorable to the promotion of new and expanded personal communications services will continue or that other future regulatory changes will have a positive impact on the company 
+the increasing demand for wireless communications has exerted pressure on regulatory bodies worldwide to adopt new standards for such products  generally following extensive investigation of and deliberation over competing technologies 
+the delays inherent in this governmental approval process have in the past caused  and may in the future cause  the cancellation  postponement or rescheduling of the installation of communications systems by the item management s discussion and analysis of financial condition and results of operations continued company s oem customers 
+these delays have had in the past  and in the future may have  a material adverse effect on the sale of products by the company to such oem customers 
+environmental regulations 
+the company is subject to a variety of local  state and federal governmental regulations relating to the storage  discharge  handling  emission  generation  manufacture and disposal of toxic or other hazardous substances used to manufacture the company s products 
+the company believes that it is currently in compliance in all material respects with such regulations and that it has obtained all necessary environmental permits to conduct its business 
+nevertheless  the failure to comply with current or future regulations could result in the imposition of substantial fines on the company  suspension of production  alteration of its manufacturing processes or cessation of operations 
+compliance with such regulations could require the company to acquire expensive remediation equipment or to incur substantial expenses 
+any failure by the company to control the use  disposal  removal or storage of  or to adequately restrict the discharge of  or assist in the cleanup of  hazardous or toxic substances  could subject the company to significant liabilities  including joint and several liabilities under certain statutes 
+the imposition of such liabilities could materially adversely affect the company s business  financial condition and results of operations 
+management of growth  dependence on key personnel 
+the company s business and growth has placed  and is expected to continue to place  a significant strain on the company s personnel  management and other resources 
+the company s ability to manage any future growth effectively will require it to attract  motivate  manage and retain new employees successfully  especially in the highly competitive northern california job market  to integrate new employees into its overall operations and to retain the continued service of its key technical  marketing and management personnel  and to continue to improve its operational  financial and management information systems 
+although the company has employment contracts with several of its executive officers  these agreements do not obligate such individuals to remain in the employment of the company 
+the company does not maintain key person life insurance on any of its key technical personnel 
+the competition for such personnel is intense 
+the company has experienced loss of key employees in the past and could in the future 
+such losses could have a material adverse effect on the company 
+as a result of the plan to discontinue manufacturing operations in sunnyvale  california  and the company s other restructuring activities  several key executives have ceased to be employees of the company 
+the company s ability to manage its growth will require it to continue to invest in its operational  financial and management information systems  procedures and controls 
+the company can give no assurance that it will be able to manage its growth effectively 
+failure to manage growth effectively would have a material adverse effect on the company s business  financial condition and results of operations 
+the company may  from time to time  pursue the acquisition of other companies  technology  assets or product lines that complement or expand its existing business 
+the company may also  from time to time  pursue divestitures of existing operations  technology or assets 
+acquisitions and divestitures involve a number of risks that could adversely affect the company s operating results 
+these risks include the diversion of management s attention from day to day business  the fluctuation of operating results due to the timing of charges for costs associated with acquisitions or divestitures  the difficulty of combining and assimilating the operations and personnel of the acquired companies  the difficulty of separating a divested operation from the remaining operations  charges to the company s earnings as a result of the purchase of intangible assets  and the potential loss of key employees as a result of an acquisition or divestiture 
+should any acquisition take place  we can give no assurance that this acquisition will not materially and adversely affect the company or that any such acquisition will enhance the company s business 
+risk of business interruption 
+the company s operations are vulnerable to interruption by fire  earthquake  power loss  telecommunications failure and other events beyond the company s control 
+the company does not have a detailed disaster recovery plan and its facilities in the state of california are item management s discussion and analysis of financial condition and results of operations continued currently subject to electrical blackouts as a consequence of a shortage of available electrical power 
+in the event these blackouts continue or increase in severity  they could disrupt the operations of the company s facilities in california and increase the company s operating costs 
+in addition  the company does not carry sufficient business interruption insurance to compensate it for losses that may occur and any losses or damages incurred could have a material adverse effect on the company s business 
+volatility of stock price 
+the market price of the shares of common stock has been and is likely to continue to be highly volatile  and is affected significantly by factors such as fluctuations in the company s quarterly and annual operating results  customer concentration  the timing difference between nortel s requested delivery dates and its vendor purchase commitments to support the customer s delivery requirements  reliance on international markets  the absence of the economies of scale achieved by some of its competitors  announcements of technological innovations  new customer contracts or new products by the company or its competitors  announcements by the company s customers regarding their business or prospects  changes in analysts expectations  estimates and recommendations  news reports regarding the company  its competitors and its markets  governmental regulatory action  developments with respect to patents or proprietary rights  announcements of significant acquisitions or strategic partnerships by the company or its competitors  announcements of significant divestitures of existing businesses or product lines  the market price of the shares of the common stock of cree  concentration of stock ownership by a few entities resulting in a low float of the company s common stock in the public market  general market conditions and other factors 
+in addition  the stock market in general  and the market prices for power amplifier manufacturers in particular  have experienced extreme volatility that is often unrelated to the operating performance of these companies 
+these broad market and industry fluctuations may adversely affect the price of the company s common stock  regardless of actual operating performance 
+the market price of the company s common stock has fluctuated significantly in the past 
+volatility of cree s common stock price 
+pursuant to the asset purchase agreement  the company received as partial consideration for the sale of ultrarf   shares of common stock of cree 
+in january  the company sold  shares  which were held in escrow  for approximately  and realized a loss of approximately  from the sale of these securities 
+in may  the company sold  shares of cree common stock for approximately million and recognized a loss of approximately million 
+between january to may  the company entered into various option arrangements  known as a cashless collar  expiring from july to may  to hedge the remaining  shares of cree common stock on hand 
+as a result  the company is able to realize an average of per share the floor price for the  hedged shares if the share price of cree is lower than when the options expire 
+if the cree stock price exceeds an average of the ceiling price when the options expire  the company may sell its hedged shares at or settle the options for a cash amount equal to the difference between the cree stock price and the option price 
+until the options expire  the company will be restricted from disposing of the hedged shares 
+the company faces a number of risks due to the size of its ownership in cree including the risk that its financial statements and results of operations reflect the company s ownership stake in cree  which impacts the company s stock price 
+at march   the unrealized loss on the company s investments in cree common stock and option was approximately million 
+the market price of the shares of cree s common stock has been and is likely to continue to be highly volatile 
+although the  shares of cree common stock on hand have been hedged  the company s investment in cree common stock is subject to price fluctuation between the floor and ceiling prices of the option arrangements 
+such volatility in the market price of cree s common stock and the resulting impact on investors and analysts perceptions of the change of the company s valuation due to the size of its holdings in cree common stock may adversely affect the market price of the company s common stock 
+item management s discussion and analysis of financial condition and results of operations continued escrow shares 
+of the total consideration paid under the asset purchase agreement  approximately million is currently held in escrow to secure the company s representations  warranties and covenants under the asset purchase agreement over a month period  ending in december if any claims for indemnification are made against the company anytime during this month period  whether meritorious or not  the company may be delayed or precluded from realizing the proceeds placed in escrow 
+shareholder rights plan  issuance of preferred stock 
+the board of directors of the company adopted a shareholder rights plan in october the original agreement 
+on august   pursuant to section of the original agreement  the company s board of directors agreed to restate the dividend that it had declared under the original agreement in a second amended and restated preferred shares rights agreement dated august  the prior agreement 
+on january   pursuant to section of the prior agreement  the company s board of directors agreed to amend the triggering event threshold applicable to kopp investment advisors  inc and state of wisconsin investment board to thirty percent and twenty percent  respectively 
+under the prior agreement  each right a right  and collectively the rights entitles the registered holder to purchase from the company one one thousandth of a share of series a preferred at an exercise price of the purchase price  subject to adjustment 
+the rights become exercisable upon the occurrence of certain events  including the announcement of a tender offer or exchange offer for the company s common stock or the acquisition of a specified percentage of the company s common stock by a third party 
+the exercise of the rights could have the effect of delaying  deferring or preventing a change in control of the company  including  without limitation  discouraging a proxy contest or making more difficult the acquisition of a substantial block of the company s common stock 
+these provisions could also limit the price that investors might be willing to pay in the future for shares of the company s common stock 
+the board of directors has the authority to issue up to  shares of undesignated preferred stock and to determine the powers  preferences and rights and the qualifications  limitations or restrictions granted to or imposed upon any wholly unissued shares of undesignated preferred stock and to fix the number of shares constituting any series and the designation of such series  without any further vote or action by the company s stockholders 
+for example  in connection with the company s shareholder rights plan  the board of directors designated  shares of preferred stock as series a participating preferred stock although none of such shares have been issued 
+the preferred stock could be issued with voting  liquidation  dividend and other rights superior to those of the holders of common stock 
+the issuance of preferred stock under certain circumstances could have the effect of delaying  deferring or preventing a change in control of the company 
+item a 
+quantitative and qualitative disclosures about market risk the company develops products in the united states and markets its products in north america  south america  europe and the asia pacific region 
+thus  the financial results could be affected by factors such as changes in foreign currency exchange rates or weak economic conditions in foreign markets 
+as all sales are currently made in us dollars  a strengthening of the dollar could make the company s products less competitive in foreign markets 
+the company s exposure to market rate risk for changes in interest rates relate primarily to its investment portfolio 
+the company does not hold derivative financial instruments in its investment portfolio except for the option arrangements to hedge one million shares of the cree common stock on hand 
+the company places its investments with high quality institutions and limits the amount of credit exposure to any one issuer 
+the company is averse to principal loss and ensures the safety and preservation of its invested funds by limiting default  market and reinvestment risk 
+the company classifies its short term investments as fixed rate if the rate of return on such instruments remains fixed over their term 
+these fixed rate investments include fixed rate us government securities and corporate obligations with contractual maturity dates ranging from less than one year up to five years 
+the table below presents the amounts and related weighted interest rates of the company s short term investments at march  and dollars in thousands 
+march  march  average fixed interest rate amortized cost   fair value   contractual maturity dates less than year   to years   pursuant to the asset purchase agreement  the company received as partial consideration for the sale of ultrarf   shares of common stock of cree 
+in january  the company sold  shares  which were held in escrow  for approximately  and realized a loss of approximately  from the sale of these securities 
+in may  the company sold  shares of cree common stock for approximately million and realized a loss of approximately million  which will be recognized in the quarter ending july  between january to may  the company entered into various option arrangements  known as a cashless collar  expiring from july to may  to hedge the remaining  shares of cree common stock on hand 
+as a result  the company is able to realize an average of per share for the  hedged shares if the share price of cree is lower than when the options expire 
+if the cree stock price exceeds an average of when the options expire  the company may sell its hedged shares at or settle the options for a cash amount equal to the difference between the cree stock price and the option price 
+until the options expire  the company will be restricted from disposing of the hedged shares 
+a adverse change in the fair value of cree common stock as of march   assuming the hedging had not been in place  would result in an approximate million decrease in the fair value of the company s available for sale securities 
+

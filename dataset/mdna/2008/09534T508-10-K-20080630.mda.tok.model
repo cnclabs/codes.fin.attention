@@ -1,0 +1,870 @@
+item  management s discussion and analysis of financial condition and results of operation  of this report 
+our principal markets include the market for secure web gateway products  and the newly evolving wan application delivery market  which includes products that both enhance wan security and wan performance  and improve the availability of business applications  where network users are distributed across multiple locations 
+our primary end user customers are medium and large distributed organizations  including finance  government  healthcare  education and other business enterprises 
+enterprises deploy our products in their data centers  branch offices  and internet gateways and mobile devices worldwide 
+we were incorporated in delaware on march  as web appliance inc we changed our name to cacheflow  inc 
+on march   and completed our initial public offering on november  on august   we changed our name to blue coat systems  inc  and our ticker symbol for our common stock from cflo to bcsi 
+on september   we filed an amendment to our certificate of incorporation  implementing a one for five reverse split of our outstanding common stock 
+our common stock began trading under the split adjustment at the opening of the nasdaq stock market on september  on august   our board of directors approved a two for one forward stock split of our common stock 
+the stock split was effected by the issuance of a stock dividend of one share of our common stock for each share of our common stock issued and outstanding as of the record date of september  our common stock began trading under that split adjustment at the opening of the nasdaq global market on october  in january  we commenced trading on the nasdaq global select market 
+our number of authorized shares of common stock and preferred stock has remained at million and million  respectively  since our incorporation 
+all share and per share amounts in this annual report on form k  and in the accompanying consolidated financial statements and notes thereto  reflect the reverse stock split and subsequent forward split for all periods presented 
+overview during the past few years  certain trends have fundamentally changed the basic architecture of the corporate enterprise network and the way users and applications communicate across a distributed enterprise 
+the number of enterprise branch offices and mobile network users has continued to increase 
+as a result  a growing number of employees  and in some cases the majority of an enterprise s employees  now work outside the corporate headquarters  or away from its data centers 
+
+table of contents data centers  servers  storage and applications are increasingly being consolidated at enterprise headquarters in order to reduce costs  optimize use of resources  better safeguard critical business information  and comply with new regulatory requirements requiring greater control over it systems 
+as a result  a growing number of users must now connect securely and efficiently to the enterprise headquarters through a wan to access the business applications and business information systems required to be productive 
+there is an increasing number of threats to the security and availability of corporate networks  including those resulting from malicious code  viruses  trojans  spam  spyware  and the use of instant messaging 
+most business applications are designed to perform optimally over a local area network lan and are not designed or architected to be accessed over a wan 
+as a consequence  these applications  although often critical to the enterprise  perform very inefficiently and slowly when used by remote and mobile users 
+in addition  other commonly used applications  such as web protocols  video streaming  and secure sockets layer ssl  consume large amounts of bandwidth  causing further degradation of application performance for the remote and mobile users of a corporate network 
+where employees do not experience an acceptable level of network performance  their productivity may suffer and they may even cease to use an application altogether 
+many companies are now outsourcing one or more critical business applications  such as customer relationship management or crm  enterprise resource planning or erp  human resources  and procurement applications 
+in such circumstances  the application is hosted remotely by the service provider and is typically accessed through the internet 
+since corporate it organizations do not control these applications or the internet  it is more difficult to ensure that these applications perform well and are secure  especially for remote and mobile users 
+the web browser is becoming the ubiquitous user interface for many applications  and provides virtually all users of a corporate network with access to the web itself 
+the amount of internet traffic on the corporate wan has increased dramatically 
+as a consequence of this evolution  it organizations must address three distinct requirements to ensure that all network users remain productive they must be able to block internet security threats and inappropriate content  prevent leakage of sensitive information  and grant authorized users timely access to necessary applications and content 
+they must significantly improve the performance of critical business applications being delivered to remote users in branch offices and to mobile users 
+these applications can include erp  crm  and productivity and office applications  e mail  file systems  streaming media  and web based applications  including encrypted ssl applications 
+they must be able to monitor the specific activities and performance of users and applications  as well as be able to implement and enforce access and security policies  to ensure that the business is providing an acceptable and cost effective level of application performance and network security for all users  including those located outside of enterprise headquarters 
+we offer a family of appliances and software products that assist it organizations in addressing the challenges of the distributed enterprise and meeting the above requirements 
+these appliances and software help secure and accelerate application delivery to all users connected over a private wan or the public internet  regardless of whether the applications are hosted internally or externally 
+our blue coat proxysg  proxyav  and proxyra appliances  and our blue coat proxysg client software  are available in a wide range of configurations and work together as a centrally managed  policy controlled system that is sufficiently flexible to be scaled to support large complex organizations 
+
+table of contents secure web gateway solutions during the past several years  our primary business focus has been to offer proxy appliances used to control and secure communications for users of a corporate network accessing content on the internet 
+these appliances are located at the customer s internet gateway  which is the point where the network connects to the internet 
+the performance of our proxy appliances has enabled us to establish a leadership position in the market for secure web gateway products 
+one of the key strengths of our appliances is our advanced proxy technology 
+our proxy appliance acts as a middleman between users and various applications or internet content 
+users communicate with the proxy appliance on one side of the transaction  and applications and internet content communicate with the proxy appliance on the other side of the transaction 
+there are two separate connections  both controlled and managed by the proxy appliance 
+consequently  no content can get past the appliance unless it is in accordance with a policy that is created by the customer s it organization and that is automatically enforced by the appliance 
+this enables our proxy appliances to protect businesses from many of the dangers of the internet 
+our appliances offer a number of important features that enable more secure communication with the internet  including web content filtering the ability to allow or block specific types of web content from entering the corporate network 
+the use of web content filtering can prevent potential security breaches and can block employees from viewing inappropriate content when using the company s computer system 
+web anti virus av protection the ability to automatically scan and block viruses and other potentially malicious network traffic using leading third party anti virus products 
+spyware prevention the ability to prevent installation of spyware and other malicious code on individual user computers  and eliminate that as a cause of performance problems and security vulnerabilities 
+instant messaging im and skype control the ability to prevent these types of peer to peer pp applications from creating an opportunity for leakage of sensitive  confidential information  as well as managing im content and blocking inappropriate use of such applications 
+prevention of rogue streaming media applications the ability to limit or block the use of unauthorized pp applications  which often degrade network performance  by network users 
+ssl threat protection the ability to identify and block threats presented by the use of the ssl  or secure sockets layer  protocol 
+while use of ssl improves security by encrypting confidential data communicated over the internet  it may also provide a means for hidden viruses  worms  and other security threats to enter the network 
+user authentication the ability to automatically validate a user who requests access to secure corporate content 
+our appliances interface with virtually all leading authentication systems  including nt lan manager  radius  ldap and active directory  to provide user validation 
+wide area network application delivery solutions during fiscal  we extended our focus to address the need to improve performance and availability of critical business applications delivered across the wan to remote and mobile users commonly known as wan optimization or wan acceleration  while simultaneously securing the delivery of those applications and content 
+this market has been defined by idc  a leading provider of it market intelligence services  as the wan application delivery market 
+our wan application delivery products are delivered by the same proxy appliances that enable our secure web gateway products 
+our mach multiprotocol accelerated caching hierarchy technology  which is 
+table of contents integrated into our appliances  provides five key capabilities that accelerate the delivery of business applications to remote users of a wan  including bandwidth management the ability to assign a set level of bandwidth to specific users and applications and prioritize delivery of that traffic over the wan 
+protocol optimization a technique that enhances the efficiency of protocols by reducing the communication required between the user and the application 
+object caching a technique where reusable content is stored on the appliance which eliminates the need to repeatedly transfer that information across the wan 
+byte caching a technique that assigns  stores and uses abbreviated expressions that represent repetitive wan traffic  which conserves bandwidth and accelerates delivery of the application 
+compression a technique that uses an industry standard algorithm to package and unpackage information for efficient transmission across a wan 
+our mach technology is also designed to improve the performance of business applications  including streaming video  encrypted ssl applications  and applications hosted by third parties and accessed through the internet 
+our appliances are deployed in both the centralized data centers and in the branch office 
+in addition  we make mach functionality available as client based software in our sg client for users requiring accelerated application performance while working outside of the corporate network 
+products as of april   we offered the following products proxysg appliances our blue coat proxysg family of proxy appliances serves as the foundation for both our secure web gateway products and our wan application delivery products 
+the appliance  when appropriately configured  may be placed at the internet gateway  to provide security with respect to web based communications  or may be placed at connection points for entry to or exit from a wan or wan links to enhance and accelerate the performance of business applications over that wan 
+proxysg appliances are designed for simple management and installation by our customers  and easily integrate with the customer s existing security and network infrastructure 
+they are icsa certified and are available in four different models 
+our proxysg appliances use our proprietary sgos operating system  which is specifically designed to support the security  acceleration  and policy control features of those appliances 
+they are available in a broad range of configurations to support all network users in an organization  regardless of their physical location 
+proxysg client our blue coat proxysg client is software that is installed on a desktop or laptop computer that is located at a remote site without a proxysg appliance or that is used by a mobile user 
+the software uses our mach technology  including caching  compression and protocol optimization  to accelerate the delivery of web and office applications used by these remote computers 
+this provides the user with performance that is similar to that provided by a large wan that uses a proxysg appliance 
+
+table of contents proxyav appliances our blue coat proxyav family of web anti virus appliances enable organizations to scan for viruses  worms  spyware and trojans at the internet gateway before permitting communications to enter the enterprise s network 
+such infected communications frequently arrive through so called backdoors  such as personal web email accounts  web spam or email spam that activates trojan downloads without the user s consent  and browser based file downloads that bypass existing virus scanning mechanisms 
+a proxyav appliance  when implemented in combination with a proxysg appliance  provides scalable virus scanning  and also provides the it administrator with comprehensive visibility and control of enterprise web communications 
+the proxyav appliance uses virus scanning software from such vendors as sophos  mcafee  symantec  panda  and kaspersky lab 
+proxyra appliances our blue coat proxyra appliances are installed at the headquarters of an enterprise and enable authorized mobile users to securely connect to a corporate network through a mobile client device such as a laptop  pda or airport kiosk computer 
+our proxyra appliances use application independent proxy architecture and proprietary connector technology to provide the following features on demand access to web and non web applications without the need to install virtual private network vpn or other special software on the client device 
+comprehensive support for client devices not managed by the enterprise s it department  including features to block inadvertent or malicious information leakage to or from the client device 
+integrated security services with respect to communications between the corporate network and the client device  including monitoring for encryption and spyware and implementing policy based controls 
+blue coat webfilter our blue coat webfilter is a web filtering product that operates on our proxysg appliances and helps enterprises and service providers protect their users and networks from internet threats and inappropriate content and traffic  such as adult content  spyware  phishing attacks  pp traffic  im and streaming traffic 
+our webfilter product includes a comprehensive database that is organized into relevant and useful categories 
+the webfilter database continues to be developed and enhanced in response to the actual web usage patterns of customers  including through use of our dynamic real time rating drtr technology  which enables us to categorize web sites that are not in our database  but to which a user sought access 
+in addition to our proprietary webfilter product  our proxysg appliances also support the use of third party content filtering databases  including those offered by secure computing corporation and websense  inc blue coat reporter blue coat reporter uses transaction log data captured by an appliance to produce both pre defined and custom reports relating to the performance and security of user activities on the enterprise s wan 
+the information in these reports can be used by the it administrator to appropriately adjust policies or take other actions to enhance the security or performance of the wan 
+blue coat director blue coat director is an appliance that provides centralized management of an enterprise s blue coat proxysg appliances 
+
+table of contents sales and marketing our products are delivered to end user customers in many countries worldwide 
+we also maintain a worldwide service and support organization that provides a broad range of service options to our customers  including x technical support and product education 
+our worldwide sales strategy is based upon the use of multiple methods and sales tiers to market and sell our products 
+we maintain a direct sales organization of highly skilled sales representatives and systems engineers 
+they are assigned to general territories covering defined geographic areas and to territories focused on a select number of large enterprise customers  or named accounts 
+our direct sales organization is complemented by a large channel of third party resellers and distributors 
+our resellers are responsible for identifying and closing business on an independent basis 
+our resellers are supported by our global distributors  many of whom provide education  co marketing  demonstration equipment and support to our end user customers  and our internal channel sales specialists 
+during fiscal  one customer  a distributor  accounted for of our net revenue 
+within each geographic area we also have a team of sales and technical specialists focused on the development of relationships with  and sales to  service providers and value added resellers 
+we employ a team of inside sales representatives in each geographic area to support both the direct sales organization and channel partners 
+the primary function of our inside sales representatives is to develop and qualify leads identified from our marketing activities and to forward those leads to the appropriate sales channel 
+our marketing efforts focus on increasing the awareness of our blue coat brand  educating the market on issues and challenges associated with wan application delivery and secure web gateway products  and creating demand for our products and technology 
+we develop marketing programs to support the sale and distribution of our products and to inform existing and potential customers within our target market segments about the capabilities and benefits of our products 
+our marketing efforts include participation in industry trade shows  informational seminars  preparation of competitive analyses  sales training  maintenance of our web site  advertising  public relations  and collateral solution documentation and enablement 
+in addition  we provide similar types of marketing support for our major sales channel partners worldwide 
+research and development we believe that strong product development capabilities are essential to our continued success and growth 
+our current research and development efforts are primarily focused on adding new features and strengthening existing features that extend the acceleration and security capabilities of our wan application delivery products and enhancing the reliability  ease of use and installation and support of those products 
+at the same time  we are continuing to enhance the capabilities of our secure web gateway products by adding new features and strengthening existing features 
+our research and development team consists of engineers with extensive technical backgrounds in relevant disciplines 
+we believe that the experience and capabilities of our research and development professionals is one of our significant competitive advantages 
+we also work closely with our customers to understand their business needs and to focus our development of new products and product enhancements to better meet customer needs 
+while we anticipate that most enhancements to our existing and future products will be accomplished by internal development  we currently license certain technologies from third parties and will continue to evaluate externally developed products and technology for integration into our products 
+as well  we have acquired third party businesses  technologies and products to expand our capabilities and market  and may continue to do so in the future 
+
+table of contents research and development expense was million  million  and million for the fiscal years   and  respectively  including stock based compensation expense attributable to our research and development organization of million  million  and million  respectively 
+manufacturing we currently outsource the manufacturing of our appliances and principally use standard parts and components that are available from multiple vendors 
+this approach allows us to reduce our investment in manufacturing equipment  facilities  and inventory  and to take advantage of the expertise of our vendors 
+we rely primarily on two original design manufacturers and one business service process partner to assist in the design of our products and to manufacture and test our products 
+we have contracted with mitac international corporation to design and manufacture our current product offerings and have contracted with synnex corporation to do final assembly and testing of those products 
+we also have contracted with inventec enterprise system corporation to design and manufacture certain new high performance products that are not yet commercially available 
+all of these agreements are non exclusive 
+our internal manufacturing operations consist primarily of project management  prototype development  materials and production planning  quality and reliability assurance and procurement as required in support of our relationships with our outsourced manufacturing partners 
+backlog our backlog is comprised of amounts for orders that we have accepted  but not shipped  and deferred revenue 
+deferred revenue includes revenue from products that have shipped to distributors  but have not yet shipped to end customers  product shipments that do not yet qualify as revenue in accordance with our revenue recognition policy  and the unearned portion of service and maintenance contracts 
+our backlog was approximately million at april  as compared to million at april   which represented an increase of million 
+the deferred revenue portion of our backlog increased by million  primarily as a result of an increase in new service contracts sold with our appliances  as well as the renewal of service contracts  while our backlog of orders accepted  but not shipped  declined by million due primarily to a decline in the growth rate of our north american business in the fourth quarter of fiscal however  due to occasional customer changes in delivery schedules or cancellation of orders prior to shipment which can be made without significant penalty  we do not believe this backlog to be firm or that backlog is a reliable indicator of future revenue levels 
+a significant portion of our quarterly sales typically occurs during the last month of the quarter  which we believe reflects customer buying patterns of products similar to ours and other products in the technology industry generally 
+competition we are a market leader in the secure internet web market  although we may face increased competition in this market given recent consolidations 
+our principal competitors in this market are secure computing corporation  through its acquisitions of cyberguard corp 
+and ciphertrust  inc  and websense  inc  through its acquisition of portauthority technologies  inc and surfcontrol plc  and cisco systems  inc through its acquisition of ironport 
+we commercially released our first wan application delivery product in may this is a market that is intensely competitive  and it is evolving and subject to rapid technological change 
+we expect competition to increase in the future 
+our principal competitors in this market are riverbed technology  inc  juniper networks  inc  cisco systems  inc and citrix systems  inc 
+through its acquisition of orbital data corp 
+in addition  we expect additional competition from other established and emerging companies as the wan application delivery market continues to develop and expand  and as consolidation occurs 
+
+table of contents the primary factors considered by our customers in selecting an appropriate solution include product characteristics such as reliability  feature sets  scalability and ease of use  as well as factors such as price and the availability and quality of customer support 
+intellectual property and other proprietary rights our success is heavily dependent on our ability to create proprietary technology and to protect and enforce our intellectual property rights in that technology  as well as our ability to defend against adverse claims of third parties with respect to our technology and intellectual property 
+to protect our proprietary technology  we rely primarily on a combination of contractual provisions and confidentiality procedures to protect trade secrets  copyright and trademark laws  and patents 
+despite our efforts to protect our proprietary rights  unauthorized parties may attempt to copy aspects of our products or obtain and use information that we regard as proprietary 
+policing unauthorized use of our products is difficult 
+in addition  the laws of some foreign countries do not protect our proprietary rights to as great an extent as do the laws of the united states 
+our means of protecting our proprietary rights may not be adequate and unauthorized third parties  including our competitors  may independently develop similar or superior technology  duplicate or reverse engineer aspects of our products  or design around our patented technology or other intellectual property 
+as of april   we had issued us patents  pending us patent applications provisional and non provisional  and pending foreign patent application 
+there can be no assurance that any of our pending patent applications will issue or that the patent examination process will not result in our narrowing the claims applied for 
+furthermore  there can be no assurance that we will be able to detect any infringement of our existing or future patents if any  or  if infringement is detected  that our patents will be enforceable or that any damages awarded to us will be sufficient to adequately compensate us 
+there can be no assurance or guarantee that any products  services or technologies that we are presently developing  or will develop in the future  will result in intellectual property that is protectable under law  whether in the united states or a foreign jurisdiction  that such intellectual property will produce competitive advantage for us  or that the intellectual property of competitors will not restrict our freedom to operate or put us at a competitive disadvantage 
+from time to time we may and do receive notices from third parties alleging infringement of patents or other intellectual property rights or offering licenses under such intellectual property rights 
+while it is our policy to respect the legitimate intellectual property rights of others  we may defend against such claims or seek to negotiate licenses on commercially reasonable terms or otherwise settle such claims  where appropriate 
+nevertheless  there has been a substantial amount of litigation over intellectual property rights in our industry and we expect this to continue 
+hence  third parties may claim that we  or our current or potential future products  infringe their intellectual property rights  and any such claims  whether with or without merit  could be time consuming  result in costly litigation  result in the assessment of damages  result in management distraction  cause product shipment delays or require us to enter into royalty or licensing agreements 
+royalty or licensing agreements  if required  may not be available on terms acceptable to us or at all  which could seriously harm our business 
+employees as of april   we had a total of  employees  comprised of in sales  in research and development  in customer support  in general and administrative  in manufacturing and in marketing 
+of these employees  were located in north america and were located in various other international locations 
+none of our employees are represented by collective bargaining agreements  nor have we experienced any work stoppages 
+we consider our relations with our employees to be good 
+
+table of contents available information our annual report on form k  quarterly reports on form q  current reports on form k and amendments to reports filed pursuant to sections a and d of the securities exchange act of  as amended  are available free of charge on our investor relations web site at www 
+bluecoat 
+com as soon as reasonably practicable after we file such material with the sec 
+the other information posted on our web site is not incorporated into this annual report 
+item a 
+risk factors factors affecting future operating results in addition to the other information contained in this annual report on form k  the following risk factors should be carefully considered by investors before making an investment decision 
+our business  financial condition and results of operations could be seriously harmed as a consequence of any of the following risks and uncertainties 
+the trading price of our common stock could decline due to any of these risks  and investors may lose all or part of their investment 
+these risks and uncertainties are not the only ones we face 
+additional risks and uncertainties not presently known to us or that we currently deem less significant also may impair our business  financial condition and results of operations  or result in a decline in the trading price of our common stock 
+our quarterly operating results fluctuate significantly and our ability to forecast our quarterly operating results is limited  so our operating results may not meet our guidance or third party expectations 
+our net revenue and operating results have in the past  and may in the future  vary significantly from quarter to quarter due to a number of factors  many of which are outside of our control 
+these factors limit our ability to accurately predict our operating results on a quarterly basis  and include factors discussed elsewhere in this risk factors section together with the following the timing  size and mix of orders from customers  fluctuations in demand for our products and services  certain markets in which we compete are relatively new and are evolving  variability and unpredictability in the rate of growth in the markets in which we compete  our ability to continue to increase our respective market shares consistent with past rates of increase  our variable sales cycles  which may lengthen as the complexity of products and competition in our markets increases  the level of competition in our target product markets  including new entrants or substantial discounting  market acceptance of our new products and product enhancements  announcements  introductions and transitions of new products or product enhancements by us or our competitors  and deferrals of customer orders which may result from such announcements  introductions and transitions  technological changes in our product target markets  future accounting pronouncements and changes in accounting policies  our recognition of revenue in accordance with statement of position sop requires that some product revenue be recognized ratably over a defined period or deferred to a future period if we are unable to establish fair value for the undelivered element  such as support  and 
+table of contents future macroeconomic conditions in our domestic and international markets  as well as the level of discretionary it spending generally 
+a high percentage of our expenses  including those related to manufacturing overhead  technical support  research and development  sales and marketing  and general and administrative functions  are essentially fixed in the short term 
+as a result  if our net revenue is less than forecast  such expenses cannot effectively be reduced and our quarterly operating results will be adversely affected 
+we believe that quarter to quarter comparisons of our operating results should not necessarily be relied upon as indicators of future performance 
+in the past our quarterly results have on occasion failed to meet our quarterly guidance and the expectations of public market analysts or investors  and it is likely that this will occur in the future 
+if this occurs our stock price likely will decline  and may decline significantly 
+such a decline may also occur even when we meet our guidance but our results or future guidance fail to meet third party expectations 
+we must anticipate market needs  and develop and introduce new products and enhance existing products to rapidly meet those needs  or we will lose market share and our operating results will be adversely affected 
+to maintain our competitive position in a market characterized by rapid rates of technological advancement  we must correctly anticipate market requirements and invest our research and development resources to meet those requirements 
+the introduction of new products by others  market acceptance of products based on new or alternative technologies  or the emergence of new industry standards  could render our existing products obsolete or make it easier for other products to compete with our products 
+our future success will depend in part upon our ability to develop and maintain competitive products  enhance our products by adding innovative features that differentiate our products from those of our competitors  bring products to market on a timely basis at competitive prices  identify and respond to emerging technological trends in the market  and respond effectively to new technological changes or new product announcements by others 
+there is no guarantee that we will accurately predict the direction in which the secure web gateway and wan application delivery markets will evolve 
+failure on our part to anticipate the direction of our markets and to develop products and enhancements that meet the needs of those markets will significantly impair our business  financial condition and results of operations 
+the wan applications delivery market is intensely competitive and certain of our competitors have greater financial  technical  sales and marketing resources  and may take actions that could weaken our competitive position or reduce our net revenue 
+we have increasingly invested in and focused on the wan application delivery market 
+this market is intensely competitive  and the intensity of this competition is expected to increase in the future 
+such increased competition is likely to result in price reductions  reduced gross margins and loss of market share  any one of which could seriously harm our business  financial condition and operating results 
+we may not be able to compete successfully against current or future competitors and we cannot be certain that competitive pressures we face will not seriously harm our business 
+our competitors vary in size and in the scope and breadth of the products and services they offer 
+in addition  we expect that there will be competition from other established and emerging companies as the market for wan application delivery products continues to develop and expand 
+
+table of contents many of our current and potential competitors have longer operating histories  significantly greater financial  technical  sales and marketing resources  significantly greater name recognition  and a larger installed base of customers than we do 
+such competitors also may have well established relationships with our current and potential customers and extensive knowledge of our industry 
+as a result  those competitors may be able to respond more quickly to new or emerging technologies and changes in customer requirements  or to devote greater resources to the development  marketing  promotion and sale of their products than we can 
+they also may make strategic acquisitions or establish cooperative relationships among themselves or with other providers  thereby increasing their ability to provide a broader suite of products  and potentially causing customers to defer purchasing decisions 
+also  larger competitors may be able to integrate some of the functionality of our products into existing infrastructure products or to bundle wan application delivery products with other product offerings 
+finally  they may engage in aggressive pricing strategies or discounting 
+any of the foregoing may limit our ability to compete effectively in the market and adversely affect our business  financial condition and operating results 
+our acquisitions may not provide the anticipated benefits and may disrupt our existing business 
+in june of  we completed our acquisition of packeteer  inc packeteer 
+we have also acquired other businesses in the past  including our acquisition of permeo technologies  inc permeo and our acquisition of certain assets of the netcache business from network appliance 
+it is likely we will acquire additional businesses or assets in the future 
+there is no guaranty that such acquisitions will yield the benefits we anticipate 
+the success of any acquisition is impacted by a number of factors  and may be subject to the following risks inability to successfully integrate the operations  technologies  products and personnel of the acquired companies  diversion of management s attention from normal daily operations of the business  loss of key employees  and substantial transaction costs 
+acquisitions may also result in risks to our existing business  including dilution of our current stockholders percentage ownership to the extent we issue new equity  assumption of additional liabilities  incurrence of additional debt or a decline in available cash  adverse effects to our financial statements  such as the need to make large and immediate write offs or the incurrence of restructuring and other related expenses  liability for intellectual property infringement and other litigation claims  which we may or may not be aware of at the time of acquisition  and creation of goodwill or other intangible assets that could result in significant amortization expense or impairment charges 
+the occurrence of any of the above risks could seriously harm our business 
+economic uncertainty and adverse macroeconomic conditions may harm our business 
+our revenues and margins are dependent on various economic factors  including rates of inflation  currency fluctuations  energy costs  levels of consumer sentiment  and other macroeconomic factors which may impact levels of business spending 
+these conditions may affect corporate spending for it products and services in specific geographies or more broadly 
+a decrease in corporate spending or demand for our products and services could result in a reduction in our net revenue  gross margin and operating margin  
+table of contents increased price competition for our products and services  risk of excess and obsolete inventory  higher overhead costs as a percentage of net revenue  and a reduced ability to collect customer receivables 
+in addition  a significant percentage of our operating expenses are fixed in nature and based on forecasted revenue trends  which could limit our ability to mitigate the negative impact on margins in the short term 
+recent adverse economic and market conditions in the united states have resulted in delays in closing customer orders in that region  and further uncertainty or deterioration in these conditions could materially impact our business  operating results and financial condition 
+our internal investments in research and development may not yield the anticipated benefits 
+the success of our business is predicated on our ability to create new products and technologies and to anticipate future market requirements and applicable industry standards 
+the process of developing new technologies is time consuming  complex and uncertain  and requires commitment of significant resources well in advance of being able to fully determine market requirements and industry standards 
+furthermore  we may not be able to timely execute new product or technical initiatives because of errors in product planning or timing  technical difficulties that we cannot timely resolve  or a lack of appropriate resources 
+this could result in competitors bringing products to market before we do and a consequent decrease in our market share and net revenue 
+our inability to timely and cost effectively introduce new products and product enhancements  or the failure of these new products or enhancements to achieve market acceptance and comply with industry standards  could seriously harm our business  financial condition and operating results 
+additionally  our introduction of new products and product enhancements could result in the obsolescence of previously purchased or committed inventory  potentially requiring the recording of material charges  which would reduce our net income 
+unless we develop better market awareness of our company and our products  our net revenue may not grow as anticipated 
+we are a relatively new entrant in the wan application delivery market and  in our opinion  have not yet established sufficient market awareness of our participation in that market 
+market awareness of our capabilities and products is essential to our continued growth and our success in all of our markets  particularly in the wan application delivery market 
+if our advertising and marketing programs are not successful in creating market awareness of our company and products  our business  financial condition and results of operations will be adversely affected  and we will not be able to achieve sustained growth 
+if the market for wan application delivery products does not develop as we anticipate  we may not be able to achieve an acceptable increase of our net revenue  and the price of our stock may decline 
+we have increasingly invested in and focused on the wan application delivery market 
+however  that is a new and rapidly evolving market 
+if this market fails to grow as we anticipate  or grows more slowly than we anticipate  we may not be able to sell as many of our wan application delivery products as we currently project  which would result in a decline in our anticipated net revenue and could result in a decline in our stock price 
+third party product developments may impact the value of our products to users 
+our wan application delivery appliances are purchased to secure  accelerate and control the delivery of third party software applications and content 
+it is possible that the providers of software applications and operating systems which operate with the software applications and content accelerated by our appliances may 
+table of contents enhance the performance of their software  such that further acceleration of affected applications and content is not necessary 
+this would make our products less valuable to users of that software 
+in addition  manufacturers of hardware or software may incorporate functionality similar to that offered by our wan application delivery or secure web gateway products directly into their products  which would make our products less valuable to users of those products 
+any of the foregoing may limit our ability to sell our products and adversely affect our business  financial condition and operating results 
+forecasting our estimated annual effective tax rate is complex and subject to uncertainty  and material differences between forecasted and actual tax rates could have a material impact on our results of operations 
+forecasts of our income tax position and effective tax rate are complex and subject to uncertainty because our income tax position for each year combines the effects of a mix of profits and losses earned by us and our subsidiaries in various tax jurisdictions with a broad range of income tax rates  as well as changes in the valuation of deferred tax assets and liabilities  the impact of various accounting rules and changes to these rules  the results of examinations by various tax authorities  and the impact of any acquisition  business combination or other reorganization or financing transaction 
+to forecast our global tax rate  we estimate our pre tax profits and losses by jurisdiction and calculate our tax expense by jurisdiction 
+if the mix of profits and losses  our ability to use tax credits  or effective tax rates by jurisdiction is different than those estimated  our actual tax rate could be materially different than forecasted  which could have a material impact on our results of operations 
+in addition  we may be subject to examination of our income tax returns by the internal revenue service and other tax authorities 
+while we regularly assess the likelihood of adverse outcomes from such examinations and the adequacy of our provision for income taxes  there can be no assurance that such provision is sufficient and that a determination by a tax authority will not have an adverse effect on our results of operations 
+we issued convertible notes and warrants to fund our acquisition of packeteer which could impact our liquidity 
+we issued warrants and zero coupon senior convertible notes in an aggregate principal amount of million that mature in  in order to acquire packeteer 
+if these notes are not converted prior to maturity we will be required to repay the principal amount  and may not have funds available to do so 
+as well  the notes contain certain conditions of default and  should a default occur  the holders of the notes may be able to require early payment of the notes 
+if we are unable to raise additional capital  our business could be harmed 
+we believe that our available cash  cash equivalents and short term investments will enable us to meet our capital requirements for at least the next months 
+however  if cash is required for unanticipated needs  we may need additional capital during that period 
+the development and marketing of new products  the investment in our sales and marketing efforts  and the integration of the packeteer business will require a significant commitment of resources 
+if the market for our products develops at a slower pace than anticipated  we could be required to raise substantial additional capital 
+we cannot be certain that additional capital will be available to us on favorable terms  or at all 
+if we were unable to raise additional capital when required  our business could be seriously harmed 
+we have a history of losses and profitability could be difficult to sustain 
+while we have been profitable in certain quarters  we have not been able to maintain consistent profitability on a quarterly basis 
+although we were profitable in all four quarters of fiscal  we were not profitable in three of the four fiscal quarters in fiscal  and may not be profitable on a quarterly or annual basis in the future 
+our ability to achieve  sustain or increase profitability on a quarterly or annual basis will be affected by changes in our business and the demand for our products and services 
+we expect our operating expenses to 
+table of contents increase as we endeavor to grow revenue  and we anticipate that we will make investments in our business 
+our results of operations will be harmed if our revenue does not increase at a rate commensurate with the rate of increase in our expenses 
+if our revenue is less than anticipated or if our operating expenses exceed our expectations or cannot be adjusted quickly and efficiently  we may continue to experience losses on a quarterly and annual basis 
+we must attract  assimilate and retain key personnel on a cost effective basis  or our ability to execute our business strategy and generate sales could be harmed 
+we depend on key management  research and development  and sales personnel  and our ability to attract and retain highly qualified and skilled personnel on an ongoing basis 
+our success will depend in part on our ability to recruit and retain key personnel 
+we have seen an increase in competition with respect to cash and equity compensation offered by employers in the silicon valley  and in other areas where we have operations  that may make it more difficult to attract and retain highly qualified employees 
+the majority of our employees  including our senior management personnel  are employed on an at will basis  which may make it easier for key employees to leave us and move to new employment 
+our inability to timely hire replacement or additional employees may impact our operations  since new hires frequently require extensive training before they achieve desired levels of productivity 
+this may affect our ability to grow our net revenue 
+in particular  new sales personnel typically take a number of months to achieve acceptable productivity and generate the expected level of sales 
+we rely significantly on third party sales channel partners to sell our products 
+a significant amount of our revenue is generated through sales by our sales channel partners  which include distributors and resellers 
+during fiscal  approximately of our revenue was generated through our indirect sales channels 
+we depend upon these partners to generate sales opportunities and to independently manage the sales process for opportunities with which they are involved 
+in order to increase our net revenue  we will need to maintain our existing sales channel partners and add new sales channel partners and effectively train and integrate them with our sales process 
+if we are unsuccessful in those efforts  our business will not grow and our operating results will be adversely affected 
+our products are complex  and there can be no assurance that the sales training programs that are offered to our sales channel partners will be effective 
+in addition  our sales channel partners may be unsuccessful in marketing  selling and supporting our products and services for reasons unrelated to training 
+most of our sales channel partners do not have minimum purchase or resale requirements  and may cease selling our products at any time 
+they may also market  sell and support products and services that are competitive with ours  and may devote more resources to the marketing  sales and support of products competitive to ours 
+there is no assurance that we will retain these sales channel partners or that we will be able to secure additional or replacement sales channel partners in the future 
+the loss of one or more of our key sales channel partners in a given geographic area could harm our operating results within that area  as new sales channel partners typically require extensive training and take several months to achieve acceptable productivity 
+we also depend on many of our sales channel partners to deliver first line service and support for our products 
+any significant failure on their part to provide such service and support could impact customer satisfaction and future sales of our products 
+in addition  we recognize a portion of our revenue based on a sell through model using information provided by our sales channel partners 
+if we are provided with inaccurate or untimely information  the amount  timing or accuracy of our reported net revenue could be affected 
+
+table of contents if we are unable to establish fair value for any undelivered element of a customer order  revenue relating to the entire order may be deferred until the revenue recognition criteria for all elements of the customer order are met 
+this could lower our net revenue in one period and increase it in future periods  resulting in greater variability in net revenue and income period to period 
+in the course of our sales efforts  we often enter into arrangements with our customers that require us to deliver a combination of different appliances  software products or services 
+we refer to each individual appliance  software product or service as an element of the overall arrangement with our customer 
+in some cases  these arrangements may require us to deliver particular elements in a future period 
+we do not recognize revenue on any element until it has been delivered 
+in addition  we do not recognize revenue on any delivered element until we can determine the fair value of all undelivered elements in the arrangement 
+if evidence of the fair value of one or more undelivered elements does not exist  all revenue is generally deferred and recognized at the earlier of when delivery of those elements occurs or when fair value can be determined 
+when the undelivered element for which we do not have a fair value is maintenance  revenue for the entire arrangement is recognized ratably over the maintenance period 
+as a result  a portion of the revenue we recognize in each quarter could relate to previously delivered products 
+consequently  an increase in the number of multiple element arrangements with undelivered elements for which we cannot determine the fair value would negatively impact our net revenue in the current period  while increasing net revenue in future periods 
+in addition  we may not adjust our cost structure commensurately with the reduction in net revenue recognized in the current period  which would reduce our income for the current period 
+if there is a significant increase in sales related to multiple element arrangements with undelivered elements for which we cannot determine the fair value  we may not meet current revenue expectations since revenue associated with such arrangements will be recognized in future periods 
+we are dependent on original design manufacturers and contract manufacturers to design and manufacture our products  and changes to those relationships  expected or unexpected  may result in delays or disruptions that could cause us to lose revenue and damage our customer relationships 
+we depend primarily on original design manufacturers each of whom is a third party original design manufacturer for numerous companies to co design and co develop the hardware platform for our products 
+we also depend on independent contract manufacturers each of whom is a third party manufacturer for numerous companies to manufacture our products and the assemblies and components contained in our products 
+these manufacturers are not committed to design or manufacture our products on a long term basis in any specific quantity or at any specific price 
+also  from time to time  we may be required to add new manufacturers or manufacturing sites to accommodate growth in orders or the addition of new products 
+it is time consuming and costly to qualify and implement new original design manufacturer and contract manufacturer relationships and sites  and such additions increase the complexity of our supply chain management 
+our ability to ship products to our customers could be delayed if we fail to effectively manage our contract manufacturer relationships  if one or more of our design manufacturers does not meet our development schedules  if one or more of our contract manufacturers experiences delays  disruptions or quality control problems in manufacturing our products  or if we are required to add or replace design manufacturers or contract manufacturers or sites 
+in addition  these manufacturers have access to certain of our critical intellectual property and could wrongly disclose or misappropriate such property 
+moreover  an increasing portion of our manufacturing is performed in china and taiwan and other countries and is  therefore  subject to risks associated with doing business in those countries 
+each of these factors could adversely affect our business  financial condition and operating results 
+if we fail to accurately predict our manufacturing requirements and manage our supply chain we could incur additional costs or experience manufacturing delays that could harm our business 
+we provide forecasts of our requirements to our contract manufacturers on a rolling month basis 
+if our forecast exceeds our actual requirements  the contract manufacturers may assess charges or we may have liability for excess inventory  each of which could negatively affect our gross margin 
+if our forecast is less than our 
+table of contents actual requirements  the contract manufacturers may have insufficient time and components to produce our product requirements  which could delay or interrupt manufacturing of our products and result in delays in shipments  customer dissatisfaction  and deferral or loss of revenue 
+as well  we may be required to purchase sufficient inventory to satisfy our future needs in situations where a component is being discontinued 
+if we fail to accurately predict our requirements  we may become liable for excess inventory that we and our contract manufacturers cannot use or we may be unable to fulfill customer orders 
+any of the foregoing could adversely affect our business  financial condition and operating results 
+we depend on single and  in some cases  sole and limited source suppliers for several key components  so our business is susceptible to shortages  unavailability  or price fluctuations 
+we have limited sources of supply for certain key components of our products  which exposes us to the risk of component shortages or unavailability 
+in addition  we are unable to rapidly change quantities and delivery schedules because the procurement of certain components is subject to lengthy lead times and the qualification of additional or alternate sources is time consuming  costly and difficult 
+in the event our business growth exceeds our projections  or required components are otherwise in scarce supply  we may be subject to shortages  delays or unavailability of such components  or potential price increases  which may be substantial 
+if we are unable to secure sufficient components at reasonable prices in order to timely build our products  customer shipments may be delayed 
+this would adversely affect both our relationships with those customers and our net revenue 
+alternatively  we may pay increased prices  which would impact our gross margin 
+any of the foregoing could adversely affect our business  financial condition and operating results 
+our gross margin is affected by a number of factors  and may be below our expectations or the expectations of investors and analysts  which could cause a decline in our stock price 
+our gross margin percentage has been and will continue to be affected by a variety of factors  including market acceptance of our products and fluctuations in demand  the timing and size of customer orders and product implementations  increased price competition and changes in product pricing  actions taken by our competitors  new product introductions and enhancements  manufacturing and component costs  availability of sufficient inventory to meet demand  purchase of inventory in excess of demand  our execution of our strategy and operating plans  changes in our sales model  geographies in which sales are made  and revenue recognition rules 
+for example  we have in the past entered into large revenue transactions with certain customers that  because of the product mix and volume discount  have decreased our gross margin percentage 
+we may  in the future  enter into similar transactions 
+as well  our lower end appliances have lower margins than our higher end appliances  and if our customers submit a large order or orders for our lower end appliances  the combination of lower margins and the volume discount provided to those customers would negatively impact our gross margin percentage 
+
+table of contents even if we achieve our net revenue and operating expense objectives  our net income and operating results may be below our expectations and the expectations of investors and analysts if our gross margins are below expectations 
+this could cause our stock price to decline 
+our international operations expose us to risks 
+we currently have operations in a number of foreign countries 
+in fiscal  of our total net revenue was derived from customers outside of north america  thus  our business is substantially dependent on economic conditions and it spending in markets outside north america 
+the expansion of our international operations and entry into additional international markets requires significant management attention and financial resources  and subjects us to certain inherent risks including technical difficulties and costs associated with product localization  challenges associated with coordinating product development efforts among geographically dispersed areas  potential loss of proprietary information due to piracy  misappropriation  or laws that may be less protective of our intellectual property rights  our limited experience in establishing a sales and marketing presence  together with the appropriate internal systems  processes and controls  in certain geographic markets  longer payment cycles for sales in certain foreign countries  seasonal reductions in business activity in the summer months in europe and at other times in various countries  the significant presence of some of our competitors in some international markets  potentially adverse tax consequences  import and export restrictions and tariffs and other trade protection initiatives  potential failures of our foreign employees to comply with both us and foreign laws  including antitrust laws  trade regulations and the foreign corrupt practices act  compliance with foreign laws and other government controls  such as those affecting trade  privacy  the environment and employment  management  staffing  legal and other costs of operating an enterprise spread over various countries  fluctuations in foreign exchange rates  political or economic instability  war or terrorism in the countries where we are doing business  and fears concerning travel or health risks that may adversely affect our ability to sell our products and services in any country in which the business sales culture encourages face to face interactions 
+to the extent we are unable to effectively manage our international operations and these risks  our international sales may be adversely affected  we may incur additional and unanticipated costs  and we may be subject to litigation or regulatory action 
+as a consequence  our business  financial condition and operating results could be seriously harmed 
+the matters relating to our historical stock granting practices and the restatement of our consolidated financial statements in march have required us to incur substantial expenses  have resulted in litigation and regulatory inquiries  and may result in additional litigation  regulatory proceedings and governmental enforcement actions 
+our historical stock granting practices and the consequent restatement of our financial statements have exposed us to greater risks associated with litigation  regulatory and government enforcement actions 
+on 
+table of contents march   in our form k for the year ended april   we restated our consolidated financial statements as of april   and for the years ended april  and  to correctly account for stock option grants for which we had determined that the measurement date for accounting purposes was different from the stated grant date the march restatement 
+in addition  we also restated our selected consolidated financial data as of and for the years ended april    and  and the unaudited quarterly financial data for each of the quarters in the years ended april  and  with the exception of the fourth quarter of fiscal which had not then been filed 
+for more information on these matters  see item  management s discussion and analysis of financial condition and results of operations background of the stock option investigation  findings  restatement of consolidated financial statements  remedial measures and related proceedings  and item a  controls and procedures in our annual report on form k for the year ended april   and item  management s discussion and analysis of financial condition and results of operations background of the stock option investigation  findings  restatement of consolidated financial statements  remedial measures and related proceedings  and item  controls and procedures  on form q for the quarter ended january   each of which was filed with the sec on march  the matters addressed in the march restatement have exposed us to greater risks associated with litigation  regulatory proceedings and government enforcement actions 
+as described in note of notes to consolidated financial statements  multiple derivative complaints have been filed in state and federal courts against our directors and certain of our executive officers pertaining to allegations relating to stock option grants  and certain proceedings with respect to such matters are ongoing at the sec and the us attorney s office for the northern district of california 
+we also may become the subject of  or otherwise be required to incur legal fees and costs in connection with  additional private litigation  regulatory proceedings  or government enforcement actions in connection with the march restatement 
+no assurance can be given regarding the outcomes of such activities or that such outcomes will be consistent with the findings of our special committee reported in our annual report on form k for the year ended april  the resolution of these matters has been  and will continue to be  time consuming and expensive  and will distract management from the conduct of our business 
+our available directors and officers liability insurance may not be sufficient to cover our legal expenses or those of persons we are obligated to indemnify  and may not cover all items for which we must procure representation or for which we are obligated to provide indemnification 
+furthermore  if we are subject to adverse findings in litigation  regulatory proceedings or government enforcement actions  we could be required to pay damages or penalties or have other remedies imposed  which could harm our business  financial condition  results of operations and cash flows 
+in addition  the march restatement and the related litigation and regulatory proceedings  and any negative outcome that may occur from them  could impact our relationships with customers and our ability to generate future net revenue 
+in fiscal  we continued to incur substantial expenses for legal  accounting  tax and other professional services related to the matters addressed above 
+in addition  we incurred expenses in connection with our resolution of issues related to the march restatement that affected our international and domestic employees  including payment of taxes due under internal revenue code section a 
+we may not be able to successfully manage the growth of our business if we are unable to improve our internal systems  processes and controls 
+our growth  as well as recent regulatory requirements and changes in financial standards  has placed increased demands on our management and our infrastructure 
+the acquisition of packeteer  or any other acquisitions we may make  also will place increased demands on us 
+we need to continue to improve our internal systems  processes and controls to effectively manage our operations and growth  including our international growth into new geographies 
+we may not be able to successfully implement improvements to these systems  processes and controls in a timely or efficient manner  and we may discover deficiencies in existing systems  processes and controls 
+our failure to improve our systems  processes and controls may result in our inability to manage the growth of our business and to accurately forecast our revenue  expenses and earnings  which could adversely affect our business  financial condition  operating results and stock price 
+
+table of contents we rely on technology that we license from third parties  including software that is integrated with internally developed software and used with our products 
+we rely on technology that we license from third parties  including third party software and open source software that is used with certain of our products 
+if we are unable to continue to license any of this software on commercially reasonable terms  we will face delays in releases of our software or we will be required to delete this functionality from our software until equivalent technology can be licensed or developed and integrated into our current product 
+in addition  the inability to obtain certain licenses or other rights might require us to engage in litigation regarding these matters  which could have a material adverse effect on our financial condition 
+any of these developments could seriously harm our business 
+undetected product errors  or failures found in new products may result in a loss of or delay in market acceptance of our products  which could cause us to incur significant costs  reduce our sales or result in litigation 
+our products are highly complex and may contain undetected operating errors when first introduced or as new versions or enhancements are released 
+despite testing by us and by current and potential customers  errors may not be found in new products or new versions until after commencement of commercial shipments  resulting in customer dissatisfaction and loss of or delay in market acceptance and sales opportunities 
+this could materially adversely affect our operating results 
+these errors could also cause us to incur significant warranty and repair costs  divert the attention of our engineering personnel from our product development efforts and cause significant customer relations problems 
+in addition  all of our products operate on our internally developed operating system 
+as a result  any error in the operating system will affect all of our products 
+we have experienced minor errors in the past in connection with new products and enhancements to existing products 
+we expect that errors will be found from time to time in new or enhanced products after commencement of commercial shipments  which could seriously harm our business 
+since our end user customers install our appliances directly into their network infrastructures  any errors  defects or other performance problems with our products could negatively impact their networks or other internet users  resulting in financial or other losses 
+while we typically seek by contract to limit our exposure to damages  it is possible that such limitations might not exist or might not be enforced in the event of a product liability claim 
+moreover  a product liability claim brought against us  even if not successful  would likely be time consuming and costly and could seriously harm our business reputation 
+we are the target of various litigation and regulatory proceedings  which could result in substantial costs  divert management attention and resources  and have a material adverse effect on our results of operations or financial position 
+as described in note of notes to consolidated financial statements  we are a party to various litigation  including class action litigation arising out of our initial public offering in and stockholder derivative actions arising out of allegedly misleading statements about our prospects made between february  and may   which actions were subsequently amended to seek relief on our behalf from certain defendants with respect to our historical stock option practices 
+as described in note of notes to consolidated financial statements  we are the subject of inquiries and investigations conducted by the sec and the us attorney s office for the northern district of california 
+any material litigation and regulatory proceeding inevitably results in the diversion of our management s attention and expenditure of our resources 
+as well  any negative result or publicity could have a material adverse effect on our results of operations and financial condition 
+
+table of contents if the protection of our proprietary technology is inadequate  our competitors may gain access to our technology  and our market share could decline 
+our success is heavily dependent on our ability to create proprietary technology and to protect and enforce our intellectual property rights in that technology  as well as our ability to defend against adverse claims of third parties with respect to our technology and intellectual property 
+to protect our proprietary technology  we rely primarily on a combination of contractual provisions  confidentiality procedures  trade secrets  copyright and trademark laws  and patents 
+despite our efforts to protect our proprietary rights  unauthorized parties may attempt to copy aspects of our products or obtain and use information that we regard as proprietary 
+policing unauthorized use of our products is difficult 
+in addition  the laws of some foreign countries do not protect our proprietary rights to as great an extent as do the laws of the united states 
+our means of protecting our proprietary rights may not be adequate and unauthorized third parties  including our competitors  may independently develop similar or superior technology  duplicate or reverse engineer aspects of our products  or design around our patented technology or other intellectual property 
+as of april   we had issued us patents  pending us patent applications provisional and non provisional  and pending foreign patent application 
+there can be no assurance that any of our pending patent applications will issue or that the patent examination process will not result in our narrowing the claims applied for 
+furthermore  there can be no assurance that we will be able to detect any infringement of our existing or future patents if any or  if infringement is detected  that our patents will be enforceable or that any damages awarded to us will be sufficient to adequately compensate us 
+there can be no assurance or guarantee that any products  services or technologies that we are presently developing  or will develop in the future  will result in intellectual property that is subject to legal protection under the laws of the united states or a foreign jurisdiction and that produces a competitive advantage for us 
+third parties could assert that our products infringe their intellectual property rights 
+third parties have in the past and may in the future claim that our current or future products infringe their intellectual property rights  and these claims  even if without merit  could harm our business by increasing our costs  reducing our net revenue or by creating customer concerns that result in reduced sales 
+this is particularly true in the patent area  as an increasing number of us patents covering computer networking and internet technology have been issued in recent years 
+patent owners  including those that do not commercially manufacture or sell products  may claim that one or more of our products infringes a patent they own 
+for example  on or about april   realtime data  llc d b a ixo filed a patent infringement lawsuit against packeteer  inc  a company we acquired on june   and subsequently amended the complaint and named us as a defendant on june   see note in the consolidated financial statements 
+we expect that companies in the internet and networking industries will increasingly be subject to infringement claims as the number of products and competitors in our industry segment grows and the functionality of products in different industry segments overlaps 
+any such claims could be time consuming  result in costly litigation  cause product shipment delays or require us to enter into royalty or licensing agreements 
+royalty or licensing agreements  if required  may not be available on terms acceptable to us or at all  which could seriously harm our business 
+the market price of our stock is volatile  and is likely to be volatile in the future 
+since our initial public offering  the market price of our common stock has experienced significant fluctuations and is likely to continue to fluctuate significantly 
+such volatility in the trading price of our stock can occur in response to general market conditions  changes in the it or technology market generally or changes in the specific markets in which we operate  and cause an increase or decline in our stock price without regard to our operating performance 
+the market price of our common stock could decline quickly and significantly if we 
+table of contents fail to achieve our guidance or if our performance fails to meet the expectation of public market analysts or investors 
+the market price of our common stock may fluctuate significantly in response to the following factors  among others variations in our quarterly operating results  changes in financial estimates or investment recommendations by securities analysts  changes in macroeconomic conditions  the introduction of new products by our competitors  our ability to keep pace with changing technological requirements  changes in market valuations of internet related and networking companies  announcements by us or our competitors of significant contracts  acquisitions  strategic partnerships  joint ventures or capital commitments  loss of a major customer  additions or departures of key personnel  fluctuations in stock market volumes  investor confidence in our stock  technology stocks and the stock market in general  speculation in the press or investment communication about our strategic position  financial condition  results of operations  or business  significant transactions  and regulatory or litigation matters 
+it is not uncommon for securities class actions or other litigation to be brought against a company after periods of volatility in the market price of a company s stock  and we have been subject to such litigation in the past 
+such actions could result in management distraction and expense and  further  result in a decline in our stock price 
+we are subject to governmental export and import controls that could subject us to liability or impair our ability to compete in international markets 
+our products are subject to us export controls and may be exported outside the us only with the required level of export license or under an export license exception  because we incorporate encryption technology into our products 
+in addition  various countries regulate the import of certain encryption technology and have enacted laws that could limit our ability to distribute our products or could limit our customers ability to implement our products in those countries 
+changes in our products or changes in export and import regulations may create delays in the introduction of our products in international markets  prevent our customers with international operations from deploying our products globally or  in some cases  prevent the export or import of our products to certain countries altogether 
+any change in export or import regulations or related legislation  shift in the enforcement or scope of existing regulations  or change in the countries  persons or technologies targeted by such regulations  could result in decreased use of our products by  or in our decreased ability to export or sell our products to  existing or potential customers with international operations 
+any decreased use of our products or limitation on our ability to export or sell our products would likely adversely affect our business  financial condition and operating results 
+
+table of contents our operations could be significantly hindered by the occurrence of a natural disaster  terrorist attack or other catastrophic event 
+our business operations are susceptible to outages due to fire  floods  power loss  telecommunications failures  terrorist attacks and other events beyond our control 
+in addition  a substantial portion of our facilities  including our headquarters  are located in northern california  an area susceptible to earthquakes 
+we do not carry earthquake insurance for earthquake related losses 
+despite our implementation of network security measures  our servers are vulnerable to computer viruses  break ins  and similar disruptions from unauthorized tampering with our computer systems 
+we may not carry sufficient business interruption insurance to compensate us for losses that may occur as a result of any of these events 
+to the extent that such events disrupt our business or adversely impact our reputation  such events could adversely affect our operating results and financial condition 
+the legal environment in which we operate is uncertain and claims against us could cause our business to suffer 
+our products operate in part by storing material available on the internet and making this material available to end users from our appliance 
+as well  our appliance may be used to block content from being accessed 
+this creates the potential for claims to be made against us  either directly or through contractual indemnification provisions with our customers  for defamation  negligence  intellectual property infringement  personal injury  censorship  invasion of privacy or other legal theories based on the nature  content  copying or modification of this content 
+as of april   we have not accrued any liabilities relating to indemnification provisions with our customers 
+it is also possible that if any information provided through any of our products contains errors  third parties could make claims against us for losses incurred in reliance on this information 
+our insurance may not cover potential claims of this type or be adequate to protect us from all liability that may be imposed 
+item b 
+unresolved staff comments none 
+item properties we are headquartered in sunnyvale  california  where we lease two buildings consisting of an aggregate of approximately  square feet of office space pursuant to leases effective through november the second building was leased subsequent to our fiscal year end under a first amendment to lease  which added the additional premises and extended the term of the lease 
+as a result of our acquisition of packeteer subsequent to our fiscal year end  we also lease an administrative office consisting of approximately  square feet in cupertino  california  under a lease expiring in december we also lease space for research and development in draper  utah  austin  texas  waterloo  ontario in canada  and riga  latvia 
+in addition  we lease space for sales and support in several metropolitan areas in north america and in several other countries outside the united states 
+we believe that our existing facilities are adequate to meet our current requirements  and that suitable additional or substitute space will be available  if necessary 
+item legal proceedings the information set forth under note of notes to consolidated financial statements  included in part ii  item of this report  is incorporated herein by reference 
+for an additional discussion of certain risks associated with legal proceedings  see the section entitled risk factors in item a of this report 
+item submission of matters to a vote of security holders none 
+
+table of contents part ii 
+item market for registrant s common equity  related stockholder matters and issuer purchases of equity securities price range of common stock our common stock has been quoted on the nasdaq stock market since november   and we are currently traded under the symbol bcsi 
+the following table sets forth  for the periods indicated  the high and low closing prices of our common stock as reported on the nasdaq stock market 
+high low for the year ended april  first quarter second quarter third quarter fourth quarter for the year ended april  first quarter second quarter third quarter fourth quarter at april   there were stockholders of record and the price of our common stock was 
+we believe that a significant number of beneficial owners of our common stock hold shares in street name 
+dividend policy our present policy is to retain earnings  if any  to finance future growth 
+we have never paid cash dividends and have no present intention to pay cash dividends 
+
+table of contents stock performance graph the following graph compares the cumulative five year total return provided shareholders on our common stock relative to the cumulative total returns of the nasdaq composite index and the nasdaq computer manufacturers index 
+an investment of with reinvestment of all dividends is assumed to have been made in our common stock and in each of the indexes on april  and its relative performance is tracked through april  logo blue coat systems  inc nasdaq composite nasdaq computer manufacturers the stock price performance included in this graph is not necessarily indicative of future stock price performance 
+
+table of contents sale of convertible notes and warrants on april   we entered into a note purchase agreement the note purchase agreement pursuant to which we agreed to sell million aggregate principal amount of zero coupon convertible senior notes due the notes and warrants the warrants to purchase an aggregate of  shares of common stock of blue coat at an exercise price of to manchester securities corp 
+manchester and francisco partners ii  lp fp in a private placement 
+the notes do not bear interest 
+on june   the notes and the warrants were issued to manchester  fp and an entity affiliated with fp collectively  the purchasers 
+we offered and sold the notes and the warrants to the purchasers in reliance on the exemption from registration provided by section of the securities act 
+we relied on this exemption from registration based in part on representations made by the purchasers in the note purchase agreement 
+significant rights and obligations of the purchasers and holders of the notes holders are as follows conversion feature 
+the notes are initially convertible into  shares of blue coat s common stock at the holders option at any time prior to maturity at the initial conversion price of 
+senior debt 
+the notes rank equal in right of payment to all of blue coat s other existing and future senior unsecured indebtedness 
+put right 
+the notes provide that if our common stock is suspended from trading or ceases to be listed on an eligible market for a period of five consecutive trading days or for more than an aggregate of fifteen trading days in any day period  a holder may require us to repurchase for cash all or a portion of the note at a purchase price equal to the principal amount of the note  plus any late fees 
+registration rights 
+on june   pursuant to the note purchase agreement  we entered into a registration rights agreement with fp and an entity affiliated with fp  which contained customary terms and conditions and provided for the registration of our common stock underlying the notes and warrants issued to fp and the entity affiliated with fp 
+sales of series a redeemable convertible preferred stock on june   we sold an aggregate of million of series a preferred redeemable convertible stock series a preferred stock to entities affiliated with francisco partners and sequoia capital growth 
+the aggregate proceeds were reduced by million of transactional costs  resulting in net proceeds of million 
+the financing consisted of  shares of our series a preferred stock 
+during september  the  shares of series a redeemable convertible preferred stock were converted into million shares of our common stock 
+the conversions were exempt from registration under section a of the securities act of the conversion price of each share of series a redeemable convertible preferred stock was per share  such that the conversion rate of the series a redeemable convertible preferred stock was approximately to the conversions resulted in a million reduction of series a redeemable convertible preferred stock  a million increase in interest expense attributable to unamortized issuance costs  and a million increase in stockholders equity 
+on november   we filed a certificate of elimination of series a preferred stock with the delaware secretary of state to eliminate the series a preferred stock  as no shares of such series remained outstanding 
+significant rights and obligations of the series a preferred stock were as follows conversion feature 
+the  shares of series a preferred stock were initially convertible at the option of the holders into approximately million shares of our common stock 
+the conversion price of each share of series a preferred stock was per share  or a conversion rate of approximately to each share 
+table of contents of series a preferred stock would be automatically converted into shares of common stock at the then effective conversion rate for such share upon the approval of the holders of at least a majority of the then outstanding series a preferred stock 
+redemption features 
+in the event that we did not complete an acquisition  whether by merger  consolidation  the purchase of assets or otherwise  of another entity or of certain assets of another entity  for at least  in cash within days of june  the closing date  the series a preferred stock would have been redeemable at the option of either the holder or us during a day period thereafter 
+this condition was satisfied with our acquisition of certain assets of the netcache business from network appliance on september  the series a preferred stock matured six years from the issuance and we would have been required to redeem the series a preferred stock at that time 
+the redemption price is the price paid plus an amount equal to declared but unpaid dividends 
+liquidation preference 
+upon liquidation of our business  the holders of series a preferred stock would have been entitled to be paid an amount equal to the price paid  plus an amount equal to declared but unpaid dividends  before we made any distribution to the holders of any other class of stock that is junior in ranking  including our common stock 
+voting rights 
+each holder of series a preferred stock was entitled to that number of votes equal to the number of shares of common stock into which the shares of series a preferred stock held by such holder could be converted as of the record date 
+the holders of shares of series a preferred stock were entitled to vote on all matters on which the holders of the common stock were entitled to vote 
+in addition  until june   the holders of at least a majority of the then outstanding series a preferred stock  voting as a separate class  were entitled to elect one director to the board of directors at each meeting of  or pursuant to each consent of  our stockholders for the election of directors 
+dividends 
+the series a preferred stock participated equally with the holders of common stock in all dividends paid on the common stock  when  as and if declared by the board of directors  out of funds legally available  as if such shares of series a preferred stock had been converted to shares of common stock immediately prior to the record date for the payment of such dividend 
+no dividends were declared during such time as the series a preferred stock existed 
+purchases of equity securities by the issuer and affiliated purchasers none 
+
+table of contents item selected consolidated financial data the following tables set forth our selected consolidated balance sheet data as of april      and our statement of operations data for each of the five years ended april  the selected consolidated financial statement data include the results of operations of acquired businesses commencing on their respective acquisition dates 
+the tables below should be read in conjunction with  and are qualified by reference to  management s discussion and analysis of financial condition and results of operations and our consolidated financial statements and related notes  which are included in this form k 
+except for per share information  amounts reported below are in thousands 
+year ended april  consolidated statements of operations net revenue product service total net revenue cost of net revenue product service total cost of net revenue gross profit operating expenses research and development sales and marketing general and administrative in process technology amortization of intangible assets restructuring reversal legal settlement total operating expense operating income loss interest income other income expense income loss before income taxes provision benefit for income taxes net income loss net income loss per common share basic diluted weighted average shares used in computing net income loss per common share basic diluted 
+table of contents as of april  consolidated balance sheet data cash  cash equivalents and short term investments investment in packeteer  inc working capital total assets series a redeemable convertible preferred stock other long term liabilities total stockholders equity includes stock based compensation expense 
+acquired in process technology relates to certain research and development projects assumed in the permeo and ositis acquisitions in fiscal and fiscal  respectively  that had not yet reached technological feasibility and were deemed to have no alternative future use 
+amortization of intangible assets relates to identifiable intangible assets obtained through the netcache  permeo  cerberian and ositis acquisitions on september   march   november  and november   respectively 
+restructuring expenses in fiscal included costs associated with severance  abandoned lease space  and other charges 
+reversal of restructuring reserves in fiscal  and resulted from reductions in the estimated costs required to restore leased facilities to the condition stipulated in the related lease agreements 
+the following table presents details of the total stock based compensation expense that is included in each functional line item in the consolidated statements of operations above year ended april  supplementary data on stock based compensation reversal cost of product cost of service research and development sales and marketing general and administrative total stock based compensation amounts included in and reflect the adoption of statement of financial accounting standards sfas no 
+r  share based payment  which was effective for us on may  
+table of contents item management s discussion and analysis of financial condition and results of operations this annual report on form k  and other materials accompanying this annual report on form k contain forward looking statements within the meaning of section a of the securities act of and section e of the securities exchange act of these statements relate to our future plans  objectives  expectations  intentions and financial performance and the assumptions that underlie these statements 
+these forward looking statements include  but are not limited to  statements concerning the following expectations with respect to future market growth opportunities  changes in and expectations with respect to revenues and gross margins  future operating expense levels  the impact of quarterly fluctuations of revenue and operating results  our ability to achieve expected levels of revenues and profit contributions from acquired businesses  the impact of macroeconomic conditions on our business  the adequacy of our capital resources to fund operations and growth  investments or potential investments in acquired businesses and technologies  including our recent acquisition of packeteer  inc as well as internally developed technologies  the expansion and effectiveness of our direct and indirect sales forces and marketing activities  the recording of amortization of acquired technology and stock based compensation  the impact of recent changes in accounting standards and assumptions underlying any of the foregoing 
+in some cases  forward looking statements are identified by the use of terminology such as anticipate  expect  intend  plan  predict  believe  estimate  may  will  should  would  could  potential  continue  ongoing  or negatives or derivatives of the foregoing  or other comparable terminology 
+the forward looking statements in this annual report on form k involve known and unknown risks  uncertainties and other factors that may cause industry and market trends  or our actual results  level of activity  performance or achievements  to be materially different from any future trends  results  level of activity  performance or achievements expressed or implied by these statements 
+for a detailed discussion of these risks  uncertainties and other factors  see the risk factors section in item a of this annual report on form k 
+we undertake no obligation to revise or update forward looking statements to reflect new information or events or circumstances occurring after the date of this annual report on form k  except as required by applicable law 
+overview we sell a family of proxy appliances and related software and services 
+proxy appliances are computer hardware devices that  together with internal software  secure  accelerate and control the delivery of business applications and other information over a wan or across an enterprise s internet gateway  where its local computer network links to the public internet 
+our goal is to provide intelligent application delivery solutions to optimize the flow of information throughout an enterprise  without compromising the integrity of that information 
+when we first introduced our proxy appliances with wan acceleration capability in fiscal  we anticipated that the market for web security and wan acceleration products  each of which was then viewed as a separate market  would converge in the future 
+we believed that it departments would be required to manage both functions and would select a single solution  where it met appropriate criteria 
+idc  a leading information and technology research and advisory firm  defines that converged web security market and wan acceleration market as the wan application delivery market 
+we have increasingly seen the anticipated convergence of web security and wan acceleration and optimization  such that now many of our customers that purchase our products for their wan acceleration and optimization capability are also implementing our web security functionality 
+similarly  our web security customers are also implementing our wan acceleration and optimization capabilities 
+we believe that enterprises are being driven by the need to centralize their it operations  while simultaneously managing mobile employees and remote locations and dealing with global business needs and requirements 
+these trends  together with new types of applications such as remotely hosted software as a service and web applications  should create demand for the application delivery network that we envision and upon which we are focusing 
+table of contents development of our products 
+this network layer would monitor and control all information flowing between the communications network and the application servers and end users that it serves 
+we continue to monitor domestic and global macroeconomic conditions  and their actual and anticipated impact on it spending  including on spending for proxy appliances 
+in the fourth quarter of fiscal  we had certain large sales transactions that failed to close  particularly in the us we believe that these largely were delays  resulting from increased scrutiny of spending decisions  and that these sales opportunities will continue to be available to us 
+we have observed a lengthening of our average sales cycle  which means that sales take longer to close 
+in light of the difficult us market and economic environment  we recently have been focusing more of our sales and marketing efforts on international transactions  and anticipate that a greater proportion of our revenue will be derived from such transactions in the near term  provided such markets do not suffer a material decline in it spending 
+we track financial metrics  including net revenue  operating margin  deferred revenue  cash flow from operations  and cash position  as key measures of our business performance 
+net revenue net revenue  which includes both product revenue and service revenue  increased to million in fiscal from million in fiscal  an increase of 
+our product revenue  consisting of sales of our proxy appliances and perpetual licenses to our blue coat webfilter product  was million in fiscal this was an increase of compared with product revenue in fiscal we recognized million in service revenue in fiscal  a increase compared with service revenue recognized in fiscal operating margin in fiscal  our operating income increased to million from an operating loss of million in fiscal our operating results during the year benefited from a decrease in our operating expenses as a percentage of revenue when compared with the prior year 
+total operating expenses increased to million during fiscal from million in fiscal  which was largely attributable to our continued investment in headcount to expand our sales force and marketing functions 
+total operating expenses declined to of net revenue in fiscal compared with of net revenue in fiscal deferred revenue net deferred revenue was million at april  compared with million at april  the increase was attributable to both an increase in the sales of new maintenance and renewal contracts to our customers and an increased level of inventory held by our stocking distributors 
+this increase was partially offset by the continued amortization of subscription based revenue associated with our blue coat web filter product  which was sold on a subscription basis until november cash flow from operations and cash position during fiscal  we generated cash flow from operations of million  compared with million generated during fiscal our cash  restricted cash and short term investments were million at the end of fiscal  compared with million at the previous fiscal year end of april  on august   our board of directors approved a two for one forward stock split of our common stock 
+the stock split was effected by the issuance of a stock dividend of one share of our common stock for each share of our common stock issued and outstanding as of the record date of september  the split adjusted stock began trading on the nasdaq global market on october  our stock currently trades on the nasdaq global select market 
+all share numbers in this document reflect our capital structure as of the end of the fiscal year and are therefore on a post split basis 
+shares authorized and par value were not adjusted as they were not affected by the stock split 
+
+table of contents packeteer acquisition on june   after the close of fiscal  we acquired packeteer  inc packeteer  a pioneer in delivering sophisticated wan traffic prioritization through the development and sale of application classification and performance management technologies and products 
+we believe that acquiring packeteer will accelerate our ability to offer a comprehensive platform to address the application delivery and security challenges confronting today s distributed enterprise 
+we intend to continue to sell the packetshaper  intelligence center and policy center products formerly offered by packeteer and to rebrand them as blue coat products 
+we also intend to enhance the technologies developed and owned by packeteer and to integrate them into our current and future products 
+the acquisition of packeteer should provide us with increased sales resources  through the addition of packeteer sales teams and channels  additional revenue  through sales of the additional products  and added cost efficiencies that result from scaling our business 
+our acquisition of packeteer was effected through a tender offer  followed by a merger of our wholly owned subsidiary into packeteer 
+as a result of the transaction  packeteer became our wholly owned subsidiary and each outstanding share of packeteer that was not tendered in the tender offer other than restricted shares  shares already held by us  packeteer or our respective wholly owned subsidiaries  or shares held by stockholders who properly perfect appraisal rights under delaware law was converted into the right to receive per share in cash 
+the aggregate purchase price  which has not yet been determined  will consist of million in cash paid for packeteer s common stock  plus the value of assumed stock options and direct transaction costs 
+to date  the acquisition has been funded by approximately million in cash from internal sources and million in cash from the issuance of convertible notes 
+on april   we entered into a note purchase agreement  pursuant to which we agreed to sell million of zero coupon convertible senior notes due and warrants to purchase shares of our common stock to manchester securities corp 
+manchester and  francisco partners ii  lp fp in a private placement 
+the notes and the warrants were issued to manchester  fp and an affiliate of fp the purchasers on june   following the expiration of the initial offering period of our tender offer 
+the notes do not bear interest  and are convertible into shares of our common stock at the initial conversion price of  which represents a conversion premium based on the closing price of our common stock on april  the warrants permit the purchasers to purchase an aggregate of  shares of our common stock at an exercise price of 
+the warrants expire in june we used the proceeds from the private placement to partially fund the acquisition of packeteer 
+the operations of packeteer and blue coat will be reported on a combined basis commencing with our financial statements for the quarter ending july  critical accounting policies and estimates our discussion and analysis of financial condition and results of operations is based upon our consolidated financial statements  which have been prepared in accordance with accounting principles generally accepted in the united states 
+the preparation of our consolidated financial statements requires us to make estimates and judgments that affect the reported amounts of assets  liabilities  net revenue and expenses  and related disclosure of contingent assets and liabilities 
+on an ongoing basis  we evaluate our estimates  including those related to revenue recognition and related allowance for doubtful accounts  stock based compensation  valuation of inventories  valuation of goodwill  valuation of long lived and identifiable intangible assets and income taxes 
+we base our estimates on historical experience and various other assumptions that are believed to be reasonable under the circumstances  the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources 
+actual results may differ from these estimates under different assumptions or conditions  and such differences could be material 
+
+table of contents we have discussed the development and selection of critical accounting policies and estimates with our audit committee 
+we believe the accounting policies described below are those that most frequently require us to make estimates and judgments that materially affect our financial statements  and therefore are critical to the understanding of our financial condition and results of operations revenue recognition and allowance for doubtful accounts stock based compensation valuation of inventories valuation of goodwill valuation of long lived and identifiable intangible assets income taxes revenue recognition and allowance for doubtful accounts our products include software that is essential to the functionality of the appliances 
+additionally  we provide unspecified software upgrades and enhancements related to the appliances through our maintenance contracts for most of our products 
+accordingly  we account for revenue in accordance with sop no 
+ and all related interpretations 
+we recognize revenue when all of the following criteria are met when persuasive evidence of an arrangement exists  delivery or performance has occurred  the sales price is fixed or determinable and collectibility is reasonably assured 
+however  determining whether and when some of these criteria have been satisfied often involves assumptions and judgments that can have a significant impact on the timing and amount of revenue we recognize 
+we define each of the four criteria above as follows persuasive evidence of an arrangement exists 
+evidence of an arrangement generally consists of customer purchase orders and  in certain instances  sales contracts or agreements 
+delivery or performance has occurred 
+shipping terms and related documents  or written evidence of customer acceptance  when applicable  are used to verify delivery or performance 
+most of our sales are made through distributors under agreements allowing for certain stock rotation rights 
+net revenue and the related cost of net revenue resulting from shipments to distributors are deferred until the distributors report that our products have been sold to a customer 
+product revenue in china is deferred until the customer registers the proxy appliance 
+for sales made direct to end users and value added resellers  we recognize product revenue upon transfer of title and risk of loss  which generally is upon shipment 
+we do not accept orders from these value added resellers when we are aware that the value added reseller does not have an order from an end user customer 
+we do not have significant obligations for future performance  such as rights of return or pricing credits  associated with sales to end users and value added resellers 
+the sales price is fixed or determinable 
+we assess whether the sales price is fixed or determinable based on payment terms and whether the sales price is subject to refund or adjustment 
+collectibility is reasonably assured 
+probability of collection is assessed on a customer by customer basis 
+our customers are subjected to a credit review process that evaluates the customers financial condition and ability to pay for our products and services 
+if it is determined from the outset of an arrangement that collection is not probable based upon the review process  revenue is not recognized until cash receipt 
+for products in an arrangement that includes multiple elements  such as appliances  maintenance  content filtering software or anti virus software  we use the residual method to recognize revenue for the delivered 
+table of contents elements 
+under the residual method  the amount of revenue allocated to delivered elements equals the total arrangement consideration less the aggregate fair value of any undelivered elements  provided that vendor specific objective evidence vsoe exists for all undelivered elements 
+vsoe of fair value is based on the price charged when the element is sold separately 
+we analyze our stand alone maintenance renewals by sales channel and geography strata 
+we determine the vsoe of fair value for maintenance by analyzing our stand alone maintenance renewals noting that a substantial majority of transactions fall within a narrow range for each stratum 
+in limited cases  vendor specific objective evidence of fair value is based on management determined prices 
+if evidence of the fair value of one or more undelivered elements does not exist  all revenue is generally deferred and recognized at the earlier of when delivery of those elements occurs or when fair value can be established for the remaining undelivered elements 
+when vsoe of fair value cannot be determined for an undelivered element  revenue for the entire arrangement is recognized ratably over the maintenance or subscription period 
+maintenance and subscription revenue is initially deferred and recognized ratably over the life of the contract  with the related expenses recognized as incurred 
+maintenance and subscription contracts usually have a term of one to three years 
+unearned maintenance and subscription revenue is included in deferred revenue 
+all shipping costs are charged to cost of net revenue 
+when we bill customers for shipping  we record the invoice amount for shipping costs in net revenue 
+we perform ongoing credit evaluations of our customers financial condition and maintain an allowance for doubtful accounts 
+we analyze accounts receivable and historical bad debts  customer concentrations  customer solvency  current economic and geographic trends  and changes in customer payment terms and practices when evaluating the adequacy of such allowance  and any required changes in the allowance are recorded to general and administrative expense 
+we write off accounts receivable when they are deemed uncollectible 
+stock based compensation effective may   we adopted the fair value recognition provisions of sfas no 
+r using the modified prospective transition method 
+under that transition method  compensation expenses recognized beginning on that date include a compensation expense for all share based payments granted prior to  but not yet vested as of may   based on the grant date fair value estimated in accordance with the original provisions of sfas no 
+ and b compensation expense for all share based payments granted on or after may   based on the grant date fair value estimated in accordance with the provisions of sfas no 
+r 
+because we elected to use the modified prospective transition method  results for prior periods have not been restated 
+we estimate the fair value of options granted using the black scholes option valuation model 
+we estimate the expected term of options granted based on our historical experience of grants  exercises and post vesting cancellations 
+we estimate the volatility of our stock options at the date of grant using a combination of historical and implied volatilities  consistent with sfas no 
+r and sab no 
+we base the risk free rate that we use in the black scholes option valuation model on the implied yield in effect at the time of option grant based on us treasury zero coupon issues with a remaining term equivalent to the expected term of our option grants 
+we have never paid any cash dividends on our common stock and we do not anticipate paying any cash dividends in the foreseeable future 
+consequently  we use an expected dividend yield of zero in the black scholes option valuation model 
+stock based compensation expense under sfas no 
+r is based on awards ultimately expected to vest  which requires us to estimate forfeitures at the time of grant and revise those estimates in subsequent periods if actual forfeitures differ from those estimates 
+we estimated our forfeiture rate at based on an analysis of historical pre vesting forfeitures  and have reduced stock based compensation expense accordingly 
+for options granted before may   we amortize the fair value on a graded basis 
+for options granted on or after may   we amortize the fair value on a straight line basis 
+the fair value of all options are amortized over the requisite service periods of the awards  which are generally the vesting periods 
+we may elect to use different assumptions under the black scholes option valuation model in the future  which could materially affect our net income or loss and net income or loss per share 
+
+table of contents valuation of inventories inventories consist of raw materials and finished goods 
+inventories are recorded at the lower of cost  using the first in  first out method  or market after appropriate consideration has been given to obsolescence and inventory in excess of anticipated future demand 
+in assessing the ultimate recoverability of inventories  we are required to make estimates regarding future customer demand and market conditions 
+valuation of goodwill we perform annual goodwill impairment tests in accordance with fasb sfas no 
+ goodwill and other intangible assets  during our fourth fiscal quarter  or whenever events or changes in circumstances indicate that the carrying amount of goodwill may not be recoverable 
+the first step of the test identifies whether potential impairment may have occurred  while the second step of the test measures the amount of the impairment  if any 
+impairment is recognized when the carrying amount of goodwill exceeds its fair value 
+the process of evaluating the potential impairment of goodwill is highly subjective and requires significant judgment 
+for purposes of the annual impairment test  we consider our market capitalization on the date of the impairment test since we have only one reporting unit 
+we performed our recurring annual review of goodwill in the fourth quarter of fiscal and concluded that no impairment existed at the end of our fiscal year valuation of long lived and identifiable intangible assets we periodically evaluate potential impairments of our long lived assets  including identifiable intangible assets  in accordance with fasb sfas no 
+ accounting for the impairment or disposal of long lived assets 
+we evaluate long lived assets  including identifiable intangible assets  for impairment whenever events or changes in circumstances indicate that the carrying amount of the assets may not be recoverable 
+events or changes in circumstances that could result in an impairment review include  but are not limited to  significant underperformance relative to historical or projected future operating results  significant changes in the manner of use of the acquired assets or the strategy for our overall business and significant negative industry or economic trends 
+the process of evaluating the potential impairment of long lived assets is subjective and requires significant judgment 
+variances in our assumptions could have a significant impact on our conclusions as to whether an asset is impaired or the amount of the impairment charge 
+impairment is recognized when the carrying amount of an asset exceeds its fair value as calculated on a discounted cash flow basis 
+income taxes we use the liability method to account for income taxes as required by sfas no 
+ accounting for income taxes 
+as part of the process of preparing our consolidated financial statements  we are required to estimate income taxes in each of the jurisdictions in which we operate 
+this process involves determining our income tax expense together with calculating the deferred income tax expense related to temporary difference resulting from the differing treatment of items for tax and accounting purposes  such as deferred revenue or deductibility of certain intangible assets 
+these temporary differences result in deferred tax assets or liabilities  which are included within the consolidated balance sheets 
+on may   we adopted financial accounting standards board interpretation no 
+accounting for uncertainty in income taxes fin  issued in june fin prescribes a recognition threshold that a tax position is required to meet before being recognized in the financial statements and provides guidance on derecognition  measurement  classification  interest and penalties  accounting in interim periods  disclosure and transition issues 
+see note income taxes for additional information 
+we record a valuation allowance to reduce our deferred tax assets to an amount that we estimate is more likely than not to be realized 
+we consider estimated future taxable income and prudent tax planning strategies in determining the need for a valuation allowance 
+when we determine that it is more likely than not that some or all of our tax attributes will be realizable by either refundable income taxes or future taxable income  the 
+table of contents valuation allowance will be reduced and the related tax impact will be recorded to the provision in that quarter 
+likewise  should we determine that we are not likely to realize all or part of our deferred tax assets in the future  an increase to the valuation allowance would be recorded to the provision in the period such determination was made 
+results of operations net revenue the following is a summary of net revenue and the changes in net revenue by fiscal year dollars in thousands year ended april  total net revenue change from prior year change from prior year demand for our products and related services continued to be strong in fiscal  with net revenue increasing by to million as compared to million in fiscal the growth in net revenue from fiscal to fiscal is attributable to the following factors continued market acceptance of our products  including the renewal of service contracts from our expanding installed base  demand generated from our expansion into the wan application delivery market  and increased sales and marketing efforts to broaden our market presence and expand our distribution channels 
+service revenue increased in fiscal as compared to the prior year as a result of new service contracts sold with our appliances in fiscal coupled with revenue recognized in the current year from service contracts sold with our appliances in prior years 
+net revenue increased by to million in fiscal from million in fiscal the growth in net revenue from fiscal to fiscal was primarily attributable to continued market acceptance of our products  including the renewal of service contracts from our expanding installed base  coupled with investments in our sales and marketing organizations 
+alternative data technology  inc a distributor accounted for of our net revenue during the fiscal year computerlinks ag a distributor accounted for of our net revenue during fiscal westcon group  inc a distributor accounted for and of our net revenue during the fiscal years and  respectively 
+as of april  and  no customer accounted for more than of gross accounts receivable 
+the following is a summary of net revenue by geographic area dollars in thousands year ended april  north america emea latam apac total net revenue europe  middle east  and africa emea central america and latin america latam asia and pacific regions apac 
+table of contents on a geographic basis  revenue in north america increased million in fiscal  up from fiscal  net revenue in north america increased million in fiscal  up from fiscal the year over year increases in net revenue in north america for both fiscal and were primarily related to increased demand for our wan application delivery products and a larger installed base of customers 
+revenues from outside of north america continued to be a significant part of our revenue mix 
+for the fiscal years  and  approximately  and  respectively  of our total net revenue were derived from customers outside of north america 
+net revenue in europe  middle east  and africa emea increased million in fiscal  up from fiscal net revenue in emea increased million in fiscal  up from fiscal the year over year increases in net revenue in emea for both fiscal and were primarily related to investments in our sales and marketing organizations in the region and broader market acceptance of our products  coupled with continued leverage from our channel distribution model 
+net revenue in central america and latin america latam increased million in fiscal  up from fiscal  due to a focused effort to develop the business through investment in sales and marketing personnel and activities 
+net revenue in latam increased million in fiscal from fiscal net revenue in the asia and pacific region apac increased million in fiscal  up from fiscal net revenue in asia increased million in fiscal  up from fiscal the year over year increases in net revenue in asia for both fiscal and were a result of increased demand for our products and related services  as well as increased investment in our sales and marketing organization in apac 
+gross profit the following is a summary of gross profit by fiscal year dollars in thousands year ended april  gross profit gross profit as a percentage of net revenue includes stock based compensation expense 
+for a further discussion of stock based compensation expense  see the section entitled stock based compensation expense below 
+gross profit increased million  or  to million in fiscal from million in fiscal  which was consistent with the increase in net revenue 
+as a percentage of net revenue  gross profit in fiscal increased to from in fiscal  primarily due to more favorable product pricing  a product mix favoring higher margin products such as blue coat webfilter  and higher overall revenue resulting in more effective leverage on fixed product costs  partially offset by higher royalty expense 
+gross profit increased million  or  to million in fiscal from million in fiscal  primarily due to higher net revenue 
+gross profit as a percent of net revenue increased to in fiscal from in fiscal  which was primarily attributable to product price increases and increased absorption of fixed manufacturing and service costs resulting from the increase in net revenue 
+
+table of contents research and development the following is a summary of research and development expense by fiscal year dollars in thousands year ended april  research and development research and development as a percentage of net revenue includes stock based compensation expense 
+for a further discussion of stock based compensation expense  see the section entitled stock based compensation expense below 
+research and development expense consists primarily of salaries and benefits  prototype costs  and testing equipment costs 
+research and development expense increased million in fiscal the increase in research and development expense from the prior year is largely attributable to an million increase in salaries and benefits as a result of higher headcount 
+the increase was also partially attributable to stock based compensation expense of million recorded under sfas no 
+r in fiscal  as compared to million recorded in fiscal research and development expense increased million in fiscal the increase in research and development expense primarily resulted from higher expenditures on development of our wan application delivery products and an increase in stock based compensation expense of million 
+research and development headcount was at april   at april   and at april  we believe that continued investment in product enhancements and new product development is critical to achieving our strategic objectives 
+as a result  we expect research and development expense to continue to increase in absolute dollars 
+sales and marketing the following is a summary of sales and marketing expense by fiscal year dollars in thousands year ended april  sales and marketing sales and marketing as a percentage of net revenue includes stock based compensation expense 
+for a further discussion of stock based compensation expense  see the section entitled stock based compensation expense below 
+sales and marketing expense consists primarily of salaries and benefits  commissions  travel  advertising and promotional expenses 
+sales and marketing expense increased million to million in fiscal from million in fiscal sales and marketing expense increased as we continued to expand our sales force and invest in marketing personnel 
+salaries and benefits increased by approximately million as a result of this activity 
+in addition  commission expense increased by million due primarily to the increase in revenue  coupled with more aggressive sales incentives for wan acceleration deployments and further development of emerging markets 
+also contributing to the increase in sales and marketing expense was an increase in stock based compensation expense of million and an increase in advertising of million 
+sales and marketing expense increased million to million in from million in fiscal the increase in sales and marketing expense was primarily attributable to increases in sales personnel  marketing program spending  and volume related expenses such as commission payments and higher travel costs 
+
+table of contents sales and marketing headcount was at april   at april  and at april  we expect sales and marketing expense to increase in absolute dollars because we intend to seek to increase sales in both domestic and international markets  establish and expand new distribution channels  and introduce new products 
+general and administrative the following is a summary of general and administrative expense by fiscal year dollars in thousands year ended april  general and administrative general and administrative as a percentage of net revenue includes stock based compensation expense resulting 
+for a further discussion of stock based compensation expense  see the section entitled stock based compensation expense below 
+general and administrative expense consists primarily of salaries and benefits  legal services  accounting and audit services  and other general corporate expenses 
+general and administrative expense decreased million to million in fiscal from million in fiscal the decrease was largely attributable to an million decrease in legal and accounting expenses associated with our march restatement  offset by an increase of million in payroll related expenses and million related to stock based compensation 
+general and administrative expense increased million to million in fiscal from million in fiscal the increase in general and administrative expense was largely attributable to the legal  auditing and other professional fees of approximately the increase was also attributable to stock based compensation expense within general and administrative expense increasing to million in fiscal from million in fiscal stock based compensation the following summarizes stock based compensation expense included in the cost classifications in our consolidated statement of operations for fiscal  and  respectively in thousands year ended april  stock based compensation classified in cost of goods sold cost of product cost of service subtotal classified in operating expense research and development sales and marketing general and administrative subtotal total stock based compensation expense amounts included in and reflect the adoption of sfas no 
+r 
+in accordance with the modified prospective transition method  our consolidated statement of income for fiscal has not been restated to reflect  and does not include  the impact of sfas no 
+r 
+
+table of contents restructuring charges as of april   all actions under our february  august  and february restructuring plans were completed 
+the following summarizes the restructuring reversal and changes in restructuring reserve by fiscal year in thousands year ended april  restructuring reversal change in restructuring reversal the following table summarizes activity related to restructuring activity during the three years ended april  in thousands balances as of april  cash payments reversals balances as of april  cash payments reversals balances as of april  cash payments balances as of april  in fiscal and  we reduced the restructuring accrual by  and  respectively  due to decreases in the estimated costs required to restore the leased facilities to the condition stipulated in the related lease agreements 
+acquired in process technology we recorded a non cash charge of million in fiscal for the value of in process technology acquired in the permeo acquisition  which relates to research and development projects that had not yet reached technological feasibility and had no future use in our development activities 
+to establish the value of the in process technology acquired from permeo we used an income approach  which values an asset based on the earnings capacity of such asset considering the future cash flows that could potentially be generated by the asset over its estimated remaining life 
+these cash flows were discounted to their present value using a discount rate of  which is equal to a rate that would theoretically provide sufficient return to a potential investor at an appropriate level of risk 
+the present value of the cash flows over the life of the asset is summed to equal the estimated value of the asset 
+
+table of contents interest income and other expense the following summarizes interest income and other income expense and changes in interest income and other income expense by fiscal year dollars in thousands year ended april  interest income other expense change in interest income change in other income expense interest income increased for the fiscal years ended april   and as a result of higher average cash and investment balances throughout the year 
+other expense consists primarily of foreign currency exchange gains or losses  banking fees  and non recurring gains or losses realized outside our normal course of business 
+in addition  other expense for fiscal  and included payroll taxes and related penalties for the disqualification of stock options caused by the revised measurement dates determined during the investigation of historical stock option granting practices 
+provision for income taxes the following summarizes the provision for income taxes and changes in the provision for income taxes by fiscal year dollars in thousands year ended april  provision benefit for income taxes change in provision change in provision the benefit for income taxes of million for fiscal is primarily related to a partial reversal of a valuation allowance on deferred tax assets that was recorded as a reduction to income tax expense  offset by foreign income taxes and the current tax provision for us and state taxes due primarily from a prepayment of certain intercompany expenses associated with our international tax structure established in fiscal the provision for income taxes of million for fiscal  is primarily related to foreign income taxes currently due  and a deferred tax liability recorded for the tax amortization of goodwill related to the acquisition of the netcache business from network appliance 
+the provision for income taxes of million for fiscal is primarily foreign corporate income taxes 
+we record a valuation allowance to reduce our deferred tax assets to the amount that is more likely than not to be realized in future periods 
+in evaluating our ability to recover our deferred tax assets  we consider all available positive and negative evidence  including operating results  our history of losses and forecasts of future taxable income 
+at april   our projections of future taxable income enabled us to conclude that it is more likely than not that we will have future taxable income sufficient to realize a portion of our net deferred tax asset 
+accordingly  million million of federal and million of state of the valuation allowance on our deferred tax assets was reversed as a credit to the provision for income taxes 
+our conclusion that a portion of our deferred tax assets is more likely than not to be realized is strongly influenced by our projections of future taxable income 
+our estimate of future taxable income considers all available positive and negative evidence regarding our current and future operations  including projections of income in various states and foreign jurisdictions 
+we believe our estimate of future taxable income is reasonable  however  it is inherently uncertain  
+table of contents and if our future operations generate taxable income greater than projected  further adjustments to reduce the valuation allowance are possible 
+conversely  if we realize unforeseen material losses in the future  or our ability to generate future taxable income necessary to realize a portion of the deferred tax asset is materially reduced  additions to the valuation allowance could be recorded 
+at april   the balance of the deferred tax valuation allowance was approximately million 
+as of april   we had net operating loss carryforwards for federal income tax purposes of approximately million  which will expire in fiscal years ending in through if not utilized 
+we also had net operating loss carryforwards for state income tax purposes of approximately million  which will expire in fiscal through if not utilized 
+we also had federal and california research credit carryforwards of approximately million and million respectively 
+the federal credit will expire in fiscal and if not utilized 
+the california credit is not subject to expiration 
+utilization of our net operating loss and credit carryforwards are subject to substantial annual limitations due to the ownership change provisions of the internal revenue code and similar state provisions 
+annual limitations have resulted in the expiration of net operating loss and tax credit carryforwards before utilization of approximately million and million  respectively 
+utilization of federal and state net operating losses of approximately million and million  respectively  as well as 
+million and million of federal and state credits  respectively  are subject to annual limitations ranging from approximately million to million 
+see note income taxes for additional information 
+on may   we adopted financial accounting standards board interpretation no 
+accounting for uncertainty in income taxes fin  issued in june fin applies to all tax positions related to income taxes subject to sfas no 
+under fin we recognize the benefit from a tax position only if it is more likely than not that the position would be sustained upon audit based solely on the technical merits of the tax position 
+as a result of the implementation of fin  we did not recognize a cumulative adjustment to the may  balance of retained earnings as the amount was deemed immaterial 
+the cumulative effect of adoption of fin did not result in a material adjustment to our tax liability for unrecognized income tax benefits 
+we classify interest and penalties related to uncertain tax positions as a component of our provision for income taxes 
+accrued interest relating to the income tax on the unrecognized tax benefits as of may  and april   was approximately  and  respectively  with approximately  being included as a component of provision for income taxes in the year ended april  see note income taxes for additional information 
+acquisitions packeteer  inc on june   after the close of fiscal  we completed the acquisition of packeteer  inc packeteer  a provider of products for wan traffic prioritization and acceleration 
+the transaction was effected through a tender offer  followed by a merger of our wholly owned subsidiary  with and into packeteer 
+as a result of the transaction  packeteer became our wholly owned subsidiary and each outstanding share of packeteer common stock that was not tendered in the tender offer other than restricted shares  shares already held by us  packeteer or our respective wholly owned subsidiaries  or shares held by stockholders who properly perfect appraisal rights under delaware law was converted into the right to receive per share 
+we will pay approximately million in total consideration for the acquisition of packeteer common stock  which includes shares purchased privately on april   shares purchased through the tender offer and payments made as a consequence of the merger 
+we believe that acquiring packeteer will accelerate our ability to offer a comprehensive platform to address the application delivery and security challenges confronting today s distributed enterprise 
+on april   we entered into a note purchase agreement  pursuant to which we agreed to sell million of zero coupon convertible senior notes due and warrants to purchase shares of our common stock to manchester securities corp 
+manchester and francisco partners ii  lp fp in a private 
+table of contents placement 
+the notes and the warrants were issued to manchester  fp and an affiliate of fp the purchasers on june   following the expiration of the initial offering period of our tender offer 
+the notes do not bear interest  and are convertible into shares of our common stock at the initial conversion price of  which represents a conversion premium based on the closing price of our common stock on april  the warrants permit the purchasers to purchase an aggregate of  shares of our common stock at an exercise price of 
+we used the proceeds from the private placement to partially fund the acquisition of packeteer 
+netcache business from network appliance  inc on september   we completed the acquisition of certain assets of the netcache business from network appliance 
+the final consideration for the transaction consisted of million cash consideration  an aggregate of  shares of our common stock valued at million and million in direct transaction costs 
+of the total purchase price  million has been allocated to the intangible assets acquired  with the balance of million allocated to goodwill 
+the netcache business previously provided products to large enterprises to manage internet access and security and control web content and application acceleration 
+netcache was a business unit previously owned by network appliance  inc our primary purpose for acquiring certain assets of the netcache business was to increase our potential customer base through the conversion of existing netcache customers to our proxy appliances 
+permeo technologies  inc on march   we completed the acquisition of permeo  inc permeo 
+the purchase price of million consisted of million in cash consideration  million shares of our common stock valued at million  million in direct transaction costs which had been fully paid as of april   and permeo stock options assumed by us valued at million 
+identifiable intangible assets acquired included developed technology and customer relationships  which are being amortized into cost of revenue product and operating expenses  respectively 
+permeo was a provider of on demand information security  providing a comprehensive remote access and information protection product that secured and extended corporate applications to mobile workers  business partners and customers 
+permeo s operations were assumed as of the date of the acquisition and are included in our results of operations beginning on march  all acquisitions are accounted for as purchases in accordance with sfas no 
+ accounting for business combinations sfas no 
+ accordingly  we allocate the purchase price to the fair value of net tangible and intangible assets acquired  with the excess purchase price allocated to goodwill 
+recent accounting pronouncements in september  the fasb issued sfas no 
+ fair value measurements sfas no 
+
+sfas no 
+provides a framework for measuring fair value  clarifies the definition of fair value  and expands disclosures regarding fair value measurements 
+sfas no 
+does not require any new fair value measurements and eliminates inconsistencies in guidance found in various prior accounting pronouncements 
+we are required to adopt sfas no 
+for our fiscal year beginning may  the adoption of sfas is not expected to have a significant impact on our consolidated financial statements 
+in february  the fasb issued sfas no 
+ the fair value option for financial assets and financial liabilities including an amendment of fasb statement no 
+sfas no 
+
+sfas no 
+allows measurement at fair value of eligible financial assets and liabilities that are not otherwise measured at fair value 
+if the fair value option for an eligible item is elected  unrealized gains and losses for that item will be reported in current earnings at each subsequent reporting date 
+sfas no 
+also establishes presentation and disclosure requirements designed to draw comparison between the different measurement attributes a company elects for similar types of assets and liabilities 
+this statement is effective for our fiscal year beginning may  the adoption of sfas is not expected to have a significant impact on our consolidated financial statements 
+in june  the fasb ratified a consensus opinion reached by the emerging issues task force eitf on eitf issue  accounting for nonrefundable advance payments for goods or services received for use in future research and development activities 
+eitf 
+the guidance in eitf requires us to defer and capitalize nonrefundable advance payments made for goods or services to be used in research and 
+table of contents development activities until the goods have been delivered or the related services have been performed 
+if the goods are no longer expected to be delivered or the services are no longer expected to be performed  we would be required to expense the related capitalized advance payments 
+eitf is effective for fiscal years beginning after december  and is to be applied prospectively to new contracts entered into on or after the commencement of that fiscal year 
+early adoption is not permitted 
+retrospective application of eitf also is not permitted 
+we intend to adopt eitf effective may  and do not expect the pronouncement to have a material effect on our consolidated financial statements 
+in december  the fasb issued sfas no 
+r  business combinations sfas no 
+r 
+sfas no 
+r amends sfas and provides revised guidance for recognizing and measuring identifiable assets and goodwill acquired  liabilities assumed  and any noncontrolling interest in the acquiree 
+it also provides disclosure requirements to enable users of the financial statements to evaluate the nature and financial effects of the business combination 
+sfas no 
+r is effective for fiscal years beginning on or after december  and will be applied prospectively 
+this statement is effective for our fiscal year beginning may  we are currently evaluating the impact of adopting sfas r on our consolidated financial statements 
+in december  the fasb issued sfas no 
+ noncontrolling interests in consolidated financial statements an amendment of accounting research bulletin no 
+sfas no 
+
+sfas establishes accounting and reporting standards for ownership interests in subsidiaries held by parties other than the parent  the amount of consolidated net income attributable to the parent and to the noncontrolling interest  changes in a parent s ownership interest and the valuation of retained noncontrolling equity investments when a subsidiary is deconsolidated 
+sfas also establishes disclosure requirements that clearly identify and distinguish between the interests of the parent and the interests of the noncontrolling owners 
+sfas no 
+is effective for fiscal years beginning on or after december  this statement is effective for our fiscal year beginning may  the adoption of sfas no 
+is not expected to have a significant impact on our consolidated financial statements 
+liquidity and capital resources since our inception  we have financed our operations and capital expenditures through cash provided by operating activities  private sales of preferred and common stock and convertible debt  bank loans  equipment leases  and an initial public offering of our common stock 
+we believe our existing cash  cash equivalents  short term investments and cash generated from operations  if any  will be sufficient to meet our operating requirements for at least the next twelve months  including working capital requirements and capital expenditures 
+we may choose at any time to raise additional capital to strengthen our financial condition  facilitate expansion  pursue strategic acquisitions or investments  or to take advantage of business opportunities as they arise 
+april  dollars in thousands cash  cash equivalents and short term investments restricted cash and cash equivalents percentage of total assets year ended april  in thousands cash provided by operating activities cash provided by used in investing activities cash provided by financing activities net increase decrease in cash and cash equivalents 
+table of contents net cash provided by operating activities was million for the fiscal  compared with million for fiscal this increase was largely attributable to the growth in net income for the fiscal year 
+working capital sources of cash in fiscal included increases in deferred revenue of million  accounts payable of million  accrued payroll and related benefits of million and other accrued liabilities of million 
+deferred revenue increased primarily as a result of an increase in new service contracts sold with our appliances as well as the renewal of service contracts from our expanding installed base  both of which are recognized ratably over the service period 
+accounts payable and accrued liabilities increased during fiscal due to an increase in operating expenses 
+accrued payroll and related benefits increased primarily due to increased headcount and a higher commission accrual 
+working capital uses of cash during fiscal included an increase in our accounts receivable balance of million 
+this increase was largely due to higher net revenues in fiscal and an increase in our days sales outstanding dso 
+our dso increased from days at april  to days at april   which was largely attributable to a greater concentration of revenues recognized in the last month of the quarter of fiscal as compared to fiscal also contributing to working capital uses of cash was an increase in net deferred tax assets of million as a result of the partial release in our valuation allowance 
+net cash provided by investing activities was million for fiscal  compared with million used in investing activities for fiscal net cash used in investing activities for fiscal included million for the purchase of investment securities  million for the purchase of packeteer common stock  and million for the purchase of property and equipment 
+this was offset by the sale of investment securities of million 
+the increased use of cash for property and equipment  as compared to the prior year  was primarily related to purchases of computer equipment  software  furniture and leasehold improvements associated with the growth in our business 
+net cash used in investing activities for fiscal included million for the purchase of investment securities  million in cash consideration and direct costs related to the acquisition of certain assets of the netcache business  and million for the purchase of property and equipment 
+in the future  we expect that any cash in excess of current requirements will continue to be invested in short term investment grade  interest bearing securities 
+through the date of this report  the acquisition of packeteer has been funded by approximately million in cash from internal sources and million in cash from the issuance of convertible notes 
+net cash provided by financing activities was million for fiscal  compared with million net cash provided by financing activities for fiscal the net cash provided by financing activities in fiscal was attributable to proceeds from the issuance of common stock of million and a tax benefit related to stock based compensation of million 
+the net cash provided by financing activities in fiscal was primarily related to the net proceeds received from our sale of series a preferred stock of million 
+on june   we issued million in zero coupon convertible senior notes the notes as well as warrants to purchase an aggregate of  shares of our common stock at an exercise price of in a private placement 
+the notes are convertible into  shares of our common stock at the holders option at any time prior to maturity at a conversion price of 
+the notes do not bear interest 
+we used the million proceeds from the private placement to partially fund the acquisition of packeteer  inc the notes mature in june of unless converted into common stock or accelerated as a result of our default under the notes prior to such date 
+our long term strategy is to maintain a minimum amount of cash and cash equivalents for operational purposes and to invest the remaining amount of our cash in interest bearing and highly liquid cash equivalents and marketable debt securities 
+as of april   cash  cash equivalents  short term investments  and restricted cash totaled million 
+
+table of contents contractual obligations below is a summary of fixed payments related to certain contractual obligations as of april  in thousands year ended april  thereafter total future minimum lease payments purchase and other commitments total we lease certain equipment and office facilities under non cancelable operating leases that expire at various dates through fiscal year the facility leases generally require us to pay operating costs  including property taxes  insurance and maintenance  and contain scheduled rent increases and certain other rent escalation clauses 
+rent expense is recognized in our consolidated financial statements on a straight line basis over the terms of the respective leases after consideration of rent holidays and improvement allowances  if applicable  with any assets purchased using a lessee improvement allowance capitalized as fixed assets and depreciated over the shorter of their useful lives or the lease term 
+in september  we commenced a five year operating lease of a building that serves as our headquarters in sunnyvale  california 
+as part of this agreement  we are required to maintain a million irrevocable standby letter of credit with a major financial institution as a form of security 
+the letter of credit is secured by deposits and provides for automatic annual extensions  without amendment  through the end of the lease term in august the amount of the letter of credit did not change during fiscal the deposits securing the letter of credit are classified as long term restricted cash in the accompanying consolidated balance sheets as of april  and  respectively 
+we amended this lease subsequent to the end of fiscal  as described in note  subsequent events unaudited 
+in addition  we have firm purchase and other commitments with various suppliers and contract manufacturers to purchase component inventory  manufacturing material and equipment 
+these agreements are enforceable and legally binding against us in the short term and a majority of the amounts under these arrangements are due within one year 
+our minimum obligation at april  under these arrangements was million 
+after the close of fiscal  we completed the acquisition of packeteer  and assumed responsibility for outstanding lease and purchase obligations existing at the time of the acquisition 
+we have not completed our review of these agreements  and cannot reasonably estimate the future contractual obligations at this time 
+on april   we entered into a note purchase agreement pursuant to which we agreed to sell million aggregate principal amount of zero coupon convertible senior notes due the notes in a private placement 
+we also agreed to issue warrants to purchase an aggregate of  shares of our common stock at an exercise price of 
+the convertible notes and warrants were issued on june  and expire in june of the notes are convertible into shares of our common stock at the holders option at any time prior to maturity at the initial conversion price of  which represents a conversion premium based on the closing price of blue coat s common stock of per share on april  the notes do not bear interest 
+in connection with our netcache asset acquisition in september  we entered into an escrow agreement pursuant to which we deposited in escrow million  primarily to secure certain indemnification obligations to network appliance related to this transaction until december as of april   the balance in this 
+table of contents escrow account had grown to million and was classified as short term restricted cash equivalents 
+as of april   the escrow agreement had expired  the amounts held in escrow were released  and the related balance was reclassified to cash and cash equivalents in the consolidated balance sheet at april  at april   we had a liability for unrecognized tax benefits of million 
+due to uncertainties with respect to the timing of future cash flows associated with our unrecognized tax benefits at april   we are unable to make reasonably reliable estimates of the period of cash settlement with the respective taxing authority 
+therefore  million of unrecognized tax benefits have been excluded from the contractual obligations table above 
+see note income taxes to our consolidated financial statements for a discussion of income taxes 
+off balance sheet arrangements as of april   we did not have any relationships with unconsolidated entities or financial partnerships  such as entities often referred to as structured finance or special purpose entities  which would have been established for the purpose of facilitating off balance sheet arrangements or for other contractually narrow or limited purposes 
+further  we have not guaranteed any obligations of unconsolidated entities  nor do we have any commitment or intent to provide funding to any such entities 
+as such  we are not materially exposed to any market  credit  liquidity or financing risk that could arise if we had engaged in such relationships 
+we did not have any off balance sheet transactions  arrangements  or obligations that are reasonably likely to have a material current or future effect on our financial condition  results of operations  liquidity  or capital resources 
+item a 
+quantitative and qualitative disclosures about market risk interest rate risk we are subject to certain market risks  including changes in exchange rates and interest rates 
+we do not undertake any specific actions to cover our exposures to exchange and interest rate risks  and we are not a party to any interest and exchange rate risk management transactions 
+we also do not purchase or hold any derivative financial instruments for speculative or trading purposes 
+as of april   cash  cash equivalents and short term investments totaled million  million of which is classified as restricted 
+these investments are primarily held in money market funds  commercial paper and corporate securities 
+we adhere to an investment policy that is intended to ensure the safety and preservation of our invested funds by limiting default risk  market risk and reinvestment risk 
+the fair value of our investment portfolio would not be significantly impacted by either a basis point increase or decrease in market interest rates  due principally to the short term nature of the majority of our investment portfolio 
+foreign currency exchange rate risk we sell our products throughout the world 
+as a result  our financial results could be affected by factors such as changes in foreign currency exchange rates or weak economic conditions in foreign markets 
+because all of our sales are currently billed and collected in us dollars  a strengthening of the dollar could make our products less price competitive in foreign markets 
+on the other hand  a weakening of the dollar could make our products more price competitive in foreign markets 
+if the events described above were to occur  our net revenue and earnings could be materially affected  since a significant portion of our net revenue and earnings are derived from international operations 
+for the fiscal years  and  approximately  and respectively  of our total net revenue were derived from customers outside of north america 
+further  substantially all of the expenses of operating our foreign subsidiaries are incurred in foreign currencies 
+as a result  our us dollar earnings and net cash flows from international operations may be affected by changes in foreign currency exchange rates 
+however  we do not consider the market risk associated with our international operations to be material 
+we do not currently use derivative financial instruments for hedging or speculative purposes 
+
+table of contents 
