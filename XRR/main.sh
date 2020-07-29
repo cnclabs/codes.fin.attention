@@ -1,8 +1,8 @@
-# Merge dataset (10-K reports and the post-event volatities) and generate data.pkl
-#python3 MergeCorpus.py
+#Merge dataset (10-K reports and the post-event volatities) and generate data.pkl
+python3 MergeCorpus.py
 
 # Pre-processing the Corpus (add porter_stop column in data.pkl)
-#python3 Preprocessing.py
+python3 Preprocessing.py
 
 # Generate Word2vec Matrix of each year
 python3 ./word2vec/Word2vec.py
